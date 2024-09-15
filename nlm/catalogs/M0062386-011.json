@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0062386-011",
+    "input_file_number": "W1NLM4468-I1NLM4468",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,RGYAL PO SKU LNGA'I 'BUL BA'I GSHEGS GTOR ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@003A *, ,(CES PA 'DI NI RGYAL CHEN SKU LNGA'I 'BUL BA'I GSHEGS GTOR 'DI NI PADMA 'BYUNG GNAS GZHUNG LAS HA SA BADZRA SBYAR BA'O, ,MANGGA LAm, ,)",
+    "author_simple": "HA SA BADZRA,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-3A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "27.5x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "33.5x7.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T13:25:35.162489+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "nlm_catalog": "M0066924-034",
+    "input_file_number": "W1NLM9006-I1NLM9006",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,DPAL RDO RJE 'JIGS BYED DPA' BO GCIG PA'I SGRUB THABS MDOR BSDUS BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@003B (CES PA 'JIGS BYED DPA' BCO GCIG PA'I MNGON RTOGS 'DI @004A *, ,'DRA BU ZHIG DGOS ZHES DPYOD LDAN BZANG PO DAR RGYAS KYIS NAN BTAN BSKUL BA'I NGOR, BTZUN GZUGS ^BLO BZANG CHOS KYI NYI MAS DPAL LDAN 'BRAS SPUNGS SU SBYAR BA'O, ,BKRA SHIS, ,)",
+    "author_simple": "BLO BZANG CHOS KYI NYI MA,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-5A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "17x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "22.5x9",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "publisher_(хэвлэсэн_буюу_бүтээсэн_хийд_буюу_бархан)": "DPAL LDAN 'BRAS SPUNGS,",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T17:16:18.964972+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

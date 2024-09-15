@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0061082-019",
+    "input_file_number": "W1NLM3164-N1M3164",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,CHOS SKYONG LCAM SRING GI GTOR CHOG BSDUS PA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@003B (CES CHOS SKYONG LCAM SRING GI MDOR CHOG BSDUS PA 'DI'ANG, LEGS BSHAD RGYAL MTSAN GYI RGYUN GSOL DU DGOS TSUL LTAR, ^ MKHAN MING WAG'INDRA PA tU SIDDHIS BRIS PA'O,, ,,)",
+    "author_simple": "WAGINDRA PA tU SIDDHI,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-3B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "48x8",
+    "size_of_pages_(хуудасны_хэмжээ)": "62x10.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T06:18:02.793798+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

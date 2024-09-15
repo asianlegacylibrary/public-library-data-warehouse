@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0059042-012",
+    "input_file_number": "W1NLM1129-I1N1M1129",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,BCOM LDAN 'DAS RNAM PAR SNANG MDZAD KYI CHO GA RGYUD DON GSAL BA 'GREL PA DANG BCAS PA NAS 'BYUNG BA'I PHYAG RGYA'I RNAM PAR BZHAG PA'I ZUR BKOL BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@013B (CES RGYUD DON GSAL BA'I LHAN THABS KYI ZUR BKOL RAB GSAL MKHAS PA DGYES PA'I MCHOD PA ZHES BYA BA 'DI NYID KYANG RAB 'BYAMS SMRA BAR GRAGS SHING SNYOM LAS PA BSHAD SGRUB MING CAN GYIS GZHAN 'GA' ZHIG LA PHAN CHED DANG RANG GI BRJED THOR BSAM NAS BRIS PA'O, ,)",
+    "author_simple": "BSHAD SGRUB MING CAN,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-13B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "38x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "42.5x8.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T05:49:59.085969+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

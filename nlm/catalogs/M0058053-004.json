@@ -1,0 +1,23 @@
+{
+    "nlm_catalog": "M0058053-004",
+    "input_file_number": "W1NLM140-I1NLM140",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,MA MO BZLOG PA'I MDOS RGYAS PA BZHUGS SO, ,NYI MA 'DO ZER GYI MDO'I GSER SKYEMS BZHUGS SO, ,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Medium",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-6A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "30x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "34x8",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T05:29:00.247864+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

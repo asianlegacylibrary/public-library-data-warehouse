@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0063223-011",
+    "input_file_number": "W1NLM5305-I1NLM5305",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,SNANG SRID DREGS PA'I RJE BO LHO PHYOGS YON TAN RGYAL PO'I GSOL MCHOD 'PHRIN LAS DNGOS GRUB CHAR 'BEBS ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@050A *, ,(CES DREGS PA'I TSUL BZUNG RGYAL CHEN SKU LNGA'I NANG TSAN LHO PHYOGS YON TAN GYI RGYAL PO SHING BYA CAN GANG NYID NAS 'PHRIN BSKUL GYI RIM PA 'DI LTA BU ZHIG DGOS ZHES BKA'I BSKUL MA NAN CHER MDZAD PA BRTEN BKA' NGO MA LDOG TZAM GYI GA-YAR KHRAL LTA BUR RIG 'DZIN NGAG GI SDES SBYAR BA DGYES PA SKONGS PA'I DAM RDZAS SU GYUR CIG , ,,DZA YANTU, ,)",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-5A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "38x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "50x10",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T07:36:27.868957+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

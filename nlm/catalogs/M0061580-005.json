@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0061580-005",
+    "input_file_number": "W1NLM3662-I1NLM3662",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,THAR LAM SNYING BTAM ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@004A *, ,(CES PA 'DI NI RANG GI SLOB BU RNAMS 'DI LTA BU ZHIG DGOS ZHES BSKUL BA LTAR YANG RANG 'DRA BA LA PHAN 'BYUNG ZHES @004B SEMS NI BAN RGAN SNYOMS LAS NGAG DBANG TSUL KHRIMS RIN CHEN GYIS BRIS PA'O,, ,,SARBA MANGGA LAm, ,)",
+    "author_simple": "NGAG DBANG TSUL KHRIMS RIN CHEN,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-4B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "22.5x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "30.5x7.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T12:41:38.384730+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0062948-020",
+    "input_file_number": "W1NLM5030-I1NLM5030",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,LHAG PA'I LHA MCHOG BCOM LDAN GZIGS PA CHEN PO'I TSOGS MCHOD BDE CHEN ROL MTSO ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@004A *, ,(ZHES LHAG PA'I LHA MCHOG BCOM LDAN GZIGS PA CHEN PO'I TSOGS MCHOD BDE CHEN ROL MTSO ZHES BYA BA 'DI NI DGOS DBANG GIS RIG 'DZIN GZI BRJID RDO RJES BRIS PA'O, ,CHOS BDAG MKHA' 'GROS BZOD PAR GSOL, 'DIS KYANG THEG PA MCHOG GI LAM BZANG BAR CHAD MED PAR RGYAS PAR BYED NUS PAR GYUR CIG ,BKRA SHIS DGE LEGS 'PHEL, ,MANGGA LAM, ,)",
+    "author_simple": "GZI BJID RDO RJE, ",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-6A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "28x7.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "34x10",
+    "text_format_(бичвэрийн_төлөв)": "MS ",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T04:25:19.800244+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0058695-001",
+    "input_file_number": "W1NLM782-I1NLM782",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,RTEN 'BREL GYI MTHA' DPYOD LUNG DANG RIGS PA'I GTER MDZOD BLO GSAL DGA' BA BSKYED PA'I PHRENG MDZES BZHUGS SO,, ,,",
+    "colophon_(төгсгөлийн_үг)": "@058A *, ,(CES PA'I DPAR BYANG SMON TSIG 'DI NI ^GONG GSAL DPAR GYI RGYU SBYAR BA POS LHA GOS BCAS BSKUL NGOR ^SH'A SA DHA RA'I MING CAN GYIS BRIS, ,BYANG PHYOGS PO'I RI YAD KYI CHOS SDE CHEN PO BDE CHEN LHUN GRUB GLING NAS DPAR DU BSGRUBS, ,MANGGA LAm,, ,,)",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-58A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "49x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "53x9",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "publisher_(хэвлэсэн_буюу_бүтээсэн_хийд_буюу_бархан)": "BDE CHEN LHUN GRUB GLING,",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T00:28:06.235811+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0066548-002",
+    "input_file_number": "W1NLM8630-I1NLM8630",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,SGROL MA LJANG GU'I BZLOG BSGYUR NI, ,",
+    "colophon_(төгсгөлийн_үг)": "@012A *, ,(CES RJE BTZUN MA'I 'PHAGS MA SGROL MA'I BZLOG BSGYUR MIN SPUN BDUD LAS RNAM RGYAL @012B ZHES BYA BA 'DI NI, BLA MA DKON MCHOG GSUM LA MI PHYED DANG GUS LDAN PA DGE BA'I LAS LA RAB BRTZON DGE SLONG KUN DGA' NYI MA'I BSKUL BA'I NGO MCHOG PAR BKA' 'DRIN GSUM LDAN RTZA BA'I BLA MA ZHABS KRUNG GI SPYI BOR LEN PAR BKA' LUNG GI TZUNG YON PA BYANG PGYOGS SOGS PO'I GNAS PA'I 'KHOR LO MYOS SANG RAB MYOS SHIN TU SPRA` `SHAL PHYOGS MED SPRANG BTZUN NAS SU MA TI MI 'CHANG MOD 'AM LAS KYANG RTZA BRGYUD KYI GZHUNG LAS BSGRIGS PA'I YE SHES SA RI BAm DPYOD PAN LDAN PA'I TSUL KHRIMS RNAM DAG DGE SLONG BLO BZANG PO'I SNGON GYI MKHA'I [...]",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "MEDIUM",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-12B INC [*Missing page from 13a*]",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "26x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "29.5x8",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T17:06:41.464249+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

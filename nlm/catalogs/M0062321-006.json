@@ -1,0 +1,23 @@
+{
+    "nlm_catalog": "M0062321-006",
+    "input_file_number": "W1NLM4403-I1NLM4403",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,GSANG BA'I BDAG PO DPAL PHYAG NA RDO RJE'I BSKANGS BSHAGS BSTOD BSKUL DANG BCAS PA BZHUGS SO, ,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "MEDIUM",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-17B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "18x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "21x9",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T03:38:23.182993+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

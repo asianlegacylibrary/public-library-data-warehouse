@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0063258-003",
+    "input_file_number": "W1NLM5340-I1NLM5340",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "LW",
+    "full_title_(бүтэн_гарчиг)": "*, ,GRANGS KYI SGRA RNAMS RTAGS GSUM DANG SBYAR BA'I DPER BRJOD BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@210B (ZHES PA 'DI YANG LAS DANG PO PA RNAMS LA PHAN PA'I PHYIR DU RMONGS RTUL SH'A SA NAS SUG BRIS SU BGYIS PA DGE LEGS 'PHEL, ,)",
+    "author_simple": "SH'A SA NA,",
+    "cover_type_(хавтасны_төрөл)": "WOODEN COVER",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "KA PA,",
+    "page_numbers_(хуудасны_дугаар)": "207B-211A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "48x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "56x9.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T04:42:06.540332+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0057934-009",
+    "input_file_number": "W1NLM40-I1NLM40",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,RGYAL BA BKA' SDOD BSTAN 'GRO'I DON BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@008A *, ,CES 'DI DPAL MGON BZHAD PA'I RDO RJE MING CAN GYIS SMRAS PA'O, , MANGGA LAm,, ,,)",
+    "author_simple": "DPAL MGON BZHAD PA'I RDO RJE,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "6B-8A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "14x5",
+    "size_of_pages_(хуудасны_хэмжээ)": "16.5x6.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-13T23:28:56.057985+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

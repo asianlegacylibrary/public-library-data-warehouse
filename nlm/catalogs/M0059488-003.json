@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0059488-003",
+    "input_file_number": "W1NLM1570-I1NLM1570",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,SKYES RABS GSOL 'DEBS DAD PA'I LJON BZANG ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@004B (SH'AKYA'I DGE SLONG BLO BZANG BSTAN PA CHOS 'PHEL DPAL BZANG POS DZA YA PAndI TA THO THOG THU CHEN PO'I PHO BRANG DU SBYAR BA'O, ,DGE'O, ,)",
+    "author_simple": "BLO BZANG BSTAN PA CHOS 'PHEL,",
+    "cover_type_(хавтасны_төрөл)": "WOODEN BOX",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-5B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "13x5",
+    "size_of_pages_(хуудасны_хэмжээ)": "17.5x7.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T01:05:54.724233+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

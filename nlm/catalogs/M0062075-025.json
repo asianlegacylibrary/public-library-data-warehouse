@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0062075-025",
+    "input_file_number": "W1NLM4157-I1NLM4157",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,DGUN GYI RGYAL MO'I BSANGS MCHOD BAR CHAD KUN SEL ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@004B (CES PA 'DI NI RI KHROD PA NGAG DBANG CHOS KYI RGYA MTSO MING CAN GYIS BRAL DU BRIS PA'O, ,DGE'O, ,MANGGA LAm, ,)",
+    "author_simple": "NGAG DBANG CHOS KYI RGYA MTSO,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-4B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "17x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x6.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T13:02:47.092983+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

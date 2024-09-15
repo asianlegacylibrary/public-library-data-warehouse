@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0058381-011",
+    "input_file_number": "W1NLM468-I1N1M468",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,RJE BTZUN 'PHAGS PA 'JAM DPAL GYI MDZAD PA'I BSGYUR GTO BCU DGU PA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@012B (ZHES GTO BZLOG BCU DGU PA 'DI NI, BLA MA RDO RJE GRO LONG PAS BSTAN PA DANG 'GRO BA'I DON DU SNGON GYI DPE RNYING LA GTUGS TE MDZAD PA'O, ,BKRA SHIS, ,)",
+    "author_simple": "PHAGS PA 'JAM DPAL,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Medium",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "poor",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-12B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "25x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "32.5x7.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T05:41:31.846322+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

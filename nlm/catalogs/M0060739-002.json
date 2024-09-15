@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0060739-002",
+    "input_file_number": "W1NLM2821-I1NLM2821",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,MTSAN BRJOD KYI SMON LAM NI, ,",
+    "colophon_(төгсгөлийн_үг)": "@036A *, ,('DI NI RJE RIN PO CHE BLO BZANG GRAGS PA'I DPAL GYIS YAR GLUD JO BO LO GDAMS PA LAS ZUR DU PHYUNG BA'O, ,DGE'O, ,)",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "34B-36A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "14x4.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x7",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T12:19:22.995612+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

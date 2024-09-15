@@ -1,0 +1,23 @@
+{
+    "nlm_catalog": "M0059423-004",
+    "input_file_number": "W1NLM1505-I1NLM1505",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,CHOS SKYONG DREGS PA LCAM SRING GI MNGON RTOGS BSKANG BSHAGS BSTOD BSKUL DANG BCAS PA BZHUGS SO, ,",
+    "cover_type_(хавтасны_төрөл)": "WOODEN BOX",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "TA PA,",
+    "page_numbers_(хуудасны_дугаар)": "1A-22A INC [*missing page from 6A-7B*]",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "38x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "42.5x8",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T01:00:10.885021+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0063035-021",
+    "input_file_number": "W1NLM5117-I1NLM5117",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,THUN MTSAMS KYI NYAMS LEN NAG CES BSDUS NYER KHO BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@010A *, ,(ZHES PA'ANG DAM PA'I GSUNG LAS BTUS TE GYI NA PA AAKYA HU THOG THU YONGS 'DZIN RIN PO CHE DBYANGS CAN DGA' BA'I BLO GROS KYIS BRIS PA'O,, ,,)",
+    "author_simple": "DBYANGS CAN DGA' BA'I BLO GROS,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-10A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "17x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x7",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T07:33:31.094834+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

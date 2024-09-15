@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0060407-013",
+    "input_file_number": "W1NLM2489-I1NLM2489",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,RJE BTZUN 'PHAGS MA SGROL MA LA SNYIGS MA'I RGUD PA ZHI BA'I GSOL 'DEBS PHAN BDE CHAR 'BEBS ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@003B (CES PA RJE BTZUN 'PHAGS MA SGROL MA LA SNYIGS MA'I RGUD PA ZHI BA'I GSOL 'DEBS PHAN BDE CHAR 'BEBS ZHES BYA BA 'DI NI, CHER SNYIGS DUS KYI RGUD PA RNAM PA SNA TSOGS DAR BA'I DUS SU SKYO NA SKYE BA'I SGO NAS, ,^RA SGRENG YANG DGON PA'I SKYE MING MKHAS CHEN NGAG DBANG 'PHRIN LAS RGYA MTSOS SBYAR BA'I NGANG NAS GSOL BA BTAB PA'O,, ,,)",
+    "author_simple": "NGAG DBANG 'PHRIN LAS RGYA MTSO,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-3B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "18.5x7.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x9",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T12:05:56.164992+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

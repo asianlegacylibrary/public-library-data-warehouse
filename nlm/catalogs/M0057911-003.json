@@ -1,0 +1,40 @@
+{
+    "nlm_catalog": "M0057911-003",
+    "input_file_number": "W1NLM17-I1NLM17",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,BYANG CHUB SEMS DPA'I NOR BU'I PHRENG BA BZHUGS,",
+    "colophon_(төгсгөлийн_үг)": "@007A *, ,(RGYA GAR GYI MKHAN PO DPAL LDAN MAR ME MDZAD BZANG PO YE SHES SNYING POS @007B MDZAD PA, BYANG CHUB SEMS DPA'I NOR BU'I PHRENG BA RDZOGS S+HO,, ,,)",
+    "author_simple": "DPAL LDAN MAR ME MDZAD BZANG PO YE SHES SNYING PO,",
+    "cover_type_(хавтасны_төрөл)": "PAPER COVER",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-7B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "13x4.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "19.5x7.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-13T22:55:55.743507+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-09-13T22:57:56.145815+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "updated"
+        },
+        {
+            "timestamp": "2024-09-13T23:04:30.174755+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "updated"
+        },
+        {
+            "timestamp": "2024-09-13T23:26:06.672575+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "updated"
+        }
+    ]
+}

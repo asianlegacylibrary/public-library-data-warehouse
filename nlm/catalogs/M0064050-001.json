@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0064050-001",
+    "input_file_number": "W1NLM6132-I1NLM6132",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,SGRIB GNYIS DAG PA'I MA'I MCHAN 'GREL BZHAD RGYAS DGA' STON ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@014A *, ,(CES SGRIB GNYIS DAG PA'I MA'I MCHAN 'GREL BZHAD RGYAS DGA' STON ZHES BYA BA 'DI NI, RNAM DPYOD YANGS PA'I MCHOD DPON LAS KYI RDO RJE TSE RING RDO RJES BSKUL BA'I NGOR ^BTZUN GZUGS PADMA TSE RING GIS SHAR GRVA SA CHEN MO DPAL @014B LDAN 'BRAS SPUNGS BKRA SHIS TSE 'PHEL GLING GI NYE 'DAB BYANG NGOS KYI BRAG RI'I KHROD DU BRIS PA'O,, ,,)",
+    "author_simple": "PADMA TSE RING,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-14B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "32x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "37.5x8",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T08:01:48.755593+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

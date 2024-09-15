@@ -1,0 +1,26 @@
+{
+    "nlm_catalog": "M0066043-021",
+    "input_file_number": "W1NLM8125-I1NLM8125",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "#, ,LHA LAS PHUL DU BYUNG BAR BSTOD PA ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@006A *, ,LHA LAS PHUL DU 'BYUNG BA'I BSTOD PA SLOB DPON BDE BYED BDAG POS MDZAD PA RDZOGS SO, ,RGYA GAR GYI MKHAN PO SARBA DZNY'A DE WA DANG, LO TZ'A BA BANDE RIN CHEN MCHOG GIS BSGYUR, ZHU CHEN GYI LO TZ'A BA BANDE DPAL BRTZEGS RAKshI TAS ZHUS TE GTAN LA@006B PHAB PA'O, ,",
+    "author_simple": "BDE BYED BDAG PO,",
+    "translator_(орчуулагч)": "SARBA DZNY'A DE WA, RIN CHEN MCHOG",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "KA PA,",
+    "page_numbers_(хуудасны_дугаар)": "1A-6B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "15.5x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "21.5x8.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T16:18:07.035036+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

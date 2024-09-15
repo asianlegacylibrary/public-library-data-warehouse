@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0063800-004",
+    "input_file_number": "W1NLM5882-I1NLM5882",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "#, ,YUM CHEN MO SHER SNYING GI BZLOG BSGYUR BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@002B (SGROL MA SHER SNYING GANG RUNG GI BZLOG PA BYA, AA KA RO GSUM GYIS GZHI BDAG GI GTOR MA 'BUL, BZLOG PA BYA, 'DI NI THABS NI AER TE NI MKHAN CHEN CHOS KYI RGYAL POS SBYAR BA'O, ,DGE LEGS 'PHEL,, ,,)",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-2B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "24.5x7.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "29x9.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T14:24:51.066243+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

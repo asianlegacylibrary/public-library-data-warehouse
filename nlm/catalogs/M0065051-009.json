@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0065051-009",
+    "input_file_number": "W1NLM7133-I1NLM7133",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,SLOB DPON PADMA MDZAD PA DMAR PO BTZAN MDOS YA BA SKYA BDUN ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@003A *, ,(BTZAN GYI YA BA SKYA BDUN GYI MDOS RDZOGS SO, ,SLOB DPON PADMA 'BYUNG GNAS KYIS MDZAD PA'O, ,BKRA SHIS PAR GYUR CIG , ,,)",
+    "author_simple": "SLOB DPON PADMA 'BYUNG GNAS,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-3A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "23.5x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "28x7.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T08:52:27.649142+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

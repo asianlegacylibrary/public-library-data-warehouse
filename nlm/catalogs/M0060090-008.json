@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0060090-008",
+    "input_file_number": "W1NLM2172-I1NLM2172",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@004B DAL 'BYOR DON CHE DANG RNYED DKA' BSAMS NA, ,DON MED BYA BA LA BKOL BA PHANG NGO, ,NAM 'CHI NGES MED DANG BZLOG @005A *, ,MED BSAMS NA, ,BAG MED SOS DAL DU SDOD PA 'KHRUL LO, ,]",
+    "colophon_(төгсгөлийн_үг)": "@005B (ZHES PA'ANG RJE NYID KYI GSUNG YIN NO, ,)",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "4B-5B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "16x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "20.5x7",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T01:44:14.345109+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

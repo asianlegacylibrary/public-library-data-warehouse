@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0062406-010",
+    "input_file_number": "W1NLM4488-I1NLM4488",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@040A *, ,LO GSAR GYI TSES GCIG LA DPAL LDAN LHA MO LA MCHOD GTOR RTEN RDZAS 'BUL BA 'DOD PAS,]",
+    "colophon_(төгсгөлийн_үг)": "@042A *, ,(ZHES PA 'DI NI RGYAL DBANG THAMS CAD MKHYEN PA SNYAN DAR ZHAL YIG DU SBYAR BA'O, ,)",
+    "author_simple": "RGYAL DBANG THAMS CAD MKHYEN PA,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Medium",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Medium",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "40A-42A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "32x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "37.5x8.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T06:50:32.387567+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

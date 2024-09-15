@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0058000-004",
+    "input_file_number": "W1NLM87-I1NLM87",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,SPYAN RAS GZIGS KYI BLA BRGYUD BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@002A *, ,(ZHES LUGS GNYIS KYI RGYUD 'BEBS 'DI YANG BSNYUNGS PAR GNAS PA'I CHO GA'I ZUB DU SKAL MNYAM DGA' LA NYE BAR MKHO 'AM SNYAM PA'I LHAG BSAM @002B. BZANG POS SBYAR BA'I YI GE PA NI DBU MDZAD DGE SLONG BSTAN PA BKRA SHIS SO, ,)",
+    "author_simple": "LHAG BSAM BZANG PO,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "MEDIUM",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-2B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "30x8.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "35.5x10",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-13T23:32:46.286866+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

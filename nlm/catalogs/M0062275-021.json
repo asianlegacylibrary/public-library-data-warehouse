@@ -1,0 +1,26 @@
+{
+    "nlm_catalog": "M0062275-021",
+    "input_file_number": "W1NLM4357-I1NLM4357",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,KHYAD PAR DU 'PHAGS PA'I BSTOD PA ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@015A *, ,RGYA GAR GYI MKHAN PO SARBA DZNY'A DE B'A DANG, ZHU CHEN GYI LO TZ'A BA RIN CHEN MCHOG GIS BSGYUR, SLAD KYI BANDE DPAL BRTZEGS RAKshI TAS BSGYUR CING ZHUS TE GTAN LA PHAB PA'O,, ,,",
+    "translator_(орчуулагч)": "SARBA DZNY'A NA DE WA, RIN CHEN MCHOG",
+    "editor_(хянан_тохиолдуулагч)": "DPAL BRTZEGS RAKshI TA,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-15A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "18x5",
+    "size_of_pages_(хуудасны_хэмжээ)": "21.5x7",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T13:14:51.641148+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0066398-018",
+    "input_file_number": "W1NLM8480-I1NLM8480",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,'PHAGS PA BCU GCIG ZHAL LA SPYAN RAS GZIGS KYI SGO NAS BYABS KHRUS BYA TSUL BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@008B (MA RIG SRID MUN 'THIB PA'I BOD KHAMS LA, ,PHAN BDE 'OD STONG 'BYED PA'I PAD DKAR 'DZIN, ,DE YI SGO NAS BYABS BRUNG BYA TSUL 'DI, ,RNAM DPYOD LDAN PA'I DGE SLONG RNAM RGYAL GYIS, ,BZHED PA BSKONGS PHYIR DGE SLONG MA NI PA, ,DBEN GNAS DE WI KO TA'I GNAS SU SBYAR, ,DE YI DGE BA'I MA GYUR SEMS CAN RNAMS, ,'PHAGS PAS RJES SU 'DZIN PA'I RGYU RU BSNGO,, ,,)",
+    "author_simple": "RNAM RGYAL,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-8B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "25x8.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "30x9.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T16:57:51.529071+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

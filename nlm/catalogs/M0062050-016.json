@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0062050-016",
+    "input_file_number": "W1NLM4132-I1NLM4132",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,RTZANGS BZLOG BYA TSUL SRID GSUM GA-YOS GUL MTSON CHA 'THAG PA ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@004B (SMRAS PA, BLA MA DAM PA'I MDZAD PA YANG GSANG GI ,GTOR BZLOG LAS KYANG RTZANGS DPE TSIG BLANGS STE, ,RANG GZHAN KUN LA PHAN SNYAM BSAMS PA YI, ,YON TAN MKHAS PA RNAMS KYIS BZOD PAR MDZOD, ,LEGS SO, ,)",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-4B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "31x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "36x8",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T03:11:26.665810+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

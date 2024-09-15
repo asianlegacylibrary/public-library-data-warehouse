@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0061168-003",
+    "input_file_number": "W1NLM3250-I1NLM3250",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,MGRON MCHOG DMAN LA 'BRUL RGYU'I MCHOD GTOR BYIN BRLOB BYA TSUL LAG LEN DANG BCAS PA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@007B ZHES PA'I DON MKHAS DBANG BYA BRAL BLO BZANG RIN CHEN GYIS BKRAL BA LTAR BKOD DO,, ,,",
+    "author_simple": "BLO BZANG RIN CHEN,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "GA PA,",
+    "page_numbers_(хуудасны_дугаар)": "1A-7B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "43x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "52.5x9.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T02:32:05.612551+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

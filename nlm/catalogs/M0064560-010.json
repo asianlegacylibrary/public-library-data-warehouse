@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0064560-010",
+    "input_file_number": "W1NLM6642-I1NLM6642",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,'DIR DGA' LDAN LHA BRGYA MA'I MAN NGAG GI SNYING PO 'CHI BA'I DUS SU DES PAR DGOS PA 'PHO BA'I MAN NGAG BSDUS PA NYAMS SU LEN TSUL NI, ,",
+    "colophon_(төгсгөлийн_үг)": "@006B ZHES PA 'DI NI DGE SBYONG TSUL CHOS PA ^AA MO GHA SIDDHI BADZRA GYIS SBYAR BA'O, ,SA MA YA RGYA: RGYA: RGYA:",
+    "author_simple": "AA MO GHA SIDDHI BADZRA,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1B-6B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "15x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "18x7.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T14:51:38.091316+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0065929-009",
+    "input_file_number": "W1NLM8011-I1NLM8011",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,BKRA SHIS BRTZEGS PA'I MDOS GLUD LHAN THABS BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@016A *, ,(CEES PA 'DI NI BKRA SHIS BRTZEGS PA'I MDOS GLUD LHAN THABS DANG BCAS PA 'DI NI @016B ZAS NOR CHUD ZA BA, PHYUGS LA GOD HA 'BYUNG BU 'TZA' BA KHYIM GSAR BUB PA RNAMS LA BYAS NI SHIN TU PHAN PA YIN, ,BRKA SHIS GA-YANG SKYABS PA'I SNGON DU 'GRO DGOS PA SHIN TU GAL CHE, 'DI NI BKRA SHIS BRTZEGS PA'I MDO LAS 'BYUNG BA YIN NO, ,BKRA SHIS DPAL 'BAR 'DZAM GLING BRGYAN DU SHOG ,)",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-16B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "15x7.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "21.5x9",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T16:07:51.440642+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

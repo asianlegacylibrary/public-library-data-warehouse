@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0059276-003",
+    "input_file_number": "W1NLM1358-N1M1358",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,'PHAGS PA TSE DANG YE SHES DPAG TU MED PA ZHES BYA BA THEG PA CHEN PO MDO BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@009A *, ,BCOM LDAN 'DAS KYI GSUNGS PA LA MNGON PAR BSTOD DO, ,'PHAGS PA TSE DANG YE SHES DPAG TU MED PA ZHES BYA BA THEG PA CHEN PO'I MDO RDZOGS SO, ,BKRA SHIS 'BAR GYUR CIG , ,,",
+    "author_simple": "SH'AKYA THUB PA,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Medium",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Medium",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-9A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "34x8",
+    "size_of_pages_(хуудасны_хэмжээ)": "41x10.7",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T05:53:27.186094+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0063973-019",
+    "input_file_number": "W1NLM6055-I1NLM6055",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "#, ,SMON TSIG BSLU MED MCHOG GSUM MA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@004B (CES DGE SLONG NGAG DBANG BSTAN 'DZIN GYIS 'DI LTA BU ZHIG DGOS ZHES NAN GYIS BSKUL NGOR BTZUN PA NAS SENGGES BSGRIGS PA'I YI GE PA NI DGE TSUL 'JAM DBYANGS BSAM GRUB PO,, ,,MANGGA LAm,, ,,)",
+    "author_simple": "NAS SENGGE,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "4A-4B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "34x8.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "43x11",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T14:30:57.006612+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

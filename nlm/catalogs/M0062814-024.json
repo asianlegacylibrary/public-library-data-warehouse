@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0062814-024",
+    "input_file_number": "W1NLM4896-I1NLM4896",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,RJE BTZUN MA LHA MO KU RU KULLE SGRUB THABS MAN NGAG BZHUGS SO, , *, ,RJE BTZUN MA KU RU KULLE BRTEN NAS MI NOR LONGS SPYOD DUS PHYIR SKONGS 'BUL TSUL BZHUGS SO, , *, ,RJE BTZUN MA KU RU KULLE MAN NGAG CHU SBYIN BYA TSUL BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@003B CES SUM PA MKHAN PO AER TE NI PAndI TAR GRAGS PAS RNAM RGYAL LO'I CHU STOD ZLA BA'I MAR NGO'I RGYAL BA GSUM PO'I SNGA DROR SBYAR BA'I YI GE PA SMYUG THOGS DBANG PO AOR HU SU PA GU SH'RI DGE SLONG BKRA SHIS BSAM 'GRUB PA'O, ,BKRA SHIS, ,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-3B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "28x8",
+    "size_of_pages_(хуудасны_хэмжээ)": "35.5x11",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T13:50:12.962407+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0058379-024",
+    "input_file_number": "W1NLM466-I1N1M466",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,RLUNG RTA'I LHA LA BSANGS  MCHOD 'BUL TSUL BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@005B ('DI LTAR BGEGS SEL THOGS 'BYIN YAN LAG TU, ,'GYUR BA SRID SNYAM CHOS MING NGAG DBANG PAS, ,YIG RNYING 'GA' LA BRTEN NAS SPEL BA YIN,,)",
+    "author_simple": "NGAG DBANG,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Medium",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-5B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "20x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "24x9",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T05:41:26.151906+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

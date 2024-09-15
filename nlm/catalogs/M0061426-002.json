@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0061426-002",
+    "input_file_number": "W1NLM3508-I1NLM3508",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,'PHAGS YUL RIG 'DZIN MCHOG BRGYAD KYI GSOL 'DEBS DANG, KUN MKHYEN CHEN PO'I MTSAN BRGYAD GSOL 'DEBS, ,RDZOGS CHEN RANG BYUNG RDO RJE'I SKYES RABS GSOL 'DEBS BCAS BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@006A *, ,(CES PAR BYANG NYUN BSDUS 'DI YANG SHAR RGYAL MO RONG GI SNGAGS BTZUN PA PADMA RANG [???] GYIS SMRAS PA'O, ,SARBA MANGGA LAm, ,)",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-6A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "34x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "36.5x8.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T12:35:52.956535+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

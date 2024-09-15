@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0062322-013",
+    "input_file_number": "W1NLM4404-I1NLM4404",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,LAS BZHI MYUR DU 'GRUB PA'I LAM BSANGS BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@004B (CES 'PHRIN LAS RNAM BZHI BSGRUB PA'I PHYIR DU PHYOGS BZHI MTSAMS BZHI 'GRO BA'I MGRO RNAMS KYIS BSANGS MCHOD 'BUL BA'I 'DI GRUB CHEN RNAL 'BYOR GYIS MDZAD PA'O, ,BKRA SHIS PAR GYUR CIG ,)",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-4B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "15x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "20x7.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T03:38:44.519627+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

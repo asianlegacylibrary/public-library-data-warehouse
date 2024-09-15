@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0061007-009",
+    "input_file_number": "W1NLM3089-I1NLM3089",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@029A *, ,PHRENG BA 'DZIN PAS SKYE 'GRO RTZIS LA 'DEBS, ,dA MA RU YIS MKHA' 'GRO DBANG DU SDUD, ,'JIG RTEN 'DAS PA'I GTZO LA PHYAG 'TSAL LO, ,]",
+    "colophon_(төгсгөлийн_үг)": "@031A *, ,(MEE TRI PAS ZHAL GZIGS DU BSTOD PA'O,, ,,)",
+    "author_simple": "MEE TRI PA,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "GA PA,",
+    "page_numbers_(хуудасны_дугаар)": "29B-31B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "28.5x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "35.5x7",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T12:27:18.530919+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

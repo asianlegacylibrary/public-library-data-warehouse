@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0061956-010",
+    "input_file_number": "W1NLM4038-I1NLM4038",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@006A *, ,GNAS MCHOG MKHA' SPYOD YUL NA BZHUGS PA'I, MA DANG MRA BO DAM CAN TSOGS LA @006B NYAMS THAG DANG DPE 'DOD 'BOD DO,]",
+    "colophon_(төгсгөлийн_үг)": "@006B (CES PA 'DI YANG SER GZUGS 'JAM PA'I MING CAN GYIS BRIS PA'O, ,)",
+    "author_simple": "JAM PA'I MING CAN,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "6A-6B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "33.5x4",
+    "size_of_pages_(хуудасны_хэмжээ)": "38x6.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T03:03:50.945004+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

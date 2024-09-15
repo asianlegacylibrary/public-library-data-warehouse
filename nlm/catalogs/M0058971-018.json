@@ -1,0 +1,23 @@
+{
+    "nlm_catalog": "M0058971-018",
+    "input_file_number": "W1NLM1058-I1N1M1058",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,BLA MA'I DAM TSIG NYAMS PA'I NYES PA SBYONG THABS ZAB MO CHU GTOR 'JAM DPAL MAR GRAGS PA GTOR TSUL BZHUGS SO, ,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Poor",
+    "volume_(боть)": "GA PA,",
+    "page_numbers_(хуудасны_дугаар)": "1A-6A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "43.5x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "52.5x9",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T05:49:02.826623+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

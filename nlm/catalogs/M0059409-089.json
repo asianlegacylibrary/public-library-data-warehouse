@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0059409-089",
+    "input_file_number": "W1NLM1491-I1NLM1491",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,PHAR PHYIN LAS BYUNG BA'I MING GI RNAM GRANGS BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@035A *, ,('DI NI ^DGE SLONG NGAG DBANG BLO BZANG GIS PHYI MA RIN PO CHE LTA BU'I GDUL BYAR SMON PHYIR LHO BRAG MAR PA'I SGRUB GNAS GRO BA LUNG DU BRJED THOR BRIS PA'O,, ,,)",
+    "author_simple": "NGAG DBANG BLO BZANG,",
+    "cover_type_(хавтасны_төрөл)": "WOODEN BOX",
+    "condition_of_book_(номын_төлөв_байдал)": "MEDIUM",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "NYA PA,",
+    "page_numbers_(хуудасны_дугаар)": "1A-35A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "49.5x7.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "56x10.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T11:21:43.898344+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

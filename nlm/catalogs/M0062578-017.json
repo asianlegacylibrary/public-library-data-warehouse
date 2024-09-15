@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0062578-017",
+    "input_file_number": "W1NLM4660-I1NLM4660",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,'GO BA'I LHA LNGA'I 'PHRIN LAS BCOL BA NI,",
+    "colophon_(төгсгөлийн_үг)": "@002B (CES 'GO BA'I LHA LNGA'I 'PHRIN LAS BCOL BA 'DI NI, LCANG SKYA ROL PA'I RDO RJE GSAR KHRAM TZAM DU SBYAR BA'I YI GE PA NI DKA' BCU BSTAN 'DZIN RGYA MTSO BRIS PA'O, DGE'O,)",
+    "author_simple": "ROL PA'I RDO RJE,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1B-2B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "16x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "21.5x8.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T04:00:24.449070+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

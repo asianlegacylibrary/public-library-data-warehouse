@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0065192-019",
+    "input_file_number": "W1NLM7274-I1NLM7274",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,RGYA NAG ZA 'DRE SHI GSHED 'DUL THAR GYI THABS BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@004A *, ,(ZHES PA 'DI NI TZI NAM MKHA' BA SHANG TING PHU LU SHANG ZHA 'JAM DBYANGS NAG PO'I LAS TSOGS LAS BLANG NGO, ,DGE'O, ,)",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "3A-4A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "34.5x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "40x9",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T15:26:25.400838+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

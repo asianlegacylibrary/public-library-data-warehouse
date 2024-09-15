@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0058609-025",
+    "input_file_number": "W1NLM696-I1NLM696",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "` ME LHA'I BSANGS MCHOD BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@003A *, ,(GA-YANG 'GUGS BZHUGS KHRIL RI LTAR SPUNG 'DI NI SLOB DPON PADMA 'BYUNG GNAS KYIS MDZAD CING RGYAL PO KHRI SRONG STE BTZAN NI GNAS PA'I BYED GTOR ME DPAL SGRIGS PA BKOD, ,DGE'O, ,LEGS SO, ,)",
+    "author_simple": "SLOB DPON PADMA 'BYUNG GNAS,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-3A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "30.5x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "32.5x9.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T00:24:43.456953+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

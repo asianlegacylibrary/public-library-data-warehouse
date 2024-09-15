@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0060861-013",
+    "input_file_number": "W1NLM2943-I1NLM2943",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,BSE RAG 'BYUNG PO'I GNOD 'TSE SEL THABS KYI CHO GA ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@007A *, ,(BSE RAG 'BYUNG PO'I GNOD 'TSE SEL THABS ZHES BYA BA 'DI NI, MKHAS PA'I DBANG PO SGAR CHEN CHOS RJE WAKK'I NDRA'I GSUNG YIN LAGS, BKRA SHIS PAR GYUR CIG ,DGE LEGS 'PHEL, ,MANGGA LAm,, ,,)",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-7A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "30.5x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "35.5x9",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T02:20:51.927581+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

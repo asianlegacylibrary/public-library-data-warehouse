@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0058911-002",
+    "input_file_number": "W1NLM998-I1N1M998",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,BGEGS GTOR GTONG TSUL NI,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Medium",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Medium",
+    "volume_(боть)": "NGA PA,",
+    "page_numbers_(хуудасны_дугаар)": "17B-18A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "43x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "51x8",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "publisher_(хэвлэсэн_буюу_бүтээсэн_хийд_буюу_бархан)": "BKRA SHIS CHOS 'KHOR GLING,",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T05:48:21.699516+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0058062-010",
+    "input_file_number": "W1NLM149-I1NLM149",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,GTZUG TOR GDUGS DKAR CAN LA BSTOD PA NI,",
+    "colophon_(төгсгөлийн_үг)": "@020A *, ,(GTZUG TOR GDUGS DKAR CAN LA BSTOD PA 'DI NI, BLO BZANG GRAGS PA'I DPAL GYIS SDOM BRTZON SHES RAB RGYAL MTSAN LA SOGS PA'I BSKUL BA'I NGOR SBYAR BA'O, ,)",
+    "author_simple": "BLO BZANG GRAGS PA,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "MEDIUM",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "MEDIUM",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "18B-20A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "25x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "30.5x8.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-13T23:42:03.536101+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

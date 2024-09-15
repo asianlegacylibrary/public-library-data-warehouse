@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0058813-001",
+    "input_file_number": "W1NLM900-I1NLM900",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,MNGON PAR RTOGS PA'I RGYAN GYI SKABS LNGA PA'I 'GREL PA DNGOS GRUB KUN 'BYUNG ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@040A *, ,('DI'I PAR GYI YI GE PA NI DGE TSUL BKRA SHIS NYI MA DANG BLO BZANG CHOS 'DZIN GNYIS SO,, ,,",
+    "author_simple": "BLO BZANG TSUL KHRIMS,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-40A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "47.5x7.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "60x10",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T00:31:02.684384+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

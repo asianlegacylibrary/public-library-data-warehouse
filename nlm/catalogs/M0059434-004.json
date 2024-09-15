@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0059434-004",
+    "input_file_number": "W1NLM1516-I1NLM1516",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,GTZUG TOR BZLOG CHEN GYI LAG LEN SNYING POR DRIL BA'I CHO GA RGYAS 'BRING BSDUS GSUM BAR CHAD KUN SEL ZHES BYA BA BZHUGS, ,",
+    "colophon_(төгсгөлийн_үг)": "@010A *, ,CES PA 'DI YANG CHOS GRVA CHEN PO BKRA SHIS LHUN PO'I GZIMS KHANG DU SBYAR BA'I YI GE PA NI DGE TSUL BLO BZANG PHUN TSOGS SO,, ,,ZHUS SO,, ,,",
+    "cover_type_(хавтасны_төрөл)": "WOODEN BOX",
+    "condition_of_book_(номын_төлөв_байдал)": "MEDIUM",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "POOR",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-10A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "49.5x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "57x10",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "publisher_(хэвлэсэн_буюу_бүтээсэн_хийд_буюу_бархан)": "BKRA SHIS LHUN PO,",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T01:01:40.207231+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

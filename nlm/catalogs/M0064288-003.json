@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0064288-003",
+    "input_file_number": "W1NLM6370-I1NLM6370",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,'JAM DBYANGS DKAR PO'I SGRUB THABS BLO GROS MCHOG SBYIN ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@005B (ZHES LAN GSUM MA MA MDUN GYIS 'BUL, MCHOD BSTOD GONG BZHIN BYA, BDAG BSKYED KYI YE SHES PA RANG LA BSTIM STE, BSNGO SMON GYIS MTHA' BRGYAN PA SOGS DKYUS BZHIN BYA'O, ,DE 'ANG BRJED NGES SHIN TU CHE BA'I RGYU NI DKOR SGRIB RIGS PA RGYA YAN DU GA-YENG CHE BA'I SKYON YIN PAS, PHYAG SPYANGS SGRIB SPYOD DANG RGYUN DU BYAB GANG LA'ANG DRAN PA SHES BZHIN BSTEN PA SOGS GNAD DU CHE'O, ,)",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-5B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "16.5x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "19.5x7",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T14:41:15.012575+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

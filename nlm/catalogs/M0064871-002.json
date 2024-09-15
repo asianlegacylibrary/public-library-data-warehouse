@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0064871-002",
+    "input_file_number": "W1NLM6953-I1NLM6953",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,'CHI MED SROG 'DZIN SBYOR BA NI, ,",
+    "colophon_(төгсгөлийн_үг)": "@030B (CES PA 'DI YANG SNGA MO NAS SLOB BU MANG PO YANG YANG BSKUL BA DANG, ,NYE CHAR GNAS SA THAG RIN PA'I SLOB PA RNAMS RENGS RENGS PA'I DBANG GIS SHIN TU MDOR BRI'O, ,)",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-30B INC [*Missing page from 14a-18b, 23a-23b*]",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "16.5x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "21.5x7.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T15:04:59.160983+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

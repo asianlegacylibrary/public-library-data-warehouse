@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0058323-024",
+    "input_file_number": "W1NLM410-I1NLM410",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@001B SVASTI, ('DIR NAD PA LA BLUD BYA BA'I RIM PA NI, ZAN RIL LUS LA BYUGS LA MI ZUGS BYA STE,)]",
+    "colophon_(төгсгөлийн_үг)": "@004B (CES PA 'DI YANG DGE SLONG BLO GROS BSTAN PA'I BSKUL BA'I NGOR, MEE TRI'I MING CAN GYIS SBYAR BA'O,, ,,MANGGA LAm,, ,,)",
+    "author_simple": "MEE TRI'I MING CAN,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "MEDIUM",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "MEDIUM",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1B-4B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "25x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "29x7.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T00:03:37.629517+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

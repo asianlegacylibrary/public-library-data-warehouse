@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0062974-028",
+    "input_file_number": "W1NLM5056-I1NLM5056",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,KLU BTZAN ZHAGS KHROL GYI MDOS BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@011B (KLU BTZAN ZHAGS GROL ZER BA 'DI NAD PA SOGS SEMS CAN LA PHAN CHE BAR YONGS YANG TSIG MI SNYOMS PA DANG SA 'DI KAR CHA LAG SOGS CHA MI TSANG BA ZHAGS KHROL DNGOS DANG NAD SPOR SOGS GSAL KHA CHER MA 'BYUNG RANG BZO'I SLAD PA CHE BA'I STABS SNGON GYI YE MKHYEN RGYAL PO SOGS GTON MKHAN MKHAS PA'I GTO GZHUNG DANG SLOB DPON CHEN PO SOGS KYI MDOS GZHUNG RNAMS LAS NGOS BSDUS TE KHA BSKANG NAS BHA shA DZN'U NI AA RANG TE ZHES PA'I SAR BRIS PA'O,, ,,)",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-11B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "26x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "30.5x9",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T13:56:07.849692+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

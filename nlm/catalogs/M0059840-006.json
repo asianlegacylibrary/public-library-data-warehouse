@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0059840-006",
+    "input_file_number": "W1NLM1922-I1NLM1922",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,'PHAGS PA YANGS PA'I GRONG KHYER DU 'JUG PA'I MDO BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@007B (RGYA GAR GYI MKHAN PO SU RENTRA BO DHI DANG, ZHU CHEN GYI LOTZTSA BA BANDHE YE SHES SDES BSGYUR CING ZHUS TE GTAN LA PHAB PA'O, ,)",
+    "translator_(орчуулагч)": "SU RENTRA BO DHI, BANDHE YE SHES SDE,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-7B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "18x7.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x8.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T11:39:19.509023+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

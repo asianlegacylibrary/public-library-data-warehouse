@@ -1,0 +1,26 @@
+{
+    "nlm_catalog": "M0061719-006",
+    "input_file_number": "W1NLM3801-I1NLM3801",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,GCOD KYI SDOM TSIG MCHAN 'GREL DANG BCAS PA KUN MKHYEN LAM BZANG ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@008A *, ,(CES GCOD KYI NYAMS LEN GYI GNAD RNAMS BSDUS PA'I SDOM TSIG MCHAN 'GREL DANG BCAS PA KUN MKHYEN LAM BZANG ZHES BYA BA 'DI NI ^SUM PA PAndI TA'I MING CAN GYIS CHU SPREL LO'I NAG PA ZLA BA'I YAR TSES DGA' BA DANG PO'I NYIN LUNG DKAR RI KHROD NAS PHRAL DU SBYAR BA'I YI GE PA NI MKHYEN DPYOD YANG SPA'I BZANG SKOR ZHABS DRUNG DPAL LDAN 'OD ZER DANG, DPAR YIG 'BRI BA PO NI RAB 'BYAMS PA BLO BZANG BSAM GTAN NO, ,BKRA SHIS, ,)",
+    "author_simple": "SUM PA PAndI TA'I MING CAN,",
+    "dates_of_the_author_(зохиогдсон_өдөр)": "CHU SPREL LO'I NAG PA ZLA BA'I YAR TSES DGA' BA DANG PO'I NYIN,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-8A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "50.5x7.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "55x11.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T02:50:10.168161+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

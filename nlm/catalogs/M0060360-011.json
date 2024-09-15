@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0060360-011",
+    "input_file_number": "W1NLM2442-I1NLM2442",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,NAD PA'I 'CHI BSLU KUN LA MED PA'I KHYAD CHOS BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@003B (NAD PA'I 'CHI BSLU KUN LA MED PA'I KHYAD PAR CHOS LEG NA, ,GZHAN PHAN LHUN GRUB KHO BOS BRIS PA'I DGE BAS 'GRO KUN BYANG CHUB MYUR THOG SHOG ,RI SPUNGS LNGAGS CHEN PO'I PHYAG LEN 'BRIS, ,DGE LEGS 'PHEL, ,MANGGA LAM, ,)",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-3B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "22x4.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "26.5x6.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T01:59:13.811146+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

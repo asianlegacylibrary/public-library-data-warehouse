@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0058281-017",
+    "input_file_number": "W1NLM368-I1NLM368",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,RJE BLA MA'I BSTAN PA DANG MJAL BA'I SMON LAM BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@006A *, ,(CES PA 'DI NI LUNG DANG RIGS PA SMRA BA DKA' BCU BSTAN PA RGYA MTSOS, ^RJE BLA MA'I RING LUGS LA MCHOG TU DAD PAS BSKUL NGOR ^RATNA DHVA DZAS BRIS PA'O,, ,,)",
+    "author_simple": "RATNA DHVA DZA,",
+    "cover_type_(хавтасны_төрөл)": "WOODEN COVER",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-6A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "15.5x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x9.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T00:00:35.813789+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

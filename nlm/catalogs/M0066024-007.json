@@ -1,0 +1,23 @@
+{
+    "nlm_catalog": "M0066024-007",
+    "input_file_number": "W1NLM8106-I1NLM8106",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,DKOR SGRIB SPYONG THABS ZAB MO BRUL GTOR GTONG TSUL 'KHYER BDE BZHUGS, ,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-7B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "18.5x7.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x8.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T16:14:24.046248+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

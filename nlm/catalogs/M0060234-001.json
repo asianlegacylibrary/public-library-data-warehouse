@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0060234-001",
+    "input_file_number": "W1NLM2316-I1NLM2316",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "` 'DOD KHAMS DBANG PHYUG MA DMAG ZOR RGYAL MO'I SGRUB THABS GTOR CHOG BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@031B (CES DPAL LDAN LHA MO LA BSROD PA 'DI NI CHOS 'OD RGYAL GYI GTZUG LAG KHANG DU DGUN RGYA DGE 'DUN RGYA MTSO'I DPAL GYI SBYAR BA'O, ,)",
+    "author_simple": "DGE 'DUN RGYA MTSO,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-31B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "25.5x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "30.5x8",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T12:00:05.630377+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "nlm_catalog": "M0062300-014",
+    "input_file_number": "W1NLM4382-I1NLM4382",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,TSE SGRUB YID BZHIN DBANG RGYAL ZHES BYA BA BZHUGS S+HO, ,",
+    "colophon_(төгсгөлийн_үг)": "@015B CES TSE BDAG MGON PO LA BRTEN NAS TSE'I DNGOS GRUB BSGRUB PA'I CHO GA YID BZHIN DBANG RGYAL ZHES BYA BA 'DI NI 'DI 'DRA ZHIG DGOS PA'I MTSAN MA BYUNG BAR KLAGS CHOG GI DPE GZHAN PHRAL DU MA RNYED PAS YIG RNYING DANG DBEN SA BKA' 'BUM SOGS LA BRTEN NAS LAG TU BLANG BDE BAR MANG THOS RGYAL KHAMS PA, ^LCANG SKYA ROL PA'I RDO RJES 'PHAGS PA 'JAM DPAL GYI SPRUL PA'I GNAS MCHOG @016A *, ,RI BO RTZE LNGA'I DBEN GNAS KUN TU BDE BA'I TSAL GYI SGRUB KHANG AE WAm DGA' 'KHYIL DU, RGYAL BA ZHES PA SHING RTA LO'I KHRUMS STOD ZLA BA'I YAR TSES LA SBYAR BA'I YI GE PA NI LHAG BSAM RNAM PAR DAG PA'I NYE GNAS DGE SLONG DGE LEGS NAM MKHAS BGYIS PA 'DIS KYANG BSTAN PA DANG SEMS CAN LA PHAN THOGS PAR 'GYUR CIG , ,,BKRA SHIS, ,",
+    "author_simple": "ROL PA'I RDO RJE,",
+    "dates_of_the_author_(зохиогдсон_өдөр)": "RGYAL BA ZHES PA SHING RTA LO'I KHRUMS STOD ZLA BA'I YAR TSES,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-16A INC [*missing page from 4A-4B*]",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "15.5x5",
+    "size_of_pages_(хуудасны_хэмжээ)": "19x7",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "publisher_(хэвлэсэн_буюу_бүтээсэн_хийд_буюу_бархан)": "KUN TU BDE BA'I TSAL GYI SGRUB KHANG AE WAm DGA' 'KHYIL,",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T03:32:34.783934+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

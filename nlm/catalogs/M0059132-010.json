@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0059132-010",
+    "input_file_number": "W1NLM1214-N1M1214",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@020B H'Um 'JAM DBYANGS BKA' SDOD STOBS CHEN GSHIN RJE'I GTZO, ,KHYOD NI DRIN CAN RTZA BRGYUD BLA MA DANG, ,RAB 'BYAMS RGYUD SDE BZHI DANG YONGS 'BREL PA'I, ,YI DAM LHA TSOGS NGO BOR MNGA' GSOL LO, ,]",
+    "colophon_(төгсгөлийн_үг)": "@028B (DAD LDAN DPON SLOB 'KHOR DANG BCAS RNAMS KYIS, PHA MAS THOG DRANGS MA RGAN 'GRO BA KUN, MYUR DU BLA MED BYANG CHEN THOB PHYIR TU, ,BKRA SHIS 'BYUNG GNAS GLING DU DPAR DU BSGRUBS, ,)",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "20B-25A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "31.5x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "36.5x10.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "location_of_printing_(хэвлэсэн_орон_нутаг)": "BKRA SHIS 'BYUNG GNAS GLING,",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T05:51:07.485072+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

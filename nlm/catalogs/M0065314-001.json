@@ -1,0 +1,23 @@
+{
+    "nlm_catalog": "M0065314-001",
+    "input_file_number": "W1NLM7396-I1NLM7396",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,RAB GNAS BKRA SHIS SNYE MA LHAN THABS DANG BSRES TE NAG 'GROS SU BKOD PA 'KHYER BDE KUN PHAN CES BYA BA BZHUGS SO, ,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-70A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "30.5x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "49.5x9",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T15:29:40.355452+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

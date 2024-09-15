@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0059504-009",
+    "input_file_number": "W1NLM1586-I1NLM1586",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,GZHI BDAG SDONG BTZAN 'KHOR BCAS LA MCHOD GTOR 'BUL TSUL NI,",
+    "colophon_(төгсгөлийн_үг)": "@005A *, ,(CES GZHI BDAG SDONG BTZAN 'KHOR BCAS LA MCHOD GTOR 'BUL TSUL 'DI NI RGYAL CHEN RTZE'I MI SER SPYI'I 'DOD PA LTAR SH'AKYA'I BTZUN PA BLO BZANG YE SHES KYIS BKA' GDAMS PHO BRANG DU SMRAS PA'O, ,BKRA SHIS, ,)",
+    "cover_type_(хавтасны_төрөл)": "WOODEN BOX",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1B-5A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "25.5x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "30.5x9",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "publisher_(хэвлэсэн_буюу_бүтээсэн_хийд_буюу_бархан)": "BKA' GDAMS PHO BRANG,",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T01:10:25.658685+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

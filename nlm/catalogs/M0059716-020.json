@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0059716-020",
+    "input_file_number": "W1NLM1798-I1NLM1798",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@001A *, ,KYE MA KYE HUR BAS MA BLO NANG DU SKOR, ,YANG MA YANG LA SDOD THABS GANG NA YOD, ,CI BYA CI BYED MED PA'I DUS SHIG 'BYUNG, ,RANG MGO RANG GIS 'DON DGOS AA TZAM, ,]",
+    "colophon_(төгсгөлийн_үг)": "@001B (ZHES PA 'DI YANG GUNG THANG 'JAM PA'I DBYANGS KYIS GSUNG LAGS SO, ,SARBA MANGGA LAm, ,)",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-1B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "18x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x8.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T11:34:19.249281+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

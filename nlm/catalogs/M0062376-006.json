@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0062376-006",
+    "input_file_number": "W1NLM4458-I1NLM4458",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,SATZTSA CHUR GSHEGS PA'I TSUL NI, ,",
+    "colophon_(төгсгөлийн_үг)": "@006A *, ,('DI MDZAD CING ZHAL GSAL MA BYUNG KYANG, RGYAL BA GONG MOS SNAR THANG MKHAN PO LA GNANG BA YIN ZER DAG RGYUN ANG, GANG LTAR 'DI LTAR BYAS NA PHAN YON CHE SNYAM PA BLA MA BKA' CHEN BSOD NAMS GRAGS PA'ANG GSUNG NGO,, ,,BKRA SHIS, ,)",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "3B-6A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "27.5x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "33x8",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T13:23:14.239766+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

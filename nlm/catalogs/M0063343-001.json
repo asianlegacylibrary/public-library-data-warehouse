@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0063343-001",
+    "input_file_number": "W1NLM5425-I1NLM5425",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,BRTAG GNYIS NAS GSUNGS PA'I BCOM LDAN 'DAS MA KU RU KULLE LHA BCO LNGA'I SGRUB DKYIL BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@008B ('PHAGS MA SGROL MA LHA MO KU RU KULLE'I BSTOD PA, SLOB DPON CHEN PO TO MBHI HE RU KAS MDZAD PA RDZOGS SO, ,)",
+    "author_simple": "SLOB DPON TO MBHI HE RU KA,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-8B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "37.5x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "44.5x9",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T07:38:38.750648+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

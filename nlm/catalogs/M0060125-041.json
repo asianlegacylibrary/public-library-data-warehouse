@@ -1,0 +1,26 @@
+{
+    "nlm_catalog": "M0060125-041",
+    "input_file_number": "W1NLM2207-I1NLM2207",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@008A *, ,ZAB MO'I LAM GYI BSTAN BSRUNG DPAL GYI MGON, ,STOBS 'PHROG GZI LDAN DBANG PHYUG YUM CHEN BZHI, ,'KHOR BCAS RTEN 'DIR BRTAN BZHUGS BSTAN PA BSRUNG, ,DAM PA'I ZHABS BRTAN MDZAD 'PHRIN RTAG 'PHEL MDZOD, ,]",
+    "colophon_(төгсгөлийн_үг)": "@008B (SA 'BRUG ZLA TSES LA DAM PA'I MING 'DZIN GYIS BRIS PA SIDHI MANGGA LAm,, ,,)",
+    "author_simple": "DAM PA'I MING 'DZIN,",
+    "dates_of_the_author_(зохиогдсон_өдөр)": "SA 'BRUG ZLA TSES,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "8A-8B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "18.5x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x8",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T11:55:04.275778+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

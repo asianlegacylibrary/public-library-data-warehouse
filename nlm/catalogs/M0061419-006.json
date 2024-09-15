@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0061419-006",
+    "input_file_number": "W1NLM3501-I1NLM3501",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@002A *, ,DE NAS GTOR MA RNAMS GZHUNG LTAR BYIN GYI BRLABS, ,AOm MAH'A GU RU DE WA t'A KI NI SA PA RI WA RA SA MA YA DZA: DZA: PADMA KA MA LA YE SHVAm, ,MDUN BSKYED DAD GNYIS SU MED PAR GYUR BA'I LHA TSOGS RNAMS KYI DRANGS TE GSOL BAR GYUR BAR BSAM LA, ,'",
+    "colophon_(төгсгөлийн_үг)": "@006A *, ,(CES PA 'DI NI KUN DGA' SNYING PO DANG, DON YOD RDO RJE LEGS PA'I MDZAD GZHUNG RNAMS GONG 'OG 'JOL BA 'JAM DBYANGS PAn CHEN PUntE SHR'I PHYOGS GCIG TU BSGRIGS PA'O, ,)",
+    "cover_type_(хавтасны_төрөл)": "paper cover",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "2A-6A INC [*Missing page from 1a-1b*]",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "15.5x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x9",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T12:34:37.599358+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

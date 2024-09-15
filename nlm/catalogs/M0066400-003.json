@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0066400-003",
+    "input_file_number": "W1NLM8482-I1NLM8482",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,RTA GA-YANG 'GUGS PA'I CHO GA ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@005B (CES SOGS BKRA SHIS KYI TSIG BRJOD CING ME TOG GI CHAR 'BABS PAR BYA'O, ,RTA GA-YANG 'GUGS PA'I CHO GA 'DI NI YUL MI RNAMS RTA GA-YANG SKAM NAS SHIN TU NYAM THAG PA LA, BYAMS PA'I SEMS KUN NAS BLANGS TE THA SHAL SMYON PA'I SPYOD YUL BA SU TI KARMA MING CAN GYIS SLOB DPON CHEN PO PADMA 'BYUNG GNAS KYI GA-YANG KHUG SOGS LA GHZI BYAS NAS 'PHRAL DU BRIS PA'O, ,'DI LA NOR 'KHRUL 'BYUNG BA MKHAS PA RNAMS LA 'CHAGS SO, ,)",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-5B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "26.5x9",
+    "size_of_pages_(хуудасны_хэмжээ)": "33x10.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T16:58:06.123909+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

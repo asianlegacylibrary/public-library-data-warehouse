@@ -1,0 +1,40 @@
+{
+    "nlm_catalog": "M0057908-008",
+    "input_file_number": "W1NLM14-I1NLM14",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,MTSER SA SOGS KYI GZHI BDAG MCHOD PA'I TSUL BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@009B ('DI NI TSA HOR DGE BSHES BLO BZANG TSUL KHRIMS KYI GSUNG THOR LAS BYUNG NGO, MANGGA LAm,)",
+    "author_simple": "BLO BZANG TSUL KHRIMS,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "MEDIUM",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "POOR",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-9B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "20x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x8",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-13T22:55:08.530262+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-09-13T22:57:11.425321+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "updated"
+        },
+        {
+            "timestamp": "2024-09-13T23:03:42.343111+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "updated"
+        },
+        {
+            "timestamp": "2024-09-13T23:25:18.539811+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "updated"
+        }
+    ]
+}

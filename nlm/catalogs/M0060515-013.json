@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0060515-013",
+    "input_file_number": "W1NLM2597-N1M2597",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@003A *, ,BRNYAS BCOS BYED, ,LUS KYI SHA SHOR RUS 'KHOR BA GAS PAS GA-YOGS, ,LTO GOS GNYIS LA GAL CHUNG BYED PA'I TSE, ,SKYABS LA 'KHOR BA RGAS SHING KHOGS PAS NGO TSA SKYUG BRO BYED, ]",
+    "colophon_(төгсгөлийн_үг)": "@005A *, ,(ZHES PA'I SMON LAM GSOL 'DEBS KYI RGYAS BTAB, RGYAL SRAS DNGUL CHU CHOS RDZONG NAS, SEMS CAN RNAMS 'KHOR BA NAS GROL BA'I PHYIR DU MDZAD PA 'DIS KYANG SEMS CAN RNAMS SPYAN RAS GZIGS KYI GO 'PHANG THOB PA'I RGYUR GYUR CIG , ,,)",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "3A-5A INC [*Missing page from 1A-1B *]",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "30x9",
+    "size_of_pages_(хуудасны_хэмжээ)": "35x10.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T06:11:09.504521+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

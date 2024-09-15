@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0063311-003",
+    "input_file_number": "W1NLM5393-I1NLM5393",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,SA BDAG CHAB GTOR BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@005B (CES SA BDAG CHAB GTOR 'DI NYID SNGON GYI MKHAS PA'I YIG RNYING LA KHA BSGYUR DGOS ZHES 'GA' ZHIG GIS BSKUL BA LTAR, ^SH'AKYA'I BTZUN PA DGE SLONG 'JAM DPAL BSTAN 'DZIN MING CAN GYIS SBYAR BA'O, ,)",
+    "author_simple": "JAM DPAL BSTAN 'DZIN,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-5B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "29.5x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "35x8",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T14:08:48.812100+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

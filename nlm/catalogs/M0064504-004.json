@@ -1,0 +1,26 @@
+{
+    "nlm_catalog": "M0064504-004",
+    "input_file_number": "W1NLM6586-I1NLM6586",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@027B BCOM LDAN GDUGS DKAR LHA TSOGS RNAMS, ,MTHU STOBS THOGS PA MI MNGA' ZHING, ,THUGS RJE SMON LAM MTHU BTZAN PAS, ,BDAG GIS GSOL BA BTAB PA BZHIN,]",
+    "colophon_(төгсгөлийн_үг)": "@028A *, ,(ZHES GTZUG TOR GDUGS DKAR LA BRTEN PA'I ZLOG 'GRUB CHEN LAS KYI RDO RJES MDZAD PA'O,, ,,ZHES PA D'I NI CHOS SDE CHEN PO SKU 'BUM BYAMS PA GLING DU PAR DU BSGRUBS PA'O,, ,,MANGGA LAm, ,)",
+    "author_simple": "LAS KYI RDO RJE,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "27B-28A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "22x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "24x7.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "publisher_(хэвлэсэн_буюу_бүтээсэн_хийд_буюу_бархан)": "SKU 'BUM BYAMS PA GLING,",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T08:19:03.585982+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

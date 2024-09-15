@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0060092-005",
+    "input_file_number": "W1NLM2174-I1NLM2174",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@001B RGYAL PO SRONG BTZAN SGAM PO'I MI CHOS GTZANG MA BCU DRUG GI KHRIMS BCAS PA GANG ZHE NA,]",
+    "colophon_(төгсгөлийн_үг)": "@004B SKYE BO KUN LA @005A *, ,PHAN PHYIR BDAG DGE SLONG NGAG DBANG BLO BZANG GIS KLONG RDOL DU BRJED THOR BRIS PA DGE ,ZHUS DAG SONG LAGS, ,",
+    "author_simple": "NGAG DBANG BLO BZANG,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1B-5A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "13x4.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "19.5x6.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T01:44:31.782094+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

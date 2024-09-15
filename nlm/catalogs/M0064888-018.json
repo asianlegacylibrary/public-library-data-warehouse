@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0064888-018",
+    "input_file_number": "W1NLM6970-I1NLM6970",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "#, ,KHRO BO RME BRTZEGS LA BRTEN NAS GRIB GLUD RDZONGS CHOG 'KHYER BDE BA ZHIG BZHUGS, ,",
+    "colophon_(төгсгөлийн_үг)": "@007B ZHES PA'ANG DAM TSIG RDO RJES SO, ,DGE LEGS 'PHEL, ,",
+    "author_simple": "DAM TSIG RDO RJE,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-7B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "16.5x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "22.5x9",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T15:08:50.958786+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

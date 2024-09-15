@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0062082-012",
+    "input_file_number": "W1NLM4164-I1NLM4164",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@002A *, ,NA MO GU RU BHYA: 'DIR BSANGS MCHOD MDOR BSDUS LAG TU BLANG BDE BAR 'GOD PA LA BSANGS KYI YO BYAD RNAMS TSOGS BAR BYAS TE SKYABS 'GRO SEMS SKYED SDON DU BTANG RGAS, ,]",
+    "colophon_(төгсгөлийн_үг)": "@005B (CES PA 'DI NI RGYAL SRAS MING CAN GYIS RANG GI 'DOD MOS LTAR SUS SUG BRIS SU BGYIS PA DZA YANTU, 'DI'I BAR KUN DGA' CHOS GLING GRVA TSANG DU BZHUGS, ,DGE'O, ,)",
+    "author_simple": "RGYAL SRAS MING CAN,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-5B INC [*Missing page from 2a-2b*]",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "16.5x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "20x7.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T13:03:39.043984+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

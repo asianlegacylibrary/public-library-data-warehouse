@@ -1,0 +1,30 @@
+{
+    "nlm_catalog": "M0063487-006",
+    "input_file_number": "W1NLM5570-I1NLM5570",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,RJE BTZUN SGROL MA DKAR MO'I MAndAL BZHI PA'I CHO GA 'CHI MED DPAL STER ZHES BYA BA BZHUGS SO, ,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "GA PA,",
+    "page_numbers_(хуудасны_дугаар)": "1A-7A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "43.5x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "51.5x9",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T03:17:08.394947+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-09-14T14:16:07.569185+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "updated"
+        }
+    ],
+    "colophon_(төгсгөлийн_үг)": "@007A *, ,(ZHES PA 'DI DAD LDAN DGE SLONG LCAM SRING SKYABS LA SOGS PAS BSKUL BA'I NGOR CHOS MDZAD BLA MAS SBYAR BA DGE LEGS SU GYUR CIG ,BKRA SHIS,, ,,)",
+    "author_simple": "CHOS MDZAD BLA MA,"
+}

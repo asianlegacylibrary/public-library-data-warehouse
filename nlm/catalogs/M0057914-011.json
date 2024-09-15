@@ -1,0 +1,23 @@
+{
+    "nlm_catalog": "M0057914-011",
+    "input_file_number": "W1NLM20-I1NLM20",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,JO BO RJE'I BSTOD DANG PHUN SUM TSOGS PA MA BZHUGS, ,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "POOR",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "POOR",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-5A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "31x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "36x7.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-13T23:26:24.671837+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

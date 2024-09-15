@@ -1,0 +1,23 @@
+{
+    "nlm_catalog": "M0066949-009",
+    "input_file_number": "W1NLM9031-I1NLM9031",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,GSHIN 'DRE'I LA BGEGS GTOR NI,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Medium",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1B-2B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "25x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "31x7.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T10:40:11.548879+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

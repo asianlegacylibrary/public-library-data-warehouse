@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0059725-013",
+    "input_file_number": "W1NLM1807-I1NLM1807",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,'DIR PHYUGS BZHI NAD PA SEL BA SANGS BZHUGS SO, , *, ,SPYANG GI KHA 'CHING SANGS BZHUGS SO, , *, ,PHYUGS BZHI NAD SEL BA NI,",
+    "colophon_(төгсгөлийн_үг)": "@003A *, ,(CES 'DI NI THAMS CAD MKHYEN PA BLO BZANG CHOS KYI RGYAL MTSAN GYI SEMS CAN GYI DON DU SBYAR BA'O, ,)",
+    "author_simple": "BLO BZANG CHOS KYI RGYAL MTSAN,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-3A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "14.5x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "17x7",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T01:22:25.860139+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

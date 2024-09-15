@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0065423-001",
+    "input_file_number": "W1NLM7505-I1NLM7505",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,RGYAL GSOL 'DI NI CHOS SKYONG TSANGS PA RNAMS KYI BSKANG BSHAGS MCHOD GTOR 'BUL TSUL GYI CHO GA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@040A *, ,(CES PA RGYAL PO SKU LNGA'I BSANG BDE CHEN CHAR 'BEBS ZHES BYA BA 'DI NI, BTZUN PA CHUNG TSUL KHRIMS KYIS MKHAS GRUB DAM PA RNAMS KYI GSUNG 'GA' ZHIG LA BRTEN NAS SBYAR BA'I YI GE PA NI LHA BRIS PA DGE SLONG BLO GROS RGYAL MTSAN NO, ,'DI YIS DGE BAS CHOS SKYONG CHEN PO 'KHOR BCAS KYIS RTAG TU SRUNG SKYOBS MDZAD PAR GYUR CIG ,)",
+    "author_simple": "TSUL KHRIMS,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-47A INC [*Missing page from 39a-39b*]",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "28.5x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "35x8",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T15:32:57.786093+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

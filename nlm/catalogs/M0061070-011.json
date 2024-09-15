@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0061070-011",
+    "input_file_number": "W1NLM3152-N1M3152",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,GNAS BRTAN PHYAG MCHOD CHOS KYI SGRA DBYANGS ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@003A *, ,(CES PA 'DI NI BDAG DANG, NYI 'KHOR BA BCAS NAS BSTAN 'GRO'I BDE THABS SU GNAS BRTAN BCU DRUG GI BRIS SKU GSAR BSKRUN @003B SKABS SMON TSIG 'DI LTA BU ZHIG DGOS KHU BO MKHAN PO DGE SLONG YE SHES DGE LEGS NAS BSKUL NGOR, ^ RJE BTZUN DAM PA'I SPRUL SKU'I MING 'DZIN PA BLO BZANG TSUL KHRIMS 'JIGS MED BSTAN PA'I RGYAL MTSAN GYIS, ,RGYAL DBANG BSKAL BZANG RGYA MTSOS MDZAD PA'I GNAS BRTAN BCU DRUG GI PHYAG MCHOD LA GZHI BYAS, ,TSIG KHA BSGYUR GYIS SBYAR BA'I YI GE PA NI AA KHU MKHAN PO DGE SLONG YE SHES DGE LEGS KYIS BGYIS PA DZA YANTU,, ,,)",
+    "author_simple": "BLO BZANG TSUL KHRIMS 'JIGS MED BSTAN PA'I RGYAL MTSAN,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-3B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "18x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "22.5x9",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T06:17:42.289476+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0058366-001",
+    "input_file_number": "W1NLM453-I1NLM453",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,DPAL RDO RJE 'JIGS BYED KYI RGYUD KYI RGYAL PO RTOG PA GSUM PA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@018A *, ,(RGYA GAR GYI MKHAN PO AU YA MA DRA DANG, BOD KYI LO TZTSA BA RONG ZOM CHOS KYI BZANG POS BSGYUR TE GTAN LA PHAB PA'O, ,MANGGA LAm,, ,,) @018B BYAMS BRTZES RTAG TU BRLAN YANG BGEGS DPUNG SREGS, ,MTSAN MAS DBEN YANG RUS RGYAN SOGS KYIS BRGYAN, ,MA BCOS PAR YANG DNGOS GRUB KUN STZOL BA'I, ,GSHIN RJE GSHED KYIS BYANG CHUB BAR DU SKYONGS, ,DPAL LDAN BLA MED THABS RGYUD KUN GYI GTZO, ,BLA MA GSHIN RJE GSHED KYI RGYUD MCHOG 'DI, ,DAD BRTZON DGE SLONG DKON MCHOG CES BYA BAS, ,BAR DU BSGRUN PA'I CHOS SBYIN @019A *, ,LEGS BYAS MTHUS, ,RGYU SBYAR 'BREL THOGS GTZO BYAS LUS CAN KUN, ,PHYI NANG GSANG BA'I 'CHI BDAG SMAG RUM TSOGS, ,GNYER BSANGS BDE CHEN YE SHES 'OD 'CHAR TE, ,'JAM DPAL DPA' PO'I GO 'PHANG MYUR THOB SHOG ,(CES PAR BYANG SMON TSIG 'DI NI DGE SLONG DKON MCHOG GI 'DOD MAS LTAR NGAG DBANG 'JIGS MED KYIS BGYIS PA MANGGA LAm,, ,,)",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-19A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "14x4.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "21x7.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T00:08:30.315317+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

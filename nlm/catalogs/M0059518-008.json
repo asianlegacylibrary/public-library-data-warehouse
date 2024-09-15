@@ -1,0 +1,26 @@
+{
+    "nlm_catalog": "M0059518-008",
+    "input_file_number": "W1NLM1600-I1NLM1600",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,MCHOG TU GRUB PA'I BDEN TSIG SMON LAM BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@002A *, ,(CES MCHOG TU GRUB PA'I BDEN TSIG SMON LAM 'DI, BI SHVA KARM'A'I RNAM 'PHRUL DPON MO CHE NYI MA DPAL GYIS BSKUL BA'I NGOR @002B CHOS SMRA BA'I BTZUN PA DGE 'DUN RGYA MTSO'I DPAL GYIS CHOS 'KHOR RGYAL GYI GTZUG LAG KHANG DU NYE BAR SBYAR BA'O,, ,,)",
+    "author_simple": "DGE 'DUN RGYA MTSO,",
+    "cover_type_(хавтасны_төрөл)": "WOODEN BOX",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-2B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "28.5x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "34x8.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "publisher_(хэвлэсэн_буюу_бүтээсэн_хийд_буюу_бархан)": "CHOS 'KHOR RGYAL GYI GTZUG LAG KHANG,",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T11:24:36.309791+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

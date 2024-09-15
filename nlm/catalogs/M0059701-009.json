@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0059701-009",
+    "input_file_number": "W1NLM1783-I1NLM1783",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,RGYAL PO KUN LNGA'I DAM CAN RDO RJE KUN DU CHOS SKYONG MA'I GA-YANG 'GUGS BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@011B ('GRO BA MANG PO PHAN PHYIR MKHAS GRUB BSTAN 'DZIN RGYA MTSO'I GSUNG LAS BSDUS DZA YA PAntE TAS THOGS MED MYUR DU SBYAR BA'O, ,)",
+    "author_simple": "\nDZA YA PAntE TA,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-11B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "17.5x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x8",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T11:32:50.739540+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

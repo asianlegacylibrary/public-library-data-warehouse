@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0065084-004",
+    "input_file_number": "W1NLM7166-I1NLM7166",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,BRGYAD STONG DON BSDUS BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@005A *, ,'PHAGS PA SHES RAB KYI PHA ROL TU PHYIN PA BSDUS PA'I TSIG LE'UR BYAS PA SLOB DPON PHYOGS KYI GLANG POS MDZAD PA RDZOGS SO, ,KHA CHE'I PAndI TA TI LA KA KA LA SHA DANG, LO TZTSA BA DGE SLONG BLO LDAN SHES RAB KYIS BSGYUR BA'O,, ,, AOm H'RI: SHRU TI SMRI TI BI DZVA SV'A H'A, PRA DZNY'A PA RA MI T'A YA SARBBA DURGA TI SHO DH'OO YA RA DZ'A YA SV'A H'A, SHES RAB KYI PHA ROL TU PHYIN PA BRGYAD STONG BA'I SNGAGS SO,, ,,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-5A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "45x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "52.5x9.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T15:22:11.409743+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

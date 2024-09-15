@@ -1,0 +1,27 @@
+{
+    "nlm_catalog": "M0058773-001",
+    "input_file_number": "W1NLM860-I1NLM860",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,RGYUD KYI RGYAL PO DPAL BRTAG PA GNYIS PA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@041A *, ,RGYUD KYI RGYAL PO CHEN PO SGYU MA'I BRTAG ZHES BYA BA, BRTAG PA SUM CU RTZA GNYIS LAS PHYUNG BA BRTAG PA GNYIS KYI BDAG NYID KYE YI RDO RJE MKHA' 'GRO MA DRA BA'I SDOM BRGYUD KYI RGYAL PO CHEN PO RDZOGS SO, ,RGYA GAR GYI MKHAN PO G'A YA DHA RA'I ZHAL SNGA NAS DANG BOD KYI LO TZ'A BA DGE SLONG SH'AKYA YE SHES KYIS BSGYUR ZHING ZHUS TE SLAD KYI DGE BSNYEN CHOS KYI BLO GROS KYIS LEGS PAR GTAN LA PHAB PA'O,, ,,SVASTI, RGYAL BSTAN PAD TSAL PHAN BDE'I DRI BSUNG CAN, ,BSHAD SGRUB 'DAB RGYAS RNAM GROL SBRANG RTZI'I BCUD, ,'GRO KUN SPYOD PHYIR SKU 'BUM BYAMS PA GLING, ,CHOS SDE CHE NAS CHOS SBYIN CHAR 'DI SPEL, ,MANGGA LAm, ,",
+    "translator_(орчуулагч)": "G'A YA DHA RA, SH'AKYA YE SHES,",
+    "editor_(хянан_тохиолдуулагч)": "CHOS KYI BLO GROS,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "CHA PA,",
+    "page_numbers_(хуудасны_дугаар)": "1A-41A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "48x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "54.5x9.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "publisher_(хэвлэсэн_буюу_бүтээсэн_хийд_буюу_бархан)": "SKU 'BUM BYAMS PA GLING,",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T00:30:11.670625+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

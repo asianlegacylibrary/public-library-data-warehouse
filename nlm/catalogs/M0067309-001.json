@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0067309-001",
+    "input_file_number": "W1NLM9391-I1NLM9391",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,DPAL GSANG BA 'DUS PA'I BDAG BSKYED NGAG 'DON BKRA SHIS LHUN PO RGYUD PA GRVA TSANG GI 'DON RGYUN LA RJES THAMS CAD MKHYEN PAS ZHUS DAG MDZAD PA BZHUGS, ,",
+    "colophon_(төгсгөлийн_үг)": "@049A *, ,(DGA' LDAN PHUN TSOGS GLING DU BRKOS, ,MANGGA LAm, ,)",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-49A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "24x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "30x8",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "publisher_(хэвлэсэн_буюу_бүтээсэн_хийд_буюу_бархан)": "DGA' LDAN PHUN TSOGS GLING ,",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T05:02:38.990779+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

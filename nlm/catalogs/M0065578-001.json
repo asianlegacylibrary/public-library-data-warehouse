@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0065578-001",
+    "input_file_number": "W1NLM7660-I1NLM7660",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,GSHIN PO RJES 'DZIN GYI CHO GA ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@020A *, ,(ZHES 'DI NI TSIG GI ZUR CUNG ZAD BSGYUR BAM GTOGS RJE DPAL LDAN YE SHES KYIS MDZAD PA'I GSHIN PO RJES 'DZIN GYI CHO GA BDE CHEN MYUR LAM LTAR RO, ,)",
+    "author_simple": "DPAL LDAN YE SHES,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-20A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "24.5x7.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "31x9.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T09:14:30.834578+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "nlm_catalog": "M0058568-001",
+    "input_file_number": "W1NLM655-I1NLM655",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,BLA MA'I RNAL 'BYOR GYI SGO NAS GRIB SEL GYI GSOL 'DEBS DANG BKRU SOGS BYA TSUL BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@004B (ZHES GRIB SEL GYI GSOL 'DEBS SNGAGS DANG BCAS PA 'DI NI, ^BZHAD RDOR MING CAN GYI ME MO SBRUL LO ZLA BA DANG PO'I MAR NGO'I TSE BCUR RI KHROD AE WAm DGA' 'KHYIL DU SBYAR BA'I YI GE PA NI BSOD NAMS DBANG PHYUG GO, ,)",
+    "author_simple": "BZHAD RDOR MING CAN,",
+    "dates_of_the_author_(зохиогдсон_өдөр)": "ME MO SBRUL LO ZLA BA DANG PO'I MAR NGO'I TSES BCU,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-4B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "17x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x7",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "publisher_(хэвлэсэн_буюу_бүтээсэн_хийд_буюу_бархан)": "AE WAm DGA' 'KHYIL,",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T00:21:22.876868+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

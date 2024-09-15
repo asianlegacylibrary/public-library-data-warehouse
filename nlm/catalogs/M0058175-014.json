@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0058175-014",
+    "input_file_number": "W1NLM262-I1N1M262",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@001A *, ,RMA BYA CHEN MO LAS GSUNGS PA'I SHA ZA CHEN MO SOGS LA GTOR MA DBUL TSUL LO, ,]",
+    "colophon_(төгсгөлийн_үг)": "@005B (ZHES PA 'DI SPRUL PA RNAMS KYI DON DU BLO BZANG GRAGS PA DAR GYIS SBYAR BA'I YI GE PA NI DBU MDZAD NGAG DBANG LEGS BSHAD KYIS BGYIS PA'O, ,)",
+    "author_simple": "BLO BZANG GRAGS PA DAR,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Medium",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-5B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "29x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "35x10",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T05:36:07.798757+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

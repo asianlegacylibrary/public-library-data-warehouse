@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0060893-021",
+    "input_file_number": "W1NLM2975-I1NLM2975",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "` MI GA-YO BA'I SGRUB THABS NI,",
+    "colophon_(төгсгөлийн_үг)": "@001B (ZHES PA 'DI YANG RGYAL SRAS BCU GNYIS PAS 'DI LTA BU ZHIG GYIS ZHES BSKUL BA'I NGOR RDO RJE 'CHANG NGAG DBANG BLO BZANG CHOS LDAN DPAL BZANG POS SBYAR BA'O, ,)",
+    "author_simple": "NGAG DBANG BLO BZANG CHOS LDAN,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-1B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "13.5x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "17x7",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T02:26:10.495794+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

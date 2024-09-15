@@ -1,0 +1,26 @@
+{
+    "nlm_catalog": "M0060424-011",
+    "input_file_number": "W1NLM2506-I1NLM2506",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,BSANGS MCHOD DPAG BSAM LJON PA ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@010B (CES BSANGS MCHOD DPAG BSAM LJON ZHES BYA BA 'DI NI, 'JAM DBYANGS BZHAD PA'I RDO RJES DPAL LDAN BRKA SHIS LHUN PO'I ZIMS KHANG DU SBYAR BA'O,, ,,LEGS SO,, ,,)",
+    "author_simple": "JAM DBYANGS BZHAD PA'I RDO RJE,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-10B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "29x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "34x8.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "publisher_(хэвлэсэн_буюу_бүтээсэн_хийд_буюу_бархан)": "DPAL LDAN BRKA SHIS LHUN PO,",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T12:08:50.938336+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

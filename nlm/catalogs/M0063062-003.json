@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0063062-003",
+    "input_file_number": "W1NLM5144-I1NLM5144",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,SPRIN RING RGYAL PO'I SGO NAS SHO MO 'DEBS TSUL BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@008A *, ,(CES PA 'DI NI NU BO MKHAN PO'I GSUNG GYEN BZLOG MI NUS PAR BCOL CHUNG BLO BZANG BSAM 'GRUB KYIS SBYAR BA'O, ,AE KA PRA RI PRITZTSA, ,)",
+    "author_simple": "BLO BZANG BSAM 'GRUB, ",
+    "cover_type_(хавтасны_төрөл)": "PAPER COVER",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-8A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "16x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x8.5",
+    "text_format_(бичвэрийн_төлөв)": "MS ",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T04:37:13.424026+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

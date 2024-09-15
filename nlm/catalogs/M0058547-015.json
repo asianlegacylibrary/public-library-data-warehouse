@@ -1,0 +1,23 @@
+{
+    "nlm_catalog": "M0058547-015",
+    "input_file_number": "W1NLM634-I1N1M634",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,RDOR 'PHRENG DKYIL 'KHOR ZHE LNGA'I DBANG THOB PA'I NYIN ZHAG DANG LHA GRANGS KYI GO RIM NI,",
+    "cover_type_(хавтасны_төрөл)": "paper cover",
+    "condition_of_book_(номын_төлөв_байдал)": "Medium",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1B-3A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "13x5",
+    "size_of_pages_(хуудасны_хэмжээ)": "17x7.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T05:44:03.617098+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

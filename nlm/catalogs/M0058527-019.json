@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0058527-019",
+    "input_file_number": "W1NLM614-I1NLM614",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@005A *, ,KEE BSANGS MCHOD DAM PA 'DI PHUL BA'I, ,DE RING RGYU SBOR BA 'KHOR BCAS KYI, ,ME GTZANG ZAS SU ZOS PA DANG, MA GTZANG GNAS SU PHYIN PA, ,]",
+    "colophon_(төгсгөлийн_үг)": "@006B (CES 'DI LA BKA' 'GYUR SHES 'BUM NANG NAS BLANGS PA'O,, ,,)",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "5A-6B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "18x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x9",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T00:18:12.791246+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

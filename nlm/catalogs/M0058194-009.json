@@ -1,0 +1,23 @@
+{
+    "nlm_catalog": "M0058194-009",
+    "input_file_number": "W1NLM281-I1N1M281",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,SPYAN 'DREN KHRUS GSOL BZHUGS SO, ,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Medium",
+    "volume_(боть)": "GA PA,",
+    "page_numbers_(хуудасны_дугаар)": "1A-8A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "31x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "39.5x8.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T05:36:40.118293+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

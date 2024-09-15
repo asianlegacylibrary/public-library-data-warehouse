@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0060400-021",
+    "input_file_number": "W1NLM2482-I1NLM2482",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@002A *, ,KUN 'DUS BLA MA YE SHES RDO RJE LA, ,GSOL BA 'DEBS SO 'DI YI SDIG SGRIB DANG, ,BAR CHAD KUN ZHI LUS SEMS BDE BA SOGS @002B 'DOD PA'I DON KUN 'GRUB PA'I BYIN RLOBS STZOL, ,]",
+    "colophon_(төгсгөлийн_үг)": "@002B (CES BZHAD RDOR GYIS BRIS, ,0",
+    "author_simple": "BZHAD RDOR,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "2A-2B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "16x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "19x7",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T12:04:16.426149+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

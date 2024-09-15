@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0066676-006",
+    "input_file_number": "W1NLM8758-I1NLM8758",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,DUS BZHI'I LHA MOR 'PHRIN LAS 'CHOL TSUL BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@004B 'DI NI GRUB BRNYES DAM PA'I GSUNG SOR BZHAG TU BKOD PA YIN LA, SNGAGS BZLA BAR 'DOD NA, BHYO: BDN MA NYID LHA MO BZHI KA'I SNGAGS SU SBYAR CHOG PAR GSUNGS SO, ,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-4B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "17.5x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x9",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T17:08:05.405876+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

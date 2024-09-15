@@ -1,0 +1,23 @@
+{
+    "nlm_catalog": "M0062503-011",
+    "input_file_number": "W1NLM4585-I1NLM4585",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "#, ,'PHAGS PA 'JAM DPAL NAG PO'I SGRUB THABS LAS TSOGS YID BZHIN CHAR 'BEBS ZHES BYA BA BZHUGS SO, , `DE'I SGRUBS THABS BZHUGS SO,, ,,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-7B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "17x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "22.5x8.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T13:32:17.594603+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

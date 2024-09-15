@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0058404-004",
+    "input_file_number": "W1NLM491-I1NLM491",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,GSER PHRENG SDOM TSIG NI,",
+    "colophon_(төгсгөлийн_үг)": "@115A *, ,(GSER PHRENG SDOM TSIG 'DI NI SU NYID GA-YAS RU WANG SHOG GI ^LHA LDAN SMON LAM CHEN PO GRVA SKOR BA YE SHES RGYA MTSOS RGYAL BA SENGGE RO'I ZHING KHAMS GNYIS PA TSAD LDAN MKHAS MANG 'BYUNG BA'I GNAS ^SKU 'BUM BYAMS PA GLING ZHES YONGS SU GRAGS PA'I GDAN SA CHEN POR BRIS PA LAS RE ZHIG SKABS DANG PO'I BSDUS DON NO, ,)",
+    "author_simple": "YE SHES RGYA MTSO,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "MEDIUM",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-115A INC [*missing page from 1A,1B*]",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "49x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "52x8.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T00:12:16.947775+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

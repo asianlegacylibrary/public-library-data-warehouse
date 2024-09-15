@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0058183-005",
+    "input_file_number": "W1NLM270-I1N1M270",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,TSE SGRUB BDE MCHOG DKAR PO'I RGYUD 'DEBS BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@028A *, ,ZHES TSE SGRUB BDE MCHOG DKAR PO'I RGYUD 'DEBS RDO RJE RGYAL PO'I THUGS DAM DU DAM PA'I MING CAN GYIS BGYIS PA'I, YI GE'I 'DU BYED PA RDO RJE DBANG RGYAL LO, ,",
+    "author_simple": "DAM PA'I MING CAN,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Medium",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "26B-28A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "19x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "25x8.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T05:36:34.057854+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

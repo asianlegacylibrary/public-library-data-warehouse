@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0059677-002",
+    "input_file_number": "W1NLM1759-I1NLM1759",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,SHIS PAR BRJOD PA'I TSIGS SU BCAD PA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@021B ZHES PA 'DI YANG ^RJE RGYAL BA GNYIS PA'I 'KHRUNGS GNAS SKU 'BUM BYAMS PA GLING DU DPAR DU BSGRUBS PA'O, ,BKRA SHIS, ,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "15A-21B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "22x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "27x9",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "publisher_(хэвлэсэн_буюу_бүтээсэн_хийд_буюу_бархан)": "SKU 'BUM BYAMS PA GLING,",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T01:19:34.552057+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

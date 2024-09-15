@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0059478-005",
+    "input_file_number": "W1NLM1560-N1M1560",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,DPAL LDAN LHA MO'I SHO MO BSHAD BZANG NGAN MIG KHYAD PAR BZHUGS, ,",
+    "colophon_(төгсгөлийн_үг)": "@008A *, ,(CES DPAL LDAN LHA MO'I SHO LCAGS RVA CHOS RJES GSUNGS LA LHAN @008B THABS KYI TSUL SHO MIG MI 'DRA BA'I BSHAD PA MDOR BSDUS ZHEGS DGOS ZHES DAD BRTZON BLO GROS DANG LDAN BZANG GI SLOB MA DBU MDZAD DKON MCHOG BSHES GNYEN GYIS BSKUL NGOR MCHOD PAR RNGA LA DBYU GUS BSNUN PA BZHIN DU NGAG MED KYIS DKON MCHOG 'JIGS MED MING CAN GYIS BRIS PA'O, ,MANGGA LAm, ,)",
+    "author_simple": "DKON MCHOG 'JIGS MED MING CAN,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Medium",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Medium",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-8B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "15x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "18x7.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T05:56:38.898529+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

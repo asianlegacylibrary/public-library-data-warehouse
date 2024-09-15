@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0060539-001",
+    "input_file_number": "W1NLM2621-I1NLM2621",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,BLO SBYONG ZIN THUN BRJED THO BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@023A *, ,'DI YANG RANG NYID KYI DRAN GSO'I CHED DU NYE BAR BSDUS TE DZNYA NA'I MING GIS BRIS SO,, ,,",
+    "author_simple": "DZNYA NA'I MING,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-23A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "18x7.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x8.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T02:12:57.220131+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0061000-001",
+    "input_file_number": "W1NLM3082-I1NLM3082",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "#, ,CHOS SKYONG CHEN PO RGYAL PO KUN 'DUS LA GSOL MCHOD ZHES BYA BA BZHUGS SO, , `'DIR CHOS SKYONG CHEN PO KUN 'DUS LA GSOL MCHOD ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@025A *, ,(CES CHOS SKYONGS RGYAL PO CHEN PO KUN 'DUS LA GSOL BA DNGOS GRUB KYI DBANG MDZOD ZHES BYA BA 'DI YANG BSKUL BA'I NGOR, CHOS SMRA BA'I SH'AKYA'I DGE SLONG NGAG DBANG BYAMS PA LHUN GRUB DPAL BZANG POS SBYAR BA'O,, ,,DGE BA 'PHEL BAR GYUR CIG , ,,)",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-25A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "29.5x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "35x8.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T12:26:01.281021+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

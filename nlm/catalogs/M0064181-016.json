@@ -1,0 +1,23 @@
+{
+    "nlm_catalog": "M0064181-016",
+    "input_file_number": "W1NLM6263-I1NLM6263",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,SANGS RGYAS BCOM LDAN 'DAS KYI MTSAN BRGYA BRGYAD PA GZUNGS SNGAGS DANG BCAS PA BZHUGS, ,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "CHA PA,",
+    "page_numbers_(хуудасны_дугаар)": "1A-8A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "51x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "60x9.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T14:38:41.712781+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

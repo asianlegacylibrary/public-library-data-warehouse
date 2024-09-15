@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0059279-004",
+    "input_file_number": "W1NLM1361-N1M1361",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,THUN MONG RTEN 'BREL SGRIG BYED PA'I: LHA RNAMS MNYES BYED BSANGS YIG BZHUGS, ,",
+    "colophon_(төгсгөлийн_үг)": "@020A *, ,RGYAGS BRNGAN CHEN PO SLOB DPON PADMAS MDZAD PA RDZOGS SO, ,",
+    "author_simple": "SLOB DPON PADMA,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Medium",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-20A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "40.5x8",
+    "size_of_pages_(хуудасны_хэмжээ)": "51x10.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T05:53:40.864128+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "nlm_catalog": "M0060883-005",
+    "input_file_number": "W1NLM2965-I1NLM2965",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,SGROL DKAR DANG TSE DPAG MED GNYIS KYI TSE SGRUB BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@004A *, ,(ZHES PA 'DI NI CHOS SDE CHEN PO SKU 'BUM BYAMS PA GLING GI TSOGS CHEN DGE BSKOS DKA' BCU SHES RAB CHOS 'BYOR DANG DBU MDZAD RAB 'BYAMS PA TSUL KHRIMS BZANG PO GNYIS KYIS SBYIN BDAG SOGS KYI RIM GROR 'PHRAL DU TSE SGRUB DGOS SKABS TSOGS PA'I ZHAL 'DON DU 'DI 'DRA DGOS ZHES BSKUL NGOR, DHARMA BADZRA GYIS GA-YAR KHRAL TZAM DU BRIS PA'I YI GE PA NI NGAG DBANG PHUN TSOGS SO, ,DGE'O, ,BKU 'BUM BYAMS PA GLING DU SA PHO RTA LO'I CHO 'PHRUL ZLA BA'I YAR NGO'I TSE LA DPAR DU BSGRUBS,, ,,)",
+    "author_simple": "DHARMA BADZRA,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-4A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "15.5x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "20.5x7.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "publisher_(хэвлэсэн_буюу_бүтээсэн_хийд_буюу_бархан)": "SKU 'BUM BYAMS PA GLING,",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T02:24:04.241808+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

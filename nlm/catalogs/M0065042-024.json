@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0065042-024",
+    "input_file_number": "W1NLM7124-I1NLM7124",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,DUR BDAG GI BSNYEN PA NI,",
+    "colophon_(төгсгөлийн_үг)": "@005A *, ,(CES PA 'DI NI LAS DANG PO PA RNAMS KYIS NYAMS SU LEN DU, ,SH'AKYA DGE SLONG RDO RJE 'DZIN PA SANGS RIN CHEN GYIS BRIS PA'O, ,)",
+    "author_simple": "SANGS RIN CHEN,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-5A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "25.5x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "29.5x7.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T08:50:12.438253+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

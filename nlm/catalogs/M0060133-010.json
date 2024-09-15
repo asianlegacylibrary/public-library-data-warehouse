@@ -1,0 +1,23 @@
+{
+    "nlm_catalog": "M0060133-010",
+    "input_file_number": "W1NLM2215-I1NLM2215",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,AU RGYAN PADMAS MDZAD PA'I BKA' THANG BSDUS PA BZHUGS SO, ,",
+    "cover_type_(хавтасны_төрөл)": "skin cover",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-16A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "20x5",
+    "size_of_pages_(хуудасны_хэмжээ)": "25x8",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T11:56:41.336872+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

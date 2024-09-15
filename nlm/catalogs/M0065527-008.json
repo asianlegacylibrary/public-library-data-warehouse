@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0065527-008",
+    "input_file_number": "W1NLM7609-I1NLM7609",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,BLA MA YI DAM CHOS SKYONG SPYI'I GSER SKYEMS BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@005A *, ,CHOS MDZAD BLA MAS SBYAR BA'O, ,",
+    "author_simple": "CHOS MDZAD BLA MA,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-5A INC [*Missing page from 3a-3b*]",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "17x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x7.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T15:41:02.427553+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

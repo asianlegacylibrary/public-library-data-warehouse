@@ -1,0 +1,23 @@
+{
+    "nlm_catalog": "M0061440-011",
+    "input_file_number": "W1NLM3522-I1NLM3522",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,'GO BA'I LHA LNGA'I GSOL MCHOD GYI CHO GA TSE BSOD DPAL BSKYED CES BYA BA BZHUGS SO, ,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-14A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "16x7.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "19.5x9",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T12:38:01.687315+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

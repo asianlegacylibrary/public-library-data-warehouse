@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0059413-021",
+    "input_file_number": "W1NLM1495-I1NLM1495",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@001B NA MO GU RU, SPYI DANG KHYAD PAR GLU CHEN LA BSUR BTONG BAR 'DOD PA'I GANG ZAG ,SKYABS 'GRO SEMS SKYED SDON DU BTANG, BA DMAR PO'I 'O MA DANG RA DKAR 'O MA, ,]",
+    "colophon_(төгсгөлийн_үг)": "@003B (CES BSDO MA SMON LAM BKRA SHIS CI RIGS BYA'O, CES DAM PA RNAMS KYI GSUNG BZHIN BSGRIGS PA'O, ,DGE'O, MANGGA LAm, ,)",
+    "cover_type_(хавтасны_төрөл)": "WOODEN BOX",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1B-3B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "16x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "21.5x8.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T11:22:10.513743+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

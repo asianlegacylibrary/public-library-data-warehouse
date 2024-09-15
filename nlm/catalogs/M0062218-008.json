@@ -1,0 +1,26 @@
+{
+    "nlm_catalog": "M0062218-008",
+    "input_file_number": "W1NLM4300-I1NLM4300",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,GU RU RIN PO CHE'I BLA MA RNAL 'BYOR YID BZHIN NOR BU ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@006A *, ,(ZHES PA 'DI NI KUN PA PAndI TA RDO RJE BSOD NAMS MING CAN GYIS BDE CHEN BYANG CHUB GLING DU SBYAR BA'O,, ,,)",
+    "author_simple": "BSOD NAMS MING CAN,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-6A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "17.5x4.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "22.5x7",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "publisher_(хэвлэсэн_буюу_бүтээсэн_хийд_буюу_бархан)": "BDE CHEN BYANG CHUB GLING,",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T06:35:12.883466+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

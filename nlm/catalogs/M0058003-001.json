@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0058003-001",
+    "input_file_number": "W1NLM90-I1NLM90",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,LUS NGAG YID GSUM BCINGS PA LAS GROL BAR BYED PA'I GZUNGS BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@006A *, ,(CHOS SBYIN RGYA CHER SPEL PHYIR DGA' LDAN THEG CHEN GLING DU PAR DU BSGRUBS, ,SARBA MANGGA LAm, ,)",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-6A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "17.5x5",
+    "size_of_pages_(хуудасны_хэмжээ)": "20x7",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "publisher_(хэвлэсэн_буюу_бүтээсэн_хийд_буюу_бархан)": "DGA' LDAN THEG CHEN GLING,",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-13T23:33:17.305720+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

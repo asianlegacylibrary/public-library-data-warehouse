@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0061379-015",
+    "input_file_number": "W1NLM3461-I1NLM3461",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,BSTAN PA'I GTAD RABS BDUN GYI BSTOD PA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@002A *, ,ZHES BSTAN PA'I GTAD RABS BDUN GYI BSTOD PA 'DI YANG RAB 'BYAMS PA BLO BZANG BSTAN PA DAR RGYAS KYIS BSKUL BA LA BRTEN NAS, DGE SLONG RGYAL KHAMS PA BLO BZANG CHOS KYI RGYAL MTSAN GYIS SBYAR BA'O,, ,,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "MEDIUM",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-2A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "31.5x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "35.5x8.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T02:40:01.091407+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

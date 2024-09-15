@@ -1,0 +1,23 @@
+{
+    "nlm_catalog": "M0058700-005",
+    "input_file_number": "W1NLM787-I1NLM787",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,RDZI BO SOGS LA PHAN 'DOGS PAR BYA RGYU RTA SKYONG THABS KYI RIM PA RTA NAD BCOS PA'I BSKOR LAGS, ,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "KHA PA,",
+    "page_numbers_(хуудасны_дугаар)": "1A-7A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "40x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "44x9",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T00:29:01.468655+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

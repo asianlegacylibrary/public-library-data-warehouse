@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0060257-002",
+    "input_file_number": "W1NLM2339-I1NLM2339",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@004B HUm MYUR MDZAD SPYAN RAS GZIGS LA PHYAG 'TSAL LO, ,ZHABS GTUB DANG BCAS BI N'A YA KA MNAN, ,NAG PO CHEN PO STAG GI SHAM THABS CAN, ,PHYAG DRUG SPRUL GYI RGYAN GYI RNAM PAR BRGYAN, ,]",
+    "colophon_(төгсгөлийн_үг)": "@005B (DPAL LDAN SHA BA'I RI DBANG PHYUG GIS MGON PO ZHAL GZIGS GI DUS MDZAD PA'O, ,)",
+    "cover_type_(хавтасны_төрөл)": "paper cover",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "4B-5B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "17x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x8",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T12:03:35.995883+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

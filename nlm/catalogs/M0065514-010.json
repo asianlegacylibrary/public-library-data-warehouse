@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0065514-010",
+    "input_file_number": "W1NLM7596-I1NLM7596",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "#, ,GSHIN GSON DBUL 'PHONGS KUN LA NYER MKHO PHAN BDE'I BDUD RTZI'I DGA' STON ZHES BYA BA BZHUGS SO,, ,,",
+    "colophon_(төгсгөлийн_үг)": "@008B (ZHES 'DI NI GSHIN RTZIS KYI GZHUNG LAS BSHAD CHOD CHOG LTAR BCOS RIM SOGS MI 'GRUB PA DBUL ZHING DMAN PA'I GSHIN GSON 'GRO BA MANG PO LA LHAG BSAM GYIS KUN NAS BSLANGS TE, RTZIS GZHUNG DANG BLA MA DAM PA RNAMS KYI MAN NGAG LA BRTEN NAS, SKYABS MGON RJE BTZUN BLA MA DAM PA'I BKA' 'BANGS RIG 'DZIN DPAL MGON BZHAD PA'I RDO RJE MING CAN GYIS, SOOMYA ZHES PA SA MO BYA LO YI DPYID ZLA 'BRING DMAR PHYOGS KYI DGA' BA GNYIS PAR AER TE NI JO BO'I GTZUG LAG KHANG DU SBYAR BA'I YI GE PA NI BSOD NAMS DBANG PHYUG GIS BGYIS PA'O, ,DGE'O, ,)",
+    "author_simple": "BZHAD PA'I RDO RJE,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-8B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "29x8.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "35.5x10",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T15:38:23.583802+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0066167-001",
+    "input_file_number": "W1NLM8249-I1NLM8249",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,TSE DPAG MED LHA DGU'I DKYIL 'KHOR GYI CHO GA NAG 'GROS SU BKOD PA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@027B (CES BCOM LDAN 'DAS MGON PO TSE DPAG MED LHA DGU'I DKYIL 'KHOR GYI CHO GA BDAG 'JUG  TSAD PA 'DI, BKRA SHIS LHUN PO'I RGYUD GRVA PA RNAMS KYI PHYAG LEN LTAR BRIS PA 'DI LA NONGS PA'I CHA YOR BA RNAMS BLA MA YI DAM MKHA' 'GRO CHOS SKYONG @028A *, ,BSRUNG BA RNAMS KYIS SGRIB PA MI 'GYUR BAR BYIN GYIS BRLAB TU GSOL, LEGS BYAS THAMS CAD MAR GYUR SEMS CAN RNAMS SPYIR 'KHOR BA DANG DGOS NGAN SONG GI SDUG BSNGAL LAS GROL TE ZHING MCHOG BDE BA CAND DU SKYE BA'I RGYU RU BSNGO'O, ,)",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-29A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "29x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "36x9",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "publisher_(хэвлэсэн_буюу_бүтээсэн_хийд_буюу_бархан)": "BKRA SHIS LHUN PO'I RGYUD GRVA TSANG,",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T10:04:03.537450+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

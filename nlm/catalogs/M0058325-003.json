@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0058325-003",
+    "input_file_number": "W1NLM412-I1NLM412",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,MNOL BSANGS GSAR BYAS LEGS BSHAD SNYING PO ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@011A *, ,(ZHES PA 'DI YANG YAB YUM SKYABS DANG LAM RA NANG GI SNGAGS BON TSE RING MGON PO BSOD NAMS BKRA SHIS RNAM RGYAL SOGS KYIS BSKUL BA'I NGOR BSHAD SGRUB MING CAN GYIS GA-YAR KHRAL DU BRIS PA'O,, ,,MANGGA LAm,, ,,)",
+    "author_simple": "BSHAD SGRUB MING CAN,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "POOR",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-11A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "20x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "26.5x9",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T00:04:14.714343+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

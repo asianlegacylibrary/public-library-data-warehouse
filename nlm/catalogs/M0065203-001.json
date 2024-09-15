@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0065203-001",
+    "input_file_number": "W1NLM7285-I1NLM7285",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,DPAL MNYAM MED RI BO DGE LDAN PA'I STON PA BSTAN PA BSTAN 'DZIN DANG BCAS PA TSAD MAR SGRUB PA'I SGO NAS BSTOD CING GSOL BA GDAB PA'I TSUL SKAL BA BZANG PO'I NYIN BYED 'DREN PA'I SKYA RENGS ZHES BYA BA BZHUGS, ,",
+    "colophon_(төгсгөлийн_үг)": "@025A *, ,(CES PA'ANG RJE WA G'INDRAS MDZAD,, ,,)",
+    "author_simple": "WA G'INDRA,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-25A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "44x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "53x9.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T15:27:30.492702+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

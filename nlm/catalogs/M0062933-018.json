@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0062933-018",
+    "input_file_number": "W1NLM5015-I1NLM5015",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,'PHAGS PA GTZUG TOR DKAR MO'I BZLOG BSGYUR MI MTHUN GA-YUL LAS RNAM RGYAL ZHES BYA BA BZHUGS, ,",
+    "colophon_(төгсгөлийн_үг)": "@008A *, ,(CES 'PHAGS MA GTZUG TOR DKAR MO'I BZLOG BSGYUR MI MTHUN GA-YUL LAS RNAM RGYAL ZHES BYA BA 'DI NI BLA MA DKON MCHOG GSUM LA MI PHYED PA'I DAD PA DANG LDAN PA DGE SLONG NGAG DBANG SBYIN PAS BSKUL BA'I NGO BSRUNG BA'I CHED DU, KHA BZLOG BSGYUR CHO GA RDO RJE MTSON CHA 'DI, ,RDO RJE 'CHANG DBANG SNYIGS MA'I @008B DUS SU NGUR SMRIG 'DZIN PAS ZLOS GAR BSGYUR BA RJE BTZUN RDO RJE 'CHANG DZA YA PAndI TA ZHES BYA BA MTSAN YONGS SU GRAGS PA RE NYID KYI ZHABS KYI RDUL SPYI BOS LEN PA BKA' DRIN GYIS CUNG ZAD MNOS PA BYANG PHYOGS SOG PA'I YUL 'DIR 'KHYAMS PA'I PHYOGS MED BLO ZHI MING CAN GYIS, ,SNGON GYI MKHAS PAS GSUNG RGYUN LA RTEN NAS BGYIS PAS 'DIS KYANG BDAG SOGS SEMS CAN THAMS CAD KYIS MI MTHUN GA-YUL LAS RNAM PAR RGYAL GYUR CIG , ,,BKRA SHIS PAR GYUR CIG ,)",
+    "author_simple": "BLO ZHI MING CAN, ",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-8B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "27x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "33.5x8",
+    "text_format_(бичвэрийн_төлөв)": "MS ",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T04:20:44.295248+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

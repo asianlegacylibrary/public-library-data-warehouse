@@ -1,0 +1,23 @@
+{
+    "nlm_catalog": "M0063484-004",
+    "input_file_number": "W1NLM5566-I1NLM5566",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "ST",
+    "full_title_(бүтэн_гарчиг)": "*, ,'PHAGS PA THUGS RJE CHEN PO ZHAL BCU GCIG PA DPAL MO LUGS KYI SGRUB THABS SMYUNG BAR GNAS PA'I CHO GA DANG BCAS PA PHAN BDE'I SNANG BA GSAR DNGOM ZHES BYA BA BZHUGS SO, ,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-24B INC [*Missing page from 17a-18b, 25a*]",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "44.5x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "61x10",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T14:15:43.327683+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

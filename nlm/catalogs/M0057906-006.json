@@ -1,0 +1,40 @@
+{
+    "nlm_catalog": "M0057906-006",
+    "input_file_number": "W1NLM12-I1NLM12",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "SENG GDONG NAG MO'I SGO NAS ZOR NAG BZHUGS SO, , ,SA LUGS SENG GDONG MA'I SGO NAS DRAG LAS BDUD YUL 'JIGS PA'I LTAS NGAN THOG MDA' ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@022B (ZHES PA 'DI NI RDO RJE GZHON NU RTZAL GYIS BRIS PA A BI TZARYA SIDDHI DZA YANDU,, ,,)",
+    "author_simple": "RDO RJE GZHON NU RTZAL,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-22B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "18x5",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x7",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-13T22:54:35.114178+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-09-13T22:56:38.422598+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "updated"
+        },
+        {
+            "timestamp": "2024-09-13T23:03:08.030953+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "updated"
+        },
+        {
+            "timestamp": "2024-09-13T23:24:43.829675+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "updated"
+        }
+    ]
+}

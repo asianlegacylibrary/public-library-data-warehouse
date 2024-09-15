@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0065100-020",
+    "input_file_number": "W1NLM7182-I1NLM7182",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,GRUB MCHOG DGE LEGS RGYA MTSO'I BSTOD PA NI, ",
+    "colophon_(төгсгөлийн_үг)": "@016A *, ,GRUB MCHOG DGE LEGS RGYA MTSO'I BSTOD PA 'DI GNYIS KYANG RJE NYID KYI GSUNG NGO, ,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "HI PA,",
+    "page_numbers_(хуудасны_дугаар)": "15B-16A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "51x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "62x10.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T15:23:09.055877+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

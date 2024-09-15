@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0058169-008",
+    "input_file_number": "W1NLM256-I1NLM256",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,THIG RTZA'I RNAM BZHAG ME TOG PHRENG MDZES LTAR BKOD PA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@007B (RNAM BZHAG 'DI NI ME TOG PHRENG MDZES LTAR SH'A SA NAS BRIS PA DZA YANTU,, ,,)",
+    "author_simple": "SH'A SA NA,",
+    "cover_type_(хавтасны_төрөл)": "PAPER COVER",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-7B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "42.5x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "49x8",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-13T23:48:23.666515+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0062492-003",
+    "input_file_number": "W1NLM4574-I1NLM4574",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "#, ,GTO MDOS MJUG GIS RGYAB GTOR 'PHEN TSUL BZHUGS SO,, ,,",
+    "colophon_(төгсгөлийн_үг)": "@004B (ZHES BSRUNG 'KHOR BSGOM, MDOS LTA BU'I SKABS, MDOS SGO DBYE BA'I GONG ZOR SNGAR BZHIN SGRUB, DE NAS MDOS SGO DBYE BA DANG MGRON RANG GNAS SU BTANG RJES, SNGAR BZHIN GSER SKYEMS BTANG STE ZOR 'PHANG BAR BSHAD DO, SPROS PA LA MI DGA' NA ZOR MED PAR MGRON RANG GNAS SU BTANG STE BRAB BDUG SNGAGS ROL DANG BCAS BSGRAD PA'I DMIGS NAN TAN DU BYAS PAS 'GRUB PO, 'DI'I DANG 'PHRAL DU NYER MKHOR WA GINTRIS KHUNGS THUB KYIS YIG CHA RNAMS LAS LOGS SU BKOL BA'O, ,)",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-4B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "15.5x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "20x7.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T13:28:59.114943+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

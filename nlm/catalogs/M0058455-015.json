@@ -1,0 +1,23 @@
+{
+    "nlm_catalog": "M0058455-015",
+    "input_file_number": "W1NLM542-I1N1M542",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@001B DE NAS TZOG TZOG PUR 'DUG CING DAG BCAD LAG PA GNYIS BUS MO'I NANG DU 'ONG BAR BYA,]",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1B-16A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "30x9",
+    "size_of_pages_(хуудасны_хэмжээ)": "35.5x10.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T05:42:20.306175+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

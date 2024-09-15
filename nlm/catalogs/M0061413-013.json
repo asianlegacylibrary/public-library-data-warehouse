@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0061413-013",
+    "input_file_number": "W1NLM3495-N1M3495",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,'PHAGS PA SHES RAB KYI PHA ROL TU PHYIN PA BSDUD PA TSIGS SU BCAD PA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@006B ZHES BCOM LDAN 'DAS KYIS GSUNGS PA LA MNGON PAR BSTOD DO, ,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "6A-6B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "16x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x7",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "publisher_(хэвлэсэн_буюу_бүтээсэн_хийд_буюу_бархан)": "BDE CHEN BSAM GTAN GLING,",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T06:20:03.082222+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

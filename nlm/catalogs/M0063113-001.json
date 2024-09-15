@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0063113-001",
+    "input_file_number": "W1NLM5195-I1NLM5195",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "ST",
+    "full_title_(бүтэн_гарчиг)": "*, ,RTZIS KYI MAN NGAG NYIN MOR BYED PA'I SNANG BA ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@162A *, ,PAR GYI 'DU BYED LHUN SDENGS PA RDO RJE TSE BRTAN, ZANG MTSO BA 'GYUR MED RNAM RGYAL, AO RGYAN RANG GROL, GSUM GYIS KONG YUL SA'I THIG LE RGYAL SKOR DU GUS PA CHEN POS BZHENGS PA LAGS SO,, ,,",
+    "cover_type_(хавтасны_төрөл)": "wooden cover",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-162A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "36x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "43.5x9.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T14:03:34.810911+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

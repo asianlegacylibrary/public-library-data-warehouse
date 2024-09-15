@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0062192-005",
+    "input_file_number": "W1NLM4274-I1NLM4274",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,'PHAGS PA BYAMS PA'I SMON LAM GYI RGYAL PO BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@005B MI PHAM MGON PO BYAMS PA'I SMON LAM 'DI, ,MI DBANG SO NYID GA-YAS DU'I WANG GI SHOG ,MI PHED DAND LDAN DKON MCHOG THABS MKHAS KYIS, ,MI 'GYUR BSAM PA THAG PAS RGYU SBYAR NAS, ,PHU BO DGE SLONG YE SHES LEGS @006A *, ,TSOGS DANG, ,LUS SEMS BSKYED BYED BKRA SHIS DON GRUB DANG, ,MA RGAN 'CHI MED SRID MO T'A RE MAS, ,GTZO BYAS DRIN CAN MAR GYUR 'GRO BA KUN, ,RGYAL TSAB BYAMS MGON GNAS MCHOG 'DZAM GLING 'DIR, ,RGYAL BA'I MDZAD PA MNGON PAR MDZAD PA'I TSE, ,RGYAL BA DE YI 'KHOR DU SKYE 'GYUR NAS, ,RGYAL BA'I GO 'PHANG 'THOB PHYIR PAR DU BSGRUBS, ,BSOD NAMS KUN SDUD GLING,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-6A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "20x5",
+    "size_of_pages_(хуудасны_хэмжээ)": "24x7",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "publisher_(хэвлэсэн_буюу_бүтээсэн_хийд_буюу_бархан)": "BSOD NAMS KUN SDUD GLING,",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T03:20:40.331392+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

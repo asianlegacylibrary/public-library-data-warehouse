@@ -1,0 +1,23 @@
+{
+    "nlm_catalog": "M0058060-018",
+    "input_file_number": "W1NLM147-I1NLM147",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,RNGA MONG GI NAD THAMS CAD RAB TU ZHI BAR BYED PA'I GZUNGS BZHUGS SO, ,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "POOR",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "MEDIUM",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1B-2B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "13x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "16.5x7",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-13T23:41:22.133046+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0066209-016",
+    "input_file_number": "W1NLM8291-I1NLM8291",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,DUS DGRA DBANG PO'I SGRUB THABS KYI ZHAL SHES ZIN THO 'JAM DPAL MNYES BYED BZHUGS,, ,,",
+    "colophon_(төгсгөлийн_үг)": "@010B BLA MA GSHIN RJE'I GSHED KYI ZHAL LAS BYUNG BA'I MAN NGAG NGAG  DBANG BLO BZANG CHOS LDAN DPAL BZANG POS ZIN THO DGE'O, ,LEGS S+HO, ,",
+    "author_simple": "NGAG DBANG BLO BZANG CHOS LDAN,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-10B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "24x5",
+    "size_of_pages_(хуудасны_хэмжээ)": "30x7.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T16:36:35.328448+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

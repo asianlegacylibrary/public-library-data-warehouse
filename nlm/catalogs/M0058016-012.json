@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0058016-012",
+    "input_file_number": "W1NLM103-I1NLM103",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,SPYI BSHAGS KHA SKONG MA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@005A *, ,(PAR 'DI DGE SLONG DPAL LDAN DANG PO YIS, ,DEL GER TSOG THU'I CHOS GRVAR BZHENGS TE PHUL, ,DGE BAS BDAG GZHAN SDIG LTUNG KUN BYANG ZHING, ,TSOGS GNYIS RDZOGS NAS BYANG CHEN MYUR THOB SHOG, , ,MANGGA LAm,)",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-5A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "17x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x8.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "publisher_(хэвлэсэн_буюу_бүтээсэн_хийд_буюу_бархан)": "DEL GER TSOG THU'I CHOS GRA,",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-13T23:34:37.852801+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

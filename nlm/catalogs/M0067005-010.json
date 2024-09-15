@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0067005-010",
+    "input_file_number": "W1NLM9087-I1NLM9087",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@008A *, ,RU, BSGYUR BA'I DMU RGOD RTA DE GANG, ,RANG NYID YON TAN GYIS KHENGS PA'I, ,NGA RGYAL MCHOG 'DZIN MTHO BA'O, ,MDZA' BA'I GROGS KYANG 'GYES BYED PA'I, ,]",
+    "colophon_(төгсгөлийн_үг)": "@015B (CES PA 'DI NI SH'AKYA'I DGE SLONG RIG PA 'DZIN PA BLO BZANG BSKAL BZANG RGYA MTSOS BSDEBS PA'O, ,)",
+    "author_simple": "BLO BZANG BSKAL BZANG RGYA MTSO,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "8A-15B INC [* Missing page from 1A-7B *]?",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "36x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "41.5x8.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T10:44:02.789436+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

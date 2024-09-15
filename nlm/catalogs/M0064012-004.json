@@ -1,0 +1,23 @@
+{
+    "nlm_catalog": "M0064012-004",
+    "input_file_number": "W1NLM6094-I1NLM6094",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,DPAL GSANG BA 'DUS PA 'PHAGS LUGS DANG MTHUN PA'I SNGAGS KYIS LAM RNAM GZHAG LEGS BSHAD SKAL BZANG 'JUG NGOGS ZHES BYA BA BZHUGS SO, ,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-22B INC [*Missing page from 23a*]",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "46x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "53x8.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T14:33:10.890698+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

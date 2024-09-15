@@ -1,0 +1,23 @@
+{
+    "nlm_catalog": "M0062803-002",
+    "input_file_number": "W1NLM4885-I1NLM4885",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,GSO BA RIG PA'I BSTAN BCOS SMAN BLA'I DGONGS RGYAN RGYUD BZHI'I GSAL BYED BEE t'UR SNGON PO'I MALLI KA ZHES BYA BA BZHUGS SO, ,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "KA PA,",
+    "page_numbers_(хуудасны_дугаар)": "1A-37B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "43.5x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "52.5x9.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T13:47:55.064652+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

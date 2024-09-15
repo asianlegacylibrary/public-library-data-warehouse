@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0060242-035",
+    "input_file_number": "W1NLM2324-I1NLM2324",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,RGYAL PO CHEN PO RNAM THOS SRAS KYI MAN NGAG ZAB MO'I RIM PA SPOS KHANG PA RIN CHEN RGYAL MTSAN GYI MDZAD PA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@222B ZHES PA 'DI NI BSOD SNYOMS PA RIN CHEN RGYAL MTSAN GYIS YI GER BKOD PA'O,, ,,",
+    "author_simple": "RIN CHEN RGYAL MTSAN,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "SHA PA,",
+    "page_numbers_(хуудасны_дугаар)": "218B-222B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "28.5x8.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "35.5x11",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T12:01:32.485516+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "nlm_catalog": "M0062438-003",
+    "input_file_number": "W1NLM4520-I1NLM4520",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,PHYI NANG GSANG BA DE KHO NA NYID KYI MAndAL'I 'DOD GSOL DANG CON CHEN GSUM GYI GSOL 'DEBS DANG BCAS PA BZHUGS SO, ,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-2B ",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "30x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "34.5x8",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T03:46:44.203734+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

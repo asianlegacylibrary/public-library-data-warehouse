@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0059383-001",
+    "input_file_number": "W1NLM1465-I1NLM1465",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,'PHAGS PA GSER 'OD DAM PA MDO SDE'I DBANG PO'I RGYAL PO ZHES BYA BA THEG CHEN PO'I MDO BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@226B (CES PHAGS PA GSER 'OD DAM PA MDO SDE'I DBANG PO'I RGYAL PO 'DI NYID BRTZON RNAM DPYOD LDAN PA'I RAB BYAMS PA @227A *, ,DGE SLONG BLO BZANG PHYAG RDOR DANG, DGE SLONG BLO BZANG DNGOS GRUB DANG, DGE BSNYEN SUG RAG CHI GSUM GYIS LHAG BSAM DKAR PAS KUN NAS BSLANG STA MTHUN RKYEN RNAMS SBYAR NAS CHOS GRVA CHEN PO BDE CHEN LHUN GRUB GLING DU DPAR DU BSKRUN SKABS DPAR BYANG SMON TSIG 'DI LTA BU ZHIG DGOS ZHES LHA REG DRI MED BCAS BSKUL MA BGYIS PA'I NGOR ^TSANGS SRAS SGEG PA'I LANG TSOR 'BOD PAS BRIS PA DGE LEGS SU GYUR CIG , ,,MANGGA LAm,, ,,)",
+    "cover_type_(хавтасны_төрөл)": "WOODEN BOX",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-227A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "36.5x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "44x8.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "publisher_(хэвлэсэн_буюу_бүтээсэн_хийд_буюу_бархан)": "CHOS GRVA CHEN PO BDE CHEN LHUN GRUB GLING,",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T11:15:56.010551+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

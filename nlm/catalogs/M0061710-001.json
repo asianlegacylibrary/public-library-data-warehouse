@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0061710-001",
+    "input_file_number": "W1NLM3792-I1NLM3792",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,RGYUD SDE SPYI'I RNAM PAR BZHAG BSDUS PA RGYUD SDE RIN PO CHE'I GTER SGO 'BYED PA'I LDE MIG BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@108A *, ,(ZHES PA 'DI YANG PHYOGS LAS RNAM PAR RGYAL BA'I CHOS SDE CHEN PO DGA' LDAN CHOS 'KHOR GLING NAS PAR DU SGRUBS SO,, ,,SARBA MANGGA LAm, ,)",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-108A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "47x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "52.5x8.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "publisher_(хэвлэсэн_буюу_бүтээсэн_хийд_буюу_бархан)": "DGA' LDAN CHOS 'KHOR GLING,",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T02:49:00.554236+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

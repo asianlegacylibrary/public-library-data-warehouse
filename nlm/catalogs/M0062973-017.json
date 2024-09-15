@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0062973-017",
+    "input_file_number": "W1NLM5055-I1NLM5055",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@001B SRID GSUM DBANG BSGYUR RE MA T'I, ,BKA' NYAN BSTAN SKYONG GRANGS MED DPUNG, ,KHYAD PAR DBYAR GYI RGYAL MO CHE, ,]",
+    "colophon_(төгсгөлийн_үг)": "@001B (CES PA 'DI NI SA 'BRUG LHA LDAN DU 'BRUM NAD BYUNG BA SKABS MYUR DU ZHI BA'I 'PHRIN BCOL 'DI BZHIN BRTZAMS NAS GAM BCAR RNAM PAR RGYAL BA'I 'DUS GRAR BTZUGS NA LEGS ZHES GSANG PHU CHOS SKYONG CHEN PO'I LUNG BZHIN DU, SH'AKYA'I DGE SLONG BLO BZANG BSKAL BZANG RGYA MTSOS SBYAR BA'O,, ,,BKRA SHIS 'BAR GYUR CIG , ,,)",
+    "author_simple": "BLO BZANG BSKAL BZANG RGYA MTSO,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1B-1B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "24x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "30x8",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T13:55:47.864439+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

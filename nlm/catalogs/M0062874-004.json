@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0062874-004",
+    "input_file_number": "W1NLM4956-I1NLM4956",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,KUN MKHYEN 'JAM DBYANGS BZHAD PAS MDZAD PA'I THAL 'GYUR CHE BA'I RNAM BZHAG MDOR BSDUS BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@011A *, ,PAR 'DI NI DGE SLONG SHES RAB KYIS SGRUB PO, ,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "GA PA,",
+    "page_numbers_(хуудасны_дугаар)": "1A-11A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "47x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "53x9.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T07:17:33.227954+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

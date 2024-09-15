@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0059518-003",
+    "input_file_number": "W1NLM1600-I1NLM1600",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,BTZAN MDOS BCAS PA'I THABS BZHUGS, ,",
+    "colophon_(төгсгөлийн_үг)": "@015A *, ,(CES PA 'DI NI'ANG MKHAN CHEN SR'I KA LA TZAKRA'I MANYDZU SHRIS SEMS CAN THAMS CAD LA DON PHYIR DU BSHAD PA'O, ,)",
+    "author_simple": "SR'I KA LA TZAKRA'I MANYDZU SHRIS,",
+    "cover_type_(хавтасны_төрөл)": "WOODEN BOX",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "9B-16A INC [*Missing page from 14a-14b*]",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "24.5x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "30.5x9",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T11:24:32.905034+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

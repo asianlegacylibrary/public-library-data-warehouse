@@ -1,0 +1,26 @@
+{
+    "nlm_catalog": "M0058133-022",
+    "input_file_number": "W1NLM220-I1NLM220",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,BSANGS KYI CHO GA DNGOS GRUB KYI GZI 'OD 'BAR BA NGO MTSAR RIN PO CHE'I PHRENG BA ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@025B (CES BSANGS KYI CHO GA DNGOS GRUB KYI GZI 'OD 'BAR BA NGO MTSAR RIN PO CHE'I PHRENG BA ZHES BYA BA 'DI NI RIGS RUS CHO 'BRANG SOGS YON TAN DU MA'I DPAL GYIS MNGON PAR MTHO ZHING, KHYAD PAR RGYAL BA GNYIS PA'I BSTAN 'DZIN LA MI @026A *, ,PHYED PA'I DNGOS DANG LDAN PA, RNAM PAR DPYOD PA'I MIG YANGS GA-YO BAS SHES BYA'I, DKYIL 'KHOR MTHA' DAG LA GZIGS PA GSAL BA SOGS, DAM PA'I BSLAGS PA'I YON TAN DANG LDAN PA, LCANG RA NAS SDE BA RIN PO CHE DON GRUB RAB BRTAN SKU MCHED KYI BKAS BSKUL BA LA BRTEN NAS, SDE SNOD 'DZIN PA CHOS KYI RGYAL MTSAN GYIS, DPAL 'KHOR BDE CHEN DU SBYAR BA 'DIS KYANGS, ,PHYOGS DUS THAMS CAD DU DGE BAR GYUR CIG ,MANGGA LAm BHA WANTU, ,)",
+    "author_simple": "CHOS KYI RGYAL MTSAN,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "MEDIUM",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "MEDIUM",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-26A INC [*missing page from 1A-2B*]",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "27x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "33x8",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "publisher_(хэвлэсэн_буюу_бүтээсэн_хийд_буюу_бархан)": "DPAL 'KHOR BDE CHEN,",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-13T23:46:58.575425+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

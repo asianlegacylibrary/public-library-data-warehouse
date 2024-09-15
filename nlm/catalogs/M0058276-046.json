@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0058276-046",
+    "input_file_number": "W1NLM363-I1NLM363",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,BRTAN BZHUGS GSOL 'DEBS 'DON PA'I DMIGS RIM BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@003A *, ,(ZHES PA 'DI NI BZHAD RDOR MING 'CHANG BAS ME SBRUL DBO ZLA'I MAR NGO'I DGA' BA DANG POR RI KHROD, LE [?LCAM] DGA' 'KHYIL DU SBYAR BA'O,, ,,)",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "2A-3A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "17.5x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x8",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "cataloger-gerelmaa": "guilgen shar",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-13T23:58:44.281374+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

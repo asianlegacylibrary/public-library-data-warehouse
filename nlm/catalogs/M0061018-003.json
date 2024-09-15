@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0061018-003",
+    "input_file_number": "W1NLM3100-I1NLM3100",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,SMIN BDUN SKAR MA'I BSANGS GTONG BAR 'DOD PA NI, ,",
+    "colophon_(төгсгөлийн_үг)": "@003B (CES SMIN BDUN SKAR MA'I BSANGS MCHOD MDOR BSDUS PA MI MTHUN NYES SEL ZHES BYA BA 'DI NI, DAD LDAN DGE SLONG BLO BZANG LHUN GRUB BGYIS BSKUL MDOR, AARTHA SIDDHI MING CAN GYIS BRIS PA'O,, ,,)",
+    "author_simple": "AARTHA SIDDHI MING CAN,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1B-4A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "18.5x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "21x7.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T12:29:28.687568+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

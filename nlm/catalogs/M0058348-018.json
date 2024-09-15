@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0058348-018",
+    "input_file_number": "W1NLM435-I1N1M435",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,KHA 'BAR MA LA 'CHI BLU'I GTOR MA GTONG BA'I MAN NGAG BYIN RLABS KHYAD 'PHAGS CAN ZHIG BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@004B (ZHES PA 'DI NI ^CHOS MDZAD BLA MAS BRIS PA 'DIS KYANG 'GRO BA MANG PO LA PHAN THOGS RGYA CHEN PO 'BYUNG BAR GUYR CIG , ,,)",
+    "author_simple": "CHOS MDZAD BLA MA,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-4B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "19x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "23x9",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T05:40:40.258192+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

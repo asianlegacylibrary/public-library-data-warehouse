@@ -1,0 +1,23 @@
+{
+    "nlm_catalog": "M0058558-001",
+    "input_file_number": "W1NLM645-I1NLM645",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,'PHAGS PA THAR PA CHEN PO PHYOGS SU RGYAS PA 'GYOD TSANGS KYIS SDIG SBYANGS TE, SANGS RGYAS SU 'GRUB PAR RNAM PAR BKOD PA ZHES BYA BA'I THEG PA CHEN PO'I MDO BZHUGS SO, ,",
+    "cover_type_(хавтасны_төрөл)": "LEATHER COVER",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "POOR",
+    "volume_(боть)": "KA PA,",
+    "page_numbers_(хуудасны_дугаар)": "1A-51A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "26.5x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "33x8.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T00:19:49.508789+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

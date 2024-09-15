@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0062244-010",
+    "input_file_number": "W1NLM4326-I1NLM4326",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,KLU'I RGYAL PO LA BSANG MCHOD 'BUL BA'I CHO GA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@004A *, ,(ZHES KLU'I RGYAL PO LA BSANGS MCHOD 'BUL BA'I NYUNG @004B BSDUS ZHES BYA BA 'DI YANG, TSES BCO LNGA'I LHAG NYIN DUS LA BSKUL BA'I NGOR` ZA HOR BANDHES SBYAR BA'O,, ,,)",
+    "author_simple": "ZA HOR BANDHE,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-4B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "16x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "21.5x7",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T13:12:11.994240+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0060126-021",
+    "input_file_number": "W1NLM2208-I1NLM2208",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,SHER SNYING GI SGO NAS BDUD BGEGS SOGS PHYIR BZLOG CING 'GAL RKYEN BAR GCOD BSRUNG TSUL BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@007A *, ,(CES 'DI NI SUM PA MKHAN POS MDZAD PA'I SHER SNYING GI SGRUB THABS LA SPYOD BCAS MUN SEL SGRON ME ZHES BYA BA'I NANG NA BRIS SO, ,)",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-7A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "18.5x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x8.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T11:55:18.339470+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

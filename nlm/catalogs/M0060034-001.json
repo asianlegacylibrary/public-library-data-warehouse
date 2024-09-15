@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0060034-001",
+    "input_file_number": "W1NLM2116-I1NLM2116",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "#, ,CHOS SKU SNANG BA ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@032A *, ,(CES PA 'DI NI THOS BSAM GLING GI SPYI GNYER DANG BRTZON LDAN PA RAB 'BYAMS BLO BZANG DPAL LDAN GRVA TSANG GI LAS DON DANG 'BREL BA'I GA-YANG 'BOD BYA TSUL RGYAL GSOL GYIS MJUG TU 'DON RGYU ZHIG DGOS TSUL ZER BAR DGE 'DUN SPYI'I GA-YANG 'BOD TSUL KHRIMS RNAMS PAR DAG PA DANG, SGO SU MTSAN NYID GRVA TSANG GI GA-YANG 'BOD BKA' BOD LNGA'I 'CHAD NYAMS SVAGS GRVA RNAMS KYI GA-YANG 'BOD RGYUD DON RIM GNYIS KYI BSHAD SGRUB, 'DON PHYAG LEN SOGS YIN GYI, GA-YANG MGRON PO 'BOD PA BZHIN BYED DKA' NA'ANG, RANG RANG GI RGYA BSGRUBS PA'I THOG TU RKYEN @032B BSRUNG MA'I THUGS BRGYUD BSGRUL NA PHAN PAR BSAMS TE, ^BTZUN PA DKON MCHOG BSTAN PA'I SGRON MES BRIS PA'O, ,)",
+    "author_simple": "DKON MCHOG BSTAN PA'I SGRON ME,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-32B INC [*Missing page from 33a*]",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "16x4.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "20.5x6",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T11:50:56.171375+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0066262-003",
+    "input_file_number": "W1NLM8344-I1NLM8344",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@001A *, ,AOm MA nI PADME H'Um, MA nI NI DUS GSUM SANGS RGYAS THAMS CAD KYI SNYING GSUNGS BSAM GYIS MI KHYAB PO, ,]",
+    "colophon_(төгсгөлийн_үг)": "@002A *, ,(CES PA 'DI NI SHING RTA LO'I HOR ZLA DANG PO'I TSES DRUG LA DAM PA'I MING CAN GYIS BRTZON BA SBYOR BA'O,, ,,)",
+    "author_simple": "DAM PA'I MING CAN,",
+    "cover_type_(хавтасны_төрөл)": "paper cover",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-2A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "20.5x8",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x8.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T16:40:59.148824+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

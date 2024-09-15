@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0061902-013",
+    "input_file_number": "W1NLM3984-I1NLM3984",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,GZHI BDAG MCHOD PAR 'DOD PAS BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@002A *, ,(ZHES 'DI NI AU RAD PA DGE SLONG BLO BZANG TSUL KHRIMS KYIS LAM LA BSANG MCHOD GTONG TSUL ZHIG DGOS TSUL LTAR, SH'AKYA'I DGE SLONG BLO BZANG DPAL LDAN YE SHES KYIS SBYAR BA'O, ,)",
+    "author_simple": "BLO BZANG DPAL LDAN YE SHES,",
+    "cover_type_(хавтасны_төрөл)": "PAPER COVER",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1B-2A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "15.5x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "21.5x8",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T02:58:00.939980+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

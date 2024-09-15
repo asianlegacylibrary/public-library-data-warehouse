@@ -1,0 +1,26 @@
+{
+    "nlm_catalog": "M0058037-001",
+    "input_file_number": "W1NLM124-I1NLM124",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,DPAL RDO RJE 'JIGS BYED KHROS PA'I RGYUD KYI RGYAL PO ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@052B (CES PA 'DI YANG BTZUN GZUGS RAB 'BYAMS NGAG GI DBANG POS @053A *, ,BRIS PA SARBA JA GA TAm,, ,,BKRA SHIS DPAL 'BAR 'DZAM GLING RGYAN DU BYON, ,PAR 'DI KHU RE CHEN MO'I RGYUD PA GRVA TSANG NA BZHUGS,, ,,)",
+    "author_simple": "RAB 'BYAMS NGAG GI DBANG PO,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-53A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "15x4.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "20.5x8",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "publisher_(хэвлэсэн_буюу_бүтээсэн_хийд_буюу_бархан)": "KHU RE CHEN MO'I RGYUD PA GRVA TSANG,",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-13T23:38:06.517922+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

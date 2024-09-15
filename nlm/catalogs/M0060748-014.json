@@ -1,0 +1,26 @@
+{
+    "nlm_catalog": "M0060748-014",
+    "input_file_number": "W1NLM2830-I1NLM2830",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,RJE RIN PO CHE'I ZHAL GDAMS LAM RIM BZHUGS, ,",
+    "colophon_(төгсгөлийн_үг)": "@012A *, ,CES BYANG CHUB LAM GYI RIM PA'I NYAMS @012B LEN GYI RNAM BZHAG MDOR BSDUS TE BRJED BYANG DU BYAS PA DI NI, MANG DU THOS PA'I DGE SLONG PA BLO BZANG GRAGS PA'I DPAL GYIS, 'BROG RI BO CHE DGE LDAN RNAM PAR RGYAL BA'I GLING DU SBYAR BA'O, ,",
+    "author_simple": "RJE BLO BZANG GRAGS PA,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "MEDIUM",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-12B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "11.5x4",
+    "size_of_pages_(хуудасны_хэмжээ)": "20.5x7",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "publisher_(хэвлэсэн_буюу_бүтээсэн_хийд_буюу_бархан)": "BROG RI BO CHE DGE LDAN RNAM PAR RGYAL BA'I GLING,",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T12:21:16.598336+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

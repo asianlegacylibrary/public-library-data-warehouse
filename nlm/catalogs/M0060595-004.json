@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0060595-004",
+    "input_file_number": "W1NLM2677-I1NLM2677",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,BSTOD PA BYA BA NI, ,",
+    "colophon_(төгсгөлийн_үг)": "@022A *, ,(CES GNOD SBYIN DREGS PA LCAM DRAL BSTOD PA KA SMAD SUM CUR BSGRIGS PA 'DI NI PADMA DBANG CHEN GYI ZHAL 'BYOR BAR RLOM PA PADMA RGYAL PO RTZAL GYIS BYAR BA'O, ,)",
+    "author_simple": "PADMA RGYAL PO RTZAL,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "NA PA,",
+    "page_numbers_(хуудасны_дугаар)": "20A-23B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "21.5x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "26.5x8.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T12:15:35.636856+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

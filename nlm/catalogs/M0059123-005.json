@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0059123-005",
+    "input_file_number": "W1NLM1205-N1M1205",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,LEGS SBYAR SMRAS PA'I SGRON ME BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@008B (CES PA 'DI NI RJE BTZUN ZHA LU LO TZ'A BA CHEN PO'I BKA' DRIN GYI BDUD RTZIS NYE BAR 'TSO ZHING DRI MA MED PA'I GSUNG LAS SKYES PA'I CHOS SMRA BA DPAL LDAN DBANG PO'I SDE ZHES BYA BAS BOD YUL SHAR RDO RJE GDAN DU, ,BLO GSAL DU MAS BSKUL BA'I NGOR SBYAR BA'O, ,)",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-8B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "37.5x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "44x8.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "location_of_printing_(хэвлэсэн_орон_нутаг)": "BOD YUL SHAR RDO RJE GDAN,",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T05:50:50.050862+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

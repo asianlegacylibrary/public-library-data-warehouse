@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0067333-001",
+    "input_file_number": "W1NLM9415-I1NLM9415",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,'PHAGS PA GDUGS DKAR MCHOG GRUB PA ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@013A *, ,('PHAGS PA DE BZHIN GSHEGS PA'I GTZUG TOR NAS BYUNG BA'I GDUGS DKAR PO CAN, GZHAN GYIS MI THUB @014A *, ,PA PHYIR ZLOG PA CHEN MO MCHOG TU GRUB PA ZHES BYA BA'I GZUNGS RDZOGS SO, ,RGYAL BLON BYANG CHUB SEMS DPA'I SKU RING LA BSGYUR BA LAS DUS PHYIS KHA CHE'I PAndI TA PA RA HE TE DANG LO TZ'A BA ZU DGA' RDOR KHA CHE'I BDUD RTZI 'BYUNG GNAS KYI GTZUG LAG KHANG GI DPE RNYING LA GDUGS NAS DAG PAR BYAS PA'O, ,)",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N ",
+    "page_numbers_(хуудасны_дугаар)": "1A-13B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "28x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "35.5x8.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T11:05:13.816062+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

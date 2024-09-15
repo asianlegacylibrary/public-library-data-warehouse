@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0059539-010",
+    "input_file_number": "W1NLM1621-N1M1621",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,SGROL DKAR YID BZHIN 'KHOR LO'I MAndAL BZHI PA'I CHO GA DGOS 'DOD KUN 'BYUNG ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@007B (ZHES PA 'DI NI YI GE PA NI THO YON NGAG DBANG BRTZON 'GRUS KYI BRIS PA'O, ,SARBA MANGGA LAm, ,DGE'O, ,LEGS SO, ,)",
+    "author_simple": "NGAG DBANG BRTZON 'GRUS,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Medium",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Medium",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-7B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "13.5x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "17.8x7.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T05:56:48.474334+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

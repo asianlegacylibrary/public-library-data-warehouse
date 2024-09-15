@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0059834-007",
+    "input_file_number": "W1NLM1916-I1NLM1916",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,SRID PA'I BA DKAR MKHYEN SEL BA'I BCOS THABS BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@007A *, ,('DI NI DGE SLONG BLO BZANG PHUN TSOGS KYIS BGYIS SO, ,BKRA SHIS, ,)",
+    "author_simple": "BLO BZANG PHUN TSOGS,",
+    "cover_type_(хавтасны_төрөл)": "WOODEN COVER",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-7A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "27x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "33x8.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T01:31:48.902321+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

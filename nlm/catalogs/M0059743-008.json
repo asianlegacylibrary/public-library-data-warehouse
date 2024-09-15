@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0059743-008",
+    "input_file_number": "W1NLM1825-I1NLM1825",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@003A *, ,YANG RGYUD LAS, RTZA ZHIG RTZA ZHA RTZA GUD GSUM, ,BDE BA MI YOD SPANG BAR BYA, ZHES GSUNGS PAS, RTZA ZHIG PA NI, PHRU GU SKYES NAS RGYUS TSIGS RNAMS KHA DBYE STE PADMA LHOD PAR SONG BA'O, ]",
+    "colophon_(төгсгөлийн_үг)": "@004B RGYO 'DOD SKYES BU'I GDUNG SEL ZHES BYA BA'I NANG NAS LEN PAR BRIS PA'O,, ,,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "3A-4B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "17.5x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x8",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T01:26:02.585589+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

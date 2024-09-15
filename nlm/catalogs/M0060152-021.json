@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0060152-021",
+    "input_file_number": "W1NLM2234-N1M2234",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,RAB GNAS MDOR BSDUS BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@005B (ZHES PA GNAS MDOR BSDUS PA 'DI NI RDO RAMS PA DPAL LDAN BKRA SHIS KYIS BRIS PA'O, ,MANGGA LAm, ,)",
+    "author_simple": "DPAL LDAN BKRA SHIS,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-5B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "16.5x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "22.5x7",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T06:06:00.370484+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

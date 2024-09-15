@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0058042-010",
+    "input_file_number": "W1NLM129-I1NLM129",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,SMAN BLA'I MNOL BSANGS SAR BYAS BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@005A *, ,(AA MNAN t'A BLA MA'I MDZAD PA'O,, ,,BKRA SHIS PA'O, ,MANGGA LAm, ,)",
+    "author_simple": "AA MNAN t'A BLA MA,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-5A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "27.5x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "34.5x8",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-13T23:39:03.308556+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

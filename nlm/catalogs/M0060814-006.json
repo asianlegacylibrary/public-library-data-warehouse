@@ -1,0 +1,26 @@
+{
+    "nlm_catalog": "M0060814-006",
+    "input_file_number": "W1NLM2896-I1NLM2896",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,RTAGS RIGS KYI RNAM BZHAG NYUNG GSAL LEGS BSHAD GSER GYI PHRENG MDZES KYI MCHAN BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@022A *, ,(ZHES PA 'DI NI RIGS PA SMRA BA YONGS KYI THA SHAL DGE SLONG DKON MCHOG CHOS 'PHEL GYIS, ^SKYABS MGON MCHOG GI SPRUL PA'I SKU RIN PO CHE LA MCHOD PA'I SPRIN DU SBROS PA'O,, ,,'DI YANG DGA' LDAN CHOS 'KHOR GLING NAS PAR DU SHUG , ,,",
+    "author_simple": "DKON MCHOG CHOS 'PHEL,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-22A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "54x7.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "62x10.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "publisher_(хэвлэсэн_буюу_бүтээсэн_хийд_буюу_бархан)": "DGA' LDAN CHOS 'KHOR GLING,",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T02:15:26.673352+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

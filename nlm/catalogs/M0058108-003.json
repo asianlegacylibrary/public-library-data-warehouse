@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0058108-003",
+    "input_file_number": "W1NLM195-I1NLM195",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@001A *, ,GRUNG TSIGS LEN PA'I DUS SU THOG MAR KHRUS DANG CHAB KYIS KHA LAN GSUM GYI BAR LEGS PAR BSHAMS]",
+    "colophon_(төгсгөлийн_үг)": "@005A *, ,(CES PA 'DI NI PAn CHEN BLO BZANG DPAL LDAN YE SHES KYIS SBYAR BA'O,, ,,)",
+    "author_simple": "BLO BZANG DPAL LDAN YE SHES,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Medium",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Medium",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-5A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "18x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x7",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T05:31:38.588572+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

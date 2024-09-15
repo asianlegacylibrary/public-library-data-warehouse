@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0058084-009",
+    "input_file_number": "W1NLM171-I1NLM171",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,ZHABS BRTAN GSOL 'DEBS GA-YO MED RI BO BZHGUS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@001A *, ,(CES PA'NG BU SLOB RNAMS KYIS 'DOD CHOS LTAR, SDOM BRTZON CHOS KYI RGYA MTSOS GSOL 'DEBS SHING SUG BRI BA'I DGE BAS BSTAN 'DZIN RNAMS KYI ZHABS PAD BRTAN PA'I GYUR GYUR CIG, ,,)",
+    "author_simple": "CHOS KYI RGYAL MTSO,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-1A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "26x10.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "35.5x11",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-13T23:34:46.216564+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

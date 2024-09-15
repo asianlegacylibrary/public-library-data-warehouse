@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0063536-011",
+    "input_file_number": "W1NLM5618-I1NLM5618",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,GNAS SKABS PA'I RTEN 'BREL GYI RANG BZHIN RAB TU GSAL BA'I SHEL DKAR ME LONG ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@012A *, ,(CES PA 'DI NI DPA' RIS SPRUL PA'I SKU 'JIGS MED MKHYEN RAB RGYA MTSO SOGS KYI DON DU BSGRIGS PA SLAR YANG 'BRI BSNON CUNG ZAD BGYIS PA MUDHE MAR 'AM PRA SHA KAS GZHUNG NGA MA'I BSHAD TSUL GYI SPROS PA NGOR DE BLO GSAR PA DAG LA NYE BAR MKHO BA'I TSUL DU RAB BYUNG BCO LNGA PA'I GNAM LO BCO BRGYAD PA SHING SPREL AU RYA TA STE NYI SGROL BYED @012B PA'I GRO ZHIN GYI ZLA BA'I YAR TSES DKAR PA GNYIS PAR, DGE LDAN BKRA SHIS GA-YAS SU 'KHYIL BA'I CHOS KYI SDE CHEN POR SBYAR BA'O,, ,,BKRA SHIS LU MBI'I TSAL DU PAR GYI RKYEN, ,BSGRUB PA'I AA RIG MCHOD YON ZUNG LA SOGS, ,'DI PHYIR PHAN DANG BDE BA'I 'BYOR BA YIS, ,CHOS KYI RGYAL PO'I SRID LA DBANG BAR SHOG , ,,DGE LEGS 'PHEL,, ,,)",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-12B INC [*missing page from 8A-8B, 10A-10B*]",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "38x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "44x9",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T04:52:36.868574+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0062142-014",
+    "input_file_number": "W1NLM4224-I1NLM4224",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,SA TSTSA NI, ,",
+    "colophon_(төгсгөлийн_үг)": "@002B (CES PA 'DI YANG DAD BRTZON MCHOG TU DGE BA RAB 'BYAMS PA DKON MCHOG BRTZON 'GRUS KYIS BSKUL NGOR ^DKON MCHOG BSTAN PA'I SGRON MES BRIS,, ,MANGGA LAm, ,)",
+    "author_simple": "DKON MCHOG BSTAN PA'I SGRON ME,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "2A-3A INC [*Missing page from 1a-1b*]",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "19x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x7",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T13:09:20.535682+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "nlm_catalog": "M0058015-008",
+    "input_file_number": "W1NLM102-I1NLM102",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,DPAL LHA MO NOR RGYUN MA'I GZUNGS BZHUGS SO, ,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "MEDIUM",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "8A-9B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "25.5x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "30.5x8",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-13T23:33:51.533211+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

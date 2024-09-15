@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0060753-018",
+    "input_file_number": "W1NLM2835-I1NLM2835",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "#, ,RDO RJE PHA LAM ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@002B (RDO RJE BDAG SNYIGS MA'I DUS LA KLU GNYAN SA BDAG GI GNOD PA 'BYUNG NA DKA' BCU BLO BZANG SMON LAM GYIS BSKUL BA NGOR, MAHI MAnI MAH'A MDZAD PA'O, ,MANGGA LAm DGE'O, ,)",
+    "author_simple": "MAHI MAnI MAH'A,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-2B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "18x7.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "22.5x9",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T12:23:06.117759+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0062529-007",
+    "input_file_number": "W1NLM4611-I1NLM4611",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,DGA' LDAN LHA BRGYA MA'I SGO NAS BKA' BSGO BYIN RLOBS BYED TSUL BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@003A *, ,(BYIN RLOBS BYED TSUL RNAM GRANGS 'DI, SKYE BO @003B 'GA' YIS BSKUL BA'I NGOR ^ MNGA' SPRUL MING CAN YONGS 'DZIN GYIS RJE BTZUN DAM PA'I GDAN SAR SBYAR BA'O, ,)",
+    "author_simple": "SPRUL MING CAN,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-3B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "16x5",
+    "size_of_pages_(хуудасны_хэмжээ)": "19.5x6",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T06:56:41.087369+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

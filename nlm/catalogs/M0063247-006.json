@@ -1,0 +1,23 @@
+{
+    "nlm_catalog": "M0063247-006",
+    "input_file_number": "W1NLM5329-I1NLM5329",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,RJE 'JAM DBYANGS BZHAD PAS MDZAD PA'I RIGS LAM BSDUS GRVA'I SDOM TSIG BSDUS SBYOR GYI SNYING PO KUN BSDUS RIG PA'I MDZOD CES BYA BA BZHUGS SO, ,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "MEDIUM",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-16A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "48.5x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "44x8.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T04:40:44.139682+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

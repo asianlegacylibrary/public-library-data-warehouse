@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0058115-021",
+    "input_file_number": "W1NLM202-I1NLM202",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,SHAMBHA LA'I GNAS BSTOD DANG 'BREL BA'I SMON TSIG DANG DE'I SMON TSIG NYI MA'I GZI 'BAR MA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@008B (CES PA'ANG PRA DZNY'A S'A GA RAS BSGRIGS PA'O,, DGE'O,,)",
+    "author_simple": "PRA DZNY'A S'A GA RA,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Medium",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-8B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "18x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x7",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T05:33:23.142635+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

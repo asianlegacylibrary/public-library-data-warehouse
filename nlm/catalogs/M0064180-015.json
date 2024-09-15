@@ -1,0 +1,26 @@
+{
+    "nlm_catalog": "M0064180-015",
+    "input_file_number": "W1NLM6262-I1NLM6262",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,'PHAGS PA KHYE'U RIN CHEN ZLA BAS ZHUS PA ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@014A *, ,'PHAGS PA KHYE'U RIN CHEN ZLA BA ZHUS PA ZHES BYA BA THEG PA CHEN PO'I MDO RDZOGS SO,, ,,RGYA GAR GYI MKHAN PO SHUDDHA SIDHA DANG, LO TZ'A PA BANDE DGE DPAL GYIS BSGYUR, RGYA GAR GYI MKHAN PO BIDY'A K'A RA SIDHA DANG, ZHU CHEN GYI LO TZ'A PA BANDE DE BA TZANDRAS ZHUS TE GTAN LA PHAB PA'O, ,MANGGA LAm, ,",
+    "translator_(орчуулагч)": "SHUDDHA SIDHA, DGE DPAL,",
+    "editor_(хянан_тохиолдуулагч)": "BANDE DE BA TZANDRA,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "TE PA,",
+    "page_numbers_(хуудасны_дугаар)": "1A-10B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "51x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "59.5x10",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T14:38:30.431538+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

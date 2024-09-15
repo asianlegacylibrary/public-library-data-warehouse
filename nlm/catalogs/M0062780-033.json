@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0062780-033",
+    "input_file_number": "W1NLM4862-I1NLM4862",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,BYAD MNAN SOGS GTZO BOR GYUR GYI NYER 'TSE'I MTSAN MA ZHI BA'I 'DOD GSOL GDUGS BSTOD SOGS KYI GSHAM DU KHA TON BYED RGYUD NI, ",
+    "colophon_(төгсгөлийн_үг)": "@001A *, ,(ZHES PA 'DI NI PHA ROL SKYE BO MI BSRUN PAS RIGS SNGAGS DAN PA'I SBYOR BAS BYAD MNAN SOGS GTZO GYUR GYI NYER 'TSE'I @001B MTSN MA ZHI BA'I 'DOD GSOL GDUGS BSTOD SOGS KYI GSHAM DU KHA TON BYE RGYUD ^SH'AKYA'I DGE SLONG BLO BZANG BSKAL BZANG RGYA MTSOS SBYAR BA'O,, ,,)",
+    "author_simple": "BLO BZANG BSKAL BZANG RGYA MTSO, ",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-1B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "21x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "26.5x9",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T04:14:38.718213+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

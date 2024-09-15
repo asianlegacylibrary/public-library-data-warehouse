@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0066532-011",
+    "input_file_number": "W1NLM8614-I1NLM8614",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,MA H'A SHR'I GOO RAKshA LA MCHOD CING 'PHRIN LAS BCOL BA'I RIM PA 'DOD DGU'I MCHOG SBYIN ZHES BYA BA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@007B (CES MAH'A SHR'I GOO RAKshA LA MCHOD CING 'PHRIN LAS BCOL BA'I RIM PA 'DOD DGU'I MCHOD SBYIN ZHES BYA BA @008A *, ,'DI NI MI PHYUGS KYI GOD KHA LA PHAN DU RE BA'I BSAM PAS KUN NAS BLANGS TE ^SU MA TI BA BHAN DHU BTAB PHRAL DU BRIS PA'O,, ,,'DI CHOS GRVA CHEN PO DGON DGA' LDAN BDE LDAN GLING GI SPAR MA 'DI NI SGRUB PAR 'GYUR CIG ,)",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-8A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "13.5x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "18x7.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T17:02:57.462640+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

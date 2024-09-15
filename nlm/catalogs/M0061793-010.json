@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0061793-010",
+    "input_file_number": "W1NLM3875-I1NLM3875",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@017A *, ,BEE RGYAL BA RIN CHEN MANG SPRUL THUGS RJE'I GTER, ,RGYAL CHEN RNAM MANG THOS SRAS 'KHOR BCAS LA, ,DGYES BYED MTHUN PA'I DAM RTAS JI SNYED PA, ,]",
+    "colophon_(төгсгөлийн_үг)": "@018A *, ,(SLOB BU BLO BZANG CHOS DBANG RDO RJE'I DOR DAM PA'I MING CAN GYIS BRIS, ,)",
+    "author_simple": "DAM PA'I MING CAN,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "17A-18A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "23x7.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "26x7.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T12:48:53.209720+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

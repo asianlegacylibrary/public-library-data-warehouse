@@ -1,0 +1,23 @@
+{
+    "nlm_catalog": "M0065491-005",
+    "input_file_number": "W1NLM7573-I1NLM7573",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,BYANG CHUB LAM GYI RIM PA'I SNGON 'GRO SBYOR BA'I CHOS DRUG LAG TU LEN TSUL GSAL BAR BKOD PA LAM BZANG SGRUB PA'I 'JUG NGOGS ZHES BYA BA BZHUGS SO, ,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "MEDIUM",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "POOR",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-11A INC [*Missing page from 11b*]",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "43x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "50x8.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T15:36:02.153147+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

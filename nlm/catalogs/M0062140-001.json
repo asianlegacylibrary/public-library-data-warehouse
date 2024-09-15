@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0062140-001",
+    "input_file_number": "W1NLM4222-I1NLM4222",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "#, ,DIR MKHA' 'GRO SDE LNGA'I SGO NAS PADMA BZHI PA'I BZLOG BSGYUR ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@015B (CES PA 'DI NI SEMS CAN THAMS CAD KYIS PHAN PA'I PHYIR, 'DI NI BDAG GI BLA MA DGE SLONG YE SHES BZANG PO @016A *, ,BSKUL BA'I MNGOR, DE NI DGE SLONG SLOB DPON NGAG DBANG SMIN GROL RDO RJE MDZAD PA` DE NAS DGE SLONG BLO BZANG BZANG PO BRIS PA'O,, ,,) SARBA MANGGA LAm, ,DGE'O, ,BKRA SHIS PAR GYUR CIG ,",
+    "author_simple": "NGAG DBANG SMIN GROL RDO RJE,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-16A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "17.5x7.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "21.5x8.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T13:08:55.672283+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

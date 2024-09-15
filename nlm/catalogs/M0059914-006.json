@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0059914-006",
+    "input_file_number": "W1NLM1996-I1NLM1996",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@001B H'Um BLA MA 'JAM DPAL GSHIN RJE'I GSHED PO DANG, ,BKA' SDOD DAM CAN GSHIN RJE RGYAL PO NI, ,YUM MCHOG TZA MUndI SOGS 'KHOR DANG BCAS, ,CHOS SKYONG LCAM SRING YANG SPRUL SPRIN RING RGYAL, ,]",
+    "colophon_(төгсгөлийн_үг)": "@003A *, ,('DI YANG ^SPRUL SKU NYID KYIS BSGOS KYI CHOS SKYONG LA GNYER DU GTANG BA YIN YANG, CHOS SKYONG MGON PO LHA MO SOGS LA'ANG SBYAR CHOG PA YIN NAM SNYAM MO, ,BKRA SHIS SO, ,BDE LEGS 'PHEL BAR GYUR CIG ,)",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1B-3A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "16.5x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "21.5x8.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T01:35:45.336381+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

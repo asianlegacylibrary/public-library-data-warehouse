@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0063750-015",
+    "input_file_number": "W1NLM5832-I1NLM5832",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@001B RANG NYID SKAD CIG GIS HE RU KA SNGON PO ZHAL GCIG PHYAG GNYIS KYIS RDO RJE DANG BREL BU 'DZIN PA, ,GA-YAS BRKYAN GIS @002A *, ,BZHUGS PA LA, ,]",
+    "colophon_(төгсгөлийн_үг)": "@005B PAR 'DI BSHAD SGRUB DAR RGYAS GLING DU BZHUGS,, ,,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1B-5B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "15x5",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x7.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T14:22:08.764225+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0058320-013",
+    "input_file_number": "W1NLM407-I1NLM407",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,BAR DO'I GSOL 'DEBS SMON LAM BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@004A *, ,(CES BAR DO'I 'PHRANG SGROL GYI GSOL 'DEBS KYI 'JIGS SGROL GYI DBANG PO ZHES BYA BA 'DI YANG, DON GNYER BA 'GA' ZHIG GIS SKUL BA'I DON DU, MDO RGYUD DAM PA'I MAN NGAG BZHIN DU SH'AKYA'I, BTZUN PA BLO BZANG CHOS KYI RGYAL MTSAN GYIS CHOS GRVA CHEN PO DPAL LDAN 'BRAS SPUNGS KYI GZIMS KHANG DU SBYAR BA 'DI NYID SNOD MIN DANG BLA MED KYI DBANG MA THOB PA RNAMS LA GSANG BYA BA KHO NA YIN CING, RANG NYID YI DAM GANG LA [...?])",
+    "cover_type_(хавтасны_төрөл)": "SKIN COVER",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-4A INC [*missing page from 4B*]",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "18.5x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x7",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T00:02:54.056648+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

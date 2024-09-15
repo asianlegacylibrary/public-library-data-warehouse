@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0061802-002",
+    "input_file_number": "W1NLM3884-I1NLM3884",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,’PHAGS PA RGYAL MTSAN GYI RTZE MO’I DPUNG RGYAN CES BYA BA’I GZUNGS BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@009A *, ,RGYA GAR GYI MKHAN PO DZE NA MI TRA DANG D'A NA SH'I LA DANG, ZHUN CHEN GYI LOTZTSA BA BAN DE YE SHES SDES BSGYUR TE, SKAD GSAR CHAD KYIS BCOS TE GTAN LA PHAB PA'O,, ,,)",
+    "author_simple": "BAN DE YE SHES SDE,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1B-9A INC [*Missing page from 6a-6b*]",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "14x4.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "15.5x6",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T12:50:53.839760+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "nlm_catalog": "M0059234-031",
+    "input_file_number": "W1NLM1316-I1NLM1316",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,RJE BTZUN BYAMS PA MGON PO LA BSTOD PA'I TSIGS SU BCAD PA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@008B (ZHES RJE BTZUN BYAMS PA MGON PO LA BSTOD PA'I TSIGS SU BCAD PA 'DI NI RGYAL KHAMS PA BLO BZANG GRAGS PA'I DPAL GYIS CHOS GLA CHEN PO SKYOR MO LUNG DU SBYAR BA DGE LEGS SU GYUR CIG , ,,)",
+    "author_simple": "RJE BLO BZANG GRAGS PA,",
+    "cover_type_(хавтасны_төрөл)": "WOODEN BOX",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "CHA PA, ",
+    "page_numbers_(хуудасны_дугаар)": "7B-10B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "28.5x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "35.5x7.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "publisher_(хэвлэсэн_буюу_бүтээсэн_хийд_буюу_бархан)": "CHOS GLA CHEN PO SKYOR MO LUNG,",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T11:11:06.413189+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

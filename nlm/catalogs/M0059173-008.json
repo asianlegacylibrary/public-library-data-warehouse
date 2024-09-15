@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0059173-008",
+    "input_file_number": "W1NLM1255-I1NLM1255",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,BSHES PA'I SPRING YIG BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@013A *, ,RGYA GAR GYI MKHAN PO SARBA DZNY'A DE BA DANG, ZHU CHEN GYI LO TZ'A BA PAN DE DPAL BRTZEGS KYIS BSGYUR CING ZHUS TE GTAN LA PHAB PA'O,, ,,DGE'O, ,ZHUS DAG GCIG , ,,",
+    "translator_(орчуулагч)": "SARBA DZNY'A DE BA, PAN DE DPAL BRTZEGS,",
+    "cover_type_(хавтасны_төрөл)": "WOODEN BOX",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-13A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "38.5x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "44.5x9",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T00:46:32.578934+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

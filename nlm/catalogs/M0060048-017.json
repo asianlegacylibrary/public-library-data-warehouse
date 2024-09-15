@@ -1,0 +1,26 @@
+{
+    "nlm_catalog": "M0060048-017",
+    "input_file_number": "W1NLM2130-I1NLM2130",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@001B NA MO GU RU, ,DENG DUS NAS BZUNG MI'I MKHA' SPYOD GLING, ,SHAMBHA LA'I RTEN BZANG THOB NAS NI, ,]",
+    "colophon_(төгсгөлийн_үг)": "@001B (CES PA 'DI NI BSTAN PA YAR 'PHEL GYIS @002A *, ,SHAMBHA LA'I SMON TSIGS DGOS BZHES BSKUL BA'I NGOR, ,RAB BYUNG BCU DRUG PA'I SA PHO 'BRUG LO'I HOR ZLA BCU GNYIS PA'I TSES GSUM PAR, ,^DGE SLONG DPAL LDAN GYIS SBYAR BA'O, ,DGE'O, ,)",
+    "author_simple": "DPAL LDAN,",
+    "dates_of_the_author_(зохиогдсон_өдөр)": "RAB BYUNG BCU DRUG PA'I SA PHO 'BRUG LO'I HOR ZLA BCU GNYIS PA'I TSES GSUM,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1B-2A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "17x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "21x7",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T11:53:12.008707+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

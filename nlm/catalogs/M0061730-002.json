@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0061730-002",
+    "input_file_number": "W1NLM3812-I1NLM3812",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,'PHAGS PA THUGS RJE CHEN PO LA BSTOD PA BYIN RLABS SHIN TU CHE BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@003A *, ,'PHAGS PA THUGS RJE CHEN PO LA SMRE SNGAGS KYIS BSTOD PA, SLOB DPON @003B CHEN PO ZLA BA GRAGS PAS MDZAD PA RDZOGS SO,, ,,MGON PO THUGS RJE'I GTER CHEN GYI, ,GSOL 'DEBS BYIN RLABS GTER MDZOD 'DI, ,CHOS SBYIN MDZAD MED GTER DU SPEL, ,DGE 'DIS 'GRO KUN SANGS RGYAS SHOG , ,,SARBA MANGGA LAM, ,",
+    "author_simple": "ZLA BA GRAGS PA,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-3B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "51x7.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "60x10",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T02:50:56.205585+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0066234-005",
+    "input_file_number": "W1NLM8316-I1NLM8316",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,LUS DKYIL KYI BDAG 'JUG PA BZHUGS, ,*, ,DPAL 'KHOR LO BDE MCHOG GI LUS KYI DKYIL 'KHOR DU BDAG NYID 'JUG CING DBANG BLANG BA'I CHOG ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@029A *, ,(SLOB DPON RDO RJE DRIL BU PA'I GZHUNG GI RJES SU 'BRANGS PA 'KHOR LO BDE MCHOG LUS KYI DKYIL 'KHOR DU BDAG NYID 'JUG CING DBANG BLANG BA'I CHO GA 'DI NI 'PHAGS PA'I CHU MO BYA'I MO BYA'I LO SA GA ZLA BA'I TSES NYI SHU BDUN SHING KUN TU SBYAR BA'I YI GE PA NI AA TZA RA'O, ,)",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-29A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "16x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "22.5x9",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T10:05:43.514587+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

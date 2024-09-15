@@ -1,0 +1,23 @@
+{
+    "nlm_catalog": "M0058408-004",
+    "input_file_number": "W1NLM495-I1NLM495",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@001A *, ,RTA MGRIN PADMA DBANG CHEN GYI, ,BSNYEN SGRUB SOGS LA NYER MKHO BA'I, ,BLA MA'I PHYAG BZHES MAN NGAG LAS, ,BYUNG BA'I PHYAG LEN 'KHRUL MED DE, ,]",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-4B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "39.5x5",
+    "size_of_pages_(хуудасны_хэмжээ)": "46.5x8",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T00:12:29.109123+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

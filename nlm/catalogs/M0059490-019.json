@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0059490-019",
+    "input_file_number": "W1NLM1572-I1NLM1572",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,LHA SMAN TSE RING MA MCHOD BSKANG PHAN BDE'I NYI MA BZHUGS, ,",
+    "colophon_(төгсгөлийн_үг)": "@008B (CES 'DI YANG DAG SNANG CHOS SNGAGS BTZUN DKON MCHOG DAR RGYAS KYIS YANG YANG BSKUL NGOR, RNAL 'BYOR PA KHRAG 'THUNG NAM MKHA' RGYA MTSOS SPEL MA'O, ,LEGS SO, ,)",
+    "author_simple": "NAM MKHA' RGYA MTSO,",
+    "cover_type_(хавтасны_төрөл)": "WOODEN BOX",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "8A-8B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "17x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x9",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T01:06:31.369812+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

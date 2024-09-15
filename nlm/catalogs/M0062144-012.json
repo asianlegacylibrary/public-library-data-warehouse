@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0062144-012",
+    "input_file_number": "W1NLM4226-I1NLM4226",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@001B NA MO GU RU MANYDZU SHRI YE, 'KHOR BA'I DRI MA MA GOS GANGS KYI RI, ,SHES RAB DKYIL 'KHOR RGYAS PA'I 'OD ZER GYIS, ,'GRO KUN MA RIG MUN PA SEL BAR BYED, ,]",
+    "colophon_(төгсгөлийн_үг)": "@004A *, ,CES RANG GZHAN GYI BZANG NGAN GYI LAS RNAMS PYOD PA'I SHES RAB SGRON ME ZHES BYA BA 'DI DAM PA'I BZHED PA'I BGYIS PA'O, ,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1B-4A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "15x5",
+    "size_of_pages_(хуудасны_хэмжээ)": "20x7",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T13:09:44.793196+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

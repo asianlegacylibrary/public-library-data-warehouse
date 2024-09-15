@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0063753-017",
+    "input_file_number": "W1NLM5835-I1NLM5835",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,'PHAGS PA TSE DANG YE SHES DPAG TU MED PA ZHES BYA BA THEG PA CHEN PO'I MDO BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@019B 'DI LA 'GYUR BYAD PHRAN BU 'ONG GI DUG NA'ANG, 'DIR RJE BTZUN THAMS CAD MKHYEN PA T'A RA N'A THA'I ZHAL SNGA NAS, TSE DANG YE SHES DPAG TU MED PA'I MDO LA T'I KA MDZAD PA'I DGONGS PA DANG MTHUN PA NYID DPAL DGA' LDAN PHUN TSOGS GLING DU @020A *, ,PAR DU BSGRUBS PA LAGS SO, ,'DI LA BRTEN NAS BDAG GZHAN SKYE DGU MTHA' DAG 'CHI BA MED PA TSE'I DPAL DBANG THOB PAR GYUR CIG ,SARBA MANGGA LAm,, ,,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-20A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "15x5",
+    "size_of_pages_(хуудасны_хэмжээ)": "22.5x8.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T14:22:36.392348+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

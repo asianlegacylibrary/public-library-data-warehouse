@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0063764-002",
+    "input_file_number": "W1NLM5846-I1NLM5846",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "#, ,DPAL NAG PO CHEN PO ZHES BYA BA'I BRGYUD KYI RGYAL PO BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@127A *, ,'DI NI NAG PO CHEN PO'I RGYUD KYI RGYAL PO LAS AA THA RBA SHA PA R'I'I SNGAGS KYI LE'U STE LNGA BCU PA RDZOGS S+HO,, ,,LDANG 'PHRUL GYI GCIG BU LAG KHANG CHEN POR SAR MO CHER PHA RGYAL KHAMS PAS ZHUS PA'I DON DU,, ,,PAndI TA CHEN POS MANTA SHR'I DANG, ,ZHU CHEN GYI LOTZ'A PA RVA DGE SLONG CHOS RAB KYIS BSGYUR CING ZHUS TE GTAN LA PHAB PA,, ,,",
+    "editor_(хянан_тохиолдуулагч)": "MANTA SHR'I, CHOS RAB,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-127A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "17.5x5",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x7",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T14:23:58.976612+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0059376-014",
+    "input_file_number": "W1NLM1458-I1NLM1458",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "#, ,RGYAL PO'I SKU LNGA'I BLO BUR LAS BCOL ZHES TSUL BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@006A *, ,(CES PA 'DI NI SLOB DPON PADMA 'BYUNG GYIS MDZAD PA SBYAR BA'O, , BKRA SHIS PAR 'GYUR CIG, , SARBA MANGGA LAm, DGE LEGS 'PHEL, DGE'O, , )",
+    "author_simple": "SLOB DPON PADMA 'BYUNG,",
+    "cover_type_(хавтасны_төрөл)": "WOODEN BOX",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-6A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "30x9",
+    "size_of_pages_(хуудасны_хэмжээ)": "35x10.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T11:14:31.007825+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

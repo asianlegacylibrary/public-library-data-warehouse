@@ -1,0 +1,23 @@
+{
+    "nlm_catalog": "M0060186-011",
+    "input_file_number": "W1NLM2268-N1M2268",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,H'Um BLA MA YI DAM DUS LA BAB LAN GSUM H'Um KHYED LA ZHU ZHING GSOL BA NI,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1B-8B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "17x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "31x7.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T06:08:09.505850+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

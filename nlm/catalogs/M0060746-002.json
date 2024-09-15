@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0060746-002",
+    "input_file_number": "W1NLM2828-I1NLM2828",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,GNAM KHYI NAG PO'I PHO MO MDOS THABS BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@007A *, ,PO LA SOGS PA LA MDOS BYAS NAS BZLOG PA LA GDON MI ZA B'A SLOB DPON CHEN PO DGA' RAB RDO RJES BRIS PA'O, SA MA YA: BKRA SHIS LAN GCIG ZHUS BLO BZANG BRIS PA'O,, ,,",
+    "author_simple": "DGA' RAB RDO RJE,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-7A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "16.5x9",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x12",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T12:20:45.705581+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

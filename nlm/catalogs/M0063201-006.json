@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0063201-006",
+    "input_file_number": "W1NLM5283-I1NLM5283",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,'PHAGS PA NAG PO CHEN PO'I GZUNGS RIMS NAD THAMS CAD LAS THAR BAR BYED PA NI, ,",
+    "colophon_(төгсгөлийн_үг)": "@002A *, ,RGYA GAR GYI MKHAN PA PRA DZH'A BARMA DANG, ZHU CHEN GYI LOTZTSA BA BANDE YE SHES SDES BSGYUR CING ZHUS TE GTAN LA PHAB BA, ,",
+    "translator_(орчуулагч)": "PRA DZH'A BARMA, BANDE YE SHES SDE,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1B-2A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "17x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x8.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T14:07:21.632828+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

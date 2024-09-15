@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0059821-013",
+    "input_file_number": "W1NLM1903-I1NLM1903",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,RDUL TSON KLU LA GTONG BA'I CHO GA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@005A *, ,(RDUL TSON BLUG PA'I BUM PA CHUS BKANG LA SNGAR BZHIN KHYER 'ONGS TE, RDUL TSON KLU LA GTONG BA'I CHO GA 'DI BSTON GYI YIG CHA LA GZHI BYAS, RDO RJE 'PHRENG BA DANG SNGAGS RIM CHEN MO DANG MKHAS PA GZHAN GYI GSUNG GI LEGS CHAS KYANG KHA BKANG NAS, MDO SMAD PA WAGINDRA MA TI SA MU DRA SHR'I BHA DRAS SBYAR BA 'DIS KYANG PHAN BDE'I 'BYUNG GNAS RGYAL BA'I BSTAN PA SPYI DANG KHYAD PAR KHAMS GSUM CHOS KYI RGYAL PO TZONG KHA PA CHEN PO'I LUNG RTOGS KYI BSTAN PA RIN PO CHE PHYOGS DUS KUN TU RGYAS SHING 'GRO BA YONGS LA BDE LEGS KYI DPAL RTAG TU 'BYUNG BAR GYUR CIG ,DGE'O, ,BKRA SHIS PAR GYUR CIG ,)",
+    "author_simple": "WA GINDRA MA TI SA MU DRA SHR'I BHA DRA,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-5A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "18x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x9",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T01:29:11.455032+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

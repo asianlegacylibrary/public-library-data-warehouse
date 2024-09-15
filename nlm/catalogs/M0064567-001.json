@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0064567-001",
+    "input_file_number": "W1NLM6649-I1NLM6649",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,PHAN BYED RIM GRO'I SKOR RIN CHEN BUM PA'I KHA RGYAN GTZANG BYED KU SHA'I CHUN PO ZHES BYA BA'I ZIN BRIS BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@024B CES @025A *, ,'DI NI DGE SLONG BLO BZANG TSE RING GIS BLA MA'I GSUNG GROS 'GA' ZHIG BRJED DU 'PHANGS NAS YI GER BKOD PA'O,, ,,",
+    "author_simple": "BLO BZANG TSE RING,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-25A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "16x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "21.5x9",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T14:52:38.081865+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

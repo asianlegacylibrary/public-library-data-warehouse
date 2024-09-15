@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0061903-009",
+    "input_file_number": "W1NLM3985-I1NLM3985",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,ZHAL BZHI LA NI,",
+    "colophon_(төгсгөлийн_үг)": "@009B (BSTAN PA'I GSAL BYED DZA YA PAndI TAS SBYAR BA'O, ,)",
+    "author_simple": "DZA YA PAndI TA,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "7B-9B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "27x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "33.5x9",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T02:58:13.728066+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

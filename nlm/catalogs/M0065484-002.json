@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0065484-002",
+    "input_file_number": "W1NLM7566-I1NLM7566",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@001B NA MO GU RU, BZHI PA RNAM RDZOGS SBYOR BA RGYAS PAR BSHAD PA LA, 'DIR BSHAD PA'I  RGYU MTSAN DANG, LE'U YI GZHUNG BSHAD PA, SKABS BSDU BA STE GSUM MO, ,]",
+    "colophon_(төгсгөлийн_үг)": "@051A *, ,'DI'I PAR GYI YI GE PA NI DGE SLONG SBYIN PA DKON MCHOG GO ,",
+    "cover_type_(хавтасны_төрөл)": "wooden cover",
+    "condition_of_book_(номын_төлөв_байдал)": "MEDIUM",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "MEDIUM",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1B-51A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "45x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "54x10",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T15:35:33.809100+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0058205-001",
+    "input_file_number": "W1NLM292-I1NLM292",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,DPAL GSANG BA 'DUS PA 'PHAGS LUGS DANG MTHUN PA'I SA LAM RNAM BZHAG LEGS BSHAD SKAL BZANG 'JUG NGOGS ZHES PA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@027B (CES PA 'DI NI DAD BRTZON RNAM DPYOD YANGS PA, KHE SHAG THU'I DGE SLONG GRAGS PA CHOS BZANG GIS YANG YANG NAN TAN CHE BA'I NGOR, MKHAS GRUB DAM PA MANG PO'I ZHABS RDUL SPYI BO'I RGYAN DU THOB PA'I GYI NA PA ^DBYANGS CAN DGA' BLO GROS KYIS RANG GZHAN LA PHAN PA'I BSAM PAS GA-YAR KHRUL DU SBYAR BA SARBE HI HANTA,, ,,)",
+    "author_simple": "DBYANGS CAN DGA' BLO GROS,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-27B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "36x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "43.5x8.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-13T23:53:35.122545+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0065482-002",
+    "input_file_number": "W1NLM7564-I1NLM7564",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,THEG PA CHEN PO MDO SDE'I RGYAN ZHES BYA BA'I TSIG LE'UR BYAS PA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@048A *, ,THEG PA CHEN PO MDO SDE'I RGYAN CES BYA BA'I TSIG LE'UR BYAS PA 'PHAGS PA BYAMS PAS MDZAD PA RDZOGS S+HO,, ,,RGYA GAR GYI MKHAN PO SH'AKYA SIm HA DANG, ZHU CHEN GYI LOTZTSA BA BAN DE DPAL BRTZEGS LA SOGS PAS BSGYUR CING ZHUS TE GTAN LA PHAB PA, SLAD KYI PAndI TA BA RA HE TA DANG, BRAM ZE CHEN PO SAD DZA NA DANG, LOTZTSA BA DGE SLONG BLO LDAN SHES RAB KYIS CUNG ZAD BCOS LEGS PAR BSHAD NAS GTAN LA PHAB PA'O,, 'JUG GI SHO LO KA GCIG PO 'DI 'GRO DON 'PHEL BA DANG GZHUNG GZHAN NA 'DUG PA LTAR BRIS PA'O,, ZHUS DAG ,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "MEDIUM",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "POOR",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-48A INC [*Missing page from 23a-26b*]",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "48x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "62x11",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T15:35:27.357520+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

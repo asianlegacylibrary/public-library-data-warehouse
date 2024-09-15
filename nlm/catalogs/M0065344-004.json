@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0065344-004",
+    "input_file_number": "W1NLM7426-I1NLM7426",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@005B DNGOS GRUB KUN 'BYUNG THUB DBANG RDO RJE 'CHANG, ,DMIGS MED BRZE BA'I GTER CHEN SPYAN RASS GZIGS, ,DRI MED MKHYEN PA'I DBANG PO 'JAM PA'I DBYANGS, ,BDUD DPUNG MA LUS 'JOMS MDZAD GSANG BA'I BDAG ,]",
+    "colophon_(төгсгөлийн_үг)": "@006B (CES PA 'DI'ANG RI KHROD PA DKON MCHOG BYAMS PAS BSKUL NGOR, ^ BTZUN PA DKON MCHOG BSTAN PA'I SGRON MES BRIS PA'O, ,)",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "5B-6B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "46.5x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "49.5x9",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T09:00:23.866172+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

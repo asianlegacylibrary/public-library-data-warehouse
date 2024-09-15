@@ -1,0 +1,23 @@
+{
+    "nlm_catalog": "M0062702-012",
+    "input_file_number": "W1NLM4784-I1NLM4784",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@001B MNYAM MED THUB PA'I DBANG PO'I BSTAN PA LA, ,SDOM PA GSUM 'CHANG SDE SNOD GSUM SMRA BA, ,BLO BZANG CHOS KYI RING LUGS SKYONG MDZAD PA'I, ,RJE BTZUN BLA MA'I ZHAB LA GSOL BA 'DEBS, ,]",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1B-4B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "29x8.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "35.5x10.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T13:40:54.514809+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

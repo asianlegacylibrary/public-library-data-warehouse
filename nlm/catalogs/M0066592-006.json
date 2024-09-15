@@ -1,0 +1,23 @@
+{
+    "nlm_catalog": "M0066592-006",
+    "input_file_number": "W1NLM8674-I1NLM8674",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,'BYUNG RTZIS LUGS KYI LO KEG BRTAG PA MAN NGAG DON BSDUS ZHES BYA BA BZHUG SO, ,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-22B INC [* Missing page from 2A-8B *]",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "20x7.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x9",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T10:27:41.638631+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

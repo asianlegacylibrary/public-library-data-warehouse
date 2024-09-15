@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0060562-001",
+    "input_file_number": "W1NLM2644-I1NLM2644",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,'PHAGS PA KUN NAS SGOR 'JUG PA'I 'OD ZER GTZUG TOR DRI MA MED PAR SNANG BA DE BZHIN GSHEGS PA THAMS CAD KYI SNYING PO DANG DAM TSIG LA RNAM PAR LTA BA ZHES BYA BA'I GZUNGS BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@050A *, ,RGYA GAR GYI MKHAN PO DZI NA MI TRA DANG, SH'I LENTRA BODHI DANG, ZHU CHEN GYI LATZTSA BA BANTE YE SHES SDES BSGYUR CING GTAN LA PHAB PA,, ,,",
+    "translator_(орчуулагч)": "DZI NA MI TRA, SH'I LENTRA BODHI, BANTE YE SHES SDE,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-50A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "16x4.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x7",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T12:09:57.650938+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

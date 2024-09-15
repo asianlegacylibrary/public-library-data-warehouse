@@ -1,0 +1,23 @@
+{
+    "nlm_catalog": "M0062805-011",
+    "input_file_number": "W1NLM4887-I1NLM4887",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,MGON DKAR YID BZHIN NOR BUR MCHOD GTOR BSANGS MCHOD 'BUL TSUL RGYAS PAR PHYE BA YID BZHIN NOR BU DON YOD LCAGS KYU ZHES BYA BA BZHUGS SO, ,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-4B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "46.5x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "53x9.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T13:48:11.439816+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

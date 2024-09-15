@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0062616-010",
+    "input_file_number": "W1NLM4698-I1NLM4698",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@008A *, ,AOm SVASTI, MCHOG GI DANG PO KHYAB BDAG RDO RJE 'CHANG, ,MCHOG DMAN 'DUL BYAR GANG 'TSAMS GZUGS SKUR ROL, ,MCHOG DANG THUN MONGS DNGOS GRUB KUN STZOL BA'I, ,]",
+    "colophon_(төгсгөлийн_үг)": "@009A *, ,(CES PA 'DI NI HAL HA GA-YAS KYI DZA SAG THU RGYAL PO'I AAS MAG GUNG NAM MKHA' RDO RJE'I SHOG GI BSNGAGS PAR 'OS PA'I YON TAN CAN GYI DGE SLONG NGAG DBANG BSRUNG SKYABS KYIS BSKANG GSO RNAMS KYI PAR GSAR BSKRUN BGYIS PA'I SPAR BYANG SMON TSIG 'DI LTA BU ZHIG DGOS ZHES PA'I 'DOD MOS LTAR, ,BTZUN GZUGS GYI NA BA ZHIG GIS ^'JAM DBYANGS GONG MA RGYAL PO CHAB SRID 'PHEL RGYAS KYI BGRANG BYA LO NYER DRUG PA, RAB BYUNG BCO LNGA'I LCAGS PHO BYI LOR DGA' LDAN DANG RGYAS GLING GI NYE 'DABS SU SHOG GUR 'BEBS SO, ,DZA YANTU, ,)",
+    "author_simple": "NGAG DBANG BSRUNG SKYABS,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "8A-9A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "20.5x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "27x8.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T13:35:23.673785+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

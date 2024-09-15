@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0058141-013",
+    "input_file_number": "W1NLM228-I1NLM228",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,GCOD KYI ZIN BRIS NYUNG DU BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@004A *, ,('DI YANG KUN MKHYEN 'JAM DBYANGS BZHAD PA'I SDE'I, ,THUGS RJE LA BRTEN BKRA SHIS 'KHYIL GLING GI, ,LHO RGYUD MDO SNGAGS CHOS SGRA SGROGS PA'I TSAL, ,DGA' LDAN CHOS 'KHOR GLING DU LEGS PAR GRUB,, ,,MANGGA LAm,, ,,)",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-4A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "47.5x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "52.5x8.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "publisher_(хэвлэсэн_буюу_бүтээсэн_хийд_буюу_бархан)": "DGA' LDAN CHOS 'KHOR GLING,",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-13T23:47:32.860157+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0066096-013",
+    "input_file_number": "W1NLM8178-I1NLM8178",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@003A *, ,'DI YI DGE BAS BDAG GZHAN 'GRO BA KUN, ,SHI 'PHO GYUR BA'I MDO LA DGA' LDAN DU, ,CHOS KYIS MTHON PA'I KHANG BZANG DER SKYES NAS,]",
+    "colophon_(төгсгөлийн_үг)": "@003B ('DI NI RJE'I GSUNG NGO,, ,,)",
+    "author_simple": "RJE BLO BZANG GRAGS PA,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "3A-6A INC [* Missing page from 4A-5B *]",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "18x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "22.5x7.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T09:53:08.397236+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0063050-009",
+    "input_file_number": "W1NLM5132-I1NLM5132",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,MYUR BYON SMON TSIG RE BSKONGS BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@002B (CES SKU 'BUM MKHAN ZUR ZHABS DRUNG PA YE SHES BSTAN 'DZIN NYI MA'I YANG SPRUL MYUR BYON GSOL 'DEBS PAS 'DI NI DGON PA DGA' LDAN DAR RGYAS GLING CHE CHUNG GNYIS KYI GRVA RIGS THUN MONGS NAS MAndAL RTEN GSUM LHA DANG CHE SKU RIN CHEN GNYIS PA'I DNGOS 'BUL DANG BCAS PAS BSKUL NGOR, ^TI LO PA'I SPRUL MING NGAG DBANG BLO BZANG BSTAN PA'I BDAG POS SUG LAS SU BGYI BA DGE LEGS 'PHEL, ,)",
+    "author_simple": "NGAG DBANG BLO BZANG BSTAN PA'I BDAG PO, ",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-2B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "17x4",
+    "size_of_pages_(хуудасны_хэмжээ)": "19.5x4",
+    "text_format_(бичвэрийн_төлөв)": "MS ",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T04:32:41.833487+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

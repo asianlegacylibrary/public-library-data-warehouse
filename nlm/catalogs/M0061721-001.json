@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0061721-001",
+    "input_file_number": "W1NLM3803-I1NLM3803",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,THEG PA CHEN PO RGYUD BLA MA'I 'GREL PA NGES DON GSAL BAR BYED PA'I 'OD ZER ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@117B THEG PA CHEN PO RGYUD BLA MA'I 'GREL BA NGES DON GSAL BAR BYED PA'I 'OD ZER ZHES BYA BA, CHOS SMRA BA'I BTZUN PA @118A *, ,THOGS MED KYIS DPAL AE'I CHOS GRVA CHEN POR SBYAR BA RDZOGS SO,, ,, ",
+    "author_simple": "THOGS MED,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-119A ",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "37x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "44x8.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T02:50:19.696939+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

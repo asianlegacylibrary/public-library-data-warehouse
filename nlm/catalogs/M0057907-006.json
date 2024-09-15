@@ -1,0 +1,40 @@
+{
+    "nlm_catalog": "M0057907-006",
+    "input_file_number": "W1NLM13-I1NLM13",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "` GSOL 'DEBS BYIN RLABS GNAD 'BEBS MA BZHUGS SO, , *, ,MA CIG GSANG SPYOD SNYAN RGYUD LAS CHOG 'KHRIGS RGYAS PA DGOS 'DOD KUN 'BYUNG ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@036B (CES 'GRO 'CHAG NYAL 'DUG STE @037A *, ,SPYOD LAM RNAM BZHI CI BYED KYANG , SGYU MA RMI LAM GYI LAM 'KHYER NGANG NAS BYED, MA CIG GI CHOG 'KHRIGS RGYAS PA 'DI NYID PHA RGOD RGYAL MTSAN DPAL BZANG POS MDZAD PA LTAR GSHONGS CHEN RI KHROD PA MKHAS BTZUN BSTAN PA'I RGYAL MTSAN DPAL BZANG POS GNYAN KHROD BRGYA RTZAR SONG DUS SU GRUB PA MCHOG GI BSTI GNAS PA, GSHONGS CHEN DPAL GYI RI KHROD DU SBYAR BA'O, ,YIG CHUNG 'DI RNAMS RI BO CHE'I PHYAG DPE NAS BSHUS PA GCIG LA MA DPE BYAS NAS ZHUS DAG BYAS PA LAGS PAS KHRUNGS LAGS SO, , SARBA MANGGA LAm, ,)",
+    "author_simple": "RGYAL MTSAN DPAL BZANG PO,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-37A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "18x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x9",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-13T22:54:54.766967+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-09-13T22:56:56.775951+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "updated"
+        },
+        {
+            "timestamp": "2024-09-13T23:03:26.594359+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "updated"
+        },
+        {
+            "timestamp": "2024-09-13T23:25:02.931211+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "updated"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0059395-004",
+    "input_file_number": "W1NLM1477-I1NLM1477",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,RANG GI RTZA BA'I BLA MA RNAMS KYI BKA' DRIN RJES SU DRAN PA'I SGO NAS GSOL 'DEBS NGAG TU BRJOD NI, ,",
+    "colophon_(төгсгөлийн_үг)": "@001B (CES PA 'DI YANG LCANG SKYA RIN PO CHE NGAG DBANG CHOS LDAN GYI GSUNGS SO,, ,,)",
+    "author_simple": "NGAG DBANG CHOS LDAN,",
+    "cover_type_(хавтасны_төрөл)": "WOODEN BOX",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-1B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "39.5x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "44x8.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T11:17:34.198685+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

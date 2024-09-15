@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0058928-014",
+    "input_file_number": "W1NLM1015-I1N1M1015",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,DPAL 'KHOR LO BDE MCHOG GI RKANG BRGYAD BSTOD PA DANG SMON LAM CI RIGS LA BRTEN NAS 'CHI BA BLU BA SOGS RANG GZHAN GYI DON SGRUB TSUL PHAG MO LA YANG SBYAR CHOG PA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@005A *, ,(ZHES PA'ANG GONG BSTUN BRIS, ,)",
+    "author_simple": "GONG BSTUN,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Medium",
+    "volume_(боть)": "GA PA,",
+    "page_numbers_(хуудасны_дугаар)": "1A-5A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "43.5x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "52.5x9",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T05:48:49.486600+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

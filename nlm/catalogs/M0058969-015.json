@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0058969-015",
+    "input_file_number": "W1NLM1056-I1N1M1056",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,MGON DKAR YID BZHIN NOR BU MCHOD THABS RGYAS PAR BYA TSUL BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@009A *, ,(CES PA 'DI NI GRUB BRNYES DAM PA 'GAS MDZAD PA'I CHOS SKYOD GNAN MCHOD THABS KYI RIGS 'GRE BKAB NAS BTZUN GZUGS NGAG DBANG PAS BRIS PA'O, ,)",
+    "author_simple": "NGAG DBANG,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "GA PA,",
+    "page_numbers_(хуудасны_дугаар)": "7A-9A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "47x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "52x9.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T05:48:57.969986+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

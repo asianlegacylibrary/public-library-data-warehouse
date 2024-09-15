@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0062826-011",
+    "input_file_number": "W1NLM4908-I1NLM4908",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,ZAB MO LHA BA'I ZIN BRIS THAR LAM SNANG BA ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@021A *, ,(CES PA 'DI'ANG AU CU MU CHIN SHOG NAS DAD BRTZON LDAN PA DKON MCHOG GRAGS PAS LON SBYAR TE DPAR DU BSGRUBS PA'I TSE BRIS PA'O,, ,,)",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "GA PA,",
+    "page_numbers_(хуудасны_дугаар)": "1A-21A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "45.5x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "53x9.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T13:52:01.302907+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

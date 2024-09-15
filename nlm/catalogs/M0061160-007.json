@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0061160-007",
+    "input_file_number": "W1NLM3242-I1NLM3242",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@011A *, ,AOm RANG NYID LHAG PA'I LHA RU GSAL BA YI, ,MDUN DU BHRUm LAS RIN CHEN SNOD YANGS SU, ,AOm LAS MCHOD GTOR DVANGS SHING THOGS PA MED, ,ZAG MED BDUD RTZI'I RGYA @011B MTSO CHEN POR GYUR, ,]",
+    "colophon_(төгсгөлийн_үг)": "@011B (CES PA 'DI NI LHA 'DI'I RNAL 'BYOR BA GNAS BRTAN DKON MCHOG NAM MKHAS BSKUL NGOR, ^RATNA DHVA DZAS THE BO SHEL DKAR GYI MDUN SMAN GYI RDZING BU'I NANG DU SBYAR BA'O, ,SARBA MANGGA LAm, ,)",
+    "author_simple": "RATNA DHVA DZA,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "CA PA,",
+    "page_numbers_(хуудасны_дугаар)": "11A-11B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "47.5x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "53x9.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T02:31:30.700556+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

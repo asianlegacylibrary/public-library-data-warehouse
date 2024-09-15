@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0060592-012",
+    "input_file_number": "W1NLM2674-I1NLM2674",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "#, ,KHYAD PAR DU 'PHAGS PA'I BSTOD PA ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@012B RGYA GAR GYI MKHAN PO SARBA DZNY'A DE WA DANG, ZHU CHEN GYI LOTZTSA BA BAN DE RIN CHEN MCHOG GIS BSGYUR, SLAD KYIS BAN DE DPAL BRTZEGS RA SHI HAS BSGYUR CING ZHUS TE GTAN LA PHAB PA'O,, ,,@013A *, ,RGYAL BA SRAS DANG BCAS LA GUS PAS 'DUD, GANG LA SKYABS GTZAL RIGS PA'I YON TAN RNAMS, ,SANGS RGYAS RNAMS LA YOD PAR YONGS GCOD NAS, ,'JIG RTEN MTHU LDAN GZHAN LA RNAMS BCAD CING, ,SKYABS SU MI 'OS SKYON RNAMS BZLOG SBYAR SOGS, ,YA MTSAN RIGS PA'I 'PHRUL LDAN BSTOD PA GSUM, ,SPAR DU BSGRUN DGES MKHA' MNYAM SEMS CAN KUN` `SKYABS GSUM KHO NAR MI PHYED DAD 'THOB SHOG ,BSTAN 'GYUR BSTOD TSOGS SKOR BZHUGS BSTOD 'GREL GNYIS, ,GZIGS RTOGS MDZAD CING GZHAN LA'ANG STON CIG PA'I, ZHU BA DGE BSHES RNAMS LA LAN GSUM 'BUL, ,SPAR 'DI AI RTEN JO BO'I DGON PAR GNAS,, ,,DGE'O, ,",
+    "translator_(орчуулагч)": "SARBA DZNY'A DE WA, RIN CHEN MCHOG",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "KA PA,",
+    "page_numbers_(хуудасны_дугаар)": "1A-13A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "15x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "20.5x8.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T12:15:03.560398+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

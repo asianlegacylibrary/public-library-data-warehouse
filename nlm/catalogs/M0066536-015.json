@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0066536-015",
+    "input_file_number": "W1NLM8618-I1NLM8618",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "#, ,LHAG PA'I SMON LAM BZHUGS SO,, ,,",
+    "colophon_(төгсгөлийн_үг)": "@005B (CES DPAL MGON PO KLU SGRUB KYIS MDZAD PA'I SMON LAM THEM SKAS MA 'DI NYIN RE BZHIN DU TSAR RE MA CHAGS PAR BTON NA BSKAL BA STONG GI SDIG SGRIB BAG CHAGS THAMS CAD BYANG ZHING DAG STE MYUR DU MNGON PAR RDZOGS PA'I SANGS RGYAS KYIS SA LA DKOD PAR THE TSOM MED DO,, ,,)",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "MEDIUM",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-6A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "17.5x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "20x8",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T17:03:51.544648+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

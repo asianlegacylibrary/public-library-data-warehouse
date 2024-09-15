@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0066321-011",
+    "input_file_number": "W1NLM8403-I1NLM8403",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,MTHA' YAS MA BZHUGS, ,",
+    "colophon_(төгсгөлийн_үг)": "@005A *, ,(CES THOG MA DANG BAR DANG THA MAR DGE BA'I SMON LAM 'DI NI MANG DU THOS PA'I RGYAL KHAMS PA @005B BLO BZANG GRAGS PA'I DPAL GYIS GZHO STOD DPAL GYI 'BRI KHUNG THEL DU SBYAR BA'O,, ,,)",
+    "author_simple": "RJE BLO BZANG GRAGS PA,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-5B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "21x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "27x8.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL ",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T16:47:27.955938+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

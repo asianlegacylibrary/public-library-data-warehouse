@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0063759-014",
+    "input_file_number": "W1NLM5841-I1NLM5841",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,DBUS DANG MTHA' RNAM 'BYED BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@021A *, ,RGYA GAR GYI MKHAN PO DZI NA MITRA DANG, SH'I LENDRA BODHI DANG` ZHU CHEN GYI LOTZTSA BANDHE YE SHES SDES BSGYUR CING ZHUS TE GTAN LA PHAB PO`` ``",
+    "translator_(орчуулагч)": "DZI NA MITRA, SH'I LENDRA BODHI,  BANDHE YE SHES SDE,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-21A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "15x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "19.5x7.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T14:23:15.674822+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

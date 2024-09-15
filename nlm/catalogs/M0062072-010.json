@@ -1,0 +1,26 @@
+{
+    "nlm_catalog": "M0062072-010",
+    "input_file_number": "W1NLM4154-I1NLM4154",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@001B NA MO GU RU, SKU GSUNG YE SHES LNGA LDAN, ,RAB 'BYAMS DKYIL 'KHOR KUN GYI, ,KHYAB BDAG RDO RJE 'CHANG DBANG, ,]",
+    "colophon_(төгсгөлийн_үг)": "@005A *, ,(CES BLA MA'I DANG 'BOD BLA MA'I DAM PA'I THUGS RJE'I BSKUL ZHING BYEN BA RLABS 'GUD PA'I LCAGS KYU ZHES BYA BA 'DI YANG, BYA KHUNG CHOS RJE'I BSTAN PA RIN CHEN SOGS KYIS NAN CHEN BSKUL BA LA BRTEN PA DANG, RJE BTZUN BLA MA'I DAM PA RNAMS KYI BKA' 'BAR BA THA CHUNG, CHOS SMRA BA DGE SLONG CHOS KYI RGYAL MTSAN CHOS GRVA CHEN PO BKRA SHIS LHUN PO GTZUG LAG KHANG DU SBYAR BA'O, ,)",
+    "author_simple": "CHOS KYI RGYAL MTSAN,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1B-5A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "17x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "21.5x8",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "publisher_(хэвлэсэн_буюу_бүтээсэн_хийд_буюу_бархан)": "CHOS GRVA CHEN PO BKRA SHIS LHUN PO GTZUG LAG KHANG,",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T13:01:50.060322+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

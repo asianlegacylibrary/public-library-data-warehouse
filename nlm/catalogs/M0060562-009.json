@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0060562-009",
+    "input_file_number": "W1NLM2644-I1NLM2644",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,'PHAGS PA 'JAM DPAL GYI BSANGS MCHOD BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@005A *, ,(CES 'PHAGS PA RJE BTZUN 'JAM DPAL DBYANGS KYIS BSANGS DON KUN GRUB PA ZHES BYA BA 'DI @005B 'DI NI, KLU DANG SA BDAG SOGS KYI NAD DANG GNOD PA THAMS CAD ZHI BA DANG, LHA KHANG 'DU BRTZIGS DUR BTAB BAG MA BTONG LEN SOGS LAS CI BYED KYANG, RNAMS LA NGOS PAR DGOS PA'I PHYIR, LHA'I BTZUN PA SU MA TI MING CAN GYIS RANG GIS DAD PA'I SBYAR BA'O, ,BKRA SHIS, ,)",
+    "author_simple": "SU MA TI MING CAN,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-5B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "17x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "21.5x7.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T12:10:02.372932+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

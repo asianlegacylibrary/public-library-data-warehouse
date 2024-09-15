@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0063474-014",
+    "input_file_number": "W1NLM5556-I1NLM5556",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,GSANG SNGAGS RDO RJE THEG PA'I DAM TSIG GI RNAM BZHAG BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@008A *, ,(THUN DRUG GI RNAL 'BYOR GYI SDOM 'DI GYI NA BA NGAG DBANG BLO BZANG CHOS LDAN ZHES PAS BRIS PA DGE LEGS 'PHEL BAR GYUR CIG ,MANGGA LAm, ,)",
+    "author_simple": "BLO BZANG CHOS LDAN,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "CA PA,",
+    "page_numbers_(хуудасны_дугаар)": "1A-8A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "48x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "53.5x10",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T14:14:13.052546+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

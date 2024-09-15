@@ -1,0 +1,40 @@
+{
+    "nlm_catalog": "M0057910-019",
+    "input_file_number": "W1NLM16-I1NLM16",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,RTA MGRIN GSANG SGRUB KYI CHOS SKOR LAS, GLUD CHOG MCHOG SBYIN RGYA MTSO BZHUGS, ,",
+    "colophon_(төгсгөлийн_үг)": "@013B ('DI YANG DHARMA BADZRA GYIS, RTA MGRIN CHOS SKOR YAN LAG TU, SBYAR BA'I YI GE'I 'DU BYED MKHAN, DGE SLONG BLO BZANG KUN DGA' YIN, ,)",
+    "author_simple": "DHARMA BADZRA,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-13B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "16x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "21.5x8.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-13T22:55:51.480106+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-09-13T22:57:52.402948+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "updated"
+        },
+        {
+            "timestamp": "2024-09-13T23:04:25.258689+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "updated"
+        },
+        {
+            "timestamp": "2024-09-13T23:26:02.887914+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "updated"
+        }
+    ]
+}

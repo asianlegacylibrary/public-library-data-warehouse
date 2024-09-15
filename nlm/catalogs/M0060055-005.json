@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0060055-005",
+    "input_file_number": "W1NLM2137-N1M2137",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@056A *, ,NA MO BADZRA BHI RA W'A YA, BLA MA MCHOG DANG SKYO'I 'CHI BDAG GSHED, DBYER MED BCOM LDAN 'DAS MA'I ZHABS DUD NAS, ,DE NYID DGYES BYED MCHOD PA'I SPRIN GYI PHRENG,]",
+    "colophon_(төгсгөлийн_үг)": "@059A *, ,(CES PA 'DI YANG DBU MDZAD SNGAGS RAMS PA DGE 'DUN 'JAM DBYANGS SOGS KYIS YAN YAN NAN GYIS BSKUL NGOR, GSHIN RJE'I GSHED KYI RNAL 'BYOR PA BLO BZANG CHOS KYI RGYAL MTSAN GYIS, ,BLA MA DAM PA RNAMS KYI @059B PHYAG BZHIS BZHIN BRIS PA'O, ,)",
+    "author_simple": "BLO BZANG CHOS KYI RGYAL MTSAN,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Medium",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "56A-59B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "14.5x4.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "19x6",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T06:03:55.566258+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

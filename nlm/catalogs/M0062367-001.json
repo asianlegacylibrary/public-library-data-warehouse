@@ -1,0 +1,23 @@
+{
+    "nlm_catalog": "M0062367-001",
+    "input_file_number": "W1NLM4449-I1NLM4449",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "ST",
+    "full_title_(бүтэн_гарчиг)": "*, ,'DUL BA DKA' GNAS RNAM PAR DPYAD PA 'KHRUL SPONG BLO GSAL MGUL RGYAN TSINDA MA nI'I PHRENG MDZES SKAL BZANG RE BA KUN SKONG BZHUGS SO, ,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "CHA PA,",
+    "page_numbers_(хуудасны_дугаар)": "1A-131B INC [*Missing page from 132a*]",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "47x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "53x8.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T13:22:01.476404+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0060472-002",
+    "input_file_number": "W1NLM2554-I1NLM2554",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,MDOS KYI CHA LAG MCHOD CHEN NYI SHU RTZA LNGA'I ZHUS LAN BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@008B (SLOB DPON PADMA 'BYUNG GNAS KYI MA MO SRID PA'I BEM GYI MDOS RGYUD LAS BYUNG BA'I MDOS KYI CHA LAG MCHOD CHEN NYER LNGA BA RDZOGS SO, ,MANGGA LAm, ,)",
+    "author_simple": "SLOB DPON PADMA 'BYUNG GNAS,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-8B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "25.5x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "30.5x8.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T02:09:11.683552+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

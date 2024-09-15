@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0059619-011",
+    "input_file_number": "W1NLM1701-N1M1701",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,'PHAGS PA PHUNG PO GSUM PA ZHES BYA BA'I MDO BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@008B ('PHAGS PA PHUNG PO GSUM PA ZHES BYA BA THEG PA CHEN PO'I MDO RDZOGS SO, ,ZHES PA 'DI YANG CHOS GRVA CHEN PO BKRA SHIS 'KHYIL DU DPAR DU BSGRUB PA'O, ,SARBA MANGGA LAm, ,)",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Medium",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-8B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "21x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "26x8.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "publisher_(хэвлэсэн_буюу_бүтээсэн_хийд_буюу_бархан)": "BKRA SHIS 'KHYIL,",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T05:58:48.252243+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

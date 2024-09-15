@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0060885-008",
+    "input_file_number": "W1NLM2967-I1NLM2967",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,BSANGS MCHOD BKRA SHIS CHAR 'BEBS MCHOD SPRIN RGYA MTSO ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@008B CES PA 'DI NI DGON SDE'I BKRA @009A *, ,SHIS CHOS GLING DU PAR DU BSGRUB PA'O, ,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-9A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "20x5",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x7",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "publisher_(хэвлэсэн_буюу_бүтээсэн_хийд_буюу_бархан)": "BKRA SHIS CHOS GLING,",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T02:24:34.518242+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

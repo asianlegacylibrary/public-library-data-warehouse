@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0061773-014",
+    "input_file_number": "W1NLM3855-N1M3855",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,'JAM MGON BSTAN BSRUNG CHOS KYI RGYAL PO'I 'PHRIN BCOL LAS BZHI LHUN GRUB CES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@003A *, ,(CES DAM CAN CHOS KYI RGYAL PO LA MCHOD GTOR PHUL NAS BZHI LHUN GRUB KYI 'PHRIN BCOL MDOR BSDUS 'DI NI BSGRUB SDE CHEN PO BKRA SHIS 'KHYIL GYI GRVA RIGS RNAM DPYOD YANGS PA'I THABS MKHAS KYIS YAS NAS YANG DU @003B RNA GTZES PA'I RKYEN KYIS CHOS MED SPRANG BA'I YAN THAN RKAN SMYON BA'I GANG DRAN KHANG THON NAS BRIS PAS GZHAN LA STON GTAN NAS MI RLUNG PA 'O TSA BA'I GNAS YIN LAGS, ,)",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-3B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "18.5x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x7",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T06:23:26.960451+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

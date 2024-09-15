@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0058219-005",
+    "input_file_number": "W1NLM306-I1N1M306",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@006B MCHOG DANG MTHUN MONGS DNGOS GRUB 'DOD DGU'I CHAR, STZOL LA YID BZHIN NOR BU JI BZHIN KYANG,]",
+    "colophon_(төгсгөлийн_үг)": "@006B (CES PA 'DI NI HAL HA DZA SAG AUS DZING T'A CHING RTA MGRIN SKYABS KYI HO SHO NAS, DAD BRTZON DANG LDAN PA DGE SLONG BLO BZANG CHOS 'PHEL GYIS BSKANG GSO RNAMS NYI BAR GSAR BSKRUN BGYIS PA'I SMON TSIG DGOS ZHES @007A *, ,BSKUL NGOR, SH'AKYA'I BTZUN PA SMIN GROL NO MON HAN NGAG DBANG 'PHRIN LAS RGYA MTSOS SBYAR BA'O, ,)",
+    "author_simple": "NGAG DBANG 'PHRIN LAS RGYA MTSO,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Medium",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "6B-7A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "32x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "42.5x9",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T05:36:58.098765+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

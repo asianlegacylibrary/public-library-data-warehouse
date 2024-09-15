@@ -1,0 +1,23 @@
+{
+    "nlm_catalog": "M0058934-001",
+    "input_file_number": "W1NLM1021-I1NLM1021",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,DGE 'DUN NYI SHU'I MTHA' DPYOD RJE BTZUN CHOS KYI RGYAL MTSAN DPAL BZANG PO'I GSUNG RTZOL DRI MA MED PA MKHAS PA'I MGUL RGYAN BZHUGS SO, ,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-53B INC [*missing page from 54A*]",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "46x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "52.5x9.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T00:34:00.859812+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

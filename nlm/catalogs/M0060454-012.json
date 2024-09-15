@@ -1,0 +1,26 @@
+{
+    "nlm_catalog": "M0060454-012",
+    "input_file_number": "W1NLM2536-I1NLM2536",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,KHANG KA'I RGYAL PO'I GSOL KHA SHIN TU BSDUS PA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@004A *, ,(CES PA KHANG KA'I RGYAL PO'I GSOL KHA SHIN TU BSDUS PA 'DI NI DON GNYER CAN GYIS BSKUL BA'I NGOR SA MTHA'I LHA'I BTZUN PA ^BLO BZANG MING 'CHANG BAS DGA' LDAN BKRA SHIS DGE 'PHEL GYI BLA BRANG DU BKOD PA'O, ,)",
+    "author_simple": "BLO BZANG MING 'CHANG BA,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "MEDIUM",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1B-4A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "15.5x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "20x7.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "publisher_(хэвлэсэн_буюу_бүтээсэн_хийд_буюу_бархан)": "DGA' LDAN BKRA SHIS DGE 'PHEL GYI BLA BRANG,",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T02:05:07.787392+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0066399-014",
+    "input_file_number": "W1NLM8481-I1NLM8481",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,LHA BA NAG PO'I BCOS THABS MI MTHUN KUN 'JOMS ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@007B (ZHES PA 'DI NI DGE SLONG PADMA RGYAL PO RTZAL GYIS SGRIGS PA 'DIS NYAM THAG PA'I SEMS CAN RNAMS LA PHAN PA RGYA CHEN POR 'GYUR RO, ,)",
+    "author_simple": "PADMA RGYAL PO RTZAL,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "MEDIUM",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-7B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "30.5x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "34.5x8.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T16:58:03.238277+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

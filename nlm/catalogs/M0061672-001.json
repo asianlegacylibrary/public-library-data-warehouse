@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0061672-001",
+    "input_file_number": "W1NLM3754-N1M3754",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,PHAR PHYIN ZUR BKOL BZHI'I SKOR LAS DRANG NGES MTHA' DPYOD KYI GSUNG BSHAD ZIN BRIS BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@055A *, ,SNGON MED 'PHRIN LAS BZANG PO'I MNGA' THANG GIS, ,BSTAN 'GRO YONGS LA DBANG BSGYUR SKYOBS MGON RJES, ,BRTZEMS RJES BZUNG BSHAD SGRUB DAR RGYAS GLING, ,GANG DER CHOS SBYIN MI ZAD MDZOD 'DI SPEL,, ,,MANGGA LAm, ,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Medium",
+    "volume_(боть)": "GA PA,",
+    "page_numbers_(хуудасны_дугаар)": "1A-55A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "46.5x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "47.5x7.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "publisher_(хэвлэсэн_буюу_бүтээсэн_хийд_буюу_бархан)": "BSHAD SGRUB DAR RGYAS GLING,",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T06:22:14.345421+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

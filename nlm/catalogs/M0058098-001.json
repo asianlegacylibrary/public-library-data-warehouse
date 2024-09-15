@@ -1,0 +1,23 @@
+{
+    "nlm_catalog": "M0058098-001",
+    "input_file_number": "W1NLM185-I1NLM185",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,RTZIS KYI BSTAN BCOS BEE DKAR GYI, ,LO ZLA ZHAG DUS SA BDAG SOGS, ,GTAN YE 'BRAS BCAS NYUNG BSDUS PA, ,RAB DKAR SHIN DVANGS ME LONG BZHUGS SO, ,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "MEDIUM",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-158A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "18.5x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x9",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-13T23:43:17.012366+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

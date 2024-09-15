@@ -1,0 +1,23 @@
+{
+    "nlm_catalog": "M0063196-010",
+    "input_file_number": "W1NLM5278-I1NLM5278",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,SMAN BLA BDE GSHEGS BDUN GYIS CHOG LA BRTEN PA'I 'CHI BSLU BA'I CHO GA ZLA BA'I 'OD ZER ZHES BYA BA BZHUGS SO, ,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-14B INC [*Missing page from 15a*]",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "15.5x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "17.5x7.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T14:06:38.004331+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

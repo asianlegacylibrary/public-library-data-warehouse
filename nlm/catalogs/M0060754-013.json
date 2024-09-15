@@ -1,0 +1,26 @@
+{
+    "nlm_catalog": "M0060754-013",
+    "input_file_number": "W1NLM2836-I1NLM2836",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,GRIB SEL GYI GSOL 'DEBS SNGAGS DANG BCAS PA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@005A *, ,(ZHES GRIB SEL GYI GSOL 'DEBS SNGAGS DANG BCAS PA 'DI NI, GZHAD RDOR MING CAN GYIS ME MO SPRUL LO ZLA BA DANG PO'I MAR NGO'I TSES BCUR RI KHROD AE WAm DGA' 'KHYIL DU SBYAR BA'I YI GE PA NI BSOD NAMS DBANG PHYUG NGO, ,BKRA SHIS DGE LEGS 'PHEL BAR SHOG , ,,)",
+    "author_simple": "BZHAD RDOR MING CAN, ",
+    "dates_of_the_author_(зохиогдсон_өдөр)": "ME MO SPRUL LO ZLA BA DANG PO'I MAR NGO'I TSES BCU,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-5A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "16.5x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x8.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T12:23:18.884414+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

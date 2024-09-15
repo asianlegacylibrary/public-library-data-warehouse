@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0065563-005",
+    "input_file_number": "W1NLM7645-I1NLM7645",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,MDO TSIG SKAR MA RAB RIB MA'I 'BRU 'GREL BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@008B (CES PA 'DI NI MDO TSIG SKAR MA RAB RIB MA'I 'BRU 'GREL DPAL LDAN RDO RJE DANG DPAL LDAN GYIS BGYIS BCUG LA, ,BDEN STONG SGYU MA LTA BU'I SNANG TSUL LA SBYONG BA'I DON DU GSUNG RAB LAS DPE MANG PO GSUNG BA @009A *, ,RNAMS PHYOGS GCIG TU BTUS TE, ^ DBANG RDOR GYIS BRIS PA 'DI YANG BSANG GSUR SOGS KYI MJUG TU 'DON CHOG PA'I TSUL DU BYA BA YIN NO,, ,,)",
+    "author_simple": "DBANG RDOR,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Poor",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-9A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "17x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "21.5x7.2",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T09:12:15.376312+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

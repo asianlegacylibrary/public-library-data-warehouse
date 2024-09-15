@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0058776-001",
+    "input_file_number": "W1NLM863-I1NLM863",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,LEGS BSHAD MKHAS PA'I MGUL BRGYAN ZHES BYA BA LAS SKABS GNYIS PA'I MTHA' DPYOD BZHUGS S+HO, ,",
+    "colophon_(төгсгөлийн_үг)": "@053B BLO BZANG BSTAN PA'I NYI MAS BYAS PA'I LEGS BSHAD MKHAS PA'I MGUL RGYAN LAS SKABS GNYIS PA'I SKABS KYI BSHAD PA RDZOGS SO,, ,,MANGGA LAm, ,",
+    "author_simple": "BLO BZANG BSTAN PA'I NYI MA,",
+    "cover_type_(хавтасны_төрөл)": "PAPER COVER",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-53B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "48x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "52x9.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T00:30:18.009776+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

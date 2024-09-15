@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0060125-014",
+    "input_file_number": "W1NLM2207-I1NLM2207",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,DE NAS LAM GTOR BSNGO BA NI, ,",
+    "colophon_(төгсгөлийн_үг)": "@005B (CES DANG, BDAG GI BSAM PA'I ZHES SOGS BDEN STOBS BRJOD, ZHABS DRUNG HU THUG THU BKA' @006A *, ,BSKUL BA'I GA-YAR KHRAL DU BLO BZANG DPAL MGON MING CAN GYIS SUG BRIS PA'O, ,)",
+    "author_simple": "BLO BZANG DPAL MGON,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "5B-6A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "16.5x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "21.5x8",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T11:54:48.670271+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

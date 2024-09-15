@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0060361-009",
+    "input_file_number": "W1NLM2443-I1NLM2443",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@003B NA MO GU RU RATNA TRA Y'A YA, THUB CHEN MCHOG LA PHYAG 'TSAL NAS, ,THEG CHEN GSO SBYONG LEN PA'I TSUL, ,GUS PA'I YID KYIS 'DIR SPEL TE, ,KUN MKHYEN SA BON BRTAS PAR BYA, ,]",
+    "colophon_(төгсгөлийн_үг)": "@007B (ZHES PA 'DI NI NGAG DBANG RANG GI NYER MKHO'I BRJED BYANG DU BRIS PA'O, ,)",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "3B-7B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "19x5",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x7",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T01:59:24.790634+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

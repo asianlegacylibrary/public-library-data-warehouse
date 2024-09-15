@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0062583-012",
+    "input_file_number": "W1NLM4665-I1NLM4665",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,LHAG LHA RNAM GSUM GYI SGO NAS MNOL BSANG BYED TSUL ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@005A *, ,(DE LTA BU'I LHAG LHA RNAM GSUM GYIS GRIB DANG MI GTZANG BA SEL BA LA BYIN RLABS DANG MTHU CHE BAR GSUNGS PAS RTEN 'BREL RNAMS 'DI LTAR 'JAM PAS NYE SKYON MANG PO SEL BA LA SMOS CI DGOS, ,SNGAGS TZAM BRJOD PA'ANG PHAN YON BSAM GYIS MI KHYAB PA STE DE'I LHA RNAMS GSAL BAR DMIGS DGOS, ,DES NA BSANGS RDZAS DANG LHA MNGON RTOGS SOGS RGYAS PA TZAM NI GZHAN NAS BLANGS TE CUNG ZAD BYIN BCUG DANG BCAS BRIS PA LAGS, ,'DI'I RTZA BA'I YI GE LA 'DRA MIN TZAM 'GA' ZHIG SNANG BA'ANG DAG YIG MA RNYED PAS ZHUS DAG GAL CHE'O, ,'DIS KYANG BSTAN PA DANG 'GRO BA RNAMS LA PHAN THOGS PA'I RGYUR GYUR CIG , ,,DGE LEGS 'PHEL, ,)",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-5A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "15x4.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "18x5.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T07:02:22.885883+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

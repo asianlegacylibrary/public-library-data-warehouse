@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0062639-023",
+    "input_file_number": "W1NLM4721-I1NLM4721",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,RGYA NAG SKAG BZLOG GI SKAG BCOS DAR GTZUGS BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@004B PAn CHEN RIN PO CHE BLO BZANG CHOS KYI RGYAL MTSAN GYIS MDZAD PA DAM CAN RDOR LEGS KYI DAR LCOGS RDZOGS SO, ,BKRA SHIS,, ,,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-3B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "17x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "21.5x8.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T04:00:47.187859+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

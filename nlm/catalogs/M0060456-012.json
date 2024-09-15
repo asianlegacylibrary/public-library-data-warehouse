@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0060456-012",
+    "input_file_number": "W1NLM2538-I1NLM2538",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,SKAL BZANG SANGS RGYAS STONG GI SNYING SNGAGS BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@003A *, ,(CES PA 'DI NI NOM CHIS GNAS RTAN BRIS: RJE BTZUN DAM @003B PA HU THOG THU: AA RGYA HU THOG THU GNYIS BSHAD DO: BYANG CHUB GLING DU SBYAR BA'O: SA MA YA: RGYA: RGYA: RGYA: MANGGA LAm: MA DAG:)",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-3B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "15x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "20.5x8",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "publisher_(хэвлэсэн_буюу_бүтээсэн_хийд_буюу_бархан)": "BYANG CHUB GLING,",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T02:05:35.098939+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

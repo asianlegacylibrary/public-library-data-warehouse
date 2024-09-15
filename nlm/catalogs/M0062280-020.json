@@ -1,0 +1,23 @@
+{
+    "nlm_catalog": "M0062280-020",
+    "input_file_number": "W1NLM4362-I1NLM4362",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@001A *, ,BCOM LDAN 'DAS DE BZHIN GSHEGS PA  xx DE BZHIN GSHEGS PA THUGS MDZES xx DE BZHIN GSHEGS PA SKU xx DE BZHIN GSHEGS PA 'JIGS PA xx PHYAG 'TSAL LO, ,]",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-1B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "16.5x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "20x7",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T13:15:59.972329+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

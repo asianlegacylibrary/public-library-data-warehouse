@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0059245-014",
+    "input_file_number": "W1NLM1327-I1NLM1327",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,KHA CHAR BZLOG THABS BZHUGS, ,",
+    "colophon_(төгсгөлийн_үг)": "@002A *, ,(CES 'DI DPAL MGON BZHAD PA'I RDO RJE MING CAN GYIS BRIS PA'O, ,)",
+    "author_simple": "DPAL MGON BZHAD PA'I RDO RJE,",
+    "cover_type_(хавтасны_төрөл)": "WOODEN BOX",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-2A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "16.5x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "21x7.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T00:49:41.283742+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

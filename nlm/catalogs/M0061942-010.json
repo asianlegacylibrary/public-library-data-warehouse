@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0061942-010",
+    "input_file_number": "W1NLM4024-I1NLM4024",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,BYAMS PA'I DAM BCA'I GZUNGS PA BZLA TSUL BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@003A *, ,'DI YANG ^PA tU SIDDHIS RANG GI NYAMS LEN DU DGOS PAR MTHONG NAS DAM PA'I MAN NGAG BZHIN DU 'BOL RTZOMS SU BRIS, ,'DIS KYANG 'GRO KUN BYAMS MGON GYIS RJES SU 'DZIN PA'I RGYUR GYUR CIG , ,,",
+    "author_simple": "PA tU SIDDHI,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "POOR",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-3A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "48.5x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "61.5x10.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T03:00:08.700958+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

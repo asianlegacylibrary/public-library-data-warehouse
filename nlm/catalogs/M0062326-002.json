@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0062326-002",
+    "input_file_number": "W1NLM4408-I1NLM4408",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,MKHA' 'GRO GRIB SEL BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@005B (CES PA 'DI GRUB THOG AU RGYAN PA'I LUGS BZHIN DU, SNYIGS DUS KYI SNGAGS PA SANGS RGYAS DAR RGYAS KYIS BRIS PA'O,, ,,)",
+    "author_simple": "SANGS RGYAS DAR RGYAS,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-5B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "14x4.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "16.5x6.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T03:39:48.300494+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

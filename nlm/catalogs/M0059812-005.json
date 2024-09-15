@@ -1,0 +1,23 @@
+{
+    "nlm_catalog": "M0059812-005",
+    "input_file_number": "W1NLM1894-I1NLM1894",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,RAB BYUNG BCU BZHI PA'I SPRE'U ZHES PA ME MO LUG LO'I LE'U THO LEGS NYES BLANG DOR GSAL BYED ME LONG BZHUGS SO, ,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-28A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "22.5x8.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "22.5x8.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T01:27:43.233367+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

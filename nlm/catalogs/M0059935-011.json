@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0059935-011",
+    "input_file_number": "W1NLM2017-I1NLM2017",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@001A *, ,H'Um 'KHOR 'DAS CHOS KUN SEMS KYI 'PHRUL, ,SEMS KYANG RTAGS NA SKYE 'GAG BRAL, ,KUN RDZOB 'KHRUL BA'I SNANG NGO RU, ,SNANG ZHING SRID PA'I 'KHOR LOR SHAR, ,]",
+    "colophon_(төгсгөлийн_үг)": "@002B (CES SDE BRGYAD 'KHRUGS BSKANG LTA BU 'DI DANG, BDAG 'TRA SA BCES PAR NUS PA MA MCHIS KYANG PHAN PA'I SEMS KYIS BSKUL TE, DON GNYER CAN 'GA'O NGOR ^RING PO CHOS RJE'I SKYE MING BA BLO BZANG 'PHRIN LAS KYIS BRIS PA DZA YANTU,, ,,)",
+    "author_simple": "BLO BZANG 'PHRIN LAS,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-2B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "18x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "21.5x8.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T11:44:26.381122+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0066691-006",
+    "input_file_number": "W1NLM8773-I1NLM8773",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,BYANG CHUB SEMS DPA'I LTUNG BA BSHAGS PA PHUNG PO GSUM PA ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@029A *, ,ZHES SOGS MDO SDE MANG PO LAS GSUNGS, RGYUN GYI NYAMS LEN MAN CHAD KUN MKHYEN BLO BZANG CHOS KYI NYI MA'I GSUNG LTAR BRKO BA'O,, ,,MANGGA LAm, ,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-29A INC [*Missing page from 2a-2b*]",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "16.5x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x7.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T17:11:29.516336+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

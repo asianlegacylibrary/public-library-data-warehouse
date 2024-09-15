@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0062964-012",
+    "input_file_number": "W1NLM5046-I1NLM5046",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,SNGON 'GRO DNGOS GZHI GSOL 'DEBS SMON LAM SOGS NYER MKHO RAGS BSDUS BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@006A *, ,(ZHES PA 'DI NI SPRUL SKU MI 'GYUR RDO RJE DGUNG LO BCU GSUM GSER 'PHYANG GI LO SA GA ZLA BA'I TSES BDUN LA GTZO 'KHOR RNAMS KYI ZHAL GZIGS PA'I TSE SANGS RGYAS SNANG BA MTHA' YAS KYIS DNGOS SU GSUNGS PA'O, ,BKA' BTZAN BYIN CAN RNAMS RIS MED DAD CAN GUN LA PHAN RE'I PAD SPRUL BDUN PA DBUL SEL GLING PA'I DNGOS SLOB DBU GZUR 'GYUR MED LHUN GRUB NAS DGE BSKUL ZHUS TE RNAM GROL GLING KHAMS MTSAN GI DUS 'KHOR CHE BLO BZANG BSTAN 'DZIN GYI PAR DU SGRUN PA DGE BAS 'BREL TSAD SEMS CAN THAMS CAD @006B SKU BZHI'I GO 'PHANG THOB PA'I RGYUR GYUR CIG ,DGE'O, ,DGE'O, ,DGE'O, ,)",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-6B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "17x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x8.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T13:53:32.997645+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

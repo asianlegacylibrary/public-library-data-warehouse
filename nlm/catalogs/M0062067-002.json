@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0062067-002",
+    "input_file_number": "W1NLM4149-I1NLM4149",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,BSANGS GSOL MCHOD DANG BCAS PA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@014B (CES DPAL LDAN DUR KHROD BDAG PO LA GSER SKYEMS 'BUL BA'I CHO GA BDUD RTZI'I ROL MTSO ZHES BYA BA @014B 'DI NI RANG GI MOS PAS BTZUN GZUGS MED RKAN SANGS RDOR MING CAN GYIS SBYAR BA'O, ,)",
+    "author_simple": "MED RKAN SANGS RDOR MING CAN,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "10B-14B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "17.5x7.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "21.5x8.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T13:00:54.853184+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

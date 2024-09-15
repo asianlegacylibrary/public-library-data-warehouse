@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0058714-001",
+    "input_file_number": "W1NLM801-I1N1M801",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "#, ,BSDUS GRVA'I RNAM BZHAG CHA TSANG BA RIGS GNAS LEGS BSHAD BANG MDZOD SOGS LAS GSUNGS PA'I MTHA' DPYOD ZUR 'DEBS RAB GSAL ME LONG ZHES BYA BA BZHUGS SO, ,",
+    "author_simple": "T'A NA SH'I LA,",
+    "dates_of_the_author_(зохиогдсон_өдөр)": "SA PHO KHYI LO,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "poor",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-160A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "48.5x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "53.5x10",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T05:46:29.691653+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

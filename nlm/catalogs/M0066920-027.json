@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0066920-027",
+    "input_file_number": "W1NLM9002-I1NLM9002",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,BSANGS RNAM DAG MA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@014A *, ,(CES SPRUL SKU BSOD NAMS YE SHES DBANG POS MDZAD PA'I BSANG RNAM DAG NA LA GSER SKYEMS GYI 'DON CHA SOGS 'GA' ZHIG DPON SLOB LCANG SKYA RIN PO CHE'I GSUNG LTAR GZHAN NAS BSNAN STE 'JAM DBYANGS GONG MA CHEN PO BDE SKYID RGYAL PO'I DGUNG LO LNGA BCU LNGA BAR LHAG BSAM DAG PA'I DBANG DU BSGRUB MKHAN DZA SAG BLA MA DGE SLONG NGAG DBANG BSTAN NO, ,'DIS KYANG RANG GZHAN THAMS CAD KYI BSAM DON YID BZHIN DU 'GRUB PAR GYUR CIG ,DGE'O, ,LEGS SO, ,)",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-14A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "18.5x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x8",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T17:15:09.871739+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

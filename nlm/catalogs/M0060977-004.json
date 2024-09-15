@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0060977-004",
+    "input_file_number": "W1NLM3059-N1M3059",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,SDUM GSUM LDAN PAS NYIN ZHAG PHRUGS GCIG LA NYAMS LEN JI LTAR BYA BA'I TSUL NOR BU RNAM PAR BKRA BA'I MDZES RGYAN ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@019A *, ,(PAR 'DI KUN BDE GLING DU BZHUGS, ,)",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Medium",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-19A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "20.5x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "23x7.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "publisher_(хэвлэсэн_буюу_бүтээсэн_хийд_буюу_бархан)": "KUN BDE GLING,",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T06:15:32.260126+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

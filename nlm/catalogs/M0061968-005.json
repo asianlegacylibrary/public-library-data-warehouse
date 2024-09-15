@@ -1,0 +1,23 @@
+{
+    "nlm_catalog": "M0061968-005",
+    "input_file_number": "W1NLM4050-I1NLM4050",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "` MA GCIG KHROS MA NAG MO'I SGRUB THABS MNGON DKYIL SHIN TU GSAL BA GO SLA'I TSUL DU BKOD PA BZHUGS SO, ,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "MEDIUM",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-13B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "45.5x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "49x8",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T03:05:35.995391+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

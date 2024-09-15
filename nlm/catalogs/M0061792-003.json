@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0061792-003",
+    "input_file_number": "W1NLM3874-I1NLM3874",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,SATZTSA 'DEBS TSUL SOGS 'GA' ZHIG BZHUGS, ,",
+    "colophon_(төгсгөлийн_үг)": "@008B (CES PA'ANG ^DHARMA BADZRA GYIS RANG NYID BRO 'TSAL NAS NGAN SLONG LA SBYIN GTONG SOGS RIM GRO MANG DU SGRUB SKABS 'DI LTA BU YANG TSOGS PA SOG GI YAN LAG TU 'GYUR BAR BSAMS NAS LAG LEN DU BGYIS PA'I TSE 'PHRAL MAR BRIS PA'O,, ,,MANGGA LAm,, ,,)",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-8B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "12.5x5",
+    "size_of_pages_(хуудасны_хэмжээ)": "18x6.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T12:48:45.880156+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

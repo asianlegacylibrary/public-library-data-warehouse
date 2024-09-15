@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0058973-008",
+    "input_file_number": "W1NLM1060-I1N1M1060",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,RJE BTZUN RDO RJE RNAL 'BYOR MA'I LAM GYI YAN LAG MAR ME'I SBYIN BSREG BYA TSUL BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@003A *, ,('DI NI CHOS RJE NGAG GI DBANG PO'I GSUNG YIN NO, ,)",
+    "author_simple": "NGAG GI DBANG PO,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Medium",
+    "volume_(боть)": "GA PA,",
+    "page_numbers_(хуудасны_дугаар)": "1A-3A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "44x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "52.5x9",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T05:49:05.906778+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

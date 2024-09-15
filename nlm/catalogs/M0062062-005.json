@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0062062-005",
+    "input_file_number": "W1NLM4144-I1NLM4144",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@003A *, ,BCAS PA LAS RANG 'DRA'I SPRUL PA BSAM GYIS MI KHYAB PA SPROS TE, RANG DANG BSGRUB BYA THAMS CAD KYI LUS DANG GNAS NYE 'KHOR DANG BCAS PA'I PHYOGS BZHI MTSAMS BRGYAD NA GNAS PA'I TSA RIMS GRANG RIMS SPYI DANG, ,]",
+    "colophon_(төгсгөлийн_үг)": "@008A *, ,(ZHES PA 'DI THO'U KVAN RIN PO CHE'I 'DI'I CHO GA RGYAS 'DUS TE SGRUB THABS RIN 'BYUNG SOGS NAS CUNG ZAD KHA BSKANGS NAS BTZUN GZUGS SH'A SA NA DHI BAm ZHES BYA BAS SBYAR BA'O,, ,,)",
+    "author_simple": "SH'A SA NA DHI BAm,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "3A-8A INC [*Missing page from 1a-2b*]",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "22x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "26.5x7.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T12:59:49.789647+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

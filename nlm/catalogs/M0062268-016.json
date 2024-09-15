@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0062268-016",
+    "input_file_number": "W1NLM4350-I1NLM4350",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,KUN MKHYEN 'JAM DBYANGS BZHAD PA NYID KYIS MDZAD PA'I 'KHRUNGS RABS GSOL 'DEBS BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@003A *, ,GSOL 'DEBS DBANG GI RGYAL PO'I PHRENG MDZES 'DI, ,DGOS ZHES BDE THANG SPRUL SKU'I BKA' NAN GYIS, ,KHYAD 'PHAGS RIN CHEN TSOGS BCAS NAN BSKUL NGOR, ,RNGA LA DBYU GUS BSKUL BZHIN DBANG MED SMRAS, ,'GAL 'KHRUL BLA MA YI DAM @003B MCHOG GSUM LA, ,SNYING NAS BSHAGS SO DGE BAS KUN BDE SHOG , ,,SPAR 'DI T'A LA'I WANG SHOG GI ,HU CAR THU'I DGON GNAS KYI, ,CHOS KYI GLING GI SPAR KHANG DU, ,BZHUGS PAS CHOS SBYIN 'DZAD MED SPEL,, ,,",
+    "cover_type_(хавтасны_төрөл)": "PAPER COVER",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-3B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "18.5x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "21.5x7",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "publisher_(хэвлэсэн_буюу_бүтээсэн_хийд_буюу_бархан)": "T'A LA'I WANG SHOG GI HU CAR THU'I DGON GNAS KYI CHOS KYI GLING GI SPAR KHANG,",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T03:31:46.805086+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

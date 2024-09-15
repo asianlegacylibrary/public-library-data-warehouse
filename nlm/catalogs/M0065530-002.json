@@ -1,0 +1,23 @@
+{
+    "nlm_catalog": "M0065530-002",
+    "input_file_number": "W1NLM7612-I1NLM7612",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "#, ,BCOM LDAN 'DAS RDO RJE PHUR PA RGYUD LUGS KYI BSNYEN PA'I LAS BYANG BKOL BA'I DUM BU ZHES BYA BA BZHUGS SO, ,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-15B INC [*Missing page from 16a*]",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "30.5x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "35.5x7.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T15:41:35.464520+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

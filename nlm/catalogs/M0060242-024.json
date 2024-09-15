@@ -1,0 +1,23 @@
+{
+    "nlm_catalog": "M0060242-024",
+    "input_file_number": "W1NLM2324-I1NLM2324",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,GSANG SGRUB LJANG KHU BE CON MA'I YI GE ZANGS DKAR LO TZ'A BAS MDZAD PA MGUL KHUG SRO CHUNG MA BZHUGS SO, ,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "TZA MA,",
+    "page_numbers_(хуудасны_дугаар)": "149B-153A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "28.5x8.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "35.5x11",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T12:01:26.345469+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

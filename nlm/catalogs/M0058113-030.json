@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0058113-030",
+    "input_file_number": "W1NLM200-I1NLM200",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,SMON LAM GYI RGYAL PO DGA' LDAN CHOS SRID MA CES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@003B (BYED PO BHI KshU DHARM'A'I MING CAN NO, ,)",
+    "author_simple": "BHI KshU DHARM'A'I MING CAN,",
+    "cover_type_(хавтасны_төрөл)": "paper cover",
+    "condition_of_book_(номын_төлөв_байдал)": "Medium",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-3B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "17x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x9",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T05:32:35.464421+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0061368-021",
+    "input_file_number": "W1NLM3450-I1NLM3450",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,SMON PA'I KHYUNG MCHOG NI,",
+    "colophon_(төгсгөлийн_үг)": "@005A *, ,(SMRAS PA, THEG MCHOG LAM DU BZHUNG PA'I SKAL LDAN RNAMS, RIG 'DZIN GRONG DU BDE BLAG BSGROD 'DOD NA, YAN LAG @005B SMON PA'I KHYUNG MCHOG 'DI ZHON CES, ^CHOS KYI RDO RJES SMRAS PA DZA YANTU,)",
+    "author_simple": "CHOS KYI RDO RJE,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "3B-5B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "23x4.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "28.5x7",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T02:37:33.634169+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

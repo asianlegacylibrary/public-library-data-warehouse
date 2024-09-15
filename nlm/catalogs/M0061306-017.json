@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0061306-017",
+    "input_file_number": "W1NLM3388-I1NLM3388",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,'PHAGS PA YANGS PA'I GRONG KHYER DU 'JUG PA'I MDO BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@006B RGYA GAR GYI MKHAN PO SURENDRA BO DHI DANG, ZHU CHEN GYI LOTZTSA BA BANDHE YE SHES SDES BSGYUR CING ZHUS TE GTAN LA PHAB PA'O, ,DGE'O, ,",
+    "translator_(орчуулагч)": "SURENDRA BO DHI, BANDHE YE SHES SDE,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "PHU PA,",
+    "page_numbers_(хуудасны_дугаар)": "1A-6B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "37.5x9",
+    "size_of_pages_(хуудасны_хэмжээ)": "42x11",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T12:33:35.880434+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

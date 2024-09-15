@@ -1,0 +1,40 @@
+{
+    "nlm_catalog": "M0057909-013",
+    "input_file_number": "W1NLM15-I1NLM15",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "* , ,GSHEGS GTOR 'BUL BA'I TSUL NI,",
+    "colophon_(төгсгөлийн_үг)": "@014B (ZHES BSTAN BSRUNG TSANGS PA CHEN PO'I DUS GTOR GTONG LUGS 'DI LTA BUS ZHIG DGOS ZHES DAR HANG CHEN WAN GIS YANG YANG BKA' NAN CHEN POS BSKUL BA LDOG MI NUS PAR, DAM PA'I MING CAN ZHIG GIS, SNGON GYI YIG RNYING KHUNGS SU BYAS TE GA-YAR KHRAL DU SUG BRIS BYAS SO,, ,, @015A *, ,BKRA SHIS PAR GYUR CIG, MANGGA LAm, BKRA SHIS DPAL BAR 'DZAM GLING BRGYAN DU BYON,, ,,)",
+    "author_simple": "DAM PA'I MING CAN,",
+    "cover_type_(хавтасны_төрөл)": "PAPER COVER",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-15A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "14.5x5",
+    "size_of_pages_(хуудасны_хэмжээ)": "21x8",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-13T22:55:29.598830+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-09-13T22:57:32.060638+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "updated"
+        },
+        {
+            "timestamp": "2024-09-13T23:04:02.961099+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "updated"
+        },
+        {
+            "timestamp": "2024-09-13T23:25:40.640779+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "updated"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "nlm_catalog": "M0061951-031",
+    "input_file_number": "W1NLM4033-I1NLM4033",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,KA BRTZOM KHA SHAS DANG BYA DKA'I MDZES RGYAN RNAMS BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@002A *, ,(CES PA 'DI NI 'JAM PA'I MING CAN GYIS BDE CHEN CHOS GLING DU @002B BRIS PA'O,, ,,)",
+    "author_simple": "JAM PA'I MING CAN,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-2B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "47.5x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "50x9.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "publisher_(хэвлэсэн_буюу_бүтээсэн_хийд_буюу_бархан)": "BDE CHEN CHOS GLING, ",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T03:01:55.213840+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

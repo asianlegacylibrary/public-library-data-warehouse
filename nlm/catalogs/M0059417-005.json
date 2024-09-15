@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0059417-005",
+    "input_file_number": "W1NLM1499-I1NLM1499",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@026B AOm SVASTI, BLA MA RDO RJE SEMS DPAR 'DUD, ,DPAL LDAN 'DUS PA'I RTZA RGYUD KYI, ,LE'U DANG POR TSUL BZHI BRGYAD, ,DRANG NGES BSHAD PA NYER DRUG DANG, ,]",
+    "colophon_(төгсгөлийн_үг)": "@027A *, ,(CES PA'I DGE BSDO 'DI YANG KHRI THOG BDUN CU PAS SBYAR BA'O, ,)",
+    "author_simple": "KHRI THOG BDUN CU PA,",
+    "cover_type_(хавтасны_төрөл)": "WOODEN BOX",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "26B-27A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "47x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "53.5x9",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T11:22:52.000982+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

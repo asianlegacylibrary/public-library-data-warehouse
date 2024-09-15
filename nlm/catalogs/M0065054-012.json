@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0065054-012",
+    "input_file_number": "W1NLM7136-I1NLM7136",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,RDO RJE'I MCHU BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@008B (RDO RJE'I MCHU ZHES BYA BA'I KLU'I DAM TSIG LAS, ,LO TOG LA GNOD PA ZHI BAR BYED PA'I CHO GA KLU'I SNYING PO RDZOGS SO,, ,,ZHES PA 'DI NI CHOS SDE CHEN PO SKU 'BUM BYAMS PA GLING DU PAR DU BSGRUBS PA'O, ,MANGGA LAm,, ,,)",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-8B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "49x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "51x8.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "publisher_(хэвлэсэн_буюу_бүтээсэн_хийд_буюу_бархан)": "SKU 'BUM BYAMS PA GLING,",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T08:53:12.667602+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0058640-001",
+    "input_file_number": "W1NLM727-I1NLM727",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,'PHAGS PA YANGS PA'I GRONG KHYER DU 'JUG PA'I MDO BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@015B (RGYA GAR GYI MKHAN PO SU RANDRA BODHI DANG, ZHU CHEN PHYI LO TZTSA BA BANDE YE SHES SDEBS BSGYUR CING ZHUS TE GTAN LA PHAB PA'O,, ,,)",
+    "translator_(орчуулагч)": "SU RANDRA BODHI, BANDE YE SHES,",
+    "cover_type_(хавтасны_төрөл)": "PAPER COVER",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-16B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "18.5x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x9",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T00:25:41.730858+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

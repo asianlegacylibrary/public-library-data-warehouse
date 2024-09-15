@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0064183-056",
+    "input_file_number": "W1NLM6265-I1NLM6265",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,GU RU'I GSOL 'DEBS BSAM PA MYUR 'GRUB BZHUGS, ,",
+    "colophon_(төгсгөлийн_үг)": "@004B (ZHES BOD KHAMS NANG MUG MTHA' DAG ZHI ZHING BSTAN 'GRO'I BDE SKYID GSO BAR PAN SNYAM PA DANG LDAN RNAMS KYIS THUGS LA BZHUGS, ,DE'O, ,DGE'O, ,DGE'O)",
+    "author_simple": "KLONG CHEN RAB 'BYAMS,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "YO PA,",
+    "page_numbers_(хуудасны_дугаар)": "4B-4B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "46x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "51x8",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T14:39:31.600221+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

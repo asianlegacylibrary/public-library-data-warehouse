@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0066529-007",
+    "input_file_number": "W1NLM8611-I1NLM8611",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,BSANGS MCHOD 'DOD DGUR 'KHYIL BA'I DGA' STON BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@005B (CES PA 'DI NI RGYAL SRAS MING CAN GYIS RANG GI 'DOD MOS LTAR, SUG BRIS SU BGYIS PA DZA YANTU,, ,,MANGGA LAm, ,)",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "MEDIUM",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-5B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "18x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x7.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T17:02:26.202714+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

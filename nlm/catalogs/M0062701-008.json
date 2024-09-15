@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0062701-008",
+    "input_file_number": "W1NLM4783-I1NLM4783",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,TSOGS MCHOD KUN BZANG MCHOD SPRIN BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@003B (CES BLA MA MNYES BYED GSANG BA'I DGUR DBYANGS MCHOD PA 'DI NI BZHAD RDOR MING CAN GYIS ME 'BRUG DGUN ZLAR BA'I YAR NGO'I TSES BCUR AE WAm DGA' 'KHYIL DU SBYOR BA'O,, ,,)",
+    "author_simple": "BZHAD RDOR MING CAN,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-3B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "29x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "30.5x8.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T13:40:38.725472+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

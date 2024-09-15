@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0060257-003",
+    "input_file_number": "W1NLM2339-I1NLM2339",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@005B HU'm LHO PHYOGS RNAM DAG TZAN TAN SHING GI GSEB, ,MA MO MKHA' 'GRO DKYIL 'KHOR CHEN PO LAS, ,THUGS RJE SPRUL BA MAH'A K'A LA NI, ,SKU MDOG MTHING NAG ZHAL GCIG PHYAG DRUG PA, ,]",
+    "colophon_(төгсгөлийн_үг)": "@008A *, ,(NAG PO CHEN PO BSTOD PA RNGAMS PA'I SGRA SGROGS CES BYA BA SLOB DPON BRAM ZE MCHOG SRID KYIS MDZAD PA'O, ,)",
+    "author_simple": "BRAM ZE MCHOG SRID,",
+    "cover_type_(хавтасны_төрөл)": "paper cover",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "5B-8A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "17x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x8",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T12:03:36.693910+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

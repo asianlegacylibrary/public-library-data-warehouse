@@ -1,0 +1,26 @@
+{
+    "nlm_catalog": "M0065101-005",
+    "input_file_number": "W1NLM7183-I1NLM7183",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,DBUS DANG MTHA' RNAM 'BYED BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@010A *, ,BSTAN BCOS DBUS DANG MTHA' RNAM PAR 'BYED PA ZHES BYA BA'I TSIG LE'UR BYAS PA 'PHAGS PA BYAMS PAS MDZAD PA RDZOGS SO,, ,,RGYA GAR GYI MKHAN PO DZI NA MI TRA DANG, SH'I LEN DRA BO DHI DANG, ZHU CHEN GYI LO TZA BA BAN DHE YE SHES SDES BSGYUR CING ZHUS TE GTAN LA PHAB PA'O, ,MANGGA LAm BHA WANTU, ,ZHUS DAG ,",
+    "author_simple": "BYAMS PA,",
+    "translator_(орчуулагч)": "DZI NA MI TRA, SH'I LEN DRA BO DHI, BAN DHE YE SHES SDE,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-10A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "43.5x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "54x9",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T15:23:38.385055+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

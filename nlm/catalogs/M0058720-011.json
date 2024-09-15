@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0058720-011",
+    "input_file_number": "W1NLM807-I1N1M807",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,CHOS SKYONG LCAM SRING GI ME TOR MEN PO'I BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@004A *, ,(CES PA 'DI NI PAn CHEN THAMS CAD MKHYEN NGAG DBANG THA SHAL LHA'I BTZUN PA BLO BZANG MING CAN 'CHAD PAS SUG BRIS BKOD PA'O, ,MANGGA LAm, ,BKRA SHIS PAR GYUR CIG , ,)",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Medium",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-4A INC [*Missing page from 2A-2B *]",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "29x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "32x8",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T05:46:33.923860+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

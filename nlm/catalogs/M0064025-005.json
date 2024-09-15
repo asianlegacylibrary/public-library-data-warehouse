@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0064025-005",
+    "input_file_number": "W1NLM6107-I1NLM6107",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,BZHI BRGYA LNGA BCU PA'I SKOR GYI ZIN BRIS GNANG BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@006B AOm SVA STI,, ,,THUB BSTAN 'DZIN MAR SKAL BZANG ZHING BA'I TSOGS, ,PHAN BDE'I LO TOG LONGS SU SPYOD PA'I PHYIR, ,BKRA SHIS G-YAS SU 'KHYIL BA'I CHOS GRVA LAS, , CHOS SBYIN BDUD RTZI'I GRU CHAR 'DI PHAB PO, ,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "JA PA,",
+    "page_numbers_(хуудасны_дугаар)": "1A-6B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "45.5x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "52x8.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T14:34:20.759348+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

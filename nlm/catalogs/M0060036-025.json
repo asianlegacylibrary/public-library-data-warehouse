@@ -1,0 +1,23 @@
+{
+    "nlm_catalog": "M0060036-025",
+    "input_file_number": "W1NLM2118-I1NLM2118",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@002A *, ,DGE TSUL KHRIMS SBRANG RTZI NYER GTAMS PA'I, ,THAR 'DOD BUNG BA'I GNYEN LA x MDO SNGAGS GZHUNG BRGYA'I NAM MKHA'I YANGS PA LA, ,]",
+    "cover_type_(хавтасны_төрөл)": "paper cover",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "2A-26B INC [*Missing page from 1a-1b*]",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "10x4",
+    "size_of_pages_(хуудасны_хэмжээ)": "13x5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T11:51:29.749408+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

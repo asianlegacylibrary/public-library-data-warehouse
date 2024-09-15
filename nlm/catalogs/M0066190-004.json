@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0066190-004",
+    "input_file_number": "W1NLM8272-I1NLM8272",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "#, ,SRID PA'I MGRON SGO GNAM KHYI NAG PO PHO MO GNYIS KYI MDOS BAR CHAD BZLOG THABS ZHES BYA BA BZHUGS SO,, ,,",
+    "colophon_(төгсгөлийн_үг)": "@008A *, ,GZHAN YANG BAG MA'I BLANGS NAN NAD BYUNG BA DANG SRI'U MI CHAGS PA DANG, GOD KHA BYUNG BA DANG BKRA MI SHIS PA DANG THABS RTZOD DANG KHA MCHU YONG PA DANG GRONG PA'I BYOL PO LA SOGS PA LA MDOS 'DI BYAS NA BZLOG PA LA GDON MI ZA BAR SLOB DPON CHEN PO DGA' RAB RDO RJES BRIS PA'I S'A MA YA: BKRA SHIS, ,)",
+    "author_simple": "DGA' RAB RDO RJE,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-8A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "24.5x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "27.5x8",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T16:31:47.109564+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

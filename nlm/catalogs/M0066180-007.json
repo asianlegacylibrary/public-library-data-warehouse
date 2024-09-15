@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0066180-007",
+    "input_file_number": "W1NLM8262-I1NLM8262",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,AU RGYAN PADMAS MDZAD PA'I LHA 'DRE DAM RTAGS PA GLUD GTOR BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@004B (CES BRJOD LA GLUD GTOR PHYI ROL TU BSKYAL LO, PHYI MIG MI LTAR BAR LOG ,SEMS CAN GANG YIN GYI GLUD 'DI GTONG, SPRUL SKU PADMA LEN PA'I GTER NAS GU RU PADMA'I ZHAL LAS DNGOS SU BSTAN NAS GNANG BA'O, ,MANGGA LAm, ,)",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-4B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "30.5x8.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "33.5x9.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T16:29:34.491529+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

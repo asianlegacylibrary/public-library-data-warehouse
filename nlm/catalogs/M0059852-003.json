@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0059852-003",
+    "input_file_number": "W1NLM1934-I1NLM1934",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,'PHAGS PA 'JAM DPAL GYI MTSAN BRGYA RTZA BRGYAD KYI SNYING PO BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@012A *, ,BCOM LDAN 'DAS 'JAM DPAL YE SHES SEMS DA'I MTSAN YANG DAG PAR BRJOD PA DE BZHIN GSHEGS PA SH'AKYA THUB PA'I ZHAL NAS GSUNGS PA RDZOGS SO, ,BKRA SHIS BAR GYUR CIG ,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "12A-12A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "15.5x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "17.5x7.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T11:41:19.252478+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

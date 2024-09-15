@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0066172-015",
+    "input_file_number": "W1NLM8254-I1NLM8254",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,SKU 'PHRENG BRGYAD PAS GNANG BA'I BSLAB BYA'I SNYING GTAM BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@007B (DBYIBS TSUL RGYAL PO'I DGUNG LO DANG PO DPYED ZLA 'BRING PO'I NYER LNGA CES PA 'DI NI DAM PA'I MING CAN GYIS 'PHRAL DU DGYES PA'I ,, ,,)",
+    "author_simple": "DAM PA'I MING CAN,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-7B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "15x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "18.5x7.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T16:27:15.177131+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

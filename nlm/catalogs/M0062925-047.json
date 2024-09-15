@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0062925-047",
+    "input_file_number": "W1NLM5007-I1NLM5007",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,BSTOD PA NI,",
+    "colophon_(төгсгөлийн_үг)": "@005B (CES PA 'DI NI SPRUL SKU BSOD NAMS RGYA MTSOS MDZAD PA'O, ,MANGGA LAm, ,)",
+    "author_simple": "BSOD NAMS RGYA MTSO,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "5A-5B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "36x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "44x9",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T07:24:33.384719+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0062481-007",
+    "input_file_number": "W1NLM4563-I1NLM4563",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,RGYAL PO CHEN PO RNAM SRAS KYI BSHAGS PA'I SKABS SU YIG BRGYA BZLAS PA'I MAN NGAG BYA TSUL NI, ,",
+    "colophon_(төгсгөлийн_үг)": "@003B (ZHES BLA MA DAM PA RNAMS NAN TAN DU GSUNG BAS YI BER 'BRIS PA'O, ,)",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1B-3B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "30x7.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "35x10.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T13:26:52.206979+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

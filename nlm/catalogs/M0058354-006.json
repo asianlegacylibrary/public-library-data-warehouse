@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0058354-006",
+    "input_file_number": "W1NLM441-I1NLM441",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,DPAL RDO RJE 'JIGS BYED KYI BSGOM BZLAS MDOR BSDUS BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@002B (ZHES PA 'DI NI MON GOL CIN DGON PA'I MI SNA DON 'GRUB DPON POS BSKUL BA'I NGOR, ^BTZUN PA DKON MCHOG 'JIGS MED DBANG POS SBYAR BA'O,, ,,)",
+    "author_simple": "DKON MCHOG 'JIGS MED DBANG PO,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-2B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "47.5x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "50x8.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T00:04:10.514080+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

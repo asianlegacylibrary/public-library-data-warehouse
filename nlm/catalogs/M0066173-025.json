@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0066173-025",
+    "input_file_number": "W1NLM8255-I1NLM8255",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,DAM CAN CHOS RGYAL PHYI SGRUB LA MCHOD GTOR 'BUL TSUL DAM CAN DGYES PA'I BZHAD SGRA ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@008B (ZHES DAM CAN CHOS RGYAL GYI PHYI SGRUB LA MCHOD GTOR 'BUL TSUL DAM CAN DGYES PA'I BZHAD SGRA ZHES BYA BA 'DI NI 'DI KHA'I MTSAN NYID @009A *, ,GRVA TSANG GI ZHAL 'DON DU 'DZUGS RGYUN NO MIN HANG MING PAS ^SKYABS MCHOG SKU BAR MA'I GSUNG ZHIG LA PHRI BSNON CUNG ZAD BGYIS TE BRIS PA 'DI YANG DAM CAN DGYES PA'I MCHOD SPRIN DU GYUR CIG ,)",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-9A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "13x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "17.5x7.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T16:27:40.971628+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

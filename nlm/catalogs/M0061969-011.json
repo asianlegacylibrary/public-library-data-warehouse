@@ -1,0 +1,23 @@
+{
+    "nlm_catalog": "M0061969-011",
+    "input_file_number": "W1NLM4051-I1NLM4051",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@005A *, ,DE NAS GZHAN YANG CHOS SKYONG DANG GZHI BDAG GI GTOR MA SOGS JI LTAR RIGS PAS DBUL LO, ,DE NAS SGRUB GROGS DKYIL 'KHOR BSRUNG DU BCUG LA, PHYI ROL TU PHYIN NAS KHRO BO DANG, PHYI NAS SKYONG LA DBUL BA'I GTOR MA GNYIS CHANG CHU NANG MCHOD KYIS RIM PA BZHIN BRAN LA GTOR MA GRON ZHAL TSUR GZIGS PA'I GA-YAS, ,]",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "5A-6A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "36.5x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "44x8.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T12:54:20.262930+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0059396-006",
+    "input_file_number": "W1NLM1478-I1NLM1478",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@002A *, ,SVA BHA WAS SNOD BCUD THAMS CAD STONG BAR BSAMS, STONG BA'I NGANG LAS PAm LAS PADMA AA LAS ZLA BA'I DKYIL 'KHOR GYI STENG DU, TAm YIG LJANG KHU LAS 'OD ZER 'PHROS, DON GNYIS BYAS, ,]",
+    "colophon_(төгсгөлийн_үг)": "@003A *, ,(SLOB DPON NYI MA SBAS PAS MDZAD PA'I SGRUB THABS LA BRTEN NAS, BDAG LAS KYI RDO RJES NYAMS SU LEN PA YI GER BKOD PA'O,, ,,)",
+    "author_simple": "LAS KYI RDO RJE,",
+    "cover_type_(хавтасны_төрөл)": "WOODEN BOX",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "2A-3A INC [*Missing page from 1a-1b*]",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "15x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "21.5x8.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T11:17:51.218968+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

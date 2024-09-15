@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0059416-003",
+    "input_file_number": "W1NLM1498-I1NLM1498",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,'PHYOD 'TSANGS DANG 'BREL BA'I 'DOD DRON 'GA' ZHIG GTAM DU BYAS PA THUGS RJE BSKUL BA'I TSIG GLU ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@003A *, ,(YE SHES THUB BSTAN RGYA MTSOS YID LA GANG DRAN THOL BYUNG DU BRIS PA'I GNAS NI MA GAR THAR DU'O, ,)",
+    "author_simple": "YE SHES THUB BSTAN RGYA MTSO,",
+    "cover_type_(хавтасны_төрөл)": "WOODEN BOX",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-3A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "39x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "44x9",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T11:22:43.970674+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

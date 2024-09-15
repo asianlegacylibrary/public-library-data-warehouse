@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0061301-006",
+    "input_file_number": "W1NLM3383-I1NLM3383",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,SBYOR BA'I CHOS DRUG BYA TSUL THUB BSTAN LHUN PO'I MDZES RGYAN CES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@017A *, ,(CES PA 'DI NI RJE BTZUN DRUNG NAS SBYOR CHOS PAR GSAR BSKRUN MDZAD SKABS SMON TSIG TU RVA SGRENG AA CHI THU NO MON HAN DU 'BOD PAS SBYAR,, ,,)",
+    "author_simple": "AA CHI THU NO MON HAN,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-17A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "40.5x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "53x8.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T12:33:07.108337+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

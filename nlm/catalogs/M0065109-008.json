@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0065109-008",
+    "input_file_number": "W1NLM7191-I1NLM7191",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "ST",
+    "full_title_(бүтэн_гарчиг)": "*, ,STONG PA NYID BDUN CU PA'I TSIG LE'UR BYAS PA ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@006A *, ,(STONG NYID BDUN CU PA'I TSIG LE'UR BYAS PA ZHES BYA BA SLOB DPON 'PHAGS PA KLU SGRUB KYIS MDZAD PA RDZOGS SO,, ,,LO TZ'A PA GZHON NU MCHOG DANG, GNYAN DHARM'A GRAGS DANG, KHU'I 'GYUR DAG PA LAS DON DANG TSIG GANG BZANG DU BRIS PA'O ZHES SNANG NGO,, ,, ZHES PA 'DI NI CHOS GRVA CHEN PO DGA' LDAN BKRA SHIS CHOS 'KHOR GLING DU DPAR DU BSGRUBS PA'O,, ,,)",
+    "author_simple": "DHARM'A GRAGS,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-6A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "46x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "54x10",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T15:24:13.257470+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

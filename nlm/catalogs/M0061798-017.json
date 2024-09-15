@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0061798-017",
+    "input_file_number": "W1NLM3880-I1NLM3880",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "` LUS NGAG YID GSUM BCINGS GROL BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@005A *, ,(RGYA GAR GYI MKHAN @005B PO PAndI TA GA YA DHA RA DANG, BOD KYI LO TZTSA BA SH'AKYA YE SHES KYIS MANG YUL BYAMS SPRIN GYI GTZUG LAG KHANG DU BSGYUR BA'O, ,DGE'O SARBA MANGGA LAm, ,)",
+    "translator_(орчуулагч)": " GA YA DHA RA, SH'AKYA YE SHES,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-5A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "15x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "20x7.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T12:50:11.462381+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0060251-005",
+    "input_file_number": "W1NLM2333-I1NLM2333",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@0036A *, ,NA MO GU RU BADZRA DHA RA YA, 'DIR GSANG BDE 'JIGS GSUM SOGS YI DAM GYI LHA TSOGS RNAMS DANG, CHOS SRUNG RNAMS LA TSOGS MCHOD BYA BAR 'DOD PAS, SKYABS SEMS SNGON DU BTANG, ,]",
+    "colophon_(төгсгөлийн_үг)": "@047B (ZHES PA 'DI RANG GI @048A *, ,LAG LEN TU 'KHYER BDE BA'I THO'U KVAN RIN PO CHES MDZAD PA'I MGON PO TSE BDAG GI TSOGS 'KHOR GYI CHO GA LA KHA BSGYUR SO SOR SBYAR TE BRIS PA'O, ,)",
+    "author_simple": "THO'U KVAN RIN PO CHE,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "36A-48A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "13.5x5",
+    "size_of_pages_(хуудасны_хэмжээ)": "17.5x7.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T12:02:43.838372+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

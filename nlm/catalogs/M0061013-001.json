@@ -1,0 +1,26 @@
+{
+    "nlm_catalog": "M0061013-001",
+    "input_file_number": "W1NLM3095-I1NLM3095",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,BSTAN BCOS MNGON RTOGS RGYAN CES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@015A *, ,SHES RAB KYI PHA ROL TU PHYIN PA'I MAN NGAG GI @045B BSTAN BCOS MNGON RTOGS PA'I RGYAN CES BYA BA, RJE BTZUN BYAMS PA MGON POS MDZAD PA RDZOGS SO,, ,,RGYA NAG GYI PAndI TA GO MI 'CHI MED DANG, LO TZ'A BA DGE SLONG BLO LDAN SHES RAB KYIS BSGYUR CING ZHUS TE LEGS PAR GTAN LA PHAB PA'O,, ,,",
+    "author_simple": "BYAMS PA MGON PO,",
+    "translator_(орчуулагч)": "GO MI 'CHI MED, BLO LDAN SHES RAB,",
+    "cover_type_(хавтасны_төрөл)": "paper cover",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-45B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "17x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "21.5x8.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T12:28:32.660861+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

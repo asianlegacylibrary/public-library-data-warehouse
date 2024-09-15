@@ -1,0 +1,39 @@
+{
+    "nlm_catalog": "M0057911-002",
+    "input_file_number": "W1NLM17-I1NLM17",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,RANG MTSANG GSAL BAR STON PA'I ME LONG BZHUGS, ,",
+    "colophon_(төгсгөлийн_үг)": "@007A *, ,(CES PA 'DI NI CHU SPRUL LO DBYAR GNAS SKABS RANG GI SGOG SU MA GYI SPYOD PA LA BRTAGS TSE DBEN PA'I SGRIB SHING DANG CHOS PA'I BZANG RDZUS BAG MED SNYOMS LAS KYIS @007B NYIN MTSAN 'DA' BAR BYED CING , CHOS DANG MTHUN PA GANG YANG MI SNANG BAS YI MUG STE RANG GI RANG MTSAD GSAL BAR SGROG PA'I TSUL DU DGE SLONG YE SHES RGYAL MTSAN GYIS YID LA GANG SHAR BA BCOL DU BRJOD PA'O, , ,TING NGE 'DZIN RGYAL PO LAS, NGAS NI RAB TU BZANG PO'I CHOS BSHAD KYANG KHYOD KYIS THOS NAS YAN DAG MA SPYAD NA, ,NAD PA SMAN GYI RGYAL BA THOGS PA DAG , BDAG GI NAD NI GSO BAR MI NUS BZHIN, ,ZHES DANG , LHAG BSAM BSKUL BA LAS *, ,BU RAM SHING SHUN SNYING PO CI YANG MED, ,DGA' BAR BYA BA'I RO NI NANG NA 'DUG, SHUN PA ZOS PAS MIS NI BU RAM RO, ,ZHIM PO RNYED PAR NUS PA MA YIN NO, ,JI LTAR SHUN PA DE BZHIN SMRA BA STE, ,RO TA BU NI 'DI LA DON SEMS YIN, ,DE LTA BSAN SMRA LA DGA' SPRANG TE, ,RTAG TU BAG YOD BYOS LA DON SOMS SHIG, ,CES GSUNGS, ,)",
+    "cover_type_(хавтасны_төрөл)": "PAPER COVER",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-8A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "15x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "20x7",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-13T22:55:55.060870+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-09-13T22:57:55.194160+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "updated"
+        },
+        {
+            "timestamp": "2024-09-13T23:04:29.253646+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "updated"
+        },
+        {
+            "timestamp": "2024-09-13T23:26:05.972700+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "updated"
+        }
+    ]
+}

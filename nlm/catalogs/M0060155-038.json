@@ -1,0 +1,27 @@
+{
+    "nlm_catalog": "M0060155-038",
+    "input_file_number": "W1NLM2237-N1M2237",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,'DRE GDON SOGS BLA MAR BSGOM NAS MCHOD DE BYIN RLABS ZHU TSUL BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@002B (CES 'DI BZHAD RDOR MING CAN GIS GZHAN LA PHAN SEMS KYIS SA LUG DPYID 'BRING TSES GSUM LA BKRA SHIS TSE 'PHEL GLING DU SBYAR BA'I YI GE PA NI RNAM RGYAL SKYABS KYIS BGYIS PA'O, ,DGE'O, ,)",
+    "author_simple": "BZHAD RDOR MING CAN,",
+    "dates_of_the_author_(зохиогдсон_өдөр)": "LUG DPYID 'BRING TSE,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-2B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "14x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "17.5x7.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "publisher_(хэвлэсэн_буюу_бүтээсэн_хийд_буюу_бархан)": "BKRA SHIS TSE 'PHEL GLING,",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T06:06:14.310817+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

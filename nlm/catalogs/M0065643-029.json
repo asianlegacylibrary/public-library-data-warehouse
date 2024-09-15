@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0065643-029",
+    "input_file_number": "W1NLM7725-I1NLM7725",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,'GO BA'I LHA LNGA LHAN SKYES BRGYAD PA'I PHRAG LHA DGRA LHA SPUN DGU RNAMS LA RTA MCHOG RTEN DU 'BUL TSUL BZHUGS S+HO, ,",
+    "colophon_(төгсгөлийн_үг)": "@003B (CES PA 'DI NI SOG 'O YIG CHA LAS BLO BZANG DPAL MGON MING CAN GYIS 'PHRAL DU BRIS PA'O, ,)",
+    "author_simple": "BLO BZANG DPAL MGON MING CAN,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Medium",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-3B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "18x5",
+    "size_of_pages_(хуудасны_хэмжээ)": "21x7",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T09:16:07.572110+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

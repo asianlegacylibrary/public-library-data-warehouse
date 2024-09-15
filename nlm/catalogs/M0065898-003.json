@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0065898-003",
+    "input_file_number": "W1NLM7980-I1NLM7980",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,BSANGS MCHOG LE'U BRGYAD PA RNAM DAG CHOS SKU MAR GRAGS PA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@013B (ZHES PA BSANGS CHOG LE'U BRGYAD MA 'DI NI BTZUN PA BSOD NAMS YE SHES DBANG POS SBYAR BA'I DGE LEGS SU GYUR CIG , ,,)",
+    "author_simple": "BSOD NAMS YE SHES DBANG PO,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-14A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "23.5x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "30x7.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T09:40:38.378698+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0060422-002",
+    "input_file_number": "W1NLM2504-I1NLM2504",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,KLU'I THEBS BZLOG GI 'KHRUL SPONG PHUN TSOGS RE SKONG ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@006B (ZHES BLA MA NYID KYI ZHAL NAS GSUNGS PA JI LTA BU BZHIN DU LO RGYUS KHA BYANG DANG BCAS ^RATNA DHVA DZAS DGA' LDAN CHOS 'KHOR GLING NAS BAR DU BKOD PA'O, ,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-7A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "24.5x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "30.5x7",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T12:08:27.639442+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

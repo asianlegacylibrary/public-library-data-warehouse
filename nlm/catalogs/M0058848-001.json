@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0058848-001",
+    "input_file_number": "W1NLM935-I1NLM935",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,'PHAGS PA GSER 'OD DAM PA MDO SDE'I DBANG PO RGYAL PO ZHES BYA BA THEG PA CHEN PO'I MDO BZHUGS SO, ,",
+    "author_simple": "SH'AKYA THUB PA,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "MEDIUM",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "MEDIUM",
+    "volume_(боть)": "KA PA,",
+    "page_numbers_(хуудасны_дугаар)": "1A-203A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "37x8.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "44x10.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T00:31:50.002978+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "nlm_catalog": "M0061571-003",
+    "input_file_number": "W1NLM3653-I1NLM3653",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,GCOD KYI GDAMS PA ZAB MO'I KHYER BDE BA ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@005B (CES PA 'DI YANG DON GNYER CAN 'GA' ZHIG GI BSKUL BA LA BRTEN NAS PHYOGS MYUL GYIS BYA BRAL BA BTZUN PA BLO BZANG BSGOM CHUNG GI MKHAR RDO BSAM GTAN GLING GI GTZUG LAG KHANG DU SBYAR BA'O, ,DGE SLONG BLO BZANG BSTAN DAR GYIS PAR DU BKOD PA'I PAR 'DI YANG MKHAR RDOR BZHUGS YOD, ,)",
+    "author_simple": "BLO BZANG BSGOM CHUNG,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-5B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "27x7.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "34x9.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "publisher_(хэвлэсэн_буюу_бүтээсэн_хийд_буюу_бархан)": "MKHAR RDO BSAM GTAN GLING GI GTZUG LAG KHANG,",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T12:40:13.307899+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

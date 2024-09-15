@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0066204-043",
+    "input_file_number": "W1NLM8286-I1NLM8286",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,BSANG GTONG BAR 'DOD PA NI, ,",
+    "colophon_(төгсгөлийн_үг)": "@007B (CES BSANG CHOG SHIN TU BSDUS PA 'DI YANG BSANG 'CHAG MED GTANG BAR 'DOD KYANG SNA MANG BYA BAS GA-YANG RA RNAMS LA PHAN PHYIR, ^LHA'I BTZUN PA PAndI TA'I MING 'CHANG GIS BGYIS PA'O, ,)",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "POOR",
+    "volume_(боть)": "WAm,",
+    "page_numbers_(хуудасны_дугаар)": "5B-7B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "28.5x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "35.5x8.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T16:35:19.504152+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

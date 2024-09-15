@@ -1,0 +1,26 @@
+{
+    "nlm_catalog": "M0061955-010",
+    "input_file_number": "W1NLM4037-I1NLM4037",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,GSOL 'DEBS SKYABS MCHOG RIN CHEN MA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@001B (CES SKYABS MGON DPAL LDAN BLA MA DAM PA 'JAM DBYANGS BLO GROS PA'I ZHABS BRTAN 'DI NI DE GA'I NYE 'KHOR @002A *, ,RNAMS KYIS BSKUL BA LTAR BLO BZANG MING CAN GYIS PHRAL DU BDE CHEN CHOS GLING DU SBYAR BA'I YI GE PA NI RAB 'BYAMS PA 'JAM DBYANGS PHUN TSOGS SO,, ,,SARBA MANGGA LAm,, ,,)",
+    "author_simple": "BLO BZANG MING CAN,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-2A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "48x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "50x9.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "publisher_(хэвлэсэн_буюу_бүтээсэн_хийд_буюу_бархан)": "BDE CHEN CHOS GLING,",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T03:03:33.627817+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

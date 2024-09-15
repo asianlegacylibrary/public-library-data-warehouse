@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0065716-002",
+    "input_file_number": "W1NLM7798-I1NLM7798",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,'DIR RDO RJE'I SDER MO'I BZLOG BSGYUR ZHES BYA BA BZHUGS SO, , *, ,BZANG PO SPYOD PA'I SMON LAM GYI SGO NAS BZLOG BSGYUR BYED TSUL BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@004A *, ,(DE NAS RDO RJE SDER MO'I BZLOG BSGYUR LA PHAN YON NI LTAN NGAN BRGYAD BCU RTZA GCIG NAD RIGS BZHI BRGYA BZHI MI KHA DGRA KHA DGRA LA GOD KHA BYAD KHA PHUNG ZOR ZOR KHA LTAS NGAN PA DANG, DGRA BGEGS NAD GDON PA DANG PHYUGS LA GOD KHA DGRA BGEGS DANG MI PHYUG NAD YAMS BAN BON RGYA NAG 'BAB PA KHA MCHU NAG PO'I MDO GANG BYA DANG CES PA 'DI MDZES BHA BHA GRU BA ZA HOR BA NI HAL KHA'I BSKUL BA'O, ,@004B ^AER TE NI CHEN PO SH'A RIL THU 'DZAM DPAL RDO RJE NAG PO RKAN ^MDZAD PA'O, 'DZAM GLING RGYAN GDAN DU PA LA RGYA:)",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-4B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "17x7.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x9",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T15:54:01.613735+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

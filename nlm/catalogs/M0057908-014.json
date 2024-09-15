@@ -1,0 +1,39 @@
+{
+    "nlm_catalog": "M0057908-014",
+    "input_file_number": "W1NLM14-I1NLM14",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "` 'DI LTAR BGYIS PAS TSE RABS THAM CAD DU NI,",
+    "colophon_(төгсгөлийн_үг)": "@009B (ZHES PA 'DI YANG KLONG RDOL BLA MA NGAG DBANG BLO BZANG BRIS PA'O,, ,,)",
+    "author_simple": "NGAG DBANG BLO BZANG,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "POOR",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "9A-10a",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "18.5x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "21.5x8.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-13T22:55:13.366825+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-09-13T22:57:16.007006+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "updated"
+        },
+        {
+            "timestamp": "2024-09-13T23:03:46.951685+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "updated"
+        },
+        {
+            "timestamp": "2024-09-13T23:25:23.488794+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "updated"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0061902-019",
+    "input_file_number": "W1NLM3984-I1NLM3984",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,DPAL DUS KYI 'KHOR LO'I BLA MA'I RNAL 'BYOR MDOR BSDUS BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@002A *, ,(CES SHAR PHYOGS BSTAN PA'I SROG SHING MCHOG GI BKA' NGAG BZHIN RGYAL SRAS SPRUL SKU'I MING 'DZIN GYIS PHRAL DU BRIS PA'O, ,)",
+    "author_simple": "RGYAL SRAS SPRUL SKU'I MING 'DZIN,",
+    "cover_type_(хавтасны_төрөл)": "PAPER COVER",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-2A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "19x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x9",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T02:58:05.100058+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

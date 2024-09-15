@@ -1,0 +1,23 @@
+{
+    "nlm_catalog": "M0059003-002",
+    "input_file_number": "W1NLM1090-I1NLM1090",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,BSTAN BCOS MNGOR PAR RTOGS PA'I RGYAN 'GREL BA DANG BCAS PA'I RNAM BSHAD RIN CHEN GSAL BA'I SGRON ME LAS SHING RTA'I SROL 'BYED KYI SKOR BZHUGS SO, ,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-28B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "47.5x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "51.5x10",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T00:36:06.506393+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

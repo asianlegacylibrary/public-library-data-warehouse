@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0061933-003",
+    "input_file_number": "W1NLM4015-N1M4015",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "LW",
+    "full_title_(бүтэн_гарчиг)": "*, ,BY'A KAR nA M'U LA SUM CU PA DANG RTAGS KYI 'JUG PA ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@005A *, ,KUN GYI MTHONG SER PAR BSKRUN DGES, ,KUN KYANG DGE BA SEMS CHEN POS, ,KUN PHAN RIN CHEN NGAG SBYOR MTHUS, ,KUN BZANG YANG DNGOS MDZAD MTSUNGS SHOG , ,,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-5A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "50x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "53.5x8.3",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T06:25:19.783588+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

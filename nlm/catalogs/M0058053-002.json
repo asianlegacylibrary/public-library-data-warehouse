@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0058053-002",
+    "input_file_number": "W1NLM140-I1NLM140",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,RTA MGRIN GSANG SGRUB KYI CHOS SKOR LAS, KLU GTOR RGYAS BSDUS KYI CHO GA BDUD RTZI'I ROL MTSO ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@008A *, ,SNGAGS 'DI 'BRI KHUNG CHOS KYI GRAGS PAS ZHUS DAG MDZAD PA LTAR BRIS SO, ,",
+    "author_simple": "CHOS KYI GRAGS PA,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Medium",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-8A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "30x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "35x7",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T05:28:58.910195+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

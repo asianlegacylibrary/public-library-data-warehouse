@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0065543-011",
+    "input_file_number": "W1NLM7625-I1NLM7625",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,HA CANG ZH'ANG ZHI 'CHI'O KYI ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@015A *, ,(MI PHYUGS NAD GDON GOD KHA DANG KHA SMRAS CHANG LA'ANG, ,SANGS RGYAS SHES RAB AU PA ZHI BSKUL BAS, THO GO'O CO'O HU THAG THO BAS MDZAD PA'O, ,)",
+    "author_simple": "THO GO'O CO'O HU THAG THO,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Medium",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "5B-15A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "15.5x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "20x8.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T09:08:45.811672+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

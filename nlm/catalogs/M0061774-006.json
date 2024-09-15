@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0061774-006",
+    "input_file_number": "W1NLM3856-N1M3856",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,DGA' LDAN LHA BRGYA MA'I SKABS SU NYE BAR MKHO BA'I KHA TSAR BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@003B DON 'DI LA MYONG BA GRUB CING YID CHES PA'I GNAS LAGS SO, ,'DUL 'DZIN GLE NAG PA'I GSUNG RGYUN BZHIN YI GER BKOD PA LAGS SO, ,BKRA SHIS BYON,, ,,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-3B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "16x5",
+    "size_of_pages_(хуудасны_хэмжээ)": "20x7.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T06:23:30.464111+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

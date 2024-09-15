@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0059204-003",
+    "input_file_number": "W1NLM1286-N1M1286",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,BLO RIGS KYI SDOM TSIG BLANG DOR GSAL BA'I ME LONG ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@006A ` AOm SVA STI, YONGS 'DZIN MKHAS DBANG DBYANGS CAN DGA' BLO YI, ,GSUNG 'DI KUN DGA' CHOS GLING GRVA TSANG DU, ,DGE BSGO DGE BSHES BLO BZANG RDO RJE YIS, ,PAR DU BSGRUBS DGES RGYAL BSTAN RGYAS PAR SHOG , ,,SARBA DZA GA TAm, ,)",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Medium",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-6A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "49.5x7.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "56.5x10",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "publisher_(хэвлэсэн_буюу_бүтээсэн_хийд_буюу_бархан)": "KUN DGA' CHOS GLING GRVA TSANG,",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T05:51:53.176637+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

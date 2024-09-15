@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0062961-013",
+    "input_file_number": "W1NLM5043-I1NLM5043",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,DPAL 'KHOR LO BDE MCHOG DKAR PO'I RIL SGRUB KYI CHO GA BDUD RTZI'I BUM BZANG BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@008A *, ,(CES DPAL 'KHOR LO BDE MCHOG DKAR PO'I RIL SGRUB KYI CHO GA BDUD RTZI'I BUM BZANG ZHES BYA BA 'DI NI, SKU 'BUM RGYUD PA GRVA TSANG GI TSOGS SU ZHAL 'DON GNANG RGYUD 'JUG PA BDE BA ZHIG DGOS ZHES RGYUD GRVA'I SPYI GNYER LUGS @008B GNYIS KYI GZIGS PA YANGS PA SNGAGS RAM PA CHOS GRAGS PAS BKRA SHIS PA'I LHA DAR CHE LEGS DANG BCAS BSKUL BA LTAR, RGYUD GRVA 'DI NYID KYI KHRI ZUR ^AAKY'A BLO BZANG BSTAN RGYAN DPAL BZANG POS SMRAS PA DGE LEGS 'PHEL, ZHES PA 'DI NI SKU 'BUM BYAMS PA GLING DU DPAR DU BSGRUBS PA'O, ,)",
+    "author_simple": "AAKY'A BLO BZANG BSTAN RGYAN DPAL,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-8B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "20.5x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "25.5x8.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T13:52:41.405648+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0058142-001",
+    "input_file_number": "W1NLM229-I1NLM229",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,RGYAL SRAS RIN PO CHE'I ZHAL SNGA NAS STZAL BA'I MDO SDE RGYAN 'GREL BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@219A *, ,(THEG PA CHEN PO MDO SDE'I RGYAN GYI 'GREL BA RIN PO CHE'I PHRENG BA ZHES BYA BA, CHOS SMRA BA THOGS MED KYIS DPAL AE'I GTZUG LAG KHANG DU SBYAR BA RDZOGS SO, ,)",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "MEDIUM",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A- 219A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "53.5x7.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "60.5x10.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-13T23:47:34.931490+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

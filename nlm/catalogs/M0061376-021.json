@@ -1,0 +1,23 @@
+{
+    "nlm_catalog": "M0061376-021",
+    "input_file_number": "W1NLM3458-I1NLM3458",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,BCOM LDAN 'DAS KUN RIGS RNAM PAR SNANG MDZAD KYI SGO NAS GSHIN PO RJES 'DZIN GYI LHO SGO'I CHO GA'I NGAG DON BZHUGS SO, ,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "MEDIUM",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-25B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "35x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "41x10.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T02:39:12.805585+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0061378-024",
+    "input_file_number": "W1NLM3460-I1NLM3460",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,'PHAGS PA GNAM SA SNANG BRGYAD CES BYA BA THEG PA CHEN PO'I MDO BZHUGS SO, ,",
+    "author_simple": "SH'AKYA THUB PA,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "JA PA,",
+    "page_numbers_(хуудасны_дугаар)": "1A-14A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "24x7.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "29x10",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T02:39:51.078326+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

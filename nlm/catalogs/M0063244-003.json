@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0063244-003",
+    "input_file_number": "W1NLM5326-I1NLM5326",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,MKHA' 'GRO SNYAN BRGYUD KHROS NAG GI KHRUS CHOG BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@005B (DE LTAR SNYAN BRGYUD KHROS NAG GI KHRUS CHOG MIG RNYING RNAM 'JOM SOGS NAS CUNG ZAD KHA BSKONG STE NGAG DBANG PHUN TSOGS KYIS BKOD PA'O, ,BKRA SHIS PAR GYUR CIG , ,,)",
+    "author_simple": "NGAG DBANG PHUN TSOGS, ",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-5B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "46x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "52.5x10.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T04:40:12.778112+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

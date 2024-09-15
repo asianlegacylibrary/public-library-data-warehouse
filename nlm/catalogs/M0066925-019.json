@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0066925-019",
+    "input_file_number": "W1NLM9007-I1NLM9007",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,RGYAL BA THAMS CAD MKHYEN PA'I MDZAD PA GTOR MA RGYA RTZA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@002B (BDEN STOBS BRJOD LA BRJOD KYANG RUNG, THAMS CAD MKHYEN PA'I MDZAD PA GTOR MA BRGYA RTZA BZHUGS, ,BKRA SHIS DPAL 'BAR 'DZAM GLING BRGYN 'GRUB SHOG ,BKRA SHIS,, ,,)",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-2B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "13x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "18x7.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T17:16:31.231879+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

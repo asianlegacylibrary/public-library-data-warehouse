@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0060545-002",
+    "input_file_number": "W1NLM2627-I1NLM2627",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,RLUNG BYIN RLOBS GTUM MO'I KHRID YIG GI RIM PA SNYING PO BCUD BSDUS ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@021A *, ,THABS LAM MNGA' BRNYES BLO BZANG CHOS 'PHEL DANG, ,GRUB PA'I DBANG PHYUG BSOD NAMS GRAGS PA'I ZHABS, ,BKA' DRIN MNYAM MED RATNA'I MTSAN CAN LA, ,GSOL BA 'DEBS SO RTZA RLUNG @021B BYIN GYIS RLOBS, ,MDO SNGAGS CHOS KYI SKYED TSAL DGA' LDAN CHOS 'KHOR GLING NAS PAR DU BKOD, ,BKRA SHIS,, ,,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-21B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "17x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x8.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "publisher_(хэвлэсэн_буюу_бүтээсэн_хийд_буюу_бархан)": "DGA' LDAN CHOS 'KHOR GLING,",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T02:14:25.052347+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

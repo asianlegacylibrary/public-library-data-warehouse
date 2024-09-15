@@ -1,0 +1,40 @@
+{
+    "nlm_catalog": "M0057905-002",
+    "input_file_number": "W1NLM11-I1NLM11",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,RAS BRIS DKYIL 'KHOR BRIS SKU SOGS YOD NA RTEN RNAMS LA BRTAN BZHUGS BYA BA NI,",
+    "colophon_(төгсгөлийн_үг)": "@060A *, ,(CES SMON LAM DANG BKRA SHIS 'DI DAG RJE GRUB THOB CHEN PO'I GSUNGS 'KHRUL MED BYIN RLABS CAN NO, ,)",
+    "author_simple": "RJE GRUB THOB CHEN PO,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "53B-60A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "17x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x9",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-13T22:54:29.427819+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-09-13T22:56:32.621252+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "updated"
+        },
+        {
+            "timestamp": "2024-09-13T23:03:02.525108+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "updated"
+        },
+        {
+            "timestamp": "2024-09-13T23:24:37.065682+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "updated"
+        }
+    ]
+}

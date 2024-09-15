@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0059664-010",
+    "input_file_number": "W1NLM1746-I1NLM1746",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,DPAL DUR KHROD BDAG PO LA GSER SKYEMS 'BUL BA NI,",
+    "colophon_(төгсгөлийн_үг)": "@007B (CES 'BUL YOD 'DI NI GSER GLING GI GNAS LUGS GTER BA BLO BZANG RDO RJES 'DI LTA BU ZHIG DGOS BSKUL BA LTAR BLA MA AA TZAR BZHUGS SO, ,SA MA YA: RGYA: RGYA: RGYA: AiTHI:, ,)",
+    "author_simple": "AA TZAR,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "6B-7B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "18x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x9",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T01:17:16.140036+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

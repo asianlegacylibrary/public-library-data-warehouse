@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0061082-015",
+    "input_file_number": "W1NLM3164-N1M3164",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@005A *, ,H'Um RGYAL KUN SNYING RJE RAB KHROS NAG PO CHE, ,DRAN BA TZAM GYIS PAR GCOD KUN SEL ZHING, ,'DU 'BRAL MED PAR DNGOS GRUB STER MDZAD PA, ,YE SHES MGON PO 'KHOR BCAS GNAS 'DIR GSHEGS,]",
+    "colophon_(төгсгөлийн_үг)": "@006A *, ,(CES PA 'DI NI DAM PA 'GA' ZHIG GI SKU'I RIM GRO PA tU SIDDHIS SUG BRIS SU KHA STON 'JI BKA' RGYA MDZOD, ,)",
+    "author_simple": "PA tU SIDDHI,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Poor",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "5A-6A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "48x7.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "62x10.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T06:18:02.106274+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

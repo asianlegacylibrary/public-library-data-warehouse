@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0058103-008",
+    "input_file_number": "W1NLM190-I1NLM190",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,SEMS BSKYED CHO GA'I GO RIM BZHUGS, ,",
+    "colophon_(төгсгөлийн_үг)": "@004B (CES PA 'DI NI BZHAD RNGON MING CAN GYIS, BLA MA BYAMS PA NAS BRGYUD PA'I PHAG LEN LTAR RIN CHEN JO BO'I GTZUG LAG KHANG DU BSGRIGS PA'O, ,)",
+    "author_simple": "BZAD RNGON MING CAN,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "MEDIUM",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-4B [3A, 3B GONG, 'OG]",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "25.5x5",
+    "size_of_pages_(хуудасны_хэмжээ)": "30x7",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-13T23:44:03.551069+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

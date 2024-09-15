@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0061416-011",
+    "input_file_number": "W1NLM3498-N1M3498",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@010B CHOS DBYINGS RNAM PAR DAG PA'I KLONG CHEN NAS, ,RGYAL KUN YE SHES LNGA DANG SKU GSUM NYID, ,BLA MA RDO RJE NAG PO CHEN PO KHYOD, ,SNGON GYI THUGS DAM BSKYED DGONGS BDAG SKYONGS SHIG ,]",
+    "colophon_(төгсгөлийн_үг)": "@011A*, ,('DOD CHAGS RDO RJE MING CAN DAD PAS BRIS,, ,,)",
+    "author_simple": "RDO RJE MING CAN,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "10B-11A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "20.5x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "24.5x7.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T06:20:10.285113+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

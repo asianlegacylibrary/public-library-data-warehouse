@@ -1,0 +1,26 @@
+{
+    "nlm_catalog": "M0065998-018",
+    "input_file_number": "W1NLM8080-I1NLM8080",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@003B KYEE NGA NI KLU BDUN NAG PO YI, ,SKU GSUNG THUGS LA PHYAG 'TSAL LO, ,GNOD ZHING 'GYOD PAS BSHAGS GU BDUD SKU LA PHYAG 'TSAL LO, ,SKU DANG 'GAL BA CI BGYIS PA, ,GNOD ZHING 'GYOD PAS MTHOL LO BSHAG ,]",
+    "colophon_(төгсгөлийн_үг)": "@004A *, ,(ZHES PA 'DI NI KU PAndI TA RDO RJE BSOD NAMS MING CAN BDE CHEN BYANG CHUB GLING GSUNG BA'O, ,DGE LEGS 'PHEL, ,)",
+    "author_simple": "BSOD NAMS MING CAN,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "3B-4A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "18x5",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x7.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "publisher_(хэвлэсэн_буюу_бүтээсэн_хийд_буюу_бархан)": "BDE CHEN BYANG CHUB GLING,",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T09:43:06.775117+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

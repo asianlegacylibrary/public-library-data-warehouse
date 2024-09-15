@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0059272-059",
+    "input_file_number": "W1NLM1353-N1M1353",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,'PHAGS PA BZANG SPYOD SMON LAM BZHUGS, ,",
+    "colophon_(төгсгөлийн_үг)": "@006B ('PHAGS PA BZANG SPYOD PA'I SMON LAM GYI RGYAL BA RDZOGS SO, ,)",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Medium",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-6B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "46x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "51.5x9.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T05:53:17.553688+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

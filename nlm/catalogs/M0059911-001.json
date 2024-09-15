@@ -1,0 +1,26 @@
+{
+    "nlm_catalog": "M0059911-001",
+    "input_file_number": "W1NLM1993-I1NLM1993",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,DPAL 'KHOR LO SDOM PA ZHES BYA BA RNAL 'BYOR MA CHEN MO'I RGYUD KYI RGYAL PO BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@170B RGYA GAR GYI MKHAN PO PAD MA KA RA WAR MA DANG, ZHU CHEN GYI LO TZTSA BA DGE SLONG RIN CHEN BZANG POS BSGYUR ZHING ZHUS TE GTAN @171A *, ,LA PHAB PA'O,, ,,RGYA GAR GYI MKHAN PO SPAS PA'I NYI MA DANG, BOD KYI LO TZTSA BA 'GOS LHAS BCAS KYIS SLOB DPON CHEN PO LA BA PA'I 'GREL PA DANG BSTUN NAS BCOS PA'O, ,YANG SLAD NAS RGYA GAR GYI MKHAN PO SU MA TI KIR TI DANG, BOD KYI MKHAS PA CHEN PO MAR PA CHOS KYI DBANG PHYUG GIS ZHUS TIG BGYIS PA'O,, ,,@171B SRID PA GSUM THABS SKU NI RJES CHAGS 'BUL BAR LDAN, ,'OD",
+    "translator_(орчуулагч)": "PAD MA KA RA WAR MA, RIN CHEN BZANG PO,",
+    "editor_(хянан_тохиолдуулагч)": "SPAS PA'I NYI MA, 'GOS LHA, SU MA TI KIR TI, CHOS KYI DBANG PHYUG,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "MEDIUM",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-173A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "20x5",
+    "size_of_pages_(хуудасны_хэмжээ)": "25.5x7.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T01:35:25.997521+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0066138-002",
+    "input_file_number": "W1NLM8220-I1NLM8220",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,GCOD KYI SMON LAM ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@006A *, ,(CES PA 'DI NI BLO SBYONG RMA BYA DUG 'JOMS NAS GSUNGS PA STE, SMON LAM MTHA' YAS RGYA MTSOS GCOD KYI SMON LAM DU SBYAR BA'O, ,)",
+    "author_simple": "SMON LAM MTHA' YAS RGYA MTSO,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-6A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "11.5x4",
+    "size_of_pages_(хуудасны_хэмжээ)": "15.5x6",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T16:25:59.223074+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

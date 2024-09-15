@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0060002-015",
+    "input_file_number": "W1NLM2084-I1NLM2084",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,CHOS RGYAL GSANG SGRUB LA BSTOD CING GSOL BA 'DEBS PA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@003B (CES CHOS RGYAL GSANG SGRUB LA BSTOD CING GSOL BA 'DEBS PA 'DI NI, GSHIN RJE GSHED KYI RNAL 'BYOR PA DGE 'DUN GRUB PA DPAL BZANG POS SBYAR BA'O, ,)",
+    "author_simple": "DGE 'DUN GRUB PA,",
+    "cover_type_(хавтасны_төрөл)": "WOODEN COVER",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1B-3B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "16.5x5",
+    "size_of_pages_(хуудасны_хэмжээ)": "19.5x6.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T01:41:10.835460+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

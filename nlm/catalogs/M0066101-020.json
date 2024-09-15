@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0066101-020",
+    "input_file_number": "W1NLM8183-I1NLM8183",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,MGON PO BSKANG GSO BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@008A *, ,('DI YANG KUN RTOG GI RI MOR CHOS SKYONG MA NING NAG PO YI BKAS BSKUL BA'I RTAGS LAN BDUN 'BYUNG NGO MA CHAG PAR, 'DUS PA RTZAL PADMA 'OD GSAL GYIS SUG BRIS SNANG STONG ROL BAR SPEL BA'O, ,)",
+    "author_simple": "PADMA 'OD GSAL,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-8B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "18x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "22.8x9",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T09:54:45.055035+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0059502-013",
+    "input_file_number": "W1NLM1584-I1NLM1584",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,MYUR MDZAD YE SHES KYI MGON PO PHYAG DRUG PA'I SGO NAS MI KHA DGRA BZLOG CES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@007B (ZHES PA 'DI NI YANG MGON PO'I SGO NAS MI KHA DGRA MCHU GCOD PA'I LHAN THABS KYIS TSUL DU SKU SKYES DPAL LHUN GYIS BSGRIGS PA'O, ,AEKA PRETZTSA,, ,,)",
+    "cover_type_(хавтасны_төрөл)": "WOODEN BOX",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-7B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "23.5x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "30x8.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T01:09:57.018973+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

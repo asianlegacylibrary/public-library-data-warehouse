@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0062279-007",
+    "input_file_number": "W1NLM4361-I1NLM4361",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,SHAMBHA LA YI SMON TSIG BZHUGS, ,",
+    "colophon_(төгсгөлийн_үг)": "@003B DGE SLONG BLO BZANG DPAL LDAN YE SHES KYIS SBYAR BA'O,, ,,'DI'I SHLOOKA BCU GNYIS PA BCVO LNGA PA BRGYAD PA'I RKANG BA GSUM PA RNAMS GZHAN NAS 'JUG , ,,DGE'O, ,",
+    "author_simple": "BLO BZANG DPAL LDAN YE SHES,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-3B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "15.5x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x7",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T13:15:42.201106+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

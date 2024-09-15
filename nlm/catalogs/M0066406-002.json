@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0066406-002",
+    "input_file_number": "W1NLM8488-I1NLM8488",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,MA nI 'KHOR LO'I BYUNG KHUNGS KYI PHAN YON NGAN SONG KUN GROL BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@007A *, ,('KHOR LO BSKOR BA'I DMIGS PA NI, ,'KHOR LO'I DBUS KYI SA BON DANG, ,SNGAGS 'PHRENG RNAMS LAS ME 'OD 'PHROS, ,SNGAGS KYI SGRA YIS STONG GSUM KHYAB, ,LAS BZHI 'GRUB DANG 'GRO RNAMS KYI, ,SGRIB SBYANGS SANGS RGYAS GO 'PHANG THOB, ,GDON BGEGS BYAD KHA PHUR KHA RNAMS, ,RMEG MED BSREGS CING ME'I STAG CHU'I, ,NANG DU STONG LTAR RJES MED NAS, ,'JIGS KUN LAS BSRUNG SKYOBS PAR MSO, ,BSRUNG BYA BSRUNG 'KHOR NANG DU CHUD, ,SRONG BTZAN SGAM POS LEGS PAR GDAMS, ,ZHES GSUNGS, ,)",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-7A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "22.5x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "29.5x8.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T16:59:00.022431+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

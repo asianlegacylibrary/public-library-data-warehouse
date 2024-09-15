@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0062045-016",
+    "input_file_number": "W1NLM4127-I1NLM4127",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,MGON DKAR YID BZHIN NOR BU'I BSTOD PA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@006A *, ,CES PA 'DI NI SPRUL SKU BSOD NAMS RGYA MTSOS MDZAD PA'O,, ,,BKRA SHIS PA DANG DGE BA 'PHEL GYUR CIG , ,,",
+    "author_simple": "BSOD NAMS RGYA MTSO,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "5A-6A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "31x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "42.5x9",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T03:09:37.706543+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0065814-020",
+    "input_file_number": "W1NLM7896-I1NLM7896",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "` BRGYA BZHI'I BSDUS PA MA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@002A *, ,(ZHES BZLOG PA BYA, GTOR MA MAR ME DANG BCAS PA PHYOGS BZHIR BSKYAL, BRGYA BZHI SHIN TU BSDUS PA'I 'DI NI SLOB DPON DGA' RAB RDO RJE'I MDZAD PA RDOGS SO, ,BKRA SHIS, ,)",
+    "author_simple": "DGA' RAB RDO RJE,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-2A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "25x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "30.5x8.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T15:59:37.771238+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

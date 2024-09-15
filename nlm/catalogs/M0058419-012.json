@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0058419-012",
+    "input_file_number": "W1NLM506-I1N1M506",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,RDO RJE SHUGS BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@008A *, ,(CES RGYAL CHEN RDO RJE SHUGS LDAN RTZAL GYI MNGON RTOGS SPYAN 'DREN BSKANG BSHAGS BSTOD B SKUL MNGA' GSOL CHA TSANG 'DI'I LTOD CHA RNAMS DRE LTAS SMAN CHA RNAMS SMON CHEN GYIS MDZAD PA'O, ,)",
+    "author_simple": "SMON CHEN,",
+    "cover_type_(хавтасны_төрөл)": "paper cover",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-8A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "34x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "44x8.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T05:41:46.128035+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

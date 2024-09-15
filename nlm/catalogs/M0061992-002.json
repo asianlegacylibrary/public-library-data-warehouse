@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0061992-002",
+    "input_file_number": "W1NLM4074-I1NLM4074",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "#, ,MGON PO SGO NAS GRIB SEL BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@003B (CES PA 'DI NI SNYIGS MO'I DUS KYI 'GRO BA LA GRIB LAS SHES NYON DU MNAR PAS PHYIR, THABS MGON PO NAG PO SGO NAS SGRIB SEL BA'I THABS GANG LA SNA TSOGS THABS RNAMS LAS, THOS KYI DGONGS 'PHEL MGON PO RNAL 'BYOR PA SBYAR BAS 'GRO BA SDUG BSNGAL SEL BAR SHOG ,iTHI: LEGS SO, ,)",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-3B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "30x7.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "34x10",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T12:57:38.401702+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

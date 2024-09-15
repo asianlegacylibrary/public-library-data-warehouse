@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0065528-027",
+    "input_file_number": "W1NLM7610-I1NLM7610",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,PHYAG RDOR GYI 'PHEN GTOR BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@001B (CES PA 'DI NI CHOS SKYONG PHYAG RDOR GYI RTZA BRGYUD GZHUNNG LAS 'BYUNG BA LEN PA BRIS PA'O, ,)",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-1B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "27.5x7.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "34x9.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T15:41:28.713287+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

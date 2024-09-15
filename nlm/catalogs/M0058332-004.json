@@ -1,0 +1,26 @@
+{
+    "nlm_catalog": "M0058332-004",
+    "input_file_number": "W1NLM419-I1NLM419",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,BSKANG GSO NI,",
+    "colophon_(төгсгөлийн_үг)": "@019B (BSKANG GSO RGYAS PA RJE BTZUN @020A *, ,DHARM'A DHVA DZA'I GSUNG, BSDUS PA RJE DGE 'DUN RGYA MTSO'I GSUNG NGO, ,)",
+    "author_simple": "DHARM'A DHVA DZA,",
+    "dates_of_the_author_(зохиогдсон_өдөр)": "DGE 'DUN RGYA MTSO,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "15B-20A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "19.5x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "23x9",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T00:06:05.322748+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

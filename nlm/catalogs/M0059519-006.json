@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0059519-006",
+    "input_file_number": "W1NLM1601-I1NLM1601",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,KHRI CHEN GUNG THANG RIN PO CHES MDZAD PA'I KLU BSANGS GTONG TSUL MDOR BSDUS BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@004B (ZHES KLU BSANG GTONG TSUL MDOR BSDUS 'DI NI DAD BRTZON LDAN PA DKON MCHOG SNYAN GRAGS KYIS BSKUL NGOR, ^BTZUN PA DKON MCHOG BSTAN PA'I SGRON MES SBYAR BA'I YI GE PA NI SNGAGS RAMS PA DKON MCHOG KUN DGA'O,, ,,`SANGS RGYAS KLU DBANG RGYAL PO'I GTUNGS NI, DADYA TH'A, TA TH'A GA TO BHA GA WA NA, NA GA RA DZE SHVA RA AA DHIshthA AA DHIshthI TE SV'AH'A, , KLU THEBS PHAN BDE'I CHAR 'BEBS ZHUGS SO,, ,,)",
+    "cover_type_(хавтасны_төрөл)": "WOODEN BOX",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-4B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "14.5x5",
+    "size_of_pages_(хуудасны_хэмжээ)": "19x6.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T11:24:46.545361+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

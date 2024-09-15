@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0059378-017",
+    "input_file_number": "W1NLM1460-I1NLM1460",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,BYANG 'GROL GSER GYI LDE MIG CES BYA BA DBUS BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@012A *, ,(BYANG GROL GSER GYIS LDI MIG CES BYA BA GZHAN LAS KHYAD DU 'PHAGS PA'I MAN NGAG DAM PA, NGAN PA KUN SEL GYI GZUNGS SNGAGS TSE SGRUBS KYI MCHOG ,BDE LEGS KUN 'BYUNG BA'I CHO GA SHIN TU ZAB PA AiSTHI: MANGGA LAm, ,)",
+    "cover_type_(хавтасны_төрөл)": "WOODEN BOX",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-12A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "24x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "29x8.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T11:14:49.256164+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

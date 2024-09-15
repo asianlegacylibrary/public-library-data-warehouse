@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0067277-001",
+    "input_file_number": "W1NLM9359-I1NLM9359",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,'PHAGS PA GDUGS DKAR MCHOG GRUB ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@032B GTZUG TOR GDUGS DKAR CAN LA BSTOD PA 'DI NI, BLO BZANG GRAGS PA'I DPAL GYIS SDOM BRTZON SHES RAB RGYAL MTSAN LA SOGS PAS BSKUL BA'I NGOR SBYAR BA'O,, ,,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "MEDIUM",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-33A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "14x4.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "18x6",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T04:55:14.296859+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

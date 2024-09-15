@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0058112-004",
+    "input_file_number": "W1NLM199-I1NLM199",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@003B *, ,NA MO GU RU RATNA BHYA; 'DIR RNGA MONG GI GA-YANG 'BOD BYAS PAR 'DOD PAS,]",
+    "colophon_(төгсгөлийн_үг)": "@004A *, ,(CES PA 'DI NI HAL HA'I DZA SAG DPON PO BLO BZANG BKRA SHIS HO SHO NAS, DAD BRTZON DANG LDAN PA PHAN BDE'I 'BYUNG GNAS KYIS RNGA MONG GI GA-YANG 'BOD GSAL BO KHOS NAS ZHIG 'DON GYI DPE RNYING LAS RIG NAS GSAR BSKRUN GYIS BSKUL BA'I NGOR, BTZUN PA DGE LDAN SHES RAB SENGGE NOR BU MING CAN GYIS SBYAR BA'O, ,)",
+    "author_simple": "SHES RAB SENGGE NOR BU MING CAN,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "3B-4A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "18.5x7.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x9",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T05:31:57.865806+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

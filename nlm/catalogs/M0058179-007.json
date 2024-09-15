@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0058179-007",
+    "input_file_number": "W1NLM266-I1N1M266",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,GSO SBYONG GI GZHI NAS GSUNGS PA'I ZHI GNAS KYI GSO SBYONG BYA TSUL BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@009B (CES PA 'DI YANG MTSUNGS MED BSTAN 'GRO'I MGON PO DE NYID KYI BKA' LUNG SGRUB CHEN, BTZUN GZUGS NGAG DBANG RDO RJES BGYIS PA'O,, ,,)",
+    "author_simple": "NGAG DBANG RDO RJE,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Medium",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-9B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "44x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "54x10",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T05:36:23.577842+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

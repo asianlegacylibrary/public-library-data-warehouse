@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0062367-006",
+    "input_file_number": "W1NLM4449-I1NLM4449",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,'DUL BA'I BSLAB BYA'I YAN LAG LAM DU 'GRO BA'I TSUL KHRIMS BSRUNG TSUL BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@004A *, ,'DI'ANG SRID ZHI'I GTZUG RGYAN BKA' DRIN MTSUNGS MED DE NYID KYI BKA' LUNG SGRUB PA'I YAN LAG TU, BTZUN GZUGS NGAG DBANG PAS BRIS PA'O,, ,,",
+    "author_simple": "NGAG DBANG PA,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-4A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "42x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "53.5x9.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T13:22:04.647890+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0059396-031",
+    "input_file_number": "W1NLM1478-I1NLM1478",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@008A *, ,NA MO GU RU BHYA: 'DIR BSLAB @008B BYA SNYING THUR KYI DON 'GA' ZHIG DGROL BA LA , ,]",
+    "colophon_(төгсгөлийн_үг)": "@009A *, ,(ZHES PA 'DI NI NO MON HAN MING PAS BRIS PA'O, ,)",
+    "author_simple": "NO MON HAN MING PA,",
+    "cover_type_(хавтасны_төрөл)": "WOODEN BOX",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "8A-9A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "38x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "44.5x8.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T11:18:06.313237+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

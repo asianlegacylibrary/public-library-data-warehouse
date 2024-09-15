@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0060157-005",
+    "input_file_number": "W1NLM2239-N1M2239",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,LAM RIM DANG THEG PA CHEN PO'I BLO SBYONG GNYIS KYI 'KHRID TSUL NI,",
+    "colophon_(төгсгөлийн_үг)": "@013A *, ,(ZHES GSUNGS SO, ,DE RNAMS NI LAG TU BLANGS NA NGES MI BSLU BA'I GDAMS DAG YIN PAR RJE BTZUN MA RANG NYID KYIS GSUNGS SO, ,)",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "11B-13A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "12.5x4.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "17x6",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T06:06:19.451658+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

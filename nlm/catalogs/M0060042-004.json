@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0060042-004",
+    "input_file_number": "W1NLM2124-I1NLM2124",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "` SPYI DANG KHYAD PAR KLU CHEN LA GSUR BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@003B (CES PA 'DI NI SLOB DPON RIN PO CHE BSOD NAMS GRAGS PA'I BSKUL BA'I NGOR DZA YA PAndI TA BLO BZANG 'PHRIN LAS GYIS SBYAR BA'O, ,BKRA SHIS BAR GYUR CIG ,MANGGA LAm, ,)",
+    "author_simple": "BLO BZANG 'PHRIN LAS,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-3B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "17x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "20.5x7",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T11:52:01.667690+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

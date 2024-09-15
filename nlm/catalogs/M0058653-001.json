@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0058653-001",
+    "input_file_number": "W1NLM740-I1NLM740",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "` 'JAM DBYANGS NAG PO'I SGRUB THABS BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@003B (ZHES 'DON MKHAR SNGON NAS TSA THON KHU THOG THU'I PHYAG MDZOD TSUL KHRIMS RGYA MTSO DANG DGE BSGOS CHOS RGYA MTSO GNYIS KYIS 'DI LTA BU ZHIG DGOS ZHES BSKUL BA LTAR ^SH'AKYA'I DGE SLONG BLO BZANG DPAL LDAN YE SHES KYIS SBYAR BA'O, ,)",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "MEDIUM",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "MEDIUM",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-3B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "22x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "26.5x7",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T00:27:45.839569+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

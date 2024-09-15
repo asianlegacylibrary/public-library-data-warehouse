@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0066676-013",
+    "input_file_number": "W1NLM8758-I1NLM8758",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,GZHI BDAG GNAS BDAG GTER BDAG PHYOGS SKYONG RNAMS LA GTOR MA 'BUL TSUL BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@004B (CES PA 'DI NI RANG GI LHAG BSAM DKAR BA'I YE SHES KYIS BSKUL TE BHIKshU PA KU SU MA TE AARTHA SIDDHI MING CAN GYIS SBYAR BA'O, ,)",
+    "author_simple": "AARTHA SIDDHI MING CAN,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-4B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "17x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "21x9",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T17:08:09.297122+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

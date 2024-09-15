@@ -1,0 +1,23 @@
+{
+    "nlm_catalog": "M0061964-015",
+    "input_file_number": "W1NLM4046-I1NLM4046",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,RTA MGRIN GSANG SGRUB KYI BZLAS PA BYED TSUL SPU GRI'I NGAR 'DOGS ZHES BYA BA BZHUGS SO, ,",
+    "cover_type_(хавтасны_төрөл)": "WOODEN COVER",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-13B INC [*missing page from 14A*]",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "34.5x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "41.5x8",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T03:04:55.468215+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0065062-007",
+    "input_file_number": "W1NLM7144-I1NLM7144",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,BDEN GNYIS KYI RNAM GZHAG DANG LTA BA'I KHRID YIG RIN PO CHE'I 'PHRENG BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@015A *, ,THAB MO LTA KHRID KYI YI GE RIN PO CHE'I 'PHRENG BA ZHES BYA BA 'DI NI DAR MA RIN CHEN GYIS SBYAR BA'O, ,",
+    "author_simple": "DAR MA RIN CHEN,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "KA PA,",
+    "page_numbers_(хуудасны_дугаар)": "1A-15A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "45.5x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "52.5x9",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T15:21:10.723414+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

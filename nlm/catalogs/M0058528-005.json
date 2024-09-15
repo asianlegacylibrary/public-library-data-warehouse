@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0058528-005",
+    "input_file_number": "W1NLM615-I1NLM615",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,RGYAL BSTAN RIN PO CHES ^RGYAL BA SRAS BCAS LA PHUL BA'I SPRINGS YIG BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@007A *, ,RGYAL BSTAN SPRINGS YIG CES BYA'I LEGS BSHAD 'DI, ,BLUN TSOGS 'BRID MKHAN MTHONG TSE KHRO LAS MOD, ,CHOS GNAD MKHYEN PO TSUL BZHIN BRTZON RNAMS KYI, ,SNYING LA DGA' BRGYAS PHYIR SPAR DU BKOD, ,DGE 'DIS 'JAM MGON BLA MA'I MDO SNGAGS BSTAN, ,PHYOGS DUS KUN DU DAR ZHING RGYAS PA DANG, ,DE 'DZIN ZHABS BRTAN DGE 'DUN CHOS SPYOD 'PHEL, ,YUL KHAMS DGE LEGS DPAL GYIS 'TSO GYUR CIG , ,,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-7A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "19x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "21.5x7",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T00:18:17.363172+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

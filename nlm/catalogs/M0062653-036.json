@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0062653-036",
+    "input_file_number": "W1NLM4735-I1NLM4735",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "` ME LHA'I MCHOD PAS 'BUL BAR BSANGS RDZAS ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@006B (ZHES ME LHA'I GSOL MCHOD BSANGS RDZAS GA-YANG 'GUGS DE NI SLOB DPON PAD MA'I 'BYUNG GNAS KYIS ZHUS PA'I MDO NAS BYUNG RGYAL BA'I KHRI BRTZA MA GNANG SO BYING GRER DAM GYI LA SGRIBS NAS DAG PA BKOD PA'O, ,)",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-6B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "13.5x4",
+    "size_of_pages_(хуудасны_хэмжээ)": "16.5x6",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T04:05:11.480785+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

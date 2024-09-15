@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0058095-011",
+    "input_file_number": "W1NLM182-I1NLM182",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,BDEN BRDAR GNAM LCAGS 'KHOR LO'I 'PHRUL BSKYOG BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@005B (CES PA 'DI YANG BSTAN SRID LA PHAN NA CI MA RUNG SNYAM PA'I MU NAS, ,^SH'AKYA'I GZUGS CHOS MED SPRANG RGAN SNYOMS LAS PA SURYA'I MING CAN @006A *, ,GYIS ZLA TSAS LA BRIS, BSTAN 'GRO LA PHAN THOGS PAR SHOG CIG ,MANGGA LAm, )",
+    "author_simple": "SURYA'I MING CAN,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-6A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "14.5x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "20x8.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-13T23:42:43.184578+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

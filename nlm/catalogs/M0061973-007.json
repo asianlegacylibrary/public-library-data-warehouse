@@ -1,0 +1,23 @@
+{
+    "nlm_catalog": "M0061973-007",
+    "input_file_number": "W1NLM4055-I1NLM4055",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "ST",
+    "full_title_(бүтэн_гарчиг)": "*, ,BY'A KA RA nA M'U LA SUM CU PA DANG RTAGS KYI 'JUGS ZHES BYA BA BZHUGS SO, ,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-3B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "35x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "39.5x8.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T12:54:39.525680+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

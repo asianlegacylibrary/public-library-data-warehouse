@@ -1,0 +1,26 @@
+{
+    "nlm_catalog": "M0066967-023",
+    "input_file_number": "W1NLM9049-I1NLM9049",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,RJE BTZUN MA PHYAG 'TSAL NYER GCIG GI LHA TSOGS LA GSOL BA 'DEBS PA BLO GROS RGYA MTSO'I MDZAD PA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@005A *, ,(CES PA 'DI YANG RMONGS BRTUL MA TI SA RA ZHES BYA BA ZHIG GIS DBEN NAS NYI MA STENGS SU RANG GIS 'DOD GSOL BYAS PA'O, ,DGA' LDAN CHOS RGYAS GLING DU PAR DU BSGRUB, ,BKRA SHIS, ,DGE BA BSNGO'O, ,)",
+    "author_simple": "BLO GROS RGYA MTSO,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-5A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "38x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "44x9.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "publisher_(хэвлэсэн_буюу_бүтээсэн_хийд_буюу_бархан)": "DGA' LDAN CHOS RGYAS GLING,",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T10:43:12.504199+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

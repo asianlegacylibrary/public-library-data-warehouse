@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0061951-045",
+    "input_file_number": "W1NLM4033-I1NLM4033",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@002A *, ,PAD ZLA'I STENG GNAS SKU MDOG ZLA LTAR DKAR, ,ZHAL GCIG PHYAG BZHI RIN CHEN RGYAN GYIS SPRAS, ,BRTZE BA'I ZHAGS PAS 'GRO RNAMS RTAG BCING BA'I, ,LHAG PA'I LHA MCHOG SPYAN RAS GZIGS LA BSTOD, ,]",
+    "colophon_(төгсгөлийн_үг)": "@002A *, ,(CES PA 'DI NI LHA BZO BLO BZANG DON GRUB KYIS BSKUL BA LTAR BLO BZANG BSTAN PA'I NYI MAS MANG RA NAS SBYAR BA'I YI GE PA NI RAB 'BYAMS PA 'JAM DBYANGS PHUN TSOGS SO, ,)",
+    "author_simple": "BLO BZANG MING CAN,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "2A-2A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "47.5x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "50x9.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T03:02:05.580307+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

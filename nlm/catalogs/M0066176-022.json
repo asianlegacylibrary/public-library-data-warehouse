@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0066176-022",
+    "input_file_number": "W1NLM8258-I1NLM8258",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,PHUGS NOR BCU'I BSLAB BYA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@004A *, ,CES PHUGS NOR BCU'I BSLAB BYA 'DI NI, SPONG BA PA DGE SLONG TSUL KHRIMS RNAM RGYAL GYIS RGYA SOG 'JAM MGON BLA MA'I SGRUB PHUG TU LCAGS GLANG LO BRIS PA DGE BAR GYUR CIG , ,,",
+    "author_simple": "TSUL KHRIMS RNAM RGYAL,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "2A-4A INC [*Missing page from 1a-1b*]",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "18x5",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x7",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T16:28:19.577386+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

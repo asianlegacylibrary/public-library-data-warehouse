@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0060019-001",
+    "input_file_number": "W1NLM2101-I1NLM2101",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,SKYABS SU 'GRO TSUL TSIG NYUNG DON GSAL GO BDE ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@017B (SKYABS GNAS SANGS RGYAS SKU GSUM 'BRAS BUS PHYUG ,SKYABS DNGOS DAM CHOS PHAN BDE'I YAL 'DAB RGYAS, ,@018A *, ,SKYABS GROGS DGE 'DUN YONGS 'DUS SA BRDOL SA BRDOL DE'I SKYABS TSUL YON TAN DRAN TE SKYABS SU 'GRO `SKYABS SU 'GRO TSUL TSIG NYUNG DON GSAL 'DI, ,SKYABS GSUM LA DAD DGE SLONG DAR RGYAS KYIS, ,SKYABS GNAS THUB BSTAN LHUN POR BSKRUN DGES, ,SKYABS GNAS BLA MA'I ZHABS BRTAN MDZAD 'PHRIN RGYAS, ,SKYABS GROGS DGE 'DUN THUGS MTHUN KHRIMS GTZANG ZHING, ,SKYABS DNGOS LUNG RTOGS BSTAN PA YUN RING 'BAR, ,SKYABS BYA 'GRO KUN BLANG DOR RAB SHES NAS, ,SKYABS SU 'GRO BZHIN SGRIB BYANG TSOGS RDZOGS SHOG ,)",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-18A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "19x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x8.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T11:48:28.410902+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

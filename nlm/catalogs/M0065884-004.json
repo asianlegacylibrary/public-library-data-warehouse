@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0065884-004",
+    "input_file_number": "W1NLM7966-I1NLM7966",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,BLA MA MCHOD PA'I MCHOG SGO NAS LHO SGO BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@008A *, ,(CES PA 'DI NI BLO BZANG LHUN 'GRUB MING CAN GYIS BRIS PA'O, ,BKRA SHIS SHOG , ,,SARBA MANGGA LAm, ,)",
+    "author_simple": "BLO BZANG LHUN 'GRUB MING CAN,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Medium",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-8A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "21.5x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "25x8.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T09:37:42.703378+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

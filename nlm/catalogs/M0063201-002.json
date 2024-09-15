@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0063201-002",
+    "input_file_number": "W1NLM5283-I1NLM5283",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,SMAN BLA MCHED BDUN GSOL BA BTAB PA'I CHO GA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@007B TSUL 'DI YANG DGOS PA KHYAD PAR CAN GYIS PHYIR, ^KU S'A LI @008A *, ,LI DHARMA BADZRA KYIS [???] DU SU AU 'U SHENG GI LHA KHANG THEG CHEN DGA' TSAL DU BRIS PA'O,, ,,DGE LEGS 'PHEL BAR GYUR CIG ,",
+    "author_simple": "DHARMA BADZRA,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-8A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "13.5x5",
+    "size_of_pages_(хуудасны_хэмжээ)": "17.5x6.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T14:07:19.394094+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

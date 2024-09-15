@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0058267-025",
+    "input_file_number": "W1NLM354-I1NLM354",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@001B SKYABS 'GRO SEMS BSKYED SNGON BTANG STE, ,SVA BH'A WA YIS STONG PAR SPYANGS, ,STONG PA'I NGANG LAS BAD NYI'I STENG, ,KHAm YIG 'OG GI 'PHRO 'DU LAS, ,]",
+    "colophon_(төгсгөлийн_үг)": "@003A *, ,(DAM TSIG RDO RJES BRIS, ,)",
+    "author_simple": "DAM TSIG RDO RJE,",
+    "cover_type_(хавтасны_төрөл)": "PAPER COVER",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1B-3A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "17.5x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "20.5x7.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-13T23:55:38.356475+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

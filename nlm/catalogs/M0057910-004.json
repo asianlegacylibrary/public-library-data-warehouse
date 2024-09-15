@@ -1,0 +1,40 @@
+{
+    "nlm_catalog": "M0057910-004",
+    "input_file_number": "W1NLM16-I1NLM16",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "` 'DIR NAD RIMS ZHI BAR BYED PA'I BSANGS MCHOD BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@002B (CES PA 'DI NI MI DBANG RIN PO CHE'I BKA' BSKUL LTAR, DKA' CHEN BLO BZANG BTAN PAS BRIS SO, , DGE LEGS 'PHEL LO, ,)",
+    "author_simple": "BLO BZANG BTAN PA,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-2B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "17.5x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "20.5x8.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-13T22:55:39.528732+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-09-13T22:57:40.802925+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "updated"
+        },
+        {
+            "timestamp": "2024-09-13T23:04:11.762738+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "updated"
+        },
+        {
+            "timestamp": "2024-09-13T23:25:49.236249+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "updated"
+        }
+    ]
+}

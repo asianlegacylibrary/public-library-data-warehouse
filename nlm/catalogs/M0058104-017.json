@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0058104-017",
+    "input_file_number": "W1NLM191-I1NLM191",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,LHA CHEN DGRA LHA'I TSOGS 'KHOR 'BUL BA DANG DGRA LHA MCHED DGU'I BSHEGS GTOR 'BUL TSUL BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@005B (LHA CHEN DGRA LHA'I TSOGS 'KHOR BDE CHEN ROL MO ZHES BYA BA 'DI NI, SU MA TI MING CAN GYIS BRIS PA DGE'O, ,)",
+    "author_simple": "SU MA TI MING CAN,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-5B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "19x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "22.5x9",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T05:30:57.056515+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

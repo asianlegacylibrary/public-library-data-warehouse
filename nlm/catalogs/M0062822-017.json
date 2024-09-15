@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0062822-017",
+    "input_file_number": "W1NLM4904-I1NLM4904",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,DPAL 'KHOR LO SDOM PA LHAN SKYES KYI BSKANG BA NI, ,",
+    "colophon_(төгсгөлийн_үг)": "@002B (ZHES DPAL 'KHOR LO SDOM PA LHAN SKYES KYI BSKANG BA 'DI ^KARMA RANG BYUNG RDO RJES MDZAD PA'O, ,'OG MIN MTSUR PHUR SPAR DU BSGRUB PA'O, ,MANGGA LAm, ,)",
+    "author_simple": "RANG BYUNG RDO RJE,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-2B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "37.5x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "44.5x9",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T13:51:16.372758+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

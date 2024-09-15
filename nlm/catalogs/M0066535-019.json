@@ -1,0 +1,26 @@
+{
+    "nlm_catalog": "M0066535-019",
+    "input_file_number": "W1NLM8617-I1NLM8617",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,RJE BTZUN SGROL MA LA BRTEN NAS PHYAG DANG MCHOD PA 'BUL TSUL BZHGUS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@015B (CES PA 'DI NI BSTAN PA'I GSAL BYED DAM PA BIS RGYA SPRUL PA'I SKU RIN PO CHE NAS NAN GYIS BSKUL NGOR, ^GSER KHANG RI KHROD PAS BRAG DKAR BDE @016A *, ,LDAN GLING NAS SBYAR BA'O,, ,,DGE'O, ,)",
+    "author_simple": "GSER KHANG RI KHROD PA,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "11A-16A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "18x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x8.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "publisher_(хэвлэсэн_буюу_бүтээсэн_хийд_буюу_бархан)": "BRAG DKAR BDE LDAN GLING,",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T17:03:35.714810+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

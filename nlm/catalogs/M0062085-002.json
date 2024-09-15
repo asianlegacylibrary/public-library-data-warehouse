@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0062085-002",
+    "input_file_number": "W1NLM4167-I1NLM4167",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,SNGON 'GRO 'BUM BZHI'I CHO GA RGYUN 'KHYER DU BDE PHYIR PHYOGS CIG GCIG TU BGYI PA'I TSUL SA BON TZAM DU BKOD PA DGA' LDAN DU BGROD PA'I GSER GYI THEM SKAS ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@005A *, ,(CES SNGON 'GRO 'BUM BZHI'I CHO GA RGYUN 'KHYER DU BDE PHYIR PHYOGS CIG GCIG TU BGYE BA'I TSUL SA BON TZAM DU BKOD PA DGA' LDAN DU BGROD PA'I GSER GYI THEM SKAS ZHES BYA BA 'DI NI, TSE TSEN RGYAL KHAG ^SA SKYONG CHEN PO DANG LDAN SBYAN BDAG CHOS MTSUNGS PA AE RTE NI TA CHEN GUNG LAGS KYI, @005B GRVA TSANG GI MKHAN PO CHOS LA BLO MIG MCHOG TU YANGS SHING DRANG SRONG GI SPYOD PA CAN RAB 'BYAMS ZHUNG LUNG BRGYA PHRAG SMRA BA NGAG DBANG SHES RAB LAGS KYI 'DI LTA BU ZHIG DGOS ZHES LHA RDZAS BCAS BSKUL GNANG BA'I NGOR ^TZONG KHA'I SKYES RE MTHON PO'I NYE 'DABS SU SKYES PA'I BTZUN PA BLO BZANG DGE 'DUN BSTAN PA RIN CHEN NAM MING GZHAN AAN GY'A SVA: SKYES MED DU 'BOD PAS GSAL SE YE DBANG PO SGAR THOG TU SBYAR BA'O,, ,,)",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "3A-5B INC [*Missing page from 1a-2b*]",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "14.5x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "18x7.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T13:04:17.019970+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

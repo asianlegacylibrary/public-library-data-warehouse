@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0065525-024",
+    "input_file_number": "W1NLM7607-I1NLM7607",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,KVAN LO'I GSOL MCHOD BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@002A *, ,(CES PA TZE NA'I YUL GYI CHEN PO'I DANG KVAN LO'I GSOL MCHOD NI LCANG SKYA ROL BA'I RDO RJES 'PHRAL DU SBYAR BA'O, ,DGE'O, ,)",
+    "author_simple": "LCANG SKYA ROL BA'I RDO RJE,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-2A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "16x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "19.5x7.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T15:40:51.235108+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

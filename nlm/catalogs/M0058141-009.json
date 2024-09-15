@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0058141-009",
+    "input_file_number": "W1NLM228-I1NLM228",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,GCOD KYI GDAMS PA GDAN THOG GCIG TU DRIL NAS NYAMS SU LEN TSUL BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@004B (ZHES PA 'DI NI SH'AKYA'I DGE SLONG ^'JAM DBYANGS BZHAD PA'I RDO RJES BKRA SHIS 'KHYIL NAS SBYAR BA'O,, ,,SHU BHAm, ,)",
+    "author_simple": "JAM DBYANGS BZHAD PA'I RDO RJE,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-4B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "41x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "53x8.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-13T23:47:30.273145+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

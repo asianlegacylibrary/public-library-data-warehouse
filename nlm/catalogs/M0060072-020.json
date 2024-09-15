@@ -1,0 +1,23 @@
+{
+    "nlm_catalog": "M0060072-020",
+    "input_file_number": "W1NLM2154-N1M2154",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,DREGS PA SDE BRGYAD LA GSER SKYEMS GTONG BA'I TSUL NI,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1B-6A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "15x5",
+    "size_of_pages_(хуудасны_хэмжээ)": "17x7",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T06:04:51.498982+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "nlm_catalog": "M0062141-005",
+    "input_file_number": "W1NLM4223-I1NLM4223",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "TIBETAN",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "#, ,BZANG SPYOD KYI YAN LAG BDUN PA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@004B DAD LDAN DPON SLOB 'KHOR DANG BCAS RNAMS KYIS, ,PHA MAS THOG DRANGS MA RGAN 'GRO BA KUN, ,MYUR DU BLA MED BYANG CHEN THOB PHYIR DU, ,BKRA SHIS 'BYUNG GNAS GLING DU PAR DU BSGRUBS,, ,,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-4B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "17x6.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "21.5x8.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-14T13:09:07.355035+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

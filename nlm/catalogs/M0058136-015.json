@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0058136-015",
+    "input_file_number": "W1NLM223-I1NLM223",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,THUB DBANG DGE 'DUN 'PHEL GYI BSTOD PA THUB BSTAN MDZES RGYAN ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@004B (CES THUB DBANG DGE 'DUN 'PHEL GYI BSTOD PA THUB BSTAN MDZES RGYAN ZHES BYA BA 'DI NI, DAD BRTZON RNAM DPYOD YANGS PA'I DAG BLO BZANG PAS YANG YANG BSKUL BA'I NGOR, RIN CHEN JO BO'I BLA MING 'CHANG BA DKA' BCU ^RATNA DHVA DZAS BYANG PHYOGS STAN PA'I MDZES RGYAN DGON GNAS DGE BSOG GLING DU SBYAR BA'I YI GE PA NI DGE SLONG BSOD NAMS RDO RJES ...)",
+    "author_simple": "RATNA DHVA DZA,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "MEDIUM",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-4B INC [*missing page from 5A*]",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "35x7",
+    "size_of_pages_(хуудасны_хэмжээ)": "48x9.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2024-09-13T23:47:20.735968+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}
