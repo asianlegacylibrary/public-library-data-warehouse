@@ -1,12 +1,12 @@
 {
     "name": "TD04086_'JIG RTEN GZHAGS PA (Loka Prajñāpti).txt",
-    "path": "07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 1 (AI)",
+    "path": "TENGYUR_TENGYUR/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 1 (AI)",
     "download_path": "/tengyur updated 10 31 24 ws/07 mngon pa_higher knowledge school (abhidharma)/vol 1 (ai)/td04086_'jig rten gzhags pa (loka prajñāpti).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB2gg",
     "revision_id": "62633b843e7ff8d294473",
     "content_hash": "5ed4afb224b052f179c89e0a480ff5325fd2b8bc9d773c5812e83d274b9e7dd4",
-    "server_modified": "2024-11-06T00:37:16",
-    "last_sync": "2024-11-07T22:39:44.542824+00:00",
+    "server_modified": "2024-11-06 00:37:16",
+    "last_sync": "2024-11-12 23:43:29.802944+00:00",
     "size": 360965,
     "cat_ref": "TD04086",
     "work_ref": "W.TD04086",
@@ -14,29 +14,31 @@
     "title_eng": "",
     "subject": [
         {
-            "_id": "125713416828",
-            "subject_path": "07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 1 (AI)",
-            "subject_path_tibetan": "MNGON PA/1 (AI)",
-            "subject_path_english": "Higher Knowledge School (Abhidharma)/VOL 1 (AI)",
+            "_id": "152765534703",
+            "subject_path": "TENGYUR_TENGYUR/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 1 (AI)",
+            "subject_path_tibetan": "TENGYUR/MNGON PA/1 (AI)",
+            "subject_path_english": "TENGYUR/Higher Knowledge School (Abhidharma)/VOL 1 (AI)",
             "subject_tibetan": "1 (AI)",
             "subject_english": "VOL 1 (AI)"
         }
     ],
     "items": [],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Loka Prajñāpti",
     "processing_history": [
         {
-            "timestamp": "2024-11-07T22:39:44.544162+00:00",
-            "run_id": 843,
+            "timestamp": "2024-11-12T23:43:29.804596+00:00",
+            "run_id": 919,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "source": "Tengyur",
     "updated": true,
     "path_history": [
         {
-            "path": "TENGYUR_TENGYUR/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 1 (AI)",
-            "timestamp": "2024-11-07T22:39:44.544162+00:00"
+            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 1 (AI)",
+            "timestamp": "2024-11-12 23:43:29.804596+00:00"
         }
     ],
     "author": []
