@@ -6,7 +6,7 @@
     "revision_id": "62658b0d25eab8d294473",
     "content_hash": "80f71772a5db67106a8911131842ca1df847b01c0faf3607ef192fc2844ce6ca",
     "server_modified": "2024-11-07 20:43:45",
-    "last_sync": "2024-11-13 22:30:22.880911+00:00",
+    "last_sync": "2024-11-13 22:50:02.582200+00:00",
     "size": 190589,
     "cat_ref": "KL00059E",
     "work_ref": "W.KL00059E",
@@ -27,8 +27,8 @@
     "collection": "Kangyur",
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:30:22.881995+00:00",
-            "run_id": 961,
+            "timestamp": "2024-11-13T22:50:02.583254+00:00",
+            "run_id": 962,
             "processor": "dropbox_sync",
             "action": "created"
         }
@@ -40,7 +40,7 @@
     "path_history": [
         {
             "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/8. DKON BRTZEGS_Pile of Jewels (Ratna Kūṭa)/VOL 4 (NGA)",
-            "timestamp": "2024-11-13 22:30:22.881995+00:00"
+            "timestamp": "2024-11-13 22:50:02.583254+00:00"
         }
     ],
     "author": []
