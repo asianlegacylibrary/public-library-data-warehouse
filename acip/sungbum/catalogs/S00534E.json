@@ -1,12 +1,12 @@
 {
     "name": "S00534E_LAS CHOG GI PHYAG LEN GSAL BAR BRJOD PA DVANGS SHEL ME LONG_'The Mirror of Lucid Crystal,' being a Clear Explanation of the Practice of the Rites of Vowed Discipline_CHE SHOS RIN PO CHE BLO BZANG BYANG CHUB BSTAN PA'I SGRON ME (1861-1933@).TXT",
-    "path": "'dul ba_vowed morality (vinaya)/dge slong_vows of full monks",
-    "download_path": "/sungbum updated 4 26 23 bk/'dul ba_vowed morality (vinaya)/dge slong_vows of full monks/s00534e_las chog gi phyag len gsal bar brjod pa dvangs shel me long_'the mirror of lucid crystal,' being a clear explanation of the practice of the rites of vowed discipline_che shos rin po che blo bzang byang chub bstan pa'i sgron me (1861-1933@).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAADjA",
-    "revision_id": "613f663ffc87f8d294473",
+    "path": "'DUL BA_VOWED MORALITY (VINAYA)/DGE SLONG_VOWS OF FULL MONKS",
+    "download_path": "/sungbum updated 7 30 23 nl/'dul ba_vowed morality (vinaya)/dge slong_vows of full monks/s00534e_las chog gi phyag len gsal bar brjod pa dvangs shel me long_'the mirror of lucid crystal,' being a clear explanation of the practice of the rites of vowed discipline_che shos rin po che blo bzang byang chub bstan pa'i sgron me (1861-1933@).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABfKQ",
+    "revision_id": "625a49e0fea798d294473",
     "content_hash": "43f525784f6bc40ba1906fe0ff5b052c3a84427cd1e17a944cf8d2b5537f9578",
-    "server_modified": "2024-03-18T21:53:40",
-    "last_sync": "2024-09-09T19:04:52.991772",
+    "server_modified": "2024-10-29 21:53:36",
+    "last_sync": "2024-11-19 21:13:48.184340",
     "size": 41366,
     "meta_text": null,
     "cat_ref": "S00534E",
@@ -19,10 +19,10 @@
     "author_simple": "CHE SHOS RIN PO CHE BLO BZANG BYANG CHUB BSTAN PA'I SGRON ME",
     "subject": [
         {
-            "_id": "332173312486",
-            "subject_path": "SUNGBUM_SUNGBUM/'DUL BA_VOWED MORALITY (VINAYA)/DGE SLONG_VOWS OF FULL MONKS",
-            "subject_path_tibetan": "SUNGBUM/'DUL BA/DGE SLONG",
-            "subject_path_english": "SUNGBUM/VOWED MORALITY (VINAYA)/VOWS OF FULL MONKS",
+            "_id": "104867878744",
+            "subject_path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/DGE SLONG_VOWS OF FULL MONKS",
+            "subject_path_tibetan": "GSUNG 'BUM/'DUL BA/DGE SLONG",
+            "subject_path_english": "Sungbum/VOWED MORALITY (VINAYA)/VOWS OF FULL MONKS",
             "subject_tibetan": "DGE SLONG",
             "subject_english": "VOWS OF FULL MONKS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P238"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "'dul ba_vowed morality (vinaya)/dge slong_vows of full monks",
-            "timestamp": "2024-09-10T02:04:53.022332+00:00"
+            "path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/DGE SLONG_VOWS OF FULL MONKS",
+            "timestamp": "2024-11-20 05:13:49.767367+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:13:49.767367+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

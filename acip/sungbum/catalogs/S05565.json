@@ -1,28 +1,28 @@
 {
     "name": "S05565_RJE BTZUN THAMS CAD MKHYEN PA'I GSUNG 'BUM LAS DRANG NGES RNAM 'BYED KYI DKA' 'GREL DGONGS PA'I DON RAB TU GSAL BAR BYED PA'I SGRON ME_\"A Lamp which Illuminates the True Meaning,\" A Commentary on Difficult Points in Distinguishing the Figurati+.TXT",
-    "path": "drang nges_art of interpretation/rgyal ba dge 'dun rgya mtso_gyalwa gendun gyatso (1476-1542)",
-    "download_path": "/sungbum updated 4 26 23 bk/drang nges_art of interpretation/rgyal ba dge 'dun rgya mtso_gyalwa gendun gyatso (1476-1542)/s05565_rje btzun thams cad mkhyen pa'i gsung 'bum las drang nges rnam 'byed kyi dka' 'grel dgongs pa'i don rab tu gsal bar byed pa'i sgron me_\"a lamp which illuminates the true meaning,\" a commentary on difficult points in distinguishing the figurati+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAAKg",
-    "revision_id": "613f663b87b738d294473",
+    "path": "DRANG NGES_ART OF INTERPRETATION/RGYAL BA DGE 'DUN RGYA MTSO_GYALWA GENDUN GYATSO (1476-1542)",
+    "download_path": "/sungbum updated 7 30 23 nl/drang nges_art of interpretation/rgyal ba dge 'dun rgya mtso_gyalwa gendun gyatso (1476-1542)/s05565_rje btzun thams cad mkhyen pa'i gsung 'bum las drang nges rnam 'byed kyi dka' 'grel dgongs pa'i don rab tu gsal bar byed pa'i sgron me_\"a lamp which illuminates the true meaning,\" a commentary on difficult points in distinguishing the figurati+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABR4A",
+    "revision_id": "625a47fdce2598d294473",
     "content_hash": "c93b011ef8e3dff0eef6b2462ecfc9c774e813d50ce0b632b6ed301ef6a0a5b8",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:01:09.678861",
+    "server_modified": "2024-10-29 21:45:10",
+    "last_sync": "2024-11-19 20:52:43.411546",
     "size": 292061,
-    "meta_text": null,
+    "meta_text": "(\"ve from the Literal, from the Collected Works of the Holy and Omniscient One_RGYAL BA DGE 'DUN RGYA MTSO (1476-1542)\", 'text')",
     "cat_ref": "S05565",
     "work_ref": "W.S05565",
     "title_tib": "RJE BTZUN THAMS CAD MKHYEN PA'I GSUNG 'BUM LAS DRANG NGES RNAM 'BYED KYI DKA' 'GREL DGONGS PA'I DON RAB TU GSAL BAR BYED PA'I SGRON ME",
-    "title_eng": "\"A Lamp which Illuminates the True Meaning,\" A Commentary on Difficult Points in Distinguishing the Figurati",
+    "title_eng": "\"A Lamp which Illuminates the True Meaning,\" A Commentary on Difficult Points in Distinguishing the Figurati(\"ve from the Literal, from the Collected Works of the Holy and Omniscient One",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
-    "author_simple": "",
+    "author_simple": "RGYAL BA DGE 'DUN RGYA MTSO",
     "subject": [
         {
-            "_id": "170178951821",
-            "subject_path": "SUNGBUM_SUNGBUM/DRANG NGES_ART OF INTERPRETATION/RGYAL BA DGE 'DUN RGYA MTSO_GYALWA GENDUN GYATSO (1476-1542)",
-            "subject_path_tibetan": "SUNGBUM/DRANG NGES/RGYAL BA DGE 'DUN RGYA MTSO",
-            "subject_path_english": "SUNGBUM/ART OF INTERPRETATION/GYALWA GENDUN GYATSO (1476-1542)",
+            "_id": "432496176278",
+            "subject_path": "GSUNG 'BUM_Sungbum/DRANG NGES_ART OF INTERPRETATION/RGYAL BA DGE 'DUN RGYA MTSO_GYALWA GENDUN GYATSO (1476-1542)",
+            "subject_path_tibetan": "GSUNG 'BUM/DRANG NGES/RGYAL BA DGE 'DUN RGYA MTSO",
+            "subject_path_english": "Sungbum/ART OF INTERPRETATION/GYALWA GENDUN GYATSO (1476-1542)",
             "subject_tibetan": "RGYAL BA DGE 'DUN RGYA MTSO",
             "subject_english": "GYALWA GENDUN GYATSO (1476-1542)"
         }
@@ -30,16 +30,24 @@
     "items": [],
     "author": [
         {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
+            "author_name": "RGYAL BA DGE 'DUN RGYA MTSO",
+            "author_birth": "1476",
+            "author_death": "1542"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "drang nges_art of interpretation/rgyal ba dge 'dun rgya mtso_gyalwa gendun gyatso (1476-1542)",
-            "timestamp": "2024-09-10T02:01:09.692957+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DRANG NGES_ART OF INTERPRETATION/RGYAL BA DGE 'DUN RGYA MTSO_GYALWA GENDUN GYATSO (1476-1542)",
+            "timestamp": "2024-11-20 04:52:44.996661+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:52:44.996661+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

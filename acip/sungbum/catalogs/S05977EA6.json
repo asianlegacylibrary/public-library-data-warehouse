@@ -1,12 +1,12 @@
 {
     "name": "S05977EA6_PHYAG RDOR AU TZ'ARYA'I SGRUB THABS_A Method for Reaching the Holder of the Diamond (Vajrapani), as Ucharya_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662).TXT",
-    "path": "rgyud_secret teachings (tantra)/phyag na rdo rje_holder of the diamond (vajrapani)/sgrub thabs_ritual for reaching the angel (sadhana)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/phyag na rdo rje_holder of the diamond (vajrapani)/sgrub thabs_ritual for reaching the angel (sadhana)/s05977ea6_phyag rdor au tz'arya'i sgrub thabs_a method for reaching the holder of the diamond (vajrapani), as ucharya_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAK7A",
-    "revision_id": "613f6652789048d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/PHYAG NA RDO RJE_HOLDER OF THE DIAMOND (VAJRAPANI)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/phyag na rdo rje_holder of the diamond (vajrapani)/sgrub thabs_ritual for reaching the angel (sadhana)/s05977ea6_phyag rdor au tz'arya'i sgrub thabs_a method for reaching the holder of the diamond (vajrapani), as ucharya_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABWeA",
+    "revision_id": "625a48a2f82b28d294473",
     "content_hash": "2c4368c79df30db8a0c2fafa00d7f366254c9378c6418538f1a2cce308986406",
-    "server_modified": "2024-03-18T21:54:00",
-    "last_sync": "2024-09-09T19:12:05.945923",
+    "server_modified": "2024-10-29 21:48:03",
+    "last_sync": "2024-11-19 20:59:04.894854",
     "size": 1899,
     "meta_text": null,
     "cat_ref": "S05977EA6",
@@ -19,10 +19,10 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "118954191738",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/PHYAG NA RDO RJE_HOLDER OF THE DIAMOND (VAJRAPANI)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/PHYAG NA RDO RJE/SGRUB THABS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/HOLDER OF THE DIAMOND (VAJRAPANI)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "_id": "296165754795",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/PHYAG NA RDO RJE_HOLDER OF THE DIAMOND (VAJRAPANI)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/PHYAG NA RDO RJE/SGRUB THABS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/HOLDER OF THE DIAMOND (VAJRAPANI)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
             "subject_tibetan": "SGRUB THABS",
             "subject_english": "RITUAL FOR REACHING THE ANGEL (SADHANA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/phyag na rdo rje_holder of the diamond (vajrapani)/sgrub thabs_ritual for reaching the angel (sadhana)",
-            "timestamp": "2024-09-10T02:12:06.023933+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/PHYAG NA RDO RJE_HOLDER OF THE DIAMOND (VAJRAPANI)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "timestamp": "2024-11-20 04:59:08.123618+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:59:08.123618+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

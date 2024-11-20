@@ -1,14 +1,14 @@
 {
     "name": "S00004M_RNAM GROL LAG BCANGS SU GTOD PA'I MAN NGAG ZAB MO TSANG LA MA NOR BA MTSUNGS MED CHOS KYI RGYAL PO'I THUGS BCUD BYANG CHUB LAM GYI RIM PA'I NYAMS KHRID KYI ZIN BRIS GSUNG RAB KUN GYI BCUD BSDUS GDAMS NGAG BDUD RTZI'I SNYING PO LAM RIM RNAM G+.TXT",
-    "path": "lam rim_steps of the path/rnam grol lag bcangs_a gift of liberation thrust into our hands/rtza ba_root text",
-    "download_path": "/sungbum updated 4 26 23 bk/lam rim_steps of the path/rnam grol lag bcangs_a gift of liberation thrust into our hands/rtza ba_root text/s00004m_rnam grol lag bcangs su gtod pa'i man ngag zab mo tsang la ma nor ba mtsungs med chos kyi rgyal po'i thugs bcud byang chub lam gyi rim pa'i nyams khrid kyi zin bris gsung rab kun gyi bcud bsdus gdams ngag bdud rtzi'i snying po lam rim rnam g+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAHEA",
-    "revision_id": "613f66492f17a8d294473",
+    "path": "LAM RIM_STEPS OF THE PATH/RNAM GROL LAG BCANGS_A GIFT OF LIBERATION THRUST INTO OUR HANDS/RTZA BA_ROOT TEXT",
+    "download_path": "/sungbum updated 7 30 23 nl/lam rim_steps of the path/rnam grol lag bcangs_a gift of liberation thrust into our hands/rtza ba_root text/s00004m_rnam grol lag bcangs su gtod pa'i man ngag zab mo tsang la ma nor ba mtsungs med chos kyi rgyal po'i thugs bcud byang chub lam gyi rim pa'i nyams khrid kyi zin bris gsung rab kun gyi bcud bsdus gdams ngag bdud rtzi'i snying po lam rim rnam g+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABhvw",
+    "revision_id": "625a4a6939d918d294473",
     "content_hash": "d39d22fddee896803d8c4da54ab83b2d2bc00a1d302c55b98b14a4ae02092024",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:08:10.043067",
+    "server_modified": "2024-10-29 21:55:59",
+    "last_sync": "2024-11-19 21:18:21.462500",
     "size": 1059371,
-    "meta_text": "ROL LAG BCANGS_’A Gift of Liberation, Put in the Palm of Your Hand; the Heart of the Nectar of Holy Advices; the Very Essence of All the Highest of Spoken Words,’ representing Profound, Complete, and Unerring Instruction taken down as Notes during a Teaching, of the Kind Based on Personal Experience, on the Steps of the Path to Enlightenment, the Heart-Essence of the Incomparable King of the Dharma_SKYABS RJE PHA BONG KHA PA BDE CHEN SNYING PO (1878-1941)",
+    "meta_text": "('ROL LAG BCANGS_’A Gift of Liberation, Put in the Palm of Your Hand; the Heart of the Nectar of Holy Advices; the Very Essence of All the Highest of Spoken Words,’ representing Profound, Complete, and Unerring Instruction taken down as Notes during a Teaching, of the Kind Based on Personal Experience, on the Steps of the Path to Enlightenment, the Heart-Essence of the Incomparable King of the Dharma_SKYABS RJE PHA BONG KHA PA BDE CHEN SNYING PO (1878-1941)', 'rtf')",
     "cat_ref": "S00004M",
     "work_ref": "W.S00004M",
     "title_tib": "RNAM GROL LAG BCANGS SU GTOD PA'I MAN NGAG ZAB MO TSANG LA MA NOR BA MTSUNGS MED CHOS KYI RGYAL PO'I THUGS BCUD BYANG CHUB LAM GYI RIM PA'I NYAMS KHRID KYI ZIN BRIS GSUNG RAB KUN GYI BCUD BSDUS GDAMS NGAG BDUD RTZI'I SNYING PO LAM RIM RNAM G",
@@ -19,10 +19,10 @@
     "author_simple": "SKYABS RJE PHA BONG KHA PA BDE CHEN SNYING PO",
     "subject": [
         {
-            "_id": "231847689693",
-            "subject_path": "SUNGBUM_SUNGBUM/LAM RIM_STEPS OF THE PATH/RNAM GROL LAG BCANGS_A GIFT OF LIBERATION THRUST INTO OUR HANDS/RTZA BA_ROOT TEXT",
-            "subject_path_tibetan": "SUNGBUM/LAM RIM/RNAM GROL LAG BCANGS/RTZA BA",
-            "subject_path_english": "SUNGBUM/STEPS OF THE PATH/A GIFT OF LIBERATION THRUST INTO OUR HANDS/ROOT TEXT",
+            "_id": "146170833634",
+            "subject_path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/RNAM GROL LAG BCANGS_A GIFT OF LIBERATION THRUST INTO OUR HANDS/RTZA BA_ROOT TEXT",
+            "subject_path_tibetan": "GSUNG 'BUM/LAM RIM/RNAM GROL LAG BCANGS/RTZA BA",
+            "subject_path_english": "Sungbum/STEPS OF THE PATH/A GIFT OF LIBERATION THRUST INTO OUR HANDS/ROOT TEXT",
             "subject_tibetan": "RTZA BA",
             "subject_english": "ROOT TEXT"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P230"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "lam rim_steps of the path/rnam grol lag bcangs_a gift of liberation thrust into our hands/rtza ba_root text",
-            "timestamp": "2024-09-10T02:08:10.049687+00:00"
+            "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/RNAM GROL LAG BCANGS_A GIFT OF LIBERATION THRUST INTO OUR HANDS/RTZA BA_ROOT TEXT",
+            "timestamp": "2024-11-20 05:18:21.468955+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:18:21.468955+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,12 +1,12 @@
 {
     "name": "S12103E_'JIGS BYED LHA BCU GSUM MA'I DBANG GI ZIN BRIS_Notes on an Empowerment into the Thirteen Angels of the Lord of Terror (Bhairava)_DZE SMAD RIN PO CHE BLO BZANG DPAL LDAN BSTAN 'DZIN YAR RGYAS (1927-1996).TXT",
-    "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/dbang_empowerment (abhisheka)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/dbang_empowerment (abhisheka)/s12103e_'jigs byed lha bcu gsum ma'i dbang gi zin bris_notes on an empowerment into the thirteen angels of the lord of terror (bhairava)_dze smad rin po che blo bzang dpal ldan bstan 'dzin yar rgyas (1927-1996).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAMOA",
-    "revision_id": "613f6656ded098d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/DBANG_EMPOWERMENT (ABHISHEKA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/dbang_empowerment (abhisheka)/s12103e_'jigs byed lha bcu gsum ma'i dbang gi zin bris_notes on an empowerment into the thirteen angels of the lord of terror (bhairava)_dze smad rin po che blo bzang dpal ldan bstan 'dzin yar rgyas (1927-1996).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABduw",
+    "revision_id": "625a49a2aa6568d294473",
     "content_hash": "886b072458432de90dc5d2a18140fac108258c53b395b92114f205ef8cba04b5",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:13:28.683984",
+    "server_modified": "2024-10-29 21:52:31",
+    "last_sync": "2024-11-19 21:11:13.520996",
     "size": 14774,
     "meta_text": null,
     "cat_ref": "S12103E",
@@ -19,10 +19,10 @@
     "author_simple": "DZE SMAD RIN PO CHE BLO BZANG DPAL LDAN BSTAN 'DZIN YAR RGYAS",
     "subject": [
         {
-            "_id": "852740704779",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/DBANG_EMPOWERMENT (ABHISHEKA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/'JIGS BYED/DBANG",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/EMPOWERMENT (ABHISHEKA)",
+            "_id": "937381125153",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/DBANG_EMPOWERMENT (ABHISHEKA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/'JIGS BYED/DBANG",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/EMPOWERMENT (ABHISHEKA)",
             "subject_tibetan": "DBANG",
             "subject_english": "EMPOWERMENT (ABHISHEKA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P2425"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/dbang_empowerment (abhisheka)",
-            "timestamp": "2024-09-10T02:13:28.700040+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/DBANG_EMPOWERMENT (ABHISHEKA)",
+            "timestamp": "2024-11-20 05:11:18.077496+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:11:18.077496+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,12 +1,12 @@
 {
     "name": "S05275E36_RJE BTZUN 'JAM PA'I DBYANGS LA BSTOD PA'I TSIGS SU BCAD PA_Verses in Praise of the Revered Gentle Voice (Manjushri)_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419).TXT",
-    "path": "rgyud_secret teachings (tantra)/'jam dbyangs_gentle voice (manjughosha, manjushri)/bstod pa_songs of praise (stotra)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/'jam dbyangs_gentle voice (manjughosha, manjushri)/bstod pa_songs of praise (stotra)/s05275e36_rje btzun 'jam pa'i dbyangs la bstod pa'i tsigs su bcad pa_verses in praise of the revered gentle voice (manjushri)_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAALlA",
-    "revision_id": "613f6652789ac8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/'JAM DBYANGS_GENTLE VOICE (MANJUGHOSHA, MANJUSHRI)/BSTOD PA_SONGS OF PRAISE (STOTRA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/'jam dbyangs_gentle voice (manjughosha, manjushri)/bstod pa_songs of praise (stotra)/s05275e36_rje btzun 'jam pa'i dbyangs la bstod pa'i tsigs su bcad pa_verses in praise of the revered gentle voice (manjushri)_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABYBA",
+    "revision_id": "625a48d22121e8d294473",
     "content_hash": "fb1c54d7549fddcb57c5f667ec785d3bdb5ae57e7f42dfe9829d84edfe24fc01",
-    "server_modified": "2024-03-18T21:54:00",
-    "last_sync": "2024-09-09T19:12:47.492577",
+    "server_modified": "2024-10-29 21:48:52",
+    "last_sync": "2024-11-19 21:01:43.545540",
     "size": 1110,
     "meta_text": null,
     "cat_ref": "S05275E36",
@@ -19,10 +19,10 @@
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "194610641600",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/'JAM DBYANGS_GENTLE VOICE (MANJUGHOSHA, MANJUSHRI)/BSTOD PA_SONGS OF PRAISE (STOTRA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/'JAM DBYANGS/BSTOD PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENTLE VOICE (MANJUGHOSHA, MANJUSHRI)/SONGS OF PRAISE (STOTRA)",
+            "_id": "204566471766",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JAM DBYANGS_GENTLE VOICE (MANJUGHOSHA, MANJUSHRI)/BSTOD PA_SONGS OF PRAISE (STOTRA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/'JAM DBYANGS/BSTOD PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENTLE VOICE (MANJUGHOSHA, MANJUSHRI)/SONGS OF PRAISE (STOTRA)",
             "subject_tibetan": "BSTOD PA",
             "subject_english": "SONGS OF PRAISE (STOTRA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/'jam dbyangs_gentle voice (manjughosha, manjushri)/bstod pa_songs of praise (stotra)",
-            "timestamp": "2024-09-10T02:12:47.520851+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JAM DBYANGS_GENTLE VOICE (MANJUGHOSHA, MANJUSHRI)/BSTOD PA_SONGS OF PRAISE (STOTRA)",
+            "timestamp": "2024-11-20 05:01:43.558774+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:01:43.558774+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,12 +1,12 @@
 {
     "name": "S12356E_THUGS RJE CHEN PO'I LO RGYUS MDOR BSDUS PAD DKAR CHUN PO_The Bouquet of White Lotus Flowers-- A Brief Account of the Famed Image of the Angel of Great Compassion_DMU DGE BSAM GTAN RGYA MTSO (1914-1993).TXT",
-    "path": "chos 'byung_religious histories/dmu dge bsam gtan rgya mtso'i chos 'byung_religious histories by muge samten gyatso (1914-1993)",
-    "download_path": "/sungbum updated 4 26 23 bk/chos 'byung_religious histories/dmu dge bsam gtan rgya mtso'i chos 'byung_religious histories by muge samten gyatso (1914-1993)/s12356e_thugs rje chen po'i lo rgyus mdor bsdus pad dkar chun po_the bouquet of white lotus flowers-- a brief account of the famed image of the angel of great compassion_dmu dge bsam gtan rgya mtso (1914-1993).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAR9A",
-    "revision_id": "613f6664743178d294473",
+    "path": "LHA BZO_FINE ARTS/SPYI_GENERAL TREATMENTS",
+    "download_path": "/sungbum updated 7 30 23 nl/lha bzo_fine arts/spyi_general treatments/s12356e_thugs rje chen po'i lo rgyus mdor bsdus pad dkar chun po_the bouquet of white lotus flowers-- a brief account of the famed image of the angel of great compassion_dmu dge bsam gtan rgya mtso (1914-1993).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABQ8Q",
+    "revision_id": "625a47cf4ccc18d294473",
     "content_hash": "3895ed870947c8061fb5ea11c81f304b8b44cb13f782a7674b718506ba03a450",
-    "server_modified": "2024-03-18T21:54:19",
-    "last_sync": "2024-09-09T19:19:34.178161",
+    "server_modified": "2024-10-29 21:44:21",
+    "last_sync": "2024-11-19 20:50:58.733421",
     "size": 4674,
     "meta_text": null,
     "cat_ref": "S12356E",
@@ -19,20 +19,20 @@
     "author_simple": "DMU DGE BSAM GTAN RGYA MTSO",
     "subject": [
         {
-            "_id": "227529121197",
-            "subject_path": "SUNGBUM_SUNGBUM/CHOS 'BYUNG_RELIGIOUS HISTORIES/DMU DGE BSAM GTAN RGYA MTSO'I CHOS 'BYUNG_RELIGIOUS HISTORIES BY MUGE SAMTEN GYATSO (1914-1993)",
-            "subject_path_tibetan": "SUNGBUM/CHOS 'BYUNG/DMU DGE BSAM GTAN RGYA MTSO'I CHOS 'BYUNG",
-            "subject_path_english": "SUNGBUM/RELIGIOUS HISTORIES/RELIGIOUS HISTORIES BY MUGE SAMTEN GYATSO (1914-1993)",
-            "subject_tibetan": "DMU DGE BSAM GTAN RGYA MTSO'I CHOS 'BYUNG",
-            "subject_english": "RELIGIOUS HISTORIES BY MUGE SAMTEN GYATSO (1914-1993)"
-        },
-        {
-            "_id": "204553142149",
-            "subject_path": "SUNGBUM_SUNGBUM/LHA BZO_FINE ARTS/SPYI_GENERAL TREATMENTS",
-            "subject_path_tibetan": "SUNGBUM/LHA BZO/SPYI",
-            "subject_path_english": "SUNGBUM/FINE ARTS/GENERAL TREATMENTS",
+            "_id": "230498274875",
+            "subject_path": "GSUNG 'BUM_Sungbum/LHA BZO_FINE ARTS/SPYI_GENERAL TREATMENTS",
+            "subject_path_tibetan": "GSUNG 'BUM/LHA BZO/SPYI",
+            "subject_path_english": "Sungbum/FINE ARTS/GENERAL TREATMENTS",
             "subject_tibetan": "SPYI",
             "subject_english": "GENERAL TREATMENTS"
+        },
+        {
+            "_id": "731803727242",
+            "subject_path": "GSUNG 'BUM_Sungbum/CHOS 'BYUNG_RELIGIOUS HISTORIES/DMU DGE BSAM GTAN RGYA MTSO'I CHOS 'BYUNG_RELIGIOUS HISTORIES BY MUGE SAMTEN GYATSO (1914-1993)",
+            "subject_path_tibetan": "GSUNG 'BUM/CHOS 'BYUNG/DMU DGE BSAM GTAN RGYA MTSO'I CHOS 'BYUNG",
+            "subject_path_english": "Sungbum/RELIGIOUS HISTORIES/RELIGIOUS HISTORIES BY MUGE SAMTEN GYATSO (1914-1993)",
+            "subject_tibetan": "DMU DGE BSAM GTAN RGYA MTSO'I CHOS 'BYUNG",
+            "subject_english": "RELIGIOUS HISTORIES BY MUGE SAMTEN GYATSO (1914-1993)"
         }
     ],
     "items": [],
@@ -46,15 +46,29 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P1647"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "chos 'byung_religious histories/dmu dge bsam gtan rgya mtso'i chos 'byung_religious histories by muge samten gyatso (1914-1993)",
-            "timestamp": "2024-09-10T02:19:34.197971+00:00"
+            "path": "GSUNG 'BUM_Sungbum/LHA BZO_FINE ARTS/SPYI_GENERAL TREATMENTS",
+            "timestamp": "2024-11-20 04:51:01.481691+00:00"
         },
         {
-            "path": "lha bzo_fine arts/spyi_general treatments",
-            "timestamp": "2024-09-10T02:20:20.965145+00:00"
+            "path": "GSUNG 'BUM_Sungbum/CHOS 'BYUNG_RELIGIOUS HISTORIES/DMU DGE BSAM GTAN RGYA MTSO'I CHOS 'BYUNG_RELIGIOUS HISTORIES BY MUGE SAMTEN GYATSO (1914-1993)",
+            "timestamp": "2024-11-20 04:54:48.058759+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:51:01.481691+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T04:54:48.058759+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "text"
 }

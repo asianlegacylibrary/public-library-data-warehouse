@@ -1,29 +1,29 @@
 {
     "name": "S00283E_RJE BTZUN MA 'PHAGS MA SGROL MA'I MAndAL BZHI PA'I CHO GA BYA TSUL GSAL BAR BKOD PA DNGOS GRUB 'DAB RGYA GROL BA'I AUTPAL CHUN PO_'The Book of a Vast Bouquet of Indigo Lotus Flowers that Open Into a Million Blooms of Spiritual Attainment,' b+.TXT",
-    "path": "rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/mandal bzhi_ritual of the four secret worlds",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/mandal bzhi_ritual of the four secret worlds/s00283e_rje btzun ma 'phags ma sgrol ma'i mandal bzhi pa'i cho ga bya tsul gsal bar bkod pa dngos grub 'dab rgya grol ba'i autpal chun po_'the book of a vast bouquet of indigo lotus flowers that open into a million blooms of spiritual attainment,' b+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAQJQ",
-    "revision_id": "613f665fcd5aa8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/MAndAL BZHI_RITUAL OF THE FOUR SECRET WORLDS",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/mandal bzhi_ritual of the four secret worlds/s00283e_rje btzun ma 'phags ma sgrol ma'i mandal bzhi pa'i cho ga bya tsul gsal bar bkod pa dngos grub 'dab rgya grol ba'i autpal chun po_'the book of a vast bouquet of indigo lotus flowers that open into a million blooms of spiritual attainment,' b+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABYbA",
+    "revision_id": "625a48dcdbaed8d294473",
     "content_hash": "1485950e9db378d548ee06242b9461f4198c493917809ead54f38c75ea78a04d",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:17:34.301038",
+    "server_modified": "2024-10-29 21:49:04",
+    "last_sync": "2024-11-19 21:02:21.064771",
     "size": 33366,
-    "meta_text": "eing a Clear Presentation of How to Perform the Practice of the Four Mandalas of the Holy and Realized Lady of Liberation (Tara)_& (&-&)",
+    "meta_text": "('eing a Clear Presentation of How to Perform the Practice of the Four Mandalas of the Holy and Realized Lady of Liberation (Tara)_& (&-&)', 'rtf')",
     "cat_ref": "S00283E",
     "work_ref": "W.S00283E",
     "title_tib": "RJE BTZUN MA 'PHAGS MA SGROL MA'I MAndAL BZHI PA'I CHO GA BYA TSUL GSAL BAR BKOD PA DNGOS GRUB 'DAB RGYA GROL BA'I AUTPAL CHUN PO",
-    "title_eng": "'The Book of a Vast Bouquet of Indigo Lotus Flowers that Open Into a Million Blooms of Spiritual Attainment,' being a Clear Presentation of How to Perform the Practice of the Four Mandalas of the Holy and Realized Lady of Liberation (Tara)",
+    "title_eng": "'The Book of a Vast Bouquet of Indigo Lotus Flowers that Open Into a Million Blooms of Spiritual Attainment,' b('eing a Clear Presentation of How to Perform the Practice of the Four Mandalas of the Holy and Realized Lady of Liberation (Tara)& (&-&)', 'rtf')",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "",
     "subject": [
         {
-            "_id": "308948108358",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/MANDAL BZHI_RITUAL OF THE FOUR SECRET WORLDS",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SGROL MA/MANDAL BZHI",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/LADY OF LIBERATION (TARA)/RITUAL OF THE FOUR SECRET WORLDS",
-            "subject_tibetan": "MANDAL BZHI",
+            "_id": "218864984208",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/MAndAL BZHI_RITUAL OF THE FOUR SECRET WORLDS",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SGROL MA/MAndAL BZHI",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/LADY OF LIBERATION (TARA)/RITUAL OF THE FOUR SECRET WORLDS",
+            "subject_tibetan": "MAndAL BZHI",
             "subject_english": "RITUAL OF THE FOUR SECRET WORLDS"
         }
     ],
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/mandal bzhi_ritual of the four secret worlds",
-            "timestamp": "2024-09-10T02:17:34.305206+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/MAndAL BZHI_RITUAL OF THE FOUR SECRET WORLDS",
+            "timestamp": "2024-11-20 05:02:21.077519+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:02:21.077519+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,12 +1,12 @@
 {
     "name": "S06346E_MA GCIG GI GCOD KYI SKOR RNAMS PHYOGS GCIG TU BSGRIGS PA_A Compilation of Rituals relating to the Practice of Termination in the Teachings of the One Mother_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/ma gcig lab sgron_machik labdrun/gcod_termination",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/ma gcig lab sgron_machik labdrun/gcod_termination/s06346e_ma gcig gi gcod kyi skor rnams phyogs gcig tu bsgrigs pa_a compilation of rituals relating to the practice of termination in the teachings of the one mother_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAHhw",
-    "revision_id": "613f66492f1f18d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/MA GCIG LAB SGRON_MACHIK LABDRUN/GCOD_TERMINATION",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/ma gcig lab sgron_machik labdrun/gcod_termination/s06346e_ma gcig gi gcod kyi skor rnams phyogs gcig tu bsgrigs pa_a compilation of rituals relating to the practice of termination in the teachings of the one mother_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABc4w",
+    "revision_id": "625a4986142b28d294473",
     "content_hash": "edced54ab49a3398be4bab21fb13c863fcae72e5500bcb70fcbe59f497fdb1cf",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:08:35.731827",
+    "server_modified": "2024-10-29 21:52:01",
+    "last_sync": "2024-11-19 21:09:56.427455",
     "size": 98005,
     "meta_text": null,
     "cat_ref": "S06346E",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "831612929877",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/MA GCIG LAB SGRON_MACHIK LABDRUN/GCOD_TERMINATION",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/MA GCIG LAB SGRON/GCOD",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/MACHIK LABDRUN/TERMINATION",
+            "_id": "110357946947",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/MA GCIG LAB SGRON_MACHIK LABDRUN/GCOD_TERMINATION",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/MA GCIG LAB SGRON/GCOD",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/MACHIK LABDRUN/TERMINATION",
             "subject_tibetan": "GCOD",
             "subject_english": "TERMINATION"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/ma gcig lab sgron_machik labdrun/gcod_termination",
-            "timestamp": "2024-09-10T02:08:35.740067+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/MA GCIG LAB SGRON_MACHIK LABDRUN/GCOD_TERMINATION",
+            "timestamp": "2024-11-20 05:09:56.436722+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:09:56.436722+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

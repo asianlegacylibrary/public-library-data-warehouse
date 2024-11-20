@@ -1,12 +1,12 @@
 {
     "name": "S05308E_RDO RJE 'CHANG GI GO 'PHANG BRNYES PAR BYED PA'I LAM LA SLOB PA'I TSUL_How to Train Oneself in the Path that Brings About the Attainment of the State of the Keeper of the Diamond (Vajradhara)_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419).TXT",
-    "path": "rgyud_secret teachings (tantra)/rdo rje 'chang_keeper of the diamond (vajradhara)/'grel pa_commentaries",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/rdo rje 'chang_keeper of the diamond (vajradhara)/'grel pa_commentaries/s05308e_rdo rje 'chang gi go 'phang brnyes par byed pa'i lam la slob pa'i tsul_how to train oneself in the path that brings about the attainment of the state of the keeper of the diamond (vajradhara)_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAJyw",
-    "revision_id": "613f6652787e38d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE 'CHANG_KEEPER OF THE DIAMOND (VAJRADHARA)/'GREL PA_COMMENTARIES",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/rdo rje 'chang_keeper of the diamond (vajradhara)/'grel pa_commentaries/s05308e_rdo rje 'chang gi go 'phang brnyes par byed pa'i lam la slob pa'i tsul_how to train oneself in the path that brings about the attainment of the state of the keeper of the diamond (vajradhara)_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABXUA",
+    "revision_id": "625a48bc0a4808d294473",
     "content_hash": "5bdbc7bac151ceed4db4d27a7e8813897cfe995e1ebc271175c3713bdb69e78d",
-    "server_modified": "2024-03-18T21:54:00",
-    "last_sync": "2024-09-09T19:10:50.138848",
+    "server_modified": "2024-10-29 21:48:29",
+    "last_sync": "2024-11-19 21:00:32.808195",
     "size": 52796,
     "meta_text": null,
     "cat_ref": "S05308E",
@@ -19,10 +19,10 @@
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "258318038898",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE 'CHANG_KEEPER OF THE DIAMOND (VAJRADHARA)/'GREL PA_COMMENTARIES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/RDO RJE 'CHANG/'GREL PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/KEEPER OF THE DIAMOND (VAJRADHARA)/COMMENTARIES",
+            "_id": "210835670619",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE 'CHANG_KEEPER OF THE DIAMOND (VAJRADHARA)/'GREL PA_COMMENTARIES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/RDO RJE 'CHANG/'GREL PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/KEEPER OF THE DIAMOND (VAJRADHARA)/COMMENTARIES",
             "subject_tibetan": "'GREL PA",
             "subject_english": "COMMENTARIES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/rdo rje 'chang_keeper of the diamond (vajradhara)/'grel pa_commentaries",
-            "timestamp": "2024-09-10T02:10:50.147203+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE 'CHANG_KEEPER OF THE DIAMOND (VAJRADHARA)/'GREL PA_COMMENTARIES",
+            "timestamp": "2024-11-20 05:00:32.811940+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:00:32.811940+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

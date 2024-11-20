@@ -1,12 +1,12 @@
 {
     "name": "S05275M64_RJE RED MDA' BA'I GSUNG LAN_A Response offered to Lord Rendawa_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419).TXT",
-    "path": "nyams len_personal practice/spyi_general treatments/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)/rje red mda' ba'i gsung lan_response offered to lord rendawa",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/spyi_general treatments/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)/rje red mda' ba'i gsung lan_response offered to lord rendawa/s05275m64_rje red mda' ba'i gsung lan_a response offered to lord rendawa_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAAkw",
-    "revision_id": "613f663b87bdc8d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/SPYI_GENERAL TREATMENTS/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)/RJE RED MDA' BA'I GSUNG LAN_RESPONSE OFFERED TO LORD RENDAWA",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/spyi_general treatments/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)/rje red mda' ba'i gsung lan_response offered to lord rendawa/s05275m64_rje red mda' ba'i gsung lan_a response offered to lord rendawa_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABj9A",
+    "revision_id": "625a4abf771b18d294473",
     "content_hash": "a9ce69ff397d8f3844cf64314bbb843a6931fb784b6589af8c80783090e152b4",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:01:36.353615",
+    "server_modified": "2024-10-29 21:57:30",
+    "last_sync": "2024-11-19 21:22:24.260917",
     "size": 19284,
     "meta_text": null,
     "cat_ref": "S05275M64",
@@ -19,10 +19,10 @@
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "221031820919",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/SPYI_GENERAL TREATMENTS/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)/RJE RED MDA' BA'I GSUNG LAN_RESPONSE OFFERED TO LORD RENDAWA",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/SPYI/RJE TZONG KHA PA BLO BZANG GRAGS PA/RJE RED MDA' BA'I GSUNG LAN",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/GENERAL TREATMENTS/JE TSONGKAPA LOBSANG DRAKPA (1357-1419)/RESPONSE OFFERED TO LORD RENDAWA",
+            "_id": "324725949433",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SPYI_GENERAL TREATMENTS/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)/RJE RED MDA' BA'I GSUNG LAN_RESPONSE OFFERED TO LORD RENDAWA",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/SPYI/RJE TZONG KHA PA BLO BZANG GRAGS PA/RJE RED MDA' BA'I GSUNG LAN",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/GENERAL TREATMENTS/JE TSONGKAPA LOBSANG DRAKPA (1357-1419)/RESPONSE OFFERED TO LORD RENDAWA",
             "subject_tibetan": "RJE RED MDA' BA'I GSUNG LAN",
             "subject_english": "RESPONSE OFFERED TO LORD RENDAWA"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/spyi_general treatments/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)/rje red mda' ba'i gsung lan_response offered to lord rendawa",
-            "timestamp": "2024-09-10T02:01:36.361608+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SPYI_GENERAL TREATMENTS/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)/RJE RED MDA' BA'I GSUNG LAN_RESPONSE OFFERED TO LORD RENDAWA",
+            "timestamp": "2024-11-20 05:22:24.265729+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:22:24.265729+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

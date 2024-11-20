@@ -1,14 +1,14 @@
 {
     "name": "S00422M_SPRUL BA'I SKU RIN PO CHE NAS GNANG BA'I GSUNG RTZOM TSIGS BCAD KYI 'GREL BA DAD PA'I 'JUG NGOGS_The 'Entry Point for the Faithful,' being a Commentary upon the Verse Granted by that Precious Emanation of an Enlightened Being_YE SHES RGYA MT+.TXT",
-    "path": "nyams len_personal practice/phyag 'tsal ba_the practice of prostration",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/phyag 'tsal ba_the practice of prostration/s00422m_sprul ba'i sku rin po che nas gnang ba'i gsung rtzom tsigs bcad kyi 'grel ba dad pa'i 'jug ngogs_the 'entry point for the faithful,' being a commentary upon the verse granted by that precious emanation of an enlightened being_ye shes rgya mt+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAAXw",
-    "revision_id": "613f663b87ba88d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/PHYAG 'TSAL BA_THE PRACTICE OF PROSTRATION",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/phyag 'tsal ba_the practice of prostration/s00422m_sprul ba'i sku rin po che nas gnang ba'i gsung rtzom tsigs bcad kyi 'grel ba dad pa'i 'jug ngogs_the 'entry point for the faithful,' being a commentary upon the verse granted by that precious emanation of an enlightened being_ye shes rgya mt+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABiRA",
+    "revision_id": "625a4a830fc9b8d294473",
     "content_hash": "01c5fe0e7aae7fc38e8f44e49cf59a190b04b28ee87c157cb37482353f26507b",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:01:24.344275",
+    "server_modified": "2024-10-29 21:56:26",
+    "last_sync": "2024-11-19 21:19:23.955527",
     "size": 6218,
-    "meta_text": "SO (1885-@)",
+    "meta_text": "('SO (1885-@)', 'rtf')",
     "cat_ref": "S00422M",
     "work_ref": "W.S00422M",
     "title_tib": "SPRUL BA'I SKU RIN PO CHE NAS GNANG BA'I GSUNG RTZOM TSIGS BCAD KYI 'GREL BA DAD PA'I 'JUG NGOGS",
@@ -16,13 +16,13 @@
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
-    "author_simple": "YE SHES RGYA MTSO",
+    "author_simple": "YE SHES RGYA MT('SO",
     "subject": [
         {
-            "_id": "275454602816",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/PHYAG 'TSAL BA_THE PRACTICE OF PROSTRATION",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/PHYAG 'TSAL BA",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/THE PRACTICE OF PROSTRATION",
+            "_id": "300037299186",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/PHYAG 'TSAL BA_THE PRACTICE OF PROSTRATION",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/PHYAG 'TSAL BA",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/THE PRACTICE OF PROSTRATION",
             "subject_tibetan": "PHYAG 'TSAL BA",
             "subject_english": "THE PRACTICE OF PROSTRATION"
         }
@@ -30,16 +30,24 @@
     "items": [],
     "author": [
         {
-            "author_name": "YE SHES RGYA MTSO",
+            "author_name": "YE SHES RGYA MT('SO",
             "author_birth": "1885",
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/phyag 'tsal ba_the practice of prostration",
-            "timestamp": "2024-09-10T02:01:24.356294+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/PHYAG 'TSAL BA_THE PRACTICE OF PROSTRATION",
+            "timestamp": "2024-11-20 05:19:24.546947+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:19:24.546947+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,12 +1,12 @@
 {
     "name": "S12175E_BLA MA'I RNAL 'BYOR GYI 'GREL PA DANG BKA' DRIN GSOL 'DEBS_A Commentary on the Deep Practice of the Lama, along with a Supplication to Bestow Their Kindness_PAN CHEN BLA MA SKU PHRENG GNYIS PA BLO BZANG YE SHES (1663-1737).TXT",
-    "path": "nyams len_personal practice/bla ma'i rnal 'byor_practices for honoring ones lama/pan chen bla ma sku phreng gnyis pa blo bzang ye shes_panchen lama kutreng nyipa lobsang yeshe  (1663-1737)",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/bla ma'i rnal 'byor_practices for honoring ones lama/pan chen bla ma sku phreng gnyis pa blo bzang ye shes_panchen lama kutreng nyipa lobsang yeshe  (1663-1737)/s12175e_bla ma'i rnal 'byor gyi 'grel pa dang bka' drin gsol 'debs_a commentary on the deep practice of the lama, along with a supplication to bestow their kindness_pan chen bla ma sku phreng gnyis pa blo bzang ye shes (1663-1737).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAACjw",
-    "revision_id": "613f663ffc7828d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/BLA MA'I RNAL 'BYOR_PRACTICES FOR HONORING ONES LAMA/PAN CHEN BLA MA SKU PHRENG GNYIS PA BLO BZANG YE SHES_PANCHEN LAMA KUTRENG NYIPA LOBSANG YESHE  (1663-1737)",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/bla ma'i rnal 'byor_practices for honoring ones lama/pan chen bla ma sku phreng gnyis pa blo bzang ye shes_panchen lama kutreng nyipa lobsang yeshe  (1663-1737)/s12175e_bla ma'i rnal 'byor gyi 'grel pa dang bka' drin gsol 'debs_a commentary on the deep practice of the lama, along with a supplication to bestow their kindness_pan chen bla ma sku phreng gnyis pa blo bzang ye shes (1663-1737).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABjqA",
+    "revision_id": "625a4ab5ff9db8d294473",
     "content_hash": "e1c8dfeaff3076572a0de54f52ed3282ff300274afa83dcefd3b0839a8f2879e",
-    "server_modified": "2024-03-18T21:53:40",
-    "last_sync": "2024-09-09T19:03:45.486335",
+    "server_modified": "2024-10-29 21:57:20",
+    "last_sync": "2024-11-19 21:21:44.963688",
     "size": 19658,
     "meta_text": null,
     "cat_ref": "S12175E",
@@ -19,10 +19,10 @@
     "author_simple": "PAn CHEN BLA MA SKU PHRENG GNYIS PA BLO BZANG YE SHES",
     "subject": [
         {
-            "_id": "244931043543",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/BLA MA'I RNAL 'BYOR_PRACTICES FOR HONORING ONES LAMA/PAN CHEN BLA MA SKU PHRENG GNYIS PA BLO BZANG YE SHES_PANCHEN LAMA KUTRENG NYIPA LOBSANG YESHE  (1663-1737)",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/BLA MA'I RNAL 'BYOR/PAN CHEN BLA MA SKU PHRENG GNYIS PA BLO BZANG YE SHES",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/PRACTICES FOR HONORING ONES LAMA/PANCHEN LAMA KUTRENG NYIPA LOBSANG YESHE  (1663-1737)",
+            "_id": "727025637163",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BLA MA'I RNAL 'BYOR_PRACTICES FOR HONORING ONES LAMA/PAN CHEN BLA MA SKU PHRENG GNYIS PA BLO BZANG YE SHES_PANCHEN LAMA KUTRENG NYIPA LOBSANG YESHE  (1663-1737)",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/BLA MA'I RNAL 'BYOR/PAN CHEN BLA MA SKU PHRENG GNYIS PA BLO BZANG YE SHES",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/PRACTICES FOR HONORING ONES LAMA/PANCHEN LAMA KUTRENG NYIPA LOBSANG YESHE  (1663-1737)",
             "subject_tibetan": "PAN CHEN BLA MA SKU PHRENG GNYIS PA BLO BZANG YE SHES",
             "subject_english": "PANCHEN LAMA KUTRENG NYIPA LOBSANG YESHE  (1663-1737)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P106"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/bla ma'i rnal 'byor_practices for honoring ones lama/pan chen bla ma sku phreng gnyis pa blo bzang ye shes_panchen lama kutreng nyipa lobsang yeshe  (1663-1737)",
-            "timestamp": "2024-09-10T02:03:45.507134+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BLA MA'I RNAL 'BYOR_PRACTICES FOR HONORING ONES LAMA/PAN CHEN BLA MA SKU PHRENG GNYIS PA BLO BZANG YE SHES_PANCHEN LAMA KUTRENG NYIPA LOBSANG YESHE  (1663-1737)",
+            "timestamp": "2024-11-20 05:21:44.968628+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:21:44.968628+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

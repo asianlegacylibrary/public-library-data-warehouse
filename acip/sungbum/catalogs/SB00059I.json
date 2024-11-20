@@ -1,29 +1,29 @@
 {
     "name": "SB00059I_DAM CHOS 'DUL BA MDO RTZA BA'I GZHUNG 'GREL tI KA RIN CHEN PHRENG BA'I DGONGS RGYAN PAn CHEN BLO GROS LEGS BZANG GIS MDZAD PA_The 'Jewel of the True Thought of the 'Great Commentary, the String of Precious Gems',' being an Explanation by P+.TXT",
-    "path": "'dul ba_vowed morality (vinaya)/spyi_general presentations/pan chen blo gros legs bzang_panchen lodru leksang",
-    "download_path": "/sungbum updated 4 26 23 bk/'dul ba_vowed morality (vinaya)/spyi_general presentations/pan chen blo gros legs bzang_panchen lodru leksang/sb00059i_dam chos 'dul ba mdo rtza ba'i gzhung 'grel ti ka rin chen phreng ba'i dgongs rgyan pan chen blo gros legs bzang gis mdzad pa_the 'jewel of the true thought of the 'great commentary, the string of precious gems',' being an explanation by p+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAADDQ",
-    "revision_id": "613f663ffc8008d294473",
+    "path": "'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/PAn CHEN BLO GROS LEGS BZANG_PANCHEN LODRU LEKSANG",
+    "download_path": "/sungbum updated 7 30 23 nl/'dul ba_vowed morality (vinaya)/spyi_general presentations/pan chen blo gros legs bzang_panchen lodru leksang/sb00059i_dam chos 'dul ba mdo rtza ba'i gzhung 'grel ti ka rin chen phreng ba'i dgongs rgyan pan chen blo gros legs bzang gis mdzad pa_the 'jewel of the true thought of the 'great commentary, the string of precious gems',' being an explanation by p+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABe7g",
+    "revision_id": "625a49d76e2478d294473",
     "content_hash": "85c32f195f540eeec45af6ea3880945607f80def7d57d44d4e2fbb1ed74c6a8a",
-    "server_modified": "2024-03-18T21:53:40",
-    "last_sync": "2024-09-09T19:04:22.481135",
+    "server_modified": "2024-10-29 21:53:26",
+    "last_sync": "2024-11-19 21:13:28.346025",
     "size": 588324,
-    "meta_text": "anchen Lodru Leksang of that Holy Book, the Root Text entitled ‘The Summary of Vowed Morality’_PAn CHEN BLO GROS LEGS BZANG (@-@)",
+    "meta_text": "('anchen Lodru Leksang of that Holy Book, the Root Text entitled ‘The Summary of Vowed Morality’_PAn CHEN BLO GROS LEGS BZANG (@-@)', 'text')",
     "cat_ref": "SB00059I",
     "work_ref": "W.SB00059I",
     "title_tib": "DAM CHOS 'DUL BA MDO RTZA BA'I GZHUNG 'GREL tI KA RIN CHEN PHRENG BA'I DGONGS RGYAN PAn CHEN BLO GROS LEGS BZANG GIS MDZAD PA",
-    "title_eng": "The 'Jewel of the True Thought of the 'Great Commentary, the String of Precious Gems',' being an Explanation by Panchen Lodru Leksang of that Holy Book, the Root Text entitled ‘The Summary of Vowed Morality’",
+    "title_eng": "The 'Jewel of the True Thought of the 'Great Commentary, the String of Precious Gems',' being an Explanation by P('anchen Lodru Leksang of that Holy Book, the Root Text entitled ‘The Summary of Vowed Morality’",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "PAn CHEN BLO GROS LEGS BZANG",
     "subject": [
         {
-            "_id": "182923714055",
-            "subject_path": "SUNGBUM_SUNGBUM/'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/PAN CHEN BLO GROS LEGS BZANG_PANCHEN LODRU LEKSANG",
-            "subject_path_tibetan": "SUNGBUM/'DUL BA/SPYI/PAN CHEN BLO GROS LEGS BZANG",
-            "subject_path_english": "SUNGBUM/VOWED MORALITY (VINAYA)/GENERAL PRESENTATIONS/PANCHEN LODRU LEKSANG",
-            "subject_tibetan": "PAN CHEN BLO GROS LEGS BZANG",
+            "_id": "253586708616",
+            "subject_path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/PAn CHEN BLO GROS LEGS BZANG_PANCHEN LODRU LEKSANG",
+            "subject_path_tibetan": "GSUNG 'BUM/'DUL BA/SPYI/PAn CHEN BLO GROS LEGS BZANG",
+            "subject_path_english": "Sungbum/VOWED MORALITY (VINAYA)/GENERAL PRESENTATIONS/PANCHEN LODRU LEKSANG",
+            "subject_tibetan": "PAn CHEN BLO GROS LEGS BZANG",
             "subject_english": "PANCHEN LODRU LEKSANG"
         }
     ],
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P2917"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "'dul ba_vowed morality (vinaya)/spyi_general presentations/pan chen blo gros legs bzang_panchen lodru leksang",
-            "timestamp": "2024-09-10T02:04:22.511738+00:00"
+            "path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/PAn CHEN BLO GROS LEGS BZANG_PANCHEN LODRU LEKSANG",
+            "timestamp": "2024-11-20 05:13:29.712401+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:13:29.712401+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

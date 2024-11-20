@@ -1,28 +1,28 @@
 {
     "name": "S06548E2_MDO SNGAGS KYI DBANG LUNG KHRID GSUM THOB PA'I GSAN YIG THAR PA'I THEM SKAS KYI SMAD CHA_The Second Half of 'Stairway to Freedom,' a Record of Teachings Received on both the Open and Secret Traditions in the Three Forms of Empowerment, Ora+.TXT",
-    "path": "gsan yig_records of teachings received/klong rdol bla ma ngag dbang blo bzang_longdol lama ngawang lobsang (1719-1794)",
-    "download_path": "/sungbum updated 4 26 23 bk/gsan yig_records of teachings received/klong rdol bla ma ngag dbang blo bzang_longdol lama ngawang lobsang (1719-1794)/s06548e2_mdo sngags kyi dbang lung khrid gsum thob pa'i gsan yig thar pa'i them skas kyi smad cha_the second half of 'stairway to freedom,' a record of teachings received on both the open and secret traditions in the three forms of empowerment, ora+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAASCQ",
-    "revision_id": "613f66647432c8d294473",
+    "path": "GSAN YIG_RECORDS OF TEACHINGS RECEIVED/KLONG RDOL BLA MA NGAG DBANG BLO BZANG_LONGDOL LAMA NGAWANG LOBSANG (1719-1794)",
+    "download_path": "/sungbum updated 7 30 23 nl/gsan yig_records of teachings received/klong rdol bla ma ngag dbang blo bzang_longdol lama ngawang lobsang (1719-1794)/s06548e2_mdo sngags kyi dbang lung khrid gsum thob pa'i gsan yig thar pa'i them skas kyi smad cha_the second half of 'stairway to freedom,' a record of teachings received on both the open and secret traditions in the three forms of empowerment, ora+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABfZg",
+    "revision_id": "625a49ec2c3698d294473",
     "content_hash": "e02808d5be66c46c0a69a4fc3c8d185f4adcbf248956c2c27c4d1157939676db",
-    "server_modified": "2024-03-18T21:54:19",
-    "last_sync": "2024-09-09T19:19:37.767203",
+    "server_modified": "2024-10-29 21:53:48",
+    "last_sync": "2024-11-19 21:14:10.097334",
     "size": 123170,
-    "meta_text": "l Transmission, and Formal Teachings_KLONG RDOL BLA MA NGAG DBANG BLO BZANG (1719-1794)",
+    "meta_text": "('l Transmission, and Formal Teachings_KLONG RDOL BLA MA NGAG DBANG BLO BZANG (1719-1794)', 'rtf')",
     "cat_ref": "S06548E2",
     "work_ref": "W.S06548E2",
     "title_tib": "MDO SNGAGS KYI DBANG LUNG KHRID GSUM THOB PA'I GSAN YIG THAR PA'I THEM SKAS KYI SMAD CHA",
-    "title_eng": "The Second Half of 'Stairway to Freedom,' a Record of Teachings Received on both the Open and Secret Traditions in the Three Forms of Empowerment, Oral Transmission, and Formal Teachings",
+    "title_eng": "The Second Half of 'Stairway to Freedom,' a Record of Teachings Received on both the Open and Secret Traditions in the Three Forms of Empowerment, Ora('l Transmission, and Formal Teachings",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "KLONG RDOL BLA MA NGAG DBANG BLO BZANG",
     "subject": [
         {
-            "_id": "324899620192",
-            "subject_path": "SUNGBUM_SUNGBUM/GSAN YIG_RECORDS OF TEACHINGS RECEIVED/KLONG RDOL BLA MA NGAG DBANG BLO BZANG_LONGDOL LAMA NGAWANG LOBSANG (1719-1794)",
-            "subject_path_tibetan": "SUNGBUM/GSAN YIG/KLONG RDOL BLA MA NGAG DBANG BLO BZANG",
-            "subject_path_english": "SUNGBUM/RECORDS OF TEACHINGS RECEIVED/LONGDOL LAMA NGAWANG LOBSANG (1719-1794)",
+            "_id": "215780785854",
+            "subject_path": "GSUNG 'BUM_Sungbum/GSAN YIG_RECORDS OF TEACHINGS RECEIVED/KLONG RDOL BLA MA NGAG DBANG BLO BZANG_LONGDOL LAMA NGAWANG LOBSANG (1719-1794)",
+            "subject_path_tibetan": "GSUNG 'BUM/GSAN YIG/KLONG RDOL BLA MA NGAG DBANG BLO BZANG",
+            "subject_path_english": "Sungbum/RECORDS OF TEACHINGS RECEIVED/LONGDOL LAMA NGAWANG LOBSANG (1719-1794)",
             "subject_tibetan": "KLONG RDOL BLA MA NGAG DBANG BLO BZANG",
             "subject_english": "LONGDOL LAMA NGAWANG LOBSANG (1719-1794)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P22"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "gsan yig_records of teachings received/klong rdol bla ma ngag dbang blo bzang_longdol lama ngawang lobsang (1719-1794)",
-            "timestamp": "2024-09-10T02:19:37.773274+00:00"
+            "path": "GSUNG 'BUM_Sungbum/GSAN YIG_RECORDS OF TEACHINGS RECEIVED/KLONG RDOL BLA MA NGAG DBANG BLO BZANG_LONGDOL LAMA NGAWANG LOBSANG (1719-1794)",
+            "timestamp": "2024-11-20 05:14:11.433389+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:14:11.433389+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

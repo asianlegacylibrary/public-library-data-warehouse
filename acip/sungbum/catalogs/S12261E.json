@@ -1,12 +1,12 @@
 {
     "name": "S12261E_ZHING MCHOG SHAMBHA LA'I 'PHO 'KHRID MYUR LAM GSAL BYED_Light on the Quick Path-- Instructions for the Practice of Transferring Ones Consciousness to that Highest of Paradises, Shambhala_RJE BTZUN BLO BZANG RTA DBYANGS (1867-1937).TXT",
-    "path": "rgyud_secret teachings (tantra)/sham bha la_shambala (shambala)/'pho ba_transferring consciousness",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/sham bha la_shambala (shambala)/'pho ba_transferring consciousness/s12261e_zhing mchog shambha la'i 'pho 'khrid myur lam gsal byed_light on the quick path-- instructions for the practice of transferring ones consciousness to that highest of paradises, shambhala_rje btzun blo bzang rta dbyangs (1867-1937).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAP9A",
-    "revision_id": "613f665fcd5798d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SHAM BHA LA_SHAMBALA (SHAMBALA)/'PHO BA_TRANSFERRING CONSCIOUSNESS",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/sham bha la_shambala (shambala)/'pho ba_transferring consciousness/s12261e_zhing mchog shambha la'i 'pho 'khrid myur lam gsal byed_light on the quick path-- instructions for the practice of transferring ones consciousness to that highest of paradises, shambhala_rje btzun blo bzang rta dbyangs (1867-1937).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABc6A",
+    "revision_id": "625a4986142bc8d294473",
     "content_hash": "4fdb7c8f1a25cd9e9227692015271b7ea9222de1e7a2a1f94535a52c925da3db",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:17:23.235513",
+    "server_modified": "2024-10-29 21:52:01",
+    "last_sync": "2024-11-19 21:10:00.643350",
     "size": 11050,
     "meta_text": null,
     "cat_ref": "S12261E",
@@ -19,10 +19,10 @@
     "author_simple": "RJE BTZUN BLO BZANG RTA DBYANGS",
     "subject": [
         {
-            "_id": "269464309610",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SHAM BHA LA_SHAMBALA (SHAMBALA)/'PHO BA_TRANSFERRING CONSCIOUSNESS",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SHAM BHA LA/'PHO BA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/SHAMBALA (SHAMBALA)/TRANSFERRING CONSCIOUSNESS",
+            "_id": "272074473188",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SHAM BHA LA_SHAMBALA (SHAMBALA)/'PHO BA_TRANSFERRING CONSCIOUSNESS",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SHAM BHA LA/'PHO BA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/SHAMBALA (SHAMBALA)/TRANSFERRING CONSCIOUSNESS",
             "subject_tibetan": "'PHO BA",
             "subject_english": "TRANSFERRING CONSCIOUSNESS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P1638"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/sham bha la_shambala (shambala)/'pho ba_transferring consciousness",
-            "timestamp": "2024-09-10T02:17:23.237573+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SHAM BHA LA_SHAMBALA (SHAMBALA)/'PHO BA_TRANSFERRING CONSCIOUSNESS",
+            "timestamp": "2024-11-20 05:10:00.648373+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:10:00.648373+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

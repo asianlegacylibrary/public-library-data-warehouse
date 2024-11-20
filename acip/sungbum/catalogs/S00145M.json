@@ -1,12 +1,12 @@
 {
     "name": "S00145M_LTA BA PHYAG RGYA CHEN PO BSGOM TSUL_How to Meditate on the Great Seal of Correct View_LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN (1642-1714).TXT",
-    "path": "dbu ma_middle-way philosophy (madhyamika prasangika school)/phyag rgya chen po_great seal (mahamudra)/lcang skya ngag dbang blo bzang chos ldan_changkya ngawang lobsang chunden",
-    "download_path": "/sungbum updated 4 26 23 bk/dbu ma_middle-way philosophy (madhyamika prasangika school)/phyag rgya chen po_great seal (mahamudra)/lcang skya ngag dbang blo bzang chos ldan_changkya ngawang lobsang chunden/s00145m_lta ba phyag rgya chen po bsgom tsul_how to meditate on the great seal of correct view_lcang skya ngag dbang blo bzang chos ldan (1642-1714).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAEVA",
-    "revision_id": "613f6644849788d294473",
+    "path": "DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/PHYAG RGYA CHEN PO_GREAT SEAL (MAHAMUDRA)/LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN_CHANGKYA NGAWANG LOBSANG CHUNDEN",
+    "download_path": "/sungbum updated 7 30 23 nl/dbu ma_middle-way philosophy (madhyamika prasangika school)/phyag rgya chen po_great seal (mahamudra)/lcang skya ngag dbang blo bzang chos ldan_changkya ngawang lobsang chunden/s00145m_lta ba phyag rgya chen po bsgom tsul_how to meditate on the great seal of correct view_lcang skya ngag dbang blo bzang chos ldan (1642-1714).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABRmA",
+    "revision_id": "625a47ef3973b8d294473",
     "content_hash": "7dd1d476cbb8e1d9bcfb3b14a97f1d61f85efb02286b6b170802d762b72b816d",
-    "server_modified": "2024-03-18T21:53:45",
-    "last_sync": "2024-09-09T19:05:34.984991",
+    "server_modified": "2024-10-29 21:44:55",
+    "last_sync": "2024-11-19 20:52:10.446359",
     "size": 5266,
     "meta_text": null,
     "cat_ref": "S00145M",
@@ -19,10 +19,10 @@
     "author_simple": "LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN",
     "subject": [
         {
-            "_id": "147383351207",
-            "subject_path": "SUNGBUM_SUNGBUM/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/PHYAG RGYA CHEN PO_GREAT SEAL (MAHAMUDRA)/LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN_CHANGKYA NGAWANG LOBSANG CHUNDEN",
-            "subject_path_tibetan": "SUNGBUM/DBU MA/PHYAG RGYA CHEN PO/LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN",
-            "subject_path_english": "SUNGBUM/MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/GREAT SEAL (MAHAMUDRA)/CHANGKYA NGAWANG LOBSANG CHUNDEN",
+            "_id": "684347482445",
+            "subject_path": "GSUNG 'BUM_Sungbum/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/PHYAG RGYA CHEN PO_GREAT SEAL (MAHAMUDRA)/LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN_CHANGKYA NGAWANG LOBSANG CHUNDEN",
+            "subject_path_tibetan": "GSUNG 'BUM/DBU MA/PHYAG RGYA CHEN PO/LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN",
+            "subject_path_english": "Sungbum/MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/GREAT SEAL (MAHAMUDRA)/CHANGKYA NGAWANG LOBSANG CHUNDEN",
             "subject_tibetan": "LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN",
             "subject_english": "CHANGKYA NGAWANG LOBSANG CHUNDEN"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P209"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "dbu ma_middle-way philosophy (madhyamika prasangika school)/phyag rgya chen po_great seal (mahamudra)/lcang skya ngag dbang blo bzang chos ldan_changkya ngawang lobsang chunden",
-            "timestamp": "2024-09-10T02:05:34.993166+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/PHYAG RGYA CHEN PO_GREAT SEAL (MAHAMUDRA)/LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN_CHANGKYA NGAWANG LOBSANG CHUNDEN",
+            "timestamp": "2024-11-20 04:52:10.449708+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:52:10.449708+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

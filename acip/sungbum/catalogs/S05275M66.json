@@ -1,12 +1,12 @@
 {
     "name": "S05275M66_LHO BRAG MKHAN CHEN PHYAG RDOR BA LA PHUL BA'I CHAB SHOG_Epistle offered to Chakdorwa, the Great Abbot of Hlodrak_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419).TXT",
-    "path": "nyams len_personal practice/spyi_general treatments/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)/phyag rdor ba la phul ba'i chab shog_epistle offered to chakdorwa",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/spyi_general treatments/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)/phyag rdor ba la phul ba'i chab shog_epistle offered to chakdorwa/s05275m66_lho brag mkhan chen phyag rdor ba la phul ba'i chab shog_epistle offered to chakdorwa, the great abbot of hlodrak_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAAjw",
-    "revision_id": "613f663b87bd88d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/SPYI_GENERAL TREATMENTS/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)/PHYAG RDOR BA LA PHUL BA'I CHAB SHOG_EPISTLE OFFERED TO CHAKDORWA",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/spyi_general treatments/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)/phyag rdor ba la phul ba'i chab shog_epistle offered to chakdorwa/s05275m66_lho brag mkhan chen phyag rdor ba la phul ba'i chab shog_epistle offered to chakdorwa, the great abbot of hlodrak_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABj8w",
+    "revision_id": "625a4abf771af8d294473",
     "content_hash": "a9c183de6cfc00f4b102d0640239ece69f7f1b0c856aa0177a13accdc005ed76",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:01:35.639521",
+    "server_modified": "2024-10-29 21:57:30",
+    "last_sync": "2024-11-19 21:22:23.120425",
     "size": 4644,
     "meta_text": null,
     "cat_ref": "S05275M66",
@@ -19,10 +19,10 @@
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "317558687931",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/SPYI_GENERAL TREATMENTS/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)/PHYAG RDOR BA LA PHUL BA'I CHAB SHOG_EPISTLE OFFERED TO CHAKDORWA",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/SPYI/RJE TZONG KHA PA BLO BZANG GRAGS PA/PHYAG RDOR BA LA PHUL BA'I CHAB SHOG",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/GENERAL TREATMENTS/JE TSONGKAPA LOBSANG DRAKPA (1357-1419)/EPISTLE OFFERED TO CHAKDORWA",
+            "_id": "145242480009",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SPYI_GENERAL TREATMENTS/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)/PHYAG RDOR BA LA PHUL BA'I CHAB SHOG_EPISTLE OFFERED TO CHAKDORWA",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/SPYI/RJE TZONG KHA PA BLO BZANG GRAGS PA/PHYAG RDOR BA LA PHUL BA'I CHAB SHOG",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/GENERAL TREATMENTS/JE TSONGKAPA LOBSANG DRAKPA (1357-1419)/EPISTLE OFFERED TO CHAKDORWA",
             "subject_tibetan": "PHYAG RDOR BA LA PHUL BA'I CHAB SHOG",
             "subject_english": "EPISTLE OFFERED TO CHAKDORWA"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/spyi_general treatments/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)/phyag rdor ba la phul ba'i chab shog_epistle offered to chakdorwa",
-            "timestamp": "2024-09-10T02:01:35.647237+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SPYI_GENERAL TREATMENTS/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)/PHYAG RDOR BA LA PHUL BA'I CHAB SHOG_EPISTLE OFFERED TO CHAKDORWA",
+            "timestamp": "2024-11-20 05:22:23.125498+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:22:23.125498+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

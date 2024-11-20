@@ -1,12 +1,12 @@
 {
     "name": "S00555E_DMIGS BRTZE MA_Love with Nothing It Sees_@ (@-@).TXT",
-    "path": "nyams len_personal practice/bshags pa_confession/author unknown",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/bshags pa_confession/author unknown/s00555e_dmigs brtze ma_love with nothing it sees_@ (@-@).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAA1A",
-    "revision_id": "613f663b87c1d8d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/BSHAGS PA_CONFESSION/AUTHOR UNKNOWN",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/bshags pa_confession/author unknown/s00555e_dmigs brtze ma_love with nothing it sees_@ (@-@).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABj8A",
+    "revision_id": "625a4abf771a78d294473",
     "content_hash": "373f49bd69fee43ace823196b19c955933e14cbd0c5b761070fc93f6c47df3b6",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:01:50.971223",
+    "server_modified": "2024-10-29 21:57:30",
+    "last_sync": "2024-11-19 21:22:17.853023",
     "size": 3362,
     "meta_text": null,
     "cat_ref": "S00555E",
@@ -19,10 +19,10 @@
     "author_simple": "",
     "subject": [
         {
-            "_id": "163112776788",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/BSHAGS PA_CONFESSION/AUTHOR UNKNOWN",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/BSHAGS PA/AUTHOR UNKNOWN",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/CONFESSION",
+            "_id": "181975501194",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BSHAGS PA_CONFESSION/AUTHOR UNKNOWN",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/BSHAGS PA/AUTHOR UNKNOWN",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/CONFESSION",
             "subject_tibetan": "AUTHOR UNKNOWN",
             "subject_english": "CONFESSION"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/bshags pa_confession/author unknown",
-            "timestamp": "2024-09-10T02:01:50.979819+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BSHAGS PA_CONFESSION/AUTHOR UNKNOWN",
+            "timestamp": "2024-11-20 05:22:17.857411+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:22:17.857411+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

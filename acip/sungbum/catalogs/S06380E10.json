@@ -1,12 +1,12 @@
 {
     "name": "S06380E10_DPAL DUR KHROD BDAG PO YAB YUM GYI MCHOD 'PHRIN MDOR BSDUS_Briefer Ritual for Offering and Calling for Action in the Practice of the Glorious Father and Mother, Lords of the Burial Ground_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/dur khrod bdag po_lord of the burial grounds (shmashanapati)/mchod pa_offering",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/dur khrod bdag po_lord of the burial grounds (shmashanapati)/mchod pa_offering/s06380e10_dpal dur khrod bdag po yab yum gyi mchod 'phrin mdor bsdus_briefer ritual for offering and calling for action in the practice of the glorious father and mother, lords of the burial ground_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAALzg",
-    "revision_id": "613f6656dec9f8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/DUR KHROD BDAG PO_LORD OF THE BURIAL GROUNDS (SHMASHANAPATI)/MCHOD PA_OFFERING",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/dur khrod bdag po_lord of the burial grounds (shmashanapati)/mchod pa_offering/s06380e10_dpal dur khrod bdag po yab yum gyi mchod 'phrin mdor bsdus_briefer ritual for offering and calling for action in the practice of the glorious father and mother, lords of the burial ground_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABXWQ",
+    "revision_id": "625a48bd681798d294473",
     "content_hash": "c79b5ca7cdcc94f9b31fe0e03a4d0b2ec682ffdc2a7bc3e5800803fac0773e49",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:12:57.938887",
+    "server_modified": "2024-10-29 21:48:31",
+    "last_sync": "2024-11-19 21:00:36.238975",
     "size": 3615,
     "meta_text": null,
     "cat_ref": "S06380E10",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "197201012420",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/DUR KHROD BDAG PO_LORD OF THE BURIAL GROUNDS (SHMASHANAPATI)/MCHOD PA_OFFERING",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/DUR KHROD BDAG PO/MCHOD PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/LORD OF THE BURIAL GROUNDS (SHMASHANAPATI)/OFFERING",
+            "_id": "320563955800",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DUR KHROD BDAG PO_LORD OF THE BURIAL GROUNDS (SHMASHANAPATI)/MCHOD PA_OFFERING",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/DUR KHROD BDAG PO/MCHOD PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/LORD OF THE BURIAL GROUNDS (SHMASHANAPATI)/OFFERING",
             "subject_tibetan": "MCHOD PA",
             "subject_english": "OFFERING"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/dur khrod bdag po_lord of the burial grounds (shmashanapati)/mchod pa_offering",
-            "timestamp": "2024-09-10T02:12:57.946688+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DUR KHROD BDAG PO_LORD OF THE BURIAL GROUNDS (SHMASHANAPATI)/MCHOD PA_OFFERING",
+            "timestamp": "2024-11-20 05:00:36.242470+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:00:36.242470+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

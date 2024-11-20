@@ -1,12 +1,12 @@
 {
     "name": "S06554E_BSTAN SRUNG DAM CAN RGYA MTSO'I MTSAN THO_A Listing of the Names of that Veritable Ocean of Pledged Protectors of the Teachings_KLONG RDOL BLA MA NGAG DBANG BLO BZANG (1719-1794).TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/bstan srung_guardians of the teachings",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/bstan srung_guardians of the teachings/s06554e_bstan srung dam can rgya mtso'i mtsan tho_a listing of the names of that veritable ocean of pledged protectors of the teachings_klong rdol bla ma ngag dbang blo bzang (1719-1794).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAORw",
-    "revision_id": "613f665b610608d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BSTAN SRUNG_GUARDIANS OF THE TEACHINGS",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyi_general treatments/bstan srung_guardians of the teachings/s06554e_bstan srung dam can rgya mtso'i mtsan tho_a listing of the names of that veritable ocean of pledged protectors of the teachings_klong rdol bla ma ngag dbang blo bzang (1719-1794).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABZqQ",
+    "revision_id": "625a490ef41b08d294473",
     "content_hash": "6c8cef1b2cc0ca9c9bc78afc1505dc78d3cf50a0c87d91600c003d7e382a7412",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:15:38.619691",
+    "server_modified": "2024-10-29 21:49:56",
+    "last_sync": "2024-11-19 21:04:18.681881",
     "size": 42678,
     "meta_text": null,
     "cat_ref": "S06554E",
@@ -19,10 +19,10 @@
     "author_simple": "KLONG RDOL BLA MA NGAG DBANG BLO BZANG",
     "subject": [
         {
-            "_id": "444603738406",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BSTAN SRUNG_GUARDIANS OF THE TEACHINGS",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/BSTAN SRUNG",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/GUARDIANS OF THE TEACHINGS",
+            "_id": "168946091271",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BSTAN SRUNG_GUARDIANS OF THE TEACHINGS",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/BSTAN SRUNG",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/GUARDIANS OF THE TEACHINGS",
             "subject_tibetan": "BSTAN SRUNG",
             "subject_english": "GUARDIANS OF THE TEACHINGS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P22"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/bstan srung_guardians of the teachings",
-            "timestamp": "2024-09-10T02:15:38.623566+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BSTAN SRUNG_GUARDIANS OF THE TEACHINGS",
+            "timestamp": "2024-11-20 05:04:18.689824+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:04:18.689824+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,12 +1,12 @@
 {
     "name": "S12303E_YI DAM CHOS SRUNG GI GNYER GTAD SOGS_A Ritual to Direct Close Angels and Protectors of the Dharma to their Sacred Work, as well as Other Writings_LCANG LUNG AARYA PAndI TA NGAG DBANG BLO BZANG BSTAN PA'I RGYAL MTSAN (1770-1845).TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/bstan srung_guardians of the teachings",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/bstan srung_guardians of the teachings/s12303e_yi dam chos srung gi gnyer gtad sogs_a ritual to direct close angels and protectors of the dharma to their sacred work, as well as other writings_lcang lung aarya pandi ta ngag dbang blo bzang bstan pa'i rgyal mtsan (1770-1845).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAOSA",
-    "revision_id": "613f665b610618d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BSTAN SRUNG_GUARDIANS OF THE TEACHINGS",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyi_general treatments/bstan srung_guardians of the teachings/s12303e_yi dam chos srung gi gnyer gtad sogs_a ritual to direct close angels and protectors of the dharma to their sacred work, as well as other writings_lcang lung aarya pandi ta ngag dbang blo bzang bstan pa'i rgyal mtsan (1770-1845).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABZqg",
+    "revision_id": "625a490ef41b18d294473",
     "content_hash": "742e68040c09f446058d508e7f322cdf5c51bb736bfe966ebd893afcba16b078",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:15:38.621593",
+    "server_modified": "2024-10-29 21:49:56",
+    "last_sync": "2024-11-19 21:04:18.686276",
     "size": 7654,
     "meta_text": null,
     "cat_ref": "S12303E",
@@ -19,10 +19,10 @@
     "author_simple": "LCANG LUNG AARYA PAnDI TA NGAG DBANG BLO BZANG BSTAN PA'I RGYAL MTSAN",
     "subject": [
         {
-            "_id": "444603738406",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BSTAN SRUNG_GUARDIANS OF THE TEACHINGS",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/BSTAN SRUNG",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/GUARDIANS OF THE TEACHINGS",
+            "_id": "168946091271",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BSTAN SRUNG_GUARDIANS OF THE TEACHINGS",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/BSTAN SRUNG",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/GUARDIANS OF THE TEACHINGS",
             "subject_tibetan": "BSTAN SRUNG",
             "subject_english": "GUARDIANS OF THE TEACHINGS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P290"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/bstan srung_guardians of the teachings",
-            "timestamp": "2024-09-10T02:15:38.624328+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BSTAN SRUNG_GUARDIANS OF THE TEACHINGS",
+            "timestamp": "2024-11-20 05:04:18.690174+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:04:18.690174+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

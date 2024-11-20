@@ -1,28 +1,28 @@
 {
     "name": "S12276E_MKHAN CHEN CHOS KYI RGYAL PO'I GSUNG 'BUM LAS DPAL 'KHOR LO BDE MCHOG LHA LNGA'I SBYIN SREG GI CHO GA DNGOS GRUB KYI LCAGS KYU_A Ritual for the Offering of Fire for the Five Angels of the Glorious Wheel of Highest Bliss (Chakra Samvara); fro +.TXT",
-    "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/sbyin sreg_fire offering (homa)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/sbyin sreg_fire offering (homa)/s12276e_mkhan chen chos kyi rgyal po'i gsung 'bum las dpal 'khor lo bde mchog lha lnga'i sbyin sreg gi cho ga dngos grub kyi lcags kyu_a ritual for the offering of fire for the five angels of the glorious wheel of highest bliss (chakra samvara); fro +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAPPg",
-    "revision_id": "613f665b611578d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/SBYIN SREG_FIRE OFFERING (HOMA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/sbyin sreg_fire offering (homa)/s12276e_mkhan chen chos kyi rgyal po'i gsung 'bum las dpal 'khor lo bde mchog lha lnga'i sbyin sreg gi cho ga dngos grub kyi lcags kyu_a ritual for the offering of fire for the five angels of the glorious wheel of highest bliss (chakra samvara); fro +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABU1A",
+    "revision_id": "625a4872a2b548d294473",
     "content_hash": "657e6a94341c5db3103272c19951f39d3bc9b1b3dd241a75bffe287f1ec8a145",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:16:38.611735",
+    "server_modified": "2024-10-29 21:47:12",
+    "last_sync": "2024-11-19 20:56:18.703711",
     "size": 36664,
-    "meta_text": "m the Collected Works of that King of the Dharma, Kenchen_MKHAN CHEN BLO BZANG BSTAN 'DZIN RGYAL MTSAN (1639-@)",
+    "meta_text": "(\"m the Collected Works of that King of the Dharma, Kenchen_MKHAN CHEN BLO BZANG BSTAN 'DZIN RGYAL MTSAN (1639-@)\", 'rtf')",
     "cat_ref": "S12276E",
     "work_ref": "W.S12276E",
     "title_tib": "MKHAN CHEN CHOS KYI RGYAL PO'I GSUNG 'BUM LAS DPAL 'KHOR LO BDE MCHOG LHA LNGA'I SBYIN SREG GI CHO GA DNGOS GRUB KYI LCAGS KYU",
-    "title_eng": "A Ritual for the Offering of Fire for the Five Angels of the Glorious Wheel of Highest Bliss (Chakra Samvara); from the Collected Works of that King of the Dharma, Kenchen",
+    "title_eng": "A Ritual for the Offering of Fire for the Five Angels of the Glorious Wheel of Highest Bliss (Chakra Samvara); fro(\"m the Collected Works of that King of the Dharma, Kenchen",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "MKHAN CHEN BLO BZANG BSTAN 'DZIN RGYAL MTSAN",
     "subject": [
         {
-            "_id": "709535719951",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/SBYIN SREG_FIRE OFFERING (HOMA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/BDE MCHOG/SBYIN SREG",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/FIRE OFFERING (HOMA)",
+            "_id": "191048078725",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/SBYIN SREG_FIRE OFFERING (HOMA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/BDE MCHOG/SBYIN SREG",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/FIRE OFFERING (HOMA)",
             "subject_tibetan": "SBYIN SREG",
             "subject_english": "FIRE OFFERING (HOMA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P6418"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/sbyin sreg_fire offering (homa)",
-            "timestamp": "2024-09-10T02:16:38.617816+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/SBYIN SREG_FIRE OFFERING (HOMA)",
+            "timestamp": "2024-11-20 04:56:18.710506+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:56:18.710506+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

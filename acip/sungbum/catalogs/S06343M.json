@@ -1,12 +1,12 @@
 {
     "name": "S06343M_RTEN 'BREL BSTOD PA'I TSIG DON NYUNG NGUR BKROL BA ZAB DON LTA BA'I 'DREN BYED_The 'Guide for Seeing the Profound,' being a Brief Explication of the Meaning of 'The Praise of Dependent Origination'_DNGUL CHU DHARMA BHADRA (1772-1851) copy.TXT",
-    "path": "dbu ma_middle-way philosophy (madhyamika prasangika school)/rten 'brel_dependent origination/rten 'brel bstod pa_praise of dependent origination/'grel pa_commentaries",
-    "download_path": "/sungbum updated 4 26 23 bk/dbu ma_middle-way philosophy (madhyamika prasangika school)/rten 'brel_dependent origination/rten 'brel bstod pa_praise of dependent origination/'grel pa_commentaries/s06343m_rten 'brel bstod pa'i tsig don nyung ngur bkrol ba zab don lta ba'i 'dren byed_the 'guide for seeing the profound,' being a brief explication of the meaning of 'the praise of dependent origination'_dngul chu dharma bhadra (1772-1851) copy.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAADxg",
-    "revision_id": "613f663ffc8b98d294473",
+    "path": "DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/RTEN 'BREL_DEPENDENT ORIGINATION/RTEN 'BREL BSTOD PA_PRAISE OF DEPENDENT ORIGINATION/'GREL PA_COMMENTARIES",
+    "download_path": "/sungbum updated 7 30 23 nl/dbu ma_middle-way philosophy (madhyamika prasangika school)/rten 'brel_dependent origination/rten 'brel bstod pa_praise of dependent origination/'grel pa_commentaries/s06343m_rten 'brel bstod pa'i tsig don nyung ngur bkrol ba zab don lta ba'i 'dren byed_the 'guide for seeing the profound,' being a brief explication of the meaning of 'the praise of dependent origination'_dngul chu dharma bhadra (1772-1851) copy.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABRNQ",
+    "revision_id": "625a47de6a2b28d294473",
     "content_hash": "02f357e9fb36787e49172f415697bcdd357f46d36300e874cd06f90430c51e7c",
-    "server_modified": "2024-03-18T21:53:40",
-    "last_sync": "2024-09-09T19:05:03.697404",
+    "server_modified": "2024-10-29 21:44:37",
+    "last_sync": "2024-11-19 20:51:30.035309",
     "size": 29667,
     "meta_text": null,
     "cat_ref": "S06343M",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "166837222848",
-            "subject_path": "SUNGBUM_SUNGBUM/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/RTEN 'BREL_DEPENDENT ORIGINATION/RTEN 'BREL BSTOD PA_PRAISE OF DEPENDENT ORIGINATION/'GREL PA_COMMENTARIES",
-            "subject_path_tibetan": "SUNGBUM/DBU MA/RTEN 'BREL/RTEN 'BREL BSTOD PA/'GREL PA",
-            "subject_path_english": "SUNGBUM/MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/DEPENDENT ORIGINATION/PRAISE OF DEPENDENT ORIGINATION/COMMENTARIES",
+            "_id": "363200517931",
+            "subject_path": "GSUNG 'BUM_Sungbum/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/RTEN 'BREL_DEPENDENT ORIGINATION/RTEN 'BREL BSTOD PA_PRAISE OF DEPENDENT ORIGINATION/'GREL PA_COMMENTARIES",
+            "subject_path_tibetan": "GSUNG 'BUM/DBU MA/RTEN 'BREL/RTEN 'BREL BSTOD PA/'GREL PA",
+            "subject_path_english": "Sungbum/MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/DEPENDENT ORIGINATION/PRAISE OF DEPENDENT ORIGINATION/COMMENTARIES",
             "subject_tibetan": "'GREL PA",
             "subject_english": "COMMENTARIES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "dbu ma_middle-way philosophy (madhyamika prasangika school)/rten 'brel_dependent origination/rten 'brel bstod pa_praise of dependent origination/'grel pa_commentaries",
-            "timestamp": "2024-09-10T02:05:03.717817+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/RTEN 'BREL_DEPENDENT ORIGINATION/RTEN 'BREL BSTOD PA_PRAISE OF DEPENDENT ORIGINATION/'GREL PA_COMMENTARIES",
+            "timestamp": "2024-11-20 04:51:30.044577+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:51:30.044577+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,28 +1,28 @@
 {
     "name": "S00222E_'JAM MGON RGYAL BA'I BSTAN SRUNG RGYAL CHEN RDO RJE SHUGS LDAN RTZAL GYI SKU GSUNG THUG YON TAN 'PHRIN LAS KYI RTEN DANG, PHYI NANG GSANG PA'I RTEN BCA' BA'I LAG LEN GYI RIM PA GSAL BAR BKOD PA DNGOS GRUB GTER BRGYA DBYE BA'I GSER GYI LDE MI+.TXT",
-    "path": "rgyud_secret teachings (tantra)/rdo rje shugs ldan_diamond angel of power (vajravega)/mchod pa_offering",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/rdo rje shugs ldan_diamond angel of power (vajravega)/mchod pa_offering/s00222e_'jam mgon rgyal ba'i bstan srung rgyal chen rdo rje shugs ldan rtzal gyi sku gsung thug yon tan 'phrin las kyi rten dang, phyi nang gsang pa'i rten bca' ba'i lag len gyi rim pa gsal bar bkod pa dngos grub gter brgya dbye ba'i gser gyi lde mi+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAH9A",
-    "revision_id": "613f664dc42108d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE SHUGS LDAN_DIAMOND ANGEL OF POWER (VAJRAVEGA)/MCHOD PA_OFFERING",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/rdo rje shugs ldan_diamond angel of power (vajravega)/mchod pa_offering/s00222e_'jam mgon rgyal ba'i bstan srung rgyal chen rdo rje shugs ldan rtzal gyi sku gsung thug yon tan 'phrin las kyi rten dang, phyi nang gsang pa'i rten bca' ba'i lag len gyi rim pa gsal bar bkod pa dngos grub gter brgya dbye ba'i gser gyi lde mi+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABeNQ",
+    "revision_id": "625a49b789ff78d294473",
     "content_hash": "05099d33e11d0f308b07c0314ea0e53400f54931ddce828cbe0116dd60c01eae",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:08:58.137167",
+    "server_modified": "2024-10-29 21:52:53",
+    "last_sync": "2024-11-19 21:12:06.138893",
     "size": 23810,
-    "meta_text": "G_’A Golden Key for Opening a Million Treasure Chests Filled with Attainments,’ being a Presentation on the Preparation of Various Altars Dedicated to the Dharma\nProtector ‘Diamond Angel of Power’ (Vajravega)",
+    "meta_text": "('G_’A Golden Key for Opening a Million Treasure Chests Filled with Attainments,’ being a Presentation on the Preparation of Various Altars Dedicated to the Dharma\\nProtector ‘Diamond Angel of Power’ (Vajravega)', 'rtf')",
     "cat_ref": "S00222E",
     "work_ref": "W.S00222E",
     "title_tib": "'JAM MGON RGYAL BA'I BSTAN SRUNG RGYAL CHEN RDO RJE SHUGS LDAN RTZAL GYI SKU GSUNG THUG YON TAN 'PHRIN LAS KYI RTEN DANG, PHYI NANG GSANG PA'I RTEN BCA' BA'I LAG LEN GYI RIM PA GSAL BAR BKOD PA DNGOS GRUB GTER BRGYA DBYE BA'I GSER GYI LDE MI",
-    "title_eng": "’A Golden Key for Opening a Million Treasure Chests Filled with Attainments,’ being a Presentation on the Preparation of Various Altars Dedicated to the Dharma\nProtector ‘Diamond Angel of Power’ (Vajravega)",
+    "title_eng": "’A Golden Key for Opening a Million Treasure Chests Filled with Attainments,’ being a Presentation on the Preparation of Various Altars Dedicated to the Dharma\\nProtector ‘Diamond Angel of Power’ (Vajravega)', 'rtf')",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "",
     "subject": [
         {
-            "_id": "196794014330",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE SHUGS LDAN_DIAMOND ANGEL OF POWER (VAJRAVEGA)/MCHOD PA_OFFERING",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/RDO RJE SHUGS LDAN/MCHOD PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/DIAMOND ANGEL OF POWER (VAJRAVEGA)/OFFERING",
+            "_id": "174097040991",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE SHUGS LDAN_DIAMOND ANGEL OF POWER (VAJRAVEGA)/MCHOD PA_OFFERING",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/RDO RJE SHUGS LDAN/MCHOD PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/DIAMOND ANGEL OF POWER (VAJRAVEGA)/OFFERING",
             "subject_tibetan": "MCHOD PA",
             "subject_english": "OFFERING"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/rdo rje shugs ldan_diamond angel of power (vajravega)/mchod pa_offering",
-            "timestamp": "2024-09-10T02:08:58.162947+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE SHUGS LDAN_DIAMOND ANGEL OF POWER (VAJRAVEGA)/MCHOD PA_OFFERING",
+            "timestamp": "2024-11-20 05:12:06.736303+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:12:06.736303+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

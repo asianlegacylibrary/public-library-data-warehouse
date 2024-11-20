@@ -1,12 +1,12 @@
 {
     "name": "S05368E_RDO RJE DBYINGS KYI SA CHOG GI ZIN BRIS RJE NYID KYIS GNANG BA_Notes, Granted by Je Tsongkapa, on a Ritual for Blessing a Site in the Secret Teachings of the Diamond Realm (Vajradhatu)_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419).TXT",
-    "path": "rgyud_secret teachings (tantra)/rdo rje dbyings_diamdnd realm (vajradhatu)/sa chog_ritual for consecrating land",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/rdo rje dbyings_diamdnd realm (vajradhatu)/sa chog_ritual for consecrating land/s05368e_rdo rje dbyings kyi sa chog gi zin bris rje nyid kyis gnang ba_notes, granted by je tsongkapa, on a ritual for blessing a site in the secret teachings of the diamond realm (vajradhatu)_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAH3Q",
-    "revision_id": "613f664dc41f98d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE DBYINGS_DIAMDND REALM (VAJRADHATU)/SA CHOG_RITUAL FOR CONSECRATING LAND",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/rdo rje dbyings_diamdnd realm (vajradhatu)/sa chog_ritual for consecrating land/s05368e_rdo rje dbyings kyi sa chog gi zin bris rje nyid kyis gnang ba_notes, granted by je tsongkapa, on a ritual for blessing a site in the secret teachings of the diamond realm (vajradhatu)_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABWSw",
+    "revision_id": "625a489e4acc88d294473",
     "content_hash": "e74836755ce0c8d56c1d33d282f00ca2eb8ee83edebe4a720b214dbf1c824efb",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:08:50.876709",
+    "server_modified": "2024-10-29 21:47:58",
+    "last_sync": "2024-11-19 20:58:54.821744",
     "size": 6622,
     "meta_text": null,
     "cat_ref": "S05368E",
@@ -19,10 +19,10 @@
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "253298881614",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE DBYINGS_DIAMDND REALM (VAJRADHATU)/SA CHOG_RITUAL FOR CONSECRATING LAND",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/RDO RJE DBYINGS/SA CHOG",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/DIAMDND REALM (VAJRADHATU)/RITUAL FOR CONSECRATING LAND",
+            "_id": "120118822555",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE DBYINGS_DIAMDND REALM (VAJRADHATU)/SA CHOG_RITUAL FOR CONSECRATING LAND",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/RDO RJE DBYINGS/SA CHOG",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/DIAMDND REALM (VAJRADHATU)/RITUAL FOR CONSECRATING LAND",
             "subject_tibetan": "SA CHOG",
             "subject_english": "RITUAL FOR CONSECRATING LAND"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/rdo rje dbyings_diamdnd realm (vajradhatu)/sa chog_ritual for consecrating land",
-            "timestamp": "2024-09-10T02:08:50.896373+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE DBYINGS_DIAMDND REALM (VAJRADHATU)/SA CHOG_RITUAL FOR CONSECRATING LAND",
+            "timestamp": "2024-11-20 04:58:54.826381+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:58:54.826381+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

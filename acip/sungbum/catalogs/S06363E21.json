@@ -1,28 +1,28 @@
 {
     "name": "S06363E21_DPAL GSANG BA 'DUS PA YAB YUM LHAN SKYES KYI MNGON RTOGS SKU GSUM LAM 'KHYER GYI GNAD TSANG BAR NYAMS SU LEN TSUL_A Practice of Realization for the Combined Father and Mother of the Secret Collection (Guhyasamaja), which includes in it Com+.TXT",
-    "path": "rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/mngon rtogs_rituals of realization (abhisamaya)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/mngon rtogs_rituals of realization (abhisamaya)/s06363e21_dpal gsang ba 'dus pa yab yum lhan skyes kyi mngon rtogs sku gsum lam 'khyer gyi gnad tsang bar nyams su len tsul_a practice of realization for the combined father and mother of the secret collection (guhyasamaja), which includes in it com+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAQ-g",
-    "revision_id": "613f665fcd67f8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/MNGON RTOGS_RITUALS OF REALIZATION (ABHISAMAYA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/mngon rtogs_rituals of realization (abhisamaya)/s06363e21_dpal gsang ba 'dus pa yab yum lhan skyes kyi mngon rtogs sku gsum lam 'khyer gyi gnad tsang bar nyams su len tsul_a practice of realization for the combined father and mother of the secret collection (guhyasamaja), which includes in it com+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABbCw",
+    "revision_id": "625a4942affea8d294473",
     "content_hash": "804234b4ca9c2245a62f34a248fcffec4d2738ccb6c007db9f85cff54df0347b",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:18:32.359410",
+    "server_modified": "2024-10-29 21:50:50",
+    "last_sync": "2024-11-19 21:06:40.708054",
     "size": 6266,
-    "meta_text": "plete all the Essential Points of the Transformation to the Path of the Three Bodies_DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "meta_text": "('plete all the Essential Points of the Transformation to the Path of the Three Bodies_DNGUL CHU DHARMA BHADRA (1772-1851)', 'rtf')",
     "cat_ref": "S06363E21",
     "work_ref": "W.S06363E21",
     "title_tib": "DPAL GSANG BA 'DUS PA YAB YUM LHAN SKYES KYI MNGON RTOGS SKU GSUM LAM 'KHYER GYI GNAD TSANG BAR NYAMS SU LEN TSUL",
-    "title_eng": "A Practice of Realization for the Combined Father and Mother of the Secret Collection (Guhyasamaja), which includes in it Complete all the Essential Points of the Transformation to the Path of the Three Bodies",
+    "title_eng": "A Practice of Realization for the Combined Father and Mother of the Secret Collection (Guhyasamaja), which includes in it Com('plete all the Essential Points of the Transformation to the Path of the Three Bodies",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "127026816980",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/MNGON RTOGS_RITUALS OF REALIZATION (ABHISAMAYA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/GSANG 'DUS/MNGON RTOGS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/SECRET COLLECTION (GUHYASAMAJA)/RITUALS OF REALIZATION (ABHISAMAYA)",
+            "_id": "256778629635",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/MNGON RTOGS_RITUALS OF REALIZATION (ABHISAMAYA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/GSANG 'DUS/MNGON RTOGS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/SECRET COLLECTION (GUHYASAMAJA)/RITUALS OF REALIZATION (ABHISAMAYA)",
             "subject_tibetan": "MNGON RTOGS",
             "subject_english": "RITUALS OF REALIZATION (ABHISAMAYA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/mngon rtogs_rituals of realization (abhisamaya)",
-            "timestamp": "2024-09-10T02:18:32.360847+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/MNGON RTOGS_RITUALS OF REALIZATION (ABHISAMAYA)",
+            "timestamp": "2024-11-20 05:06:40.712528+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:06:40.712528+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

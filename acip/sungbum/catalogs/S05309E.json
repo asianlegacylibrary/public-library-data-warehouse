@@ -1,12 +1,12 @@
 {
     "name": "S05309E_ZHAL SHES GNAD KYI THIM YIG_A Book on the Stages of Dissolution, Crucial Points Taught Only by Word of Mouth_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419).TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/rim gnyis_two stages",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/rim gnyis_two stages/s05309e_zhal shes gnad kyi thim yig_a book on the stages of dissolution, crucial points taught only by word of mouth_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAANzA",
-    "revision_id": "613f665b60fe58d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/RIM GNYIS_TWO STAGES",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyi_general treatments/rim gnyis_two stages/s05309e_zhal shes gnad kyi thim yig_a book on the stages of dissolution, crucial points taught only by word of mouth_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABagA",
+    "revision_id": "625a492e12a4d8d294473",
     "content_hash": "f7d837d22babe9f733bbf3558e6ec88849eaac47efd4b4c5057d4e0ab886490f",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:15:10.405687",
+    "server_modified": "2024-10-29 21:50:29",
+    "last_sync": "2024-11-19 21:05:33.694538",
     "size": 67029,
     "meta_text": null,
     "cat_ref": "S05309E",
@@ -19,10 +19,10 @@
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "284539238199",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/RIM GNYIS_TWO STAGES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/RIM GNYIS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/TWO STAGES",
+            "_id": "152245062991",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/RIM GNYIS_TWO STAGES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/RIM GNYIS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/TWO STAGES",
             "subject_tibetan": "RIM GNYIS",
             "subject_english": "TWO STAGES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/rim gnyis_two stages",
-            "timestamp": "2024-09-10T02:15:10.412017+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/RIM GNYIS_TWO STAGES",
+            "timestamp": "2024-11-20 05:05:36.191429+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:05:36.191429+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

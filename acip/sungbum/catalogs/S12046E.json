@@ -1,28 +1,28 @@
 {
     "name": "S12046E_RJE BTZUN BYAMS PA MGON PO GLING BSKOR LA SPYAN DRANGS NAS MCHOD CING SMON LAM GDAB PA'I RIM PA_Steps for Making Offerings and Prayers to the Holy Lord, our Protector, Loving One (Maitreya), on the Occasion of Taking His Image in a Sacred Pr+.TXT",
-    "path": "cho ga_rituals/mgon po gling bskor_rituals for the protector lingkor",
-    "download_path": "/sungbum updated 4 26 23 bk/cho ga_rituals/mgon po gling bskor_rituals for the protector lingkor/s12046e_rje btzun byams pa mgon po gling bskor la spyan drangs nas mchod cing smon lam gdab pa'i rim pa_steps for making offerings and prayers to the holy lord, our protector, loving one (maitreya), on the occasion of taking his image in a sacred pr+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAEfw",
-    "revision_id": "613f6644849a38d294473",
+    "path": "CHO GA_RITUALS/MGON PO GLING BSKOR_RITUALS FOR THE PROTECTOR LINGKOR",
+    "download_path": "/sungbum updated 7 30 23 nl/cho ga_rituals/mgon po gling bskor_rituals for the protector lingkor/s12046e_rje btzun byams pa mgon po gling bskor la spyan drangs nas mchod cing smon lam gdab pa'i rim pa_steps for making offerings and prayers to the holy lord, our protector, loving one (maitreya), on the occasion of taking his image in a sacred pr+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABl-g",
+    "revision_id": "625a4afe881bc8d294473",
     "content_hash": "90f954fd3993c3b7cf640ee164d038a63e1812bd3f52aaa8344ab929f4d44eed",
-    "server_modified": "2024-03-18T21:53:45",
-    "last_sync": "2024-09-09T19:05:44.760839",
+    "server_modified": "2024-10-29 21:58:36",
+    "last_sync": "2024-11-19 21:26:21.823464",
     "size": 30633,
-    "meta_text": "ocession_CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS (1740-1810)",
+    "meta_text": "('ocession_CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS (1740-1810)', 'rtf')",
     "cat_ref": "S12046E",
     "work_ref": "W.S12046E",
     "title_tib": "RJE BTZUN BYAMS PA MGON PO GLING BSKOR LA SPYAN DRANGS NAS MCHOD CING SMON LAM GDAB PA'I RIM PA",
-    "title_eng": "Steps for Making Offerings and Prayers to the Holy Lord, our Protector, Loving One (Maitreya), on the Occasion of Taking His Image in a Sacred Procession",
+    "title_eng": "Steps for Making Offerings and Prayers to the Holy Lord, our Protector, Loving One (Maitreya), on the Occasion of Taking His Image in a Sacred Pr('ocession",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS",
     "subject": [
         {
-            "_id": "303787199164",
-            "subject_path": "SUNGBUM_SUNGBUM/CHO GA_RITUALS/MGON PO GLING BSKOR_RITUALS FOR THE PROTECTOR LINGKOR",
-            "subject_path_tibetan": "SUNGBUM/CHO GA/MGON PO GLING BSKOR",
-            "subject_path_english": "SUNGBUM/RITUALS/RITUALS FOR THE PROTECTOR LINGKOR",
+            "_id": "102381699515",
+            "subject_path": "GSUNG 'BUM_Sungbum/CHO GA_RITUALS/MGON PO GLING BSKOR_RITUALS FOR THE PROTECTOR LINGKOR",
+            "subject_path_tibetan": "GSUNG 'BUM/CHO GA/MGON PO GLING BSKOR",
+            "subject_path_english": "Sungbum/RITUALS/RITUALS FOR THE PROTECTOR LINGKOR",
             "subject_tibetan": "MGON PO GLING BSKOR",
             "subject_english": "RITUALS FOR THE PROTECTOR LINGKOR"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P4797"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "cho ga_rituals/mgon po gling bskor_rituals for the protector lingkor",
-            "timestamp": "2024-09-10T02:05:44.767782+00:00"
+            "path": "GSUNG 'BUM_Sungbum/CHO GA_RITUALS/MGON PO GLING BSKOR_RITUALS FOR THE PROTECTOR LINGKOR",
+            "timestamp": "2024-11-20 05:26:21.827951+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:26:21.827951+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

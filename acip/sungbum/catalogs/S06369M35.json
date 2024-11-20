@@ -1,28 +1,28 @@
 {
     "name": "S06369M35_ RANG GI RTZA BA'I BLA MA DANG BU STON THAMS CAD MKHYEN PA DBYER MED KYI BLA MA'I RNAL 'BYOR NYAMS SU LEN TSUL_Method for a Lama Practice in which One Meditates upon One's own Root Lama as being Indivisible from the Omniscient Butun Rinpoc+.TXT",
-    "path": "nyams len_personal practice/bla ma'i rnal 'byor_practices for honoring ones lama/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/bla ma'i rnal 'byor_practices for honoring ones lama/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)/s06369m35_ rang gi rtza ba'i bla ma dang bu ston thams cad mkhyen pa dbyer med kyi bla ma'i rnal 'byor nyams su len tsul_method for a lama practice in which one meditates upon one's own root lama as being indivisible from the omniscient butun rinpoc+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAACkQ",
-    "revision_id": "613f663ffc7848d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/BLA MA'I RNAL 'BYOR_PRACTICES FOR HONORING ONES LAMA/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/bla ma'i rnal 'byor_practices for honoring ones lama/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)/s06369m35_ rang gi rtza ba'i bla ma dang bu ston thams cad mkhyen pa dbyer med kyi bla ma'i rnal 'byor nyams su len tsul_method for a lama practice in which one meditates upon one's own root lama as being indivisible from the omniscient butun rinpoc+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABjww",
+    "revision_id": "625a4ab9276598d294473",
     "content_hash": "f84b52e216198d95041f846339f52427552ffb2979703d4ebc0252b71c9608ee",
-    "server_modified": "2024-03-18T21:53:40",
-    "last_sync": "2024-09-09T19:03:46.501384",
+    "server_modified": "2024-10-29 21:57:23",
+    "last_sync": "2024-11-19 21:21:58.919951",
     "size": 3801,
-    "meta_text": "he_DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "meta_text": "('he_DNGUL CHU DHARMA BHADRA (1772-1851)', 'rtf')",
     "cat_ref": "S06369M35",
     "work_ref": "W.S06369M35",
     "title_tib": "RANG GI RTZA BA'I BLA MA DANG BU STON THAMS CAD MKHYEN PA DBYER MED KYI BLA MA'I RNAL 'BYOR NYAMS SU LEN TSUL",
-    "title_eng": "Method for a Lama Practice in which One Meditates upon One's own Root Lama as being Indivisible from the Omniscient Butun Rinpoche",
+    "title_eng": "Method for a Lama Practice in which One Meditates upon One's own Root Lama as being Indivisible from the Omniscient Butun Rinpoc('he",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "231832730842",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/BLA MA'I RNAL 'BYOR_PRACTICES FOR HONORING ONES LAMA/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/BLA MA'I RNAL 'BYOR/DNGUL CHU DHARMA BHADRA",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/PRACTICES FOR HONORING ONES LAMA/NGULCHU DHARMA BHADRA (1772-1851)",
+            "_id": "240339513018",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BLA MA'I RNAL 'BYOR_PRACTICES FOR HONORING ONES LAMA/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/BLA MA'I RNAL 'BYOR/DNGUL CHU DHARMA BHADRA",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/PRACTICES FOR HONORING ONES LAMA/NGULCHU DHARMA BHADRA (1772-1851)",
             "subject_tibetan": "DNGUL CHU DHARMA BHADRA",
             "subject_english": "NGULCHU DHARMA BHADRA (1772-1851)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/bla ma'i rnal 'byor_practices for honoring ones lama/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)",
-            "timestamp": "2024-09-10T02:03:46.526348+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BLA MA'I RNAL 'BYOR_PRACTICES FOR HONORING ONES LAMA/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
+            "timestamp": "2024-11-20 05:21:58.928952+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:21:58.928952+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

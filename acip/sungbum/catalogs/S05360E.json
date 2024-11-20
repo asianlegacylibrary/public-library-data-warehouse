@@ -1,12 +1,12 @@
 {
     "name": "S05360E_BCOM LDAN 'DAS 'KHOR LO CHEN PO'I MNGON RTOGS_A Practice for Realization of the Conqueror, the Great Wheel_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419).TXT",
-    "path": "rgyud_secret teachings (tantra)/'khor lo chen po_great wheel (mahachakra)/mngon rtogs_rituals of realization (abhisamaya)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/'khor lo chen po_great wheel (mahachakra)/mngon rtogs_rituals of realization (abhisamaya)/s05360e_bcom ldan 'das 'khor lo chen po'i mngon rtogs_a practice for realization of the conqueror, the great wheel_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAHlw",
-    "revision_id": "613f66492f2018d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/'KHOR LO CHEN PO_GREAT WHEEL (MAHACHAKRA)/MNGON RTOGS_RITUALS OF REALIZATION (ABHISAMAYA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/'khor lo chen po_great wheel (mahachakra)/mngon rtogs_rituals of realization (abhisamaya)/s05360e_bcom ldan 'das 'khor lo chen po'i mngon rtogs_a practice for realization of the conqueror, the great wheel_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABX4A",
+    "revision_id": "625a48ced0c998d294473",
     "content_hash": "1b181afc4858efa3253b9011eb280e5832a8b729be933c0ddd5ffdebf48d4802",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:08:38.769322",
+    "server_modified": "2024-10-29 21:48:49",
+    "last_sync": "2024-11-19 21:01:39.315225",
     "size": 27014,
     "meta_text": null,
     "cat_ref": "S05360E",
@@ -19,10 +19,10 @@
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "226781897831",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/'KHOR LO CHEN PO_GREAT WHEEL (MAHACHAKRA)/MNGON RTOGS_RITUALS OF REALIZATION (ABHISAMAYA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/'KHOR LO CHEN PO/MNGON RTOGS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GREAT WHEEL (MAHACHAKRA)/RITUALS OF REALIZATION (ABHISAMAYA)",
+            "_id": "524595438353",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'KHOR LO CHEN PO_GREAT WHEEL (MAHACHAKRA)/MNGON RTOGS_RITUALS OF REALIZATION (ABHISAMAYA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/'KHOR LO CHEN PO/MNGON RTOGS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GREAT WHEEL (MAHACHAKRA)/RITUALS OF REALIZATION (ABHISAMAYA)",
             "subject_tibetan": "MNGON RTOGS",
             "subject_english": "RITUALS OF REALIZATION (ABHISAMAYA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/'khor lo chen po_great wheel (mahachakra)/mngon rtogs_rituals of realization (abhisamaya)",
-            "timestamp": "2024-09-10T02:08:38.776166+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'KHOR LO CHEN PO_GREAT WHEEL (MAHACHAKRA)/MNGON RTOGS_RITUALS OF REALIZATION (ABHISAMAYA)",
+            "timestamp": "2024-11-20 05:01:39.319142+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:01:39.319142+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

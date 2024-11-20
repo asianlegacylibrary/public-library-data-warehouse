@@ -1,12 +1,12 @@
 {
     "name": "S05523E_LEGS PAR GSUNGS PA'I DAM PA'I CHOS 'DUL BA MTHA' DAG GI SNYING PO'I DON LEGS PAR BSHAD PA RIN PO CHE'I PHRENG BA_A String of Jewels of Fine Explanation--The Essential Meaning of the Entirety of that Finely-Spoken and Highest Dharma, the Works+.txt",
-    "path": "'dul ba_vowed morality (vinaya)/spyi_general presentations/rgyal ba dge 'dun grub (1391-1474)",
-    "download_path": "/sungbum updated 4 26 23 bk/'dul ba_vowed morality (vinaya)/spyi_general presentations/rgyal ba dge 'dun grub (1391-1474)/s05523e_legs par gsungs pa'i dam pa'i chos 'dul ba mtha' dag gi snying po'i don legs par bshad pa rin po che'i phreng ba_a string of jewels of fine explanation--the essential meaning of the entirety of that finely-spoken and highest dharma, the works+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAADAQ",
-    "revision_id": "613f663ffc7f48d294473",
+    "path": "'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/RGYAL BA DGE 'DUN GRUB (1391-1474)",
+    "download_path": "/sungbum updated 7 30 23 nl/'dul ba_vowed morality (vinaya)/spyi_general presentations/rgyal ba dge 'dun grub (1391-1474)/s05523e_legs par gsungs pa'i dam pa'i chos 'dul ba mtha' dag gi snying po'i don legs par bshad pa rin po che'i phreng ba_a string of jewels of fine explanation--the essential meaning of the entirety of that finely-spoken and highest dharma, the works+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABe5Q",
+    "revision_id": "625a49d2c97298d294473",
     "content_hash": "209874e2ba18192f9c42c8680c8c3e040763eac2233b3c05a3a6b2658db01aa0",
-    "server_modified": "2024-03-18T21:53:40",
-    "last_sync": "2024-09-09T19:04:19.998028",
+    "server_modified": "2024-10-29 21:53:22",
+    "last_sync": "2024-11-19 21:13:22.951815",
     "size": 744237,
     "meta_text": null,
     "cat_ref": "S05523E",
@@ -19,10 +19,10 @@
     "author_simple": "",
     "subject": [
         {
-            "_id": "199347958007",
-            "subject_path": "SUNGBUM_SUNGBUM/'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/RGYAL BA DGE 'DUN GRUB (1391-1474)",
-            "subject_path_tibetan": "SUNGBUM/'DUL BA/SPYI/RGYAL BA DGE 'DUN GRUB (1391-1474)",
-            "subject_path_english": "SUNGBUM/VOWED MORALITY (VINAYA)/GENERAL PRESENTATIONS",
+            "_id": "225391587786",
+            "subject_path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/RGYAL BA DGE 'DUN GRUB (1391-1474)",
+            "subject_path_tibetan": "GSUNG 'BUM/'DUL BA/SPYI/RGYAL BA DGE 'DUN GRUB (1391-1474)",
+            "subject_path_english": "Sungbum/VOWED MORALITY (VINAYA)/GENERAL PRESENTATIONS",
             "subject_tibetan": "RGYAL BA DGE 'DUN GRUB (1391-1474)",
             "subject_english": "GENERAL PRESENTATIONS"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "'dul ba_vowed morality (vinaya)/spyi_general presentations/rgyal ba dge 'dun grub (1391-1474)",
-            "timestamp": "2024-09-10T02:04:20.013478+00:00"
+            "path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/RGYAL BA DGE 'DUN GRUB (1391-1474)",
+            "timestamp": "2024-11-20 05:13:24.419894+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:13:24.419894+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

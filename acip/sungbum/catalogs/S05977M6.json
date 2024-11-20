@@ -1,12 +1,12 @@
 {
     "name": "S05977M6_SEMS DPA' CHEN PO LA BSTOD PA BRTAN BZHUGS DANG BCAS PA_A Praise of the Great Bodhisattva, together with a Prayer for His Long Life_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662).TXT",
-    "path": "nyams len_personal practice/zhabs brtan_prayers for the long life of a holy being/pan chen blo bzang chos kyi rgyal mtsan_panchen lobsang chukyi gyeltsen (1565-1662)",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/zhabs brtan_prayers for the long life of a holy being/pan chen blo bzang chos kyi rgyal mtsan_panchen lobsang chukyi gyeltsen (1565-1662)/s05977m6_sems dpa' chen po la bstod pa brtan bzhugs dang bcas pa_a praise of the great bodhisattva, together with a prayer for his long life_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAC3g",
-    "revision_id": "613f663ffc7d18d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/ZHABS BRTAN_PRAYERS FOR THE LONG LIFE OF A HOLY BEING/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/zhabs brtan_prayers for the long life of a holy being/pan chen blo bzang chos kyi rgyal mtsan_panchen lobsang chukyi gyeltsen (1565-1662)/s05977m6_sems dpa' chen po la bstod pa brtan bzhugs dang bcas pa_a praise of the great bodhisattva, together with a prayer for his long life_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABkTg",
+    "revision_id": "625a4acc00d728d294473",
     "content_hash": "49a9fdb8f48f4773f887ca56a0f86d80272190113a85413e69c69263ed456993",
-    "server_modified": "2024-03-18T21:53:40",
-    "last_sync": "2024-09-09T19:04:11.630387",
+    "server_modified": "2024-10-29 21:57:43",
+    "last_sync": "2024-11-19 21:23:06.271666",
     "size": 884,
     "meta_text": null,
     "cat_ref": "S05977M6",
@@ -19,11 +19,11 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "313550036391",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/ZHABS BRTAN_PRAYERS FOR THE LONG LIFE OF A HOLY BEING/PAN CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/ZHABS BRTAN/PAN CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/PRAYERS FOR THE LONG LIFE OF A HOLY BEING/PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
-            "subject_tibetan": "PAN CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
+            "_id": "304123406389",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/ZHABS BRTAN_PRAYERS FOR THE LONG LIFE OF A HOLY BEING/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/ZHABS BRTAN/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/PRAYERS FOR THE LONG LIFE OF A HOLY BEING/PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+            "subject_tibetan": "PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
             "subject_english": "PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)"
         }
     ],
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/zhabs brtan_prayers for the long life of a holy being/pan chen blo bzang chos kyi rgyal mtsan_panchen lobsang chukyi gyeltsen (1565-1662)",
-            "timestamp": "2024-09-10T02:04:11.644020+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/ZHABS BRTAN_PRAYERS FOR THE LONG LIFE OF A HOLY BEING/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+            "timestamp": "2024-11-20 05:23:06.275070+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:23:06.275070+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

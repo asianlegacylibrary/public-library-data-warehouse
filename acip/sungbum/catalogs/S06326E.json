@@ -1,12 +1,12 @@
 {
     "name": "S06326E_RDOR SEMS KYI BSGOM BZLAS MDOR BSDUS BYA TSUL_Brief Presentation of the Practice of Meditation and Recitation in the Teachings of the Warrior of Diamond (Vajrasattva)_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/rdo rje sems dpa'_warrior of diamond (vajrasattva)/bsgom bzlas_meditation and recitation upon the angel",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/rdo rje sems dpa'_warrior of diamond (vajrasattva)/bsgom bzlas_meditation and recitation upon the angel/s06326e_rdor sems kyi bsgom bzlas mdor bsdus bya tsul_brief presentation of the practice of meditation and recitation in the teachings of the warrior of diamond (vajrasattva)_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAKRQ",
-    "revision_id": "613f66527885d8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE SEMS DPA'_WARRIOR OF DIAMOND (VAJRASATTVA)/BSGOM BZLAS_MEDITATION AND RECITATION UPON THE ANGEL",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/rdo rje sems dpa'_warrior of diamond (vajrasattva)/bsgom bzlas_meditation and recitation upon the angel/s06326e_rdor sems kyi bsgom bzlas mdor bsdus bya tsul_brief presentation of the practice of meditation and recitation in the teachings of the warrior of diamond (vajrasattva)_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABVMQ",
+    "revision_id": "625a487ff25a68d294473",
     "content_hash": "5a068cca894b239d7b19a9ae49fe0430ce324216fea32732327220c437efbba8",
-    "server_modified": "2024-03-18T21:54:00",
-    "last_sync": "2024-09-09T19:11:12.834601",
+    "server_modified": "2024-10-29 21:47:26",
+    "last_sync": "2024-11-19 20:56:59.983854",
     "size": 6885,
     "meta_text": null,
     "cat_ref": "S06326E",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "180471724517",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE SEMS DPA'_WARRIOR OF DIAMOND (VAJRASATTVA)/BSGOM BZLAS_MEDITATION AND RECITATION UPON THE ANGEL",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/RDO RJE SEMS DPA'/BSGOM BZLAS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/WARRIOR OF DIAMOND (VAJRASATTVA)/MEDITATION AND RECITATION UPON THE ANGEL",
+            "_id": "127560358859",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE SEMS DPA'_WARRIOR OF DIAMOND (VAJRASATTVA)/BSGOM BZLAS_MEDITATION AND RECITATION UPON THE ANGEL",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/RDO RJE SEMS DPA'/BSGOM BZLAS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/WARRIOR OF DIAMOND (VAJRASATTVA)/MEDITATION AND RECITATION UPON THE ANGEL",
             "subject_tibetan": "BSGOM BZLAS",
             "subject_english": "MEDITATION AND RECITATION UPON THE ANGEL"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/rdo rje sems dpa'_warrior of diamond (vajrasattva)/bsgom bzlas_meditation and recitation upon the angel",
-            "timestamp": "2024-09-10T02:11:12.841317+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE SEMS DPA'_WARRIOR OF DIAMOND (VAJRASATTVA)/BSGOM BZLAS_MEDITATION AND RECITATION UPON THE ANGEL",
+            "timestamp": "2024-11-20 04:56:59.987996+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:56:59.987996+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

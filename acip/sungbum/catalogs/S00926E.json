@@ -1,12 +1,12 @@
 {
     "name": "S00926E_ZAB MO LTA BA'I ZIN BRIS THAR LAM SNANG BA_Notes to a Teaching on the Profound View entitled 'Light for the Path to Freedom'_GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME (1762-1823).TXT",
-    "path": "lam rim_steps of the path/zab mo lta ba'i zin bris thar lam snang ba_notes to a teaching on the profound view entitled 'light for the path to freedom'",
-    "download_path": "/sungbum updated 4 26 23 bk/lam rim_steps of the path/zab mo lta ba'i zin bris thar lam snang ba_notes to a teaching on the profound view entitled 'light for the path to freedom'/s00926e_zab mo lta ba'i zin bris thar lam snang ba_notes to a teaching on the profound view entitled 'light for the path to freedom'_gung thang dkon mchog bstan pa'i sgron me (1762-1823).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAGRQ",
-    "revision_id": "613f66492f0af8d294473",
+    "path": "LAM RIM_STEPS OF THE PATH/ZAB MO LTA BA'I ZIN BRIS THAR LAM SNANG BA_NOTES TO A TEACHING ON THE PROFOUND VIEW ENTITLED 'LIGHT FOR THE PATH TO FREEDOM'",
+    "download_path": "/sungbum updated 7 30 23 nl/lam rim_steps of the path/zab mo lta ba'i zin bris thar lam snang ba_notes to a teaching on the profound view entitled 'light for the path to freedom'/s00926e_zab mo lta ba'i zin bris thar lam snang ba_notes to a teaching on the profound view entitled 'light for the path to freedom'_gung thang dkon mchog bstan pa'i sgron me (1762-1823).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABhGw",
+    "revision_id": "625a4a538397a8d294473",
     "content_hash": "3bc3050a2c2403d93c6a4140abcb55087278534d2848a4a3085a8af756ae1d4d",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:07:23.959602",
+    "server_modified": "2024-10-29 21:55:37",
+    "last_sync": "2024-11-19 21:17:19.711155",
     "size": 53870,
     "meta_text": null,
     "cat_ref": "S00926E",
@@ -19,10 +19,10 @@
     "author_simple": "GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME",
     "subject": [
         {
-            "_id": "173706408057",
-            "subject_path": "SUNGBUM_SUNGBUM/LAM RIM_STEPS OF THE PATH/ZAB MO LTA BA'I ZIN BRIS THAR LAM SNANG BA_NOTES TO A TEACHING ON THE PROFOUND VIEW ENTITLED 'LIGHT FOR THE PATH TO FREEDOM'",
-            "subject_path_tibetan": "SUNGBUM/LAM RIM/ZAB MO LTA BA'I ZIN BRIS THAR LAM SNANG BA",
-            "subject_path_english": "SUNGBUM/STEPS OF THE PATH/NOTES TO A TEACHING ON THE PROFOUND VIEW ENTITLED 'LIGHT FOR THE PATH TO FREEDOM'",
+            "_id": "174532620724",
+            "subject_path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/ZAB MO LTA BA'I ZIN BRIS THAR LAM SNANG BA_NOTES TO A TEACHING ON THE PROFOUND VIEW ENTITLED 'LIGHT FOR THE PATH TO FREEDOM'",
+            "subject_path_tibetan": "GSUNG 'BUM/LAM RIM/ZAB MO LTA BA'I ZIN BRIS THAR LAM SNANG BA",
+            "subject_path_english": "Sungbum/STEPS OF THE PATH/NOTES TO A TEACHING ON THE PROFOUND VIEW ENTITLED 'LIGHT FOR THE PATH TO FREEDOM'",
             "subject_tibetan": "ZAB MO LTA BA'I ZIN BRIS THAR LAM SNANG BA",
             "subject_english": "NOTES TO A TEACHING ON THE PROFOUND VIEW ENTITLED 'LIGHT FOR THE PATH TO FREEDOM'"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P298"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "lam rim_steps of the path/zab mo lta ba'i zin bris thar lam snang ba_notes to a teaching on the profound view entitled 'light for the path to freedom'",
-            "timestamp": "2024-09-10T02:07:23.966055+00:00"
+            "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/ZAB MO LTA BA'I ZIN BRIS THAR LAM SNANG BA_NOTES TO A TEACHING ON THE PROFOUND VIEW ENTITLED 'LIGHT FOR THE PATH TO FREEDOM'",
+            "timestamp": "2024-11-20 05:17:19.715494+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:17:19.715494+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

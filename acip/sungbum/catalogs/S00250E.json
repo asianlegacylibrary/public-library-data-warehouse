@@ -1,12 +1,12 @@
 {
     "name": "S00250E_THA 'OG CHOS RGYAL CHEN PO'I CHAD THO_Verses to be Recited in Conjunction with an Offering to the King of the Dharma, the Protector Named Taok_SKYABS RJE KHRI BYANG RIN PO CHE (1901-1981).TXT",
-    "path": "rgyud_secret teachings (tantra)/tha 'og_taok/gtor ma_offering cake (bali)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/tha 'og_taok/gtor ma_offering cake (bali)/s00250e_tha 'og chos rgyal chen po'i chad tho_verses to be recited in conjunction with an offering to the king of the dharma, the protector named taok_skyabs rje khri byang rin po che (1901-1981).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAJkg",
-    "revision_id": "613f664dc43ae8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/THA 'OG_TAOK/GTOR MA_OFFERING CAKE (BALI)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/tha 'og_taok/gtor ma_offering cake (bali)/s00250e_tha 'og chos rgyal chen po'i chad tho_verses to be recited in conjunction with an offering to the king of the dharma, the protector named taok_skyabs rje khri byang rin po che (1901-1981).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABXuA",
+    "revision_id": "625a48c7838368d294473",
     "content_hash": "a5c7f8e4fd30e9e1f2bcbdb580d1eaf0fde1abd07860b22b3d13c027505cc088",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:10:37.460035",
+    "server_modified": "2024-10-29 21:48:41",
+    "last_sync": "2024-11-19 21:01:24.140470",
     "size": 1197,
     "meta_text": null,
     "cat_ref": "S00250E",
@@ -19,10 +19,10 @@
     "author_simple": "SKYABS RJE KHRI BYANG RIN PO CHE",
     "subject": [
         {
-            "_id": "807173092596",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/THA 'OG_TAOK/GTOR MA_OFFERING CAKE (BALI)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/THA 'OG/GTOR MA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/TAOK/OFFERING CAKE (BALI)",
+            "_id": "153142231037",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/THA 'OG_TAOK/GTOR MA_OFFERING CAKE (BALI)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/THA 'OG/GTOR MA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/TAOK/OFFERING CAKE (BALI)",
             "subject_tibetan": "GTOR MA",
             "subject_english": "OFFERING CAKE (BALI)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P2596"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/tha 'og_taok/gtor ma_offering cake (bali)",
-            "timestamp": "2024-09-10T02:10:37.466897+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/THA 'OG_TAOK/GTOR MA_OFFERING CAKE (BALI)",
+            "timestamp": "2024-11-20 05:01:24.144705+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:01:24.144705+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

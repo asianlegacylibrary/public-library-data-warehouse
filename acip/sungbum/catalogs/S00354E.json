@@ -1,28 +1,28 @@
 {
     "name": "S00354E_RJE BTZUN RDO RJE RNAL 'BYOR MA N'A RO MKHA' SPYOD DBANG MO'I TSOGS MCHOD MDOR BSDUS ZAG MED DGYES RGU'I DGA' STON_'The Festival of a Thousand Immaculate Pleasures,' being a Brief Ritual for Performing a Tantric Feast in the Secret Teachings +.TXT",
-    "path": "rgyud_secret teachings (tantra)/rdo rje rnal 'byor ma_angel of diamond (vajrayogini)/tsogs_circle of gathering (ganachakra)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/rdo rje rnal 'byor ma_angel of diamond (vajrayogini)/tsogs_circle of gathering (ganachakra)/s00354e_rje btzun rdo rje rnal 'byor ma n'a ro mkha' spyod dbang mo'i tsogs mchod mdor bsdus zag med dgyes rgu'i dga' ston_'the festival of a thousand immaculate pleasures,' being a brief ritual for performing a tantric feast in the secret teachings +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAJWQ",
-    "revision_id": "613f664dc43758d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAL 'BYOR MA_ANGEL OF DIAMOND (VAJRAYOGINI)/TSOGS_CIRCLE OF GATHERING (GANACHAKRA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/rdo rje rnal 'byor ma_angel of diamond (vajrayogini)/tsogs_circle of gathering (ganachakra)/s00354e_rje btzun rdo rje rnal 'byor ma n'a ro mkha' spyod dbang mo'i tsogs mchod mdor bsdus zag med dgyes rgu'i dga' ston_'the festival of a thousand immaculate pleasures,' being a brief ritual for performing a tantric feast in the secret teachings +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABcBQ",
+    "revision_id": "625a49673a7698d294473",
     "content_hash": "50254d8f1f929eb7352641b61dd1c8f8312bb5c91d37a4f1fe3ee84b2ca661ee",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:10:24.910220",
+    "server_modified": "2024-10-29 21:51:29",
+    "last_sync": "2024-11-19 21:08:16.386413",
     "size": 5406,
-    "meta_text": "of the Queen of Naropa's Heaven of the Sky, the Holy Angel of Diamond (Vajra Yogini)_SKYABS RJE PHA BONG KHA PA BDE CHEN SNYING PO (1878-1941)",
+    "meta_text": "(\"of the Queen of Naropa's Heaven of the Sky, the Holy Angel of Diamond (Vajra Yogini)_SKYABS RJE PHA BONG KHA PA BDE CHEN SNYING PO (1878-1941)\", 'rtf')",
     "cat_ref": "S00354E",
     "work_ref": "W.S00354E",
     "title_tib": "RJE BTZUN RDO RJE RNAL 'BYOR MA N'A RO MKHA' SPYOD DBANG MO'I TSOGS MCHOD MDOR BSDUS ZAG MED DGYES RGU'I DGA' STON",
-    "title_eng": "'The Festival of a Thousand Immaculate Pleasures,' being a Brief Ritual for Performing a Tantric Feast in the Secret Teachingsof the Queen of Naropa's Heaven of the Sky, the Holy Angel of Diamond (Vajra Yogini)",
+    "title_eng": "'The Festival of a Thousand Immaculate Pleasures,' being a Brief Ritual for Performing a Tantric Feast in the Secret Teachings(\"of the Queen of Naropa's Heaven of the Sky, the Holy Angel of Diamond (Vajra Yogini)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "SKYABS RJE PHA BONG KHA PA BDE CHEN SNYING PO",
     "subject": [
         {
-            "_id": "195605499700",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAL 'BYOR MA_ANGEL OF DIAMOND (VAJRAYOGINI)/TSOGS_CIRCLE OF GATHERING (GANACHAKRA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/RDO RJE RNAL 'BYOR MA/TSOGS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/ANGEL OF DIAMOND (VAJRAYOGINI)/CIRCLE OF GATHERING (GANACHAKRA)",
+            "_id": "154325455823",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAL 'BYOR MA_ANGEL OF DIAMOND (VAJRAYOGINI)/TSOGS_CIRCLE OF GATHERING (GANACHAKRA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/RDO RJE RNAL 'BYOR MA/TSOGS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/ANGEL OF DIAMOND (VAJRAYOGINI)/CIRCLE OF GATHERING (GANACHAKRA)",
             "subject_tibetan": "TSOGS",
             "subject_english": "CIRCLE OF GATHERING (GANACHAKRA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P230"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/rdo rje rnal 'byor ma_angel of diamond (vajrayogini)/tsogs_circle of gathering (ganachakra)",
-            "timestamp": "2024-09-10T02:10:24.917657+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAL 'BYOR MA_ANGEL OF DIAMOND (VAJRAYOGINI)/TSOGS_CIRCLE OF GATHERING (GANACHAKRA)",
+            "timestamp": "2024-11-20 05:08:16.392232+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:08:16.392232+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

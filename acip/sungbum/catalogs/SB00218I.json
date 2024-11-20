@@ -1,14 +1,14 @@
 {
     "name": "SB00218I_BYANG CHUB LAM GYI SGRON MA'I 'GREL PA NYUNG NGU RNAM GSAL JO BO CHEN PO DGYES PA'I MCHOD SPRIN_'A Cloud of Offerings to Please Lord Atisha,' being a Brief Clarification in Commentary upon 'The Lamp on the Path to Enlightenment'_CO NE BLA +.TXT",
-    "path": "lam rim_steps of the path/lam sgron_light on the steps of the path (bodhipatha pradipa)/'grel pa_commentaries",
-    "download_path": "/sungbum updated 4 26 23 bk/lam rim_steps of the path/lam sgron_light on the steps of the path (bodhipatha pradipa)/'grel pa_commentaries/sb00218i_byang chub lam gyi sgron ma'i 'grel pa nyung ngu rnam gsal jo bo chen po dgyes pa'i mchod sprin_'a cloud of offerings to please lord atisha,' being a brief clarification in commentary upon 'the lamp on the path to enlightenment'_co ne bla +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAGPw",
-    "revision_id": "613f66492f0a98d294473",
+    "path": "LAM RIM_STEPS OF THE PATH/LAM SGRON_LIGHT ON THE STEPS OF THE PATH (BODHIPATHA PRADIPA)/'GREL PA_COMMENTARIES",
+    "download_path": "/sungbum updated 7 30 23 nl/lam rim_steps of the path/lam sgron_light on the steps of the path (bodhipatha pradipa)/'grel pa_commentaries/sb00218i_byang chub lam gyi sgron ma'i 'grel pa nyung ngu rnam gsal jo bo chen po dgyes pa'i mchod sprin_'a cloud of offerings to please lord atisha,' being a brief clarification in commentary upon 'the lamp on the path to enlightenment'_co ne bla +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABhFg",
+    "revision_id": "625a4a53839728d294473",
     "content_hash": "fdbdbff5aac14b90f7cbfd8fe3984ce24f21fa8fe33a9b7b849ef278106fdf14",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:07:23.283131",
+    "server_modified": "2024-10-29 21:55:37",
+    "last_sync": "2024-11-19 21:17:15.283128",
     "size": 58863,
-    "meta_text": "MA GRAGS PA BSHAD GRUB (1675-1748)",
+    "meta_text": "('MA GRAGS PA BSHAD GRUB (1675-1748)', 'rtf')",
     "cat_ref": "SB00218I",
     "work_ref": "W.SB00218I",
     "title_tib": "BYANG CHUB LAM GYI SGRON MA'I 'GREL PA NYUNG NGU RNAM GSAL JO BO CHEN PO DGYES PA'I MCHOD SPRIN",
@@ -19,10 +19,10 @@
     "author_simple": "CO NE BLA MA GRAGS PA BSHAD SGRUB",
     "subject": [
         {
-            "_id": "180796105058",
-            "subject_path": "SUNGBUM_SUNGBUM/LAM RIM_STEPS OF THE PATH/LAM SGRON_LIGHT ON THE STEPS OF THE PATH (BODHIPATHA PRADIPA)/'GREL PA_COMMENTARIES",
-            "subject_path_tibetan": "SUNGBUM/LAM RIM/LAM SGRON/'GREL PA",
-            "subject_path_english": "SUNGBUM/STEPS OF THE PATH/LIGHT ON THE STEPS OF THE PATH (BODHIPATHA PRADIPA)/COMMENTARIES",
+            "_id": "192253095736",
+            "subject_path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/LAM SGRON_LIGHT ON THE STEPS OF THE PATH (BODHIPATHA PRADIPA)/'GREL PA_COMMENTARIES",
+            "subject_path_tibetan": "GSUNG 'BUM/LAM RIM/LAM SGRON/'GREL PA",
+            "subject_path_english": "Sungbum/STEPS OF THE PATH/LIGHT ON THE STEPS OF THE PATH (BODHIPATHA PRADIPA)/COMMENTARIES",
             "subject_tibetan": "'GREL PA",
             "subject_english": "COMMENTARIES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P1629"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "lam rim_steps of the path/lam sgron_light on the steps of the path (bodhipatha pradipa)/'grel pa_commentaries",
-            "timestamp": "2024-09-10T02:07:23.306816+00:00"
+            "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/LAM SGRON_LIGHT ON THE STEPS OF THE PATH (BODHIPATHA PRADIPA)/'GREL PA_COMMENTARIES",
+            "timestamp": "2024-11-20 05:17:15.903559+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:17:15.903559+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

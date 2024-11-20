@@ -1,28 +1,28 @@
 {
     "name": "S05560E_RJE BTZUN THAMS CAD MKHYEN PA'I GSUNG 'BUM THOR BU LAS RAB TU GNAS PA'I CHO GA BKRA SHIS KYI SNYE MA_The Golden Harvest of Fortune--A Ritual of Consecration, from Assorted Writings found in the Collected Works of the Holy and Omniscient One_R+.txt",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/rab gnas_consecration (supratishtha)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/rab gnas_consecration (supratishtha)/s05560e_rje btzun thams cad mkhyen pa'i gsung 'bum thor bu las rab tu gnas pa'i cho ga bkra shis kyi snye ma_the golden harvest of fortune--a ritual of consecration, from assorted writings found in the collected works of the holy and omniscient one_r+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAN8Q",
-    "revision_id": "613f665b6100a8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/RAB GNAS_CONSECRATION (SUPRATISHTHA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyi_general treatments/rab gnas_consecration (supratishtha)/s05560e_rje btzun thams cad mkhyen pa'i gsung 'bum thor bu las rab tu gnas pa'i cho ga bkra shis kyi snye ma_the golden harvest of fortune--a ritual of consecration, from assorted writings found in the collected works of the holy and omniscient one_r+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABZ3g",
+    "revision_id": "625a4914ee3278d294473",
     "content_hash": "1e030ca5b3668f9da5846a17e2f9910890b811cfc2d61cfe8173df8bd3203d67",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:15:19.332443",
+    "server_modified": "2024-10-29 21:50:02",
+    "last_sync": "2024-11-19 21:04:42.892820",
     "size": 48961,
-    "meta_text": null,
+    "meta_text": "(\"GYAL BA DGE 'DUN RGYA MTSO (1476-1542)\", 'text')",
     "cat_ref": "S05560E",
     "work_ref": "W.S05560E",
     "title_tib": "RJE BTZUN THAMS CAD MKHYEN PA'I GSUNG 'BUM THOR BU LAS RAB TU GNAS PA'I CHO GA BKRA SHIS KYI SNYE MA",
-    "title_eng": "R",
+    "title_eng": "R(\"GYAL BA DGE 'DUN RGYA MTSO (1476-1542)\", 'text')",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "",
     "subject": [
         {
-            "_id": "219846535334",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/RAB GNAS_CONSECRATION (SUPRATISHTHA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/RAB GNAS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/CONSECRATION (SUPRATISHTHA)",
+            "_id": "129630635153",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/RAB GNAS_CONSECRATION (SUPRATISHTHA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/RAB GNAS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/CONSECRATION (SUPRATISHTHA)",
             "subject_tibetan": "RAB GNAS",
             "subject_english": "CONSECRATION (SUPRATISHTHA)"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/rab gnas_consecration (supratishtha)",
-            "timestamp": "2024-09-10T02:15:19.339769+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/RAB GNAS_CONSECRATION (SUPRATISHTHA)",
+            "timestamp": "2024-11-20 05:04:44.219238+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:04:44.219238+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

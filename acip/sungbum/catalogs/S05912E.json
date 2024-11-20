@@ -1,28 +1,28 @@
 {
-    "name": "S05912E_BCOM LDAN 'DAS DPAL DUS KYI 'KHOR LO'I ZAB LAM RDO RJE'I RNAL 'BYOR_The Profound Path, a Lama Practice, in the Secret Teachings of the Conqueror, the Glorious Wheel of Time (Kalachakra)_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662).TXT",
-    "path": "rgyud_secret teachings (tantra)/dus 'khor_wheel of time (kalachakra)/'grel pa_commentaries",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/dus 'khor_wheel of time (kalachakra)/'grel pa_commentaries/s05912e_bcom ldan 'das dpal dus kyi 'khor lo'i zab lam rdo rje'i rnal 'byor_the profound path, a lama practice, in the secret teachings of the conqueror, the glorious wheel of time (kalachakra)_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAIwA",
-    "revision_id": "613f664dc42dc8d294473",
+    "name": "S05912E_BCOM LDAN 'DAS DPAL DUS KYI 'KHOR LO'I ZAB LAM RDO RJE'I RNAL 'BYOR_The Profound Path, a Lama Practice, in the Secret Teachings of the Conqueror, the Glorious Wheel of Time (Kalachakra)_PAn CHEN BLO  (Philip Baker's conflicted copy 2022-12-10).TXT",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/'GREL PA_COMMENTARIES",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/dus 'khor_wheel of time (kalachakra)/'grel pa_commentaries/s05912e_bcom ldan 'das dpal dus kyi 'khor lo'i zab lam rdo rje'i rnal 'byor_the profound path, a lama practice, in the secret teachings of the conqueror, the glorious wheel of time (kalachakra)_pan chen blo  (philip baker's conflicted copy 2022-12-10).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABa2A",
+    "revision_id": "625a493c05aa48d294473",
     "content_hash": "e77a3ed7eccee4fa09caafe9502c690bbe4dfa7b147e6f7b92fdf3613801b08b",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:09:48.427677",
+    "server_modified": "2024-10-29 21:50:43",
+    "last_sync": "2024-11-19 21:06:03.287667",
     "size": 35905,
     "meta_text": null,
     "cat_ref": "S05912E",
     "work_ref": "W.S05912E",
     "title_tib": "BCOM LDAN 'DAS DPAL DUS KYI 'KHOR LO'I ZAB LAM RDO RJE'I RNAL 'BYOR",
-    "title_eng": "The Profound Path, a Lama Practice, in the Secret Teachings of the Conqueror, the Glorious Wheel of Time (Kalachakra)",
+    "title_eng": "PAn CHEN BLO  (Philip Baker's conflicted copy 2022-12-10)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
-    "author_simple": "PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "320233480126",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/'GREL PA_COMMENTARIES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/DUS 'KHOR/'GREL PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/WHEEL OF TIME (KALACHAKRA)/COMMENTARIES",
+            "_id": "224032789210",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/'GREL PA_COMMENTARIES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/DUS 'KHOR/'GREL PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/WHEEL OF TIME (KALACHAKRA)/COMMENTARIES",
             "subject_tibetan": "'GREL PA",
             "subject_english": "COMMENTARIES"
         }
@@ -30,20 +30,24 @@
     "items": [],
     "author": [
         {
-            "author_name": "PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
-            "author_birth": "1565",
-            "author_death": "1662"
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/dus 'khor_wheel of time (kalachakra)/'grel pa_commentaries",
-            "timestamp": "2024-09-10T02:09:48.510192+00:00"
-        },
-        {
-            "path": "rgyud_secret teachings (tantra)/dus 'khor_wheel of time (kalachakra)/'grel pa_commentaries",
-            "timestamp": "2024-09-10T02:09:48.511024+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/'GREL PA_COMMENTARIES",
+            "timestamp": "2024-11-20 05:06:08.038137+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:06:08.038137+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

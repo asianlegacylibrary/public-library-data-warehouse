@@ -1,12 +1,12 @@
 {
     "name": "S05977ID0_ZAB MO DBU MA'I LTA BA NYAMS SU LEN TSUL_Instructions for How to Practice the Profound View of the Middle Way_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662).TXT",
-    "path": "nyams len_personal practice/lta ba bsgom tsul_how to meditate on a correct view of reality",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/lta ba bsgom tsul_how to meditate on a correct view of reality/s05977id0_zab mo dbu ma'i lta ba nyams su len tsul_instructions for how to practice the profound view of the middle way_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAAag",
-    "revision_id": "613f663b87bb38d294473",
+    "path": "LAM RIM_STEPS OF THE PATH/LTA BA BSGOM TSUL_HOW TO MEDITATE UPON CORRECT VIEW",
+    "download_path": "/sungbum updated 7 30 23 nl/lam rim_steps of the path/lta ba bsgom tsul_how to meditate upon correct view/s05977id0_zab mo dbu ma'i lta ba nyams su len tsul_instructions for how to practice the profound view of the middle way_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABhxw",
+    "revision_id": "625a4a6aaab6f8d294473",
     "content_hash": "62425c6e7dab0d043a36544e2e963075d5fdc5addd92d5fe0571e9e0b310fb40",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:01:27.439722",
+    "server_modified": "2024-10-29 21:56:01",
+    "last_sync": "2024-11-19 21:18:33.702607",
     "size": 12123,
     "meta_text": null,
     "cat_ref": "S05977ID0",
@@ -19,20 +19,20 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "188500953987",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/LTA BA BSGOM TSUL_HOW TO MEDITATE ON A CORRECT VIEW OF REALITY",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/LTA BA BSGOM TSUL",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/HOW TO MEDITATE ON A CORRECT VIEW OF REALITY",
-            "subject_tibetan": "LTA BA BSGOM TSUL",
-            "subject_english": "HOW TO MEDITATE ON A CORRECT VIEW OF REALITY"
-        },
-        {
-            "_id": "273843922691",
-            "subject_path": "SUNGBUM_SUNGBUM/LAM RIM_STEPS OF THE PATH/LTA BA BSGOM TSUL_HOW TO MEDITATE UPON CORRECT VIEW",
-            "subject_path_tibetan": "SUNGBUM/LAM RIM/LTA BA BSGOM TSUL",
-            "subject_path_english": "SUNGBUM/STEPS OF THE PATH/HOW TO MEDITATE UPON CORRECT VIEW",
+            "_id": "102823879227",
+            "subject_path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/LTA BA BSGOM TSUL_HOW TO MEDITATE UPON CORRECT VIEW",
+            "subject_path_tibetan": "GSUNG 'BUM/LAM RIM/LTA BA BSGOM TSUL",
+            "subject_path_english": "Sungbum/STEPS OF THE PATH/HOW TO MEDITATE UPON CORRECT VIEW",
             "subject_tibetan": "LTA BA BSGOM TSUL",
             "subject_english": "HOW TO MEDITATE UPON CORRECT VIEW"
+        },
+        {
+            "_id": "155686957369",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/LTA BA BSGOM TSUL_HOW TO MEDITATE ON A CORRECT VIEW OF REALITY",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/LTA BA BSGOM TSUL",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/HOW TO MEDITATE ON A CORRECT VIEW OF REALITY",
+            "subject_tibetan": "LTA BA BSGOM TSUL",
+            "subject_english": "HOW TO MEDITATE ON A CORRECT VIEW OF REALITY"
         }
     ],
     "items": [],
@@ -46,15 +46,29 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/lta ba bsgom tsul_how to meditate on a correct view of reality",
-            "timestamp": "2024-09-10T02:01:27.456729+00:00"
+            "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/LTA BA BSGOM TSUL_HOW TO MEDITATE UPON CORRECT VIEW",
+            "timestamp": "2024-11-20 05:18:34.488267+00:00"
         },
         {
-            "path": "lam rim_steps of the path/lta ba bsgom tsul_how to meditate upon correct view",
-            "timestamp": "2024-09-10T02:07:43.408668+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/LTA BA BSGOM TSUL_HOW TO MEDITATE ON A CORRECT VIEW OF REALITY",
+            "timestamp": "2024-11-20 05:22:08.083743+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:18:34.488267+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T05:22:08.083743+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "text"
 }

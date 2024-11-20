@@ -1,12 +1,12 @@
 {
     "name": "S06406E_BCOM LDAN 'DAS MA KU RU KU LLE'I 'KHOR LO'I LAS TSOGS_Compendium of Ritual Texts for the Practice of the Victorious Conqueror, the Lady, the Wheel of Kurukulle_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/ku ru kul le_kurukulle (kurukulle)/dbang_empowerment (abhisheka)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/ku ru kul le_kurukulle (kurukulle)/dbang_empowerment (abhisheka)/s06406e_bcom ldan 'das ma ku ru ku lle'i 'khor lo'i las tsogs_compendium of ritual texts for the practice of the victorious conqueror, the lady, the wheel of kurukulle_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAHzQ",
-    "revision_id": "613f66492f2378d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/KU RU KUL LE_KURUKULLE (KURUKULLE)/DBANG_EMPOWERMENT (ABHISHEKA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/ku ru kul le_kurukulle (kurukulle)/dbang_empowerment (abhisheka)/s06406e_bcom ldan 'das ma ku ru ku lle'i 'khor lo'i las tsogs_compendium of ritual texts for the practice of the victorious conqueror, the lady, the wheel of kurukulle_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABVdg",
+    "revision_id": "625a48893f6a38d294473",
     "content_hash": "e11558fcd955aee849528f6bdd36b6f6f4d5be29429229db4d71030ca45388e1",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:08:47.842816",
+    "server_modified": "2024-10-29 21:47:36",
+    "last_sync": "2024-11-19 20:57:33.358581",
     "size": 3075,
     "meta_text": null,
     "cat_ref": "S06406E",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "664342216903",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/KU RU KUL LE_KURUKULLE (KURUKULLE)/DBANG_EMPOWERMENT (ABHISHEKA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/KU RU KUL LE/DBANG",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/KURUKULLE (KURUKULLE)/EMPOWERMENT (ABHISHEKA)",
+            "_id": "227361172817",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/KU RU KUL LE_KURUKULLE (KURUKULLE)/DBANG_EMPOWERMENT (ABHISHEKA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/KU RU KUL LE/DBANG",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/KURUKULLE (KURUKULLE)/EMPOWERMENT (ABHISHEKA)",
             "subject_tibetan": "DBANG",
             "subject_english": "EMPOWERMENT (ABHISHEKA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/ku ru kul le_kurukulle (kurukulle)/dbang_empowerment (abhisheka)",
-            "timestamp": "2024-09-10T02:08:47.850245+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/KU RU KUL LE_KURUKULLE (KURUKULLE)/DBANG_EMPOWERMENT (ABHISHEKA)",
+            "timestamp": "2024-11-20 04:57:33.368151+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:57:33.368151+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

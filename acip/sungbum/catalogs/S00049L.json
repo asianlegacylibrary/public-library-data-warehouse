@@ -1,12 +1,12 @@
 {
     "name": "S00049L_THUN DRUG GI RNAL 'BYOR RGYAS BSDUS_Briefer and More Extrensive Forms of the Secret Practice for Six Times of the Day_SKYABS RJE PHA BONG KHA PA BDE CHEN SNYING PO (1878-1941).TXT",
-    "path": "rgyud_secret teachings (tantra)/thun drug_six sessions",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/thun drug_six sessions/s00049l_thun drug gi rnal 'byor rgyas bsdus_briefer and more extrensive forms of the secret practice for six times of the day_skyabs rje pha bong kha pa bde chen snying po (1878-1941).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAIOg",
-    "revision_id": "613f664dc42568d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/THUN DRUG_SIX SESSIONS",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/thun drug_six sessions/s00049l_thun drug gi rnal 'byor rgyas bsdus_briefer and more extrensive forms of the secret practice for six times of the day_skyabs rje pha bong kha pa bde chen snying po (1878-1941).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABXPg",
+    "revision_id": "625a48b9ec2018d294473",
     "content_hash": "baaab47e2b4444542cb6b4ab6cb64ed00a1d75f549d9ff493036fd32b2030c3e",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:09:13.622112",
+    "server_modified": "2024-10-29 21:48:27",
+    "last_sync": "2024-11-19 21:00:26.311086",
     "size": 18875,
     "meta_text": null,
     "cat_ref": "S00049L",
@@ -19,10 +19,10 @@
     "author_simple": "SKYABS RJE PHA BONG KHA PA BDE CHEN SNYING PO",
     "subject": [
         {
-            "_id": "235832062872",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/THUN DRUG_SIX SESSIONS",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/THUN DRUG",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/SIX SESSIONS",
+            "_id": "889350940562",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/THUN DRUG_SIX SESSIONS",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/THUN DRUG",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/SIX SESSIONS",
             "subject_tibetan": "THUN DRUG",
             "subject_english": "SIX SESSIONS"
         }
@@ -35,15 +35,19 @@
             "author_death": "1941"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/thun drug_six sessions",
-            "timestamp": "2024-09-10T02:09:13.644723+00:00"
-        },
-        {
-            "path": "rgyud_secret teachings (tantra)/thun drug_six sessions",
-            "timestamp": "2024-09-10T02:09:13.646909+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/THUN DRUG_SIX SESSIONS",
+            "timestamp": "2024-11-20 05:00:27.508891+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:00:27.508891+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

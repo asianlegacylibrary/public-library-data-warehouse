@@ -1,12 +1,12 @@
 {
     "name": "S06370E12_BLA MA LNGA BCU PA'I SKOR GYI DRI LAN_Responses to Questions about the 'Fifty Verses of Lama Devotion'_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/bla ma lnga bcu pa_50 verses on lamas (gurupanchasika)/'grel pa_commentaries",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/bla ma lnga bcu pa_50 verses on lamas (gurupanchasika)/'grel pa_commentaries/s06370e12_bla ma lnga bcu pa'i skor gyi dri lan_responses to questions about the 'fifty verses of lama devotion'_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAALWA",
-    "revision_id": "613f6652789708d294473",
+    "path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "download_path": "/sungbum updated 7 30 23 nl/dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)/s06370e12_bla ma lnga bcu pa'i skor gyi dri lan_responses to questions about the 'fifty verses of lama devotion'_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABSZw",
+    "revision_id": "625a4810492228d294473",
     "content_hash": "597906ebdd6c9201b2258c7bb51204f5f4ab82a489f99369de1db584b2b50626",
-    "server_modified": "2024-03-18T21:54:00",
-    "last_sync": "2024-09-09T19:12:32.221943",
+    "server_modified": "2024-10-29 21:45:29",
+    "last_sync": "2024-11-19 20:53:28.484166",
     "size": 1243,
     "meta_text": null,
     "cat_ref": "S06370E12",
@@ -19,20 +19,20 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "189284118758",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/BLA MA LNGA BCU PA_50 VERSES ON LAMAS (GURUPANCHASIKA)/'GREL PA_COMMENTARIES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/BLA MA LNGA BCU PA/'GREL PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/50 VERSES ON LAMAS (GURUPANCHASIKA)/COMMENTARIES",
-            "subject_tibetan": "'GREL PA",
-            "subject_english": "COMMENTARIES"
-        },
-        {
-            "_id": "244831615226",
-            "subject_path": "SUNGBUM_SUNGBUM/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_tibetan": "SUNGBUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_english": "SUNGBUM/QUESTIONS AND ANSWERS",
+            "_id": "250883940513",
+            "subject_path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "GSUNG 'BUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "Sungbum/QUESTIONS AND ANSWERS",
             "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
             "subject_english": "QUESTIONS AND ANSWERS"
+        },
+        {
+            "_id": "136842489523",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BLA MA LNGA BCU PA_50 VERSES ON LAMAS (GURUPANCHASIKA)/'GREL PA_COMMENTARIES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/BLA MA LNGA BCU PA/'GREL PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/50 VERSES ON LAMAS (GURUPANCHASIKA)/COMMENTARIES",
+            "subject_tibetan": "'GREL PA",
+            "subject_english": "COMMENTARIES"
         }
     ],
     "items": [],
@@ -46,15 +46,29 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/bla ma lnga bcu pa_50 verses on lamas (gurupanchasika)/'grel pa_commentaries",
-            "timestamp": "2024-09-10T02:12:32.226425+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "timestamp": "2024-11-20 04:54:07.131753+00:00"
         },
         {
-            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
-            "timestamp": "2024-09-10T02:21:49.585587+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BLA MA LNGA BCU PA_50 VERSES ON LAMAS (GURUPANCHASIKA)/'GREL PA_COMMENTARIES",
+            "timestamp": "2024-11-20 04:57:30.950317+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:54:07.131753+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T04:57:30.950317+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "text"
 }

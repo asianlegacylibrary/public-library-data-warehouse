@@ -1,28 +1,28 @@
 {
     "name": "S00297D_BDE MCHOG LHA LNGA'I BSKYED RDZOGS GNYIS KYI 'KHRID DMIGS BDE CHEN MYUR 'GRUB_'A Quick Method for Achieving Great Bliss,' consisting of the Various Points Raised in a Teaching on both the Stage of Creation and the Stage of Completion in the +.TXT",
-    "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/'grel pa_commentaries",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/'grel pa_commentaries/s00297d_bde mchog lha lnga'i bskyed rdzogs gnyis kyi 'khrid dmigs bde chen myur 'grub_'a quick method for achieving great bliss,' consisting of the various points raised in a teaching on both the stage of creation and the stage of completion in the +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAPkQ",
-    "revision_id": "613f665b611aa8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/'GREL PA_COMMENTARIES",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/'grel pa_commentaries/s00297d_bde mchog lha lnga'i bskyed rdzogs gnyis kyi 'khrid dmigs bde chen myur 'grub_'a quick method for achieving great bliss,' consisting of the various points raised in a teaching on both the stage of creation and the stage of completion in the +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABVAA",
+    "revision_id": "625a48799e1578d294473",
     "content_hash": "20d35f8471119fd2950e51bcbba520f52b803d585a6fa359eecff4621a0c10af",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:17:00.913804",
+    "server_modified": "2024-10-29 21:47:20",
+    "last_sync": "2024-11-19 20:56:37.884792",
     "size": 58268,
-    "meta_text": "Practice of the Five Angels of Highest Bliss (Sambara)_CO NE BLA MA GRAGS PA BSHAD GRUB (1675-1748)",
+    "meta_text": "('Practice of the Five Angels of Highest Bliss (Sambara)_CO NE BLA MA GRAGS PA BSHAD GRUB (1675-1748)', 'rtf')",
     "cat_ref": "S00297D",
     "work_ref": "W.S00297D",
     "title_tib": "BDE MCHOG LHA LNGA'I BSKYED RDZOGS GNYIS KYI 'KHRID DMIGS BDE CHEN MYUR 'GRUB",
-    "title_eng": "'A Quick Method for Achieving Great Bliss,' consisting of the Various Points Raised in a Teaching on both the Stage of Creation and the Stage of Completion in thePractice of the Five Angels of Highest Bliss (Sambara)",
+    "title_eng": "'A Quick Method for Achieving Great Bliss,' consisting of the Various Points Raised in a Teaching on both the Stage of Creation and the Stage of Completion in the('Practice of the Five Angels of Highest Bliss (Sambara)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "CO NE BLA MA GRAGS PA BSHAD SGRUB",
     "subject": [
         {
-            "_id": "301465295578",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/'GREL PA_COMMENTARIES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/BDE MCHOG/'GREL PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/COMMENTARIES",
+            "_id": "179027483793",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/'GREL PA_COMMENTARIES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/BDE MCHOG/'GREL PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/COMMENTARIES",
             "subject_tibetan": "'GREL PA",
             "subject_english": "COMMENTARIES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P1629"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/'grel pa_commentaries",
-            "timestamp": "2024-09-10T02:17:00.919853+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/'GREL PA_COMMENTARIES",
+            "timestamp": "2024-11-20 04:56:37.892543+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:56:37.892543+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

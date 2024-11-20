@@ -1,12 +1,12 @@
 {
     "name": "S12157E_SEMS CAN MGU BAR BYA BA'I TSIGS SU BCAD PA MCHAN DANG BCAS PA_Verses on the Practice of Making Others Happy; accompanied by Annotations to the Work_CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN (1806-@).TXT",
-    "path": "nyams len_personal practice/bslab bya_personal advices/chos rje khal kha ngag dbang dpal ldan _chuje kelka ngawang pelden (1806-?)",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/bslab bya_personal advices/chos rje khal kha ngag dbang dpal ldan _chuje kelka ngawang pelden (1806-?)/s12157e_sems can mgu bar bya ba'i tsigs su bcad pa mchan dang bcas pa_verses on the practice of making others happy; accompanied by annotations to the work_chos rje khal kha ngag dbang dpal ldan (1806-@).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAA3g",
-    "revision_id": "613f663b87c278d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN _CHUJE KELKA NGAWANG PELDEN (1806-?)",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/bslab bya_personal advices/chos rje khal kha ngag dbang dpal ldan _chuje kelka ngawang pelden (1806-?)/s12157e_sems can mgu bar bya ba'i tsigs su bcad pa mchan dang bcas pa_verses on the practice of making others happy; accompanied by annotations to the work_chos rje khal kha ngag dbang dpal ldan (1806-@).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABi3Q",
+    "revision_id": "625a4a9afaeb68d294473",
     "content_hash": "4f813b80830829d5316fa3b58af011834b8e546c4f070199b335c562c23d832e",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:01:53.667672",
+    "server_modified": "2024-10-29 21:56:51",
+    "last_sync": "2024-11-19 21:20:11.089107",
     "size": 12326,
     "meta_text": null,
     "cat_ref": "S12157E",
@@ -19,10 +19,10 @@
     "author_simple": "CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN",
     "subject": [
         {
-            "_id": "191813837459",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN _CHUJE KELKA NGAWANG PELDEN (1806-?)",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/BSLAB BYA/CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN ",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/PERSONAL ADVICES/CHUJE KELKA NGAWANG PELDEN (1806-?)",
+            "_id": "794606288095",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN _CHUJE KELKA NGAWANG PELDEN (1806-?)",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/BSLAB BYA/CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN ",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/PERSONAL ADVICES/CHUJE KELKA NGAWANG PELDEN (1806-?)",
             "subject_tibetan": "CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN ",
             "subject_english": "CHUJE KELKA NGAWANG PELDEN (1806-?)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P272"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/bslab bya_personal advices/chos rje khal kha ngag dbang dpal ldan _chuje kelka ngawang pelden (1806-?)",
-            "timestamp": "2024-09-10T02:01:53.677610+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN _CHUJE KELKA NGAWANG PELDEN (1806-?)",
+            "timestamp": "2024-11-20 05:20:11.094219+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:20:11.094219+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

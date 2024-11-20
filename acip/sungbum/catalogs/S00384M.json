@@ -1,12 +1,12 @@
 {
     "name": "S00384M_SDIG SBYONG MAN NGAG_Personal Advices for Cleaning Oneself of Negative Deeds_@ (@-@).TXT",
-    "path": "nyams len_personal practice/sdig pa sbyong ba_purifying old bad deeds",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/sdig pa sbyong ba_purifying old bad deeds/s00384m_sdig sbyong man ngag_personal advices for cleaning oneself of negative deeds_@ (@-@).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAACWQ",
-    "revision_id": "613f663ffc74c8d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/SDIG PA SBYONG BA_PURIFYING OLD BAD DEEDS",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/sdig pa sbyong ba_purifying old bad deeds/s00384m_sdig sbyong man ngag_personal advices for cleaning oneself of negative deeds_@ (@-@).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABiaA",
+    "revision_id": "625a4a87b2a9f8d294473",
     "content_hash": "6b3c4af7743800eca485168d10e9884cb7aaa447500fde954ef34af8a5fb9294",
-    "server_modified": "2024-03-18T21:53:40",
-    "last_sync": "2024-09-09T19:03:31.749004",
+    "server_modified": "2024-10-29 21:56:31",
+    "last_sync": "2024-11-19 21:19:42.716932",
     "size": 926,
     "meta_text": null,
     "cat_ref": "S00384M",
@@ -19,10 +19,10 @@
     "author_simple": "",
     "subject": [
         {
-            "_id": "771013376819",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/SDIG PA SBYONG BA_PURIFYING OLD BAD DEEDS",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/SDIG PA SBYONG BA",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/PURIFYING OLD BAD DEEDS",
+            "_id": "297002688968",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SDIG PA SBYONG BA_PURIFYING OLD BAD DEEDS",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/SDIG PA SBYONG BA",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/PURIFYING OLD BAD DEEDS",
             "subject_tibetan": "SDIG PA SBYONG BA",
             "subject_english": "PURIFYING OLD BAD DEEDS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/sdig pa sbyong ba_purifying old bad deeds",
-            "timestamp": "2024-09-10T02:03:31.766319+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SDIG PA SBYONG BA_PURIFYING OLD BAD DEEDS",
+            "timestamp": "2024-11-20 05:19:42.722048+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:19:42.722048+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

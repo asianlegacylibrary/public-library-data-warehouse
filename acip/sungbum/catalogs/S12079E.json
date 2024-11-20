@@ -1,12 +1,12 @@
 {
     "name": "S12079E_BSRUNG BA LNGA'I BYA BAS KHRUS BYA TSUL PHAN BDE'I 'BYUNG GNAS_The Source of All Good and Happiness--Instructions for the Offering of Bathing for the Five Angels of Protection_CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS (1740-1810).TXT",
-    "path": "rgyud_secret teachings (tantra)/bsrung ba lnga_five protectors/khru ba_bathing ritual",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/bsrung ba lnga_five protectors/khru ba_bathing ritual/s12079e_bsrung ba lnga'i bya bas khrus bya tsul phan bde'i 'byung gnas_the source of all good and happiness--instructions for the offering of bathing for the five angels of protection_cha har dge bshes blo bzang tsul khrims (1740-1810).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAQAw",
-    "revision_id": "613f665fcd5888d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/BSRUNG BA LNGA_FIVE PROTECTORS/KHRU BA_BATHING RITUAL",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/bsrung ba lnga_five protectors/khru ba_bathing ritual/s12079e_bsrung ba lnga'i bya bas khrus bya tsul phan bde'i 'byung gnas_the source of all good and happiness--instructions for the offering of bathing for the five angels of protection_cha har dge bshes blo bzang tsul khrims (1740-1810).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABWQg",
+    "revision_id": "625a489e4acb58d294473",
     "content_hash": "dfec5f84803ef1c19df90bcf9963c355c0aaddec555122251f573f007ed7908b",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:17:26.986268",
+    "server_modified": "2024-10-29 21:47:58",
+    "last_sync": "2024-11-19 20:58:48.317046",
     "size": 17682,
     "meta_text": null,
     "cat_ref": "S12079E",
@@ -19,10 +19,10 @@
     "author_simple": "CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS",
     "subject": [
         {
-            "_id": "331555873023",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/BSRUNG BA LNGA_FIVE PROTECTORS/KHRU BA_BATHING RITUAL",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/BSRUNG BA LNGA/KHRU BA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/FIVE PROTECTORS/BATHING RITUAL",
+            "_id": "239274621188",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BSRUNG BA LNGA_FIVE PROTECTORS/KHRU BA_BATHING RITUAL",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/BSRUNG BA LNGA/KHRU BA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/FIVE PROTECTORS/BATHING RITUAL",
             "subject_tibetan": "KHRU BA",
             "subject_english": "BATHING RITUAL"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P4797"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/bsrung ba lnga_five protectors/khru ba_bathing ritual",
-            "timestamp": "2024-09-10T02:17:26.988916+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BSRUNG BA LNGA_FIVE PROTECTORS/KHRU BA_BATHING RITUAL",
+            "timestamp": "2024-11-20 04:58:48.322671+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:58:48.322671+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

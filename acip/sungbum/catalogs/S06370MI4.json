@@ -1,12 +1,12 @@
 {
     "name": "S06370MI4_NYES BYAS ZHE GNYIS PA'I SKOR GYI DRI LAN_Note on the 42nd Secondary Bodhisattva Vow_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "lam rim_steps of the path/byang sems kyi sdom pa_bodhisattva vows",
-    "download_path": "/sungbum updated 4 26 23 bk/lam rim_steps of the path/byang sems kyi sdom pa_bodhisattva vows/s06370mi4_nyes byas zhe gnyis pa'i skor gyi dri lan_note on the 42nd secondary bodhisattva vow_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAGYA",
-    "revision_id": "613f66492f0ca8d294473",
+    "path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "download_path": "/sungbum updated 7 30 23 nl/dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)/s06370mi4_nyes byas zhe gnyis pa'i skor gyi dri lan_note on the 42nd secondary bodhisattva vow_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABSQg",
+    "revision_id": "625a480ac43d98d294473",
     "content_hash": "6a5f69eef80af209a77229d3c1b9dfc13d203d346bb200940a7808271d13eac5",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:07:27.608480",
+    "server_modified": "2024-10-29 21:45:23",
+    "last_sync": "2024-11-19 20:53:23.592056",
     "size": 63,
     "meta_text": null,
     "cat_ref": "S06370MI4",
@@ -19,20 +19,20 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "319753209587",
-            "subject_path": "SUNGBUM_SUNGBUM/LAM RIM_STEPS OF THE PATH/BYANG SEMS KYI SDOM PA_BODHISATTVA VOWS",
-            "subject_path_tibetan": "SUNGBUM/LAM RIM/BYANG SEMS KYI SDOM PA",
-            "subject_path_english": "SUNGBUM/STEPS OF THE PATH/BODHISATTVA VOWS",
-            "subject_tibetan": "BYANG SEMS KYI SDOM PA",
-            "subject_english": "BODHISATTVA VOWS"
-        },
-        {
-            "_id": "244831615226",
-            "subject_path": "SUNGBUM_SUNGBUM/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_tibetan": "SUNGBUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_english": "SUNGBUM/QUESTIONS AND ANSWERS",
+            "_id": "250883940513",
+            "subject_path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "GSUNG 'BUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "Sungbum/QUESTIONS AND ANSWERS",
             "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
             "subject_english": "QUESTIONS AND ANSWERS"
+        },
+        {
+            "_id": "109974998321",
+            "subject_path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/BYANG SEMS KYI SDOM PA_BODHISATTVA VOWS",
+            "subject_path_tibetan": "GSUNG 'BUM/LAM RIM/BYANG SEMS KYI SDOM PA",
+            "subject_path_english": "Sungbum/STEPS OF THE PATH/BODHISATTVA VOWS",
+            "subject_tibetan": "BYANG SEMS KYI SDOM PA",
+            "subject_english": "BODHISATTVA VOWS"
         }
     ],
     "items": [],
@@ -46,15 +46,29 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "lam rim_steps of the path/byang sems kyi sdom pa_bodhisattva vows",
-            "timestamp": "2024-09-10T02:07:27.623531+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "timestamp": "2024-11-20 04:54:07.130397+00:00"
         },
         {
-            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
-            "timestamp": "2024-09-10T02:21:49.545880+00:00"
+            "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/BYANG SEMS KYI SDOM PA_BODHISATTVA VOWS",
+            "timestamp": "2024-11-20 05:17:56.879954+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:54:07.130397+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T05:17:56.879954+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,12 +1,12 @@
 {
     "name": "S05922E_KUN RIG BUM BSKYED BSDUS PA_A Brief Ritual for the Preparation of a Sacred Vase in the Secret Practice of the All- Knowing One (Sarvavid)_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662).TXT",
-    "path": "rgyud_secret teachings (tantra)/kun rig_the all-knowing (sarvavid)/bum pa_vase practices",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/kun rig_the all-knowing (sarvavid)/bum pa_vase practices/s05922e_kun rig bum bskyed bsdus pa_a brief ritual for the preparation of a sacred vase in the secret practice of the all- knowing one (sarvavid)_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAJog",
-    "revision_id": "613f664dc43be8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/KUN RIG_THE ALL-KNOWING (SARVAVID)/BUM PA_VASE PRACTICES",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/kun rig_the all-knowing (sarvavid)/bum pa_vase practices/s05922e_kun rig bum bskyed bsdus pa_a brief ritual for the preparation of a sacred vase in the secret practice of the all- knowing one (sarvavid)_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABa6w",
+    "revision_id": "625a493fd947d8d294473",
     "content_hash": "6e55eb414408b0f5de7fe61fe8cdfe312fff14c93cb163e5b2143f312dae9b21",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:10:40.935276",
+    "server_modified": "2024-10-29 21:50:47",
+    "last_sync": "2024-11-19 21:06:24.200564",
     "size": 3531,
     "meta_text": null,
     "cat_ref": "S05922E",
@@ -19,10 +19,10 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "315862597618",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/KUN RIG_THE ALL-KNOWING (SARVAVID)/BUM PA_VASE PRACTICES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/KUN RIG/BUM PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/THE ALL-KNOWING (SARVAVID)/VASE PRACTICES",
+            "_id": "338968040370",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/KUN RIG_THE ALL-KNOWING (SARVAVID)/BUM PA_VASE PRACTICES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/KUN RIG/BUM PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/THE ALL-KNOWING (SARVAVID)/VASE PRACTICES",
             "subject_tibetan": "BUM PA",
             "subject_english": "VASE PRACTICES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/kun rig_the all-knowing (sarvavid)/bum pa_vase practices",
-            "timestamp": "2024-09-10T02:10:40.943463+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/KUN RIG_THE ALL-KNOWING (SARVAVID)/BUM PA_VASE PRACTICES",
+            "timestamp": "2024-11-20 05:06:24.204439+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:06:24.204439+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

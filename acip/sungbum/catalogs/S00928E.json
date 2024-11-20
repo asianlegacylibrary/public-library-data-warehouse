@@ -1,12 +1,12 @@
 {
     "name": "S00928E_BYANG CHUB KYI SEMS GNYIS SGOM TSUL THEG PA MCHOG GI 'JUG NGOGS_The 'Entry Point for the Supreme Way,' being Instructions on How to Meditate upon the Two Forms of the Wish for Enlightenment_GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME (1762-1823).TXT",
-    "path": "lam rim_steps of the path/byang chub kyi sems gnyis sgom tsul theg pa mchog gi 'jug ngogs_the 'entry point for the supreme way,' being instructions on how to meditate upon the two forms of the wish for enlightenment",
-    "download_path": "/sungbum updated 4 26 23 bk/lam rim_steps of the path/byang chub kyi sems gnyis sgom tsul theg pa mchog gi 'jug ngogs_the 'entry point for the supreme way,' being instructions on how to meditate upon the two forms of the wish for enlightenment/s00928e_byang chub kyi sems gnyis sgom tsul theg pa mchog gi 'jug ngogs_the 'entry point for the supreme way,' being instructions on how to meditate upon the two forms of the wish for enlightenment_gung thang dkon mchog bstan pa'i sgron me (1762-1823).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAGrA",
-    "revision_id": "613f66492f1168d294473",
+    "path": "LAM RIM_STEPS OF THE PATH/BYANG CHUB KYI SEMS GNYIS SGOM TSUL THEG PA MCHOG GI 'JUG NGOGS_THE 'ENTRY POINT FOR THE SUPREME WAY,' BEING INSTRUCTIONS ON HOW TO MEDITATE UPON THE TWO FORMS OF THE WISH FOR ENLIGHTENMENT",
+    "download_path": "/sungbum updated 7 30 23 nl/lam rim_steps of the path/byang chub kyi sems gnyis sgom tsul theg pa mchog gi 'jug ngogs_the 'entry point for the supreme way,' being instructions on how to meditate upon the two forms of the wish for enlightenment/s00928e_byang chub kyi sems gnyis sgom tsul theg pa mchog gi 'jug ngogs_the 'entry point for the supreme way,' being instructions on how to meditate upon the two forms of the wish for enlightenment_gung thang dkon mchog bstan pa'i sgron me (1762-1823).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABhDQ",
+    "revision_id": "625a4a53839658d294473",
     "content_hash": "ae6b9d897a5e6d7155293992a36c7b92593115cacc8242146567f86295bec08b",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:07:44.909826",
+    "server_modified": "2024-10-29 21:55:37",
+    "last_sync": "2024-11-19 21:17:12.558813",
     "size": 27353,
     "meta_text": null,
     "cat_ref": "S00928E",
@@ -19,10 +19,10 @@
     "author_simple": "GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME",
     "subject": [
         {
-            "_id": "865995310945",
-            "subject_path": "SUNGBUM_SUNGBUM/LAM RIM_STEPS OF THE PATH/BYANG CHUB KYI SEMS GNYIS SGOM TSUL THEG PA MCHOG GI 'JUG NGOGS_THE 'ENTRY POINT FOR THE SUPREME WAY,' BEING INSTRUCTIONS ON HOW TO MEDITATE UPON THE TWO FORMS OF THE WISH FOR ENLIGHTENMENT",
-            "subject_path_tibetan": "SUNGBUM/LAM RIM/BYANG CHUB KYI SEMS GNYIS SGOM TSUL THEG PA MCHOG GI 'JUG NGOGS",
-            "subject_path_english": "SUNGBUM/STEPS OF THE PATH/THE 'ENTRY POINT FOR THE SUPREME WAY,' BEING INSTRUCTIONS ON HOW TO MEDITATE UPON THE TWO FORMS OF THE WISH FOR ENLIGHTENMENT",
+            "_id": "235377112015",
+            "subject_path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/BYANG CHUB KYI SEMS GNYIS SGOM TSUL THEG PA MCHOG GI 'JUG NGOGS_THE 'ENTRY POINT FOR THE SUPREME WAY,' BEING INSTRUCTIONS ON HOW TO MEDITATE UPON THE TWO FORMS OF THE WISH FOR ENLIGHTENMENT",
+            "subject_path_tibetan": "GSUNG 'BUM/LAM RIM/BYANG CHUB KYI SEMS GNYIS SGOM TSUL THEG PA MCHOG GI 'JUG NGOGS",
+            "subject_path_english": "Sungbum/STEPS OF THE PATH/THE 'ENTRY POINT FOR THE SUPREME WAY,' BEING INSTRUCTIONS ON HOW TO MEDITATE UPON THE TWO FORMS OF THE WISH FOR ENLIGHTENMENT",
             "subject_tibetan": "BYANG CHUB KYI SEMS GNYIS SGOM TSUL THEG PA MCHOG GI 'JUG NGOGS",
             "subject_english": "THE 'ENTRY POINT FOR THE SUPREME WAY,' BEING INSTRUCTIONS ON HOW TO MEDITATE UPON THE TWO FORMS OF THE WISH FOR ENLIGHTENMENT"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P298"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "lam rim_steps of the path/byang chub kyi sems gnyis sgom tsul theg pa mchog gi 'jug ngogs_the 'entry point for the supreme way,' being instructions on how to meditate upon the two forms of the wish for enlightenment",
-            "timestamp": "2024-09-10T02:07:44.917569+00:00"
+            "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/BYANG CHUB KYI SEMS GNYIS SGOM TSUL THEG PA MCHOG GI 'JUG NGOGS_THE 'ENTRY POINT FOR THE SUPREME WAY,' BEING INSTRUCTIONS ON HOW TO MEDITATE UPON THE TWO FORMS OF THE WISH FOR ENLIGHTENMENT",
+            "timestamp": "2024-11-20 05:17:12.563668+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:17:12.563668+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

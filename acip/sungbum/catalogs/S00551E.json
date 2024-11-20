@@ -1,12 +1,12 @@
 {
     "name": "S00551E_RJES 'DZIN SMON LAM DON GNYIS LHUN 'GRUB_'Achieving, in a Completely Spontaneous Way, the Two Goals,' being a Prayer to be Taken Under Your Care_CHE SHOS RIN PO CHE BLO BZANG BYANG CHUB BSTAN PA'I SGRON ME (1861-1933@).TXT",
-    "path": "nyams len_personal practice/smon lam_making prayers/che shos rin po che blo bzang byang chub bstan pa'i sgron me_cheshu rinpoche lobsang jangchub tenpay drunme (1861-1933?)",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/smon lam_making prayers/che shos rin po che blo bzang byang chub bstan pa'i sgron me_cheshu rinpoche lobsang jangchub tenpay drunme (1861-1933?)/s00551e_rjes 'dzin smon lam don gnyis lhun 'grub_'achieving, in a completely spontaneous way, the two goals,' being a prayer to be taken under your care_che shos rin po che blo bzang byang chub bstan pa'i sgron me (1861-1933@).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAACPA",
-    "revision_id": "613f663ffc72f8d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/CHE SHOS RIN PO CHE BLO BZANG BYANG CHUB BSTAN PA'I SGRON ME_CHESHU RINPOCHE LOBSANG JANGCHUB TENPAY DRUNME (1861-1933?)",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/smon lam_making prayers/che shos rin po che blo bzang byang chub bstan pa'i sgron me_cheshu rinpoche lobsang jangchub tenpay drunme (1861-1933?)/s00551e_rjes 'dzin smon lam don gnyis lhun 'grub_'achieving, in a completely spontaneous way, the two goals,' being a prayer to be taken under your care_che shos rin po che blo bzang byang chub bstan pa'i sgron me (1861-1933@).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABkow",
+    "revision_id": "625a4ad7fe53f8d294473",
     "content_hash": "aa517907d9aa64e5a4644142c967e5e4ea9c52e05fbd9d016c8f8caba03b3d9c",
-    "server_modified": "2024-03-18T21:53:40",
-    "last_sync": "2024-09-09T19:03:27.039478",
+    "server_modified": "2024-10-29 21:57:55",
+    "last_sync": "2024-11-19 21:23:47.480917",
     "size": 2740,
     "meta_text": null,
     "cat_ref": "S00551E",
@@ -19,10 +19,10 @@
     "author_simple": "CHE SHOS RIN PO CHE BLO BZANG BYANG CHUB BSTAN PA'I SGRON ME",
     "subject": [
         {
-            "_id": "286183030503",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/CHE SHOS RIN PO CHE BLO BZANG BYANG CHUB BSTAN PA'I SGRON ME_CHESHU RINPOCHE LOBSANG JANGCHUB TENPAY DRUNME (1861-1933?)",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/SMON LAM/CHE SHOS RIN PO CHE BLO BZANG BYANG CHUB BSTAN PA'I SGRON ME",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/MAKING PRAYERS/CHESHU RINPOCHE LOBSANG JANGCHUB TENPAY DRUNME (1861-1933?)",
+            "_id": "911050220458",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/CHE SHOS RIN PO CHE BLO BZANG BYANG CHUB BSTAN PA'I SGRON ME_CHESHU RINPOCHE LOBSANG JANGCHUB TENPAY DRUNME (1861-1933?)",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/SMON LAM/CHE SHOS RIN PO CHE BLO BZANG BYANG CHUB BSTAN PA'I SGRON ME",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/MAKING PRAYERS/CHESHU RINPOCHE LOBSANG JANGCHUB TENPAY DRUNME (1861-1933?)",
             "subject_tibetan": "CHE SHOS RIN PO CHE BLO BZANG BYANG CHUB BSTAN PA'I SGRON ME",
             "subject_english": "CHESHU RINPOCHE LOBSANG JANGCHUB TENPAY DRUNME (1861-1933?)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P238"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/smon lam_making prayers/che shos rin po che blo bzang byang chub bstan pa'i sgron me_cheshu rinpoche lobsang jangchub tenpay drunme (1861-1933?)",
-            "timestamp": "2024-09-10T02:03:27.048067+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/CHE SHOS RIN PO CHE BLO BZANG BYANG CHUB BSTAN PA'I SGRON ME_CHESHU RINPOCHE LOBSANG JANGCHUB TENPAY DRUNME (1861-1933?)",
+            "timestamp": "2024-11-20 05:23:47.494600+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:23:47.494600+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

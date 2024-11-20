@@ -1,12 +1,12 @@
 {
     "name": "S05275E31_RJE BTZUN BYAMS PA LA SMON LAM_A Prayer to the Revered Loving One (Maitreya)_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419).TXT",
-    "path": "rgyud_secret teachings (tantra)/byams pa_loving one (maitreya)/smon lam_prayers",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/byams pa_loving one (maitreya)/smon lam_prayers/s05275e31_rje btzun byams pa la smon lam_a prayer to the revered loving one (maitreya)_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAIHg",
-    "revision_id": "613f664dc423a8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/BYAMS PA_LOVING ONE (MAITREYA)/SMON LAM_PRAYERS",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/byams pa_loving one (maitreya)/smon lam_prayers/s05275e31_rje btzun byams pa la smon lam_a prayer to the revered loving one (maitreya)_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABcsw",
+    "revision_id": "625a497f7749c8d294473",
     "content_hash": "27855c1161a733ed0d7ddcf348e82b4f1af66aaa015774fc186ede029c7a08e8",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:09:07.072112",
+    "server_modified": "2024-10-29 21:51:54",
+    "last_sync": "2024-11-19 21:09:27.784685",
     "size": 1485,
     "meta_text": null,
     "cat_ref": "S05275E31",
@@ -19,10 +19,10 @@
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "913101888108",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/BYAMS PA_LOVING ONE (MAITREYA)/SMON LAM_PRAYERS",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/BYAMS PA/SMON LAM",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/LOVING ONE (MAITREYA)/PRAYERS",
+            "_id": "283408086459",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BYAMS PA_LOVING ONE (MAITREYA)/SMON LAM_PRAYERS",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/BYAMS PA/SMON LAM",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/LOVING ONE (MAITREYA)/PRAYERS",
             "subject_tibetan": "SMON LAM",
             "subject_english": "PRAYERS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/byams pa_loving one (maitreya)/smon lam_prayers",
-            "timestamp": "2024-09-10T02:09:07.080039+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BYAMS PA_LOVING ONE (MAITREYA)/SMON LAM_PRAYERS",
+            "timestamp": "2024-11-20 05:09:27.788966+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:09:27.788966+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

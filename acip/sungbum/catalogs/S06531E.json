@@ -1,12 +1,12 @@
 {
     "name": "S06531E_TSAD MA'I LAM BSGRIGS CHOS KYI RGYAL PO TZONG KHA PA CHEN POS MDZAD PA_'Blazing a Path through the Teachings on Valid Perception,' accomplished by that King of the Dharma, the Great Tsongkapa_KE'U TSANG BLO BZANG 'JAM DBYANGS SMON LAM (1689-@).TXT",
-    "path": "tsad ma_study of accurate perception (sautrantika school)/spyi_general treatments/ke'u tsang blo bzang 'jam dbyangs smon lam_keutsang lobsang jamyang munlam (1689-?)",
-    "download_path": "/sungbum updated 4 26 23 bk/tsad ma_study of accurate perception (sautrantika school)/spyi_general treatments/ke'u tsang blo bzang 'jam dbyangs smon lam_keutsang lobsang jamyang munlam (1689-?)/s06531e_tsad ma'i lam bsgrigs chos kyi rgyal po tzong kha pa chen pos mdzad pa_'blazing a path through the teachings on valid perception,' accomplished by that king of the dharma, the great tsongkapa_ke'u tsang blo bzang 'jam dbyangs smon lam (1689-@).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAFhg",
-    "revision_id": "613f664484aaa8d294473",
+    "path": "TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/SPYI_GENERAL TREATMENTS/KE'U TSANG BLO BZANG 'JAM DBYANGS SMON LAM_KEUTSANG LOBSANG JAMYANG MUNLAM (1689-?)",
+    "download_path": "/sungbum updated 7 30 23 nl/tsad ma_study of accurate perception (sautrantika school)/spyi_general treatments/ke'u tsang blo bzang 'jam dbyangs smon lam_keutsang lobsang jamyang munlam (1689-?)/s06531e_tsad ma'i lam bsgrigs chos kyi rgyal po tzong kha pa chen pos mdzad pa_'blazing a path through the teachings on valid perception,' accomplished by that king of the dharma, the great tsongkapa_ke'u tsang blo bzang 'jam dbyangs smon lam (1689-@).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABQVA",
+    "revision_id": "625a47befd7d38d294473",
     "content_hash": "2b6480036ab7cfcf591e017279de6cb37ac18b46fd134db9f36eff2abd546f8e",
-    "server_modified": "2024-03-18T21:53:45",
-    "last_sync": "2024-09-09T19:06:37.316708",
+    "server_modified": "2024-10-29 21:44:04",
+    "last_sync": "2024-11-19 20:49:36.926482",
     "size": 85214,
     "meta_text": null,
     "cat_ref": "S06531E",
@@ -19,10 +19,10 @@
     "author_simple": "KE'U TSANG BLO BZANG ''JAM DBYANGS SMON LAM",
     "subject": [
         {
-            "_id": "199563830998",
-            "subject_path": "SUNGBUM_SUNGBUM/TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/SPYI_GENERAL TREATMENTS/KE'U TSANG BLO BZANG 'JAM DBYANGS SMON LAM_KEUTSANG LOBSANG JAMYANG MUNLAM (1689-?)",
-            "subject_path_tibetan": "SUNGBUM/TSAD MA/SPYI/KE'U TSANG BLO BZANG 'JAM DBYANGS SMON LAM",
-            "subject_path_english": "SUNGBUM/STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/GENERAL TREATMENTS/KEUTSANG LOBSANG JAMYANG MUNLAM (1689-?)",
+            "_id": "246958191552",
+            "subject_path": "GSUNG 'BUM_Sungbum/TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/SPYI_GENERAL TREATMENTS/KE'U TSANG BLO BZANG 'JAM DBYANGS SMON LAM_KEUTSANG LOBSANG JAMYANG MUNLAM (1689-?)",
+            "subject_path_tibetan": "GSUNG 'BUM/TSAD MA/SPYI/KE'U TSANG BLO BZANG 'JAM DBYANGS SMON LAM",
+            "subject_path_english": "Sungbum/STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/GENERAL TREATMENTS/KEUTSANG LOBSANG JAMYANG MUNLAM (1689-?)",
             "subject_tibetan": "KE'U TSANG BLO BZANG 'JAM DBYANGS SMON LAM",
             "subject_english": "KEUTSANG LOBSANG JAMYANG MUNLAM (1689-?)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P307"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "tsad ma_study of accurate perception (sautrantika school)/spyi_general treatments/ke'u tsang blo bzang 'jam dbyangs smon lam_keutsang lobsang jamyang munlam (1689-?)",
-            "timestamp": "2024-09-10T02:06:37.324095+00:00"
+            "path": "GSUNG 'BUM_Sungbum/TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/SPYI_GENERAL TREATMENTS/KE'U TSANG BLO BZANG 'JAM DBYANGS SMON LAM_KEUTSANG LOBSANG JAMYANG MUNLAM (1689-?)",
+            "timestamp": "2024-11-20 04:49:36.931172+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:49:36.931172+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

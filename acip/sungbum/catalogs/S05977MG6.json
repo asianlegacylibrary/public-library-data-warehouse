@@ -1,12 +1,12 @@
 {
     "name": "S05977MG6_MCHOD RDZAS PHUL NAS RANG GI YID LA RE BA'I DON SMON PA'I TSIGS SU BCAD PA_Verses of Prayer that the Wishes of My Heart may be Fulfilled, Written on the Occasion of Making Special Offerings_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662).TXT",
-    "path": "nyams len_personal practice/mchod pa_how to make offerings/pan chen blo bzang chos kyi rgyal mtsan_panchen lobsang chukyi gyeltsen (1565-1662)",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/mchod pa_how to make offerings/pan chen blo bzang chos kyi rgyal mtsan_panchen lobsang chukyi gyeltsen (1565-1662)/s05977mg6_mchod rdzas phul nas rang gi yid la re ba'i don smon pa'i tsigs su bcad pa_verses of prayer that the wishes of my heart may be fulfilled, written on the occasion of making special offerings_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAB7Q",
-    "revision_id": "613f663b87d368d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/MCHOD PA_HOW TO MAKE OFFERINGS/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/mchod pa_how to make offerings/pan chen blo bzang chos kyi rgyal mtsan_panchen lobsang chukyi gyeltsen (1565-1662)/s05977mg6_mchod rdzas phul nas rang gi yid la re ba'i don smon pa'i tsigs su bcad pa_verses of prayer that the wishes of my heart may be fulfilled, written on the occasion of making special offerings_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABkyQ",
+    "revision_id": "625a4adaadbd08d294473",
     "content_hash": "8f589214e589b06d71511d13c40d40613d2b1502a93718cd5688ca99fd5edc58",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:03:06.200657",
+    "server_modified": "2024-10-29 21:57:58",
+    "last_sync": "2024-11-19 21:24:00.823874",
     "size": 5402,
     "meta_text": null,
     "cat_ref": "S05977MG6",
@@ -19,11 +19,11 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "103806555114",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/MCHOD PA_HOW TO MAKE OFFERINGS/PAN CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/MCHOD PA/PAN CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/HOW TO MAKE OFFERINGS/PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
-            "subject_tibetan": "PAN CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
+            "_id": "198904354946",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/MCHOD PA_HOW TO MAKE OFFERINGS/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/MCHOD PA/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/HOW TO MAKE OFFERINGS/PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+            "subject_tibetan": "PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
             "subject_english": "PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)"
         }
     ],
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/mchod pa_how to make offerings/pan chen blo bzang chos kyi rgyal mtsan_panchen lobsang chukyi gyeltsen (1565-1662)",
-            "timestamp": "2024-09-10T02:03:06.215137+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/MCHOD PA_HOW TO MAKE OFFERINGS/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+            "timestamp": "2024-11-20 05:24:00.828450+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:24:00.828450+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

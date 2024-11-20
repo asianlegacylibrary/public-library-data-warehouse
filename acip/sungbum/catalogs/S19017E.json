@@ -1,12 +1,12 @@
 {
     "name": "S19017E_KHYA DGE DPON SLOB BLO GROS RGYA MTSO'I DRIS LAN_Answers to Questions posed by Master Kyagey Lodru Gyatso_'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS (1648-1721).TXT",
-    "path": "dri lan_questions and answers/'jam dbyangs bzhad pa'i rdo rje (1648-1721)",
-    "download_path": "/sungbum updated 4 26 23 bk/dri lan_questions and answers/'jam dbyangs bzhad pa'i rdo rje (1648-1721)/s19017e_khya dge dpon slob blo gros rgya mtso'i dris lan_answers to questions posed by master kyagey lodru gyatso_'jam dbyangs bzhad pa'i rdo rje ngag dbang brtzon 'grus (1648-1721).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAATWA",
-    "revision_id": "613f66647447b8d294473",
+    "path": "DRI LAN_QUESTIONS AND ANSWERS/'JAM DBYANGS BZHAD PA'I RDO RJE (1648-1721)",
+    "download_path": "/sungbum updated 7 30 23 nl/dri lan_questions and answers/'jam dbyangs bzhad pa'i rdo rje (1648-1721)/s19017e_khya dge dpon slob blo gros rgya mtso'i dris lan_answers to questions posed by master kyagey lodru gyatso_'jam dbyangs bzhad pa'i rdo rje ngag dbang brtzon 'grus (1648-1721).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABTxA",
+    "revision_id": "625a48465ca588d294473",
     "content_hash": "59cf4b9fc41e70774cf12dddb1bf52c3399adb15f0eefbfe236bc5f5a62f9c5c",
-    "server_modified": "2024-03-18T21:54:19",
-    "last_sync": "2024-09-09T19:21:05.209727",
+    "server_modified": "2024-10-29 21:46:26",
+    "last_sync": "2024-11-19 20:54:12.876987",
     "size": 3233,
     "meta_text": null,
     "cat_ref": "S19017E",
@@ -19,10 +19,10 @@
     "author_simple": "'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS",
     "subject": [
         {
-            "_id": "309172523686",
-            "subject_path": "SUNGBUM_SUNGBUM/DRI LAN_QUESTIONS AND ANSWERS/'JAM DBYANGS BZHAD PA'I RDO RJE (1648-1721)",
-            "subject_path_tibetan": "SUNGBUM/DRI LAN/'JAM DBYANGS BZHAD PA'I RDO RJE (1648-1721)",
-            "subject_path_english": "SUNGBUM/QUESTIONS AND ANSWERS",
+            "_id": "178886377544",
+            "subject_path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/'JAM DBYANGS BZHAD PA'I RDO RJE (1648-1721)",
+            "subject_path_tibetan": "GSUNG 'BUM/DRI LAN/'JAM DBYANGS BZHAD PA'I RDO RJE (1648-1721)",
+            "subject_path_english": "Sungbum/QUESTIONS AND ANSWERS",
             "subject_tibetan": "'JAM DBYANGS BZHAD PA'I RDO RJE (1648-1721)",
             "subject_english": "QUESTIONS AND ANSWERS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P423"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "dri lan_questions and answers/'jam dbyangs bzhad pa'i rdo rje (1648-1721)",
-            "timestamp": "2024-09-10T02:21:05.223995+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/'JAM DBYANGS BZHAD PA'I RDO RJE (1648-1721)",
+            "timestamp": "2024-11-20 04:54:14.111355+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:54:14.111355+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "rtf"
 }

@@ -1,12 +1,12 @@
 {
     "name": "S06397M_ZHU 'PHRIN GYI RIM PA PHYOGS GCIG TU BSDEBS PA KHA BA'I DUS KYI ME TOG_'A Flower in the Season of Snow,' being a Compilation of Correspondences_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "'phrin yig_epistles/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)",
-    "download_path": "/sungbum updated 4 26 23 bk/'phrin yig_epistles/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)/s06397m_zhu 'phrin gyi rim pa phyogs gcig tu bsdebs pa kha ba'i dus kyi me tog_'a flower in the season of snow,' being a compilation of correspondences_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAXiQ",
-    "revision_id": "613f666d88e418d294473",
+    "path": "'PHRIN YIG_EPISTLES/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
+    "download_path": "/sungbum updated 7 30 23 nl/'phrin yig_epistles/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)/s06397m_zhu 'phrin gyi rim pa phyogs gcig tu bsdebs pa kha ba'i dus kyi me tog_'a flower in the season of snow,' being a compilation of correspondences_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABQ2A",
+    "revision_id": "625a47ccc43e28d294473",
     "content_hash": "556d93996dbc961b5517516ab4d835b089dc45bea37c39f72b0b6f5fe9198270",
-    "server_modified": "2024-03-18T21:54:28",
-    "last_sync": "2024-09-09T19:24:50.677912",
+    "server_modified": "2024-10-29 21:44:18",
+    "last_sync": "2024-11-19 20:50:51.677536",
     "size": 36825,
     "meta_text": null,
     "cat_ref": "S06397M",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "116780302853",
-            "subject_path": "SUNGBUM_SUNGBUM/'PHRIN YIG_EPISTLES/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
-            "subject_path_tibetan": "SUNGBUM/'PHRIN YIG/DNGUL CHU DHARMA BHADRA",
-            "subject_path_english": "SUNGBUM/EPISTLES/NGULCHU DHARMA BHADRA (1772-1851)",
+            "_id": "237232484138",
+            "subject_path": "GSUNG 'BUM_Sungbum/'PHRIN YIG_EPISTLES/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "GSUNG 'BUM/'PHRIN YIG/DNGUL CHU DHARMA BHADRA",
+            "subject_path_english": "Sungbum/EPISTLES/NGULCHU DHARMA BHADRA (1772-1851)",
             "subject_tibetan": "DNGUL CHU DHARMA BHADRA",
             "subject_english": "NGULCHU DHARMA BHADRA (1772-1851)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "'phrin yig_epistles/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)",
-            "timestamp": "2024-09-10T02:24:50.684514+00:00"
+            "path": "GSUNG 'BUM_Sungbum/'PHRIN YIG_EPISTLES/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
+            "timestamp": "2024-11-20 04:50:51.681923+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:50:51.681923+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

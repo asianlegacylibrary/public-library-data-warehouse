@@ -1,14 +1,14 @@
 {
     "name": "S05977E69_JIGS BYED ZHAL GCIG PHYAG GNYIS PA'I SGRUB THABS DNGOS GRUB KUN 'BYUNG_The 'Source of All Attainments,' being a Method for Reaching the Frightener (Bhairava) in His Form with One Head and Two Arms_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1 +.TXT",
-    "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/sgrub thabs_ritual for reaching the angel (sadhana)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/sgrub thabs_ritual for reaching the angel (sadhana)/s05977e69_jigs byed zhal gcig phyag gnyis pa'i sgrub thabs dngos grub kun 'byung_the 'source of all attainments,' being a method for reaching the frightener (bhairava) in his form with one head and two arms_pan chen blo bzang chos kyi rgyal mtsan (1 +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAMkA",
-    "revision_id": "613f6656ded618d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/sgrub thabs_ritual for reaching the angel (sadhana)/s05977e69_jigs byed zhal gcig phyag gnyis pa'i sgrub thabs dngos grub kun 'byung_the 'source of all attainments,' being a method for reaching the frightener (bhairava) in his form with one head and two arms_pan chen blo bzang chos kyi rgyal mtsan (1 +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABdVg",
+    "revision_id": "625a49908aae48d294473",
     "content_hash": "b258e3d4be34e0f36c9ffebcefc4b8fccf876b02c37431966ad47ab19fbb311e",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:13:53.098571",
+    "server_modified": "2024-10-29 21:52:12",
+    "last_sync": "2024-11-19 21:10:36.015915",
     "size": 12028,
-    "meta_text": "565-1662)",
+    "meta_text": "('565-1662)', 'rtf')",
     "cat_ref": "S05977E69",
     "work_ref": "W.S05977E69",
     "title_tib": "JIGS BYED ZHAL GCIG PHYAG GNYIS PA'I SGRUB THABS DNGOS GRUB KUN 'BYUNG",
@@ -19,10 +19,10 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "152108565216",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/'JIGS BYED/SGRUB THABS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "_id": "219185821551",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/'JIGS BYED/SGRUB THABS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
             "subject_tibetan": "SGRUB THABS",
             "subject_english": "RITUAL FOR REACHING THE ANGEL (SADHANA)"
         }
@@ -31,18 +31,26 @@
     "author": [
         {
             "author_name": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
-            "author_birth": "1565",
-            "author_death": "1662",
+            "author_birth": null,
+            "author_death": null,
             "bdrc_id": "bdr:P719",
             "normalized_name": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/sgrub thabs_ritual for reaching the angel (sadhana)",
-            "timestamp": "2024-09-10T02:13:53.107915+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "timestamp": "2024-11-20 05:10:39.237594+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:10:39.237594+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

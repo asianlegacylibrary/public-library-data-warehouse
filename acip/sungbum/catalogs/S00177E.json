@@ -1,12 +1,12 @@
 {
     "name": "S00177E_MA CIG DPAL LHA SOGS LA GTOR MA 'BUL TSUL_Ritual for the Offering of a Torma Cake to the One Mother (Machik), the Glorious Lady Angel(Kalidevi), and So On_LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN (1642-1714).TXT",
-    "path": "rgyud_secret teachings (tantra)/ma gcig lab sgron_machik labdrun/gtor ma_offering cake (bali)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/ma gcig lab sgron_machik labdrun/gtor ma_offering cake (bali)/s00177e_ma cig dpal lha sogs la gtor ma 'bul tsul_ritual for the offering of a torma cake to the one mother (machik), the glorious lady angel(kalidevi), and so on_lcang skya ngag dbang blo bzang chos ldan (1642-1714).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAHiQ",
-    "revision_id": "613f66492f1f38d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/MA GCIG LAB SGRON_MACHIK LABDRUN/GTOR MA_OFFERING CAKE (BALI)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/ma gcig lab sgron_machik labdrun/gtor ma_offering cake (bali)/s00177e_ma cig dpal lha sogs la gtor ma 'bul tsul_ritual for the offering of a torma cake to the one mother (machik), the glorious lady angel(kalidevi), and so on_lcang skya ngag dbang blo bzang chos ldan (1642-1714).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABc5Q",
+    "revision_id": "625a4986142b58d294473",
     "content_hash": "eb2e7822b081ec82a9ab9b35bbee5e7ae11a9cd9c49003425d82f0a497a66f38",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:08:36.015080",
+    "server_modified": "2024-10-29 21:52:01",
+    "last_sync": "2024-11-19 21:09:57.180736",
     "size": 9587,
     "meta_text": null,
     "cat_ref": "S00177E",
@@ -19,10 +19,10 @@
     "author_simple": "LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN",
     "subject": [
         {
-            "_id": "223261622043",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/MA GCIG LAB SGRON_MACHIK LABDRUN/GTOR MA_OFFERING CAKE (BALI)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/MA GCIG LAB SGRON/GTOR MA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/MACHIK LABDRUN/OFFERING CAKE (BALI)",
+            "_id": "250518665118",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/MA GCIG LAB SGRON_MACHIK LABDRUN/GTOR MA_OFFERING CAKE (BALI)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/MA GCIG LAB SGRON/GTOR MA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/MACHIK LABDRUN/OFFERING CAKE (BALI)",
             "subject_tibetan": "GTOR MA",
             "subject_english": "OFFERING CAKE (BALI)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P209"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/ma gcig lab sgron_machik labdrun/gtor ma_offering cake (bali)",
-            "timestamp": "2024-09-10T02:08:36.019244+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/MA GCIG LAB SGRON_MACHIK LABDRUN/GTOR MA_OFFERING CAKE (BALI)",
+            "timestamp": "2024-11-20 05:09:57.186760+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:09:57.186760+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

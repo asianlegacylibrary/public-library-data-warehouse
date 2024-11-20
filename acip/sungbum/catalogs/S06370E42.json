@@ -1,14 +1,14 @@
 {
     "name": "S06370E42_BZLOG PA'I SKABS SU LAG G-YAS G-YON DU PHYAG MTSAN JI LTAR THOGS DGOS PA'I DRI LAN_Response to a Question about What One Should be Holding in One's Left and Right Hands when Performing the Ceremony of Blocking Out Evil Influences_DNGUL CH+.TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/bzlog pa_repelling evil spirits",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/bzlog pa_repelling evil spirits/s06370e42_bzlog pa'i skabs su lag g-yas g-yon du phyag mtsan ji ltar thogs dgos pa'i dri lan_response to a question about what one should be holding in one's left and right hands when performing the ceremony of blocking out evil influences_dngul ch+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAANhw",
-    "revision_id": "613f6656dee588d294473",
+    "path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "download_path": "/sungbum updated 7 30 23 nl/dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)/s06370e42_bzlog pa'i skabs su lag g-yas g-yon du phyag mtsan ji ltar thogs dgos pa'i dri lan_response to a question about what one should be holding in one's left and right hands when performing the ceremony of blocking out evil influences_dngul ch+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABSwQ",
+    "revision_id": "625a481e040cb8d294473",
     "content_hash": "358594d276d1000de0aaa1cdb757e0b2e217d1bf4446ce1754e5c0c5fe10cc62",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:14:53.889158",
+    "server_modified": "2024-10-29 21:45:44",
+    "last_sync": "2024-11-19 20:53:39.974497",
     "size": 415,
-    "meta_text": "U DHARMA BHADRA (1772-1851)",
+    "meta_text": "('U DHARMA BHADRA (1772-1851)', 'rtf')",
     "cat_ref": "S06370E42",
     "work_ref": "W.S06370E42",
     "title_tib": "BZLOG PA'I SKABS SU LAG G-YAS G-YON DU PHYAG MTSAN JI LTAR THOGS DGOS PA'I DRI LAN",
@@ -19,20 +19,20 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "289210334279",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BZLOG PA_REPELLING EVIL SPIRITS",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/BZLOG PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/REPELLING EVIL SPIRITS",
-            "subject_tibetan": "BZLOG PA",
-            "subject_english": "REPELLING EVIL SPIRITS"
-        },
-        {
-            "_id": "244831615226",
-            "subject_path": "SUNGBUM_SUNGBUM/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_tibetan": "SUNGBUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_english": "SUNGBUM/QUESTIONS AND ANSWERS",
+            "_id": "250883940513",
+            "subject_path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "GSUNG 'BUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "Sungbum/QUESTIONS AND ANSWERS",
             "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
             "subject_english": "QUESTIONS AND ANSWERS"
+        },
+        {
+            "_id": "220133409586",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BZLOG PA_REPELLING EVIL SPIRITS",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/BZLOG PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/REPELLING EVIL SPIRITS",
+            "subject_tibetan": "BZLOG PA",
+            "subject_english": "REPELLING EVIL SPIRITS"
         }
     ],
     "items": [],
@@ -46,15 +46,29 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/bzlog pa_repelling evil spirits",
-            "timestamp": "2024-09-10T02:14:53.898312+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "timestamp": "2024-11-20 04:54:07.134886+00:00"
         },
         {
-            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
-            "timestamp": "2024-09-10T02:21:49.485927+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BZLOG PA_REPELLING EVIL SPIRITS",
+            "timestamp": "2024-11-20 05:03:40.541859+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:54:07.134886+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T05:03:40.541859+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "text"
 }

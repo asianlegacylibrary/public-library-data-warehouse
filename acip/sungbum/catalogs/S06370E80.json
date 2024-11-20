@@ -1,14 +1,14 @@
 {
     "name": "S06370E80_DAM CAN BKA' SDOD SDE GSUM SKOR GYI DRI LAN_Responses to Questions about the 'Three Groups of the Dharma Protectors' under Responses to Questions about the 'Three Groups of the Dharma Protectors under Pledge'_DNGUL CHU DHARMA BHADRA (1772-+.TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/sngags_secret words (mantra)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/sngags_secret words (mantra)/s06370e80_dam can bka' sdod sde gsum skor gyi dri lan_responses to questions about the 'three groups of the dharma protectors' under responses to questions about the 'three groups of the dharma protectors under pledge'_dngul chu dharma bhadra (1772-+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAOdQ",
-    "revision_id": "613f665b6108e8d294473",
+    "path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "download_path": "/sungbum updated 7 30 23 nl/dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)/s06370e80_dam can bka' sdod sde gsum skor gyi dri lan_responses to questions about the 'three groups of the dharma protectors' under responses to questions about the 'three groups of the dharma protectors under pledge'_dngul chu dharma bhadra (1772-+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABSow",
+    "revision_id": "625a48183b1298d294473",
     "content_hash": "bd575cf5f3d7401e0682d5597fb29b0d02e2f53a340f40c22d4b7aa8fdcb0480",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:15:51.499260",
+    "server_modified": "2024-10-29 21:45:38",
+    "last_sync": "2024-11-19 20:53:36.685747",
     "size": 1193,
-    "meta_text": "1851)",
+    "meta_text": "('1851)', 'rtf')",
     "cat_ref": "S06370E80",
     "work_ref": "W.S06370E80",
     "title_tib": "DAM CAN BKA' SDOD SDE GSUM SKOR GYI DRI LAN",
@@ -19,42 +19,56 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "257381864102",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SNGAGS_SECRET WORDS (MANTRA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/SNGAGS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/SECRET WORDS (MANTRA)",
-            "subject_tibetan": "SNGAGS",
-            "subject_english": "SECRET WORDS (MANTRA)"
-        },
-        {
-            "_id": "244831615226",
-            "subject_path": "SUNGBUM_SUNGBUM/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_tibetan": "SUNGBUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_english": "SUNGBUM/QUESTIONS AND ANSWERS",
+            "_id": "250883940513",
+            "subject_path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "GSUNG 'BUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "Sungbum/QUESTIONS AND ANSWERS",
             "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
             "subject_english": "QUESTIONS AND ANSWERS"
+        },
+        {
+            "_id": "208686629142",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SNGAGS_SECRET WORDS (MANTRA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/SNGAGS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/SECRET WORDS (MANTRA)",
+            "subject_tibetan": "SNGAGS",
+            "subject_english": "SECRET WORDS (MANTRA)"
         }
     ],
     "items": [],
     "author": [
         {
             "author_name": "DNGUL CHU DHARMA BHADRA",
-            "author_birth": "1772",
-            "author_death": "1851",
+            "author_birth": null,
+            "author_death": null,
             "bdrc_id": "bdr:P289",
             "normalized_name": "DNGUL CHU DHARMA BHADRA",
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/sngags_secret words (mantra)",
-            "timestamp": "2024-09-10T02:15:51.535005+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "timestamp": "2024-11-20 04:54:07.133813+00:00"
         },
         {
-            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
-            "timestamp": "2024-09-10T02:21:49.488928+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SNGAGS_SECRET WORDS (MANTRA)",
+            "timestamp": "2024-11-20 05:05:09.000145+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:54:07.133813+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T05:05:09.000145+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "text"
 }

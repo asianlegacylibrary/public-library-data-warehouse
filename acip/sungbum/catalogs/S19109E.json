@@ -1,12 +1,12 @@
 {
     "name": "S19109E_'PHAGS PA BZANG PO SPYOD PA'I SMON LAM GYI 'GREL BA RGYAL SRAS KYI SPYOD PA RGYA MTSO'I GNAD DON GSAL BAR BYED PA'I NYI MA_CO NE BLA MA GRAGS PA BSHAD SGRUB (1675-1748).TXT",
-    "path": "nyams len_personal practice/smon lam_making prayers/rje btzun blo bzang rta dbyangs_jetsun lobsang ta yang (1867-1937)",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/smon lam_making prayers/rje btzun blo bzang rta dbyangs_jetsun lobsang ta yang (1867-1937)/s19109e_'phags pa bzang po spyod pa'i smon lam gyi 'grel ba rgyal sras kyi spyod pa rgya mtso'i gnad don gsal bar byed pa'i nyi ma_co ne bla ma grags pa bshad sgrub (1675-1748).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAACFA",
-    "revision_id": "613f663ffc7078d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/RJE BTZUN BLO BZANG RTA DBYANGS_JETSUN LOBSANG TA YANG (1867-1937)",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/smon lam_making prayers/rje btzun blo bzang rta dbyangs_jetsun lobsang ta yang (1867-1937)/s19109e_'phags pa bzang po spyod pa'i smon lam gyi 'grel ba rgyal sras kyi spyod pa rgya mtso'i gnad don gsal bar byed pa'i nyi ma_co ne bla ma grags pa bshad sgrub (1675-1748).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABkcQ",
+    "revision_id": "625a4ad1340598d294473",
     "content_hash": "a4a51d4c734be610981e669e0782592ad32b71a75c48e55bcf40d83c7205797b",
-    "server_modified": "2024-03-18T21:53:40",
-    "last_sync": "2024-09-09T19:03:14.974784",
+    "server_modified": "2024-10-29 21:57:48",
+    "last_sync": "2024-11-19 21:23:25.963947",
     "size": 60805,
     "meta_text": null,
     "cat_ref": "S19109E",
@@ -19,10 +19,10 @@
     "author_simple": "",
     "subject": [
         {
-            "_id": "107715972356",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/RJE BTZUN BLO BZANG RTA DBYANGS_JETSUN LOBSANG TA YANG (1867-1937)",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/SMON LAM/RJE BTZUN BLO BZANG RTA DBYANGS",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/MAKING PRAYERS/JETSUN LOBSANG TA YANG (1867-1937)",
+            "_id": "960602441276",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/RJE BTZUN BLO BZANG RTA DBYANGS_JETSUN LOBSANG TA YANG (1867-1937)",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/SMON LAM/RJE BTZUN BLO BZANG RTA DBYANGS",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/MAKING PRAYERS/JETSUN LOBSANG TA YANG (1867-1937)",
             "subject_tibetan": "RJE BTZUN BLO BZANG RTA DBYANGS",
             "subject_english": "JETSUN LOBSANG TA YANG (1867-1937)"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/smon lam_making prayers/rje btzun blo bzang rta dbyangs_jetsun lobsang ta yang (1867-1937)",
-            "timestamp": "2024-09-10T02:03:14.988286+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/RJE BTZUN BLO BZANG RTA DBYANGS_JETSUN LOBSANG TA YANG (1867-1937)",
+            "timestamp": "2024-11-20 05:23:25.969279+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:23:25.969279+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

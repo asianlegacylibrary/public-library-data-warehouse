@@ -1,14 +1,14 @@
 {
     "name": "S06370EJ0_DUR KHROD KYI CHU BRGYAD DANG ME BRGYAD, MCHOD RTEN BRGYAD BCAS SKOR GYI DRI LAN_Response to a Question on the Eight Waters and the Eight Fires of the Burial Ground, as well as on the Eight Offering Shrines_DNGUL CHU DHARMA BHADRA (1772-18+.TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/dur khrod_burial grounds",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/dur khrod_burial grounds/s06370ej0_dur khrod kyi chu brgyad dang me brgyad, mchod rten brgyad bcas skor gyi dri lan_response to a question on the eight waters and the eight fires of the burial ground, as well as on the eight offering shrines_dngul chu dharma bhadra (1772-18+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAOjw",
-    "revision_id": "613f665b610a88d294473",
+    "path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "download_path": "/sungbum updated 7 30 23 nl/dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)/s06370ej0_dur khrod kyi chu brgyad dang me brgyad, mchod rten brgyad bcas skor gyi dri lan_response to a question on the eight waters and the eight fires of the burial ground, as well as on the eight offering shrines_dngul chu dharma bhadra (1772-18+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABTIg",
+    "revision_id": "625a482bfb64f8d294473",
     "content_hash": "2437feddb13a985a3926ad8703d065c3cdbbc43742dc90d2e030b2bb80a2438e",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:15:53.510930",
+    "server_modified": "2024-10-29 21:45:58",
+    "last_sync": "2024-11-19 20:53:49.954998",
     "size": 380,
-    "meta_text": "51)",
+    "meta_text": "('51)', 'rtf')",
     "cat_ref": "S06370EJ0",
     "work_ref": "W.S06370EJ0",
     "title_tib": "DUR KHROD KYI CHU BRGYAD DANG ME BRGYAD, MCHOD RTEN BRGYAD BCAS SKOR GYI DRI LAN",
@@ -19,42 +19,56 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "290482272374",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/DUR KHROD_BURIAL GROUNDS",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/DUR KHROD",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/BURIAL GROUNDS",
-            "subject_tibetan": "DUR KHROD",
-            "subject_english": "BURIAL GROUNDS"
-        },
-        {
-            "_id": "244831615226",
-            "subject_path": "SUNGBUM_SUNGBUM/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_tibetan": "SUNGBUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_english": "SUNGBUM/QUESTIONS AND ANSWERS",
+            "_id": "250883940513",
+            "subject_path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "GSUNG 'BUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "Sungbum/QUESTIONS AND ANSWERS",
             "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
             "subject_english": "QUESTIONS AND ANSWERS"
+        },
+        {
+            "_id": "106161251941",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/DUR KHROD_BURIAL GROUNDS",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/DUR KHROD",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/BURIAL GROUNDS",
+            "subject_tibetan": "DUR KHROD",
+            "subject_english": "BURIAL GROUNDS"
         }
     ],
     "items": [],
     "author": [
         {
             "author_name": "DNGUL CHU DHARMA BHADRA",
-            "author_birth": "1772",
-            "author_death": "1851",
+            "author_birth": null,
+            "author_death": null,
             "bdrc_id": "bdr:P289",
             "normalized_name": "DNGUL CHU DHARMA BHADRA",
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/dur khrod_burial grounds",
-            "timestamp": "2024-09-10T02:15:53.512945+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "timestamp": "2024-11-20 04:54:07.137785+00:00"
         },
         {
-            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
-            "timestamp": "2024-09-10T02:21:49.511387+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/DUR KHROD_BURIAL GROUNDS",
+            "timestamp": "2024-11-20 05:04:48.443585+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:54:07.137785+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T05:04:48.443585+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "text"
 }

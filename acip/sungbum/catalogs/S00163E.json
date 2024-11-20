@@ -1,28 +1,28 @@
 {
     "name": "S00163E_DPAL 'KHOR LO SDOM PA BDE MCHOG DRIL BU PA'I LUS DKYIL GYI SHIS BRJOD_Benediction for the Practice of the Secret World of the Body in the Teachings of the Union of the Spheres (Chakrasamvara) and Highest Bliss (Sambara), according to the Tra +.TXT",
-    "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/lus dkyil_secret world of the body",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/lus dkyil_secret world of the body/s00163e_dpal 'khor lo sdom pa bde mchog dril bu pa'i lus dkyil gyi shis brjod_benediction for the practice of the secret world of the body in the teachings of the union of the spheres (chakrasamvara) and highest bliss (sambara), according to the tra +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAPZw",
-    "revision_id": "613f665b611808d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/LUS DKYIL_SECRET WORLD OF THE BODY",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/lus dkyil_secret world of the body/s00163e_dpal 'khor lo sdom pa bde mchog dril bu pa'i lus dkyil gyi shis brjod_benediction for the practice of the secret world of the body in the teachings of the union of the spheres (chakrasamvara) and highest bliss (sambara), according to the tra +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABUpw",
+    "revision_id": "625a486d22ac48d294473",
     "content_hash": "885d82f92e8bded7f4d5e152cd99938362656cfd9fcc3753acfeedaadc88b84c",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:16:53.053128",
+    "server_modified": "2024-10-29 21:47:07",
+    "last_sync": "2024-11-19 20:55:58.357642",
     "size": 5445,
-    "meta_text": "dition of Ghantapada_LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN (1642-1714)",
+    "meta_text": "('dition of Ghantapada_LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN (1642-1714)', 'rtf')",
     "cat_ref": "S00163E",
     "work_ref": "W.S00163E",
     "title_tib": "DPAL 'KHOR LO SDOM PA BDE MCHOG DRIL BU PA'I LUS DKYIL GYI SHIS BRJOD",
-    "title_eng": "Benediction for the Practice of the Secret World of the Body in the Teachings of the Union of the Spheres (Chakrasamvara) and Highest Bliss (Sambara), according to the Tradition of Ghantapada",
+    "title_eng": "Benediction for the Practice of the Secret World of the Body in the Teachings of the Union of the Spheres (Chakrasamvara) and Highest Bliss (Sambara), according to the Tra('dition of Ghantapada",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN",
     "subject": [
         {
-            "_id": "936814418873",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/LUS DKYIL_SECRET WORLD OF THE BODY",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/BDE MCHOG/LUS DKYIL",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/SECRET WORLD OF THE BODY",
+            "_id": "934495339853",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/LUS DKYIL_SECRET WORLD OF THE BODY",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/BDE MCHOG/LUS DKYIL",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/SECRET WORLD OF THE BODY",
             "subject_tibetan": "LUS DKYIL",
             "subject_english": "SECRET WORLD OF THE BODY"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P209"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/lus dkyil_secret world of the body",
-            "timestamp": "2024-09-10T02:16:53.067585+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/LUS DKYIL_SECRET WORLD OF THE BODY",
+            "timestamp": "2024-11-20 04:55:59.794689+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:55:59.794689+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

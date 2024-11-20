@@ -1,28 +1,28 @@
 {
     "name": "S05310E_DPAL GSANG BA 'DUS PA'I RDO RJE SEMS DPA' MNYES PAR BYED PA'I CHO GA'I NGAG 'DON GYI RIM PA_Steps of an Oral Recitation for the Ritual of Pleasing the Warrior of Diamond (Vajrasattva) in the Practice of the Glorious Secret Collection (Guhyas +.TXT",
-    "path": "rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/rdo rje sems dpa'_warrior of diamond (vajrasattva)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/rdo rje sems dpa'_warrior of diamond (vajrasattva)/s05310e_dpal gsang ba 'dus pa'i rdo rje sems dpa' mnyes par byed pa'i cho ga'i ngag 'don gyi rim pa_steps of an oral recitation for the ritual of pleasing the warrior of diamond (vajrasattva) in the practice of the glorious secret collection (guhyas +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAARQg",
-    "revision_id": "613f665fcd6c78d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/RDO RJE SEMS DPA'_WARRIOR OF DIAMOND (VAJRASATTVA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/rdo rje sems dpa'_warrior of diamond (vajrasattva)/s05310e_dpal gsang ba 'dus pa'i rdo rje sems dpa' mnyes par byed pa'i cho ga'i ngag 'don gyi rim pa_steps of an oral recitation for the ritual of pleasing the warrior of diamond (vajrasattva) in the practice of the glorious secret collection (guhyas +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABbKQ",
+    "revision_id": "625a49471b6b08d294473",
     "content_hash": "dfe632e8c2ccd427755dcc8be973af0c00929e860f5272009b90a2674909facf",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:18:52.332205",
+    "server_modified": "2024-10-29 21:50:55",
+    "last_sync": "2024-11-19 21:06:56.020127",
     "size": 30265,
-    "meta_text": "amaja)_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)",
+    "meta_text": "('amaja)_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)', 'rtf')",
     "cat_ref": "S05310E",
     "work_ref": "W.S05310E",
     "title_tib": "DPAL GSANG BA 'DUS PA'I RDO RJE SEMS DPA' MNYES PAR BYED PA'I CHO GA'I NGAG 'DON GYI RIM PA",
-    "title_eng": "Steps of an Oral Recitation for the Ritual of Pleasing the Warrior of Diamond (Vajrasattva) in the Practice of the Glorious Secret Collection (Guhyasamaja)",
+    "title_eng": "Steps of an Oral Recitation for the Ritual of Pleasing the Warrior of Diamond (Vajrasattva) in the Practice of the Glorious Secret Collection (Guhyas('amaja)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "217373023760",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/RDO RJE SEMS DPA'_WARRIOR OF DIAMOND (VAJRASATTVA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/GSANG 'DUS/RDO RJE SEMS DPA'",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/SECRET COLLECTION (GUHYASAMAJA)/WARRIOR OF DIAMOND (VAJRASATTVA)",
+            "_id": "276219387288",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/RDO RJE SEMS DPA'_WARRIOR OF DIAMOND (VAJRASATTVA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/GSANG 'DUS/RDO RJE SEMS DPA'",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/SECRET COLLECTION (GUHYASAMAJA)/WARRIOR OF DIAMOND (VAJRASATTVA)",
             "subject_tibetan": "RDO RJE SEMS DPA'",
             "subject_english": "WARRIOR OF DIAMOND (VAJRASATTVA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/rdo rje sems dpa'_warrior of diamond (vajrasattva)",
-            "timestamp": "2024-09-10T02:18:52.334607+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/RDO RJE SEMS DPA'_WARRIOR OF DIAMOND (VAJRASATTVA)",
+            "timestamp": "2024-11-20 05:06:56.024847+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:06:56.024847+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

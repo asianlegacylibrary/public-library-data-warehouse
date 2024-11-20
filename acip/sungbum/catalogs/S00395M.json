@@ -1,12 +1,12 @@
 {
     "name": "S00395M_GTOR MA LA BRTEN PA'I BLO SBYONG_Instructions for Using the Practice of Offering Torma Cakes to Help Develop the Good Heart_KHAM LUNG PA (1232-@).TXT",
-    "path": "blo sbyong_developing the good heart/gtor ma la brten pa'i blo sbyong_instructions for using the practice of offering torma cakes to help develop the good heart",
-    "download_path": "/sungbum updated 4 26 23 bk/blo sbyong_developing the good heart/gtor ma la brten pa'i blo sbyong_instructions for using the practice of offering torma cakes to help develop the good heart/s00395m_gtor ma la brten pa'i blo sbyong_instructions for using the practice of offering torma cakes to help develop the good heart_kham lung pa (1232-@).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAS9Q",
-    "revision_id": "613f6664744188d294473",
+    "path": "BLO SBYONG_DEVELOPING THE GOOD HEART/GTOR MA LA BRTEN PA'I BLO SBYONG_INSTRUCTIONS FOR USING THE PRACTICE OF OFFERING TORMA CAKES TO HELP DEVELOP THE GOOD HEART",
+    "download_path": "/sungbum updated 7 30 23 nl/blo sbyong_developing the good heart/gtor ma la brten pa'i blo sbyong_instructions for using the practice of offering torma cakes to help develop the good heart/s00395m_gtor ma la brten pa'i blo sbyong_instructions for using the practice of offering torma cakes to help develop the good heart_kham lung pa (1232-@).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABlZw",
+    "revision_id": "625a4aebfee218d294473",
     "content_hash": "a9cd20bdad78737da10e3c323d48eb101ef3cf351f4e8e805a1b8cc06fff7840",
-    "server_modified": "2024-03-18T21:54:19",
-    "last_sync": "2024-09-09T19:20:40.462733",
+    "server_modified": "2024-10-29 21:58:16",
+    "last_sync": "2024-11-19 21:25:12.150344",
     "size": 1264,
     "meta_text": null,
     "cat_ref": "S00395M",
@@ -19,10 +19,10 @@
     "author_simple": "KHAM LUNG PA",
     "subject": [
         {
-            "_id": "277422799173",
-            "subject_path": "SUNGBUM_SUNGBUM/BLO SBYONG_DEVELOPING THE GOOD HEART/GTOR MA LA BRTEN PA'I BLO SBYONG_INSTRUCTIONS FOR USING THE PRACTICE OF OFFERING TORMA CAKES TO HELP DEVELOP THE GOOD HEART",
-            "subject_path_tibetan": "SUNGBUM/BLO SBYONG/GTOR MA LA BRTEN PA'I BLO SBYONG",
-            "subject_path_english": "SUNGBUM/DEVELOPING THE GOOD HEART/INSTRUCTIONS FOR USING THE PRACTICE OF OFFERING TORMA CAKES TO HELP DEVELOP THE GOOD HEART",
+            "_id": "241893868564",
+            "subject_path": "GSUNG 'BUM_Sungbum/BLO SBYONG_DEVELOPING THE GOOD HEART/GTOR MA LA BRTEN PA'I BLO SBYONG_INSTRUCTIONS FOR USING THE PRACTICE OF OFFERING TORMA CAKES TO HELP DEVELOP THE GOOD HEART",
+            "subject_path_tibetan": "GSUNG 'BUM/BLO SBYONG/GTOR MA LA BRTEN PA'I BLO SBYONG",
+            "subject_path_english": "Sungbum/DEVELOPING THE GOOD HEART/INSTRUCTIONS FOR USING THE PRACTICE OF OFFERING TORMA CAKES TO HELP DEVELOP THE GOOD HEART",
             "subject_tibetan": "GTOR MA LA BRTEN PA'I BLO SBYONG",
             "subject_english": "INSTRUCTIONS FOR USING THE PRACTICE OF OFFERING TORMA CAKES TO HELP DEVELOP THE GOOD HEART"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "blo sbyong_developing the good heart/gtor ma la brten pa'i blo sbyong_instructions for using the practice of offering torma cakes to help develop the good heart",
-            "timestamp": "2024-09-10T02:20:40.465866+00:00"
+            "path": "GSUNG 'BUM_Sungbum/BLO SBYONG_DEVELOPING THE GOOD HEART/GTOR MA LA BRTEN PA'I BLO SBYONG_INSTRUCTIONS FOR USING THE PRACTICE OF OFFERING TORMA CAKES TO HELP DEVELOP THE GOOD HEART",
+            "timestamp": "2024-11-20 05:25:12.155033+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:25:12.155033+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,12 +1,12 @@
 {
     "name": "S19034E_BSTAN RTZIS RE MIG BKOD PA_A Chronology Set Down in Tabular Form_'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS (1648-1721).TXT",
-    "path": "chos 'byung_religious histories/'jam dbyangs bzhad pa'i rdo rje'i chos 'byung_religous history by jamyang shepay dorje",
-    "download_path": "/sungbum updated 4 26 23 bk/chos 'byung_religious histories/'jam dbyangs bzhad pa'i rdo rje'i chos 'byung_religous history by jamyang shepay dorje/s19034e_bstan rtzis re mig bkod pa_a chronology set down in tabular form_'jam dbyangs bzhad pa'i rdo rje ngag dbang brtzon 'grus (1648-1721).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAARtA",
-    "revision_id": "613f6664742d78d294473",
+    "path": "CHOS 'BYUNG_RELIGIOUS HISTORIES/'JAM DBYANGS BZHAD PA'I RDO RJE'I CHOS 'BYUNG_RELIGOUS HISTORY BY JAMYANG SHEPAY DORJE",
+    "download_path": "/sungbum updated 7 30 23 nl/chos 'byung_religious histories/'jam dbyangs bzhad pa'i rdo rje'i chos 'byung_religous history by jamyang shepay dorje/s19034e_bstan rtzis re mig bkod pa_a chronology set down in tabular form_'jam dbyangs bzhad pa'i rdo rje ngag dbang brtzon 'grus (1648-1721).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABT2w",
+    "revision_id": "625a484ed08c78d294473",
     "content_hash": "aeb118cd4ad9a0b1bebd064391aa8f76fb6af89148e7584cce6e33148f24ac2c",
-    "server_modified": "2024-03-18T21:54:19",
-    "last_sync": "2024-09-09T19:19:18.101592",
+    "server_modified": "2024-10-29 21:46:35",
+    "last_sync": "2024-11-19 20:54:32.189536",
     "size": 81672,
     "meta_text": null,
     "cat_ref": "S19034E",
@@ -19,10 +19,10 @@
     "author_simple": "'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS",
     "subject": [
         {
-            "_id": "189854384321",
-            "subject_path": "SUNGBUM_SUNGBUM/CHOS 'BYUNG_RELIGIOUS HISTORIES/'JAM DBYANGS BZHAD PA'I RDO RJE'I CHOS 'BYUNG_RELIGOUS HISTORY BY JAMYANG SHEPAY DORJE",
-            "subject_path_tibetan": "SUNGBUM/CHOS 'BYUNG/'JAM DBYANGS BZHAD PA'I RDO RJE'I CHOS 'BYUNG",
-            "subject_path_english": "SUNGBUM/RELIGIOUS HISTORIES/RELIGOUS HISTORY BY JAMYANG SHEPAY DORJE",
+            "_id": "210446000678",
+            "subject_path": "GSUNG 'BUM_Sungbum/CHOS 'BYUNG_RELIGIOUS HISTORIES/'JAM DBYANGS BZHAD PA'I RDO RJE'I CHOS 'BYUNG_RELIGOUS HISTORY BY JAMYANG SHEPAY DORJE",
+            "subject_path_tibetan": "GSUNG 'BUM/CHOS 'BYUNG/'JAM DBYANGS BZHAD PA'I RDO RJE'I CHOS 'BYUNG",
+            "subject_path_english": "Sungbum/RELIGIOUS HISTORIES/RELIGOUS HISTORY BY JAMYANG SHEPAY DORJE",
             "subject_tibetan": "'JAM DBYANGS BZHAD PA'I RDO RJE'I CHOS 'BYUNG",
             "subject_english": "RELIGOUS HISTORY BY JAMYANG SHEPAY DORJE"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P423"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "chos 'byung_religious histories/'jam dbyangs bzhad pa'i rdo rje'i chos 'byung_religous history by jamyang shepay dorje",
-            "timestamp": "2024-09-10T02:19:18.104321+00:00"
+            "path": "GSUNG 'BUM_Sungbum/CHOS 'BYUNG_RELIGIOUS HISTORIES/'JAM DBYANGS BZHAD PA'I RDO RJE'I CHOS 'BYUNG_RELIGOUS HISTORY BY JAMYANG SHEPAY DORJE",
+            "timestamp": "2024-11-20 04:54:32.866761+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:54:32.866761+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "rtf"
 }

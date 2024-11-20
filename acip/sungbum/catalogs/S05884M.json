@@ -1,14 +1,14 @@
 {
     "name": "S05884M_CHOS KYI RJE SA SKYA PAndI TA KUN DGA' RGYAL MTSAN GYI RTOGS PA BRJOD PA DRI ZA'I GLU DBYANGS_The 'Song of the Celestial Musicians,' being the Life Story of that Lord of the Dharma, the Sakya Pandita, Kunga Gyeltsen_PAn CHEN BLO BZANG CHOS K +.TXT",
-    "path": "rnam thar_biographies/mtsan thog_by person's name/sa skya pandi ta kun dga' rgyal mtsan_sakya pandita kunga gyeltsen",
-    "download_path": "/sungbum updated 4 26 23 bk/rnam thar_biographies/mtsan thog_by person's name/sa skya pandi ta kun dga' rgyal mtsan_sakya pandita kunga gyeltsen/s05884m_chos kyi rje sa skya pandi ta kun dga' rgyal mtsan gyi rtogs pa brjod pa dri za'i glu dbyangs_the 'song of the celestial musicians,' being the life story of that lord of the dharma, the sakya pandita, kunga gyeltsen_pan chen blo bzang chos k +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAWIQ",
-    "revision_id": "613f666d2093d8d294473",
+    "path": "RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/SA SKYA PAndI TA KUN DGA' RGYAL MTSAN_SAKYA PANDITA KUNGA GYELTSEN",
+    "download_path": "/sungbum updated 7 30 23 nl/rnam thar_biographies/mtsan thog_by person's name/sa skya pandi ta kun dga' rgyal mtsan_sakya pandita kunga gyeltsen/s05884m_chos kyi rje sa skya pandi ta kun dga' rgyal mtsan gyi rtogs pa brjod pa dri za'i glu dbyangs_the 'song of the celestial musicians,' being the life story of that lord of the dharma, the sakya pandita, kunga gyeltsen_pan chen blo bzang chos k +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABgQw",
+    "revision_id": "625a4a19910568d294473",
     "content_hash": "3b31610659a04c8717f414f1363d7a05e6ada3ab1ca172d49b0f2d356aa4a0ed",
-    "server_modified": "2024-03-18T21:54:28",
-    "last_sync": "2024-09-09T19:23:16.708206",
+    "server_modified": "2024-10-29 21:54:36",
+    "last_sync": "2024-11-19 21:16:02.356347",
     "size": 14780,
-    "meta_text": "YI RGYAL MTSAN (1565-1662)",
+    "meta_text": "('YI RGYAL MTSAN (1565-1662)', 'rtf')",
     "cat_ref": "S05884M",
     "work_ref": "W.S05884M",
     "title_tib": "CHOS KYI RJE SA SKYA PAndI TA KUN DGA' RGYAL MTSAN GYI RTOGS PA BRJOD PA DRI ZA'I GLU DBYANGS",
@@ -19,11 +19,11 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "177982815537",
-            "subject_path": "SUNGBUM_SUNGBUM/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/SA SKYA PANDI TA KUN DGA' RGYAL MTSAN_SAKYA PANDITA KUNGA GYELTSEN",
-            "subject_path_tibetan": "SUNGBUM/RNAM THAR/MTSAN THOG/SA SKYA PANDI TA KUN DGA' RGYAL MTSAN",
-            "subject_path_english": "SUNGBUM/BIOGRAPHIES/BY PERSON'S NAME/SAKYA PANDITA KUNGA GYELTSEN",
-            "subject_tibetan": "SA SKYA PANDI TA KUN DGA' RGYAL MTSAN",
+            "_id": "208049236050",
+            "subject_path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/SA SKYA PAndI TA KUN DGA' RGYAL MTSAN_SAKYA PANDITA KUNGA GYELTSEN",
+            "subject_path_tibetan": "GSUNG 'BUM/RNAM THAR/MTSAN THOG/SA SKYA PAndI TA KUN DGA' RGYAL MTSAN",
+            "subject_path_english": "Sungbum/BIOGRAPHIES/BY PERSON'S NAME/SAKYA PANDITA KUNGA GYELTSEN",
+            "subject_tibetan": "SA SKYA PAndI TA KUN DGA' RGYAL MTSAN",
             "subject_english": "SAKYA PANDITA KUNGA GYELTSEN"
         }
     ],
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rnam thar_biographies/mtsan thog_by person's name/sa skya pandi ta kun dga' rgyal mtsan_sakya pandita kunga gyeltsen",
-            "timestamp": "2024-09-10T02:23:16.712057+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/SA SKYA PAndI TA KUN DGA' RGYAL MTSAN_SAKYA PANDITA KUNGA GYELTSEN",
+            "timestamp": "2024-11-20 05:16:02.361433+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:16:02.361433+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

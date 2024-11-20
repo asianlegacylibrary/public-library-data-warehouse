@@ -1,28 +1,28 @@
 {
     "name": "S05437A_TSAD MA KUN LAS BTUS PA'I RNAM BSHAD MTHAR 'DZIN GYI TSA GDUNG BA 'JOMS BYED RIGS PA'I RGYA MTSO_The 'Ocean of Reasoning, which Destroys the Torment of the Heat of Grasping to Extreme Positions,' being an Explanation of 'The Compendium on Ac+.TXT",
-    "path": "tsad ma_study of accurate perception (sautrantika school)/tsad ma kun btus (pramana samuchaya)_compendium on accurate perceptions",
-    "download_path": "/sungbum updated 4 26 23 bk/tsad ma_study of accurate perception (sautrantika school)/tsad ma kun btus (pramana samuchaya)_compendium on accurate perceptions/s05437a_tsad ma kun las btus pa'i rnam bshad mthar 'dzin gyi tsa gdung ba 'joms byed rigs pa'i rgya mtso_the 'ocean of reasoning, which destroys the torment of the heat of grasping to extreme positions,' being an explanation of 'the compendium on ac+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAFyQ",
-    "revision_id": "613f664484aed8d294473",
+    "path": "TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/TSAD MA KUN BTUS (PRAMANA SAMUCHAYA)_COMPENDIUM ON ACCURATE PERCEPTIONS",
+    "download_path": "/sungbum updated 7 30 23 nl/tsad ma_study of accurate perception (sautrantika school)/tsad ma kun btus (pramana samuchaya)_compendium on accurate perceptions/s05437a_tsad ma kun las btus pa'i rnam bshad mthar 'dzin gyi tsa gdung ba 'joms byed rigs pa'i rgya mtso_the 'ocean of reasoning, which destroys the torment of the heat of grasping to extreme positions,' being an explanation of 'the compendium on ac+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABQCA",
+    "revision_id": "625a47b3bd6308d294473",
     "content_hash": "09d4482d906c276ff95555af6f312a9d583fd4b6d71c80a53b8b2cc12acd5fcc",
-    "server_modified": "2024-03-18T21:53:45",
-    "last_sync": "2024-09-09T19:06:55.118066",
+    "server_modified": "2024-10-29 21:43:52",
+    "last_sync": "2024-11-19 20:48:58.523219",
     "size": 368339,
-    "meta_text": "curate Perception_RGYAL TSAB DAR MA RIN CHEN (1364-1432)",
+    "meta_text": "('curate Perception_RGYAL TSAB DAR MA RIN CHEN (1364-1432)', 'rtf')",
     "cat_ref": "S05437A",
     "work_ref": "W.S05437A",
     "title_tib": "TSAD MA KUN LAS BTUS PA'I RNAM BSHAD MTHAR 'DZIN GYI TSA GDUNG BA 'JOMS BYED RIGS PA'I RGYA MTSO",
-    "title_eng": "The 'Ocean of Reasoning, which Destroys the Torment of the Heat of Grasping to Extreme Positions,' being an Explanation of 'The Compendium on Accurate Perception",
+    "title_eng": "The 'Ocean of Reasoning, which Destroys the Torment of the Heat of Grasping to Extreme Positions,' being an Explanation of 'The Compendium on Ac('curate Perception",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "RGYAL TSAB DAR MA RIN CHEN",
     "subject": [
         {
-            "_id": "339996706541",
-            "subject_path": "SUNGBUM_SUNGBUM/TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/TSAD MA KUN BTUS (PRAMANA SAMUCHAYA)_COMPENDIUM ON ACCURATE PERCEPTIONS",
-            "subject_path_tibetan": "SUNGBUM/TSAD MA/TSAD MA KUN BTUS (PRAMANA SAMUCHAYA)",
-            "subject_path_english": "SUNGBUM/STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/COMPENDIUM ON ACCURATE PERCEPTIONS",
+            "_id": "825036552399",
+            "subject_path": "GSUNG 'BUM_Sungbum/TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/TSAD MA KUN BTUS (PRAMANA SAMUCHAYA)_COMPENDIUM ON ACCURATE PERCEPTIONS",
+            "subject_path_tibetan": "GSUNG 'BUM/TSAD MA/TSAD MA KUN BTUS (PRAMANA SAMUCHAYA)",
+            "subject_path_english": "Sungbum/STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/COMPENDIUM ON ACCURATE PERCEPTIONS",
             "subject_tibetan": "TSAD MA KUN BTUS (PRAMANA SAMUCHAYA)",
             "subject_english": "COMPENDIUM ON ACCURATE PERCEPTIONS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P65"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "tsad ma_study of accurate perception (sautrantika school)/tsad ma kun btus (pramana samuchaya)_compendium on accurate perceptions",
-            "timestamp": "2024-09-10T02:06:55.128316+00:00"
+            "path": "GSUNG 'BUM_Sungbum/TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/TSAD MA KUN BTUS (PRAMANA SAMUCHAYA)_COMPENDIUM ON ACCURATE PERCEPTIONS",
+            "timestamp": "2024-11-20 04:48:58.528697+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:48:58.528697+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

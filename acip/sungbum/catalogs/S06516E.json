@@ -1,14 +1,14 @@
 {
     "name": "S06516E_BYANG CHUB LAM GYI RIM PA CHUNG NGU'I ZIN BRIS BLO GSAL RGYA MTSO'I 'JUG NGOGS_'An Entry Point to the Great Ocean, for Those of Clear Intellect,' being Lecture Notes on the 'Briefer Presentation of the Steps on the Path to Enlightenment'_KE'+.TXT",
-    "path": "lam rim_steps of the path/lam rim chung ba_brief presentation of the steps of the path",
-    "download_path": "/sungbum updated 4 26 23 bk/lam rim_steps of the path/lam rim chung ba_brief presentation of the steps of the path/s06516e_byang chub lam gyi rim pa chung ngu'i zin bris blo gsal rgya mtso'i 'jug ngogs_'an entry point to the great ocean, for those of clear intellect,' being lecture notes on the 'briefer presentation of the steps on the path to enlightenment'_ke'+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAG1Q",
-    "revision_id": "613f66492f13f8d294473",
+    "path": "LAM RIM_STEPS OF THE PATH/LAM RIM CHUNG BA_BRIEF PRESENTATION OF THE STEPS OF THE PATH",
+    "download_path": "/sungbum updated 7 30 23 nl/lam rim_steps of the path/lam rim chung ba_brief presentation of the steps of the path/s06516e_byang chub lam gyi rim pa chung ngu'i zin bris blo gsal rgya mtso'i 'jug ngogs_'an entry point to the great ocean, for those of clear intellect,' being lecture notes on the 'briefer presentation of the steps on the path to enlightenment'_ke'+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABhqA",
+    "revision_id": "625a4a664cd078d294473",
     "content_hash": "80cd4c5957c0bcd7337e890b2acd01700ee535c174650056738b30641e702ff3",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:07:57.611515",
+    "server_modified": "2024-10-29 21:55:56",
+    "last_sync": "2024-11-19 21:18:13.895495",
     "size": 721552,
-    "meta_text": "U TSANG BLO BZANG 'JAM DBYANGS SMON LAM (1689-@)",
+    "meta_text": "(\"U TSANG BLO BZANG 'JAM DBYANGS SMON LAM (1689-@)\", 'rtf')",
     "cat_ref": "S06516E",
     "work_ref": "W.S06516E",
     "title_tib": "BYANG CHUB LAM GYI RIM PA CHUNG NGU'I ZIN BRIS BLO GSAL RGYA MTSO'I 'JUG NGOGS",
@@ -19,10 +19,10 @@
     "author_simple": "KE'U TSANG BLO BZANG ''JAM DBYANGS SMON LAM",
     "subject": [
         {
-            "_id": "190547499872",
-            "subject_path": "SUNGBUM_SUNGBUM/LAM RIM_STEPS OF THE PATH/LAM RIM CHUNG BA_BRIEF PRESENTATION OF THE STEPS OF THE PATH",
-            "subject_path_tibetan": "SUNGBUM/LAM RIM/LAM RIM CHUNG BA",
-            "subject_path_english": "SUNGBUM/STEPS OF THE PATH/BRIEF PRESENTATION OF THE STEPS OF THE PATH",
+            "_id": "379439734587",
+            "subject_path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/LAM RIM CHUNG BA_BRIEF PRESENTATION OF THE STEPS OF THE PATH",
+            "subject_path_tibetan": "GSUNG 'BUM/LAM RIM/LAM RIM CHUNG BA",
+            "subject_path_english": "Sungbum/STEPS OF THE PATH/BRIEF PRESENTATION OF THE STEPS OF THE PATH",
             "subject_tibetan": "LAM RIM CHUNG BA",
             "subject_english": "BRIEF PRESENTATION OF THE STEPS OF THE PATH"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P307"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "lam rim_steps of the path/lam rim chung ba_brief presentation of the steps of the path",
-            "timestamp": "2024-09-10T02:07:57.617784+00:00"
+            "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/LAM RIM CHUNG BA_BRIEF PRESENTATION OF THE STEPS OF THE PATH",
+            "timestamp": "2024-11-20 05:18:13.900237+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:18:13.900237+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,12 +1,12 @@
 {
     "name": "S00460E_'CHI MED DAM RDZAS PHAB RGYUN GYI DKAR CHAG_A List of the Holy Substances that Have Come Down to Us for Attaining the State of Deathlessness_@ (@-@).TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/tse sgrub_ritual for long life",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/tse sgrub_ritual for long life/s00460e_'chi med dam rdzas phab rgyun gyi dkar chag_a list of the holy substances that have come down to us for attaining the state of deathlessness_@ (@-@).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAOGQ",
-    "revision_id": "613f665b610328d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/TSE SGRUB_RITUAL FOR LONG LIFE",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyi_general treatments/tse sgrub_ritual for long life/s00460e_'chi med dam rdzas phab rgyun gyi dkar chag_a list of the holy substances that have come down to us for attaining the state of deathlessness_@ (@-@).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABY4Q",
+    "revision_id": "625a48ec6ad948d294473",
     "content_hash": "98d62908b3217a8e637fda5deb479ad71b4136755c22e5cb2a19725423a346bf",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:15:26.843239",
+    "server_modified": "2024-10-29 21:49:20",
+    "last_sync": "2024-11-19 21:03:10.756739",
     "size": 4084,
     "meta_text": null,
     "cat_ref": "S00460E",
@@ -19,10 +19,10 @@
     "author_simple": "",
     "subject": [
         {
-            "_id": "171868651682",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/TSE SGRUB_RITUAL FOR LONG LIFE",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/TSE SGRUB",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/RITUAL FOR LONG LIFE",
+            "_id": "323947312757",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/TSE SGRUB_RITUAL FOR LONG LIFE",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/TSE SGRUB",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/RITUAL FOR LONG LIFE",
             "subject_tibetan": "TSE SGRUB",
             "subject_english": "RITUAL FOR LONG LIFE"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/tse sgrub_ritual for long life",
-            "timestamp": "2024-09-10T02:15:26.851137+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/TSE SGRUB_RITUAL FOR LONG LIFE",
+            "timestamp": "2024-11-20 05:03:11.958647+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:03:11.958647+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

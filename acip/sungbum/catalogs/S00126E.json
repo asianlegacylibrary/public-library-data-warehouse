@@ -1,12 +1,12 @@
 {
     "name": "S00126E_AARGA'I CHO GA BYA TSUL_How to Perform Rituals to Bless the Construction of Sacred Buildings and Similar Sites_LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN (1642-1714).TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/arga_arga ritual",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/arga_arga ritual/s00126e_aarga'i cho ga bya tsul_how to perform rituals to bless the construction of sacred buildings and similar sites_lcang skya ngag dbang blo bzang chos ldan (1642-1714).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAANPg",
-    "revision_id": "613f6656dee0f8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/ARGA_ARGA RITUAL",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyi_general treatments/arga_arga ritual/s00126e_aarga'i cho ga bya tsul_how to perform rituals to bless the construction of sacred buildings and similar sites_lcang skya ngag dbang blo bzang chos ldan (1642-1714).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABaCw",
+    "revision_id": "625a491a8a1758d294473",
     "content_hash": "ba4b2dcb5698b7fb343c9e14af4714b37e5e6830b7c89ade67688f4ba7480f2b",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:14:41.341991",
+    "server_modified": "2024-10-29 21:50:08",
+    "last_sync": "2024-11-19 21:04:58.972293",
     "size": 10818,
     "meta_text": null,
     "cat_ref": "S00126E",
@@ -19,10 +19,10 @@
     "author_simple": "LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN",
     "subject": [
         {
-            "_id": "332932444051",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/ARGA_ARGA RITUAL",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/ARGA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/ARGA RITUAL",
+            "_id": "408255787994",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/ARGA_ARGA RITUAL",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/ARGA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/ARGA RITUAL",
             "subject_tibetan": "ARGA",
             "subject_english": "ARGA RITUAL"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P209"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/arga_arga ritual",
-            "timestamp": "2024-09-10T02:14:41.390207+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/ARGA_ARGA RITUAL",
+            "timestamp": "2024-11-20 05:04:58.976559+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:04:58.976559+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

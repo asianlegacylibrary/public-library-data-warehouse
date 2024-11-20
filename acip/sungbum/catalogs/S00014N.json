@@ -1,12 +1,12 @@
 {
     "name": "S00014N_RTEN 'BREL GYI SPYI DON LEGS PAR BSHAD BA'I SNYING PO PADMA DKAR PO'I 'PHRENG BA_The 'Garland of White Lotuses, the Essence of Eloquence,' being an Overview of Dependent Origination_MKHAS GRUB BSTAN PA DAR RGYAS (1493-1568).TXT",
-    "path": "phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/rten 'brel_dependent origination/mkhas grub bstan pa dar rgyas_kedrup tenpa dargye (1493-1568)/spyi don_overview",
-    "download_path": "/sungbum updated 4 26 23 bk/phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/rten 'brel_dependent origination/mkhas grub bstan pa dar rgyas_kedrup tenpa dargye (1493-1568)/spyi don_overview/s00014n_rten 'brel gyi spyi don legs par bshad ba'i snying po padma dkar po'i 'phreng ba_the 'garland of white lotuses, the essence of eloquence,' being an overview of dependent origination_mkhas grub bstan pa dar rgyas (1493-1568).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAVqw",
-    "revision_id": "613f666d208c78d294473",
+    "path": "PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/RTEN 'BREL_DEPENDENT ORIGINATION/MKHAS GRUB BSTAN PA DAR RGYAS_KEDRUP TENPA DARGYE (1493-1568)/SPYI DON_OVERVIEW",
+    "download_path": "/sungbum updated 7 30 23 nl/phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/rten 'brel_dependent origination/mkhas grub bstan pa dar rgyas_kedrup tenpa dargye (1493-1568)/spyi don_overview/s00014n_rten 'brel gyi spyi don legs par bshad ba'i snying po padma dkar po'i 'phreng ba_the 'garland of white lotuses, the essence of eloquence,' being an overview of dependent origination_mkhas grub bstan pa dar rgyas (1493-1568).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABOrQ",
+    "revision_id": "625a4774f53ad8d294473",
     "content_hash": "278e1ecfbda2dbc36b6f20765e9ed2bdbcb907fb54775b96618842dbd5c72a7a",
-    "server_modified": "2024-03-18T21:54:28",
-    "last_sync": "2024-09-09T19:22:55.230099",
+    "server_modified": "2024-10-29 21:42:46",
+    "last_sync": "2024-11-19 20:46:36.737809",
     "size": 50036,
     "meta_text": null,
     "cat_ref": "S00014N",
@@ -19,10 +19,10 @@
     "author_simple": "MKHAS GRUB BSTAN PA DAR RGYAS",
     "subject": [
         {
-            "_id": "215389313399",
-            "subject_path": "SUNGBUM_SUNGBUM/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/RTEN 'BREL_DEPENDENT ORIGINATION/MKHAS GRUB BSTAN PA DAR RGYAS_KEDRUP TENPA DARGYE (1493-1568)/SPYI DON_OVERVIEW",
-            "subject_path_tibetan": "SUNGBUM/PHAR PHYIN/RTEN 'BREL/MKHAS GRUB BSTAN PA DAR RGYAS/SPYI DON",
-            "subject_path_english": "SUNGBUM/PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/DEPENDENT ORIGINATION/KEDRUP TENPA DARGYE (1493-1568)/OVERVIEW",
+            "_id": "776630114264",
+            "subject_path": "GSUNG 'BUM_Sungbum/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/RTEN 'BREL_DEPENDENT ORIGINATION/MKHAS GRUB BSTAN PA DAR RGYAS_KEDRUP TENPA DARGYE (1493-1568)/SPYI DON_OVERVIEW",
+            "subject_path_tibetan": "GSUNG 'BUM/PHAR PHYIN/RTEN 'BREL/MKHAS GRUB BSTAN PA DAR RGYAS/SPYI DON",
+            "subject_path_english": "Sungbum/PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/DEPENDENT ORIGINATION/KEDRUP TENPA DARGYE (1493-1568)/OVERVIEW",
             "subject_tibetan": "SPYI DON",
             "subject_english": "OVERVIEW"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P996"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/rten 'brel_dependent origination/mkhas grub bstan pa dar rgyas_kedrup tenpa dargye (1493-1568)/spyi don_overview",
-            "timestamp": "2024-09-10T02:22:55.232207+00:00"
+            "path": "GSUNG 'BUM_Sungbum/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/RTEN 'BREL_DEPENDENT ORIGINATION/MKHAS GRUB BSTAN PA DAR RGYAS_KEDRUP TENPA DARGYE (1493-1568)/SPYI DON_OVERVIEW",
+            "timestamp": "2024-11-20 04:46:36.741398+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:46:36.741398+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

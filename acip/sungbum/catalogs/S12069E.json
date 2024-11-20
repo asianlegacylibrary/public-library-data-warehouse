@@ -1,12 +1,12 @@
 {
     "name": "S12069E_BOD YIG GI 'JUG TSUL DANG RNAM DBYE_Construction and Declension in the Tibetan Language_CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS (1740-1810).TXT",
-    "path": "gsum rtags_grammar",
-    "download_path": "/sungbum updated 4 26 23 bk/gsum rtags_grammar/s12069e_bod yig gi 'jug tsul dang rnam dbye_construction and declension in the tibetan language_cha har dge bshes blo bzang tsul khrims (1740-1810).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAAEg",
-    "revision_id": "613f663b87b5b8d294473",
+    "path": "GSUM RTAGS_GRAMMAR",
+    "download_path": "/sungbum updated 7 30 23 nl/gsum rtags_grammar/s12069e_bod yig gi 'jug tsul dang rnam dbye_construction and declension in the tibetan language_cha har dge bshes blo bzang tsul khrims (1740-1810).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABOnQ",
+    "revision_id": "625a4773864248d294473",
     "content_hash": "09cf0aaf3cef09079bcddcd501e41552bf6de8e38c03690f4303344e527d3d80",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:01:05.003007",
+    "server_modified": "2024-10-29 21:42:45",
+    "last_sync": "2024-11-19 20:46:30.669156",
     "size": 11951,
     "meta_text": null,
     "cat_ref": "S12069E",
@@ -19,10 +19,10 @@
     "author_simple": "CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS",
     "subject": [
         {
-            "_id": "278127590787",
-            "subject_path": "SUNGBUM_SUNGBUM/GSUM RTAGS_GRAMMAR",
-            "subject_path_tibetan": "SUNGBUM/GSUM RTAGS",
-            "subject_path_english": "SUNGBUM/GRAMMAR",
+            "_id": "289751550091",
+            "subject_path": "GSUNG 'BUM_Sungbum/GSUM RTAGS_GRAMMAR",
+            "subject_path_tibetan": "GSUNG 'BUM/GSUM RTAGS",
+            "subject_path_english": "Sungbum/GRAMMAR",
             "subject_tibetan": "GSUM RTAGS",
             "subject_english": "GRAMMAR"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P4797"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "gsum rtags_grammar",
-            "timestamp": "2024-09-10T02:01:05.023144+00:00"
+            "path": "GSUNG 'BUM_Sungbum/GSUM RTAGS_GRAMMAR",
+            "timestamp": "2024-11-20 04:46:30.678555+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:46:30.678555+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

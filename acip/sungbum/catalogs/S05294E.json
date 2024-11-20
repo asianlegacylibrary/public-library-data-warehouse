@@ -1,12 +1,12 @@
 {
     "name": "S05294E_RNAL 'BYOR BZHI RIM_The Steps of the Four Secret Practices_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419).TXT",
-    "path": "rgyud_secret teachings (tantra)/rnal 'byor bzhi rim_steps of the four secret practices/'grel pa_commentaries",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/rnal 'byor bzhi rim_steps of the four secret practices/'grel pa_commentaries/s05294e_rnal 'byor bzhi rim_the steps of the four secret practices_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAHeg",
-    "revision_id": "613f66492f1e48d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/RNAL 'BYOR BZHI RIM_STEPS OF THE FOUR SECRET PRACTICES/'GREL PA_COMMENTARIES",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/rnal 'byor bzhi rim_steps of the four secret practices/'grel pa_commentaries/s05294e_rnal 'byor bzhi rim_the steps of the four secret practices_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABUHQ",
+    "revision_id": "625a485be2eb98d294473",
     "content_hash": "d32aebad30e26cbe3457774ef171f4c3c3c82c31e43a9c8dbd8000cd48cf8b66",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:08:33.723527",
+    "server_modified": "2024-10-29 21:46:48",
+    "last_sync": "2024-11-19 20:55:16.074458",
     "size": 36168,
     "meta_text": null,
     "cat_ref": "S05294E",
@@ -19,10 +19,10 @@
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "199987911590",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/RNAL 'BYOR BZHI RIM_STEPS OF THE FOUR SECRET PRACTICES/'GREL PA_COMMENTARIES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/RNAL 'BYOR BZHI RIM/'GREL PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/STEPS OF THE FOUR SECRET PRACTICES/COMMENTARIES",
+            "_id": "210913791975",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RNAL 'BYOR BZHI RIM_STEPS OF THE FOUR SECRET PRACTICES/'GREL PA_COMMENTARIES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/RNAL 'BYOR BZHI RIM/'GREL PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/STEPS OF THE FOUR SECRET PRACTICES/COMMENTARIES",
             "subject_tibetan": "'GREL PA",
             "subject_english": "COMMENTARIES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/rnal 'byor bzhi rim_steps of the four secret practices/'grel pa_commentaries",
-            "timestamp": "2024-09-10T02:08:33.736863+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RNAL 'BYOR BZHI RIM_STEPS OF THE FOUR SECRET PRACTICES/'GREL PA_COMMENTARIES",
+            "timestamp": "2024-11-20 04:55:16.082375+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:55:16.082375+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

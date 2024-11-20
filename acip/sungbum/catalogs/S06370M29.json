@@ -1,12 +1,12 @@
 {
     "name": "S06370M29_STON PA'I DUS CHEN SKOR GYI DRI LAN_Response to a Question on Buddhist Religious Holidays_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "lo tho_calendrical materials/dus chen_buddhist holidays",
-    "download_path": "/sungbum updated 4 26 23 bk/lo tho_calendrical materials/dus chen_buddhist holidays/s06370m29_ston pa'i dus chen skor gyi dri lan_response to a question on buddhist religious holidays_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAFDA",
-    "revision_id": "613f664484a308d294473",
+    "path": "LO THO_CALENDRICAL MATERIALS/DUS CHEN_BUDDHIST HOLIDAYS",
+    "download_path": "/sungbum updated 7 30 23 nl/lo tho_calendrical materials/dus chen_buddhist holidays/s06370m29_ston pa'i dus chen skor gyi dri lan_response to a question on buddhist religious holidays_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABQyA",
+    "revision_id": "625a47caa006f8d294473",
     "content_hash": "516adb78252419bc9190aa527bdeb28e59c2263c36ad6868fbf61654ad3eb61f",
-    "server_modified": "2024-03-18T21:53:45",
-    "last_sync": "2024-09-09T19:06:13.876213",
+    "server_modified": "2024-10-29 21:44:16",
+    "last_sync": "2024-11-19 20:50:34.331798",
     "size": 805,
     "meta_text": null,
     "cat_ref": "S06370M29",
@@ -19,18 +19,18 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "145773368831",
-            "subject_path": "SUNGBUM_SUNGBUM/LO THO_CALENDRICAL MATERIALS/DUS CHEN_BUDDHIST HOLIDAYS",
-            "subject_path_tibetan": "SUNGBUM/LO THO/DUS CHEN",
-            "subject_path_english": "SUNGBUM/CALENDRICAL MATERIALS/BUDDHIST HOLIDAYS",
+            "_id": "149645877681",
+            "subject_path": "GSUNG 'BUM_Sungbum/LO THO_CALENDRICAL MATERIALS/DUS CHEN_BUDDHIST HOLIDAYS",
+            "subject_path_tibetan": "GSUNG 'BUM/LO THO/DUS CHEN",
+            "subject_path_english": "Sungbum/CALENDRICAL MATERIALS/BUDDHIST HOLIDAYS",
             "subject_tibetan": "DUS CHEN",
             "subject_english": "BUDDHIST HOLIDAYS"
         },
         {
-            "_id": "244831615226",
-            "subject_path": "SUNGBUM_SUNGBUM/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_tibetan": "SUNGBUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_english": "SUNGBUM/QUESTIONS AND ANSWERS",
+            "_id": "250883940513",
+            "subject_path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "GSUNG 'BUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "Sungbum/QUESTIONS AND ANSWERS",
             "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
             "subject_english": "QUESTIONS AND ANSWERS"
         }
@@ -46,15 +46,29 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "lo tho_calendrical materials/dus chen_buddhist holidays",
-            "timestamp": "2024-09-10T02:06:13.888974+00:00"
+            "path": "GSUNG 'BUM_Sungbum/LO THO_CALENDRICAL MATERIALS/DUS CHEN_BUDDHIST HOLIDAYS",
+            "timestamp": "2024-11-20 04:50:34.336920+00:00"
         },
         {
-            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
-            "timestamp": "2024-09-10T02:21:49.471485+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "timestamp": "2024-11-20 04:54:07.136500+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:50:34.336920+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T04:54:07.136500+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,12 +1,12 @@
 {
     "name": "S06369E68_KYEE RDOR BRGYUD 'DEBS_Petition to the Lamas of the Secret Teaching of Lo Diamond (Hevajra)_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/kye rdor_lo diamond (hevajra)/bla brgyud_lineage lamas",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/kye rdor_lo diamond (hevajra)/bla brgyud_lineage lamas/s06369e68_kyee rdor brgyud 'debs_petition to the lamas of the secret teaching of lo diamond (hevajra)_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAKQA",
-    "revision_id": "613f6652788588d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/KYE RDOR_LO DIAMOND (HEVAJRA)/BLA BRGYUD_LINEAGE LAMAS",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/kye rdor_lo diamond (hevajra)/bla brgyud_lineage lamas/s06369e68_kyee rdor brgyud 'debs_petition to the lamas of the secret teaching of lo diamond (hevajra)_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABVKw",
+    "revision_id": "625a487ff259c8d294473",
     "content_hash": "dc3f2d4ef5b3d5dfd4f295dc31359ea22a096e6df0f78c8e1387cd2a073864d5",
-    "server_modified": "2024-03-18T21:54:00",
-    "last_sync": "2024-09-09T19:11:11.855365",
+    "server_modified": "2024-10-29 21:47:26",
+    "last_sync": "2024-11-19 20:56:56.130523",
     "size": 2059,
     "meta_text": null,
     "cat_ref": "S06369E68",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "216734903379",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/KYE RDOR_LO DIAMOND (HEVAJRA)/BLA BRGYUD_LINEAGE LAMAS",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/KYE RDOR/BLA BRGYUD",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/LO DIAMOND (HEVAJRA)/LINEAGE LAMAS",
+            "_id": "280435374314",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/KYE RDOR_LO DIAMOND (HEVAJRA)/BLA BRGYUD_LINEAGE LAMAS",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/KYE RDOR/BLA BRGYUD",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/LO DIAMOND (HEVAJRA)/LINEAGE LAMAS",
             "subject_tibetan": "BLA BRGYUD",
             "subject_english": "LINEAGE LAMAS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/kye rdor_lo diamond (hevajra)/bla brgyud_lineage lamas",
-            "timestamp": "2024-09-10T02:11:11.860873+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/KYE RDOR_LO DIAMOND (HEVAJRA)/BLA BRGYUD_LINEAGE LAMAS",
+            "timestamp": "2024-11-20 04:56:56.135222+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:56:56.135222+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,12 +1,12 @@
 {
     "name": "S05977E78_MGON PO BENG SGRUB THABS_A Method for Reaching the Protector, Beng (Danda)_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662).TXT",
-    "path": "rgyud_secret teachings (tantra)/mgon po beng_the protector beng (danda)/sgrub thabs_ritual for reaching the angel (sadhana)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/mgon po beng_the protector beng (danda)/sgrub thabs_ritual for reaching the angel (sadhana)/s05977e78_mgon po beng sgrub thabs_a method for reaching the protector, beng (danda)_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAKFw",
-    "revision_id": "613f66527882f8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/MGON PO BENG_THE PROTECTOR BENG (DANDA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/mgon po beng_the protector beng (danda)/sgrub thabs_ritual for reaching the angel (sadhana)/s05977e78_mgon po beng sgrub thabs_a method for reaching the protector, beng (danda)_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABWog",
+    "revision_id": "625a48a865fd88d294473",
     "content_hash": "90c854568cbce9cb0c2d8361c5130560f8699fbb750ec4c4edbc7e45470d74ed",
-    "server_modified": "2024-03-18T21:54:00",
-    "last_sync": "2024-09-09T19:11:03.839511",
+    "server_modified": "2024-10-29 21:48:09",
+    "last_sync": "2024-11-19 20:59:25.199575",
     "size": 6044,
     "meta_text": null,
     "cat_ref": "S05977E78",
@@ -19,10 +19,10 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "176991904120",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/MGON PO BENG_THE PROTECTOR BENG (DANDA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/MGON PO BENG/SGRUB THABS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/THE PROTECTOR BENG (DANDA)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "_id": "108864005741",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/MGON PO BENG_THE PROTECTOR BENG (DANDA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/MGON PO BENG/SGRUB THABS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/THE PROTECTOR BENG (DANDA)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
             "subject_tibetan": "SGRUB THABS",
             "subject_english": "RITUAL FOR REACHING THE ANGEL (SADHANA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/mgon po beng_the protector beng (danda)/sgrub thabs_ritual for reaching the angel (sadhana)",
-            "timestamp": "2024-09-10T02:11:03.847337+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/MGON PO BENG_THE PROTECTOR BENG (DANDA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "timestamp": "2024-11-20 04:59:25.204295+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:59:25.204295+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

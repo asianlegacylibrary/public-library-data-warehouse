@@ -1,28 +1,28 @@
 {
     "name": "S05554E_RJE BTZUN THAMS CAD MKHYEN PA'I GSUNG 'BUM THOR BU LAS BDE MCHOG DRIL BU LUGS KYI SBYIN SREG_A Fire Offering in the Practice of Highest Bliss (Shamvara), According to the Tradition of Gantapada, from Assorted Writings found in the Collected W+.txt",
-    "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/sbyin sreg_fire offering (homa)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/sbyin sreg_fire offering (homa)/s05554e_rje btzun thams cad mkhyen pa'i gsung 'bum thor bu las bde mchog dril bu lugs kyi sbyin sreg_a fire offering in the practice of highest bliss (shamvara), according to the tradition of gantapada, from assorted writings found in the collected w+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAPQA",
-    "revision_id": "613f665b611598d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/SBYIN SREG_FIRE OFFERING (HOMA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/sbyin sreg_fire offering (homa)/s05554e_rje btzun thams cad mkhyen pa'i gsung 'bum thor bu las bde mchog dril bu lugs kyi sbyin sreg_a fire offering in the practice of highest bliss (shamvara), according to the tradition of gantapada, from assorted writings found in the collected w+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABU0A",
+    "revision_id": "625a4872a2b508d294473",
     "content_hash": "b679b52ca6caab844795fe7d897aa6cbfa555307588fe8a7f55c06b007d18b22",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:16:38.613194",
+    "server_modified": "2024-10-29 21:47:12",
+    "last_sync": "2024-11-19 20:56:17.250187",
     "size": 22654,
-    "meta_text": null,
+    "meta_text": "(\"orks of the Holy and Omniscient One_RGYAL BA DGE 'DUN RGYA MTSO (1476-1542)\", 'text')",
     "cat_ref": "S05554E",
     "work_ref": "W.S05554E",
     "title_tib": "RJE BTZUN THAMS CAD MKHYEN PA'I GSUNG 'BUM THOR BU LAS BDE MCHOG DRIL BU LUGS KYI SBYIN SREG",
-    "title_eng": "A Fire Offering in the Practice of Highest Bliss (Shamvara), According to the Tradition of Gantapada, from Assorted Writings found in the Collected W",
+    "title_eng": "A Fire Offering in the Practice of Highest Bliss (Shamvara), According to the Tradition of Gantapada, from Assorted Writings found in the Collected W(\"orks of the Holy and Omniscient One",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
-    "author_simple": "",
+    "author_simple": "RGYAL BA DGE 'DUN RGYA MTSO",
     "subject": [
         {
-            "_id": "709535719951",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/SBYIN SREG_FIRE OFFERING (HOMA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/BDE MCHOG/SBYIN SREG",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/FIRE OFFERING (HOMA)",
+            "_id": "191048078725",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/SBYIN SREG_FIRE OFFERING (HOMA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/BDE MCHOG/SBYIN SREG",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/FIRE OFFERING (HOMA)",
             "subject_tibetan": "SBYIN SREG",
             "subject_english": "FIRE OFFERING (HOMA)"
         }
@@ -30,16 +30,24 @@
     "items": [],
     "author": [
         {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
+            "author_name": "RGYAL BA DGE 'DUN RGYA MTSO",
+            "author_birth": "1476",
+            "author_death": "1542"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/sbyin sreg_fire offering (homa)",
-            "timestamp": "2024-09-10T02:16:38.618602+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/SBYIN SREG_FIRE OFFERING (HOMA)",
+            "timestamp": "2024-11-20 04:56:18.710042+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:56:18.710042+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

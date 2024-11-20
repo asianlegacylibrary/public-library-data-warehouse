@@ -1,14 +1,14 @@
 {
     "name": "S06530E1_SKU GSUNG THUGS RTEN DANG MCHOD RDZAS SOGS GSAR BZHENGS KYI 'DOD GSOL SMON TSIG_A Prayer of Supplication to be Spoken upon the Occasion of the Construction of New Altars, Creation of Offering Substances,and Such_KE'U TSANG BLO BZANG 'JAM DB+.TXT",
-    "path": "nyams len_personal practice/smon lam_making prayers/ke'u tsang blo bzang 'jam dbyangs smon lam_keutsang lobsang jamyang monlam (1689-?)",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/smon lam_making prayers/ke'u tsang blo bzang 'jam dbyangs smon lam_keutsang lobsang jamyang monlam (1689-?)/s06530e1_sku gsung thugs rten dang mchod rdzas sogs gsar bzhengs kyi 'dod gsol smon tsig_a prayer of supplication to be spoken upon the occasion of the construction of new altars, creation of offering substances,and such_ke'u tsang blo bzang 'jam db+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAACKA",
-    "revision_id": "613f663ffc71b8d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/KE'U TSANG BLO BZANG 'JAM DBYANGS SMON LAM_KEUTSANG LOBSANG JAMYANG MONLAM (1689-?)",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/smon lam_making prayers/ke'u tsang blo bzang 'jam dbyangs smon lam_keutsang lobsang jamyang monlam (1689-?)/s06530e1_sku gsung thugs rten dang mchod rdzas sogs gsar bzhengs kyi 'dod gsol smon tsig_a prayer of supplication to be spoken upon the occasion of the construction of new altars, creation of offering substances,and such_ke'u tsang blo bzang 'jam db+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABkaw",
+    "revision_id": "625a4ad1340518d294473",
     "content_hash": "0501abf19be57174a05282cfe9cdfc9908a62a65528c09bd1bdcf5611bcfb10a",
-    "server_modified": "2024-03-18T21:53:40",
-    "last_sync": "2024-09-09T19:03:21.762860",
+    "server_modified": "2024-10-29 21:57:48",
+    "last_sync": "2024-11-19 21:23:21.639702",
     "size": 45605,
-    "meta_text": "YANGS SMON LAM (1689-@)",
+    "meta_text": "('YANGS SMON LAM (1689-@)', 'rtf')",
     "cat_ref": "S06530E1",
     "work_ref": "W.S06530E1",
     "title_tib": "SKU GSUNG THUGS RTEN DANG MCHOD RDZAS SOGS GSAR BZHENGS KYI 'DOD GSOL SMON TSIG",
@@ -19,10 +19,10 @@
     "author_simple": "KE'U TSANG BLO BZANG ''JAM DBYANGS SMON LAM",
     "subject": [
         {
-            "_id": "323160729824",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/KE'U TSANG BLO BZANG 'JAM DBYANGS SMON LAM_KEUTSANG LOBSANG JAMYANG MONLAM (1689-?)",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/SMON LAM/KE'U TSANG BLO BZANG 'JAM DBYANGS SMON LAM",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/MAKING PRAYERS/KEUTSANG LOBSANG JAMYANG MONLAM (1689-?)",
+            "_id": "252731181257",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/KE'U TSANG BLO BZANG 'JAM DBYANGS SMON LAM_KEUTSANG LOBSANG JAMYANG MONLAM (1689-?)",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/SMON LAM/KE'U TSANG BLO BZANG 'JAM DBYANGS SMON LAM",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/MAKING PRAYERS/KEUTSANG LOBSANG JAMYANG MONLAM (1689-?)",
             "subject_tibetan": "KE'U TSANG BLO BZANG 'JAM DBYANGS SMON LAM",
             "subject_english": "KEUTSANG LOBSANG JAMYANG MONLAM (1689-?)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P307"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/smon lam_making prayers/ke'u tsang blo bzang 'jam dbyangs smon lam_keutsang lobsang jamyang monlam (1689-?)",
-            "timestamp": "2024-09-10T02:03:21.779588+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/KE'U TSANG BLO BZANG 'JAM DBYANGS SMON LAM_KEUTSANG LOBSANG JAMYANG MONLAM (1689-?)",
+            "timestamp": "2024-11-20 05:23:21.645421+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:23:21.645421+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

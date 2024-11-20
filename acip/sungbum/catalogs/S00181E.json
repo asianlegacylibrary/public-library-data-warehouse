@@ -1,12 +1,12 @@
 {
     "name": "S00181E_RGYAL CHEN RNAM THOS SRAS KYI GTOR 'BUL MDOR BSDUS_Abbreviated Ritual for the Offering of Torma Cakes to the Great King, Son of the Learned (Vaishravana)_LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN (1642-1714).TXT",
-    "path": "rgyud_secret teachings (tantra)/rnam thos sras_prince of learning (vaishravana)/gtor ma_offering cake (bali)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/rnam thos sras_prince of learning (vaishravana)/gtor ma_offering cake (bali)/s00181e_rgyal chen rnam thos sras kyi gtor 'bul mdor bsdus_abbreviated ritual for the offering of torma cakes to the great king, son of the learned (vaishravana)_lcang skya ngag dbang blo bzang chos ldan (1642-1714).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAPvg",
-    "revision_id": "613f665fcd5438d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/RNAM THOS SRAS_PRINCE OF LEARNING (VAISHRAVANA)/GTOR MA_OFFERING CAKE (BALI)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/rnam thos sras_prince of learning (vaishravana)/gtor ma_offering cake (bali)/s00181e_rgyal chen rnam thos sras kyi gtor 'bul mdor bsdus_abbreviated ritual for the offering of torma cakes to the great king, son of the learned (vaishravana)_lcang skya ngag dbang blo bzang chos ldan (1642-1714).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABcaA",
+    "revision_id": "625a49797089b8d294473",
     "content_hash": "12491c2f0776e6f8aab0383ea0f53f0c569d21a357781487d3acbd00fb20bdb3",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:17:12.879553",
+    "server_modified": "2024-10-29 21:51:48",
+    "last_sync": "2024-11-19 21:08:55.840827",
     "size": 1194,
     "meta_text": null,
     "cat_ref": "S00181E",
@@ -19,10 +19,10 @@
     "author_simple": "LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN",
     "subject": [
         {
-            "_id": "608333267014",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/RNAM THOS SRAS_PRINCE OF LEARNING (VAISHRAVANA)/GTOR MA_OFFERING CAKE (BALI)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/RNAM THOS SRAS/GTOR MA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/PRINCE OF LEARNING (VAISHRAVANA)/OFFERING CAKE (BALI)",
+            "_id": "282993255084",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RNAM THOS SRAS_PRINCE OF LEARNING (VAISHRAVANA)/GTOR MA_OFFERING CAKE (BALI)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/RNAM THOS SRAS/GTOR MA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/PRINCE OF LEARNING (VAISHRAVANA)/OFFERING CAKE (BALI)",
             "subject_tibetan": "GTOR MA",
             "subject_english": "OFFERING CAKE (BALI)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P209"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/rnam thos sras_prince of learning (vaishravana)/gtor ma_offering cake (bali)",
-            "timestamp": "2024-09-10T02:17:12.883894+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RNAM THOS SRAS_PRINCE OF LEARNING (VAISHRAVANA)/GTOR MA_OFFERING CAKE (BALI)",
+            "timestamp": "2024-11-20 05:08:57.232553+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:08:57.232553+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

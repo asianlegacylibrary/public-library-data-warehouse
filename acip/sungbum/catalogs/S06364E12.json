@@ -1,12 +1,12 @@
 {
     "name": "S06364E12_RDO RJE MKHA' LDING NAG PO'I SGRUB THABS DANG RJES GNANG_Method for Reaching, and Gaining Permission into the Teaching of, the Black Diamond Glider_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/rdo rje mkha' lding_diamond glider (vajragaruda)/sgrub thabs_ritual for reaching the angel (sadhana)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/rdo rje mkha' lding_diamond glider (vajragaruda)/sgrub thabs_ritual for reaching the angel (sadhana)/s06364e12_rdo rje mkha' lding nag po'i sgrub thabs dang rjes gnang_method for reaching, and gaining permission into the teaching of, the black diamond glider_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAK3w",
-    "revision_id": "613f6652788f78d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE MKHA' LDING_DIAMOND GLIDER (VAJRAGARUDA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/rdo rje mkha' lding_diamond glider (vajragaruda)/sgrub thabs_ritual for reaching the angel (sadhana)/s06364e12_rdo rje mkha' lding nag po'i sgrub thabs dang rjes gnang_method for reaching, and gaining permission into the teaching of, the black diamond glider_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABXXQ",
+    "revision_id": "625a48bd681848d294473",
     "content_hash": "32d7d38a5c35f9bf0eb4c9181f4dc57a5cd367c61113bf7db8c2819cb162d24b",
-    "server_modified": "2024-03-18T21:54:00",
-    "last_sync": "2024-09-09T19:12:00.079287",
+    "server_modified": "2024-10-29 21:48:31",
+    "last_sync": "2024-11-19 21:00:41.199423",
     "size": 8952,
     "meta_text": null,
     "cat_ref": "S06364E12",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "133944645231",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE MKHA' LDING_DIAMOND GLIDER (VAJRAGARUDA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/RDO RJE MKHA' LDING/SGRUB THABS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/DIAMOND GLIDER (VAJRAGARUDA)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "_id": "298065779637",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE MKHA' LDING_DIAMOND GLIDER (VAJRAGARUDA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/RDO RJE MKHA' LDING/SGRUB THABS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/DIAMOND GLIDER (VAJRAGARUDA)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
             "subject_tibetan": "SGRUB THABS",
             "subject_english": "RITUAL FOR REACHING THE ANGEL (SADHANA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/rdo rje mkha' lding_diamond glider (vajragaruda)/sgrub thabs_ritual for reaching the angel (sadhana)",
-            "timestamp": "2024-09-10T02:12:00.082258+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE MKHA' LDING_DIAMOND GLIDER (VAJRAGARUDA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "timestamp": "2024-11-20 05:00:41.203661+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:00:41.203661+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

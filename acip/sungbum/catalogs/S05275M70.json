@@ -1,14 +1,14 @@
 {
     "name": "S05275M70_BYANG CHUB SEMS DPA' SEMS DPA' CHEN PO RTAG TU NGU'I RTOGS PA BRJOD PA'I SNYAN DNGAGS DPAG BSAM GYI LJON PA_The 'Wish-Giving Tree,' being Verses of Poetry describing the Holy Life of the Great Bodhisattva known as 'Ever-Weeping'_RJE TZONG  +.TXT",
-    "path": "rtogs brjod_lives of indian saints (avadana)/sadaprarudita (rtag tu ngu)",
-    "download_path": "/sungbum updated 4 26 23 bk/rtogs brjod_lives of indian saints (avadana)/sadaprarudita (rtag tu ngu)/s05275m70_byang chub sems dpa' sems dpa' chen po rtag tu ngu'i rtogs pa brjod pa'i snyan dngags dpag bsam gyi ljon pa_the 'wish-giving tree,' being verses of poetry describing the holy life of the great bodhisattva known as 'ever-weeping'_rje tzong  +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAEdg",
-    "revision_id": "613f66448499a8d294473",
+    "path": "RTOGS BRJOD_LIVES OF INDIAN SAINTS (AVADANA)/SADAPRARUDITA (RTAG TU NGU)",
+    "download_path": "/sungbum updated 7 30 23 nl/rtogs brjod_lives of indian saints (avadana)/sadaprarudita (rtag tu ngu)/s05275m70_byang chub sems dpa' sems dpa' chen po rtag tu ngu'i rtogs pa brjod pa'i snyan dngags dpag bsam gyi ljon pa_the 'wish-giving tree,' being verses of poetry describing the holy life of the great bodhisattva known as 'ever-weeping'_rje tzong  +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABR0w",
+    "revision_id": "625a47fb8cf478d294473",
     "content_hash": "0c45c7380496fe530f7c8aa95da6647b14656d309abfa3fbe0f84a58cf5f78cc",
-    "server_modified": "2024-03-18T21:53:45",
-    "last_sync": "2024-09-09T19:05:43.161701",
+    "server_modified": "2024-10-29 21:45:07",
+    "last_sync": "2024-11-19 20:52:40.453710",
     "size": 71119,
-    "meta_text": "KHA PA BLO BZANG GRAGS PA (1357-1419)",
+    "meta_text": "('KHA PA BLO BZANG GRAGS PA (1357-1419)', 'rtf')",
     "cat_ref": "S05275M70",
     "work_ref": "W.S05275M70",
     "title_tib": "BYANG CHUB SEMS DPA' SEMS DPA' CHEN PO RTAG TU NGU'I RTOGS PA BRJOD PA'I SNYAN DNGAGS DPAG BSAM GYI LJON PA",
@@ -19,10 +19,10 @@
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "675622762189",
-            "subject_path": "SUNGBUM_SUNGBUM/RTOGS BRJOD_LIVES OF INDIAN SAINTS (AVADANA)/SADAPRARUDITA (RTAG TU NGU)",
-            "subject_path_tibetan": "SUNGBUM/RTOGS BRJOD/SADAPRARUDITA (RTAG TU NGU)",
-            "subject_path_english": "SUNGBUM/LIVES OF INDIAN SAINTS (AVADANA)",
+            "_id": "782970431817",
+            "subject_path": "GSUNG 'BUM_Sungbum/RTOGS BRJOD_LIVES OF INDIAN SAINTS (AVADANA)/SADAPRARUDITA (RTAG TU NGU)",
+            "subject_path_tibetan": "GSUNG 'BUM/RTOGS BRJOD/SADAPRARUDITA (RTAG TU NGU)",
+            "subject_path_english": "Sungbum/LIVES OF INDIAN SAINTS (AVADANA)",
             "subject_tibetan": "SADAPRARUDITA (RTAG TU NGU)",
             "subject_english": "LIVES OF INDIAN SAINTS (AVADANA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rtogs brjod_lives of indian saints (avadana)/sadaprarudita (rtag tu ngu)",
-            "timestamp": "2024-09-10T02:05:43.167533+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RTOGS BRJOD_LIVES OF INDIAN SAINTS (AVADANA)/SADAPRARUDITA (RTAG TU NGU)",
+            "timestamp": "2024-11-20 04:52:40.458984+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:52:40.458984+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

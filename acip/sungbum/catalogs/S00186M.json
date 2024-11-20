@@ -1,14 +1,14 @@
 {
     "name": "S00186M_LAM RIM BDE LAM GYI SBYOR BA'I CHOS DRUG GI SKABS SU KHRUS GSOL BYA TSUL MDOR BSDUS_Brief Presentation of the Ritual Bathing during the Six Preliminary Practices for the Text on the Steps of the Path to Buddhahood entitled 'Path of Ease'_DNG+.TXT",
-    "path": "nyams len_personal practice/khrus gsol 'bul tsul_how to perform the offering of bathing holy beings",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/khrus gsol 'bul tsul_how to perform the offering of bathing holy beings/s00186m_lam rim bde lam gyi sbyor ba'i chos drug gi skabs su khrus gsol bya tsul mdor bsdus_brief presentation of the ritual bathing during the six preliminary practices for the text on the steps of the path to buddhahood entitled 'path of ease'_dng+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAACXg",
-    "revision_id": "613f663ffc7518d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/KHRUS GSOL 'BUL TSUL_HOW TO PERFORM THE OFFERING OF BATHING HOLY BEINGS",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/khrus gsol 'bul tsul_how to perform the offering of bathing holy beings/s00186m_lam rim bde lam gyi sbyor ba'i chos drug gi skabs su khrus gsol bya tsul mdor bsdus_brief presentation of the ritual bathing during the six preliminary practices for the text on the steps of the path to buddhahood entitled 'path of ease'_dng+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABk2A",
+    "revision_id": "625a4adc0340a8d294473",
     "content_hash": "101545a8930959c8d5572f515a734ec0ff9d4cb283012bc90d1f948d23736b89",
-    "server_modified": "2024-03-18T21:53:40",
-    "last_sync": "2024-09-09T19:03:33.756860",
+    "server_modified": "2024-10-29 21:58:00",
+    "last_sync": "2024-11-19 21:24:06.466646",
     "size": 5590,
-    "meta_text": "GUL CHU DHARMA BHADRA (1772-1851)",
+    "meta_text": "('GUL CHU DHARMA BHADRA (1772-1851)', 'rtf')",
     "cat_ref": "S00186M",
     "work_ref": "W.S00186M",
     "title_tib": "LAM RIM BDE LAM GYI SBYOR BA'I CHOS DRUG GI SKABS SU KHRUS GSOL BYA TSUL MDOR BSDUS",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "119663901517",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/KHRUS GSOL 'BUL TSUL_HOW TO PERFORM THE OFFERING OF BATHING HOLY BEINGS",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/KHRUS GSOL 'BUL TSUL",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/HOW TO PERFORM THE OFFERING OF BATHING HOLY BEINGS",
+            "_id": "213786034203",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/KHRUS GSOL 'BUL TSUL_HOW TO PERFORM THE OFFERING OF BATHING HOLY BEINGS",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/KHRUS GSOL 'BUL TSUL",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/HOW TO PERFORM THE OFFERING OF BATHING HOLY BEINGS",
             "subject_tibetan": "KHRUS GSOL 'BUL TSUL",
             "subject_english": "HOW TO PERFORM THE OFFERING OF BATHING HOLY BEINGS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/khrus gsol 'bul tsul_how to perform the offering of bathing holy beings",
-            "timestamp": "2024-09-10T02:03:33.768539+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/KHRUS GSOL 'BUL TSUL_HOW TO PERFORM THE OFFERING OF BATHING HOLY BEINGS",
+            "timestamp": "2024-11-20 05:24:06.472450+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:24:06.472450+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

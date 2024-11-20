@@ -1,14 +1,14 @@
 {
     "name": "S00304A_BYANG CHUB LAM GYI SGRON MA'I 'GREL BA NYUNG NGU RNAM GSAL JO BO CHEN PO DGYES PA'I MCHOD SPRIN_'A Cloud of Offerings to Please the Great Lord Atisha,' being just the Briefest Commentary on 'The Lamp for the Path to Enlightenment'_CO NE BLA +.TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/bla brgyud_lineage lamas",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/bla brgyud_lineage lamas/s00304a_byang chub lam gyi sgron ma'i 'grel ba nyung ngu rnam gsal jo bo chen po dgyes pa'i mchod sprin_'a cloud of offerings to please the great lord atisha,' being just the briefest commentary on 'the lamp for the path to enlightenment'_co ne bla +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAANOw",
-    "revision_id": "613f6656dee0c8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BLA BRGYUD_LINEAGE LAMAS",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyi_general treatments/bla brgyud_lineage lamas/s00304a_byang chub lam gyi sgron ma'i 'grel ba nyung ngu rnam gsal jo bo chen po dgyes pa'i mchod sprin_'a cloud of offerings to please the great lord atisha,' being just the briefest commentary on 'the lamp for the path to enlightenment'_co ne bla +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABYxA",
+    "revision_id": "625a48e7d26078d294473",
     "content_hash": "4f7c44effc48d9f9546728a8e4fa69f5ecb12a209e902c8e00eb0248b3ff6ce0",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:14:40.298987",
+    "server_modified": "2024-10-29 21:49:15",
+    "last_sync": "2024-11-19 21:03:03.422734",
     "size": 20357,
-    "meta_text": "MA GRAGS PA BSHAD GRUB (1675-1748)",
+    "meta_text": "('MA GRAGS PA BSHAD GRUB (1675-1748)', 'rtf')",
     "cat_ref": "S00304A",
     "work_ref": "W.S00304A",
     "title_tib": "BYANG CHUB LAM GYI SGRON MA'I 'GREL BA NYUNG NGU RNAM GSAL JO BO CHEN PO DGYES PA'I MCHOD SPRIN",
@@ -19,10 +19,10 @@
     "author_simple": "CO NE BLA MA GRAGS PA BSHAD SGRUB",
     "subject": [
         {
-            "_id": "154505385263",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BLA BRGYUD_LINEAGE LAMAS",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/BLA BRGYUD",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/LINEAGE LAMAS",
+            "_id": "215656057027",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BLA BRGYUD_LINEAGE LAMAS",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/BLA BRGYUD",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/LINEAGE LAMAS",
             "subject_tibetan": "BLA BRGYUD",
             "subject_english": "LINEAGE LAMAS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P1629"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/bla brgyud_lineage lamas",
-            "timestamp": "2024-09-10T02:14:40.321773+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BLA BRGYUD_LINEAGE LAMAS",
+            "timestamp": "2024-11-20 05:03:04.121658+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:03:04.121658+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,12 +1,12 @@
 {
     "name": "S12237E_GNAS BSTOD RNAMS_A Collection of Verses in Praise of Holy Sites_PAN CHEN BLA MA SKU PHRENG GSUM PA DPAL LDAN YE SHES (1738-1780).TXT",
-    "path": "bstod pa_eulogies (stotra)/gnas bstod_praise of holy places",
-    "download_path": "/sungbum updated 4 26 23 bk/bstod pa_eulogies (stotra)/gnas bstod_praise of holy places/s12237e_gnas bstod rnams_a collection of verses in praise of holy sites_pan chen bla ma sku phreng gsum pa dpal ldan ye shes (1738-1780).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAFZQ",
-    "revision_id": "613f664484a898d294473",
+    "path": "GNAS YIG_PILGRIMAGE GUIDES",
+    "download_path": "/sungbum updated 7 30 23 nl/gnas yig_pilgrimage guides/s12237e_gnas bstod rnams_a collection of verses in praise of holy sites_pan chen bla ma sku phreng gsum pa dpal ldan ye shes (1738-1780).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABOhg",
+    "revision_id": "625a4771e57ce8d294473",
     "content_hash": "9c695d0c2178e7e6fb77ee87e09d9bba3443394f7dc05a78e053463a596d62d8",
-    "server_modified": "2024-03-18T21:53:45",
-    "last_sync": "2024-09-09T19:06:32.143919",
+    "server_modified": "2024-10-29 21:42:43",
+    "last_sync": "2024-11-19 20:46:25.933595",
     "size": 5027,
     "meta_text": null,
     "cat_ref": "S12237E",
@@ -19,20 +19,20 @@
     "author_simple": "PAn CHEN BLA MA SKU PHRENG GSUM PA DPAL LDAN YE SHES",
     "subject": [
         {
-            "_id": "260741095396",
-            "subject_path": "SUNGBUM_SUNGBUM/BSTOD PA_EULOGIES (STOTRA)/GNAS BSTOD_PRAISE OF HOLY PLACES",
-            "subject_path_tibetan": "SUNGBUM/BSTOD PA/GNAS BSTOD",
-            "subject_path_english": "SUNGBUM/EULOGIES (STOTRA)/PRAISE OF HOLY PLACES",
-            "subject_tibetan": "GNAS BSTOD",
-            "subject_english": "PRAISE OF HOLY PLACES"
-        },
-        {
-            "_id": "240136614655",
-            "subject_path": "SUNGBUM_SUNGBUM/GNAS YIG_PILGRIMAGE GUIDES",
-            "subject_path_tibetan": "SUNGBUM/GNAS YIG",
-            "subject_path_english": "SUNGBUM/PILGRIMAGE GUIDES",
+            "_id": "282256493345",
+            "subject_path": "GSUNG 'BUM_Sungbum/GNAS YIG_PILGRIMAGE GUIDES",
+            "subject_path_tibetan": "GSUNG 'BUM/GNAS YIG",
+            "subject_path_english": "Sungbum/PILGRIMAGE GUIDES",
             "subject_tibetan": "GNAS YIG",
             "subject_english": "PILGRIMAGE GUIDES"
+        },
+        {
+            "_id": "331328869118",
+            "subject_path": "GSUNG 'BUM_Sungbum/BSTOD PA_EULOGIES (STOTRA)/GNAS BSTOD_PRAISE OF HOLY PLACES",
+            "subject_path_tibetan": "GSUNG 'BUM/BSTOD PA/GNAS BSTOD",
+            "subject_path_english": "Sungbum/EULOGIES (STOTRA)/PRAISE OF HOLY PLACES",
+            "subject_tibetan": "GNAS BSTOD",
+            "subject_english": "PRAISE OF HOLY PLACES"
         }
     ],
     "items": [],
@@ -46,15 +46,29 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P168"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "bstod pa_eulogies (stotra)/gnas bstod_praise of holy places",
-            "timestamp": "2024-09-10T02:06:32.154990+00:00"
+            "path": "GSUNG 'BUM_Sungbum/GNAS YIG_PILGRIMAGE GUIDES",
+            "timestamp": "2024-11-20 04:46:25.940653+00:00"
         },
         {
-            "path": "gnas yig_pilgrimage guides",
-            "timestamp": "2024-09-10T02:07:20.432506+00:00"
+            "path": "GSUNG 'BUM_Sungbum/BSTOD PA_EULOGIES (STOTRA)/GNAS BSTOD_PRAISE OF HOLY PLACES",
+            "timestamp": "2024-11-20 04:50:04.014508+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:46:25.940653+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T04:50:04.014508+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,12 +1,12 @@
 {
     "name": "S19082E_'GREL RKANG BRGYA RTZA BRGYAD KYI 'DREN TSUL 'DI NI RJE 'JAM DBYANGS BZHAD PAS GSUNGS SO_A Teaching by the Great Jamyang Shepa entitled 'How to Enumerate the 108 Topics'_'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS (1648-1721).TXT",
-    "path": "mdo 'grel_commentaries to sutras/'grel rkang_topics of the perfection of wisdom",
-    "download_path": "/sungbum updated 4 26 23 bk/mdo 'grel_commentaries to sutras/'grel rkang_topics of the perfection of wisdom/s19082e_'grel rkang brgya rtza brgyad kyi 'dren tsul 'di ni rje 'jam dbyangs bzhad pas gsungs so_a teaching by the great jamyang shepa entitled 'how to enumerate the 108 topics'_'jam dbyangs bzhad pa'i rdo rje ngag dbang brtzon 'grus (1648-1721).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAE-g",
-    "revision_id": "613f664484a1e8d294473",
+    "path": "MDO 'GREL_COMMENTARIES TO SUTRAS/'GREL RKANG_TOPICS OF THE PERFECTION OF WISDOM",
+    "download_path": "/sungbum updated 7 30 23 nl/mdo 'grel_commentaries to sutras/'grel rkang_topics of the perfection of wisdom/s19082e_'grel rkang brgya rtza brgyad kyi 'dren tsul 'di ni rje 'jam dbyangs bzhad pas gsungs so_a teaching by the great jamyang shepa entitled 'how to enumerate the 108 topics'_'jam dbyangs bzhad pa'i rdo rje ngag dbang brtzon 'grus (1648-1721).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABObA",
+    "revision_id": "625a476f9abc48d294473",
     "content_hash": "87ca0da48707c29bf586fcdea4deec00fe20fa29d9f325611a58379d790a6f48",
-    "server_modified": "2024-03-18T21:53:45",
-    "last_sync": "2024-09-09T19:06:09.588796",
+    "server_modified": "2024-10-29 21:42:41",
+    "last_sync": "2024-11-19 20:46:12.263434",
     "size": 8741,
     "meta_text": null,
     "cat_ref": "S19082E",
@@ -19,10 +19,10 @@
     "author_simple": "'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS",
     "subject": [
         {
-            "_id": "193142089037",
-            "subject_path": "SUNGBUM_SUNGBUM/MDO 'GREL_COMMENTARIES TO SUTRAS/'GREL RKANG_TOPICS OF THE PERFECTION OF WISDOM",
-            "subject_path_tibetan": "SUNGBUM/MDO 'GREL/'GREL RKANG",
-            "subject_path_english": "SUNGBUM/COMMENTARIES TO SUTRAS/TOPICS OF THE PERFECTION OF WISDOM",
+            "_id": "259178161170",
+            "subject_path": "GSUNG 'BUM_Sungbum/MDO 'GREL_COMMENTARIES TO SUTRAS/'GREL RKANG_TOPICS OF THE PERFECTION OF WISDOM",
+            "subject_path_tibetan": "GSUNG 'BUM/MDO 'GREL/'GREL RKANG",
+            "subject_path_english": "Sungbum/COMMENTARIES TO SUTRAS/TOPICS OF THE PERFECTION OF WISDOM",
             "subject_tibetan": "'GREL RKANG",
             "subject_english": "TOPICS OF THE PERFECTION OF WISDOM"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P423"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "mdo 'grel_commentaries to sutras/'grel rkang_topics of the perfection of wisdom",
-            "timestamp": "2024-09-10T02:06:09.595499+00:00"
+            "path": "GSUNG 'BUM_Sungbum/MDO 'GREL_COMMENTARIES TO SUTRAS/'GREL RKANG_TOPICS OF THE PERFECTION OF WISDOM",
+            "timestamp": "2024-11-20 04:46:12.268537+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:46:12.268537+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "rtf"
 }

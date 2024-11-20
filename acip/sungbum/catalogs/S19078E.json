@@ -1,14 +1,14 @@
 {
     "name": "S19078E_KUN MKHYEN 'JAM DBYANGS BZHAD PAS MDZAD PA'I THAL 'GYUR CHE BA'I RNAM BZHAG MDOR BSDUS_A Brief Version of the Greater Presentation on the Statements of Consequence, composed by the Omniscient Jamyang Shepa_'JAM DBYANGS BZHAD PA'I RDO RJE NGA+.TXT",
-    "path": "tsad ma_study of accurate perception (sautrantika school)/bsdus grva_collected topics of logic/thal 'gyur_statements of consequence",
-    "download_path": "/sungbum updated 4 26 23 bk/tsad ma_study of accurate perception (sautrantika school)/bsdus grva_collected topics of logic/thal 'gyur_statements of consequence/s19078e_kun mkhyen 'jam dbyangs bzhad pas mdzad pa'i thal 'gyur che ba'i rnam bzhag mdor bsdus_a brief version of the greater presentation on the statements of consequence, composed by the omniscient jamyang shepa_'jam dbyangs bzhad pa'i rdo rje nga+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAF4A",
-    "revision_id": "613f664484b048d294473",
+    "path": "TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/BSDUS GRVA_COLLECTED TOPICS OF LOGIC/THAL 'GYUR_STATEMENTS OF CONSEQUENCE",
+    "download_path": "/sungbum updated 7 30 23 nl/tsad ma_study of accurate perception (sautrantika school)/bsdus grva_collected topics of logic/thal 'gyur_statements of consequence/s19078e_kun mkhyen 'jam dbyangs bzhad pas mdzad pa'i thal 'gyur che ba'i rnam bzhag mdor bsdus_a brief version of the greater presentation on the statements of consequence, composed by the omniscient jamyang shepa_'jam dbyangs bzhad pa'i rdo rje nga+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABQBg",
+    "revision_id": "625a47b3bd62e8d294473",
     "content_hash": "4bd1bf84c4001668e6684636d8eb9ee9542a4a33d49247836a3b87a3449432ff",
-    "server_modified": "2024-03-18T21:53:45",
-    "last_sync": "2024-09-09T19:07:00.573901",
+    "server_modified": "2024-10-29 21:43:52",
+    "last_sync": "2024-11-19 20:49:05.517253",
     "size": 24492,
-    "meta_text": "G DBANG BRTZON 'GRUS (1648-1721)",
+    "meta_text": "(\"G DBANG BRTZON 'GRUS (1648-1721)\", 'rtf')",
     "cat_ref": "S19078E",
     "work_ref": "W.S19078E",
     "title_tib": "KUN MKHYEN 'JAM DBYANGS BZHAD PAS MDZAD PA'I THAL 'GYUR CHE BA'I RNAM BZHAG MDOR BSDUS",
@@ -19,10 +19,10 @@
     "author_simple": "'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS",
     "subject": [
         {
-            "_id": "283863688373",
-            "subject_path": "SUNGBUM_SUNGBUM/TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/BSDUS GRVA_COLLECTED TOPICS OF LOGIC/THAL 'GYUR_STATEMENTS OF CONSEQUENCE",
-            "subject_path_tibetan": "SUNGBUM/TSAD MA/BSDUS GRVA/THAL 'GYUR",
-            "subject_path_english": "SUNGBUM/STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/COLLECTED TOPICS OF LOGIC/STATEMENTS OF CONSEQUENCE",
+            "_id": "110351392042",
+            "subject_path": "GSUNG 'BUM_Sungbum/TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/BSDUS GRVA_COLLECTED TOPICS OF LOGIC/THAL 'GYUR_STATEMENTS OF CONSEQUENCE",
+            "subject_path_tibetan": "GSUNG 'BUM/TSAD MA/BSDUS GRVA/THAL 'GYUR",
+            "subject_path_english": "Sungbum/STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/COLLECTED TOPICS OF LOGIC/STATEMENTS OF CONSEQUENCE",
             "subject_tibetan": "THAL 'GYUR",
             "subject_english": "STATEMENTS OF CONSEQUENCE"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P423"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "tsad ma_study of accurate perception (sautrantika school)/bsdus grva_collected topics of logic/thal 'gyur_statements of consequence",
-            "timestamp": "2024-09-10T02:07:00.585926+00:00"
+            "path": "GSUNG 'BUM_Sungbum/TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/BSDUS GRVA_COLLECTED TOPICS OF LOGIC/THAL 'GYUR_STATEMENTS OF CONSEQUENCE",
+            "timestamp": "2024-11-20 04:49:05.522532+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:49:05.522532+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "rtf"
 }

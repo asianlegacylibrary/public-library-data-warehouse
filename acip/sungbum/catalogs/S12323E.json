@@ -1,14 +1,14 @@
 {
     "name": "S12323E_CHOS SDE CHEN PO DGE 'PHEL DGA' LDAN CHOS MDZOD GLING GI BCA' YIG GDUNG SEL ZLA 'OD_Moonrays that Dispel our Torment--The Constitution of that Great Monastery, Gepel Ganden Chundzu Ling_LCANG LUNG AARYA PAndI TA NGAG DBANG BLO BZANG BSTAN PA+.TXT",
-    "path": "bca' yig_official documents/dge 'phel gling_gepel ling monastery",
-    "download_path": "/sungbum updated 4 26 23 bk/bca' yig_official documents/dge 'phel gling_gepel ling monastery/s12323e_chos sde chen po dge 'phel dga' ldan chos mdzod gling gi bca' yig gdung sel zla 'od_moonrays that dispel our torment--the constitution of that great monastery, gepel ganden chundzu ling_lcang lung aarya pandi ta ngag dbang blo bzang bstan pa+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAEyw",
-    "revision_id": "613f6644849ef8d294473",
+    "path": "BCA' YIG_OFFICIAL DOCUMENTS/DGE 'PHEL GLING_GEPEL LING MONASTERY",
+    "download_path": "/sungbum updated 7 30 23 nl/bca' yig_official documents/dge 'phel gling_gepel ling monastery/s12323e_chos sde chen po dge 'phel dga' ldan chos mdzod gling gi bca' yig gdung sel zla 'od_moonrays that dispel our torment--the constitution of that great monastery, gepel ganden chundzu ling_lcang lung aarya pandi ta ngag dbang blo bzang bstan pa+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABlBw",
+    "revision_id": "625a4ae01a0408d294473",
     "content_hash": "9254842f2f11e40c3510c792c4c19d47b39e2befbe7afdba815b0c691a3fc454",
-    "server_modified": "2024-03-18T21:53:45",
-    "last_sync": "2024-09-09T19:06:01.344768",
+    "server_modified": "2024-10-29 21:58:04",
+    "last_sync": "2024-11-19 21:24:21.518671",
     "size": 31830,
-    "meta_text": "'I RGYAL MTSAN (1770-1845)",
+    "meta_text": "(\"'I RGYAL MTSAN (1770-1845)\", 'rtf')",
     "cat_ref": "S12323E",
     "work_ref": "W.S12323E",
     "title_tib": "CHOS SDE CHEN PO DGE 'PHEL DGA' LDAN CHOS MDZOD GLING GI BCA' YIG GDUNG SEL ZLA 'OD",
@@ -19,10 +19,10 @@
     "author_simple": "LCANG LUNG AARYA PAnDI TA NGAG DBANG BLO BZANG BSTAN PA'I RGYAL MTSAN",
     "subject": [
         {
-            "_id": "245403897639",
-            "subject_path": "SUNGBUM_SUNGBUM/BCA' YIG_OFFICIAL DOCUMENTS/DGE 'PHEL GLING_GEPEL LING MONASTERY",
-            "subject_path_tibetan": "SUNGBUM/BCA' YIG/DGE 'PHEL GLING",
-            "subject_path_english": "SUNGBUM/OFFICIAL DOCUMENTS/GEPEL LING MONASTERY",
+            "_id": "101552876928",
+            "subject_path": "GSUNG 'BUM_Sungbum/BCA' YIG_OFFICIAL DOCUMENTS/DGE 'PHEL GLING_GEPEL LING MONASTERY",
+            "subject_path_tibetan": "GSUNG 'BUM/BCA' YIG/DGE 'PHEL GLING",
+            "subject_path_english": "Sungbum/OFFICIAL DOCUMENTS/GEPEL LING MONASTERY",
             "subject_tibetan": "DGE 'PHEL GLING",
             "subject_english": "GEPEL LING MONASTERY"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P290"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "bca' yig_official documents/dge 'phel gling_gepel ling monastery",
-            "timestamp": "2024-09-10T02:06:01.369593+00:00"
+            "path": "GSUNG 'BUM_Sungbum/BCA' YIG_OFFICIAL DOCUMENTS/DGE 'PHEL GLING_GEPEL LING MONASTERY",
+            "timestamp": "2024-11-20 05:24:22.178934+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:24:22.178934+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

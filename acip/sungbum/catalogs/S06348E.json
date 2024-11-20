@@ -1,12 +1,12 @@
 {
     "name": "S06348E_BLA MCHOD BDE STONG DBYER MED MA'I BSDUS DON_A Brief Explanation of the 'Offering to Lamas, Indivisible Bliss and Emptiness'_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/bla ma mchod pa_offering to lamas/'grel pa_commentaries",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/bla ma mchod pa_offering to lamas/'grel pa_commentaries/s06348e_bla mchod bde stong dbyer med ma'i bsdus don_a brief explanation of the 'offering to lamas, indivisible bliss and emptiness'_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAL_A",
-    "revision_id": "613f6656deccd8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/BLA MA MCHOD PA_OFFERING TO LAMAS/'GREL PA_COMMENTARIES",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/bla ma mchod pa_offering to lamas/'grel pa_commentaries/s06348e_bla mchod bde stong dbyer med ma'i bsdus don_a brief explanation of the 'offering to lamas, indivisible bliss and emptiness'_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABeZw",
+    "revision_id": "625a49bcc82fe8d294473",
     "content_hash": "8c2f0d56661f734a1da21ad348726d45dcd9968558b14c387fed0dc40fbe0d3b",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:13:09.569870",
+    "server_modified": "2024-10-29 21:52:58",
+    "last_sync": "2024-11-19 21:12:28.798195",
     "size": 4894,
     "meta_text": null,
     "cat_ref": "S06348E",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "256619765336",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/BLA MA MCHOD PA_OFFERING TO LAMAS/'GREL PA_COMMENTARIES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/BLA MA MCHOD PA/'GREL PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/OFFERING TO LAMAS/COMMENTARIES",
+            "_id": "192397078472",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BLA MA MCHOD PA_OFFERING TO LAMAS/'GREL PA_COMMENTARIES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/BLA MA MCHOD PA/'GREL PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/OFFERING TO LAMAS/COMMENTARIES",
             "subject_tibetan": "'GREL PA",
             "subject_english": "COMMENTARIES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/bla ma mchod pa_offering to lamas/'grel pa_commentaries",
-            "timestamp": "2024-09-10T02:13:09.595066+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BLA MA MCHOD PA_OFFERING TO LAMAS/'GREL PA_COMMENTARIES",
+            "timestamp": "2024-11-20 05:12:31.480661+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:12:31.480661+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

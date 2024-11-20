@@ -1,12 +1,12 @@
 {
     "name": "SE06260A_DHA RMA BHA DRA DPAL BZANG PO'I RNAM THAR ZHVA SER BSTAN PA'I MDZES RGYAN_Jewel of the Teachings of the Golden Hats--A Biography of the Good and Glorious Dharma Bhadra_DBYANGS CAN GRUB PA'I RDO RJE (1809-1887).TXT",
-    "path": "rnam thar_biographies/mtsan thog_by person's name/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)",
-    "download_path": "/sungbum updated 4 26 23 bk/rnam thar_biographies/mtsan thog_by person's name/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)/se06260a_dha rma bha dra dpal bzang po'i rnam thar zhva ser bstan pa'i mdzes rgyan_jewel of the teachings of the golden hats--a biography of the good and glorious dharma bhadra_dbyangs can grub pa'i rdo rje (1809-1887).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAWmQ",
-    "revision_id": "613f666d209b58d294473",
+    "path": "RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
+    "download_path": "/sungbum updated 7 30 23 nl/rnam thar_biographies/mtsan thog_by person's name/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)/se06260a_dha rma bha dra dpal bzang po'i rnam thar zhva ser bstan pa'i mdzes rgyan_jewel of the teachings of the golden hats--a biography of the good and glorious dharma bhadra_dbyangs can grub pa'i rdo rje (1809-1887).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABgYA",
+    "revision_id": "625a4a1c0efd98d294473",
     "content_hash": "1f1244cd60a2361d514bcfd322e2099d7237cd8cf9db5c01fb29dd73147d9871",
-    "server_modified": "2024-03-18T21:54:28",
-    "last_sync": "2024-09-09T19:23:50.008203",
+    "server_modified": "2024-10-29 21:54:38",
+    "last_sync": "2024-11-19 21:15:49.397492",
     "size": 426840,
     "meta_text": null,
     "cat_ref": "SE06260A",
@@ -19,10 +19,10 @@
     "author_simple": "DBYANGS CAN GRUB PA'I RDO RJE",
     "subject": [
         {
-            "_id": "258788113524",
-            "subject_path": "SUNGBUM_SUNGBUM/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
-            "subject_path_tibetan": "SUNGBUM/RNAM THAR/MTSAN THOG/DNGUL CHU DHARMA BHADRA",
-            "subject_path_english": "SUNGBUM/BIOGRAPHIES/BY PERSON'S NAME/NGULCHU DHARMA BHADRA (1772-1851)",
+            "_id": "334443335207",
+            "subject_path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "GSUNG 'BUM/RNAM THAR/MTSAN THOG/DNGUL CHU DHARMA BHADRA",
+            "subject_path_english": "Sungbum/BIOGRAPHIES/BY PERSON'S NAME/NGULCHU DHARMA BHADRA (1772-1851)",
             "subject_tibetan": "DNGUL CHU DHARMA BHADRA",
             "subject_english": "NGULCHU DHARMA BHADRA (1772-1851)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P268"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rnam thar_biographies/mtsan thog_by person's name/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)",
-            "timestamp": "2024-09-10T02:23:50.031542+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
+            "timestamp": "2024-11-20 05:15:49.402961+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:15:49.402961+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

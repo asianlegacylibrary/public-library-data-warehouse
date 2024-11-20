@@ -1,14 +1,14 @@
 {
     "name": "S12165E_BYAMS BSTOD TSANGS PA'I COD PAN GYI DGONGS 'GREL LAM MCHOG GSAL BYED_Illumination on the Supreme Path--A Commentary upon the True Thought behind the Praise of Loving One (Maitreya) entitled 'Crown of the Pure One'_CHOS RJE KHAL KHA NGAG DBAN+.TXT",
-    "path": "rgyud_secret teachings (tantra)/byams pa_loving one (maitreya)/bstod pa_songs of praise (stotra)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/byams pa_loving one (maitreya)/bstod pa_songs of praise (stotra)/s12165e_byams bstod tsangs pa'i cod pan gyi dgongs 'grel lam mchog gsal byed_illumination on the supreme path--a commentary upon the true thought behind the praise of loving one (maitreya) entitled 'crown of the pure one'_chos rje khal kha ngag dban+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAIJg",
-    "revision_id": "613f664dc42428d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/BYAMS PA_LOVING ONE (MAITREYA)/BSTOD PA_SONGS OF PRAISE (STOTRA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/byams pa_loving one (maitreya)/bstod pa_songs of praise (stotra)/s12165e_byams bstod tsangs pa'i cod pan gyi dgongs 'grel lam mchog gsal byed_illumination on the supreme path--a commentary upon the true thought behind the praise of loving one (maitreya) entitled 'crown of the pure one'_chos rje khal kha ngag dban+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABcsQ",
+    "revision_id": "625a497f774988d294473",
     "content_hash": "3dc9bdd8280419c7c4f2ba272a79aceb95e2d0c149950b37de614317216091af",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:09:09.443852",
+    "server_modified": "2024-10-29 21:51:54",
+    "last_sync": "2024-11-19 21:09:26.228641",
     "size": 40439,
-    "meta_text": "G DPAL LDAN (1806-&)",
+    "meta_text": "('G DPAL LDAN (1806-&)', 'rtf')",
     "cat_ref": "S12165E",
     "work_ref": "W.S12165E",
     "title_tib": "BYAMS BSTOD TSANGS PA'I COD PAN GYI DGONGS 'GREL LAM MCHOG GSAL BYED",
@@ -19,10 +19,10 @@
     "author_simple": "CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN",
     "subject": [
         {
-            "_id": "407672615291",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/BYAMS PA_LOVING ONE (MAITREYA)/BSTOD PA_SONGS OF PRAISE (STOTRA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/BYAMS PA/BSTOD PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/LOVING ONE (MAITREYA)/SONGS OF PRAISE (STOTRA)",
+            "_id": "211739829892",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BYAMS PA_LOVING ONE (MAITREYA)/BSTOD PA_SONGS OF PRAISE (STOTRA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/BYAMS PA/BSTOD PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/LOVING ONE (MAITREYA)/SONGS OF PRAISE (STOTRA)",
             "subject_tibetan": "BSTOD PA",
             "subject_english": "SONGS OF PRAISE (STOTRA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P272"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/byams pa_loving one (maitreya)/bstod pa_songs of praise (stotra)",
-            "timestamp": "2024-09-10T02:09:09.454814+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BYAMS PA_LOVING ONE (MAITREYA)/BSTOD PA_SONGS OF PRAISE (STOTRA)",
+            "timestamp": "2024-11-20 05:09:26.234255+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:09:26.234255+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

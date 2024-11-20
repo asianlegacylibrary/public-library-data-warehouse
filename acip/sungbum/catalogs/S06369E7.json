@@ -1,12 +1,12 @@
 {
     "name": "S06369E7_TSE DPAG MED LHA DGU'I DBANG BRGYUD_On the Lineage of Lamas in the Practice of the Nine Angels of Limitless Life (Amitayus)_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/tse dpag med_limitless life (amitayus)/bla brgyud_lineage lamas",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/tse dpag med_limitless life (amitayus)/bla brgyud_lineage lamas/s06369e7_tse dpag med lha dgu'i dbang brgyud_on the lineage of lamas in the practice of the nine angels of limitless life (amitayus)_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAJjw",
-    "revision_id": "613f664dc43ab8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/TSE DPAG MED_LIMITLESS LIFE (AMITAYUS)/BLA BRGYUD_LINEAGE LAMAS",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/tse dpag med_limitless life (amitayus)/bla brgyud_lineage lamas/s06369e7_tse dpag med lha dgu'i dbang brgyud_on the lineage of lamas in the practice of the nine angels of limitless life (amitayus)_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABVjA",
+    "revision_id": "625a488abebd88d294473",
     "content_hash": "bbfd8aaade1a670531f3701cd9324ff63cc4f877e10d773e2fe9c8d9e8481545",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:10:37.088588",
+    "server_modified": "2024-10-29 21:47:38",
+    "last_sync": "2024-11-19 20:57:39.659383",
     "size": 1118,
     "meta_text": null,
     "cat_ref": "S06369E7",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "275084349898",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/TSE DPAG MED_LIMITLESS LIFE (AMITAYUS)/BLA BRGYUD_LINEAGE LAMAS",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/TSE DPAG MED/BLA BRGYUD",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/LIMITLESS LIFE (AMITAYUS)/LINEAGE LAMAS",
+            "_id": "107381708479",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/TSE DPAG MED_LIMITLESS LIFE (AMITAYUS)/BLA BRGYUD_LINEAGE LAMAS",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/TSE DPAG MED/BLA BRGYUD",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/LIMITLESS LIFE (AMITAYUS)/LINEAGE LAMAS",
             "subject_tibetan": "BLA BRGYUD",
             "subject_english": "LINEAGE LAMAS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/tse dpag med_limitless life (amitayus)/bla brgyud_lineage lamas",
-            "timestamp": "2024-09-10T02:10:37.095591+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/TSE DPAG MED_LIMITLESS LIFE (AMITAYUS)/BLA BRGYUD_LINEAGE LAMAS",
+            "timestamp": "2024-11-20 04:57:39.675181+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:57:39.675181+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

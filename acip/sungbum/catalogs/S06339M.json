@@ -1,14 +1,14 @@
 {
     "name": "S06339M_ BYANG CHUB LAM GYI RIM PA BDE LAM GYI SNYING PO DANG LAM RIM RNAM GZHAG_'The Essence of the Book on the Steps of the Path to Buddhahood entitled 'Path of Ease,'' along with 'An Outline of the Steps to Buddhahood'_DNGUL CHU DHARMA BHADRA (17+.TXT",
-    "path": "lam rim_steps of the path/bde lam_path to bliss/bshar sgom_review meditation",
-    "download_path": "/sungbum updated 4 26 23 bk/lam rim_steps of the path/bde lam_path to bliss/bshar sgom_review meditation/s06339m_ byang chub lam gyi rim pa bde lam gyi snying po dang lam rim rnam gzhag_'the essence of the book on the steps of the path to buddhahood entitled 'path of ease,'' along with 'an outline of the steps to buddhahood'_dngul chu dharma bhadra (17+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAGzQ",
-    "revision_id": "613f66492f1378d294473",
+    "path": "LAM RIM_STEPS OF THE PATH/BDE LAM_PATH TO BLISS/BSHAR SGOM_REVIEW MEDITATION",
+    "download_path": "/sungbum updated 7 30 23 nl/lam rim_steps of the path/bde lam_path to bliss/bshar sgom_review meditation/s06339m_ byang chub lam gyi rim pa bde lam gyi snying po dang lam rim rnam gzhag_'the essence of the book on the steps of the path to buddhahood entitled 'path of ease,'' along with 'an outline of the steps to buddhahood'_dngul chu dharma bhadra (17+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABhJQ",
+    "revision_id": "625a4a55746a08d294473",
     "content_hash": "57452c74d918123ffddbeb2f2357d025520c1585fb9938345399800d0baba3ec",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:07:55.373653",
+    "server_modified": "2024-10-29 21:55:39",
+    "last_sync": "2024-11-19 21:17:21.793507",
     "size": 13193,
-    "meta_text": "72-1851)",
+    "meta_text": "('72-1851)', 'rtf')",
     "cat_ref": "S06339M",
     "work_ref": "W.S06339M",
     "title_tib": "BYANG CHUB LAM GYI RIM PA BDE LAM GYI SNYING PO DANG LAM RIM RNAM GZHAG",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "165022842813",
-            "subject_path": "SUNGBUM_SUNGBUM/LAM RIM_STEPS OF THE PATH/BDE LAM_PATH TO BLISS/BSHAR SGOM_REVIEW MEDITATION",
-            "subject_path_tibetan": "SUNGBUM/LAM RIM/BDE LAM/BSHAR SGOM",
-            "subject_path_english": "SUNGBUM/STEPS OF THE PATH/PATH TO BLISS/REVIEW MEDITATION",
+            "_id": "197728606221",
+            "subject_path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/BDE LAM_PATH TO BLISS/BSHAR SGOM_REVIEW MEDITATION",
+            "subject_path_tibetan": "GSUNG 'BUM/LAM RIM/BDE LAM/BSHAR SGOM",
+            "subject_path_english": "Sungbum/STEPS OF THE PATH/PATH TO BLISS/REVIEW MEDITATION",
             "subject_tibetan": "BSHAR SGOM",
             "subject_english": "REVIEW MEDITATION"
         }
@@ -31,18 +31,26 @@
     "author": [
         {
             "author_name": "DNGUL CHU DHARMA BHADRA",
-            "author_birth": "1772",
-            "author_death": "1851",
+            "author_birth": null,
+            "author_death": null,
             "bdrc_id": "bdr:P289",
             "normalized_name": "DNGUL CHU DHARMA BHADRA",
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "lam rim_steps of the path/bde lam_path to bliss/bshar sgom_review meditation",
-            "timestamp": "2024-09-10T02:07:55.381336+00:00"
+            "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/BDE LAM_PATH TO BLISS/BSHAR SGOM_REVIEW MEDITATION",
+            "timestamp": "2024-11-20 05:17:21.797724+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:17:21.797724+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

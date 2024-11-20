@@ -1,12 +1,12 @@
 {
     "name": "S06370E57_JIGS BYED MNGON RTOGS SKOR GYI DRI LAN_Response to Questions on the 'Realization' Practice in the Teachings on the Frightener (Bhairava)_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/mngon rtogs_rituals of realization (abhisamaya)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/mngon rtogs_rituals of realization (abhisamaya)/s06370e57_jigs byed mngon rtogs skor gyi dri lan_response to questions on the 'realization' practice in the teachings on the frightener (bhairava)_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAMzA",
-    "revision_id": "613f6656ded9d8d294473",
+    "path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "download_path": "/sungbum updated 7 30 23 nl/dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)/s06370e57_jigs byed mngon rtogs skor gyi dri lan_response to questions on the 'realization' practice in the teachings on the frightener (bhairava)_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABStg",
+    "revision_id": "625a481c9e9758d294473",
     "content_hash": "b350ccc4927b45cb6eb11e3b31d16ed0fefc11cac0e09dfd744e1a9becd68ea6",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:14:11.822465",
+    "server_modified": "2024-10-29 21:45:42",
+    "last_sync": "2024-11-19 20:53:38.041919",
     "size": 31305,
     "meta_text": null,
     "cat_ref": "S06370E57",
@@ -19,20 +19,20 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "280040477560",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/MNGON RTOGS_RITUALS OF REALIZATION (ABHISAMAYA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/'JIGS BYED/MNGON RTOGS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/RITUALS OF REALIZATION (ABHISAMAYA)",
-            "subject_tibetan": "MNGON RTOGS",
-            "subject_english": "RITUALS OF REALIZATION (ABHISAMAYA)"
-        },
-        {
-            "_id": "244831615226",
-            "subject_path": "SUNGBUM_SUNGBUM/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_tibetan": "SUNGBUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_english": "SUNGBUM/QUESTIONS AND ANSWERS",
+            "_id": "250883940513",
+            "subject_path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "GSUNG 'BUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "Sungbum/QUESTIONS AND ANSWERS",
             "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
             "subject_english": "QUESTIONS AND ANSWERS"
+        },
+        {
+            "_id": "336633370628",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/MNGON RTOGS_RITUALS OF REALIZATION (ABHISAMAYA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/'JIGS BYED/MNGON RTOGS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/RITUALS OF REALIZATION (ABHISAMAYA)",
+            "subject_tibetan": "MNGON RTOGS",
+            "subject_english": "RITUALS OF REALIZATION (ABHISAMAYA)"
         }
     ],
     "items": [],
@@ -46,15 +46,29 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/mngon rtogs_rituals of realization (abhisamaya)",
-            "timestamp": "2024-09-10T02:14:11.842199+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "timestamp": "2024-11-20 04:54:07.134443+00:00"
         },
         {
-            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
-            "timestamp": "2024-09-10T02:21:49.616478+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/MNGON RTOGS_RITUALS OF REALIZATION (ABHISAMAYA)",
+            "timestamp": "2024-11-20 05:10:25.545002+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:54:07.134443+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T05:10:25.545002+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "text"
 }

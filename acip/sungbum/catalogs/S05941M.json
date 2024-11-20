@@ -1,12 +1,12 @@
 {
     "name": "S05941M_BYANG CHUB LAM GYI SGRON MA'I RNAM BSHAD PHUL BYUNG BZHAD PA'I DGA' STON_'A Party to Open Up Excellent Things,' being an Explanation of 'The Lamp for the Path to Enlightenment'_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662).TXT",
-    "path": "lam rim_steps of the path/lam sgron_light on the steps of the path (bodhipatha pradipa)/'grel pa_commentaries",
-    "download_path": "/sungbum updated 4 26 23 bk/lam rim_steps of the path/lam sgron_light on the steps of the path (bodhipatha pradipa)/'grel pa_commentaries/s05941m_byang chub lam gyi sgron ma'i rnam bshad phul byung bzhad pa'i dga' ston_'a party to open up excellent things,' being an explanation of 'the lamp for the path to enlightenment'_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAGPg",
-    "revision_id": "613f66492f0a88d294473",
+    "path": "LAM RIM_STEPS OF THE PATH/LAM SGRON_LIGHT ON THE STEPS OF THE PATH (BODHIPATHA PRADIPA)/'GREL PA_COMMENTARIES",
+    "download_path": "/sungbum updated 7 30 23 nl/lam rim_steps of the path/lam sgron_light on the steps of the path (bodhipatha pradipa)/'grel pa_commentaries/s05941m_byang chub lam gyi sgron ma'i rnam bshad phul byung bzhad pa'i dga' ston_'a party to open up excellent things,' being an explanation of 'the lamp for the path to enlightenment'_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABhFA",
+    "revision_id": "625a4a53839708d294473",
     "content_hash": "b52415be24566c30767d3d19dedbe8446f8ef3147af425382af97df0bd2cf23d",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:07:23.276016",
+    "server_modified": "2024-10-29 21:55:37",
+    "last_sync": "2024-11-19 21:17:14.495967",
     "size": 134334,
     "meta_text": null,
     "cat_ref": "S05941M",
@@ -19,10 +19,10 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "180796105058",
-            "subject_path": "SUNGBUM_SUNGBUM/LAM RIM_STEPS OF THE PATH/LAM SGRON_LIGHT ON THE STEPS OF THE PATH (BODHIPATHA PRADIPA)/'GREL PA_COMMENTARIES",
-            "subject_path_tibetan": "SUNGBUM/LAM RIM/LAM SGRON/'GREL PA",
-            "subject_path_english": "SUNGBUM/STEPS OF THE PATH/LIGHT ON THE STEPS OF THE PATH (BODHIPATHA PRADIPA)/COMMENTARIES",
+            "_id": "192253095736",
+            "subject_path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/LAM SGRON_LIGHT ON THE STEPS OF THE PATH (BODHIPATHA PRADIPA)/'GREL PA_COMMENTARIES",
+            "subject_path_tibetan": "GSUNG 'BUM/LAM RIM/LAM SGRON/'GREL PA",
+            "subject_path_english": "Sungbum/STEPS OF THE PATH/LIGHT ON THE STEPS OF THE PATH (BODHIPATHA PRADIPA)/COMMENTARIES",
             "subject_tibetan": "'GREL PA",
             "subject_english": "COMMENTARIES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "lam rim_steps of the path/lam sgron_light on the steps of the path (bodhipatha pradipa)/'grel pa_commentaries",
-            "timestamp": "2024-09-10T02:07:23.305746+00:00"
+            "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/LAM SGRON_LIGHT ON THE STEPS OF THE PATH (BODHIPATHA PRADIPA)/'GREL PA_COMMENTARIES",
+            "timestamp": "2024-11-20 05:17:15.903150+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:17:15.903150+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

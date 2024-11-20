@@ -1,28 +1,28 @@
 {
     "name": "S05307E_DPAL RDO RJE PHRENG BA LAS GSUNGS PA'I DRANG NGES KYI SNGAGS BTU ZHING BYIN GYIS BRLAB PA'I CHO GA RJE'I GSUNG BZHIN ZIN BRIS SU BKOD PA_A Ritual for Granting the Secret Words, both Actual and Figurative, along with a Blessing, as Taught in +.TXT",
-    "path": "rgyud_secret teachings (tantra)/rdo rje phreng ba_string of diamonds (vajramala)/sngags_secret words (mantra)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/rdo rje phreng ba_string of diamonds (vajramala)/sngags_secret words (mantra)/s05307e_dpal rdo rje phreng ba las gsungs pa'i drang nges kyi sngags btu zhing byin gyis brlab pa'i cho ga rje'i gsung bzhin zin bris su bkod pa_a ritual for granting the secret words, both actual and figurative, along with a blessing, as taught in +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAIdg",
-    "revision_id": "613f664dc42928d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE PHRENG BA_STRING OF DIAMONDS (VAJRAMALA)/SNGAGS_SECRET WORDS (MANTRA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/rdo rje phreng ba_string of diamonds (vajramala)/sngags_secret words (mantra)/s05307e_dpal rdo rje phreng ba las gsungs pa'i drang nges kyi sngags btu zhing byin gyis brlab pa'i cho ga rje'i gsung bzhin zin bris su bkod pa_a ritual for granting the secret words, both actual and figurative, along with a blessing, as taught in +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABeKg",
+    "revision_id": "625a49b6958a88d294473",
     "content_hash": "ad0b14ef174fd6d5eb47ae92c6db941a5b7492653953eb2f760f4b8a40f3e38d",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:09:24.968229",
+    "server_modified": "2024-10-29 21:52:52",
+    "last_sync": "2024-11-19 21:12:03.184459",
     "size": 30250,
-    "meta_text": "the Secret Teaching of the Glorious String of Diamonds (Vajravali), All Set Down in Notes based on a Teaching of Je Tsongkapa_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)",
+    "meta_text": "('the Secret Teaching of the Glorious String of Diamonds (Vajravali), All Set Down in Notes based on a Teaching of Je Tsongkapa_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)', 'rtf')",
     "cat_ref": "S05307E",
     "work_ref": "W.S05307E",
     "title_tib": "DPAL RDO RJE PHRENG BA LAS GSUNGS PA'I DRANG NGES KYI SNGAGS BTU ZHING BYIN GYIS BRLAB PA'I CHO GA RJE'I GSUNG BZHIN ZIN BRIS SU BKOD PA",
-    "title_eng": "A Ritual for Granting the Secret Words, both Actual and Figurative, along with a Blessing, as Taught inthe Secret Teaching of the Glorious String of Diamonds (Vajravali), All Set Down in Notes based on a Teaching of Je Tsongkapa",
+    "title_eng": "A Ritual for Granting the Secret Words, both Actual and Figurative, along with a Blessing, as Taught in('the Secret Teaching of the Glorious String of Diamonds (Vajravali), All Set Down in Notes based on a Teaching of Je Tsongkapa",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "285317267967",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE PHRENG BA_STRING OF DIAMONDS (VAJRAMALA)/SNGAGS_SECRET WORDS (MANTRA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/RDO RJE PHRENG BA/SNGAGS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/STRING OF DIAMONDS (VAJRAMALA)/SECRET WORDS (MANTRA)",
+            "_id": "119829973815",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE PHRENG BA_STRING OF DIAMONDS (VAJRAMALA)/SNGAGS_SECRET WORDS (MANTRA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/RDO RJE PHRENG BA/SNGAGS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/STRING OF DIAMONDS (VAJRAMALA)/SECRET WORDS (MANTRA)",
             "subject_tibetan": "SNGAGS",
             "subject_english": "SECRET WORDS (MANTRA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/rdo rje phreng ba_string of diamonds (vajramala)/sngags_secret words (mantra)",
-            "timestamp": "2024-09-10T02:09:24.977052+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE PHRENG BA_STRING OF DIAMONDS (VAJRAMALA)/SNGAGS_SECRET WORDS (MANTRA)",
+            "timestamp": "2024-11-20 05:12:03.189742+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:12:03.189742+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

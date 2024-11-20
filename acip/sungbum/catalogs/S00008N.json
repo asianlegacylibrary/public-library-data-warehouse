@@ -1,12 +1,12 @@
 {
     "name": "S00008N_DBU MA SPYI DON GYI DPAR SBYANG SMON TSIG_Colophon to 'Overview of the Middle Way'_DGE BSHES THUB BSTAN RIN CHEN (@-@).TXT",
-    "path": "dbu ma_middle-way philosophy (madhyamika prasangika school)/'grel pa spyi_general commentaries/mkhas grub bstan pa dar rgyas_kedrup tenpa dargye (1493-1568)/spyi don_overview",
-    "download_path": "/sungbum updated 4 26 23 bk/dbu ma_middle-way philosophy (madhyamika prasangika school)/'grel pa spyi_general commentaries/mkhas grub bstan pa dar rgyas_kedrup tenpa dargye (1493-1568)/spyi don_overview/s00008n_dbu ma spyi don gyi dpar sbyang smon tsig_colophon to 'overview of the middle way'_dge bshes thub bstan rin chen (@-@).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAD4A",
-    "revision_id": "613f663ffc8d38d294473",
+    "path": "DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/'GREL PA SPYI_GENERAL COMMENTARIES/MKHAS GRUB BSTAN PA DAR RGYAS_KEDRUP TENPA DARGYE (1493-1568)/SPYI DON_OVERVIEW",
+    "download_path": "/sungbum updated 7 30 23 nl/dbu ma_middle-way philosophy (madhyamika prasangika school)/'grel pa spyi_general commentaries/mkhas grub bstan pa dar rgyas_kedrup tenpa dargye (1493-1568)/spyi don_overview/s00008n_dbu ma spyi don gyi dpar sbyang smon tsig_colophon to 'overview of the middle way'_dge bshes thub bstan rin chen (@-@).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABRKw",
+    "revision_id": "625a47dcd465b8d294473",
     "content_hash": "b50b6267b7fcc773c73bd53f1b29c34ac96b5946b0257fa97e3cc55c034b723f",
-    "server_modified": "2024-03-18T21:53:40",
-    "last_sync": "2024-09-09T19:05:09.303187",
+    "server_modified": "2024-10-29 21:44:35",
+    "last_sync": "2024-11-19 20:51:22.580824",
     "size": 1125,
     "meta_text": null,
     "cat_ref": "S00008N",
@@ -19,10 +19,10 @@
     "author_simple": "DGE BSHES THUB BSTAN RIN CHEN",
     "subject": [
         {
-            "_id": "250042422573",
-            "subject_path": "SUNGBUM_SUNGBUM/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/'GREL PA SPYI_GENERAL COMMENTARIES/MKHAS GRUB BSTAN PA DAR RGYAS_KEDRUP TENPA DARGYE (1493-1568)/SPYI DON_OVERVIEW",
-            "subject_path_tibetan": "SUNGBUM/DBU MA/'GREL PA SPYI/MKHAS GRUB BSTAN PA DAR RGYAS/SPYI DON",
-            "subject_path_english": "SUNGBUM/MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/GENERAL COMMENTARIES/KEDRUP TENPA DARGYE (1493-1568)/OVERVIEW",
+            "_id": "163449009254",
+            "subject_path": "GSUNG 'BUM_Sungbum/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/'GREL PA SPYI_GENERAL COMMENTARIES/MKHAS GRUB BSTAN PA DAR RGYAS_KEDRUP TENPA DARGYE (1493-1568)/SPYI DON_OVERVIEW",
+            "subject_path_tibetan": "GSUNG 'BUM/DBU MA/'GREL PA SPYI/MKHAS GRUB BSTAN PA DAR RGYAS/SPYI DON",
+            "subject_path_english": "Sungbum/MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/GENERAL COMMENTARIES/KEDRUP TENPA DARGYE (1493-1568)/OVERVIEW",
             "subject_tibetan": "SPYI DON",
             "subject_english": "OVERVIEW"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "dbu ma_middle-way philosophy (madhyamika prasangika school)/'grel pa spyi_general commentaries/mkhas grub bstan pa dar rgyas_kedrup tenpa dargye (1493-1568)/spyi don_overview",
-            "timestamp": "2024-09-10T02:05:09.339210+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/'GREL PA SPYI_GENERAL COMMENTARIES/MKHAS GRUB BSTAN PA DAR RGYAS_KEDRUP TENPA DARGYE (1493-1568)/SPYI DON_OVERVIEW",
+            "timestamp": "2024-11-20 04:51:23.460887+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:51:23.460887+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,14 +1,14 @@
 {
     "name": "S19055E_LO CHEN BLO BZANG 'OD ZER GYI DRIS LAN KUN MKHYEN 'JAM DBYANGS BZHAD PAS GSUNGS PA_Responses by the All-Knowing Jamyang Shepa to Questions Posed by the Master Translater Lobsang U-ser_'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GR+.TXT",
-    "path": "sgra_study of sanskrit/spyi_general treatments",
-    "download_path": "/sungbum updated 4 26 23 bk/sgra_study of sanskrit/spyi_general treatments/s19055e_lo chen blo bzang 'od zer gyi dris lan kun mkhyen 'jam dbyangs bzhad pas gsungs pa_responses by the all-knowing jamyang shepa to questions posed by the master translater lobsang u-ser_'jam dbyangs bzhad pa'i rdo rje ngag dbang brtzon 'gr+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAASRg",
-    "revision_id": "613f6664743698d294473",
+    "path": "DRI LAN_QUESTIONS AND ANSWERS/'JAM DBYANGS BZHAD PA'I RDO RJE (1648-1721)",
+    "download_path": "/sungbum updated 7 30 23 nl/dri lan_questions and answers/'jam dbyangs bzhad pa'i rdo rje (1648-1721)/s19055e_lo chen blo bzang 'od zer gyi dris lan kun mkhyen 'jam dbyangs bzhad pas gsungs pa_responses by the all-knowing jamyang shepa to questions posed by the master translater lobsang u-ser_'jam dbyangs bzhad pa'i rdo rje ngag dbang brtzon 'gr+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABTug",
+    "revision_id": "625a4843cd9458d294473",
     "content_hash": "5a29fb95fed78504e012d1e43f68a42dada4c39f948cdde1dcc96135968317f6",
-    "server_modified": "2024-03-18T21:54:19",
-    "last_sync": "2024-09-09T19:19:55.443243",
+    "server_modified": "2024-10-29 21:46:23",
+    "last_sync": "2024-11-19 20:54:12.864213",
     "size": 4580,
-    "meta_text": "US (1648-1721)",
+    "meta_text": "('US (1648-1721)', 'rtf')",
     "cat_ref": "S19055E",
     "work_ref": "W.S19055E",
     "title_tib": "LO CHEN BLO BZANG 'OD ZER GYI DRIS LAN KUN MKHYEN 'JAM DBYANGS BZHAD PAS GSUNGS PA",
@@ -19,20 +19,20 @@
     "author_simple": "'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS",
     "subject": [
         {
-            "_id": "123761675005",
-            "subject_path": "SUNGBUM_SUNGBUM/SGRA_STUDY OF SANSKRIT/SPYI_GENERAL TREATMENTS",
-            "subject_path_tibetan": "SUNGBUM/SGRA/SPYI",
-            "subject_path_english": "SUNGBUM/STUDY OF SANSKRIT/GENERAL TREATMENTS",
-            "subject_tibetan": "SPYI",
-            "subject_english": "GENERAL TREATMENTS"
-        },
-        {
-            "_id": "309172523686",
-            "subject_path": "SUNGBUM_SUNGBUM/DRI LAN_QUESTIONS AND ANSWERS/'JAM DBYANGS BZHAD PA'I RDO RJE (1648-1721)",
-            "subject_path_tibetan": "SUNGBUM/DRI LAN/'JAM DBYANGS BZHAD PA'I RDO RJE (1648-1721)",
-            "subject_path_english": "SUNGBUM/QUESTIONS AND ANSWERS",
+            "_id": "178886377544",
+            "subject_path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/'JAM DBYANGS BZHAD PA'I RDO RJE (1648-1721)",
+            "subject_path_tibetan": "GSUNG 'BUM/DRI LAN/'JAM DBYANGS BZHAD PA'I RDO RJE (1648-1721)",
+            "subject_path_english": "Sungbum/QUESTIONS AND ANSWERS",
             "subject_tibetan": "'JAM DBYANGS BZHAD PA'I RDO RJE (1648-1721)",
             "subject_english": "QUESTIONS AND ANSWERS"
+        },
+        {
+            "_id": "240608663322",
+            "subject_path": "GSUNG 'BUM_Sungbum/SGRA_STUDY OF SANSKRIT/SPYI_GENERAL TREATMENTS",
+            "subject_path_tibetan": "GSUNG 'BUM/SGRA/SPYI",
+            "subject_path_english": "Sungbum/STUDY OF SANSKRIT/GENERAL TREATMENTS",
+            "subject_tibetan": "SPYI",
+            "subject_english": "GENERAL TREATMENTS"
         }
     ],
     "items": [],
@@ -46,15 +46,29 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P423"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "sgra_study of sanskrit/spyi_general treatments",
-            "timestamp": "2024-09-10T02:19:55.450636+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/'JAM DBYANGS BZHAD PA'I RDO RJE (1648-1721)",
+            "timestamp": "2024-11-20 04:54:14.110617+00:00"
         },
         {
-            "path": "dri lan_questions and answers/'jam dbyangs bzhad pa'i rdo rje (1648-1721)",
-            "timestamp": "2024-09-10T02:21:05.226376+00:00"
+            "path": "GSUNG 'BUM_Sungbum/SGRA_STUDY OF SANSKRIT/SPYI_GENERAL TREATMENTS",
+            "timestamp": "2024-11-20 05:25:50.402823+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:54:14.110617+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T05:25:50.402823+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "rtf"
 }

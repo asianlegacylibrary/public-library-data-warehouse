@@ -1,14 +1,14 @@
 {
     "name": "S06414E_ BCOM LDAN 'DAS DPAL RDO RJE 'JIGS BYED CHEN PO'I BSKYED RIM NYAMS SU LEN TSUL_Method for Putting into Practice the Stage of Creation in the Teaching of the Victorious Conqueror, the Great and Glorious Diamond Frightener (Vajra Bhairava)_DNG +.TXT",
-    "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/bskyed rim_creation stage (utpatti krama)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/bskyed rim_creation stage (utpatti krama)/s06414e_ bcom ldan 'das dpal rdo rje 'jigs byed chen po'i bskyed rim nyams su len tsul_method for putting into practice the stage of creation in the teaching of the victorious conqueror, the great and glorious diamond frightener (vajra bhairava)_dng +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAMow",
-    "revision_id": "613f6656ded748d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/BSKYED RIM_CREATION STAGE (UTPATTI KRAMA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/bskyed rim_creation stage (utpatti krama)/s06414e_ bcom ldan 'das dpal rdo rje 'jigs byed chen po'i bskyed rim nyams su len tsul_method for putting into practice the stage of creation in the teaching of the victorious conqueror, the great and glorious diamond frightener (vajra bhairava)_dng +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABeDg",
+    "revision_id": "625a49b2170b88d294473",
     "content_hash": "74425f0875883bdee3867adea123d1638c75b9ebe257fb59eecf461f060ea0cd",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:14:00.189967",
+    "server_modified": "2024-10-29 21:52:47",
+    "last_sync": "2024-11-19 21:11:47.495052",
     "size": 2346,
-    "meta_text": "UL CHU DHARMA BHADRA (1772-1851)",
+    "meta_text": "('UL CHU DHARMA BHADRA (1772-1851)', 'rtf')",
     "cat_ref": "S06414E",
     "work_ref": "W.S06414E",
     "title_tib": "BCOM LDAN 'DAS DPAL RDO RJE 'JIGS BYED CHEN PO'I BSKYED RIM NYAMS SU LEN TSUL",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "176862413886",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/BSKYED RIM_CREATION STAGE (UTPATTI KRAMA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/'JIGS BYED/BSKYED RIM",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/CREATION STAGE (UTPATTI KRAMA)",
+            "_id": "259229784926",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/BSKYED RIM_CREATION STAGE (UTPATTI KRAMA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/'JIGS BYED/BSKYED RIM",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/CREATION STAGE (UTPATTI KRAMA)",
             "subject_tibetan": "BSKYED RIM",
             "subject_english": "CREATION STAGE (UTPATTI KRAMA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/bskyed rim_creation stage (utpatti krama)",
-            "timestamp": "2024-09-10T02:14:00.198382+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/BSKYED RIM_CREATION STAGE (UTPATTI KRAMA)",
+            "timestamp": "2024-11-20 05:11:49.763398+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:11:49.763398+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

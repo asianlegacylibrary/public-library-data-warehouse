@@ -1,28 +1,28 @@
 {
     "name": "S12159E_BDE BA CAN DU SKYE BA'I SMON LAM ZHING MCHOG SGO 'BYED KYI 'DON SGRIGS RNAM DAG ZHING DU BGROD PA'I BDE LAM_An Easy Path for Travelling to Paradise-- An Explication of 'Opening the Gate to the Supreme Paradise,' a Prayer to be Born in the He+.TXT",
-    "path": "nyams len_personal practice/smon lam_making prayers/chos rje khal kha ngag dbang dpal ldan _chuje kelka ngawang pelden (1806-?)",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/smon lam_making prayers/chos rje khal kha ngag dbang dpal ldan _chuje kelka ngawang pelden (1806-?)/s12159e_bde ba can du skye ba'i smon lam zhing mchog sgo 'byed kyi 'don sgrigs rnam dag zhing du bgrod pa'i bde lam_an easy path for travelling to paradise-- an explication of 'opening the gate to the supreme paradise,' a prayer to be born in the he+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAACEA",
-    "revision_id": "613f663ffc7038d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN _CHUJE KELKA NGAWANG PELDEN (1806-?)",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/smon lam_making prayers/chos rje khal kha ngag dbang dpal ldan _chuje kelka ngawang pelden (1806-?)/s12159e_bde ba can du skye ba'i smon lam zhing mchog sgo 'byed kyi 'don sgrigs rnam dag zhing du bgrod pa'i bde lam_an easy path for travelling to paradise-- an explication of 'opening the gate to the supreme paradise,' a prayer to be born in the he+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABkmg",
+    "revision_id": "625a4ad6966d18d294473",
     "content_hash": "ee0a1250dddbd90beb5ce28b10e8b7524ebae7495e61e1b2fd60700db036a5d9",
-    "server_modified": "2024-03-18T21:53:40",
-    "last_sync": "2024-09-09T19:03:14.564261",
+    "server_modified": "2024-10-29 21:57:54",
+    "last_sync": "2024-11-19 21:23:44.191845",
     "size": 84460,
-    "meta_text": "aven of Bliss_CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN (1806-@)",
+    "meta_text": "('aven of Bliss_CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN (1806-@)', 'rtf')",
     "cat_ref": "S12159E",
     "work_ref": "W.S12159E",
     "title_tib": "BDE BA CAN DU SKYE BA'I SMON LAM ZHING MCHOG SGO 'BYED KYI 'DON SGRIGS RNAM DAG ZHING DU BGROD PA'I BDE LAM",
-    "title_eng": "An Easy Path for Travelling to Paradise-- An Explication of 'Opening the Gate to the Supreme Paradise,' a Prayer to be Born in the Heaven of Bliss",
+    "title_eng": "An Easy Path for Travelling to Paradise-- An Explication of 'Opening the Gate to the Supreme Paradise,' a Prayer to be Born in the He('aven of Bliss",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN",
     "subject": [
         {
-            "_id": "102296677724",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN _CHUJE KELKA NGAWANG PELDEN (1806-?)",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/SMON LAM/CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN ",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/MAKING PRAYERS/CHUJE KELKA NGAWANG PELDEN (1806-?)",
+            "_id": "259408048128",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN _CHUJE KELKA NGAWANG PELDEN (1806-?)",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/SMON LAM/CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN ",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/MAKING PRAYERS/CHUJE KELKA NGAWANG PELDEN (1806-?)",
             "subject_tibetan": "CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN ",
             "subject_english": "CHUJE KELKA NGAWANG PELDEN (1806-?)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P272"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/smon lam_making prayers/chos rje khal kha ngag dbang dpal ldan _chuje kelka ngawang pelden (1806-?)",
-            "timestamp": "2024-09-10T02:03:14.577946+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN _CHUJE KELKA NGAWANG PELDEN (1806-?)",
+            "timestamp": "2024-11-20 05:23:44.197886+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:23:44.197886+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,14 +1,14 @@
 {
     "name": "S06327E_ZA BYED RDO RJE MKHA' 'GRO'I SBYIN SREG GI 'KHRID YIG SDIG SGRIB MUN SEL NYI 'OD_The 'Ray of the Sun against the Darkness of Evil and Obstacles,' being a Book of Instruction in the Fire Offering of the Diamond Angel, the Consumer_DNGUL CHU D+.TXT",
-    "path": "rgyud_secret teachings (tantra)/rdo rje rnal 'byor ma_angel of diamond (vajrayogini)/sbyin sreg_fire offering (homa)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/rdo rje rnal 'byor ma_angel of diamond (vajrayogini)/sbyin sreg_fire offering (homa)/s06327e_za byed rdo rje mkha' 'gro'i sbyin sreg gi 'khrid yig sdig sgrib mun sel nyi 'od_the 'ray of the sun against the darkness of evil and obstacles,' being a book of instruction in the fire offering of the diamond angel, the consumer_dngul chu d+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAJZw",
-    "revision_id": "613f664dc43838d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAL 'BYOR MA_ANGEL OF DIAMOND (VAJRAYOGINI)/SBYIN SREG_FIRE OFFERING (HOMA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/rdo rje rnal 'byor ma_angel of diamond (vajrayogini)/sbyin sreg_fire offering (homa)/s06327e_za byed rdo rje mkha' 'gro'i sbyin sreg gi 'khrid yig sdig sgrib mun sel nyi 'od_the 'ray of the sun against the darkness of evil and obstacles,' being a book of instruction in the fire offering of the diamond angel, the consumer_dngul chu d+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABcEw",
+    "revision_id": "625a496935aa68d294473",
     "content_hash": "ead5fb4357a9a876e9640328c8ec6777951c4b51e32d3862ad6d555ddba00a27",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:10:30.261663",
+    "server_modified": "2024-10-29 21:51:31",
+    "last_sync": "2024-11-19 21:08:14.276485",
     "size": 16345,
-    "meta_text": "HARMA BHADRA (1772-1851)",
+    "meta_text": "('HARMA BHADRA (1772-1851)', 'rtf')",
     "cat_ref": "S06327E",
     "work_ref": "W.S06327E",
     "title_tib": "ZA BYED RDO RJE MKHA' 'GRO'I SBYIN SREG GI 'KHRID YIG SDIG SGRIB MUN SEL NYI 'OD",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "312188174195",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAL 'BYOR MA_ANGEL OF DIAMOND (VAJRAYOGINI)/SBYIN SREG_FIRE OFFERING (HOMA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/RDO RJE RNAL 'BYOR MA/SBYIN SREG",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/ANGEL OF DIAMOND (VAJRAYOGINI)/FIRE OFFERING (HOMA)",
+            "_id": "521444897705",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAL 'BYOR MA_ANGEL OF DIAMOND (VAJRAYOGINI)/SBYIN SREG_FIRE OFFERING (HOMA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/RDO RJE RNAL 'BYOR MA/SBYIN SREG",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/ANGEL OF DIAMOND (VAJRAYOGINI)/FIRE OFFERING (HOMA)",
             "subject_tibetan": "SBYIN SREG",
             "subject_english": "FIRE OFFERING (HOMA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/rdo rje rnal 'byor ma_angel of diamond (vajrayogini)/sbyin sreg_fire offering (homa)",
-            "timestamp": "2024-09-10T02:10:30.296066+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAL 'BYOR MA_ANGEL OF DIAMOND (VAJRAYOGINI)/SBYIN SREG_FIRE OFFERING (HOMA)",
+            "timestamp": "2024-11-20 05:08:14.286186+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:08:14.286186+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

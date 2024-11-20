@@ -1,12 +1,12 @@
 {
     "name": "S06369E61_DPAL LDAN LHA MOR TSES GCIG GTOR MA 'BUL TSUL_Method for Offering a Torma Cake to the Glorious Goddess (Kalidevi) on the First Day of the Year_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/hla mo_the goddess (devi)/gtor ma_offering cake (bali)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/hla mo_the goddess (devi)/gtor ma_offering cake (bali)/s06369e61_dpal ldan lha mor tses gcig gtor ma 'bul tsul_method for offering a torma cake to the glorious goddess (kalidevi) on the first day of the year_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAKCA",
-    "revision_id": "613f6652788208d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/HLA MO_THE GODDESS (DEVI)/GTOR MA_OFFERING CAKE (BALI)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/hla mo_the goddess (devi)/gtor ma_offering cake (bali)/s06369e61_dpal ldan lha mor tses gcig gtor ma 'bul tsul_method for offering a torma cake to the glorious goddess (kalidevi) on the first day of the year_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABWxw",
+    "revision_id": "625a48ac215ea8d294473",
     "content_hash": "112928a428f8f17d32c4881a0f8d84afe790d12ce3f888c70c1c5aa4c0dba986",
-    "server_modified": "2024-03-18T21:54:00",
-    "last_sync": "2024-09-09T19:11:02.215224",
+    "server_modified": "2024-10-29 21:48:13",
+    "last_sync": "2024-11-19 20:59:35.315624",
     "size": 9467,
     "meta_text": null,
     "cat_ref": "S06369E61",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "224761943169",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/HLA MO_THE GODDESS (DEVI)/GTOR MA_OFFERING CAKE (BALI)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/HLA MO/GTOR MA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/THE GODDESS (DEVI)/OFFERING CAKE (BALI)",
+            "_id": "235449906433",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/HLA MO_THE GODDESS (DEVI)/GTOR MA_OFFERING CAKE (BALI)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/HLA MO/GTOR MA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/THE GODDESS (DEVI)/OFFERING CAKE (BALI)",
             "subject_tibetan": "GTOR MA",
             "subject_english": "OFFERING CAKE (BALI)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/hla mo_the goddess (devi)/gtor ma_offering cake (bali)",
-            "timestamp": "2024-09-10T02:11:02.247082+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/HLA MO_THE GODDESS (DEVI)/GTOR MA_OFFERING CAKE (BALI)",
+            "timestamp": "2024-11-20 04:59:35.323667+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:59:35.323667+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

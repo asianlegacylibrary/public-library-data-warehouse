@@ -1,12 +1,12 @@
 {
     "name": "S06334M_BYANG CHUB LAM GYI RIM PA SHIN TU BSDUS PA_An Extremely Brief Presentation on the Steps of the Path to Enlightenment_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "lam rim_steps of the path/byang chub lam gyi rim pa shin tu bsdus pa_an extremely brief presentation on the steps of the path to enlightenment",
-    "download_path": "/sungbum updated 4 26 23 bk/lam rim_steps of the path/byang chub lam gyi rim pa shin tu bsdus pa_an extremely brief presentation on the steps of the path to enlightenment/s06334m_byang chub lam gyi rim pa shin tu bsdus pa_an extremely brief presentation on the steps of the path to enlightenment_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAHOA",
-    "revision_id": "613f66492f1a28d294473",
+    "path": "LAM RIM_STEPS OF THE PATH/BYANG CHUB LAM GYI RIM PA SHIN TU BSDUS PA_AN EXTREMELY BRIEF PRESENTATION ON THE STEPS OF THE PATH TO ENLIGHTENMENT",
+    "download_path": "/sungbum updated 7 30 23 nl/lam rim_steps of the path/byang chub lam gyi rim pa shin tu bsdus pa_an extremely brief presentation on the steps of the path to enlightenment/s06334m_byang chub lam gyi rim pa shin tu bsdus pa_an extremely brief presentation on the steps of the path to enlightenment_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABhDg",
+    "revision_id": "625a4a53839678d294473",
     "content_hash": "4dae7234511c3443ad6cb6fbb55b19903fe738d459820989ade8b923601fb790",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:08:18.811172",
+    "server_modified": "2024-10-29 21:55:37",
+    "last_sync": "2024-11-19 21:17:13.279884",
     "size": 5823,
     "meta_text": null,
     "cat_ref": "S06334M",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "150097047119",
-            "subject_path": "SUNGBUM_SUNGBUM/LAM RIM_STEPS OF THE PATH/BYANG CHUB LAM GYI RIM PA SHIN TU BSDUS PA_AN EXTREMELY BRIEF PRESENTATION ON THE STEPS OF THE PATH TO ENLIGHTENMENT",
-            "subject_path_tibetan": "SUNGBUM/LAM RIM/BYANG CHUB LAM GYI RIM PA SHIN TU BSDUS PA",
-            "subject_path_english": "SUNGBUM/STEPS OF THE PATH/AN EXTREMELY BRIEF PRESENTATION ON THE STEPS OF THE PATH TO ENLIGHTENMENT",
+            "_id": "193430786944",
+            "subject_path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/BYANG CHUB LAM GYI RIM PA SHIN TU BSDUS PA_AN EXTREMELY BRIEF PRESENTATION ON THE STEPS OF THE PATH TO ENLIGHTENMENT",
+            "subject_path_tibetan": "GSUNG 'BUM/LAM RIM/BYANG CHUB LAM GYI RIM PA SHIN TU BSDUS PA",
+            "subject_path_english": "Sungbum/STEPS OF THE PATH/AN EXTREMELY BRIEF PRESENTATION ON THE STEPS OF THE PATH TO ENLIGHTENMENT",
             "subject_tibetan": "BYANG CHUB LAM GYI RIM PA SHIN TU BSDUS PA",
             "subject_english": "AN EXTREMELY BRIEF PRESENTATION ON THE STEPS OF THE PATH TO ENLIGHTENMENT"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "lam rim_steps of the path/byang chub lam gyi rim pa shin tu bsdus pa_an extremely brief presentation on the steps of the path to enlightenment",
-            "timestamp": "2024-09-10T02:08:18.818036+00:00"
+            "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/BYANG CHUB LAM GYI RIM PA SHIN TU BSDUS PA_AN EXTREMELY BRIEF PRESENTATION ON THE STEPS OF THE PATH TO ENLIGHTENMENT",
+            "timestamp": "2024-11-20 05:17:13.284180+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:17:13.284180+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

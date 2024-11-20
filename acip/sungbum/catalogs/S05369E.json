@@ -1,28 +1,28 @@
 {
     "name": "S05369E_ RDO RJE DBYINGS KYI 'KHOR SGYUR GYI BSNYEN PA'I RIM PA SOGS RJE NYID KYIS ZIN BRIS SU GNANG BA_Notes, Granted by Je Tsongkapa, on the Proper Steps for Performing the Retreat of the Wheel Emperor in the Secret Teachings of the Diamond Realm +.TXT",
-    "path": "rgyud_secret teachings (tantra)/rdo rje dbyings_diamdnd realm (vajradhatu)/bsnyen pa_retreat instructions",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/rdo rje dbyings_diamdnd realm (vajradhatu)/bsnyen pa_retreat instructions/s05369e_ rdo rje dbyings kyi 'khor sgyur gyi bsnyen pa'i rim pa sogs rje nyid kyis zin bris su gnang ba_notes, granted by je tsongkapa, on the proper steps for performing the retreat of the wheel emperor in the secret teachings of the diamond realm +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAH4A",
-    "revision_id": "613f664dc41fc8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE DBYINGS_DIAMDND REALM (VAJRADHATU)/BSNYEN PA_RETREAT INSTRUCTIONS",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/rdo rje dbyings_diamdnd realm (vajradhatu)/bsnyen pa_retreat instructions/s05369e_ rdo rje dbyings kyi 'khor sgyur gyi bsnyen pa'i rim pa sogs rje nyid kyis zin bris su gnang ba_notes, granted by je tsongkapa, on the proper steps for performing the retreat of the wheel emperor in the secret teachings of the diamond realm +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABWSg",
+    "revision_id": "625a489e4acc68d294473",
     "content_hash": "8e2b479204d7aae060c858628f01001f0119e496e102a2b4ac2f62efdeed70cb",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:08:51.905249",
+    "server_modified": "2024-10-29 21:47:58",
+    "last_sync": "2024-11-19 20:58:54.033238",
     "size": 33052,
-    "meta_text": "(Vajradhatu), as well as Other Subjects_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)",
+    "meta_text": "('(Vajradhatu), as well as Other Subjects_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)', 'rtf')",
     "cat_ref": "S05369E",
     "work_ref": "W.S05369E",
     "title_tib": "RDO RJE DBYINGS KYI 'KHOR SGYUR GYI BSNYEN PA'I RIM PA SOGS RJE NYID KYIS ZIN BRIS SU GNANG BA",
-    "title_eng": "Notes, Granted by Je Tsongkapa, on the Proper Steps for Performing the Retreat of the Wheel Emperor in the Secret Teachings of the Diamond Realm(Vajradhatu), as well as Other Subjects",
+    "title_eng": "Notes, Granted by Je Tsongkapa, on the Proper Steps for Performing the Retreat of the Wheel Emperor in the Secret Teachings of the Diamond Realm('(Vajradhatu), as well as Other Subjects",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "254233355920",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE DBYINGS_DIAMDND REALM (VAJRADHATU)/BSNYEN PA_RETREAT INSTRUCTIONS",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/RDO RJE DBYINGS/BSNYEN PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/DIAMDND REALM (VAJRADHATU)/RETREAT INSTRUCTIONS",
+            "_id": "302764222200",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE DBYINGS_DIAMDND REALM (VAJRADHATU)/BSNYEN PA_RETREAT INSTRUCTIONS",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/RDO RJE DBYINGS/BSNYEN PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/DIAMDND REALM (VAJRADHATU)/RETREAT INSTRUCTIONS",
             "subject_tibetan": "BSNYEN PA",
             "subject_english": "RETREAT INSTRUCTIONS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/rdo rje dbyings_diamdnd realm (vajradhatu)/bsnyen pa_retreat instructions",
-            "timestamp": "2024-09-10T02:08:51.914241+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE DBYINGS_DIAMDND REALM (VAJRADHATU)/BSNYEN PA_RETREAT INSTRUCTIONS",
+            "timestamp": "2024-11-20 04:58:54.039686+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:58:54.039686+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

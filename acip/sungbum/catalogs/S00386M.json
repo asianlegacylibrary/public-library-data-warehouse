@@ -1,12 +1,12 @@
 {
     "name": "S00386M_JO BO LA RNAL 'BYOR MA GNYIS KYIS SEMS SBYONGS SHIG CES GDAMS PA_Personal Instructions Granted to Lord Atisha by Two Lovely Angels Who Told Him He Should Develop the Good Heart_DPAL MAR ME MDZAD YE SHES (AA T'I SHA) (982-1052).TXT",
-    "path": "nyams len_personal practice/bslab bya_personal advices/dpal mar me mdzad ye shes_pelmar metse yeshe (982-1052)",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/bslab bya_personal advices/dpal mar me mdzad ye shes_pelmar metse yeshe (982-1052)/s00386m_jo bo la rnal 'byor ma gnyis kyis sems sbyongs shig ces gdams pa_personal instructions granted to lord atisha by two lovely angels who told him he should develop the good heart_dpal mar me mdzad ye shes (aa t'i sha) (982-1052).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAABLg",
-    "revision_id": "613f663b87c778d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/DPAL MAR ME MDZAD YE SHES_PELMAR METSE YESHE (982-1052)",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/bslab bya_personal advices/dpal mar me mdzad ye shes_pelmar metse yeshe (982-1052)/s00386m_jo bo la rnal 'byor ma gnyis kyis sems sbyongs shig ces gdams pa_personal instructions granted to lord atisha by two lovely angels who told him he should develop the good heart_dpal mar me mdzad ye shes (aa t'i sha) (982-1052).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABirw",
+    "revision_id": "625a4a93445f48d294473",
     "content_hash": "e85721dbad51f5b2cff43195f10067b27a825a0a3a0ab2af2638c839a77fa715",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:02:09.847063",
+    "server_modified": "2024-10-29 21:56:43",
+    "last_sync": "2024-11-19 21:19:59.387290",
     "size": 1099,
     "meta_text": null,
     "cat_ref": "S00386M",
@@ -19,10 +19,10 @@
     "author_simple": "DPAL MAR ME MDZAD YE SHES",
     "subject": [
         {
-            "_id": "140899793879",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/DPAL MAR ME MDZAD YE SHES_PELMAR METSE YESHE (982-1052)",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/BSLAB BYA/DPAL MAR ME MDZAD YE SHES",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/PERSONAL ADVICES/PELMAR METSE YESHE (982-1052)",
+            "_id": "221608155608",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/DPAL MAR ME MDZAD YE SHES_PELMAR METSE YESHE (982-1052)",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/BSLAB BYA/DPAL MAR ME MDZAD YE SHES",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/PERSONAL ADVICES/PELMAR METSE YESHE (982-1052)",
             "subject_tibetan": "DPAL MAR ME MDZAD YE SHES",
             "subject_english": "PELMAR METSE YESHE (982-1052)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P3379"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/bslab bya_personal advices/dpal mar me mdzad ye shes_pelmar metse yeshe (982-1052)",
-            "timestamp": "2024-09-10T02:02:09.853963+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/DPAL MAR ME MDZAD YE SHES_PELMAR METSE YESHE (982-1052)",
+            "timestamp": "2024-11-20 05:19:59.393298+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:19:59.393298+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,28 +1,28 @@
 {
     "name": "S05385E_DPAL RNAM PAR SNANG MDZAD KYI SGO NAS NGAN SONG THAMS CAD YONGS SU SBYONG BA'I DKYIL 'KHOR GYI CHO GA RGYUD DON GSAL BA_ A 'Clarification of the Meaning of the Secret Tradition,' being a Ritual for the Secret World of the Teaching for Elimin+.TXT",
-    "path": "rgyud_secret teachings (tantra)/rnam par snang mdzad_appearances (vairochana)/ngan sbyong_purification of lower rebirths",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/rnam par snang mdzad_appearances (vairochana)/ngan sbyong_purification of lower rebirths/s05385e_dpal rnam par snang mdzad kyi sgo nas ngan song thams cad yongs su sbyong ba'i dkyil 'khor gyi cho ga rgyud don gsal ba_ a 'clarification of the meaning of the secret tradition,' being a ritual for the secret world of the teaching for elimin+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAJtw",
-    "revision_id": "613f664dc43d38d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/RNAM PAR SNANG MDZAD_APPEARANCES (VAIROCHANA)/NGAN SBYONG_PURIFICATION OF LOWER REBIRTHS",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/rnam par snang mdzad_appearances (vairochana)/ngan sbyong_purification of lower rebirths/s05385e_dpal rnam par snang mdzad kyi sgo nas ngan song thams cad yongs su sbyong ba'i dkyil 'khor gyi cho ga rgyud don gsal ba_ a 'clarification of the meaning of the secret tradition,' being a ritual for the secret world of the teaching for elimin+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABclw",
+    "revision_id": "625a497df98e18d294473",
     "content_hash": "a17c494f418fc601bd90887c1a4a0aee821272be97e6f9ea28f4a3e869a1c65f",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:10:47.518324",
+    "server_modified": "2024-10-29 21:51:53",
+    "last_sync": "2024-11-19 21:09:16.944470",
     "size": 158279,
-    "meta_text": "ating all the Births of Misery, through the Practice of the Glorious Angel of Appearances (Vairochana)_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)",
+    "meta_text": "('ating all the Births of Misery, through the Practice of the Glorious Angel of Appearances (Vairochana)_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)', 'rtf')",
     "cat_ref": "S05385E",
     "work_ref": "W.S05385E",
     "title_tib": "DPAL RNAM PAR SNANG MDZAD KYI SGO NAS NGAN SONG THAMS CAD YONGS SU SBYONG BA'I DKYIL 'KHOR GYI CHO GA RGYUD DON GSAL BA",
-    "title_eng": "A 'Clarification of the Meaning of the Secret Tradition,' being a Ritual for the Secret World of the Teaching for Eliminating all the Births of Misery, through the Practice of the Glorious Angel of Appearances (Vairochana)",
+    "title_eng": "A 'Clarification of the Meaning of the Secret Tradition,' being a Ritual for the Secret World of the Teaching for Elimin('ating all the Births of Misery, through the Practice of the Glorious Angel of Appearances (Vairochana)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "164833480837",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/RNAM PAR SNANG MDZAD_APPEARANCES (VAIROCHANA)/NGAN SBYONG_PURIFICATION OF LOWER REBIRTHS",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/RNAM PAR SNANG MDZAD/NGAN SBYONG",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/APPEARANCES (VAIROCHANA)/PURIFICATION OF LOWER REBIRTHS",
+            "_id": "898923718642",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RNAM PAR SNANG MDZAD_APPEARANCES (VAIROCHANA)/NGAN SBYONG_PURIFICATION OF LOWER REBIRTHS",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/RNAM PAR SNANG MDZAD/NGAN SBYONG",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/APPEARANCES (VAIROCHANA)/PURIFICATION OF LOWER REBIRTHS",
             "subject_tibetan": "NGAN SBYONG",
             "subject_english": "PURIFICATION OF LOWER REBIRTHS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/rnam par snang mdzad_appearances (vairochana)/ngan sbyong_purification of lower rebirths",
-            "timestamp": "2024-09-10T02:10:47.526155+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RNAM PAR SNANG MDZAD_APPEARANCES (VAIROCHANA)/NGAN SBYONG_PURIFICATION OF LOWER REBIRTHS",
+            "timestamp": "2024-11-20 05:09:16.949719+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:09:16.949719+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

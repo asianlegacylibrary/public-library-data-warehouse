@@ -1,12 +1,12 @@
 {
     "name": "S00459E_ BLA MA MGON PO 'JAM PA'I DBYANGS LA YON CHAB 'BUL BA'I CHO GA KUN BZANG MCHOD PA'I SPRIN PHUNG_'A Mass of Excellent Clouds of Offerings,' being a Ritual for Offering Sacred Water to the Lama, the Protector, Gentle Voice (Manjushri) Himself_@.TXT",
-    "path": "rgyud_secret teachings (tantra)/'jam dbyangs_gentle voice (manjughosha, manjushri)/mchod pa_offering",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/'jam dbyangs_gentle voice (manjughosha, manjushri)/mchod pa_offering/s00459e_ bla ma mgon po 'jam pa'i dbyangs la yon chab 'bul ba'i cho ga kun bzang mchod pa'i sprin phung_'a mass of excellent clouds of offerings,' being a ritual for offering sacred water to the lama, the protector, gentle voice (manjushri) himself_@.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAALXg",
-    "revision_id": "613f6652789768d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/'JAM DBYANGS_GENTLE VOICE (MANJUGHOSHA, MANJUSHRI)/MCHOD PA_OFFERING",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/'jam dbyangs_gentle voice (manjughosha, manjushri)/mchod pa_offering/s00459e_ bla ma mgon po 'jam pa'i dbyangs la yon chab 'bul ba'i cho ga kun bzang mchod pa'i sprin phung_'a mass of excellent clouds of offerings,' being a ritual for offering sacred water to the lama, the protector, gentle voice (manjushri) himself_@.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABYKw",
+    "revision_id": "625a48d5d81d28d294473",
     "content_hash": "3b178856dc86460201a030fe6e76f58728678858f86957ee5b9230061ad1de17",
-    "server_modified": "2024-03-18T21:54:00",
-    "last_sync": "2024-09-09T19:12:32.925858",
+    "server_modified": "2024-10-29 21:48:56",
+    "last_sync": "2024-11-19 21:01:55.869108",
     "size": 14438,
     "meta_text": null,
     "cat_ref": "S00459E",
@@ -19,10 +19,10 @@
     "author_simple": "",
     "subject": [
         {
-            "_id": "131040133372",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/'JAM DBYANGS_GENTLE VOICE (MANJUGHOSHA, MANJUSHRI)/MCHOD PA_OFFERING",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/'JAM DBYANGS/MCHOD PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENTLE VOICE (MANJUGHOSHA, MANJUSHRI)/OFFERING",
+            "_id": "153936558054",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JAM DBYANGS_GENTLE VOICE (MANJUGHOSHA, MANJUSHRI)/MCHOD PA_OFFERING",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/'JAM DBYANGS/MCHOD PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENTLE VOICE (MANJUGHOSHA, MANJUSHRI)/OFFERING",
             "subject_tibetan": "MCHOD PA",
             "subject_english": "OFFERING"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/'jam dbyangs_gentle voice (manjughosha, manjushri)/mchod pa_offering",
-            "timestamp": "2024-09-10T02:12:32.932126+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JAM DBYANGS_GENTLE VOICE (MANJUGHOSHA, MANJUSHRI)/MCHOD PA_OFFERING",
+            "timestamp": "2024-11-20 05:01:55.873530+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:01:55.873530+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

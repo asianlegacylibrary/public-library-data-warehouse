@@ -1,14 +1,14 @@
 {
     "name": "S12277E_MKHAN CHEN CHOS KYI RGYAL PO'I GSUNG 'BUM LAS BDE MCHOG GI RAB GNAS SHIN TU BSDUS PA_An Extremely Brief Ritual of Consecration in the Secret Teachings of Highest Bliss (Samvara); from the Collected Works of that King of the Dharma, Kenchen_M +.TXT",
-    "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/rab gnas_consecration (supratishtha)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/rab gnas_consecration (supratishtha)/s12277e_mkhan chen chos kyi rgyal po'i gsung 'bum las bde mchog gi rab gnas shin tu bsdus pa_an extremely brief ritual of consecration in the secret teachings of highest bliss (samvara); from the collected works of that king of the dharma, kenchen_m +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAPOw",
-    "revision_id": "613f665b611548d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/RAB GNAS_CONSECRATION (SUPRATISHTHA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/rab gnas_consecration (supratishtha)/s12277e_mkhan chen chos kyi rgyal po'i gsung 'bum las bde mchog gi rab gnas shin tu bsdus pa_an extremely brief ritual of consecration in the secret teachings of highest bliss (samvara); from the collected works of that king of the dharma, kenchen_m +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABU4w",
+    "revision_id": "625a48753d1a18d294473",
     "content_hash": "684bf59229302ca5605c06ccf4afa107130eb0279b786d9b3503fe7444290d4f",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:16:35.532636",
+    "server_modified": "2024-10-29 21:47:15",
+    "last_sync": "2024-11-19 20:56:27.639357",
     "size": 9465,
-    "meta_text": "KHAN CHEN BLO BZANG BSTAN 'DZIN RGYAL MTSAN (1639-@)",
+    "meta_text": "(\"KHAN CHEN BLO BZANG BSTAN 'DZIN RGYAL MTSAN (1639-@)\", 'rtf')",
     "cat_ref": "S12277E",
     "work_ref": "W.S12277E",
     "title_tib": "MKHAN CHEN CHOS KYI RGYAL PO'I GSUNG 'BUM LAS BDE MCHOG GI RAB GNAS SHIN TU BSDUS PA",
@@ -19,10 +19,10 @@
     "author_simple": "MKHAN CHEN BLO BZANG BSTAN 'DZIN RGYAL MTSAN",
     "subject": [
         {
-            "_id": "197446668963",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/RAB GNAS_CONSECRATION (SUPRATISHTHA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/BDE MCHOG/RAB GNAS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/CONSECRATION (SUPRATISHTHA)",
+            "_id": "266176418717",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/RAB GNAS_CONSECRATION (SUPRATISHTHA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/BDE MCHOG/RAB GNAS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/CONSECRATION (SUPRATISHTHA)",
             "subject_tibetan": "RAB GNAS",
             "subject_english": "CONSECRATION (SUPRATISHTHA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P6418"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/rab gnas_consecration (supratishtha)",
-            "timestamp": "2024-09-10T02:16:35.535603+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/RAB GNAS_CONSECRATION (SUPRATISHTHA)",
+            "timestamp": "2024-11-20 04:56:27.644461+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:56:27.644461+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

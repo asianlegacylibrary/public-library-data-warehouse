@@ -1,12 +1,12 @@
 {
     "name": "S05275M81_SDIG PA DAG PA'I CHO GA_A Ritual for the Purification of Bad Deeds_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419).TXT",
-    "path": "nyams len_personal practice/stobs bzhi bsgom tsul_how to practice the four powers of purification/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/stobs bzhi bsgom tsul_how to practice the four powers of purification/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)/s05275m81_sdig pa dag pa'i cho ga_a ritual for the purification of bad deeds_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAB9Q",
-    "revision_id": "613f663b87d3e8d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/STOBS BZHI BSGOM TSUL_HOW TO PRACTICE THE FOUR POWERS OF PURIFICATION/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/stobs bzhi bsgom tsul_how to practice the four powers of purification/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)/s05275m81_sdig pa dag pa'i cho ga_a ritual for the purification of bad deeds_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABj2w",
+    "revision_id": "625a4abc79e398d294473",
     "content_hash": "8235631bc4125e33995ace2d4966208af2446c76ae370fc59415c5d3c6920a19",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:03:07.358892",
+    "server_modified": "2024-10-29 21:57:27",
+    "last_sync": "2024-11-19 21:22:11.786861",
     "size": 15256,
     "meta_text": null,
     "cat_ref": "S05275M81",
@@ -19,10 +19,10 @@
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "259230206700",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/STOBS BZHI BSGOM TSUL_HOW TO PRACTICE THE FOUR POWERS OF PURIFICATION/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/STOBS BZHI BSGOM TSUL/RJE TZONG KHA PA BLO BZANG GRAGS PA",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/HOW TO PRACTICE THE FOUR POWERS OF PURIFICATION/JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
+            "_id": "146314433735",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/STOBS BZHI BSGOM TSUL_HOW TO PRACTICE THE FOUR POWERS OF PURIFICATION/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/STOBS BZHI BSGOM TSUL/RJE TZONG KHA PA BLO BZANG GRAGS PA",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/HOW TO PRACTICE THE FOUR POWERS OF PURIFICATION/JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
             "subject_tibetan": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
             "subject_english": "JE TSONGKAPA LOBSANG DRAKPA (1357-1419)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/stobs bzhi bsgom tsul_how to practice the four powers of purification/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)",
-            "timestamp": "2024-09-10T02:03:07.378005+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/STOBS BZHI BSGOM TSUL_HOW TO PRACTICE THE FOUR POWERS OF PURIFICATION/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
+            "timestamp": "2024-11-20 05:22:11.790671+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:22:11.790671+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

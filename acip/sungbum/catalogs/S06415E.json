@@ -1,28 +1,28 @@
 {
     "name": "S06415E_DPAL RDO RJE 'JIGS BYED KYI RIM PA GNYIS PA'I LAM LA JI LTAR BGROD PA'I TSUL GYI ZIN BRIS GSANG CHEN MYUR LAM_The 'Quick Path to the Great Secret,' being Notes on the Method for Travelling along the Path of the Two Stages in the Practice of +.TXT",
-    "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/rnal 'byor_practices",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/rnal 'byor_practices/s06415e_dpal rdo rje 'jigs byed kyi rim pa gnyis pa'i lam la ji ltar bgrod pa'i tsul gyi zin bris gsang chen myur lam_the 'quick path to the great secret,' being notes on the method for travelling along the path of the two stages in the practice of +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAMKw",
-    "revision_id": "613f6656decfc8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/RNAL 'BYOR_PRACTICES",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/rnal 'byor_practices/s06415e_dpal rdo rje 'jigs byed kyi rim pa gnyis pa'i lam la ji ltar bgrod pa'i tsul gyi zin bris gsang chen myur lam_the 'quick path to the great secret,' being notes on the method for travelling along the path of the two stages in the practice of +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABd4A",
+    "revision_id": "625a49a9fa1898d294473",
     "content_hash": "df9245462a86edc70e80d5ee1e8022a9322730e5c3aceab5a4f76429c71360e4",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:13:22.454286",
+    "server_modified": "2024-10-29 21:52:39",
+    "last_sync": "2024-11-19 21:11:25.674729",
     "size": 69021,
-    "meta_text": "the Glorious Diamond Frightener (Vajra Bhairava)_ DNGUL CHU DHARMA BHADRA  (1772-1851)",
+    "meta_text": "('the Glorious Diamond Frightener (Vajra Bhairava)_ DNGUL CHU DHARMA BHADRA  (1772-1851)', 'rtf')",
     "cat_ref": "S06415E",
     "work_ref": "W.S06415E",
     "title_tib": "DPAL RDO RJE 'JIGS BYED KYI RIM PA GNYIS PA'I LAM LA JI LTAR BGROD PA'I TSUL GYI ZIN BRIS GSANG CHEN MYUR LAM",
-    "title_eng": "The 'Quick Path to the Great Secret,' being Notes on the Method for Travelling along the Path of the Two Stages in the Practice ofthe Glorious Diamond Frightener (Vajra Bhairava)",
+    "title_eng": "The 'Quick Path to the Great Secret,' being Notes on the Method for Travelling along the Path of the Two Stages in the Practice of('the Glorious Diamond Frightener (Vajra Bhairava)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "862395263441",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/RNAL 'BYOR_PRACTICES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/'JIGS BYED/RNAL 'BYOR",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/PRACTICES",
+            "_id": "130831411362",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/RNAL 'BYOR_PRACTICES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/'JIGS BYED/RNAL 'BYOR",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/PRACTICES",
             "subject_tibetan": "RNAL 'BYOR",
             "subject_english": "PRACTICES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/rnal 'byor_practices",
-            "timestamp": "2024-09-10T02:13:22.476855+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/RNAL 'BYOR_PRACTICES",
+            "timestamp": "2024-11-20 05:11:25.683586+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:11:25.683586+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

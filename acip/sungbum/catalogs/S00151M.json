@@ -1,12 +1,12 @@
 {
     "name": "S00151M_BSNYEN RDZOGS SOGS BSGRUB TSUL GYI CHO GA 'KHYER BDE KUN PHAN_'Easy to Use and a Benefit to All,' being a Ritual for Conferring the Ordinations of a Full Monk and the Like_LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN (1642-1714).TXT",
-    "path": "'dul ba_vowed morality (vinaya)/dge slong_vows of full monks",
-    "download_path": "/sungbum updated 4 26 23 bk/'dul ba_vowed morality (vinaya)/dge slong_vows of full monks/s00151m_bsnyen rdzogs sogs bsgrub tsul gyi cho ga 'khyer bde kun phan_'easy to use and a benefit to all,' being a ritual for conferring the ordinations of a full monk and the like_lcang skya ngag dbang blo bzang chos ldan (1642-1714).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAADjw",
-    "revision_id": "613f663ffc8828d294473",
+    "path": "'DUL BA_VOWED MORALITY (VINAYA)/DGE SLONG_VOWS OF FULL MONKS",
+    "download_path": "/sungbum updated 7 30 23 nl/'dul ba_vowed morality (vinaya)/dge slong_vows of full monks/s00151m_bsnyen rdzogs sogs bsgrub tsul gyi cho ga 'khyer bde kun phan_'easy to use and a benefit to all,' being a ritual for conferring the ordinations of a full monk and the like_lcang skya ngag dbang blo bzang chos ldan (1642-1714).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABfKA",
+    "revision_id": "625a49e0fea788d294473",
     "content_hash": "29d8451db2de50cb53ca447b84792f9d6ec149fa78bcc9c8a2661804c83f1d96",
-    "server_modified": "2024-03-18T21:53:40",
-    "last_sync": "2024-09-09T19:04:53.010019",
+    "server_modified": "2024-10-29 21:53:36",
+    "last_sync": "2024-11-19 21:13:48.178856",
     "size": 61449,
     "meta_text": null,
     "cat_ref": "S00151M",
@@ -19,10 +19,10 @@
     "author_simple": "LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN",
     "subject": [
         {
-            "_id": "332173312486",
-            "subject_path": "SUNGBUM_SUNGBUM/'DUL BA_VOWED MORALITY (VINAYA)/DGE SLONG_VOWS OF FULL MONKS",
-            "subject_path_tibetan": "SUNGBUM/'DUL BA/DGE SLONG",
-            "subject_path_english": "SUNGBUM/VOWED MORALITY (VINAYA)/VOWS OF FULL MONKS",
+            "_id": "104867878744",
+            "subject_path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/DGE SLONG_VOWS OF FULL MONKS",
+            "subject_path_tibetan": "GSUNG 'BUM/'DUL BA/DGE SLONG",
+            "subject_path_english": "Sungbum/VOWED MORALITY (VINAYA)/VOWS OF FULL MONKS",
             "subject_tibetan": "DGE SLONG",
             "subject_english": "VOWS OF FULL MONKS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P209"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "'dul ba_vowed morality (vinaya)/dge slong_vows of full monks",
-            "timestamp": "2024-09-10T02:04:53.026277+00:00"
+            "path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/DGE SLONG_VOWS OF FULL MONKS",
+            "timestamp": "2024-11-20 05:13:49.766785+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:13:49.766785+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

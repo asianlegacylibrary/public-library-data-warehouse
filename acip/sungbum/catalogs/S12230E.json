@@ -1,14 +1,14 @@
 {
     "name": "S12230E_BYANG CHUB LAM GYI RIM PA'I DMAR KHRID GZHAN PHAN BDUD RTZI'I BUM PA_The Precious Vase of Deathless Nectar for Helping Others-- A Dissection Instruction on the Steps of the Path to Enlightenment_PAN CHEN BLA MA SKU PHRENG GSUM PA DPAL LDAN Y+.TXT",
-    "path": "lam rim_steps of the path/gzhan phan bdud rtzi'i bum pa_the crystal vase of deathless nectar which helps ourselves and others",
-    "download_path": "/sungbum updated 4 26 23 bk/lam rim_steps of the path/gzhan phan bdud rtzi'i bum pa_the crystal vase of deathless nectar which helps ourselves and others/s12230e_byang chub lam gyi rim pa'i dmar khrid gzhan phan bdud rtzi'i bum pa_the precious vase of deathless nectar for helping others-- a dissection instruction on the steps of the path to enlightenment_pan chen bla ma sku phreng gsum pa dpal ldan y+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAGZw",
-    "revision_id": "613f66492f0d18d294473",
+    "path": "LAM RIM_STEPS OF THE PATH/GZHAN PHAN BDUD RTZI'I BUM PA_THE CRYSTAL VASE OF DEATHLESS NECTAR WHICH HELPS OURSELVES AND OTHERS",
+    "download_path": "/sungbum updated 7 30 23 nl/lam rim_steps of the path/gzhan phan bdud rtzi'i bum pa_the crystal vase of deathless nectar which helps ourselves and others/s12230e_byang chub lam gyi rim pa'i dmar khrid gzhan phan bdud rtzi'i bum pa_the precious vase of deathless nectar for helping others-- a dissection instruction on the steps of the path to enlightenment_pan chen bla ma sku phreng gsum pa dpal ldan y+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABhoQ",
+    "revision_id": "625a4a6511f738d294473",
     "content_hash": "1d3e846e4528aba27bb3fcd8ee3bf89db877c03568f0778bf3b9e4976379e481",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:07:29.878020",
+    "server_modified": "2024-10-29 21:55:55",
+    "last_sync": "2024-11-19 21:18:12.234217",
     "size": 44374,
-    "meta_text": "E SHES (1738-1780)",
+    "meta_text": "('E SHES (1738-1780)', 'rtf')",
     "cat_ref": "S12230E",
     "work_ref": "W.S12230E",
     "title_tib": "BYANG CHUB LAM GYI RIM PA'I DMAR KHRID GZHAN PHAN BDUD RTZI'I BUM PA",
@@ -19,10 +19,10 @@
     "author_simple": "PAn CHEN BLA MA SKU PHRENG GSUM PA DPAL LDAN YE SHES",
     "subject": [
         {
-            "_id": "327657752169",
-            "subject_path": "SUNGBUM_SUNGBUM/LAM RIM_STEPS OF THE PATH/GZHAN PHAN BDUD RTZI'I BUM PA_THE CRYSTAL VASE OF DEATHLESS NECTAR WHICH HELPS OURSELVES AND OTHERS",
-            "subject_path_tibetan": "SUNGBUM/LAM RIM/GZHAN PHAN BDUD RTZI'I BUM PA",
-            "subject_path_english": "SUNGBUM/STEPS OF THE PATH/THE CRYSTAL VASE OF DEATHLESS NECTAR WHICH HELPS OURSELVES AND OTHERS",
+            "_id": "194985092738",
+            "subject_path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/GZHAN PHAN BDUD RTZI'I BUM PA_THE CRYSTAL VASE OF DEATHLESS NECTAR WHICH HELPS OURSELVES AND OTHERS",
+            "subject_path_tibetan": "GSUNG 'BUM/LAM RIM/GZHAN PHAN BDUD RTZI'I BUM PA",
+            "subject_path_english": "Sungbum/STEPS OF THE PATH/THE CRYSTAL VASE OF DEATHLESS NECTAR WHICH HELPS OURSELVES AND OTHERS",
             "subject_tibetan": "GZHAN PHAN BDUD RTZI'I BUM PA",
             "subject_english": "THE CRYSTAL VASE OF DEATHLESS NECTAR WHICH HELPS OURSELVES AND OTHERS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P168"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "lam rim_steps of the path/gzhan phan bdud rtzi'i bum pa_the crystal vase of deathless nectar which helps ourselves and others",
-            "timestamp": "2024-09-10T02:07:29.895585+00:00"
+            "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/GZHAN PHAN BDUD RTZI'I BUM PA_THE CRYSTAL VASE OF DEATHLESS NECTAR WHICH HELPS OURSELVES AND OTHERS",
+            "timestamp": "2024-11-20 05:18:12.240790+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:18:12.240790+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

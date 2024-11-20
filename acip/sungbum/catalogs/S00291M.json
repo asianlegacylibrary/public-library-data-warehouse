@@ -1,28 +1,28 @@
 {
     "name": "S00291M_DGON GNAS STAG BRAG BSAM GTAN GLING DU RAB TU GNAS PA'I CHO GA DGE LEGS RGYA MTSO'I CHAR 'BEBS DPAL LDAN SMAD RGYUD PA'I PHYAG BZHES LTAR MDZAD RGYU NAG 'GROS SU BKOD PA_'The Shower of a Sea of Virtue and Goodness,' being a Ritual of Consecr+.TXT",
-    "path": "cho ga_rituals/rab gnas_consecration rituals",
-    "download_path": "/sungbum updated 4 26 23 bk/cho ga_rituals/rab gnas_consecration rituals/s00291m_dgon gnas stag brag bsam gtan gling du rab tu gnas pa'i cho ga dge legs rgya mtso'i char 'bebs dpal ldan smad rgyud pa'i phyag bzhes ltar mdzad rgyu nag 'gros su bkod pa_'the shower of a sea of virtue and goodness,' being a ritual of consecr+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAEqQ",
-    "revision_id": "613f6644849cd8d294473",
+    "path": "CHO GA_RITUALS/RAB GNAS_CONSECRATION RITUALS",
+    "download_path": "/sungbum updated 7 30 23 nl/cho ga_rituals/rab gnas_consecration rituals/s00291m_dgon gnas stag brag bsam gtan gling du rab tu gnas pa'i cho ga dge legs rgya mtso'i char 'bebs dpal ldan smad rgyud pa'i phyag bzhes ltar mdzad rgyu nag 'gros su bkod pa_'the shower of a sea of virtue and goodness,' being a ritual of consecr+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABlzw",
+    "revision_id": "625a4af86278a8d294473",
     "content_hash": "477cc34576d43e098c686e597724d024fa90c5d0ef900d382d92f8f78c64c8fb",
-    "server_modified": "2024-03-18T21:53:45",
-    "last_sync": "2024-09-09T19:05:55.131676",
+    "server_modified": "2024-10-29 21:58:29",
+    "last_sync": "2024-11-19 21:26:02.593927",
     "size": 81821,
-    "meta_text": "ation used at the Monastery of Takdrak Samten Ling, arranged for Easy Recitation, and Meant to\nBe Performed according to the Custom of the Glorious Gyume Tantric College_@ (@-@)",
+    "meta_text": "('ation used at the Monastery of Takdrak Samten Ling, arranged for Easy Recitation, and Meant to\\nBe Performed according to the Custom of the Glorious Gyume Tantric College_@ (@-@)', 'rtf')",
     "cat_ref": "S00291M",
     "work_ref": "W.S00291M",
     "title_tib": "DGON GNAS STAG BRAG BSAM GTAN GLING DU RAB TU GNAS PA'I CHO GA DGE LEGS RGYA MTSO'I CHAR 'BEBS DPAL LDAN SMAD RGYUD PA'I PHYAG BZHES LTAR MDZAD RGYU NAG 'GROS SU BKOD PA",
-    "title_eng": "'The Shower of a Sea of Virtue and Goodness,' being a Ritual of Consecration used at the Monastery of Takdrak Samten Ling, arranged for Easy Recitation, and Meant to\nBe Performed according to the Custom of the Glorious Gyume Tantric College",
+    "title_eng": "'The Shower of a Sea of Virtue and Goodness,' being a Ritual of Consecr('ation used at the Monastery of Takdrak Samten Ling, arranged for Easy Recitation, and Meant to\\nBe Performed according to the Custom of the Glorious Gyume Tantric College@ (@-@)', 'rtf')",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "",
     "subject": [
         {
-            "_id": "882668806207",
-            "subject_path": "SUNGBUM_SUNGBUM/CHO GA_RITUALS/RAB GNAS_CONSECRATION RITUALS",
-            "subject_path_tibetan": "SUNGBUM/CHO GA/RAB GNAS",
-            "subject_path_english": "SUNGBUM/RITUALS/CONSECRATION RITUALS",
+            "_id": "333726750752",
+            "subject_path": "GSUNG 'BUM_Sungbum/CHO GA_RITUALS/RAB GNAS_CONSECRATION RITUALS",
+            "subject_path_tibetan": "GSUNG 'BUM/CHO GA/RAB GNAS",
+            "subject_path_english": "Sungbum/RITUALS/CONSECRATION RITUALS",
             "subject_tibetan": "RAB GNAS",
             "subject_english": "CONSECRATION RITUALS"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "cho ga_rituals/rab gnas_consecration rituals",
-            "timestamp": "2024-09-10T02:05:55.211606+00:00"
+            "path": "GSUNG 'BUM_Sungbum/CHO GA_RITUALS/RAB GNAS_CONSECRATION RITUALS",
+            "timestamp": "2024-11-20 05:26:03.317318+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:26:03.317318+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

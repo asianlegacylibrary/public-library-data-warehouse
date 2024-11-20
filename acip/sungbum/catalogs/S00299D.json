@@ -1,28 +1,28 @@
 {
     "name": "S00299D_GRUB CHEN L'U HI PA'I LUGS KYI RDZOGS RIM RNAL 'BYOR CHEN PO'I RNAM BSHAD DNGOS GRUB SNYE MA'I GNAD DON SNYING PO GSAL BAR BYED PA'I SGRON ME_'A Lamp that Illuminates the Essence,' an Explanation of Critical Points in 'The Harvest of Attainm +.TXT",
-    "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/rdzogs rim_completion stage (sampanna krama)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/rdzogs rim_completion stage (sampanna krama)/s00299d_grub chen l'u hi pa'i lugs kyi rdzogs rim rnal 'byor chen po'i rnam bshad dngos grub snye ma'i gnad don snying po gsal bar byed pa'i sgron me_'a lamp that illuminates the essence,' an explanation of critical points in 'the harvest of attainm +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAPmg",
-    "revision_id": "613f665b611b38d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/RDZOGS RIM_COMPLETION STAGE (SAMPANNA KRAMA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/rdzogs rim_completion stage (sampanna krama)/s00299d_grub chen l'u hi pa'i lugs kyi rdzogs rim rnal 'byor chen po'i rnam bshad dngos grub snye ma'i gnad don snying po gsal bar byed pa'i sgron me_'a lamp that illuminates the essence,' an explanation of critical points in 'the harvest of attainm +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABUyA",
+    "revision_id": "625a487180f428d294473",
     "content_hash": "c0a814540695365fd2a05a1def73f1f0b740d4e7909d8a41bbc7838bd21898e9",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:17:04.361518",
+    "server_modified": "2024-10-29 21:47:11",
+    "last_sync": "2024-11-19 20:56:12.340169",
     "size": 138710,
-    "meta_text": "ents,’ Itself a Treatise on the Great, Deep Practice of the Stage of Completion, according to the System of that Great and Accomplished Saint, Luipa_CO NE BLA MA GRAGS PA BSHAD GRUB (1675-1748)",
+    "meta_text": "('ents,’ Itself a Treatise on the Great, Deep Practice of the Stage of Completion, according to the System of that Great and Accomplished Saint, Luipa_CO NE BLA MA GRAGS PA BSHAD GRUB (1675-1748)', 'rtf')",
     "cat_ref": "S00299D",
     "work_ref": "W.S00299D",
     "title_tib": "GRUB CHEN L'U HI PA'I LUGS KYI RDZOGS RIM RNAL 'BYOR CHEN PO'I RNAM BSHAD DNGOS GRUB SNYE MA'I GNAD DON SNYING PO GSAL BAR BYED PA'I SGRON ME",
-    "title_eng": "'A Lamp that Illuminates the Essence,' an Explanation of Critical Points in 'The Harvest of Attainments,’ Itself a Treatise on the Great, Deep Practice of the Stage of Completion, according to the System of that Great and Accomplished Saint, Luipa",
+    "title_eng": "'A Lamp that Illuminates the Essence,' an Explanation of Critical Points in 'The Harvest of Attainm('ents,’ Itself a Treatise on the Great, Deep Practice of the Stage of Completion, according to the System of that Great and Accomplished Saint, Luipa",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "CO NE BLA MA GRAGS PA BSHAD SGRUB",
     "subject": [
         {
-            "_id": "260863512220",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/RDZOGS RIM_COMPLETION STAGE (SAMPANNA KRAMA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/BDE MCHOG/RDZOGS RIM",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/COMPLETION STAGE (SAMPANNA KRAMA)",
+            "_id": "910768191078",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/RDZOGS RIM_COMPLETION STAGE (SAMPANNA KRAMA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/BDE MCHOG/RDZOGS RIM",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/COMPLETION STAGE (SAMPANNA KRAMA)",
             "subject_tibetan": "RDZOGS RIM",
             "subject_english": "COMPLETION STAGE (SAMPANNA KRAMA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P1629"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/rdzogs rim_completion stage (sampanna krama)",
-            "timestamp": "2024-09-10T02:17:04.367719+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/RDZOGS RIM_COMPLETION STAGE (SAMPANNA KRAMA)",
+            "timestamp": "2024-11-20 04:56:14.676801+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:56:14.676801+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

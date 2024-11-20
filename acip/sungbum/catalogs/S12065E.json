@@ -1,12 +1,12 @@
 {
-    "name": "S12065E_BOD DU THOG MAR 'DUL BA BYUNG TSUL SOGS_How the Teachings on Discipline first Started in Tibet, and Other Topics_CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS (1740-1810).TXT",
-    "path": "'dul ba_vowed morality (vinaya)/'dul ba chos 'byung_history of vinaya",
-    "download_path": "/sungbum updated 4 26 23 bk/'dul ba_vowed morality (vinaya)/'dul ba chos 'byung_history of vinaya/s12065e_bod du thog mar 'dul ba byung tsul sogs_how the teachings on discipline first started in tibet, and other topics_cha har dge bshes blo bzang tsul khrims (1740-1810).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAADgQ",
-    "revision_id": "613f663ffc8748d294473",
+    "name": "S12065E_ BOD DU THOG MAR 'DUL BA BYUNG TSUL SOGS_How the Teachings on Discipline first Started in Tibet, and Other Topics_CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS (1740-1810).TXT",
+    "path": "CHOS 'BYUNG_RELIGIOUS HISTORIES/'DUL BA BYUNG TSUL_HISTORY OF VOWED MORALITY (VINAYA)",
+    "download_path": "/sungbum updated 7 30 23 nl/chos 'byung_religious histories/'dul ba byung tsul_history of vowed morality (vinaya)/s12065e_ bod du thog mar 'dul ba byung tsul sogs_how the teachings on discipline first started in tibet, and other topics_cha har dge bshes blo bzang tsul khrims (1740-1810).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABTvw",
+    "revision_id": "625a48465ca528d294473",
     "content_hash": "a9ab5b37aa02bb0ae816a35674b0cf98c82b192fbda89508e5b5eb39f29314d4",
-    "server_modified": "2024-03-18T21:53:40",
-    "last_sync": "2024-09-09T19:04:50.426977",
+    "server_modified": "2024-10-29 21:46:26",
+    "last_sync": "2024-11-19 20:54:20.927747",
     "size": 11545,
     "meta_text": null,
     "cat_ref": "S12065E",
@@ -19,20 +19,20 @@
     "author_simple": "CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS",
     "subject": [
         {
-            "_id": "272455372559",
-            "subject_path": "SUNGBUM_SUNGBUM/'DUL BA_VOWED MORALITY (VINAYA)/'DUL BA CHOS 'BYUNG_HISTORY OF VINAYA",
-            "subject_path_tibetan": "SUNGBUM/'DUL BA/'DUL BA CHOS 'BYUNG",
-            "subject_path_english": "SUNGBUM/VOWED MORALITY (VINAYA)/HISTORY OF VINAYA",
-            "subject_tibetan": "'DUL BA CHOS 'BYUNG",
-            "subject_english": "HISTORY OF VINAYA"
-        },
-        {
-            "_id": "222237532674",
-            "subject_path": "SUNGBUM_SUNGBUM/CHOS 'BYUNG_RELIGIOUS HISTORIES/'DUL BA BYUNG TSUL_HISTORY OF VOWED MORALITY (VINAYA)",
-            "subject_path_tibetan": "SUNGBUM/CHOS 'BYUNG/'DUL BA BYUNG TSUL",
-            "subject_path_english": "SUNGBUM/RELIGIOUS HISTORIES/HISTORY OF VOWED MORALITY (VINAYA)",
+            "_id": "339591122909",
+            "subject_path": "GSUNG 'BUM_Sungbum/CHOS 'BYUNG_RELIGIOUS HISTORIES/'DUL BA BYUNG TSUL_HISTORY OF VOWED MORALITY (VINAYA)",
+            "subject_path_tibetan": "GSUNG 'BUM/CHOS 'BYUNG/'DUL BA BYUNG TSUL",
+            "subject_path_english": "Sungbum/RELIGIOUS HISTORIES/HISTORY OF VOWED MORALITY (VINAYA)",
             "subject_tibetan": "'DUL BA BYUNG TSUL",
             "subject_english": "HISTORY OF VOWED MORALITY (VINAYA)"
+        },
+        {
+            "_id": "643802364160",
+            "subject_path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/'DUL BA CHOS 'BYUNG_HISTORY OF VINAYA",
+            "subject_path_tibetan": "GSUNG 'BUM/'DUL BA/'DUL BA CHOS 'BYUNG",
+            "subject_path_english": "Sungbum/VOWED MORALITY (VINAYA)/HISTORY OF VINAYA",
+            "subject_tibetan": "'DUL BA CHOS 'BYUNG",
+            "subject_english": "HISTORY OF VINAYA"
         }
     ],
     "items": [],
@@ -46,15 +46,29 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P4797"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "'dul ba_vowed morality (vinaya)/'dul ba chos 'byung_history of vinaya",
-            "timestamp": "2024-09-10T02:04:50.435994+00:00"
+            "path": "GSUNG 'BUM_Sungbum/CHOS 'BYUNG_RELIGIOUS HISTORIES/'DUL BA BYUNG TSUL_HISTORY OF VOWED MORALITY (VINAYA)",
+            "timestamp": "2024-11-20 04:54:20.934989+00:00"
         },
         {
-            "path": "chos 'byung_religious histories/'dul ba byung tsul_history of vowed morality (vinaya)",
-            "timestamp": "2024-09-10T02:19:20.271150+00:00"
+            "path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/'DUL BA CHOS 'BYUNG_HISTORY OF VINAYA",
+            "timestamp": "2024-11-20 05:12:45.296714+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:54:20.934989+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T05:12:45.296714+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "text"
 }

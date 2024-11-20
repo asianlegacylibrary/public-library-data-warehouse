@@ -1,28 +1,28 @@
 {
     "name": "S12255E_RAB BYUNG BCU DRUG PA'I RTZIS GZHI GSAR DU SPEL TE LNGA BSDUS SGRA GCAN SOGS KYI RI MO BYA TSUL BKOD PA RTZIS RIG SGO 'BYED_A Gate to Enter the Science of Astrological Calculation--A Description of How to Draw the Charts for the Combination +.TXT",
-    "path": "skar rtzis_astrology/gza' skar_astrological charting",
-    "download_path": "/sungbum updated 4 26 23 bk/skar rtzis_astrology/gza' skar_astrological charting/s12255e_rab byung bcu drug pa'i rtzis gzhi gsar du spel te lnga bsdus sgra gcan sogs kyi ri mo bya tsul bkod pa rtzis rig sgo 'byed_a gate to enter the science of astrological calculation--a description of how to draw the charts for the combination +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAASQQ",
-    "revision_id": "613f6664743648d294473",
+    "path": "SKAR RTZIS_ASTROLOGY/GZA' SKAR_ASTROLOGICAL CHARTING",
+    "download_path": "/sungbum updated 7 30 23 nl/skar rtzis_astrology/gza' skar_astrological charting/s12255e_rab byung bcu drug pa'i rtzis gzhi gsar du spel te lnga bsdus sgra gcan sogs kyi ri mo bya tsul bkod pa rtzis rig sgo 'byed_a gate to enter the science of astrological calculation--a description of how to draw the charts for the combination +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABlpw",
+    "revision_id": "625a4af1e4fb18d294473",
     "content_hash": "6f725a18c0c763a3bc9b60bf00f12a4a2f324bc0a2e950504b99ce2e84e1f85a",
-    "server_modified": "2024-03-18T21:54:19",
-    "last_sync": "2024-09-09T19:19:53.321605",
+    "server_modified": "2024-10-29 21:58:23",
+    "last_sync": "2024-11-19 21:25:41.931082",
     "size": 18396,
-    "meta_text": "of the Five, Rahula, and Such--A Work to Propogate a New Astrological Basis for the Sixteenth Cycle of Years_RJE BTZUN BLO BZANG RTA DBYANGS (1867-1937)",
+    "meta_text": "('of the Five, Rahula, and Such--A Work to Propogate a New Astrological Basis for the Sixteenth Cycle of Years_RJE BTZUN BLO BZANG RTA DBYANGS (1867-1937)', 'rtf')",
     "cat_ref": "S12255E",
     "work_ref": "W.S12255E",
     "title_tib": "RAB BYUNG BCU DRUG PA'I RTZIS GZHI GSAR DU SPEL TE LNGA BSDUS SGRA GCAN SOGS KYI RI MO BYA TSUL BKOD PA RTZIS RIG SGO 'BYED",
-    "title_eng": "A Gate to Enter the Science of Astrological Calculation--A Description of How to Draw the Charts for the Combinationof the Five, Rahula, and Such--A Work to Propogate a New Astrological Basis for the Sixteenth Cycle of Years",
+    "title_eng": "A Gate to Enter the Science of Astrological Calculation--A Description of How to Draw the Charts for the Combination('of the Five, Rahula, and Such--A Work to Propogate a New Astrological Basis for the Sixteenth Cycle of Years",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "RJE BTZUN BLO BZANG RTA DBYANGS",
     "subject": [
         {
-            "_id": "274112121515",
-            "subject_path": "SUNGBUM_SUNGBUM/SKAR RTZIS_ASTROLOGY/GZA' SKAR_ASTROLOGICAL CHARTING",
-            "subject_path_tibetan": "SUNGBUM/SKAR RTZIS/GZA' SKAR",
-            "subject_path_english": "SUNGBUM/ASTROLOGY/ASTROLOGICAL CHARTING",
+            "_id": "273583179361",
+            "subject_path": "GSUNG 'BUM_Sungbum/SKAR RTZIS_ASTROLOGY/GZA' SKAR_ASTROLOGICAL CHARTING",
+            "subject_path_tibetan": "GSUNG 'BUM/SKAR RTZIS/GZA' SKAR",
+            "subject_path_english": "Sungbum/ASTROLOGY/ASTROLOGICAL CHARTING",
             "subject_tibetan": "GZA' SKAR",
             "subject_english": "ASTROLOGICAL CHARTING"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P1638"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "skar rtzis_astrology/gza' skar_astrological charting",
-            "timestamp": "2024-09-10T02:19:53.324547+00:00"
+            "path": "GSUNG 'BUM_Sungbum/SKAR RTZIS_ASTROLOGY/GZA' SKAR_ASTROLOGICAL CHARTING",
+            "timestamp": "2024-11-20 05:25:41.937233+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:25:41.937233+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

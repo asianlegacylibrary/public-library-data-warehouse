@@ -1,14 +1,14 @@
 {
     "name": "S05582_RJE BTZUN THAMS CAD MKHYEN PA'I GSUNG 'BUM THOR BU LAS DON RGYAN SO LNGA'I DPER BRJOD RNAMS_Examples of the 35 Poetic Devices, from Assorted Writings Found in the Collected Works of the Holy and Omniscient One_RGYAL BA DGE 'DUN RGYA MTSO (1476+.TXT",
-    "path": "snyan ngag_classical poetry/don rgyan_poetic devices",
-    "download_path": "/sungbum updated 4 26 23 bk/snyan ngag_classical poetry/don rgyan_poetic devices/s05582_rje btzun thams cad mkhyen pa'i gsung 'bum thor bu las don rgyan so lnga'i dper brjod rnams_examples of the 35 poetic devices, from assorted writings found in the collected works of the holy and omniscient one_rgyal ba dge 'dun rgya mtso (1476+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAADnw",
-    "revision_id": "613f663ffc8928d294473",
+    "path": "SNYAN NGAG_CLASSICAL POETRY/DON RGYAN_POETIC DEVICES",
+    "download_path": "/sungbum updated 7 30 23 nl/snyan ngag_classical poetry/don rgyan_poetic devices/s05582_rje btzun thams cad mkhyen pa'i gsung 'bum thor bu las don rgyan so lnga'i dper brjod rnams_examples of the 35 poetic devices, from assorted writings found in the collected works of the holy and omniscient one_rgyal ba dge 'dun rgya mtso (1476+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABOVg",
+    "revision_id": "625a476c951bd8d294473",
     "content_hash": "da05e48514244085c1a7e218267b21ec19e97d2eb56f40c3c8baadba0dc5b06d",
-    "server_modified": "2024-03-18T21:53:40",
-    "last_sync": "2024-09-09T19:04:56.391895",
+    "server_modified": "2024-10-29 21:42:38",
+    "last_sync": "2024-11-19 20:46:02.200941",
     "size": 26651,
-    "meta_text": null,
+    "meta_text": "('-1542)', 'text')",
     "cat_ref": "S05582",
     "work_ref": "W.S05582",
     "title_tib": "RJE BTZUN THAMS CAD MKHYEN PA'I GSUNG 'BUM THOR BU LAS DON RGYAN SO LNGA'I DPER BRJOD RNAMS",
@@ -19,10 +19,10 @@
     "author_simple": "RGYAL BA DGE 'DUN RGYA MTSO",
     "subject": [
         {
-            "_id": "145152352003",
-            "subject_path": "SUNGBUM_SUNGBUM/SNYAN NGAG_CLASSICAL POETRY/DON RGYAN_POETIC DEVICES",
-            "subject_path_tibetan": "SUNGBUM/SNYAN NGAG/DON RGYAN",
-            "subject_path_english": "SUNGBUM/CLASSICAL POETRY/POETIC DEVICES",
+            "_id": "308578876166",
+            "subject_path": "GSUNG 'BUM_Sungbum/SNYAN NGAG_CLASSICAL POETRY/DON RGYAN_POETIC DEVICES",
+            "subject_path_tibetan": "GSUNG 'BUM/SNYAN NGAG/DON RGYAN",
+            "subject_path_english": "Sungbum/CLASSICAL POETRY/POETIC DEVICES",
             "subject_tibetan": "DON RGYAN",
             "subject_english": "POETIC DEVICES"
         }
@@ -32,17 +32,25 @@
         {
             "author_name": "RGYAL BA DGE 'DUN RGYA MTSO",
             "author_birth": null,
-            "author_death": null,
+            "author_death": "1542",
             "bdrc_id": "bdr:P84",
             "normalized_name": "RGYAL BA DGE 'DUN RGYA MTSO",
             "bdrc_url": "http://purl.bdrc.io/resource/P84"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "snyan ngag_classical poetry/don rgyan_poetic devices",
-            "timestamp": "2024-09-10T02:04:56.397590+00:00"
+            "path": "GSUNG 'BUM_Sungbum/SNYAN NGAG_CLASSICAL POETRY/DON RGYAN_POETIC DEVICES",
+            "timestamp": "2024-11-20 04:46:02.206794+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:46:02.206794+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

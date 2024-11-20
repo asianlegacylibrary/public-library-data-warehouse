@@ -1,28 +1,28 @@
 {
     "name": "S06380E9_SGRUB THABS RIN 'BYUNG GI KHOL PO KUNDHA LI'I BZLAS PA'I MJUG TU 'DON RGYU_Additional Recitation to be Performed at the End of the Conclusion of the Recitation of a Mantra in the Method for Reaching an Angel called 'Kundhali, Servant of th+.TXT",
-    "path": "rgyud_secret teachings (tantra)/kundha li_kundali (kundali)/sgrub thabs_ritual for reaching the angel (sadhana)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/kundha li_kundali (kundali)/sgrub thabs_ritual for reaching the angel (sadhana)/s06380e9_sgrub thabs rin 'byung gi khol po kundha li'i bzlas pa'i mjug tu 'don rgyu_additional recitation to be performed at the end of the conclusion of the recitation of a mantra in the method for reaching an angel called 'kundhali, servant of th+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAHgg",
-    "revision_id": "613f66492f1ec8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/KUNDHA LI_KUNDALI (KUNDALI)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/kundha li_kundali (kundali)/sgrub thabs_ritual for reaching the angel (sadhana)/s06380e9_sgrub thabs rin 'byung gi khol po kundha li'i bzlas pa'i mjug tu 'don rgyu_additional recitation to be performed at the end of the conclusion of the recitation of a mantra in the method for reaching an angel called 'kundhali, servant of th+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABXtA",
+    "revision_id": "625a48c78382e8d294473",
     "content_hash": "041be17064e63139d28acc8f7646bb2295a3769d7323ec3b75112b9081af549c",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:08:35.347492",
+    "server_modified": "2024-10-29 21:48:41",
+    "last_sync": "2024-11-19 21:01:11.552307",
     "size": 753,
-    "meta_text": "e Source of Jewels’_DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "meta_text": "('e Source of Jewels’_DNGUL CHU DHARMA BHADRA (1772-1851)', 'rtf')",
     "cat_ref": "S06380E9",
     "work_ref": "W.S06380E9",
     "title_tib": "SGRUB THABS RIN 'BYUNG GI KHOL PO KUNDHA LI'I BZLAS PA'I MJUG TU 'DON RGYU",
-    "title_eng": "Additional Recitation to be Performed at the End of the Conclusion of the Recitation of a Mantra in the Method for Reaching an Angel called 'Kundhali, Servant of the Source of Jewels’",
+    "title_eng": "Additional Recitation to be Performed at the End of the Conclusion of the Recitation of a Mantra in the Method for Reaching an Angel called 'Kundhali, Servant of th('e Source of Jewels’",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "237336323477",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/KUNDHA LI_KUNDALI (KUNDALI)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/KUNDHA LI/SGRUB THABS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/KUNDALI (KUNDALI)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "_id": "341975228530",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/KUNDHA LI_KUNDALI (KUNDALI)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/KUNDHA LI/SGRUB THABS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/KUNDALI (KUNDALI)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
             "subject_tibetan": "SGRUB THABS",
             "subject_english": "RITUAL FOR REACHING THE ANGEL (SADHANA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/kundha li_kundali (kundali)/sgrub thabs_ritual for reaching the angel (sadhana)",
-            "timestamp": "2024-09-10T02:08:35.355443+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/KUNDHA LI_KUNDALI (KUNDALI)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "timestamp": "2024-11-20 05:01:11.557793+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:01:11.557793+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

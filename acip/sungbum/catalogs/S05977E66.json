@@ -1,12 +1,12 @@
 {
     "name": "S05977E66_BLA MA DANG 'KHOR LO SDOM PA DBYER MED KYI RNAL 'BYOR_A Deep Practice where Your Lama and the Union of the Spheres (Chakrasamvara) are Inseparable_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662).TXT",
-    "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/gsol 'debs_supplication",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/gsol 'debs_supplication/s05977e66_bla ma dang 'khor lo sdom pa dbyer med kyi rnal 'byor_a deep practice where your lama and the union of the spheres (chakrasamvara) are inseparable_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAPVA",
-    "revision_id": "613f665b6116d8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/GSOL 'DEBS_SUPPLICATION",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/gsol 'debs_supplication/s05977e66_bla ma dang 'khor lo sdom pa dbyer med kyi rnal 'byor_a deep practice where your lama and the union of the spheres (chakrasamvara) are inseparable_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABU2g",
+    "revision_id": "625a4873d87a18d294473",
     "content_hash": "a582e116a596a401ba6fe05578412f259ed663ebcac3a600a225359956caaee8",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:16:42.792484",
+    "server_modified": "2024-10-29 21:47:14",
+    "last_sync": "2024-11-19 20:56:21.865748",
     "size": 4365,
     "meta_text": null,
     "cat_ref": "S05977E66",
@@ -19,10 +19,10 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "448959601293",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/GSOL 'DEBS_SUPPLICATION",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/BDE MCHOG/GSOL 'DEBS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/SUPPLICATION",
+            "_id": "311330792762",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/GSOL 'DEBS_SUPPLICATION",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/BDE MCHOG/GSOL 'DEBS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/SUPPLICATION",
             "subject_tibetan": "GSOL 'DEBS",
             "subject_english": "SUPPLICATION"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/gsol 'debs_supplication",
-            "timestamp": "2024-09-10T02:16:42.795075+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/GSOL 'DEBS_SUPPLICATION",
+            "timestamp": "2024-11-20 04:56:21.870157+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:56:21.870157+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,14 +1,14 @@
 {
     "name": "S05977E7_DPAL 'KHOR LO BDE MCHOG L'U AI PA'I LUGS KYI BRGYUD RIM GYI GSOL 'DEBS_A Supplication to the Lamas of the Lineage of the Secret Teachings of the Glorious Sphere of Highest Bliss (Chakrasamvara), according to the System of Luipa_PAn CHEN BLO +.TXT",
-    "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/bla brgyud_lineage lamas",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/bla brgyud_lineage lamas/s05977e7_dpal 'khor lo bde mchog l'u ai pa'i lugs kyi brgyud rim gyi gsol 'debs_a supplication to the lamas of the lineage of the secret teachings of the glorious sphere of highest bliss (chakrasamvara), according to the system of luipa_pan chen blo +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAPSw",
-    "revision_id": "613f665b611648d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/BLA BRGYUD_LINEAGE LAMAS",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/bla brgyud_lineage lamas/s05977e7_dpal 'khor lo bde mchog l'u ai pa'i lugs kyi brgyud rim gyi gsol 'debs_a supplication to the lamas of the lineage of the secret teachings of the glorious sphere of highest bliss (chakrasamvara), according to the system of luipa_pan chen blo +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABUdQ",
+    "revision_id": "625a48670a19f8d294473",
     "content_hash": "481e1a64bc538618c76c4d62a4b1efb337c1bba2d70149d1987056021df295d6",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:16:42.145732",
+    "server_modified": "2024-10-29 21:47:00",
+    "last_sync": "2024-11-19 20:55:41.360255",
     "size": 3635,
-    "meta_text": "BZANG CHOS KYI RGYAL MTSAN (1565-1662)",
+    "meta_text": "('BZANG CHOS KYI RGYAL MTSAN (1565-1662)', 'rtf')",
     "cat_ref": "S05977E7",
     "work_ref": "W.S05977E7",
     "title_tib": "DPAL 'KHOR LO BDE MCHOG L'U AI PA'I LUGS KYI BRGYUD RIM GYI GSOL 'DEBS",
@@ -19,10 +19,10 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "543323095744",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/BLA BRGYUD_LINEAGE LAMAS",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/BDE MCHOG/BLA BRGYUD",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/LINEAGE LAMAS",
+            "_id": "155191796174",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/BLA BRGYUD_LINEAGE LAMAS",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/BDE MCHOG/BLA BRGYUD",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/LINEAGE LAMAS",
             "subject_tibetan": "BLA BRGYUD",
             "subject_english": "LINEAGE LAMAS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/bla brgyud_lineage lamas",
-            "timestamp": "2024-09-10T02:16:42.150672+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/BLA BRGYUD_LINEAGE LAMAS",
+            "timestamp": "2024-11-20 04:55:43.078944+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:55:43.078944+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

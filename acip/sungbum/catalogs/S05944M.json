@@ -1,14 +1,14 @@
 {
     "name": "S05944M_BYANG CHUB LAM GYI RIM PA'I DMAR KHRID THAMS CAD MKHYEN PAR BGROD PA'I BDE LAM_The 'Path of Ease, for Travelling to Omniscience,' a Book on the Steps of the Path to Enlightenment, written in 'Dissection' Style_PAn CHEN BLO BZANG CHOS KYI RGY+.TXT",
-    "path": "lam rim_steps of the path/bde lam_path to bliss/rtza ba_root text",
-    "download_path": "/sungbum updated 4 26 23 bk/lam rim_steps of the path/bde lam_path to bliss/rtza ba_root text/s05944m_byang chub lam gyi rim pa'i dmar khrid thams cad mkhyen par bgrod pa'i bde lam_the 'path of ease, for travelling to omniscience,' a book on the steps of the path to enlightenment, written in 'dissection' style_pan chen blo bzang chos kyi rgy+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAGxA",
-    "revision_id": "613f66492f12e8d294473",
+    "path": "LAM RIM_STEPS OF THE PATH/BDE LAM_PATH TO BLISS/RTZA BA_ROOT TEXT",
+    "download_path": "/sungbum updated 7 30 23 nl/lam rim_steps of the path/bde lam_path to bliss/rtza ba_root text/s05944m_byang chub lam gyi rim pa'i dmar khrid thams cad mkhyen par bgrod pa'i bde lam_the 'path of ease, for travelling to omniscience,' a book on the steps of the path to enlightenment, written in 'dissection' style_pan chen blo bzang chos kyi rgy+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABhQw",
+    "revision_id": "625a4a56f486a8d294473",
     "content_hash": "9300cc194faa6a6fbe661682070fb29551f42a6305b9d5f48c9ed6561cc0ec26",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:07:51.440206",
+    "server_modified": "2024-10-29 21:55:40",
+    "last_sync": "2024-11-19 21:17:25.805251",
     "size": 81566,
-    "meta_text": "AL MTSAN (1565-1662)",
+    "meta_text": "('AL MTSAN (1565-1662)', 'rtf')",
     "cat_ref": "S05944M",
     "work_ref": "W.S05944M",
     "title_tib": "BYANG CHUB LAM GYI RIM PA'I DMAR KHRID THAMS CAD MKHYEN PAR BGROD PA'I BDE LAM",
@@ -19,18 +19,18 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "100994406123",
-            "subject_path": "SUNGBUM_SUNGBUM/LAM RIM_STEPS OF THE PATH/BDE LAM_PATH TO BLISS/RTZA BA_ROOT TEXT",
-            "subject_path_tibetan": "SUNGBUM/LAM RIM/BDE LAM/RTZA BA",
-            "subject_path_english": "SUNGBUM/STEPS OF THE PATH/PATH TO BLISS/ROOT TEXT",
+            "_id": "106650266943",
+            "subject_path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/BDE LAM_PATH TO BLISS/RTZA BA_ROOT TEXT",
+            "subject_path_tibetan": "GSUNG 'BUM/LAM RIM/BDE LAM/RTZA BA",
+            "subject_path_english": "Sungbum/STEPS OF THE PATH/PATH TO BLISS/ROOT TEXT",
             "subject_tibetan": "RTZA BA",
             "subject_english": "ROOT TEXT"
         },
         {
-            "_id": "159542277106",
-            "subject_path": "SUNGBUM_SUNGBUM/LAM RIM_STEPS OF THE PATH/LAM RIM DMAR KHRID_'DISSECTION' TEACHINGS ON THE STEPS OF THE PATH",
-            "subject_path_tibetan": "SUNGBUM/LAM RIM/LAM RIM DMAR KHRID",
-            "subject_path_english": "SUNGBUM/STEPS OF THE PATH/'DISSECTION' TEACHINGS ON THE STEPS OF THE PATH",
+            "_id": "792602819422",
+            "subject_path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/LAM RIM DMAR KHRID_'DISSECTION' TEACHINGS ON THE STEPS OF THE PATH",
+            "subject_path_tibetan": "GSUNG 'BUM/LAM RIM/LAM RIM DMAR KHRID",
+            "subject_path_english": "Sungbum/STEPS OF THE PATH/'DISSECTION' TEACHINGS ON THE STEPS OF THE PATH",
             "subject_tibetan": "LAM RIM DMAR KHRID",
             "subject_english": "'DISSECTION' TEACHINGS ON THE STEPS OF THE PATH"
         }
@@ -46,15 +46,29 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "lam rim_steps of the path/bde lam_path to bliss/rtza ba_root text",
-            "timestamp": "2024-09-10T02:07:51.450910+00:00"
+            "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/BDE LAM_PATH TO BLISS/RTZA BA_ROOT TEXT",
+            "timestamp": "2024-11-20 05:17:25.811230+00:00"
         },
         {
-            "path": "lam rim_steps of the path/lam rim dmar khrid_'dissection' teachings on the steps of the path",
-            "timestamp": "2024-09-10T02:08:18.208395+00:00"
+            "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/LAM RIM DMAR KHRID_'DISSECTION' TEACHINGS ON THE STEPS OF THE PATH",
+            "timestamp": "2024-11-20 05:18:17.052259+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:17:25.811230+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T05:18:17.052259+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "text"
 }

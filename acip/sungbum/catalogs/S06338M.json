@@ -1,12 +1,12 @@
 {
     "name": "S06338M_MAndAL GYI KHRID YIG BSOD NAMS KYI CHU GTER_The 'Great Reservoir of Merit,' being a Book of Instruction on the Practice of Offering a Mandala_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "nyams len_personal practice/mandal 'bul tsul_how to make a mandala offering/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/mandal 'bul tsul_how to make a mandala offering/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)/s06338m_mandal gyi khrid yig bsod nams kyi chu gter_the 'great reservoir of merit,' being a book of instruction on the practice of offering a mandala_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAC7Q",
-    "revision_id": "613f663ffc7e08d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/MAndAL 'BUL TSUL_HOW TO MAKE A MANDALA OFFERING/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/mandal 'bul tsul_how to make a mandala offering/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)/s06338m_mandal gyi khrid yig bsod nams kyi chu gter_the 'great reservoir of merit,' being a book of instruction on the practice of offering a mandala_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABiWA",
+    "revision_id": "625a4a862ab808d294473",
     "content_hash": "166c00a4d5e2bb6299bb5f63a55ae7b6d88758e5ad42ad4aaa3d681aa299966c",
-    "server_modified": "2024-03-18T21:53:40",
-    "last_sync": "2024-09-09T19:04:15.153902",
+    "server_modified": "2024-10-29 21:56:30",
+    "last_sync": "2024-11-19 21:19:25.789790",
     "size": 20439,
     "meta_text": null,
     "cat_ref": "S06338M",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "915781836033",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/MANDAL 'BUL TSUL_HOW TO MAKE A MANDALA OFFERING/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/MANDAL 'BUL TSUL/DNGUL CHU DHARMA BHADRA",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/HOW TO MAKE A MANDALA OFFERING/NGULCHU DHARMA BHADRA (1772-1851)",
+            "_id": "139173346670",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/MAndAL 'BUL TSUL_HOW TO MAKE A MANDALA OFFERING/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/MAndAL 'BUL TSUL/DNGUL CHU DHARMA BHADRA",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/HOW TO MAKE A MANDALA OFFERING/NGULCHU DHARMA BHADRA (1772-1851)",
             "subject_tibetan": "DNGUL CHU DHARMA BHADRA",
             "subject_english": "NGULCHU DHARMA BHADRA (1772-1851)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/mandal 'bul tsul_how to make a mandala offering/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)",
-            "timestamp": "2024-09-10T02:04:15.170448+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/MAndAL 'BUL TSUL_HOW TO MAKE A MANDALA OFFERING/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
+            "timestamp": "2024-11-20 05:19:25.793085+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:19:25.793085+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,12 +1,12 @@
 {
     "name": "S06369M57_STOBS BZHIS BSHAGS PA BYA TSUL_How to Perform a Confession using the Four Forces_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "nyams len_personal practice/stobs bzhi bsgom tsul_how to practice the four powers of purification/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/stobs bzhi bsgom tsul_how to practice the four powers of purification/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)/s06369m57_stobs bzhis bshags pa bya tsul_how to perform a confession using the four forces_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAB8A",
-    "revision_id": "613f663b87d398d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/STOBS BZHI BSGOM TSUL_HOW TO PRACTICE THE FOUR POWERS OF PURIFICATION/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/stobs bzhi bsgom tsul_how to practice the four powers of purification/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)/s06369m57_stobs bzhis bshags pa bya tsul_how to perform a confession using the four forces_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABj6A",
+    "revision_id": "625a4abe2cef58d294473",
     "content_hash": "bcfe6e37d93979b19df4bbd707a9802477913dbd36d8d3484e86435f32876b7c",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:03:06.694133",
+    "server_modified": "2024-10-29 21:57:28",
+    "last_sync": "2024-11-19 21:22:12.897736",
     "size": 3587,
     "meta_text": null,
     "cat_ref": "S06369M57",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "521255805701",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/STOBS BZHI BSGOM TSUL_HOW TO PRACTICE THE FOUR POWERS OF PURIFICATION/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/STOBS BZHI BSGOM TSUL/DNGUL CHU DHARMA BHADRA",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/HOW TO PRACTICE THE FOUR POWERS OF PURIFICATION/NGULCHU DHARMA BHADRA (1772-1851)",
+            "_id": "131153144677",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/STOBS BZHI BSGOM TSUL_HOW TO PRACTICE THE FOUR POWERS OF PURIFICATION/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/STOBS BZHI BSGOM TSUL/DNGUL CHU DHARMA BHADRA",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/HOW TO PRACTICE THE FOUR POWERS OF PURIFICATION/NGULCHU DHARMA BHADRA (1772-1851)",
             "subject_tibetan": "DNGUL CHU DHARMA BHADRA",
             "subject_english": "NGULCHU DHARMA BHADRA (1772-1851)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/stobs bzhi bsgom tsul_how to practice the four powers of purification/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)",
-            "timestamp": "2024-09-10T02:03:06.712900+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/STOBS BZHI BSGOM TSUL_HOW TO PRACTICE THE FOUR POWERS OF PURIFICATION/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
+            "timestamp": "2024-11-20 05:22:12.902648+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:22:12.902648+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

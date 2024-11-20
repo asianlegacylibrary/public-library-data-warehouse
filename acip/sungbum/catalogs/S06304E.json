@@ -1,12 +1,12 @@
 {
     "name": "S06304E_NYE BRGYUD TSE KHRID 'CHI MED RDO RJE'I SROG SHING GI NGAG 'DON NAG 'GROS SU BKOD PA_Recitation Text for 'The Diamond Core of Deathlessness,' an Instruction on the Close Lineage for Lengthening One's Life_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/rta mgrin_horse throat (hayagriva)/tse sgrub_ritual for long life",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/rta mgrin_horse throat (hayagriva)/tse sgrub_ritual for long life/s06304e_nye brgyud tse khrid 'chi med rdo rje'i srog shing gi ngag 'don nag 'gros su bkod pa_recitation text for 'the diamond core of deathlessness,' an instruction on the close lineage for lengthening one's life_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAALrg",
-    "revision_id": "613f6652789c68d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/RTA MGRIN_HORSE THROAT (HAYAGRIVA)/TSE SGRUB_RITUAL FOR LONG LIFE",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/rta mgrin_horse throat (hayagriva)/tse sgrub_ritual for long life/s06304e_nye brgyud tse khrid 'chi med rdo rje'i srog shing gi ngag 'don nag 'gros su bkod pa_recitation text for 'the diamond core of deathlessness,' an instruction on the close lineage for lengthening one's life_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABVUA",
+    "revision_id": "625a4883909e18d294473",
     "content_hash": "bdb4cc2d7df272d5e6944affa0fa4de78b531d3b611852b29313374b8a231bbb",
-    "server_modified": "2024-03-18T21:54:00",
-    "last_sync": "2024-09-09T19:12:51.674728",
+    "server_modified": "2024-10-29 21:47:30",
+    "last_sync": "2024-11-19 20:57:13.620200",
     "size": 9781,
     "meta_text": null,
     "cat_ref": "S06304E",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "188734008711",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/RTA MGRIN_HORSE THROAT (HAYAGRIVA)/TSE SGRUB_RITUAL FOR LONG LIFE",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/RTA MGRIN/TSE SGRUB",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/HORSE THROAT (HAYAGRIVA)/RITUAL FOR LONG LIFE",
+            "_id": "264936090366",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RTA MGRIN_HORSE THROAT (HAYAGRIVA)/TSE SGRUB_RITUAL FOR LONG LIFE",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/RTA MGRIN/TSE SGRUB",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/HORSE THROAT (HAYAGRIVA)/RITUAL FOR LONG LIFE",
             "subject_tibetan": "TSE SGRUB",
             "subject_english": "RITUAL FOR LONG LIFE"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/rta mgrin_horse throat (hayagriva)/tse sgrub_ritual for long life",
-            "timestamp": "2024-09-10T02:12:51.687172+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RTA MGRIN_HORSE THROAT (HAYAGRIVA)/TSE SGRUB_RITUAL FOR LONG LIFE",
+            "timestamp": "2024-11-20 04:57:14.270162+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:57:14.270162+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

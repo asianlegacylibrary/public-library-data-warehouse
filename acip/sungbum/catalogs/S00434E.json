@@ -1,28 +1,28 @@
 {
     "name": "S00434E_RDO RJE 'JIGS BYED CHEN PO'I LAS RUNG GI BSNYEN PA BYED TSUL GYI NYER MKHO'I ZHAL GDAMS DAM PA RNAMS KYI GSUNG GI NYING KHU MTHA' DAG SOGS PHYOGS GCIG TU BSGRIGS PA DNGOS GRUB 'BYUNG GNAS_'The Source of All Attainments,' being All the Very E +.TXT",
-    "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/bsnyen pa_retreat instructions",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/bsnyen pa_retreat instructions/s00434e_rdo rje 'jigs byed chen po'i las rung gi bsnyen pa byed tsul gyi nyer mkho'i zhal gdams dam pa rnams kyi gsung gi nying khu mtha' dag sogs phyogs gcig tu bsgrigs pa dngos grub 'byung gnas_'the source of all attainments,' being all the very e +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAM2A",
-    "revision_id": "613f6656deda98d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/BSNYEN PA_RETREAT INSTRUCTIONS",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/bsnyen pa_retreat instructions/s00434e_rdo rje 'jigs byed chen po'i las rung gi bsnyen pa byed tsul gyi nyer mkho'i zhal gdams dam pa rnams kyi gsung gi nying khu mtha' dag sogs phyogs gcig tu bsgrigs pa dngos grub 'byung gnas_'the source of all attainments,' being all the very e +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABdeQ",
+    "revision_id": "625a499879edc8d294473",
     "content_hash": "aa190014950c2e53af5d5ac2285f89c05a9babbf65ab6ed0cb9334388a7a85f8",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:14:17.216446",
+    "server_modified": "2024-10-29 21:52:20",
+    "last_sync": "2024-11-19 21:10:47.510448",
     "size": 14687,
-    "meta_text": "ssence of the Holy Words of Higher Beings and Such, Recitations Needed When Performing a Retreat of Readiness in the Secret Teachings of the Great Diamond Frightener (Vajra Bhairava)_@ (@-@)",
+    "meta_text": "('ssence of the Holy Words of Higher Beings and Such, Recitations Needed When Performing a Retreat of Readiness in the Secret Teachings of the Great Diamond Frightener (Vajra Bhairava)_@ (@-@)', 'rtf')",
     "cat_ref": "S00434E",
     "work_ref": "W.S00434E",
     "title_tib": "RDO RJE 'JIGS BYED CHEN PO'I LAS RUNG GI BSNYEN PA BYED TSUL GYI NYER MKHO'I ZHAL GDAMS DAM PA RNAMS KYI GSUNG GI NYING KHU MTHA' DAG SOGS PHYOGS GCIG TU BSGRIGS PA DNGOS GRUB 'BYUNG GNAS",
-    "title_eng": "'The Source of All Attainments,' being All the Very Essence of the Holy Words of Higher Beings and Such, Recitations Needed When Performing a Retreat of Readiness in the Secret Teachings of the Great Diamond Frightener (Vajra Bhairava)",
+    "title_eng": "'The Source of All Attainments,' being All the Very E('ssence of the Holy Words of Higher Beings and Such, Recitations Needed When Performing a Retreat of Readiness in the Secret Teachings of the Great Diamond Frightener (Vajra Bhairava)@ (@-@)', 'rtf')",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "",
     "subject": [
         {
-            "_id": "170503961426",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/BSNYEN PA_RETREAT INSTRUCTIONS",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/'JIGS BYED/BSNYEN PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/RETREAT INSTRUCTIONS",
+            "_id": "469945387818",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/BSNYEN PA_RETREAT INSTRUCTIONS",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/'JIGS BYED/BSNYEN PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/RETREAT INSTRUCTIONS",
             "subject_tibetan": "BSNYEN PA",
             "subject_english": "RETREAT INSTRUCTIONS"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/bsnyen pa_retreat instructions",
-            "timestamp": "2024-09-10T02:14:17.250632+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/BSNYEN PA_RETREAT INSTRUCTIONS",
+            "timestamp": "2024-11-20 05:10:50.326107+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:10:50.326107+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

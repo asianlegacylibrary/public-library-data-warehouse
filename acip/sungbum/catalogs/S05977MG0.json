@@ -1,29 +1,29 @@
 {
     "name": "S05977MG0_DPAL GSANG BA 'DUS PA YE SHES ZHABS LUGS KYI RIM PA GNYIS LAS BRTZAMS PA'I SMON PA'I TSIGS SU BCAD PA_Verses of Prayer based on the Two Stages of the Secret Teachings of the Glorious Secret Collection (Guhyasamaja), according to the Syste+.TXT",
-    "path": "nyams len_personal practice/smon lam_making prayers/pan chen blo bzang chos kyi rgyal mtsan_panchen lobsang chukyi gyeltsen (1565-1662)",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/smon lam_making prayers/pan chen blo bzang chos kyi rgyal mtsan_panchen lobsang chukyi gyeltsen (1565-1662)/s05977mg0_dpal gsang ba 'dus pa ye shes zhabs lugs kyi rim pa gnyis las brtzams pa'i smon pa'i tsigs su bcad pa_verses of prayer based on the two stages of the secret teachings of the glorious secret collection (guhyasamaja), according to the syste+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAACDQ",
-    "revision_id": "613f663ffc7008d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/smon lam_making prayers/pan chen blo bzang chos kyi rgyal mtsan_panchen lobsang chukyi gyeltsen (1565-1662)/s05977mg0_dpal gsang ba 'dus pa ye shes zhabs lugs kyi rim pa gnyis las brtzams pa'i smon pa'i tsigs su bcad pa_verses of prayer based on the two stages of the secret teachings of the glorious secret collection (guhyasamaja), according to the syste+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABkjw",
+    "revision_id": "625a4ad55c98f8d294473",
     "content_hash": "872e7a80a407131a1cf89469c4528e542c84ca46dcb3723e8ec7288cb8e1d9a7",
-    "server_modified": "2024-03-18T21:53:40",
-    "last_sync": "2024-09-09T19:03:13.473641",
+    "server_modified": "2024-10-29 21:57:53",
+    "last_sync": "2024-11-19 21:23:34.158340",
     "size": 3183,
-    "meta_text": "m of Jnyanapada_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)",
+    "meta_text": "('m of Jnyanapada_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)', 'rtf')",
     "cat_ref": "S05977MG0",
     "work_ref": "W.S05977MG0",
     "title_tib": "DPAL GSANG BA 'DUS PA YE SHES ZHABS LUGS KYI RIM PA GNYIS LAS BRTZAMS PA'I SMON PA'I TSIGS SU BCAD PA",
-    "title_eng": "Verses of Prayer based on the Two Stages of the Secret Teachings of the Glorious Secret Collection (Guhyasamaja), according to the System of Jnyanapada",
+    "title_eng": "Verses of Prayer based on the Two Stages of the Secret Teachings of the Glorious Secret Collection (Guhyasamaja), according to the Syste('m of Jnyanapada",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "129475331094",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/PAN CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/SMON LAM/PAN CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/MAKING PRAYERS/PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
-            "subject_tibetan": "PAN CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
+            "_id": "261817344784",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/SMON LAM/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/MAKING PRAYERS/PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+            "subject_tibetan": "PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
             "subject_english": "PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)"
         }
     ],
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/smon lam_making prayers/pan chen blo bzang chos kyi rgyal mtsan_panchen lobsang chukyi gyeltsen (1565-1662)",
-            "timestamp": "2024-09-10T02:03:13.480489+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+            "timestamp": "2024-11-20 05:23:35.417020+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:23:35.417020+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

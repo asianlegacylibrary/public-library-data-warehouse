@@ -1,12 +1,12 @@
 {
     "name": "S00559E_GSUNG 'THOR BU'I SKOR_A Collection of Brief Writings [by Cheshu Rinpoche Lobsang Jangchub Tenpay Drunme]_CHE SHOS RIN PO CHE BLO BZANG BYANG CHUB BSTAN PA'I SGRON ME (1861-1933@).TXT",
-    "path": "phran tsegs_miscellaneous/che shos rin po che blo bzang byang chub bstan pa'i sgron me_cheshu rinpoche lobsang jangchub tenpay drunme (1861-1933?)",
-    "download_path": "/sungbum updated 4 26 23 bk/phran tsegs_miscellaneous/che shos rin po che blo bzang byang chub bstan pa'i sgron me_cheshu rinpoche lobsang jangchub tenpay drunme (1861-1933?)/s00559e_gsung 'thor bu'i skor_a collection of brief writings [by cheshu rinpoche lobsang jangchub tenpay drunme]_che shos rin po che blo bzang byang chub bstan pa'i sgron me (1861-1933@).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAGLQ",
-    "revision_id": "613f66492f0978d294473",
+    "path": "PHRAN TSEGS_MISCELLANEOUS/CHE SHOS RIN PO CHE BLO BZANG BYANG CHUB BSTAN PA'I SGRON ME_CHESHU RINPOCHE LOBSANG JANGCHUB TENPAY DRUNME (1861-1933?)",
+    "download_path": "/sungbum updated 7 30 23 nl/phran tsegs_miscellaneous/che shos rin po che blo bzang byang chub bstan pa'i sgron me_cheshu rinpoche lobsang jangchub tenpay drunme (1861-1933?)/s00559e_gsung 'thor bu'i skor_a collection of brief writings [by cheshu rinpoche lobsang jangchub tenpay drunme]_che shos rin po che blo bzang byang chub bstan pa'i sgron me (1861-1933@).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABiCg",
+    "revision_id": "625a4a7a686178d294473",
     "content_hash": "2c4fb583496e69136400bb210ae2590f9dcd864114a848380dd1d40d7f510f61",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:07:20.114838",
+    "server_modified": "2024-10-29 21:56:17",
+    "last_sync": "2024-11-19 21:18:55.443169",
     "size": 176589,
     "meta_text": null,
     "cat_ref": "S00559E",
@@ -19,10 +19,10 @@
     "author_simple": "CHE SHOS RIN PO CHE BLO BZANG BYANG CHUB BSTAN PA'I SGRON ME",
     "subject": [
         {
-            "_id": "169596198466",
-            "subject_path": "SUNGBUM_SUNGBUM/PHRAN TSEGS_MISCELLANEOUS/CHE SHOS RIN PO CHE BLO BZANG BYANG CHUB BSTAN PA'I SGRON ME_CHESHU RINPOCHE LOBSANG JANGCHUB TENPAY DRUNME (1861-1933?)",
-            "subject_path_tibetan": "SUNGBUM/PHRAN TSEGS/CHE SHOS RIN PO CHE BLO BZANG BYANG CHUB BSTAN PA'I SGRON ME",
-            "subject_path_english": "SUNGBUM/MISCELLANEOUS/CHESHU RINPOCHE LOBSANG JANGCHUB TENPAY DRUNME (1861-1933?)",
+            "_id": "357785937842",
+            "subject_path": "GSUNG 'BUM_Sungbum/PHRAN TSEGS_MISCELLANEOUS/CHE SHOS RIN PO CHE BLO BZANG BYANG CHUB BSTAN PA'I SGRON ME_CHESHU RINPOCHE LOBSANG JANGCHUB TENPAY DRUNME (1861-1933?)",
+            "subject_path_tibetan": "GSUNG 'BUM/PHRAN TSEGS/CHE SHOS RIN PO CHE BLO BZANG BYANG CHUB BSTAN PA'I SGRON ME",
+            "subject_path_english": "Sungbum/MISCELLANEOUS/CHESHU RINPOCHE LOBSANG JANGCHUB TENPAY DRUNME (1861-1933?)",
             "subject_tibetan": "CHE SHOS RIN PO CHE BLO BZANG BYANG CHUB BSTAN PA'I SGRON ME",
             "subject_english": "CHESHU RINPOCHE LOBSANG JANGCHUB TENPAY DRUNME (1861-1933?)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P238"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "phran tsegs_miscellaneous/che shos rin po che blo bzang byang chub bstan pa'i sgron me_cheshu rinpoche lobsang jangchub tenpay drunme (1861-1933?)",
-            "timestamp": "2024-09-10T02:07:20.122511+00:00"
+            "path": "GSUNG 'BUM_Sungbum/PHRAN TSEGS_MISCELLANEOUS/CHE SHOS RIN PO CHE BLO BZANG BYANG CHUB BSTAN PA'I SGRON ME_CHESHU RINPOCHE LOBSANG JANGCHUB TENPAY DRUNME (1861-1933?)",
+            "timestamp": "2024-11-20 05:18:55.446926+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:18:55.446926+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

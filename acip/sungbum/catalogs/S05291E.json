@@ -1,12 +1,12 @@
 {
     "name": "S05291E_ BSHAD RGYUD RDO RJE PHRENG BA'I ZIN BRIS RJE NYID KYIS GNANG BA_Notes, Granted by Je Tsongkapa Himself, on the Explanatory Type of Secret Treatise entitled 'The String of Diamonds'_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419).TXT",
-    "path": "rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/'grel pa_commentaries",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/'grel pa_commentaries/s05291e_ bshad rgyud rdo rje phreng ba'i zin bris rje nyid kyis gnang ba_notes, granted by je tsongkapa himself, on the explanatory type of secret treatise entitled 'the string of diamonds'_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAARFg",
-    "revision_id": "613f665fcd69b8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/'GREL PA_COMMENTARIES",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/'grel pa_commentaries/s05291e_ bshad rgyud rdo rje phreng ba'i zin bris rje nyid kyis gnang ba_notes, granted by je tsongkapa himself, on the explanatory type of secret treatise entitled 'the string of diamonds'_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABbgA",
+    "revision_id": "625a4957ab7f88d294473",
     "content_hash": "969f574d2c59a1bb379c2a1ee4698a54ae6d3efef6c96a45df8a7c2fe80bc365",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:18:43.354996",
+    "server_modified": "2024-10-29 21:51:12",
+    "last_sync": "2024-11-19 21:07:27.811993",
     "size": 13272,
     "meta_text": null,
     "cat_ref": "S05291E",
@@ -19,10 +19,10 @@
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "369027515595",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/'GREL PA_COMMENTARIES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/GSANG 'DUS/'GREL PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/SECRET COLLECTION (GUHYASAMAJA)/COMMENTARIES",
+            "_id": "304141721314",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/'GREL PA_COMMENTARIES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/GSANG 'DUS/'GREL PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/SECRET COLLECTION (GUHYASAMAJA)/COMMENTARIES",
             "subject_tibetan": "'GREL PA",
             "subject_english": "COMMENTARIES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/'grel pa_commentaries",
-            "timestamp": "2024-09-10T02:18:43.377255+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/'GREL PA_COMMENTARIES",
+            "timestamp": "2024-11-20 05:07:30.285036+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:07:30.285036+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

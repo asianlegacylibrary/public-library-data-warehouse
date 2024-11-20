@@ -1,28 +1,28 @@
 {
     "name": "S19067E_BA RI BRGYA RTZA'I RJES GNANG GI LHAN THABS DNGOS GRUB RIN CHEN 'DREN PA'I GRU CHEN KLAG PAS DON GRUB_The Ship which Transports You to the Jewels of Attainment-- An Addendum to A Rite of Permission into the 'Hundred Rituals of Bari,' which w+.TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/sgrub thabs_ritual for reaching the angel (sadhana)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/sgrub thabs_ritual for reaching the angel (sadhana)/s19067e_ba ri brgya rtza'i rjes gnang gi lhan thabs dngos grub rin chen 'dren pa'i gru chen klag pas don grub_the ship which transports you to the jewels of attainment-- an addendum to a rite of permission into the 'hundred rituals of bari,' which w+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAOPg",
-    "revision_id": "613f665b610578d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyi_general treatments/sgrub thabs_ritual for reaching the angel (sadhana)/s19067e_ba ri brgya rtza'i rjes gnang gi lhan thabs dngos grub rin chen 'dren pa'i gru chen klag pas don grub_the ship which transports you to the jewels of attainment-- an addendum to a rite of permission into the 'hundred rituals of bari,' which w+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABYtg",
+    "revision_id": "625a48e59c84b8d294473",
     "content_hash": "f53b4f9b2840844c54ee8c39743d208d652c5a8647ee397af36274cc1e33876f",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:15:37.359831",
+    "server_modified": "2024-10-29 21:49:13",
+    "last_sync": "2024-11-19 21:02:55.732642",
     "size": 83528,
-    "meta_text": "hen Read Out Loud Brings You All Your Goals_'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS (1648-1721)",
+    "meta_text": "(\"hen Read Out Loud Brings You All Your Goals_'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS (1648-1721)\", 'rtf')",
     "cat_ref": "S19067E",
     "work_ref": "W.S19067E",
     "title_tib": "BA RI BRGYA RTZA'I RJES GNANG GI LHAN THABS DNGOS GRUB RIN CHEN 'DREN PA'I GRU CHEN KLAG PAS DON GRUB",
-    "title_eng": "The Ship which Transports You to the Jewels of Attainment-- An Addendum to A Rite of Permission into the 'Hundred Rituals of Bari,' which when Read Out Loud Brings You All Your Goals",
+    "title_eng": "The Ship which Transports You to the Jewels of Attainment-- An Addendum to A Rite of Permission into the 'Hundred Rituals of Bari,' which w(\"hen Read Out Loud Brings You All Your Goals",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS",
     "subject": [
         {
-            "_id": "194113483434",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/SGRUB THABS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "_id": "212937866508",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/SGRUB THABS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/RITUAL FOR REACHING THE ANGEL (SADHANA)",
             "subject_tibetan": "SGRUB THABS",
             "subject_english": "RITUAL FOR REACHING THE ANGEL (SADHANA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P423"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/sgrub thabs_ritual for reaching the angel (sadhana)",
-            "timestamp": "2024-09-10T02:15:37.365336+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "timestamp": "2024-11-20 05:02:55.739204+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:02:55.739204+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "rtf"
 }

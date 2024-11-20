@@ -1,28 +1,28 @@
 {
     "name": "S06295E_LHA LNGA'I SGRUB THABS BDE CHEN 'BYUNG GNAS KYI BSDUS DON NYAMS LEN SGO BRGYA 'BYED PA'I LDE MIG SOGS_Works including 'The Key that Unlocks a Hundred Doors of Spiritual Practice,' a Summary of 'The Source of Great Bliss,' a Ritual for Reachi +.TXT",
-    "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/sgrub thabs_ritual for reaching the angel (sadhana)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/sgrub thabs_ritual for reaching the angel (sadhana)/s06295e_lha lnga'i sgrub thabs bde chen 'byung gnas kyi bsdus don nyams len sgo brgya 'byed pa'i lde mig sogs_works including 'the key that unlocks a hundred doors of spiritual practice,' a summary of 'the source of great bliss,' a ritual for reachi +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAO_g",
-    "revision_id": "613f665b611178d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/sgrub thabs_ritual for reaching the angel (sadhana)/s06295e_lha lnga'i sgrub thabs bde chen 'byung gnas kyi bsdus don nyams len sgo brgya 'byed pa'i lde mig sogs_works including 'the key that unlocks a hundred doors of spiritual practice,' a summary of 'the source of great bliss,' a ritual for reachi +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABUeg",
+    "revision_id": "625a48670a1a48d294473",
     "content_hash": "21a9392b8becd02f43c3d4b13002e55fe4b1c30d4d182f51cd1544301cea6df6",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:16:24.249130",
+    "server_modified": "2024-10-29 21:47:00",
+    "last_sync": "2024-11-19 20:55:36.772700",
     "size": 21003,
-    "meta_text": "ng the Five Angels_DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "meta_text": "('ng the Five Angels_DNGUL CHU DHARMA BHADRA (1772-1851)', 'rtf')",
     "cat_ref": "S06295E",
     "work_ref": "W.S06295E",
     "title_tib": "LHA LNGA'I SGRUB THABS BDE CHEN 'BYUNG GNAS KYI BSDUS DON NYAMS LEN SGO BRGYA 'BYED PA'I LDE MIG SOGS",
-    "title_eng": "Works including 'The Key that Unlocks a Hundred Doors of Spiritual Practice,' a Summary of 'The Source of Great Bliss,' a Ritual for Reaching the Five Angels",
+    "title_eng": "Works including 'The Key that Unlocks a Hundred Doors of Spiritual Practice,' a Summary of 'The Source of Great Bliss,' a Ritual for Reachi('ng the Five Angels",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "250473272738",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/BDE MCHOG/SGRUB THABS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "_id": "162847641065",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/BDE MCHOG/SGRUB THABS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
             "subject_tibetan": "SGRUB THABS",
             "subject_english": "RITUAL FOR REACHING THE ANGEL (SADHANA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/sgrub thabs_ritual for reaching the angel (sadhana)",
-            "timestamp": "2024-09-10T02:16:24.273095+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "timestamp": "2024-11-20 04:55:39.058653+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:55:39.058653+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

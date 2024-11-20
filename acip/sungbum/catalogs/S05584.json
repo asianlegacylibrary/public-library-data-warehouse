@@ -1,12 +1,12 @@
 {
     "name": "S05584_RJE BTZUN THAMS CAD MKHYEN PA'I GSUNG 'BUM THOR BU LAS BRTAN BZHUGS KYI SKOR RNAMS_A Compilation of Long Life Prayers, from Assorted Writings Found in the Collected Works of the Holy and Omniscient One_RGYAL BA DGE 'DUN RGYA MTSO (1476-1542).TXT",
-    "path": "nyams len_personal practice/smon lam_making prayers/rgyal ba dge 'dun rgya mtso_gyalwa gendun gyatso (1476-1542)",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/smon lam_making prayers/rgyal ba dge 'dun rgya mtso_gyalwa gendun gyatso (1476-1542)/s05584_rje btzun thams cad mkhyen pa'i gsung 'bum thor bu las brtan bzhugs kyi skor rnams_a compilation of long life prayers, from assorted writings found in the collected works of the holy and omniscient one_rgyal ba dge 'dun rgya mtso (1476-1542).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAACLg",
-    "revision_id": "613f663ffc7218d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/RGYAL BA DGE 'DUN RGYA MTSO_GYALWA GENDUN GYATSO (1476-1542)",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/smon lam_making prayers/rgyal ba dge 'dun rgya mtso_gyalwa gendun gyatso (1476-1542)/s05584_rje btzun thams cad mkhyen pa'i gsung 'bum thor bu las brtan bzhugs kyi skor rnams_a compilation of long life prayers, from assorted writings found in the collected works of the holy and omniscient one_rgyal ba dge 'dun rgya mtso (1476-1542).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABkVQ",
+    "revision_id": "625a4acd38a548d294473",
     "content_hash": "f0015bcb7defd9d21556888da865692f14c67e29c89030488c912a5891b3b788",
-    "server_modified": "2024-03-18T21:53:40",
-    "last_sync": "2024-09-09T19:03:23.820819",
+    "server_modified": "2024-10-29 21:57:44",
+    "last_sync": "2024-11-19 21:23:13.485656",
     "size": 9323,
     "meta_text": null,
     "cat_ref": "S05584",
@@ -19,10 +19,10 @@
     "author_simple": "RGYAL BA DGE 'DUN RGYA MTSO",
     "subject": [
         {
-            "_id": "345659606335",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/RGYAL BA DGE 'DUN RGYA MTSO_GYALWA GENDUN GYATSO (1476-1542)",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/SMON LAM/RGYAL BA DGE 'DUN RGYA MTSO",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/MAKING PRAYERS/GYALWA GENDUN GYATSO (1476-1542)",
+            "_id": "133137529944",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/RGYAL BA DGE 'DUN RGYA MTSO_GYALWA GENDUN GYATSO (1476-1542)",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/SMON LAM/RGYAL BA DGE 'DUN RGYA MTSO",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/MAKING PRAYERS/GYALWA GENDUN GYATSO (1476-1542)",
             "subject_tibetan": "RGYAL BA DGE 'DUN RGYA MTSO",
             "subject_english": "GYALWA GENDUN GYATSO (1476-1542)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P84"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/smon lam_making prayers/rgyal ba dge 'dun rgya mtso_gyalwa gendun gyatso (1476-1542)",
-            "timestamp": "2024-09-10T02:03:23.829928+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/RGYAL BA DGE 'DUN RGYA MTSO_GYALWA GENDUN GYATSO (1476-1542)",
+            "timestamp": "2024-11-20 05:23:13.491068+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:23:13.491068+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

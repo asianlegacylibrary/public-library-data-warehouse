@@ -1,14 +1,14 @@
 {
     "name": "S06355E_ZAG MED GSUR BSNGO'I 'KHRID YIG SNGON MED LEGS BSHAD MTHONG BA DON LDAN_The 'Excellent Explanation, Meaningful to Behold, and Unknown until Now,'  being a Book of Instruction into the Practice of Making Faultless Offerings in Smoke_DNGUL CH+.TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/tsa bsur_tsasur offerings",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/tsa bsur_tsasur offerings/s06355e_zag med gsur bsngo'i 'khrid yig sngon med legs bshad mthong ba don ldan_the 'excellent explanation, meaningful to behold, and unknown until now,'  being a book of instruction into the practice of making faultless offerings in smoke_dngul ch+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAN_w",
-    "revision_id": "613f665b610188d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/TSA BSUR_TSASUR OFFERINGS",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyi_general treatments/tsa bsur_tsasur offerings/s06355e_zag med gsur bsngo'i 'khrid yig sngon med legs bshad mthong ba don ldan_the 'excellent explanation, meaningful to behold, and unknown until now,'  being a book of instruction into the practice of making faultless offerings in smoke_dngul ch+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABY7g",
+    "revision_id": "625a48ee29a5b8d294473",
     "content_hash": "6f3b99f50c84b60f09722f6ddeb2eddf0935dae7cab67b3e0685a4f070f1f9b5",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:15:21.757509",
+    "server_modified": "2024-10-29 21:49:22",
+    "last_sync": "2024-11-19 21:03:19.545636",
     "size": 2810,
-    "meta_text": "U DHARMA BHADRA (1772-1851)",
+    "meta_text": "('U DHARMA BHADRA (1772-1851)', 'rtf')",
     "cat_ref": "S06355E",
     "work_ref": "W.S06355E",
     "title_tib": "ZAG MED GSUR BSNGO'I 'KHRID YIG SNGON MED LEGS BSHAD MTHONG BA DON LDAN",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "729298386211",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/TSA BSUR_TSASUR OFFERINGS",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/TSA BSUR",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/TSASUR OFFERINGS",
+            "_id": "236908564719",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/TSA BSUR_TSASUR OFFERINGS",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/TSA BSUR",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/TSASUR OFFERINGS",
             "subject_tibetan": "TSA BSUR",
             "subject_english": "TSASUR OFFERINGS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/tsa bsur_tsasur offerings",
-            "timestamp": "2024-09-10T02:15:21.771366+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/TSA BSUR_TSASUR OFFERINGS",
+            "timestamp": "2024-11-20 05:03:19.551771+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:03:19.551771+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

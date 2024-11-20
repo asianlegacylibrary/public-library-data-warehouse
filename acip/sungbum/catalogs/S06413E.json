@@ -1,14 +1,14 @@
 {
     "name": "S06413E_DPAL RDO RJE 'JIGS BYED LHA BCU GSUM MA'I BSKYED RIM ZIN BRIS DRANG SRONG BLA MA'I ZHAL LUNG_'Word of the Lama Saint,' being Notes to the Level of Creation in the Teaching of the Thirteen Angels of the Glorious Diamond Frightener_DNGUL CHU D +.TXT",
-    "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/bskyed rim_creation stage (utpatti krama)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/bskyed rim_creation stage (utpatti krama)/s06413e_dpal rdo rje 'jigs byed lha bcu gsum ma'i bskyed rim zin bris drang srong bla ma'i zhal lung_'word of the lama saint,' being notes to the level of creation in the teaching of the thirteen angels of the glorious diamond frightener_dngul chu d +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAMqg",
-    "revision_id": "613f6656ded7b8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/BSKYED RIM_CREATION STAGE (UTPATTI KRAMA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/bskyed rim_creation stage (utpatti krama)/s06413e_dpal rdo rje 'jigs byed lha bcu gsum ma'i bskyed rim zin bris drang srong bla ma'i zhal lung_'word of the lama saint,' being notes to the level of creation in the teaching of the thirteen angels of the glorious diamond frightener_dngul chu d +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABeEw",
+    "revision_id": "625a49b35b77c8d294473",
     "content_hash": "69d6d4b92cb2797c3dbafe11cc46de75a87cd7cf301bc1b43b88a3ad68dee72f",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:14:00.195150",
+    "server_modified": "2024-10-29 21:52:49",
+    "last_sync": "2024-11-19 21:11:49.756478",
     "size": 224727,
-    "meta_text": "HARMA BHADRA (1772-1851)",
+    "meta_text": "('HARMA BHADRA (1772-1851)', 'rtf')",
     "cat_ref": "S06413E",
     "work_ref": "W.S06413E",
     "title_tib": "DPAL RDO RJE 'JIGS BYED LHA BCU GSUM MA'I BSKYED RIM ZIN BRIS DRANG SRONG BLA MA'I ZHAL LUNG",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "176862413886",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/BSKYED RIM_CREATION STAGE (UTPATTI KRAMA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/'JIGS BYED/BSKYED RIM",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/CREATION STAGE (UTPATTI KRAMA)",
+            "_id": "259229784926",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/BSKYED RIM_CREATION STAGE (UTPATTI KRAMA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/'JIGS BYED/BSKYED RIM",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/CREATION STAGE (UTPATTI KRAMA)",
             "subject_tibetan": "BSKYED RIM",
             "subject_english": "CREATION STAGE (UTPATTI KRAMA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/bskyed rim_creation stage (utpatti krama)",
-            "timestamp": "2024-09-10T02:14:00.199538+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/BSKYED RIM_CREATION STAGE (UTPATTI KRAMA)",
+            "timestamp": "2024-11-20 05:11:49.763756+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:11:49.763756+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

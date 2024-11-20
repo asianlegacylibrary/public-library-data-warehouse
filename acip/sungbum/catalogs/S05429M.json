@@ -1,12 +1,12 @@
 {
     "name": "S05429M_SANGS RGYAS SUM CU SO LNGA'I MTSAN GYI PHAN YON_On the Benefits of Reciting the Names of the Thirty-Five Buddhas_RGYAL TSAB DAR MA RIN CHEN (1364-1432).TXT",
-    "path": "nyams len_personal practice/sangs rgyas sum cu so_practice of the 35 buddhas",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/sangs rgyas sum cu so_practice of the 35 buddhas/s05429m_sangs rgyas sum cu so lnga'i mtsan gyi phan yon_on the benefits of reciting the names of the thirty-five buddhas_rgyal tsab dar ma rin chen (1364-1432).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAAyA",
-    "revision_id": "613f663b87c118d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/SANGS RGYAS SUM CU SO_PRACTICE OF THE 35 BUDDHAS",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/sangs rgyas sum cu so_practice of the 35 buddhas/s05429m_sangs rgyas sum cu so lnga'i mtsan gyi phan yon_on the benefits of reciting the names of the thirty-five buddhas_rgyal tsab dar ma rin chen (1364-1432).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABk2w",
+    "revision_id": "625a4adc034108d294473",
     "content_hash": "dde604f16373d22f76a953836277b81e9d7ab933404cf24b3f402f1d6c47907f",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:01:48.645755",
+    "server_modified": "2024-10-29 21:58:00",
+    "last_sync": "2024-11-19 21:24:10.979416",
     "size": 6375,
     "meta_text": null,
     "cat_ref": "S05429M",
@@ -19,10 +19,10 @@
     "author_simple": "RGYAL TSAB DAR MA RIN CHEN",
     "subject": [
         {
-            "_id": "744299683761",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/SANGS RGYAS SUM CU SO_PRACTICE OF THE 35 BUDDHAS",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/SANGS RGYAS SUM CU SO",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/PRACTICE OF THE 35 BUDDHAS",
+            "_id": "136390422432",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SANGS RGYAS SUM CU SO_PRACTICE OF THE 35 BUDDHAS",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/SANGS RGYAS SUM CU SO",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/PRACTICE OF THE 35 BUDDHAS",
             "subject_tibetan": "SANGS RGYAS SUM CU SO",
             "subject_english": "PRACTICE OF THE 35 BUDDHAS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P65"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/sangs rgyas sum cu so_practice of the 35 buddhas",
-            "timestamp": "2024-09-10T02:01:48.653943+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SANGS RGYAS SUM CU SO_PRACTICE OF THE 35 BUDDHAS",
+            "timestamp": "2024-11-20 05:24:10.987687+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:24:10.987687+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

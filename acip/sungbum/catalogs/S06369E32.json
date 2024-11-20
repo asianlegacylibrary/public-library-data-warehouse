@@ -1,12 +1,12 @@
 {
     "name": "S06369E32_SNGAGS SDOM SDOM TSIG_Versed Summary of the Secret Vows_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/sdom pa_secret vows (samaya)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/sdom pa_secret vows (samaya)/s06369e32_sngags sdom sdom tsig_versed summary of the secret vows_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAOtg",
-    "revision_id": "613f665b610cf8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SDOM PA_SECRET VOWS (SAMAYA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyi_general treatments/sdom pa_secret vows (samaya)/s06369e32_sngags sdom sdom tsig_versed summary of the secret vows_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABZOg",
+    "revision_id": "625a48fca5e5a8d294473",
     "content_hash": "04cc5dfc84a6c0f1d31dcf6e05b89ea282061f8ffa957aa20c53d9a31ad67e2f",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:15:59.216007",
+    "server_modified": "2024-10-29 21:49:37",
+    "last_sync": "2024-11-19 21:03:42.880240",
     "size": 373,
     "meta_text": null,
     "cat_ref": "S06369E32",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "789206632990",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SDOM PA_SECRET VOWS (SAMAYA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/SDOM PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/SECRET VOWS (SAMAYA)",
+            "_id": "101717976416",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SDOM PA_SECRET VOWS (SAMAYA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/SDOM PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/SECRET VOWS (SAMAYA)",
             "subject_tibetan": "SDOM PA",
             "subject_english": "SECRET VOWS (SAMAYA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/sdom pa_secret vows (samaya)",
-            "timestamp": "2024-09-10T02:15:59.225970+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SDOM PA_SECRET VOWS (SAMAYA)",
+            "timestamp": "2024-11-20 05:03:42.884630+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:03:42.884630+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

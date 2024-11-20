@@ -1,12 +1,12 @@
 {
     "name": "S00382M_BLA MA GSER GLING PAS JO BO LA MTHA' 'KHOB 'DUL BA'I CHOS SU GNANG BAAn Instruction Granted by Lama Serlingpa to Lord Atisha, meant to Assist Him in Taming People in a Barbarian Land_GSER GLING PA CHOS KYI GRAGS PA (@-@).TXT",
-    "path": "nyams len_personal practice/bslab bya_personal advices/gser gling pa chos kyi grags pa_serlingpa chukyi drakpa (?-?)",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/bslab bya_personal advices/gser gling pa chos kyi grags pa_serlingpa chukyi drakpa (?-?)/s00382m_bla ma gser gling pas jo bo la mtha' 'khob 'dul ba'i chos su gnang baan instruction granted by lama serlingpa to lord atisha, meant to assist him in taming people in a barbarian land_gser gling pa chos kyi grags pa (@-@).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAA4A",
-    "revision_id": "613f663b87c298d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/GSER GLING PA CHOS KYI GRAGS PA_Serlingpa Chukyi Drakpa (?-?)",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/bslab bya_personal advices/gser gling pa chos kyi grags pa_serlingpa chukyi drakpa (?-?)/s00382m_bla ma gser gling pas jo bo la mtha' 'khob 'dul ba'i chos su gnang baan instruction granted by lama serlingpa to lord atisha, meant to assist him in taming people in a barbarian land_gser gling pa chos kyi grags pa (@-@).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABi-Q",
+    "revision_id": "625a4a9dc0c6d8d294473",
     "content_hash": "b45e79bcbcdd6380652db0abae43bd3f9cdb246c86e66e0fc30bc33dbdf5d449",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:01:54.029499",
+    "server_modified": "2024-10-29 21:56:54",
+    "last_sync": "2024-11-19 21:20:23.334880",
     "size": 1300,
     "meta_text": null,
     "cat_ref": "S00382M",
@@ -19,12 +19,12 @@
     "author_simple": "",
     "subject": [
         {
-            "_id": "278817415045",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/GSER GLING PA CHOS KYI GRAGS PA_SERLINGPA CHUKYI DRAKPA (?-?)",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/BSLAB BYA/GSER GLING PA CHOS KYI GRAGS PA",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/PERSONAL ADVICES/SERLINGPA CHUKYI DRAKPA (?-?)",
+            "_id": "731314971166",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/GSER GLING PA CHOS KYI GRAGS PA_Serlingpa Chukyi Drakpa (?-?)",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/BSLAB BYA/GSER GLING PA CHOS KYI GRAGS PA",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/PERSONAL ADVICES/Serlingpa Chukyi Drakpa (?-?)",
             "subject_tibetan": "GSER GLING PA CHOS KYI GRAGS PA",
-            "subject_english": "SERLINGPA CHUKYI DRAKPA (?-?)"
+            "subject_english": "Serlingpa Chukyi Drakpa (?-?)"
         }
     ],
     "items": [],
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/bslab bya_personal advices/gser gling pa chos kyi grags pa_serlingpa chukyi drakpa (?-?)",
-            "timestamp": "2024-09-10T02:01:54.034783+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/GSER GLING PA CHOS KYI GRAGS PA_Serlingpa Chukyi Drakpa (?-?)",
+            "timestamp": "2024-11-20 05:20:23.339261+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:20:23.339261+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

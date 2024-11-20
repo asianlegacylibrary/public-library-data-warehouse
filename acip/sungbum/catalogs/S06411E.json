@@ -1,28 +1,28 @@
 {
     "name": "S06411E_BLA MCHOD BDE STONG DBYER MED MA DE'I 'PHO BA SPYI BSHAGS RNAMS KYI ZIN BRIS SKAL LDAN RE SKONG_'Fulfilling the Hopes of those with the Needed Goodness,' being Notes on the Practice of Transference, and a General Confession, relating to the +.TXT",
-    "path": "rgyud_secret teachings (tantra)/bla ma mchod pa_offering to lamas/'grel pa_commentaries",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/bla ma mchod pa_offering to lamas/'grel pa_commentaries/s06411e_bla mchod bde stong dbyer med ma de'i 'pho ba spyi bshags rnams kyi zin bris skal ldan re skong_'fulfilling the hopes of those with the needed goodness,' being notes on the practice of transference, and a general confession, relating to the +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAL-A",
-    "revision_id": "613f6656decc98d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/BLA MA MCHOD PA_OFFERING TO LAMAS/'GREL PA_COMMENTARIES",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/bla ma mchod pa_offering to lamas/'grel pa_commentaries/s06411e_bla mchod bde stong dbyer med ma de'i 'pho ba spyi bshags rnams kyi zin bris skal ldan re skong_'fulfilling the hopes of those with the needed goodness,' being notes on the practice of transference, and a general confession, relating to the +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABedw",
+    "revision_id": "625a49be679618d294473",
     "content_hash": "c29b0ef2d4416e5c2d61ba014637bfa8daa6722ef483d88ac4430589374b78e3",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:13:09.559180",
+    "server_modified": "2024-10-29 21:53:00",
+    "last_sync": "2024-11-19 21:12:30.846317",
     "size": 146962,
-    "meta_text": "‘Lama Practice of Indivisible Bliss and Voidness’_DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "meta_text": "('‘Lama Practice of Indivisible Bliss and Voidness’_DNGUL CHU DHARMA BHADRA (1772-1851)', 'rtf')",
     "cat_ref": "S06411E",
     "work_ref": "W.S06411E",
     "title_tib": "BLA MCHOD BDE STONG DBYER MED MA DE'I 'PHO BA SPYI BSHAGS RNAMS KYI ZIN BRIS SKAL LDAN RE SKONG",
-    "title_eng": "'Fulfilling the Hopes of those with the Needed Goodness,' being Notes on the Practice of Transference, and a General Confession, relating to the‘Lama Practice of Indivisible Bliss and Voidness’",
+    "title_eng": "'Fulfilling the Hopes of those with the Needed Goodness,' being Notes on the Practice of Transference, and a General Confession, relating to the('‘Lama Practice of Indivisible Bliss and Voidness’",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "256619765336",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/BLA MA MCHOD PA_OFFERING TO LAMAS/'GREL PA_COMMENTARIES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/BLA MA MCHOD PA/'GREL PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/OFFERING TO LAMAS/COMMENTARIES",
+            "_id": "192397078472",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BLA MA MCHOD PA_OFFERING TO LAMAS/'GREL PA_COMMENTARIES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/BLA MA MCHOD PA/'GREL PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/OFFERING TO LAMAS/COMMENTARIES",
             "subject_tibetan": "'GREL PA",
             "subject_english": "COMMENTARIES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/bla ma mchod pa_offering to lamas/'grel pa_commentaries",
-            "timestamp": "2024-09-10T02:13:09.593507+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BLA MA MCHOD PA_OFFERING TO LAMAS/'GREL PA_COMMENTARIES",
+            "timestamp": "2024-11-20 05:12:31.481362+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:12:31.481362+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,28 +1,28 @@
 {
     "name": "S00262A_'DUS PA'I RTZA RGYUD KYI GLENG GZHI'I YI GE BZHI BCU'I BSHAD PA RGYUD DON GSAL BAR BKOD PA 'DUS PA'I YI GE BZHI BCU_'A Clear Presentation of the Meaning of the Secret Book,' being an Explanation of the Forty Syllables of the Subject of the +.TXT",
-    "path": "rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/yi ge bzhi bcu_the 40 letters",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/yi ge bzhi bcu_the 40 letters/s00262a_'dus pa'i rtza rgyud kyi gleng gzhi'i yi ge bzhi bcu'i bshad pa rgyud don gsal bar bkod pa 'dus pa'i yi ge bzhi bcu_'a clear presentation of the meaning of the secret book,' being an explanation of the forty syllables of the subject of the +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAQ0A",
-    "revision_id": "613f665fcd6558d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/YI GE BZHI BCU_THE 40 LETTERS",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/yi ge bzhi bcu_the 40 letters/s00262a_'dus pa'i rtza rgyud kyi gleng gzhi'i yi ge bzhi bcu'i bshad pa rgyud don gsal bar bkod pa 'dus pa'i yi ge bzhi bcu_'a clear presentation of the meaning of the secret book,' being an explanation of the forty syllables of the subject of the +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABbQg",
+    "revision_id": "625a4948b67668d294473",
     "content_hash": "dbfb46379e3b868f459765c05f88aed06f1f7013de9529897851441013ff97a3",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:18:23.346044",
+    "server_modified": "2024-10-29 21:50:57",
+    "last_sync": "2024-11-19 21:07:13.091141",
     "size": 48605,
-    "meta_text": "Root Tantra for the Secret Collection (Guhyasamaja)_CO NE BLA MA GRAGS PA BSHAD SGRUB (1675-1748)",
+    "meta_text": "('Root Tantra for the Secret Collection (Guhyasamaja)_CO NE BLA MA GRAGS PA BSHAD SGRUB (1675-1748)', 'rtf')",
     "cat_ref": "S00262A",
     "work_ref": "W.S00262A",
     "title_tib": "'DUS PA'I RTZA RGYUD KYI GLENG GZHI'I YI GE BZHI BCU'I BSHAD PA RGYUD DON GSAL BAR BKOD PA 'DUS PA'I YI GE BZHI BCU",
-    "title_eng": "'A Clear Presentation of the Meaning of the Secret Book,' being an Explanation of the Forty Syllables of the Subject of theRoot Tantra for the Secret Collection (Guhyasamaja)",
+    "title_eng": "'A Clear Presentation of the Meaning of the Secret Book,' being an Explanation of the Forty Syllables of the Subject of the('Root Tantra for the Secret Collection (Guhyasamaja)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "CO NE BLA MA GRAGS PA BSHAD SGRUB",
     "subject": [
         {
-            "_id": "130220531235",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/YI GE BZHI BCU_THE 40 LETTERS",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/GSANG 'DUS/YI GE BZHI BCU",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/SECRET COLLECTION (GUHYASAMAJA)/THE 40 LETTERS",
+            "_id": "171803464616",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/YI GE BZHI BCU_THE 40 LETTERS",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/GSANG 'DUS/YI GE BZHI BCU",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/SECRET COLLECTION (GUHYASAMAJA)/THE 40 LETTERS",
             "subject_tibetan": "YI GE BZHI BCU",
             "subject_english": "THE 40 LETTERS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P1629"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/yi ge bzhi bcu_the 40 letters",
-            "timestamp": "2024-09-10T02:18:23.347810+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/YI GE BZHI BCU_THE 40 LETTERS",
+            "timestamp": "2024-11-20 05:07:13.097368+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:07:13.097368+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

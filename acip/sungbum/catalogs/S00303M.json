@@ -1,12 +1,12 @@
 {
     "name": "S00303M_DRANG BA DANG NGES PA'I DON RNAM PAR PHYE BA GSAL BAR BYED PA, SMAD CHA_Part Two of 'A Point of Entry into the Classical Commentary known as 'The Essence of Eloquence''_'JIGS MED DAM CHOS RGYA MTSO (1898-1946).TXT",
-    "path": "drang nges_art of interpretation/'jigs med dam chos rgya mtso_jigme damchu gyatso (1898-1946)",
-    "download_path": "/sungbum updated 4 26 23 bk/drang nges_art of interpretation/'jigs med dam chos rgya mtso_jigme damchu gyatso (1898-1946)/s00303m_drang ba dang nges pa'i don rnam par phye ba gsal bar byed pa, smad cha_part two of 'a point of entry into the classical commentary known as 'the essence of eloquence''_'jigs med dam chos rgya mtso (1898-1946).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAATQ",
-    "revision_id": "613f663b87b968d294473",
+    "path": "DRANG NGES_ART OF INTERPRETATION/'JIGS MED DAM CHOS RGYA MTSO_Jigme Damchu Gyatso (1898-1946)",
+    "download_path": "/sungbum updated 7 30 23 nl/drang nges_art of interpretation/'jigs med dam chos rgya mtso_jigme damchu gyatso (1898-1946)/s00303m_drang ba dang nges pa'i don rnam par phye ba gsal bar byed pa, smad cha_part two of 'a point of entry into the classical commentary known as 'the essence of eloquence''_'jigs med dam chos rgya mtso (1898-1946).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABR7A",
+    "revision_id": "625a4801cbd958d294473",
     "content_hash": "90adcc763e29ffe7310c804fa29463dd8463beb1ee3deabf4d84c33ddddece56",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:01:20.269133",
+    "server_modified": "2024-10-29 21:45:14",
+    "last_sync": "2024-11-19 20:52:49.657279",
     "size": 813606,
     "meta_text": null,
     "cat_ref": "S00303M",
@@ -19,12 +19,12 @@
     "author_simple": "'JIGS MED DAM CHOS RGYA MTSO",
     "subject": [
         {
-            "_id": "152235895428",
-            "subject_path": "SUNGBUM_SUNGBUM/DRANG NGES_ART OF INTERPRETATION/'JIGS MED DAM CHOS RGYA MTSO_JIGME DAMCHU GYATSO (1898-1946)",
-            "subject_path_tibetan": "SUNGBUM/DRANG NGES/'JIGS MED DAM CHOS RGYA MTSO",
-            "subject_path_english": "SUNGBUM/ART OF INTERPRETATION/JIGME DAMCHU GYATSO (1898-1946)",
+            "_id": "413493145186",
+            "subject_path": "GSUNG 'BUM_Sungbum/DRANG NGES_ART OF INTERPRETATION/'JIGS MED DAM CHOS RGYA MTSO_Jigme Damchu Gyatso (1898-1946)",
+            "subject_path_tibetan": "GSUNG 'BUM/DRANG NGES/'JIGS MED DAM CHOS RGYA MTSO",
+            "subject_path_english": "Sungbum/ART OF INTERPRETATION/Jigme Damchu Gyatso (1898-1946)",
             "subject_tibetan": "'JIGS MED DAM CHOS RGYA MTSO",
-            "subject_english": "JIGME DAMCHU GYATSO (1898-1946)"
+            "subject_english": "Jigme Damchu Gyatso (1898-1946)"
         }
     ],
     "items": [],
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P221"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "drang nges_art of interpretation/'jigs med dam chos rgya mtso_jigme damchu gyatso (1898-1946)",
-            "timestamp": "2024-09-10T02:01:20.279952+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DRANG NGES_ART OF INTERPRETATION/'JIGS MED DAM CHOS RGYA MTSO_Jigme Damchu Gyatso (1898-1946)",
+            "timestamp": "2024-11-20 04:52:49.660569+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:52:49.660569+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

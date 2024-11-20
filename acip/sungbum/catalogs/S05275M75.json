@@ -1,14 +1,14 @@
 {
     "name": "S05275M75_DKON MCHOG TSUL KHRIMS KYI ZHAL SNGA NAS BKA' STZAL SPRINGS PA'I LAN DU LAM GYI RIM PA MDO TZAM DU BSTAN PA_A Very Short Presentation of the Steps of the Path, Composed in Response to a Letter Dispatched by Konchok Tsultrim_RJE TZONG KHA P+.TXT",
-    "path": "lam rim_steps of the path/lam rim mdo tzam bstan pa_a very brief presentation of the steps of the path",
-    "download_path": "/sungbum updated 4 26 23 bk/lam rim_steps of the path/lam rim mdo tzam bstan pa_a very brief presentation of the steps of the path/s05275m75_dkon mchog tsul khrims kyi zhal snga nas bka' stzal springs pa'i lan du lam gyi rim pa mdo tzam du bstan pa_a very short presentation of the steps of the path, composed in response to a letter dispatched by konchok tsultrim_rje tzong kha p+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAG0w",
-    "revision_id": "613f66492f13d8d294473",
+    "path": "LAM RIM_STEPS OF THE PATH/LAM RIM MDO TZAM BSTAN PA_A VERY BRIEF PRESENTATION OF THE STEPS OF THE PATH",
+    "download_path": "/sungbum updated 7 30 23 nl/lam rim_steps of the path/lam rim mdo tzam bstan pa_a very brief presentation of the steps of the path/s05275m75_dkon mchog tsul khrims kyi zhal snga nas bka' stzal springs pa'i lan du lam gyi rim pa mdo tzam du bstan pa_a very short presentation of the steps of the path, composed in response to a letter dispatched by konchok tsultrim_rje tzong kha p+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABhVA",
+    "revision_id": "625a4a5aef8068d294473",
     "content_hash": "8fa73adb0a134ceedc97ad49c0556d31fcb993a8e2f6afadd2f95a71dd3cd396",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:07:56.638575",
+    "server_modified": "2024-10-29 21:55:44",
+    "last_sync": "2024-11-19 21:17:38.171436",
     "size": 28216,
-    "meta_text": "A BLO BZANG GRAGS PA (1357-1419)",
+    "meta_text": "('A BLO BZANG GRAGS PA (1357-1419)', 'rtf')",
     "cat_ref": "S05275M75",
     "work_ref": "W.S05275M75",
     "title_tib": "DKON MCHOG TSUL KHRIMS KYI ZHAL SNGA NAS BKA' STZAL SPRINGS PA'I LAN DU LAM GYI RIM PA MDO TZAM DU BSTAN PA",
@@ -19,10 +19,10 @@
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "229546766468",
-            "subject_path": "SUNGBUM_SUNGBUM/LAM RIM_STEPS OF THE PATH/LAM RIM MDO TZAM BSTAN PA_A VERY BRIEF PRESENTATION OF THE STEPS OF THE PATH",
-            "subject_path_tibetan": "SUNGBUM/LAM RIM/LAM RIM MDO TZAM BSTAN PA",
-            "subject_path_english": "SUNGBUM/STEPS OF THE PATH/A VERY BRIEF PRESENTATION OF THE STEPS OF THE PATH",
+            "_id": "182198579582",
+            "subject_path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/LAM RIM MDO TZAM BSTAN PA_A VERY BRIEF PRESENTATION OF THE STEPS OF THE PATH",
+            "subject_path_tibetan": "GSUNG 'BUM/LAM RIM/LAM RIM MDO TZAM BSTAN PA",
+            "subject_path_english": "Sungbum/STEPS OF THE PATH/A VERY BRIEF PRESENTATION OF THE STEPS OF THE PATH",
             "subject_tibetan": "LAM RIM MDO TZAM BSTAN PA",
             "subject_english": "A VERY BRIEF PRESENTATION OF THE STEPS OF THE PATH"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "lam rim_steps of the path/lam rim mdo tzam bstan pa_a very brief presentation of the steps of the path",
-            "timestamp": "2024-09-10T02:07:56.646201+00:00"
+            "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/LAM RIM MDO TZAM BSTAN PA_A VERY BRIEF PRESENTATION OF THE STEPS OF THE PATH",
+            "timestamp": "2024-11-20 05:17:38.177184+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:17:38.177184+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

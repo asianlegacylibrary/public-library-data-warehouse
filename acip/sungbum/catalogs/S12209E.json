@@ -1,28 +1,28 @@
 {
     "name": "S12209E_MTHU STOBS YONGS KYI BDAG PO DPAL MGON ZHAL BZHI PAR MCHOD GTOR 'BUL BA'I RIM PA BDUD SDE RAB 'JOMS_Total Destruction of the Forces of the Demons--A Description of the Steps for Offering a Torma Cake to the Lord of Every Powerful Spirit, our +.TXT",
-    "path": "rgyud_secret teachings (tantra)/mgon po_the protector (mahakala)/gtor ma_offering cake (bali)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/mgon po_the protector (mahakala)/gtor ma_offering cake (bali)/s12209e_mthu stobs yongs kyi bdag po dpal mgon zhal bzhi par mchod gtor 'bul ba'i rim pa bdud sde rab 'joms_total destruction of the forces of the demons--a description of the steps for offering a torma cake to the lord of every powerful spirit, our +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAImA",
-    "revision_id": "613f664dc42b48d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/MGON PO_THE PROTECTOR (MAHAKALA)/GTOR MA_OFFERING CAKE (BALI)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/mgon po_the protector (mahakala)/gtor ma_offering cake (bali)/s12209e_mthu stobs yongs kyi bdag po dpal mgon zhal bzhi par mchod gtor 'bul ba'i rim pa bdud sde rab 'joms_total destruction of the forces of the demons--a description of the steps for offering a torma cake to the lord of every powerful spirit, our +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABUQA",
+    "revision_id": "625a48615da6b8d294473",
     "content_hash": "e62ddf4e642965c5a2a88a3fb865121f40cba518b4bc9d9df5340d3dca8b8f67",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:09:35.155962",
+    "server_modified": "2024-10-29 21:46:54",
+    "last_sync": "2024-11-19 20:55:07.802522",
     "size": 40032,
-    "meta_text": "Glorious Savior, the Four-Faced One (Chaturmukha Shrinatha)_PAN CHEN BLA MA SKU PHRENG GSUM PA DPAL LDAN YE SHES (1738-1780)",
+    "meta_text": "('Glorious Savior, the Four-Faced One (Chaturmukha Shrinatha)_PAN CHEN BLA MA SKU PHRENG GSUM PA DPAL LDAN YE SHES (1738-1780)', 'rtf')",
     "cat_ref": "S12209E",
     "work_ref": "W.S12209E",
     "title_tib": "MTHU STOBS YONGS KYI BDAG PO DPAL MGON ZHAL BZHI PAR MCHOD GTOR 'BUL BA'I RIM PA BDUD SDE RAB 'JOMS",
-    "title_eng": "Total Destruction of the Forces of the Demons--A Description of the Steps for Offering a Torma Cake to the Lord of Every Powerful Spirit, ourGlorious Savior, the Four-Faced One (Chaturmukha Shrinatha)",
+    "title_eng": "Total Destruction of the Forces of the Demons--A Description of the Steps for Offering a Torma Cake to the Lord of Every Powerful Spirit, our('Glorious Savior, the Four-Faced One (Chaturmukha Shrinatha)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "PAn CHEN BLA MA SKU PHRENG GSUM PA DPAL LDAN YE SHES",
     "subject": [
         {
-            "_id": "205072367480",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/MGON PO_THE PROTECTOR (MAHAKALA)/GTOR MA_OFFERING CAKE (BALI)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/MGON PO/GTOR MA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/THE PROTECTOR (MAHAKALA)/OFFERING CAKE (BALI)",
+            "_id": "388475427730",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/MGON PO_THE PROTECTOR (MAHAKALA)/GTOR MA_OFFERING CAKE (BALI)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/MGON PO/GTOR MA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/THE PROTECTOR (MAHAKALA)/OFFERING CAKE (BALI)",
             "subject_tibetan": "GTOR MA",
             "subject_english": "OFFERING CAKE (BALI)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P168"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/mgon po_the protector (mahakala)/gtor ma_offering cake (bali)",
-            "timestamp": "2024-09-10T02:09:35.188998+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/MGON PO_THE PROTECTOR (MAHAKALA)/GTOR MA_OFFERING CAKE (BALI)",
+            "timestamp": "2024-11-20 04:55:07.809018+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:55:07.809018+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

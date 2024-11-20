@@ -1,28 +1,28 @@
 {
     "name": "S05608_DPAL 'KHOR LO SDOM PA DRIL BU LUGS KYI PHYI DKYIL LHA LNGA'I SGRUB THABS LO PAn ZHAL LUNG_\"Words of the Master Translators and Scholars,\" A Ritual for Reaching the Five Angels in the Outer Secret World of the Glorious Union of the Spheres +.TXT",
-    "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/sgrub thabs_ritual for reaching the angel (sadhana)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/sgrub thabs_ritual for reaching the angel (sadhana)/s05608_dpal 'khor lo sdom pa dril bu lugs kyi phyi dkyil lha lnga'i sgrub thabs lo pan zhal lung_\"words of the master translators and scholars,\" a ritual for reaching the five angels in the outer secret world of the glorious union of the spheres +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAPBw",
-    "revision_id": "613f665b611208d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/sgrub thabs_ritual for reaching the angel (sadhana)/s05608_dpal 'khor lo sdom pa dril bu lugs kyi phyi dkyil lha lnga'i sgrub thabs lo pan zhal lung_\"words of the master translators and scholars,\" a ritual for reaching the five angels in the outer secret world of the glorious union of the spheres +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABUag",
+    "revision_id": "625a48658ee2d8d294473",
     "content_hash": "15bbe205ffcc1099ba061c440b10d08962d62cee6f3891759b576c4e0f1a4b1d",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:16:24.260944",
+    "server_modified": "2024-10-29 21:46:59",
+    "last_sync": "2024-11-19 20:55:34.238293",
     "size": 46303,
-    "meta_text": null,
+    "meta_text": "('(Chakrasanvara) in the Tradition of Ghantapada_RGYAL BA NGAG DBANG BLO BZANG RGYA MTSO (1617-1682)', 'text')",
     "cat_ref": "S05608",
     "work_ref": "W.S05608",
     "title_tib": "DPAL 'KHOR LO SDOM PA DRIL BU LUGS KYI PHYI DKYIL LHA LNGA'I SGRUB THABS LO PAn ZHAL LUNG",
-    "title_eng": "\"Words of the Master Translators and Scholars,\" A Ritual for Reaching the Five Angels in the Outer Secret World of the Glorious Union of the Spheres",
+    "title_eng": "\"Words of the Master Translators and Scholars,\" A Ritual for Reaching the Five Angels in the Outer Secret World of the Glorious Union of the Spheres('(Chakrasanvara) in the Tradition of Ghantapada",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
-    "author_simple": "",
+    "author_simple": "RGYAL BA NGAG DBANG BLO BZANG RGYA MTSO",
     "subject": [
         {
-            "_id": "250473272738",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/BDE MCHOG/SGRUB THABS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "_id": "162847641065",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/BDE MCHOG/SGRUB THABS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
             "subject_tibetan": "SGRUB THABS",
             "subject_english": "RITUAL FOR REACHING THE ANGEL (SADHANA)"
         }
@@ -30,16 +30,24 @@
     "items": [],
     "author": [
         {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
+            "author_name": "RGYAL BA NGAG DBANG BLO BZANG RGYA MTSO",
+            "author_birth": "1617",
+            "author_death": "1682"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/sgrub thabs_ritual for reaching the angel (sadhana)",
-            "timestamp": "2024-09-10T02:16:24.276409+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "timestamp": "2024-11-20 04:55:39.058216+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:55:39.058216+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

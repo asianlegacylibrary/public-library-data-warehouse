@@ -1,12 +1,12 @@
 {
     "name": "S05977M2_RJE BTZUN BLA MA DAM PA SANGS RGYAS YE SHES LA BSTOD PA DNGOS GRUB KYI 'BYUNG GNAS_The 'Source of Attainments,' Words of Praise in Honor of that High and Holy Lama, Sangye Yeshe_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662).TXT",
-    "path": "bstod pa_eulogies (stotra)/sangs rgyas ye shes_sangye yeshe",
-    "download_path": "/sungbum updated 4 26 23 bk/bstod pa_eulogies (stotra)/sangs rgyas ye shes_sangye yeshe/s05977m2_rje btzun bla ma dam pa sangs rgyas ye shes la bstod pa dngos grub kyi 'byung gnas_the 'source of attainments,' words of praise in honor of that high and holy lama, sangye yeshe_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAFJA",
-    "revision_id": "613f664484a488d294473",
+    "path": "BSTOD PA_EULOGIES (STOTRA)/SANGS RGYAS YE SHES_SANGYE YESHE",
+    "download_path": "/sungbum updated 7 30 23 nl/bstod pa_eulogies (stotra)/sangs rgyas ye shes_sangye yeshe/s05977m2_rje btzun bla ma dam pa sangs rgyas ye shes la bstod pa dngos grub kyi 'byung gnas_the 'source of attainments,' words of praise in honor of that high and holy lama, sangye yeshe_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABQqw",
+    "revision_id": "625a47c81f8b98d294473",
     "content_hash": "3d19038e7b8c017e5ba47dfffac8efc6cee83837f40f4832fcccb92bff5d1a4d",
-    "server_modified": "2024-03-18T21:53:45",
-    "last_sync": "2024-09-09T19:06:17.790577",
+    "server_modified": "2024-10-29 21:44:14",
+    "last_sync": "2024-11-19 20:50:21.296556",
     "size": 3956,
     "meta_text": null,
     "cat_ref": "S05977M2",
@@ -19,10 +19,10 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "810046373257",
-            "subject_path": "SUNGBUM_SUNGBUM/BSTOD PA_EULOGIES (STOTRA)/SANGS RGYAS YE SHES_SANGYE YESHE",
-            "subject_path_tibetan": "SUNGBUM/BSTOD PA/SANGS RGYAS YE SHES",
-            "subject_path_english": "SUNGBUM/EULOGIES (STOTRA)/SANGYE YESHE",
+            "_id": "782291571154",
+            "subject_path": "GSUNG 'BUM_Sungbum/BSTOD PA_EULOGIES (STOTRA)/SANGS RGYAS YE SHES_SANGYE YESHE",
+            "subject_path_tibetan": "GSUNG 'BUM/BSTOD PA/SANGS RGYAS YE SHES",
+            "subject_path_english": "Sungbum/EULOGIES (STOTRA)/SANGYE YESHE",
             "subject_tibetan": "SANGS RGYAS YE SHES",
             "subject_english": "SANGYE YESHE"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "bstod pa_eulogies (stotra)/sangs rgyas ye shes_sangye yeshe",
-            "timestamp": "2024-09-10T02:06:17.801285+00:00"
+            "path": "GSUNG 'BUM_Sungbum/BSTOD PA_EULOGIES (STOTRA)/SANGS RGYAS YE SHES_SANGYE YESHE",
+            "timestamp": "2024-11-20 04:50:21.305472+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:50:21.305472+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

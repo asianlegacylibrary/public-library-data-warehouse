@@ -1,28 +1,28 @@
 {
     "name": "S05544E_RJE BTZUN THAMS CAD MKHYEN PA'I GSUNG 'BUM THOR BU LAS KHYAB BDAG RDO RJE 'CHANG CHEN PO'I NGO BO GRUB PA'I DBANG PHYUG RJE BTZUN BLA MA KUN DGA' RGYAL MTSAN DPAL BZANG PO'I NGO MTSAR BA'I RNAM THAR MDO TZAM DU BRJOD PA NOR BU'I THEM SKAS_The+.txt",
-    "path": "rnam thar_biographies/mtsan thog_by person's name/kun dga' rgyal mtsan (1432-1506)",
-    "download_path": "/sungbum updated 4 26 23 bk/rnam thar_biographies/mtsan thog_by person's name/kun dga' rgyal mtsan (1432-1506)/s05544e_rje btzun thams cad mkhyen pa'i gsung 'bum thor bu las khyab bdag rdo rje 'chang chen po'i ngo bo grub pa'i dbang phyug rje btzun bla ma kun dga' rgyal mtsan dpal bzang po'i ngo mtsar ba'i rnam thar mdo tzam du brjod pa nor bu'i them skas_the+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAWTQ",
-    "revision_id": "613f666d209698d294473",
+    "path": "RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/KUN DGA' RGYAL MTSAN (1432-1506)",
+    "download_path": "/sungbum updated 7 30 23 nl/rnam thar_biographies/mtsan thog_by person's name/kun dga' rgyal mtsan (1432-1506)/s05544e_rje btzun thams cad mkhyen pa'i gsung 'bum thor bu las khyab bdag rdo rje 'chang chen po'i ngo bo grub pa'i dbang phyug rje btzun bla ma kun dga' rgyal mtsan dpal bzang po'i ngo mtsar ba'i rnam thar mdo tzam du brjod pa nor bu'i them skas_the+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABgDQ",
+    "revision_id": "625a4a1203c4c8d294473",
     "content_hash": "a59bf6b3b09141ef6f4dbdabe263d95c6bf323488c27ca5f6da4b159792a8a2b",
-    "server_modified": "2024-03-18T21:54:28",
-    "last_sync": "2024-09-09T19:23:29.876873",
+    "server_modified": "2024-10-29 21:54:28",
+    "last_sync": "2024-11-19 21:15:32.622020",
     "size": 105731,
-    "meta_text": null,
+    "meta_text": "(\"Jewel Staircase, A Brief Account of the Extraordinary Life of Our Lord and Protector, the Good and Glorious Kunga Gyeltsen, who is One with the Lord Over the Secret World, the Great Holder of the Diamond_RGYAL BA DGE 'DUN RGYA MTSO (1476-1542)\", 'text')",
     "cat_ref": "S05544E",
     "work_ref": "W.S05544E",
     "title_tib": "RJE BTZUN THAMS CAD MKHYEN PA'I GSUNG 'BUM THOR BU LAS KHYAB BDAG RDO RJE 'CHANG CHEN PO'I NGO BO GRUB PA'I DBANG PHYUG RJE BTZUN BLA MA KUN DGA' RGYAL MTSAN DPAL BZANG PO'I NGO MTSAR BA'I RNAM THAR MDO TZAM DU BRJOD PA NOR BU'I THEM SKAS",
-    "title_eng": "The",
+    "title_eng": "The(\"Jewel Staircase, A Brief Account of the Extraordinary Life of Our Lord and Protector, the Good and Glorious Kunga Gyeltsen, who is One with the Lord Over the Secret World, the Great Holder of the Diamond",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
-    "author_simple": "",
+    "author_simple": "RGYAL BA DGE 'DUN RGYA MTSO",
     "subject": [
         {
-            "_id": "334376797554",
-            "subject_path": "SUNGBUM_SUNGBUM/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/KUN DGA' RGYAL MTSAN (1432-1506)",
-            "subject_path_tibetan": "SUNGBUM/RNAM THAR/MTSAN THOG/KUN DGA' RGYAL MTSAN (1432-1506)",
-            "subject_path_english": "SUNGBUM/BIOGRAPHIES/BY PERSON'S NAME",
+            "_id": "280837271764",
+            "subject_path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/KUN DGA' RGYAL MTSAN (1432-1506)",
+            "subject_path_tibetan": "GSUNG 'BUM/RNAM THAR/MTSAN THOG/KUN DGA' RGYAL MTSAN (1432-1506)",
+            "subject_path_english": "Sungbum/BIOGRAPHIES/BY PERSON'S NAME",
             "subject_tibetan": "KUN DGA' RGYAL MTSAN (1432-1506)",
             "subject_english": "BY PERSON'S NAME"
         }
@@ -30,16 +30,24 @@
     "items": [],
     "author": [
         {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
+            "author_name": "RGYAL BA DGE 'DUN RGYA MTSO",
+            "author_birth": "1476",
+            "author_death": "1542"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rnam thar_biographies/mtsan thog_by person's name/kun dga' rgyal mtsan (1432-1506)",
-            "timestamp": "2024-09-10T02:23:29.878755+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/KUN DGA' RGYAL MTSAN (1432-1506)",
+            "timestamp": "2024-11-20 05:15:32.625279+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:15:32.625279+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

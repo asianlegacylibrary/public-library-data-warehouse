@@ -1,28 +1,28 @@
 {
     "name": "S05388E_DUS KYI 'KHOR LO'I RDZOGS RIM SBYOR BA YAN LAG DRUG GI KHRID PUn+YA'I MING CAN GYIS RJE'I GSUNG BZHIN ZIN BRIS SU BKOD PA_A Teaching on the Six-Part Secret Practice for the Stage of Completion in the Secret Tradition of the Wheel of Time, se +.TXT",
-    "path": "rgyud_secret teachings (tantra)/dus 'khor_wheel of time (kalachakra)/rdzogs rim_completion stage (sampanna krama)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/dus 'khor_wheel of time (kalachakra)/rdzogs rim_completion stage (sampanna krama)/s05388e_dus kyi 'khor lo'i rdzogs rim sbyor ba yan lag drug gi khrid pun+ya'i ming can gyis rje'i gsung bzhin zin bris su bkod pa_a teaching on the six-part secret practice for the stage of completion in the secret tradition of the wheel of time, se +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAI1w",
-    "revision_id": "613f664dc42f38d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/RDZOGS RIM_COMPLETION STAGE (SAMPANNA KRAMA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/dus 'khor_wheel of time (kalachakra)/rdzogs rim_completion stage (sampanna krama)/s05388e_dus kyi 'khor lo'i rdzogs rim sbyor ba yan lag drug gi khrid pun+ya'i ming can gyis rje'i gsung bzhin zin bris su bkod pa_a teaching on the six-part secret practice for the stage of completion in the secret tradition of the wheel of time, se +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABaug",
+    "revision_id": "625a4934b8fbd8d294473",
     "content_hash": "585e84b5b503e9a11d11d107343b69a1ea16d3a9f34225597fa19fd2d0d9de60",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:09:49.513929",
+    "server_modified": "2024-10-29 21:50:36",
+    "last_sync": "2024-11-19 21:05:50.826157",
     "size": 74648,
-    "meta_text": "t down in the Form of Notes to a Teaching of Je Tsongkapa, by the One whose Name is Punya_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)",
+    "meta_text": "('t down in the Form of Notes to a Teaching of Je Tsongkapa, by the One whose Name is Punya_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)', 'rtf')",
     "cat_ref": "S05388E",
     "work_ref": "W.S05388E",
     "title_tib": "DUS KYI 'KHOR LO'I RDZOGS RIM SBYOR BA YAN LAG DRUG GI KHRID PUn+YA'I MING CAN GYIS RJE'I GSUNG BZHIN ZIN BRIS SU BKOD PA",
-    "title_eng": "A Teaching on the Six-Part Secret Practice for the Stage of Completion in the Secret Tradition of the Wheel of Time, set down in the Form of Notes to a Teaching of Je Tsongkapa, by the One whose Name is Punya",
+    "title_eng": "A Teaching on the Six-Part Secret Practice for the Stage of Completion in the Secret Tradition of the Wheel of Time, se('t down in the Form of Notes to a Teaching of Je Tsongkapa, by the One whose Name is Punya",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "195623005441",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/RDZOGS RIM_COMPLETION STAGE (SAMPANNA KRAMA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/DUS 'KHOR/RDZOGS RIM",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/WHEEL OF TIME (KALACHAKRA)/COMPLETION STAGE (SAMPANNA KRAMA)",
+            "_id": "299257803543",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/RDZOGS RIM_COMPLETION STAGE (SAMPANNA KRAMA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/DUS 'KHOR/RDZOGS RIM",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/WHEEL OF TIME (KALACHAKRA)/COMPLETION STAGE (SAMPANNA KRAMA)",
             "subject_tibetan": "RDZOGS RIM",
             "subject_english": "COMPLETION STAGE (SAMPANNA KRAMA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/dus 'khor_wheel of time (kalachakra)/rdzogs rim_completion stage (sampanna krama)",
-            "timestamp": "2024-09-10T02:09:49.524475+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/RDZOGS RIM_COMPLETION STAGE (SAMPANNA KRAMA)",
+            "timestamp": "2024-11-20 05:05:50.832229+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:05:50.832229+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

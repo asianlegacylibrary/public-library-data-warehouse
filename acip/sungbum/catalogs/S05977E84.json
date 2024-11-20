@@ -1,12 +1,12 @@
 {
     "name": "S05977E84_DPAL MGON STAG ZHON LA MCHOD GTOR 'BUL TSUL_A Method for Offering Torma Cakes to the Glorious Protector, Riding upon a Tiger_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662).TXT",
-    "path": "rgyud_secret teachings (tantra)/dpal mgon stag zhon_glorious protector riding upon a tiger (vyaghravahana)/gtor ma_offering cake (bali)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/dpal mgon stag zhon_glorious protector riding upon a tiger (vyaghravahana)/gtor ma_offering cake (bali)/s05977e84_dpal mgon stag zhon la mchod gtor 'bul tsul_a method for offering torma cakes to the glorious protector, riding upon a tiger_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAM9w",
-    "revision_id": "613f6656dedc88d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/DPAL MGON STAG ZHON_GLORIOUS PROTECTOR RIDING UPON A TIGER (VYAGHRAVAHANA)/GTOR MA_OFFERING CAKE (BALI)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/dpal mgon stag zhon_glorious protector riding upon a tiger (vyaghravahana)/gtor ma_offering cake (bali)/s05977e84_dpal mgon stag zhon la mchod gtor 'bul tsul_a method for offering torma cakes to the glorious protector, riding upon a tiger_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABXaA",
+    "revision_id": "625a48bec2d328d294473",
     "content_hash": "8b111b4bc59b55237b5d3fe8d38c4f40f4c68f4a8ab830df52fc7349775f9106",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:14:20.601720",
+    "server_modified": "2024-10-29 21:48:32",
+    "last_sync": "2024-11-19 21:00:42.028730",
     "size": 1704,
     "meta_text": null,
     "cat_ref": "S05977E84",
@@ -19,10 +19,10 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "297749007675",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/DPAL MGON STAG ZHON_GLORIOUS PROTECTOR RIDING UPON A TIGER (VYAGHRAVAHANA)/GTOR MA_OFFERING CAKE (BALI)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/DPAL MGON STAG ZHON/GTOR MA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GLORIOUS PROTECTOR RIDING UPON A TIGER (VYAGHRAVAHANA)/OFFERING CAKE (BALI)",
+            "_id": "238553447438",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DPAL MGON STAG ZHON_GLORIOUS PROTECTOR RIDING UPON A TIGER (VYAGHRAVAHANA)/GTOR MA_OFFERING CAKE (BALI)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/DPAL MGON STAG ZHON/GTOR MA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GLORIOUS PROTECTOR RIDING UPON A TIGER (VYAGHRAVAHANA)/OFFERING CAKE (BALI)",
             "subject_tibetan": "GTOR MA",
             "subject_english": "OFFERING CAKE (BALI)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/dpal mgon stag zhon_glorious protector riding upon a tiger (vyaghravahana)/gtor ma_offering cake (bali)",
-            "timestamp": "2024-09-10T02:14:20.607131+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DPAL MGON STAG ZHON_GLORIOUS PROTECTOR RIDING UPON A TIGER (VYAGHRAVAHANA)/GTOR MA_OFFERING CAKE (BALI)",
+            "timestamp": "2024-11-20 05:00:42.033909+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:00:42.033909+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

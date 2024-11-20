@@ -1,14 +1,14 @@
 {
     "name": "S05977E89_GNOD SBYIN RDO RJE BDUD 'DUL GYI BSKANG GSO'I RIM PA BAR CHAD KUN SEL_'Removing every Obstacle,' the Steps to a Rite of Fulfillment and Renewal in the Secret Teachings of the Spirit known as 'Diamond Defeater of Demons' (Vajramaradama)_PAn +.TXT",
-    "path": "rgyud_secret teachings (tantra)/rdo rje bdud 'dul_diamond defeater of demons (vajramaradama)/bskang gso_ritual of fulfillment and restoration",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/rdo rje bdud 'dul_diamond defeater of demons (vajramaradama)/bskang gso_ritual of fulfillment and restoration/s05977e89_gnod sbyin rdo rje bdud 'dul gyi bskang gso'i rim pa bar chad kun sel_'removing every obstacle,' the steps to a rite of fulfillment and renewal in the secret teachings of the spirit known as 'diamond defeater of demons' (vajramaradama)_pan +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAI8A",
-    "revision_id": "613f664dc430c8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE BDUD 'DUL_DIAMOND DEFEATER OF DEMONS (VAJRAMARADAMA)/BSKANG GSO_RITUAL OF FULFILLMENT AND RESTORATION",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/rdo rje bdud 'dul_diamond defeater of demons (vajramaradama)/bskang gso_ritual of fulfillment and restoration/s05977e89_gnod sbyin rdo rje bdud 'dul gyi bskang gso'i rim pa bar chad kun sel_'removing every obstacle,' the steps to a rite of fulfillment and renewal in the secret teachings of the spirit known as 'diamond defeater of demons' (vajramaradama)_pan +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABV4w",
+    "revision_id": "625a489773ca28d294473",
     "content_hash": "4bde9ef745d5f4a4cabe02dee1a1f8238594839bb18571e955c545e539c92f4b",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:09:57.218549",
+    "server_modified": "2024-10-29 21:47:51",
+    "last_sync": "2024-11-19 20:58:16.048658",
     "size": 10334,
-    "meta_text": "CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)",
+    "meta_text": "('CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)', 'rtf')",
     "cat_ref": "S05977E89",
     "work_ref": "W.S05977E89",
     "title_tib": "GNOD SBYIN RDO RJE BDUD 'DUL GYI BSKANG GSO'I RIM PA BAR CHAD KUN SEL",
@@ -19,10 +19,10 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "137706824206",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE BDUD 'DUL_DIAMOND DEFEATER OF DEMONS (VAJRAMARADAMA)/BSKANG GSO_RITUAL OF FULFILLMENT AND RESTORATION",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/RDO RJE BDUD 'DUL/BSKANG GSO",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/DIAMOND DEFEATER OF DEMONS (VAJRAMARADAMA)/RITUAL OF FULFILLMENT AND RESTORATION",
+            "_id": "331593781123",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE BDUD 'DUL_DIAMOND DEFEATER OF DEMONS (VAJRAMARADAMA)/BSKANG GSO_RITUAL OF FULFILLMENT AND RESTORATION",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/RDO RJE BDUD 'DUL/BSKANG GSO",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/DIAMOND DEFEATER OF DEMONS (VAJRAMARADAMA)/RITUAL OF FULFILLMENT AND RESTORATION",
             "subject_tibetan": "BSKANG GSO",
             "subject_english": "RITUAL OF FULFILLMENT AND RESTORATION"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/rdo rje bdud 'dul_diamond defeater of demons (vajramaradama)/bskang gso_ritual of fulfillment and restoration",
-            "timestamp": "2024-09-10T02:09:57.227302+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE BDUD 'DUL_DIAMOND DEFEATER OF DEMONS (VAJRAMARADAMA)/BSKANG GSO_RITUAL OF FULFILLMENT AND RESTORATION",
+            "timestamp": "2024-11-20 04:58:16.053683+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:58:16.053683+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,12 +1,12 @@
 {
     "name": "S12202E_GSUNG SNA TSOGS_Various Writings_PAN CHEN BLA MA SKU PHRENG GSUM PA DPAL LDAN YE SHES (1738-1780).TXT",
-    "path": "phran tsegs_miscellaneous/pan chen bla ma sku phreng gsum pa dpal ldan ye shes_panchen lama kutreng sumpa pelden yeshe (1738-1780)",
-    "download_path": "/sungbum updated 4 26 23 bk/phran tsegs_miscellaneous/pan chen bla ma sku phreng gsum pa dpal ldan ye shes_panchen lama kutreng sumpa pelden yeshe (1738-1780)/s12202e_gsung sna tsogs_various writings_pan chen bla ma sku phreng gsum pa dpal ldan ye shes (1738-1780).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAGHA",
-    "revision_id": "613f66492f0868d294473",
+    "path": "PHRAN TSEGS_MISCELLANEOUS/PAN CHEN BLA MA SKU PHRENG GSUM PA DPAL LDAN YE SHES_PANCHEN LAMA KUTRENG SUMPA PELDEN YESHE (1738-1780)",
+    "download_path": "/sungbum updated 7 30 23 nl/phran tsegs_miscellaneous/pan chen bla ma sku phreng gsum pa dpal ldan ye shes_panchen lama kutreng sumpa pelden yeshe (1738-1780)/s12202e_gsung sna tsogs_various writings_pan chen bla ma sku phreng gsum pa dpal ldan ye shes (1738-1780).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABh8g",
+    "revision_id": "625a4a77d10c68d294473",
     "content_hash": "ae7cc18676895188e4e9343aea50574ac392fdf70fede6378071a893d77385d2",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:07:15.250494",
+    "server_modified": "2024-10-29 21:56:15",
+    "last_sync": "2024-11-19 21:18:47.418240",
     "size": 37804,
     "meta_text": null,
     "cat_ref": "S12202E",
@@ -19,10 +19,10 @@
     "author_simple": "PAn CHEN BLA MA SKU PHRENG GSUM PA DPAL LDAN YE SHES",
     "subject": [
         {
-            "_id": "314751667420",
-            "subject_path": "SUNGBUM_SUNGBUM/PHRAN TSEGS_MISCELLANEOUS/PAN CHEN BLA MA SKU PHRENG GSUM PA DPAL LDAN YE SHES_PANCHEN LAMA KUTRENG SUMPA PELDEN YESHE (1738-1780)",
-            "subject_path_tibetan": "SUNGBUM/PHRAN TSEGS/PAN CHEN BLA MA SKU PHRENG GSUM PA DPAL LDAN YE SHES",
-            "subject_path_english": "SUNGBUM/MISCELLANEOUS/PANCHEN LAMA KUTRENG SUMPA PELDEN YESHE (1738-1780)",
+            "_id": "315532415934",
+            "subject_path": "GSUNG 'BUM_Sungbum/PHRAN TSEGS_MISCELLANEOUS/PAN CHEN BLA MA SKU PHRENG GSUM PA DPAL LDAN YE SHES_PANCHEN LAMA KUTRENG SUMPA PELDEN YESHE (1738-1780)",
+            "subject_path_tibetan": "GSUNG 'BUM/PHRAN TSEGS/PAN CHEN BLA MA SKU PHRENG GSUM PA DPAL LDAN YE SHES",
+            "subject_path_english": "Sungbum/MISCELLANEOUS/PANCHEN LAMA KUTRENG SUMPA PELDEN YESHE (1738-1780)",
             "subject_tibetan": "PAN CHEN BLA MA SKU PHRENG GSUM PA DPAL LDAN YE SHES",
             "subject_english": "PANCHEN LAMA KUTRENG SUMPA PELDEN YESHE (1738-1780)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P168"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "phran tsegs_miscellaneous/pan chen bla ma sku phreng gsum pa dpal ldan ye shes_panchen lama kutreng sumpa pelden yeshe (1738-1780)",
-            "timestamp": "2024-09-10T02:07:15.261292+00:00"
+            "path": "GSUNG 'BUM_Sungbum/PHRAN TSEGS_MISCELLANEOUS/PAN CHEN BLA MA SKU PHRENG GSUM PA DPAL LDAN YE SHES_PANCHEN LAMA KUTRENG SUMPA PELDEN YESHE (1738-1780)",
+            "timestamp": "2024-11-20 05:18:48.840113+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:18:48.840113+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

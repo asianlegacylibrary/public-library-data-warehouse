@@ -1,14 +1,14 @@
 {
     "name": "S05977EC8_SMAN BLA DRIL BSGRUB RIGS BSDUS DBANG KUN 'DUS PA'I SGRON ME_The Lamp Incorporating all the Empowerments of the Combined Families of the Secret Practice of the Medicine Buddha (Bhaisajyaguru)_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1+.TXT",
-    "path": "rgyud_secret teachings (tantra)/sman bla_medicine buddha (bhaishajyaguru)/dbang_empowerment (abhisheka)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/sman bla_medicine buddha (bhaishajyaguru)/dbang_empowerment (abhisheka)/s05977ec8_sman bla dril bsgrub rigs bsdus dbang kun 'dus pa'i sgron me_the lamp incorporating all the empowerments of the combined families of the secret practice of the medicine buddha (bhaisajyaguru)_pan chen blo bzang chos kyi rgyal mtsan (1565-1+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAALJQ",
-    "revision_id": "613f66527893d8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SMAN BLA_MEDICINE BUDDHA (BHAISHAJYAGURU)/DBANG_EMPOWERMENT (ABHISHEKA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/sman bla_medicine buddha (bhaishajyaguru)/dbang_empowerment (abhisheka)/s05977ec8_sman bla dril bsgrub rigs bsdus dbang kun 'dus pa'i sgron me_the lamp incorporating all the empowerments of the combined families of the secret practice of the medicine buddha (bhaisajyaguru)_pan chen blo bzang chos kyi rgyal mtsan (1565-1+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABXlA",
+    "revision_id": "625a48c3661338d294473",
     "content_hash": "f507c84e598e245ee6835b8e7817fbad67156f5b1879587aa44fcbe05199c8c7",
-    "server_modified": "2024-03-18T21:54:00",
-    "last_sync": "2024-09-09T19:12:18.875580",
+    "server_modified": "2024-10-29 21:48:37",
+    "last_sync": "2024-11-19 21:01:00.829349",
     "size": 5063,
-    "meta_text": "662)",
+    "meta_text": "('662)', 'rtf')",
     "cat_ref": "S05977EC8",
     "work_ref": "W.S05977EC8",
     "title_tib": "SMAN BLA DRIL BSGRUB RIGS BSDUS DBANG KUN 'DUS PA'I SGRON ME",
@@ -19,10 +19,10 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "247246455031",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SMAN BLA_MEDICINE BUDDHA (BHAISHAJYAGURU)/DBANG_EMPOWERMENT (ABHISHEKA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SMAN BLA/DBANG",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/MEDICINE BUDDHA (BHAISHAJYAGURU)/EMPOWERMENT (ABHISHEKA)",
+            "_id": "250201174139",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SMAN BLA_MEDICINE BUDDHA (BHAISHAJYAGURU)/DBANG_EMPOWERMENT (ABHISHEKA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SMAN BLA/DBANG",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/MEDICINE BUDDHA (BHAISHAJYAGURU)/EMPOWERMENT (ABHISHEKA)",
             "subject_tibetan": "DBANG",
             "subject_english": "EMPOWERMENT (ABHISHEKA)"
         }
@@ -31,18 +31,26 @@
     "author": [
         {
             "author_name": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
-            "author_birth": "1565",
-            "author_death": "1662",
+            "author_birth": null,
+            "author_death": null,
             "bdrc_id": "bdr:P719",
             "normalized_name": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/sman bla_medicine buddha (bhaishajyaguru)/dbang_empowerment (abhisheka)",
-            "timestamp": "2024-09-10T02:12:18.885023+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SMAN BLA_MEDICINE BUDDHA (BHAISHAJYAGURU)/DBANG_EMPOWERMENT (ABHISHEKA)",
+            "timestamp": "2024-11-20 05:01:00.834212+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:01:00.834212+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

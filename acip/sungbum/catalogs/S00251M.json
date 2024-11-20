@@ -1,12 +1,12 @@
 {
     "name": "S00251M_SMYUNG GNAS KYI PHAN YON DANG BKA' SLOB KHAG SOGS_Various Works on the Benefits of the Rite of Fasting, and Other Words of Advice_SKYABS RJE KHRI BYANG RIN PO CHE (1901-1981).TXT",
-    "path": "nyams len_personal practice/smyung gnas_practice of fasting",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/smyung gnas_practice of fasting/s00251m_smyung gnas kyi phan yon dang bka' slob khag sogs_various works on the benefits of the rite of fasting, and other words of advice_skyabs rje khri byang rin po che (1901-1981).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAAVg",
-    "revision_id": "613f663b87b9f8d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/SMYUNG GNAS_PRACTICE OF FASTING",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/smyung gnas_practice of fasting/s00251m_smyung gnas kyi phan yon dang bka' slob khag sogs_various works on the benefits of the rite of fasting, and other words of advice_skyabs rje khri byang rin po che (1901-1981).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABk-g",
+    "revision_id": "625a4adeebe7b8d294473",
     "content_hash": "e390c118c354b93de7d863b186dd1ab24cf715d90a1ebbebfaaca091c9192401",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:01:21.529166",
+    "server_modified": "2024-10-29 21:58:03",
+    "last_sync": "2024-11-19 21:24:13.358001",
     "size": 65768,
     "meta_text": null,
     "cat_ref": "S00251M",
@@ -19,10 +19,10 @@
     "author_simple": "SKYABS RJE KHRI BYANG RIN PO CHE",
     "subject": [
         {
-            "_id": "304033269237",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/SMYUNG GNAS_PRACTICE OF FASTING",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/SMYUNG GNAS",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/PRACTICE OF FASTING",
+            "_id": "256165762142",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SMYUNG GNAS_PRACTICE OF FASTING",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/SMYUNG GNAS",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/PRACTICE OF FASTING",
             "subject_tibetan": "SMYUNG GNAS",
             "subject_english": "PRACTICE OF FASTING"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P2596"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/smyung gnas_practice of fasting",
-            "timestamp": "2024-09-10T02:01:21.536122+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SMYUNG GNAS_PRACTICE OF FASTING",
+            "timestamp": "2024-11-20 05:24:13.362914+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:24:13.362914+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

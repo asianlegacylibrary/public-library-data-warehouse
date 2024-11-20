@@ -1,12 +1,12 @@
 {
     "name": "S5393E.TXT",
-    "path": "lam rim_steps of the path/lam rim 'bring_medium-length book on the steps of the path",
-    "download_path": "/sungbum updated 4 26 23 bk/lam rim_steps of the path/lam rim 'bring_medium-length book on the steps of the path/s5393e.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAGag",
-    "revision_id": "613f66492f0d48d294473",
+    "path": "LAM RIM_STEPS OF THE PATH/LAM RIM 'BRING_MEDIUM-LENGTH BOOK ON THE STEPS OF THE PATH",
+    "download_path": "/sungbum updated 7 30 23 nl/lam rim_steps of the path/lam rim 'bring_medium-length book on the steps of the path/s5393e.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABhXQ",
+    "revision_id": "625a4a5c5343c8d294473",
     "content_hash": "4fe1369552edf2505889cf4387a64b543301240cad5acad2c1b8574785f5c0cf",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:07:30.190758",
+    "server_modified": "2024-10-29 21:55:46",
+    "last_sync": "2024-11-19 21:17:52.277069",
     "size": 580865,
     "meta_text": null,
     "cat_ref": "S5393E",
@@ -19,10 +19,10 @@
     "author_simple": "",
     "subject": [
         {
-            "_id": "270092443061",
-            "subject_path": "SUNGBUM_SUNGBUM/LAM RIM_STEPS OF THE PATH/LAM RIM 'BRING_MEDIUM-LENGTH BOOK ON THE STEPS OF THE PATH",
-            "subject_path_tibetan": "SUNGBUM/LAM RIM/LAM RIM 'BRING",
-            "subject_path_english": "SUNGBUM/STEPS OF THE PATH/MEDIUM-LENGTH BOOK ON THE STEPS OF THE PATH",
+            "_id": "293628021363",
+            "subject_path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/LAM RIM 'BRING_MEDIUM-LENGTH BOOK ON THE STEPS OF THE PATH",
+            "subject_path_tibetan": "GSUNG 'BUM/LAM RIM/LAM RIM 'BRING",
+            "subject_path_english": "Sungbum/STEPS OF THE PATH/MEDIUM-LENGTH BOOK ON THE STEPS OF THE PATH",
             "subject_tibetan": "LAM RIM 'BRING",
             "subject_english": "MEDIUM-LENGTH BOOK ON THE STEPS OF THE PATH"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "lam rim_steps of the path/lam rim 'bring_medium-length book on the steps of the path",
-            "timestamp": "2024-09-10T02:07:30.196710+00:00"
+            "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/LAM RIM 'BRING_MEDIUM-LENGTH BOOK ON THE STEPS OF THE PATH",
+            "timestamp": "2024-11-20 05:17:52.280741+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:17:52.280741+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

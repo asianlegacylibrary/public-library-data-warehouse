@@ -1,28 +1,28 @@
 {
     "name": "S00278E_RJE BTZUN SGROL LJANG BLA MED LUGS NYE BRGYUD 'PHAGS MA'I ZHAL LUNG TZITTA MA nI LAS SGRUB THABS RKYANG PA'I 'DON SGRIGS ZUR DU BKOL BA_The Section on the Ritual for Reaching the Holy Angel, the Lady of Liberation (Tara), in Her Emerald Form+.TXT",
-    "path": "rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/sgrub thabs_ritual for reaching the angel (sadhana)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/sgrub thabs_ritual for reaching the angel (sadhana)/s00278e_rje btzun sgrol ljang bla med lugs nye brgyud 'phags ma'i zhal lung tzitta ma ni las sgrub thabs rkyang pa'i 'don sgrigs zur du bkol ba_the section on the ritual for reaching the holy angel, the lady of liberation (tara), in her emerald form+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAQQw",
-    "revision_id": "613f665fcd5c88d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/sgrub thabs_ritual for reaching the angel (sadhana)/s00278e_rje btzun sgrol ljang bla med lugs nye brgyud 'phags ma'i zhal lung tzitta ma ni las sgrub thabs rkyang pa'i 'don sgrigs zur du bkol ba_the section on the ritual for reaching the holy angel, the lady of liberation (tara), in her emerald form+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABYTg",
+    "revision_id": "625a48d95370e8d294473",
     "content_hash": "fc1fc6f243d20c8dd6308f56e69d931ecd1c0b04dbb8477825f3c0a20b97b735",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:17:42.837404",
+    "server_modified": "2024-10-29 21:49:00",
+    "last_sync": "2024-11-19 21:02:12.789419",
     "size": 27517,
-    "meta_text": ",Arranged for Easy Recitation and Excerpted from ‘The Wishing Jewel, Word of the Realized Woman,’_RJE BTZUN SGROL LJANG BLA MED LUGS NYE BRGYUD 'PHAGS MA'I ZHAL LUNG TZITTA MA nI LAS SGRUB THABS RKY (@-@)",
+    "meta_text": "(\",Arranged for Easy Recitation and Excerpted from ‘The Wishing Jewel, Word of the Realized Woman,’_RJE BTZUN SGROL LJANG BLA MED LUGS NYE BRGYUD 'PHAGS MA'I ZHAL LUNG TZITTA MA nI LAS SGRUB THABS RKY (@-@)\", 'rtf')",
     "cat_ref": "S00278E",
     "work_ref": "W.S00278E",
     "title_tib": "RJE BTZUN SGROL LJANG BLA MED LUGS NYE BRGYUD 'PHAGS MA'I ZHAL LUNG TZITTA MA nI LAS SGRUB THABS RKYANG PA'I 'DON SGRIGS ZUR DU BKOL BA",
-    "title_eng": "The Section on the Ritual for Reaching the Holy Angel, the Lady of Liberation (Tara), in Her Emerald Form,Arranged for Easy Recitation and Excerpted from ‘The Wishing Jewel, Word of the Realized Woman,’",
+    "title_eng": "The Section on the Ritual for Reaching the Holy Angel, the Lady of Liberation (Tara), in Her Emerald Form(\",Arranged for Easy Recitation and Excerpted from ‘The Wishing Jewel, Word of the Realized Woman,’",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "RJE BTZUN SGROL LJANG BLA MED LUGS NYE BRGYUD 'PHAGS MA'I ZHAL LUNG TZITTA MA nI LAS SGRUB THABS RKY",
     "subject": [
         {
-            "_id": "120364075893",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SGROL MA/SGRUB THABS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/LADY OF LIBERATION (TARA)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "_id": "185833050875",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SGROL MA/SGRUB THABS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/LADY OF LIBERATION (TARA)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
             "subject_tibetan": "SGRUB THABS",
             "subject_english": "RITUAL FOR REACHING THE ANGEL (SADHANA)"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/sgrub thabs_ritual for reaching the angel (sadhana)",
-            "timestamp": "2024-09-10T02:17:42.845347+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "timestamp": "2024-11-20 05:02:16.626073+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:02:16.626073+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

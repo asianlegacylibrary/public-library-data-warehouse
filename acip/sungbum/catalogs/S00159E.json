@@ -1,28 +1,28 @@
 {
     "name": "S00159E_DPAL 'KHOR LO SDOM PA L'U AI PA'I MDUN SKYED SGRUB MCHOD PHYI ROL MCHOD PA LAG MCHOD DANG BCAS PA'I NGAG 'DON BDE CHEN CHAR 'BEBS_The 'Shower of Great Bliss,' being a Ritual of Recitation for the Creation Before, the Offering for Attainment  +.TXT",
-    "path": "rgyud_secret teachings (tantra)/'khor lo sdom pa_union of the spheres (chakrasanvara)/mchod pa_offering",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/'khor lo sdom pa_union of the spheres (chakrasanvara)/mchod pa_offering/s00159e_dpal 'khor lo sdom pa l'u ai pa'i mdun skyed sgrub mchod phyi rol mchod pa lag mchod dang bcas pa'i ngag 'don bde chen char 'bebs_the 'shower of great bliss,' being a ritual of recitation for the creation before, the offering for attainment  +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAKrA",
-    "revision_id": "613f6652788c48d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/'KHOR LO SDOM PA_UNION OF THE SPHERES (CHAKRASANVARA)/MCHOD PA_OFFERING",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/'khor lo sdom pa_union of the spheres (chakrasanvara)/mchod pa_offering/s00159e_dpal 'khor lo sdom pa l'u ai pa'i mdun skyed sgrub mchod phyi rol mchod pa lag mchod dang bcas pa'i ngag 'don bde chen char 'bebs_the 'shower of great bliss,' being a ritual of recitation for the creation before, the offering for attainment  +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABW6w",
+    "revision_id": "625a48afceda18d294473",
     "content_hash": "3874e12e99ec820e908c299225bc640a0b1b12cfc99643ac6baa42d01279242b",
-    "server_modified": "2024-03-18T21:54:00",
-    "last_sync": "2024-09-09T19:11:46.249008",
+    "server_modified": "2024-10-29 21:48:16",
+    "last_sync": "2024-11-19 20:59:48.743437",
     "size": 68560,
-    "meta_text": ", the Outer Offering, and the Offering of the Hand in the Practice of the Glorious Union of the Spheres (Chakrasamvara), according to the Tradition of Luyipa_LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN (1642-1714)",
+    "meta_text": "(', the Outer Offering, and the Offering of the Hand in the Practice of the Glorious Union of the Spheres (Chakrasamvara), according to the Tradition of Luyipa_LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN (1642-1714)', 'rtf')",
     "cat_ref": "S00159E",
     "work_ref": "W.S00159E",
     "title_tib": "DPAL 'KHOR LO SDOM PA L'U AI PA'I MDUN SKYED SGRUB MCHOD PHYI ROL MCHOD PA LAG MCHOD DANG BCAS PA'I NGAG 'DON BDE CHEN CHAR 'BEBS",
-    "title_eng": "The 'Shower of Great Bliss,' being a Ritual of Recitation for the Creation Before, the Offering for Attainment, the Outer Offering, and the Offering of the Hand in the Practice of the Glorious Union of the Spheres (Chakrasamvara), according to the Tradition of Luyipa",
+    "title_eng": "The 'Shower of Great Bliss,' being a Ritual of Recitation for the Creation Before, the Offering for Attainment(', the Outer Offering, and the Offering of the Hand in the Practice of the Glorious Union of the Spheres (Chakrasamvara), according to the Tradition of Luyipa",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN",
     "subject": [
         {
-            "_id": "468952279885",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/'KHOR LO SDOM PA_UNION OF THE SPHERES (CHAKRASANVARA)/MCHOD PA_OFFERING",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/'KHOR LO SDOM PA/MCHOD PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/UNION OF THE SPHERES (CHAKRASANVARA)/OFFERING",
+            "_id": "318558116742",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'KHOR LO SDOM PA_UNION OF THE SPHERES (CHAKRASANVARA)/MCHOD PA_OFFERING",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/'KHOR LO SDOM PA/MCHOD PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/UNION OF THE SPHERES (CHAKRASANVARA)/OFFERING",
             "subject_tibetan": "MCHOD PA",
             "subject_english": "OFFERING"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P209"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/'khor lo sdom pa_union of the spheres (chakrasanvara)/mchod pa_offering",
-            "timestamp": "2024-09-10T02:11:46.262053+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'KHOR LO SDOM PA_UNION OF THE SPHERES (CHAKRASANVARA)/MCHOD PA_OFFERING",
+            "timestamp": "2024-11-20 04:59:50.683285+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:59:50.683285+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

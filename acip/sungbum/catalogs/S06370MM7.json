@@ -1,14 +1,14 @@
 {
     "name": "S06370MM7_SPYI LUGS NYIN ZHAG GCIG LA CHU TSOD DRUG CU DANG, CHOS RGYAL GYI DRUG CU PA'I SKABS DBYU GU RE BZHI YONG BA'I KHYAD PAR GANG YIN PA'I DRI LAN_Response to a Question on the Different Periods used to Measure the Length of a Day_DNGUL CHU DH +.TXT",
-    "path": "lo tho_calendrical materials/nyin thun_periods of the day",
-    "download_path": "/sungbum updated 4 26 23 bk/lo tho_calendrical materials/nyin thun_periods of the day/s06370mm7_spyi lugs nyin zhag gcig la chu tsod drug cu dang, chos rgyal gyi drug cu pa'i skabs dbyu gu re bzhi yong ba'i khyad par gang yin pa'i dri lan_response to a question on the different periods used to measure the length of a day_dngul chu dh +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAFEA",
-    "revision_id": "613f664484a348d294473",
+    "path": "LO THO_CALENDRICAL MATERIALS/NYIN THUN_PERIODS OF THE DAY",
+    "download_path": "/sungbum updated 7 30 23 nl/lo tho_calendrical materials/nyin thun_periods of the day/s06370mm7_spyi lugs nyin zhag gcig la chu tsod drug cu dang, chos rgyal gyi drug cu pa'i skabs dbyu gu re bzhi yong ba'i khyad par gang yin pa'i dri lan_response to a question on the different periods used to measure the length of a day_dngul chu dh +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABQyw",
+    "revision_id": "625a47caa00748d294473",
     "content_hash": "2d872fd4e5159fcf61089a679eee6e01f6ef9fee2a3726f21d155eca871112ee",
-    "server_modified": "2024-03-18T21:53:45",
-    "last_sync": "2024-09-09T19:06:14.895522",
+    "server_modified": "2024-10-29 21:44:16",
+    "last_sync": "2024-11-19 20:50:37.654872",
     "size": 1558,
-    "meta_text": "ARMA BHADRA (1772-1851)",
+    "meta_text": "('ARMA BHADRA (1772-1851)', 'rtf')",
     "cat_ref": "S06370MM7",
     "work_ref": "W.S06370MM7",
     "title_tib": "SPYI LUGS NYIN ZHAG GCIG LA CHU TSOD DRUG CU DANG, CHOS RGYAL GYI DRUG CU PA'I SKABS DBYU GU RE BZHI YONG BA'I KHYAD PAR GANG YIN PA'I DRI LAN",
@@ -19,18 +19,18 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "185164591642",
-            "subject_path": "SUNGBUM_SUNGBUM/LO THO_CALENDRICAL MATERIALS/NYIN THUN_PERIODS OF THE DAY",
-            "subject_path_tibetan": "SUNGBUM/LO THO/NYIN THUN",
-            "subject_path_english": "SUNGBUM/CALENDRICAL MATERIALS/PERIODS OF THE DAY",
+            "_id": "169916795613",
+            "subject_path": "GSUNG 'BUM_Sungbum/LO THO_CALENDRICAL MATERIALS/NYIN THUN_PERIODS OF THE DAY",
+            "subject_path_tibetan": "GSUNG 'BUM/LO THO/NYIN THUN",
+            "subject_path_english": "Sungbum/CALENDRICAL MATERIALS/PERIODS OF THE DAY",
             "subject_tibetan": "NYIN THUN",
             "subject_english": "PERIODS OF THE DAY"
         },
         {
-            "_id": "244831615226",
-            "subject_path": "SUNGBUM_SUNGBUM/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_tibetan": "SUNGBUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_english": "SUNGBUM/QUESTIONS AND ANSWERS",
+            "_id": "250883940513",
+            "subject_path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "GSUNG 'BUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "Sungbum/QUESTIONS AND ANSWERS",
             "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
             "subject_english": "QUESTIONS AND ANSWERS"
         }
@@ -46,15 +46,29 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "lo tho_calendrical materials/nyin thun_periods of the day",
-            "timestamp": "2024-09-10T02:06:14.901788+00:00"
+            "path": "GSUNG 'BUM_Sungbum/LO THO_CALENDRICAL MATERIALS/NYIN THUN_PERIODS OF THE DAY",
+            "timestamp": "2024-11-20 04:50:37.659159+00:00"
         },
         {
-            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
-            "timestamp": "2024-09-10T02:21:49.603776+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "timestamp": "2024-11-20 04:54:07.133711+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:50:37.659159+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T04:54:07.133711+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "text"
 }

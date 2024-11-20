@@ -1,12 +1,12 @@
 {
     "name": "S05545E_RJE BTZUN THAMS CAD MKHYEN PA'I GSUNG 'BUM THOR BU LAS BLA MA'I BSTOD TSOGS_A Collection of Praises of Lamas, from Assorted Writings found in the Collected Works of the Holy and Omniscient One_RGYAL BA DGE 'DUN RGYA MTSO (1476-1542).txt",
-    "path": "bstod pa_eulogies (stotra)/to be identified",
-    "download_path": "/sungbum updated 4 26 23 bk/bstod pa_eulogies (stotra)/to be identified/s05545e_rje btzun thams cad mkhyen pa'i gsung 'bum thor bu las bla ma'i bstod tsogs_a collection of praises of lamas, from assorted writings found in the collected works of the holy and omniscient one_rgyal ba dge 'dun rgya mtso (1476-1542).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAFOA",
-    "revision_id": "613f664484a5c8d294473",
+    "path": "BSTOD PA_EULOGIES (STOTRA)/TO BE IDENTIFIED",
+    "download_path": "/sungbum updated 7 30 23 nl/bstod pa_eulogies (stotra)/to be identified/s05545e_rje btzun thams cad mkhyen pa'i gsung 'bum thor bu las bla ma'i bstod tsogs_a collection of praises of lamas, from assorted writings found in the collected works of the holy and omniscient one_rgyal ba dge 'dun rgya mtso (1476-1542).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABQiA",
+    "revision_id": "625a47c438c9c8d294473",
     "content_hash": "50552c661f83b6bd93162d604ce19251dd353cfdc795a80bb4327cc0fd2f492e",
-    "server_modified": "2024-03-18T21:53:45",
-    "last_sync": "2024-09-09T19:06:23.534700",
+    "server_modified": "2024-10-29 21:44:09",
+    "last_sync": "2024-11-19 20:49:58.824579",
     "size": 189404,
     "meta_text": null,
     "cat_ref": "S05545E",
@@ -19,10 +19,10 @@
     "author_simple": "RGYAL BA DGE 'DUN RGYA MTSO",
     "subject": [
         {
-            "_id": "152386107902",
-            "subject_path": "SUNGBUM_SUNGBUM/BSTOD PA_EULOGIES (STOTRA)/TO BE IDENTIFIED",
-            "subject_path_tibetan": "SUNGBUM/BSTOD PA/TO BE IDENTIFIED",
-            "subject_path_english": "SUNGBUM/EULOGIES (STOTRA)",
+            "_id": "110331015698",
+            "subject_path": "GSUNG 'BUM_Sungbum/BSTOD PA_EULOGIES (STOTRA)/TO BE IDENTIFIED",
+            "subject_path_tibetan": "GSUNG 'BUM/BSTOD PA/TO BE IDENTIFIED",
+            "subject_path_english": "Sungbum/EULOGIES (STOTRA)",
             "subject_tibetan": "TO BE IDENTIFIED",
             "subject_english": "EULOGIES (STOTRA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P84"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "bstod pa_eulogies (stotra)/to be identified",
-            "timestamp": "2024-09-10T02:06:23.602327+00:00"
+            "path": "GSUNG 'BUM_Sungbum/BSTOD PA_EULOGIES (STOTRA)/TO BE IDENTIFIED",
+            "timestamp": "2024-11-20 04:49:59.753724+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:49:59.753724+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

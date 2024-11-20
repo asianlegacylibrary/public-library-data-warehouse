@@ -1,12 +1,12 @@
 {
     "name": "S19155_THEG GSUM 'PHAGS PA'I RTOGS PA RNAM PAR 'BYED PA'I RAB  TU BYED PA LUNG RIGS GSAL BKOD.txt",
-    "path": "phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/dge 'dun nyi shu_the 20 permutations/red mda' ba gzhon nu blo gros (1349-1412)",
-    "download_path": "/sungbum updated 4 26 23 bk/phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/dge 'dun nyi shu_the 20 permutations/red mda' ba gzhon nu blo gros (1349-1412)/s19155_theg gsum 'phags pa'i rtogs pa rnam par 'byed pa'i rab  tu byed pa lung rigs gsal bkod.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAVkA",
-    "revision_id": "613f666d208ac8d294473",
+    "path": "PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/DGE 'DUN NYI SHU_THE 20 PERMUTATIONS/RED MDA' BA GZHON NU BLO GROS (1349-1412)",
+    "download_path": "/sungbum updated 7 30 23 nl/phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/dge 'dun nyi shu_the 20 permutations/red mda' ba gzhon nu blo gros (1349-1412)/s19155_theg gsum 'phags pa'i rtogs pa rnam par 'byed pa'i rab  tu byed pa lung rigs gsal bkod.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABPlg",
+    "revision_id": "625a479ea0dbd8d294473",
     "content_hash": "390e54f563dc584757675ccf5c4eab5ed4f4eef0fc240769c4c5c56eb98066e5",
-    "server_modified": "2024-03-18T21:54:28",
-    "last_sync": "2024-09-09T19:22:48.534178",
+    "server_modified": "2024-10-29 21:43:30",
+    "last_sync": "2024-11-19 20:48:11.757863",
     "size": 32068,
     "meta_text": null,
     "cat_ref": "S19155",
@@ -19,10 +19,10 @@
     "author_simple": "",
     "subject": [
         {
-            "_id": "192643976992",
-            "subject_path": "SUNGBUM_SUNGBUM/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/DGE 'DUN NYI SHU_THE 20 PERMUTATIONS/RED MDA' BA GZHON NU BLO GROS (1349-1412)",
-            "subject_path_tibetan": "SUNGBUM/PHAR PHYIN/DGE 'DUN NYI SHU/RED MDA' BA GZHON NU BLO GROS (1349-1412)",
-            "subject_path_english": "SUNGBUM/PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/THE 20 PERMUTATIONS",
+            "_id": "175358927747",
+            "subject_path": "GSUNG 'BUM_Sungbum/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/DGE 'DUN NYI SHU_THE 20 PERMUTATIONS/RED MDA' BA GZHON NU BLO GROS (1349-1412)",
+            "subject_path_tibetan": "GSUNG 'BUM/PHAR PHYIN/DGE 'DUN NYI SHU/RED MDA' BA GZHON NU BLO GROS (1349-1412)",
+            "subject_path_english": "Sungbum/PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/THE 20 PERMUTATIONS",
             "subject_tibetan": "RED MDA' BA GZHON NU BLO GROS (1349-1412)",
             "subject_english": "THE 20 PERMUTATIONS"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/dge 'dun nyi shu_the 20 permutations/red mda' ba gzhon nu blo gros (1349-1412)",
-            "timestamp": "2024-09-10T02:22:48.536372+00:00"
+            "path": "GSUNG 'BUM_Sungbum/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/DGE 'DUN NYI SHU_THE 20 PERMUTATIONS/RED MDA' BA GZHON NU BLO GROS (1349-1412)",
+            "timestamp": "2024-11-20 04:48:11.763539+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:48:11.763539+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

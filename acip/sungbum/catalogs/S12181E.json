@@ -1,14 +1,14 @@
 {
     "name": "S12181E_THUGS RJE CHEN PO RGYAL BA RGYA MTSO LHA DGU'I ZHI RGYAS KYI SBYIN SREG GI CHO GA_A Ritual for the Peaceful and Prosperous Forms of the Fire Offering to the Nine Angels of the One of Great Compassion, the Ocean of the Victors (Jinasagara)_PA+.TXT",
-    "path": "rgyud_secret teachings (tantra)/spyan ras gzigs_loving eyes (avalokiteshvara)/rgyal ba rgya mtso_ocean of the victors (jinasagara)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyan ras gzigs_loving eyes (avalokiteshvara)/rgyal ba rgya mtso_ocean of the victors (jinasagara)/s12181e_thugs rje chen po rgyal ba rgya mtso lha dgu'i zhi rgyas kyi sbyin sreg gi cho ga_a ritual for the peaceful and prosperous forms of the fire offering to the nine angels of the one of great compassion, the ocean of the victors (jinasagara)_pa+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAHWA",
-    "revision_id": "613f66492f1c28d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYAN RAS GZIGS_LOVING EYES (AVALOKITESHVARA)/RGYAL BA RGYA MTSO_OCEAN OF THE VICTORS (JINASAGARA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyan ras gzigs_loving eyes (avalokiteshvara)/rgyal ba rgya mtso_ocean of the victors (jinasagara)/s12181e_thugs rje chen po rgyal ba rgya mtso lha dgu'i zhi rgyas kyi sbyin sreg gi cho ga_a ritual for the peaceful and prosperous forms of the fire offering to the nine angels of the one of great compassion, the ocean of the victors (jinasagara)_pa+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABcgQ",
+    "revision_id": "625a497b246488d294473",
     "content_hash": "456663a0d3e83e9835c2697051ed5695ba260e345ba67cd876e09937a5e60445",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:08:26.247667",
+    "server_modified": "2024-10-29 21:51:50",
+    "last_sync": "2024-11-19 21:09:04.008968",
     "size": 33486,
-    "meta_text": "N CHEN BLA MA SKU PHRENG GNYIS PA BLO BZANG YE SHES (1663-1737)",
+    "meta_text": "('N CHEN BLA MA SKU PHRENG GNYIS PA BLO BZANG YE SHES (1663-1737)', 'rtf')",
     "cat_ref": "S12181E",
     "work_ref": "W.S12181E",
     "title_tib": "THUGS RJE CHEN PO RGYAL BA RGYA MTSO LHA DGU'I ZHI RGYAS KYI SBYIN SREG GI CHO GA",
@@ -19,10 +19,10 @@
     "author_simple": "PAn CHEN BLA MA SKU PHRENG GNYIS PA BLO BZANG YE SHES",
     "subject": [
         {
-            "_id": "196176052550",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYAN RAS GZIGS_LOVING EYES (AVALOKITESHVARA)/RGYAL BA RGYA MTSO_OCEAN OF THE VICTORS (JINASAGARA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYAN RAS GZIGS/RGYAL BA RGYA MTSO",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/LOVING EYES (AVALOKITESHVARA)/OCEAN OF THE VICTORS (JINASAGARA)",
+            "_id": "239423963413",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYAN RAS GZIGS_LOVING EYES (AVALOKITESHVARA)/RGYAL BA RGYA MTSO_OCEAN OF THE VICTORS (JINASAGARA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYAN RAS GZIGS/RGYAL BA RGYA MTSO",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/LOVING EYES (AVALOKITESHVARA)/OCEAN OF THE VICTORS (JINASAGARA)",
             "subject_tibetan": "RGYAL BA RGYA MTSO",
             "subject_english": "OCEAN OF THE VICTORS (JINASAGARA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P106"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyan ras gzigs_loving eyes (avalokiteshvara)/rgyal ba rgya mtso_ocean of the victors (jinasagara)",
-            "timestamp": "2024-09-10T02:08:26.261126+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYAN RAS GZIGS_LOVING EYES (AVALOKITESHVARA)/RGYAL BA RGYA MTSO_OCEAN OF THE VICTORS (JINASAGARA)",
+            "timestamp": "2024-11-20 05:09:04.729680+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:09:04.729680+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

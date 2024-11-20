@@ -1,14 +1,14 @@
 {
     "name": "S05275M59_BYANG CHUB LAM GYI RIM PA'I NYAMS LEN GYI RNAM GZHAG MDOR BSDUS TE BRJED BYANG DU BYAS PA_A Brief Presentation of the Practice of the Steps of the Path to Buddhahood, composed in the Form of Notes_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-+.TXT",
-    "path": "lam rim_steps of the path/lam rim bsdus don_a short summary of the steps of the path",
-    "download_path": "/sungbum updated 4 26 23 bk/lam rim_steps of the path/lam rim bsdus don_a short summary of the steps of the path/s05275m59_byang chub lam gyi rim pa'i nyams len gyi rnam gzhag mdor bsdus te brjed byang du byas pa_a brief presentation of the practice of the steps of the path to buddhahood, composed in the form of notes_rje tzong kha pa blo bzang grags pa (1357-+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAGnA",
-    "revision_id": "613f66492f1068d294473",
+    "path": "LAM RIM_STEPS OF THE PATH/LAM RIM BSDUS DON_A SHORT SUMMARY OF THE STEPS OF THE PATH",
+    "download_path": "/sungbum updated 7 30 23 nl/lam rim_steps of the path/lam rim bsdus don_a short summary of the steps of the path/s05275m59_byang chub lam gyi rim pa'i nyams len gyi rnam gzhag mdor bsdus te brjed byang du byas pa_a brief presentation of the practice of the steps of the path to buddhahood, composed in the form of notes_rje tzong kha pa blo bzang grags pa (1357-+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABhog",
+    "revision_id": "625a4a6511f748d294473",
     "content_hash": "f8790dbf2b49877c2738fe857f0b9540715a70ac0620583650c522c7d559c9c9",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:07:41.893781",
+    "server_modified": "2024-10-29 21:55:55",
+    "last_sync": "2024-11-19 21:18:07.146547",
     "size": 8019,
-    "meta_text": "1419)",
+    "meta_text": "('1419)', 'rtf')",
     "cat_ref": "S05275M59",
     "work_ref": "W.S05275M59",
     "title_tib": "BYANG CHUB LAM GYI RIM PA'I NYAMS LEN GYI RNAM GZHAG MDOR BSDUS TE BRJED BYANG DU BYAS PA",
@@ -19,10 +19,10 @@
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "970289754987",
-            "subject_path": "SUNGBUM_SUNGBUM/LAM RIM_STEPS OF THE PATH/LAM RIM BSDUS DON_A SHORT SUMMARY OF THE STEPS OF THE PATH",
-            "subject_path_tibetan": "SUNGBUM/LAM RIM/LAM RIM BSDUS DON",
-            "subject_path_english": "SUNGBUM/STEPS OF THE PATH/A SHORT SUMMARY OF THE STEPS OF THE PATH",
+            "_id": "338228636890",
+            "subject_path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/LAM RIM BSDUS DON_A SHORT SUMMARY OF THE STEPS OF THE PATH",
+            "subject_path_tibetan": "GSUNG 'BUM/LAM RIM/LAM RIM BSDUS DON",
+            "subject_path_english": "Sungbum/STEPS OF THE PATH/A SHORT SUMMARY OF THE STEPS OF THE PATH",
             "subject_tibetan": "LAM RIM BSDUS DON",
             "subject_english": "A SHORT SUMMARY OF THE STEPS OF THE PATH"
         }
@@ -31,18 +31,26 @@
     "author": [
         {
             "author_name": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
-            "author_birth": "1357",
-            "author_death": "1419",
+            "author_birth": null,
+            "author_death": null,
             "bdrc_id": "bdr:P64",
             "normalized_name": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "lam rim_steps of the path/lam rim bsdus don_a short summary of the steps of the path",
-            "timestamp": "2024-09-10T02:07:41.909330+00:00"
+            "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/LAM RIM BSDUS DON_A SHORT SUMMARY OF THE STEPS OF THE PATH",
+            "timestamp": "2024-11-20 05:18:07.157750+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:18:07.157750+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

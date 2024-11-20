@@ -1,12 +1,12 @@
 {
     "name": "S12150E_KUN GZHI'I MTHA' DPYOD CHOS RJE NGAG DBANG DANG LDAN GYIS MDZAD PA_A Dialectical Analysis of Foundation Consciousness, composed by that Lord of the Dharma, Ngawang Pelden_CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN (1806-@).TXT",
-    "path": "sems tzam_mind-only school (chittamatra)/kun gzhi'i rnam par shes (alaya vijnana)_foundation consciousness/chos rje khal kha ngag dbang dpal ldan_chuje kalka ngawang pelden (1806-?)",
-    "download_path": "/sungbum updated 4 26 23 bk/sems tzam_mind-only school (chittamatra)/kun gzhi'i rnam par shes (alaya vijnana)_foundation consciousness/chos rje khal kha ngag dbang dpal ldan_chuje kalka ngawang pelden (1806-?)/s12150e_kun gzhi'i mtha' dpyod chos rje ngag dbang dang ldan gyis mdzad pa_a dialectical analysis of foundation consciousness, composed by that lord of the dharma, ngawang pelden_chos rje khal kha ngag dbang dpal ldan (1806-@).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAXcg",
-    "revision_id": "613f666d20a8e8d294473",
+    "path": "SEMS TZAM_MIND-ONLY SCHOOL (CHITTAMATRA)/KUN GZHI'I RNAM PAR SHES (ALAYA VIJNANA)_FOUNDATION CONSCIOUSNESS/CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN_CHUJE KALKA NGAWANG PELDEN (1806-?)",
+    "download_path": "/sungbum updated 7 30 23 nl/sems tzam_mind-only school (chittamatra)/kun gzhi'i rnam par shes (alaya vijnana)_foundation consciousness/chos rje khal kha ngag dbang dpal ldan_chuje kalka ngawang pelden (1806-?)/s12150e_kun gzhi'i mtha' dpyod chos rje ngag dbang dang ldan gyis mdzad pa_a dialectical analysis of foundation consciousness, composed by that lord of the dharma, ngawang pelden_chos rje khal kha ngag dbang dpal ldan (1806-@).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABPqA",
+    "revision_id": "625a47a14cbfc8d294473",
     "content_hash": "6def0c3b52fc19e9fa1e259b75355e219fd4fac7b50ab0909d195536238c0c2b",
-    "server_modified": "2024-03-18T21:54:28",
-    "last_sync": "2024-09-09T19:24:45.281943",
+    "server_modified": "2024-10-29 21:43:33",
+    "last_sync": "2024-11-19 20:48:22.735528",
     "size": 48882,
     "meta_text": null,
     "cat_ref": "S12150E",
@@ -19,10 +19,10 @@
     "author_simple": "CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN",
     "subject": [
         {
-            "_id": "130669759352",
-            "subject_path": "SUNGBUM_SUNGBUM/SEMS TZAM_MIND-ONLY SCHOOL (CHITTAMATRA)/KUN GZHI'I RNAM PAR SHES (ALAYA VIJNANA)_FOUNDATION CONSCIOUSNESS/CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN_CHUJE KALKA NGAWANG PELDEN (1806-?)",
-            "subject_path_tibetan": "SUNGBUM/SEMS TZAM/KUN GZHI'I RNAM PAR SHES (ALAYA VIJNANA)/CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN",
-            "subject_path_english": "SUNGBUM/MIND-ONLY SCHOOL (CHITTAMATRA)/FOUNDATION CONSCIOUSNESS/CHUJE KALKA NGAWANG PELDEN (1806-?)",
+            "_id": "312127571300",
+            "subject_path": "GSUNG 'BUM_Sungbum/SEMS TZAM_MIND-ONLY SCHOOL (CHITTAMATRA)/KUN GZHI'I RNAM PAR SHES (ALAYA VIJNANA)_FOUNDATION CONSCIOUSNESS/CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN_CHUJE KALKA NGAWANG PELDEN (1806-?)",
+            "subject_path_tibetan": "GSUNG 'BUM/SEMS TZAM/KUN GZHI'I RNAM PAR SHES (ALAYA VIJNANA)/CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN",
+            "subject_path_english": "Sungbum/MIND-ONLY SCHOOL (CHITTAMATRA)/FOUNDATION CONSCIOUSNESS/CHUJE KALKA NGAWANG PELDEN (1806-?)",
             "subject_tibetan": "CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN",
             "subject_english": "CHUJE KALKA NGAWANG PELDEN (1806-?)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P272"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "sems tzam_mind-only school (chittamatra)/kun gzhi'i rnam par shes (alaya vijnana)_foundation consciousness/chos rje khal kha ngag dbang dpal ldan_chuje kalka ngawang pelden (1806-?)",
-            "timestamp": "2024-09-10T02:24:45.288245+00:00"
+            "path": "GSUNG 'BUM_Sungbum/SEMS TZAM_MIND-ONLY SCHOOL (CHITTAMATRA)/KUN GZHI'I RNAM PAR SHES (ALAYA VIJNANA)_FOUNDATION CONSCIOUSNESS/CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN_CHUJE KALKA NGAWANG PELDEN (1806-?)",
+            "timestamp": "2024-11-20 04:48:22.740773+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:48:22.740773+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

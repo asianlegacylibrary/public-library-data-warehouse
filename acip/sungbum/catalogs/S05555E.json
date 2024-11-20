@@ -1,28 +1,28 @@
 {
     "name": "S05555E_RJE BTZUN THAMS CAD MKHYEN PA'I GSUNG 'BUM THOR BU LAS GRUB CHEN DRIL BU LUGS KYI BDE MCHOG LUS DKYIL GYI BSKYED RIM_Creation Stage Practice for the Secret World of the Body in the System of Highest Bliss (Sanvara), According to the Tradition+.txt",
-    "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/lus dkyil_secret world of the body",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/lus dkyil_secret world of the body/s05555e_rje btzun thams cad mkhyen pa'i gsung 'bum thor bu las grub chen dril bu lugs kyi bde mchog lus dkyil gyi bskyed rim_creation stage practice for the secret world of the body in the system of highest bliss (sanvara), according to the tradition+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAPag",
-    "revision_id": "613f665b611838d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/LUS DKYIL_SECRET WORLD OF THE BODY",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/lus dkyil_secret world of the body/s05555e_rje btzun thams cad mkhyen pa'i gsung 'bum thor bu las grub chen dril bu lugs kyi bde mchog lus dkyil gyi bskyed rim_creation stage practice for the secret world of the body in the system of highest bliss (sanvara), according to the tradition+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABUpA",
+    "revision_id": "625a486bf477e8d294473",
     "content_hash": "be06a3edc8e197302f6dbe4dd8ebdda9eca84bacd4816960c933652d1044409d",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:16:53.054441",
+    "server_modified": "2024-10-29 21:47:05",
+    "last_sync": "2024-11-19 20:55:56.108171",
     "size": 74125,
-    "meta_text": null,
+    "meta_text": "(\"of the Great Sage Gantapada, from Assorted Writings found in the Collected Works of the Holy and Omniscient One_RGYAL BA DGE 'DUN RGYA MTSO (1476-1542)\", 'text')",
     "cat_ref": "S05555E",
     "work_ref": "W.S05555E",
     "title_tib": "RJE BTZUN THAMS CAD MKHYEN PA'I GSUNG 'BUM THOR BU LAS GRUB CHEN DRIL BU LUGS KYI BDE MCHOG LUS DKYIL GYI BSKYED RIM",
-    "title_eng": "Creation Stage Practice for the Secret World of the Body in the System of Highest Bliss (Sanvara), According to the Tradition",
+    "title_eng": "Creation Stage Practice for the Secret World of the Body in the System of Highest Bliss (Sanvara), According to the Tradition(\"of the Great Sage Gantapada, from Assorted Writings found in the Collected Works of the Holy and Omniscient One",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
-    "author_simple": "",
+    "author_simple": "RGYAL BA DGE 'DUN RGYA MTSO",
     "subject": [
         {
-            "_id": "936814418873",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/LUS DKYIL_SECRET WORLD OF THE BODY",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/BDE MCHOG/LUS DKYIL",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/SECRET WORLD OF THE BODY",
+            "_id": "934495339853",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/LUS DKYIL_SECRET WORLD OF THE BODY",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/BDE MCHOG/LUS DKYIL",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/SECRET WORLD OF THE BODY",
             "subject_tibetan": "LUS DKYIL",
             "subject_english": "SECRET WORLD OF THE BODY"
         }
@@ -30,16 +30,24 @@
     "items": [],
     "author": [
         {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
+            "author_name": "RGYAL BA DGE 'DUN RGYA MTSO",
+            "author_birth": "1476",
+            "author_death": "1542"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/lus dkyil_secret world of the body",
-            "timestamp": "2024-09-10T02:16:53.068075+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/LUS DKYIL_SECRET WORLD OF THE BODY",
+            "timestamp": "2024-11-20 04:55:59.794354+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:55:59.794354+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

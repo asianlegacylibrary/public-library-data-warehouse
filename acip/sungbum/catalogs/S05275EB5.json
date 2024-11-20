@@ -1,12 +1,12 @@
 {
     "name": "S05275EB5_DPAL MO 'JA' MTSON MA'I BYON LEGS DANG BZHUGS GSOL MCHOD BSTOD DANG BCAS PA_The Words of Welcome and Request to Reside, along with an Offering of Praise, for the Glorious Lady of the Rainbow_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419).TXT",
-    "path": "rgyud_secret teachings (tantra)/'ja' tson ma_lady of the rainbow/mchod pa_offering",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/'ja' tson ma_lady of the rainbow/mchod pa_offering/s05275eb5_dpal mo 'ja' mtson ma'i byon legs dang bzhugs gsol mchod bstod dang bcas pa_the words of welcome and request to reside, along with an offering of praise, for the glorious lady of the rainbow_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAM8Q",
-    "revision_id": "613f6656dedc28d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/'JA' TSON MA_LADY OF THE RAINBOW/MCHOD PA_OFFERING",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/'ja' tson ma_lady of the rainbow/mchod pa_offering/s05275eb5_dpal mo 'ja' mtson ma'i byon legs dang bzhugs gsol mchod bstod dang bcas pa_the words of welcome and request to reside, along with an offering of praise, for the glorious lady of the rainbow_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABXPA",
+    "revision_id": "625a48b9ec1fe8d294473",
     "content_hash": "d12fcf36ec6c1aca14d4b463b0a2fa336cb85fde174bdb5833990558fede129e",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:14:19.881275",
+    "server_modified": "2024-10-29 21:48:27",
+    "last_sync": "2024-11-19 21:00:25.023143",
     "size": 1341,
     "meta_text": null,
     "cat_ref": "S05275EB5",
@@ -19,10 +19,10 @@
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "181718976572",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/'JA' TSON MA_LADY OF THE RAINBOW/MCHOD PA_OFFERING",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/'JA' TSON MA/MCHOD PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/LADY OF THE RAINBOW/OFFERING",
+            "_id": "245326504497",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JA' TSON MA_LADY OF THE RAINBOW/MCHOD PA_OFFERING",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/'JA' TSON MA/MCHOD PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/LADY OF THE RAINBOW/OFFERING",
             "subject_tibetan": "MCHOD PA",
             "subject_english": "OFFERING"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/'ja' tson ma_lady of the rainbow/mchod pa_offering",
-            "timestamp": "2024-09-10T02:14:19.889170+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JA' TSON MA_LADY OF THE RAINBOW/MCHOD PA_OFFERING",
+            "timestamp": "2024-11-20 05:00:25.027451+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:00:25.027451+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

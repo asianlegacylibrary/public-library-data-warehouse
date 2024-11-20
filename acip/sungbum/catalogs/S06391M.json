@@ -1,12 +1,12 @@
 {
     "name": "S06391M_MNGON BRJOD KYI BSTAN BCOS RGYA MTSO'I CHU THIGS_A Drop from the Great Ocean of the Classical Commentaries on Poetics_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "snyan ngag_classical poetry/spyi_general treatments",
-    "download_path": "/sungbum updated 4 26 23 bk/snyan ngag_classical poetry/spyi_general treatments/s06391m_mngon brjod kyi bstan bcos rgya mtso'i chu thigs_a drop from the great ocean of the classical commentaries on poetics_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAADqA",
-    "revision_id": "613f663ffc89b8d294473",
+    "path": "SNYAN NGAG_CLASSICAL POETRY/SPYI_GENERAL TREATMENTS",
+    "download_path": "/sungbum updated 7 30 23 nl/snyan ngag_classical poetry/spyi_general treatments/s06391m_mngon brjod kyi bstan bcos rgya mtso'i chu thigs_a drop from the great ocean of the classical commentaries on poetics_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABOTg",
+    "revision_id": "625a476b20e7e8d294473",
     "content_hash": "474602f75878df5ef48ff64fd24653a53b26ebb601ced7582e203f97160ba678",
-    "server_modified": "2024-03-18T21:53:40",
-    "last_sync": "2024-09-09T19:04:57.946340",
+    "server_modified": "2024-10-29 21:42:36",
+    "last_sync": "2024-11-19 20:45:58.754877",
     "size": 35794,
     "meta_text": null,
     "cat_ref": "S06391M",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "798348890179",
-            "subject_path": "SUNGBUM_SUNGBUM/SNYAN NGAG_CLASSICAL POETRY/SPYI_GENERAL TREATMENTS",
-            "subject_path_tibetan": "SUNGBUM/SNYAN NGAG/SPYI",
-            "subject_path_english": "SUNGBUM/CLASSICAL POETRY/GENERAL TREATMENTS",
+            "_id": "557516791813",
+            "subject_path": "GSUNG 'BUM_Sungbum/SNYAN NGAG_CLASSICAL POETRY/SPYI_GENERAL TREATMENTS",
+            "subject_path_tibetan": "GSUNG 'BUM/SNYAN NGAG/SPYI",
+            "subject_path_english": "Sungbum/CLASSICAL POETRY/GENERAL TREATMENTS",
             "subject_tibetan": "SPYI",
             "subject_english": "GENERAL TREATMENTS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "snyan ngag_classical poetry/spyi_general treatments",
-            "timestamp": "2024-09-10T02:04:57.958429+00:00"
+            "path": "GSUNG 'BUM_Sungbum/SNYAN NGAG_CLASSICAL POETRY/SPYI_GENERAL TREATMENTS",
+            "timestamp": "2024-11-20 04:46:00.149922+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:46:00.149922+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

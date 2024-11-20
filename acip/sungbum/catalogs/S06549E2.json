@@ -1,12 +1,12 @@
 {
     "name": "S06549E2_ BKA' 'GYUR GSAN YIG BSDUS PA_An Abbreviated Record of How the Oral Transmission of the Kangyur Canon was Received_KLONG RDOL BLA MA NGAG DBANG BLO BZANG (1719-1794).TXT",
-    "path": "gsan yig_records of teachings received/klong rdol bla ma ngag dbang blo bzang_longdol lama ngawang lobsang (1719-1794)",
-    "download_path": "/sungbum updated 4 26 23 bk/gsan yig_records of teachings received/klong rdol bla ma ngag dbang blo bzang_longdol lama ngawang lobsang (1719-1794)/s06549e2_ bka' 'gyur gsan yig bsdus pa_an abbreviated record of how the oral transmission of the kangyur canon was received_klong rdol bla ma ngag dbang blo bzang (1719-1794).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAASDg",
-    "revision_id": "613f6664743318d294473",
+    "path": "GSAN YIG_RECORDS OF TEACHINGS RECEIVED/KLONG RDOL BLA MA NGAG DBANG BLO BZANG_LONGDOL LAMA NGAWANG LOBSANG (1719-1794)",
+    "download_path": "/sungbum updated 7 30 23 nl/gsan yig_records of teachings received/klong rdol bla ma ngag dbang blo bzang_longdol lama ngawang lobsang (1719-1794)/s06549e2_ bka' 'gyur gsan yig bsdus pa_an abbreviated record of how the oral transmission of the kangyur canon was received_klong rdol bla ma ngag dbang blo bzang (1719-1794).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABfaQ",
+    "revision_id": "625a49ec2c36c8d294473",
     "content_hash": "29e82447862a2d6d0a7d7b1686b6a9b6ed4ec1d7023f40e32a3ee72298264603",
-    "server_modified": "2024-03-18T21:54:19",
-    "last_sync": "2024-09-09T19:19:37.771269",
+    "server_modified": "2024-10-29 21:53:48",
+    "last_sync": "2024-11-19 21:14:10.105456",
     "size": 2058,
     "meta_text": null,
     "cat_ref": "S06549E2",
@@ -19,10 +19,10 @@
     "author_simple": "KLONG RDOL BLA MA NGAG DBANG BLO BZANG",
     "subject": [
         {
-            "_id": "324899620192",
-            "subject_path": "SUNGBUM_SUNGBUM/GSAN YIG_RECORDS OF TEACHINGS RECEIVED/KLONG RDOL BLA MA NGAG DBANG BLO BZANG_LONGDOL LAMA NGAWANG LOBSANG (1719-1794)",
-            "subject_path_tibetan": "SUNGBUM/GSAN YIG/KLONG RDOL BLA MA NGAG DBANG BLO BZANG",
-            "subject_path_english": "SUNGBUM/RECORDS OF TEACHINGS RECEIVED/LONGDOL LAMA NGAWANG LOBSANG (1719-1794)",
+            "_id": "215780785854",
+            "subject_path": "GSUNG 'BUM_Sungbum/GSAN YIG_RECORDS OF TEACHINGS RECEIVED/KLONG RDOL BLA MA NGAG DBANG BLO BZANG_LONGDOL LAMA NGAWANG LOBSANG (1719-1794)",
+            "subject_path_tibetan": "GSUNG 'BUM/GSAN YIG/KLONG RDOL BLA MA NGAG DBANG BLO BZANG",
+            "subject_path_english": "Sungbum/RECORDS OF TEACHINGS RECEIVED/LONGDOL LAMA NGAWANG LOBSANG (1719-1794)",
             "subject_tibetan": "KLONG RDOL BLA MA NGAG DBANG BLO BZANG",
             "subject_english": "LONGDOL LAMA NGAWANG LOBSANG (1719-1794)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P22"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "gsan yig_records of teachings received/klong rdol bla ma ngag dbang blo bzang_longdol lama ngawang lobsang (1719-1794)",
-            "timestamp": "2024-09-10T02:19:37.774935+00:00"
+            "path": "GSUNG 'BUM_Sungbum/GSAN YIG_RECORDS OF TEACHINGS RECEIVED/KLONG RDOL BLA MA NGAG DBANG BLO BZANG_LONGDOL LAMA NGAWANG LOBSANG (1719-1794)",
+            "timestamp": "2024-11-20 05:14:11.433960+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:14:11.433960+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

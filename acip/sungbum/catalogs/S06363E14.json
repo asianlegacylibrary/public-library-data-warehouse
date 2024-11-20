@@ -1,12 +1,12 @@
 {
     "name": "S06363E14_THUGS RJE CHEN RGYAL BA RGYA MTSO'I SGRUB THABS_Method for Reaching the One of Great Compassion (Mahakaruna), Ocean of Victorious Buddhas_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/spyan ras gzigs_loving eyes (avalokiteshvara)/sgrub thabs_ritual for reaching the angel (sadhana)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyan ras gzigs_loving eyes (avalokiteshvara)/sgrub thabs_ritual for reaching the angel (sadhana)/s06363e14_thugs rje chen rgyal ba rgya mtso'i sgrub thabs_method for reaching the one of great compassion (mahakaruna), ocean of victorious buddhas_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAHWw",
-    "revision_id": "613f66492f1c58d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYAN RAS GZIGS_LOVING EYES (AVALOKITESHVARA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyan ras gzigs_loving eyes (avalokiteshvara)/sgrub thabs_ritual for reaching the angel (sadhana)/s06363e14_thugs rje chen rgyal ba rgya mtso'i sgrub thabs_method for reaching the one of great compassion (mahakaruna), ocean of victorious buddhas_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABckQ",
+    "revision_id": "625a497c741f78d294473",
     "content_hash": "9bed8d9ba34455b9c11d40f5f8e8194589da0a14de11be5b0d3328ff80d2ecdb",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:08:27.609054",
+    "server_modified": "2024-10-29 21:51:51",
+    "last_sync": "2024-11-19 21:09:11.144299",
     "size": 2367,
     "meta_text": null,
     "cat_ref": "S06363E14",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "180301198971",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYAN RAS GZIGS_LOVING EYES (AVALOKITESHVARA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYAN RAS GZIGS/SGRUB THABS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/LOVING EYES (AVALOKITESHVARA)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "_id": "329552458963",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYAN RAS GZIGS_LOVING EYES (AVALOKITESHVARA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYAN RAS GZIGS/SGRUB THABS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/LOVING EYES (AVALOKITESHVARA)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
             "subject_tibetan": "SGRUB THABS",
             "subject_english": "RITUAL FOR REACHING THE ANGEL (SADHANA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyan ras gzigs_loving eyes (avalokiteshvara)/sgrub thabs_ritual for reaching the angel (sadhana)",
-            "timestamp": "2024-09-10T02:08:27.660292+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYAN RAS GZIGS_LOVING EYES (AVALOKITESHVARA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "timestamp": "2024-11-20 05:09:11.152122+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:09:11.152122+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

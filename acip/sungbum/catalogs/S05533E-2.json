@@ -1,12 +1,12 @@
 {
     "name": "S05533E-2_LHA SNA TSOGS BSTOD PA SOGS_A Collection of Praises of Various Deities, and Other Miscellaneous Works_RGYAL BA DGE 'DUN GRUB (1391-1474).txt",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/bstod pa_eulogies (stotra)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/bstod pa_eulogies (stotra)/s05533e-2_lha sna tsogs bstod pa sogs_a collection of praises of various deities, and other miscellaneous works_rgyal ba dge 'dun grub (1391-1474).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAOTA",
-    "revision_id": "613f665b610658d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BSTOD PA_EULOGIES (STOTRA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyi_general treatments/bstod pa_eulogies (stotra)/s05533e-2_lha sna tsogs bstod pa sogs_a collection of praises of various deities, and other miscellaneous works_rgyal ba dge 'dun grub (1391-1474).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABZAg",
+    "revision_id": "625a48f1911278d294473",
     "content_hash": "1064e7e1c79e977a56a83b8f2b0e292a34e92b758a6fa555db5cc75adc87941a",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:15:39.701979",
+    "server_modified": "2024-10-29 21:49:25",
+    "last_sync": "2024-11-19 21:03:28.469536",
     "size": 19704,
     "meta_text": null,
     "cat_ref": "S05533E-2",
@@ -19,10 +19,10 @@
     "author_simple": "RGYAL BA DGE 'DUN GRUB",
     "subject": [
         {
-            "_id": "671919600125",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BSTOD PA_EULOGIES (STOTRA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/BSTOD PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/EULOGIES (STOTRA)",
+            "_id": "288060017189",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BSTOD PA_EULOGIES (STOTRA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/BSTOD PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/EULOGIES (STOTRA)",
             "subject_tibetan": "BSTOD PA",
             "subject_english": "EULOGIES (STOTRA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P80"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/bstod pa_eulogies (stotra)",
-            "timestamp": "2024-09-10T02:15:39.704347+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BSTOD PA_EULOGIES (STOTRA)",
+            "timestamp": "2024-11-20 05:03:28.474554+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:03:28.474554+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

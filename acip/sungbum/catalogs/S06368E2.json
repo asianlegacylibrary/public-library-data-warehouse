@@ -1,12 +1,12 @@
 {
     "name": "S06368E2_GCOD GYI GDAMS PA THAR 'DOD KYI DED DPON GYI SA BCAD_Outline of 'The Ship-Captain for those Seeking Freedom,' a Book of Advice on the Practice of Termination_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/gcod_termination",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/gcod_termination/s06368e2_gcod gyi gdams pa thar 'dod kyi ded dpon gyi sa bcad_outline of 'the ship-captain for those seeking freedom,' a book of advice on the practice of termination_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAOEQ",
-    "revision_id": "613f665b6102a8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/GCOD_TERMINATION",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyi_general treatments/gcod_termination/s06368e2_gcod gyi gdams pa thar 'dod kyi ded dpon gyi sa bcad_outline of 'the ship-captain for those seeking freedom,' a book of advice on the practice of termination_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABaCA",
+    "revision_id": "625a4919a03c18d294473",
     "content_hash": "4ba6127e8988de6577b8134c43d5f3d0f0f299199233a1bb1fb893a37e789d41",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:15:25.128258",
+    "server_modified": "2024-10-29 21:50:07",
+    "last_sync": "2024-11-19 21:04:58.238986",
     "size": 1038,
     "meta_text": null,
     "cat_ref": "S06368E2",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "280048529832",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/GCOD_TERMINATION",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/GCOD",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/TERMINATION",
+            "_id": "175797458871",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/GCOD_TERMINATION",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/GCOD",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/TERMINATION",
             "subject_tibetan": "GCOD",
             "subject_english": "TERMINATION"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/gcod_termination",
-            "timestamp": "2024-09-10T02:15:25.134501+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/GCOD_TERMINATION",
+            "timestamp": "2024-11-20 05:04:58.250061+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:04:58.250061+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

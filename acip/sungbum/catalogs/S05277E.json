@@ -1,12 +1,12 @@
 {
     "name": "S05277E_YE SHES MKHA' 'GRO'I SGRUB THABS, 'PHO BA, BKA' BSGO BCAS_A Ritual for Reaching the Angel of Wisdom, including a Practice for Transference and Commandment_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419).TXT",
-    "path": "rgyud_secret teachings (tantra)/ye shes mkha' 'gro_angel of wisdom (jnanadakini)/sgrub thabs_ritual for reaching the angel (sadhana)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/ye shes mkha' 'gro_angel of wisdom (jnanadakini)/sgrub thabs_ritual for reaching the angel (sadhana)/s05277e_ye shes mkha' 'gro'i sgrub thabs, 'pho ba, bka' bsgo bcas_a ritual for reaching the angel of wisdom, including a practice for transference and commandment_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAHfg",
-    "revision_id": "613f66492f1e88d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/YE SHES MKHA' 'GRO_ANGEL OF WISDOM (JNANADAKINI)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/ye shes mkha' 'gro_angel of wisdom (jnanadakini)/sgrub thabs_ritual for reaching the angel (sadhana)/s05277e_ye shes mkha' 'gro'i sgrub thabs, 'pho ba, bka' bsgo bcas_a ritual for reaching the angel of wisdom, including a practice for transference and commandment_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABdIg",
+    "revision_id": "625a498aa5d098d294473",
     "content_hash": "cc108e2ff1f5e5e7bd9174a20e09e21ca09c12b49a89b56fa940417884127bc3",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:08:34.051476",
+    "server_modified": "2024-10-29 21:52:06",
+    "last_sync": "2024-11-19 21:10:18.991582",
     "size": 7877,
     "meta_text": null,
     "cat_ref": "S05277E",
@@ -19,10 +19,10 @@
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "330997306470",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/YE SHES MKHA' 'GRO_ANGEL OF WISDOM (JNANADAKINI)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/YE SHES MKHA' 'GRO/SGRUB THABS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/ANGEL OF WISDOM (JNANADAKINI)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "_id": "145173709635",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/YE SHES MKHA' 'GRO_ANGEL OF WISDOM (JNANADAKINI)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/YE SHES MKHA' 'GRO/SGRUB THABS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/ANGEL OF WISDOM (JNANADAKINI)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
             "subject_tibetan": "SGRUB THABS",
             "subject_english": "RITUAL FOR REACHING THE ANGEL (SADHANA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/ye shes mkha' 'gro_angel of wisdom (jnanadakini)/sgrub thabs_ritual for reaching the angel (sadhana)",
-            "timestamp": "2024-09-10T02:08:34.058638+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/YE SHES MKHA' 'GRO_ANGEL OF WISDOM (JNANADAKINI)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "timestamp": "2024-11-20 05:10:18.996862+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:10:18.996862+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

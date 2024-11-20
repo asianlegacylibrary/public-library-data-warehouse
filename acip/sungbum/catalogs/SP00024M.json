@@ -1,14 +1,14 @@
 {
     "name": "SP00024M_RDOR GCOD KYI 'GREL PA THAR PAR BGROD PA'I LAM BZANG ZAB DON GSAL BA'I NYI MA_'The Sun that Illuminates the Profound Meaning of the Excellent Path for Travelling to Freedom,' a Commentary on 'The Diamond Cutter Sutra'_CO NE BLA MA GRAGS PA +.TXT",
-    "path": "dbu ma_middle-way philosophy (madhyamika prasangika school)/rdo rje gcod pa'i 'grel pa_commentaries on the diamond cutter sutra",
-    "download_path": "/sungbum updated 4 26 23 bk/dbu ma_middle-way philosophy (madhyamika prasangika school)/rdo rje gcod pa'i 'grel pa_commentaries on the diamond cutter sutra/sp00024m_rdor gcod kyi 'grel pa thar par bgrod pa'i lam bzang zab don gsal ba'i nyi ma_'the sun that illuminates the profound meaning of the excellent path for travelling to freedom,' a commentary on 'the diamond cutter sutra'_co ne bla ma grags pa +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAD2g",
-    "revision_id": "613f663ffc8cd8d294473",
+    "path": "DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/RDO RJE GCOD PA'I 'GREL PA_COMMENTARIES ON THE DIAMOND CUTTER SUTRA",
+    "download_path": "/sungbum updated 7 30 23 nl/dbu ma_middle-way philosophy (madhyamika prasangika school)/rdo rje gcod pa'i 'grel pa_commentaries on the diamond cutter sutra/sp00024m_rdor gcod kyi 'grel pa thar par bgrod pa'i lam bzang zab don gsal ba'i nyi ma_'the sun that illuminates the profound meaning of the excellent path for travelling to freedom,' a commentary on 'the diamond cutter sutra'_co ne bla ma grags pa +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABRfA",
+    "revision_id": "625a47e9c5c518d294473",
     "content_hash": "1e29e0215406c22ced0a5be4faaf1954e9b466fbe9197095a608e391c03cd998",
-    "server_modified": "2024-03-18T21:53:40",
-    "last_sync": "2024-09-09T19:05:07.977567",
+    "server_modified": "2024-10-29 21:44:49",
+    "last_sync": "2024-11-19 20:51:54.989279",
     "size": 118947,
-    "meta_text": "BSHAD SGRUB (1675-1748)",
+    "meta_text": "('BSHAD SGRUB (1675-1748)', 'rtf')",
     "cat_ref": "SP00024M",
     "work_ref": "W.SP00024M",
     "title_tib": "RDOR GCOD KYI 'GREL PA THAR PAR BGROD PA'I LAM BZANG ZAB DON GSAL BA'I NYI MA",
@@ -19,10 +19,10 @@
     "author_simple": "CO NE BLA MA GRAGS PA BSHAD SGRUB",
     "subject": [
         {
-            "_id": "180897585372",
-            "subject_path": "SUNGBUM_SUNGBUM/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/RDO RJE GCOD PA'I 'GREL PA_COMMENTARIES ON THE DIAMOND CUTTER SUTRA",
-            "subject_path_tibetan": "SUNGBUM/DBU MA/RDO RJE GCOD PA'I 'GREL PA",
-            "subject_path_english": "SUNGBUM/MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/COMMENTARIES ON THE DIAMOND CUTTER SUTRA",
+            "_id": "196541727819",
+            "subject_path": "GSUNG 'BUM_Sungbum/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/RDO RJE GCOD PA'I 'GREL PA_COMMENTARIES ON THE DIAMOND CUTTER SUTRA",
+            "subject_path_tibetan": "GSUNG 'BUM/DBU MA/RDO RJE GCOD PA'I 'GREL PA",
+            "subject_path_english": "Sungbum/MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/COMMENTARIES ON THE DIAMOND CUTTER SUTRA",
             "subject_tibetan": "RDO RJE GCOD PA'I 'GREL PA",
             "subject_english": "COMMENTARIES ON THE DIAMOND CUTTER SUTRA"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P1629"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "dbu ma_middle-way philosophy (madhyamika prasangika school)/rdo rje gcod pa'i 'grel pa_commentaries on the diamond cutter sutra",
-            "timestamp": "2024-09-10T02:05:07.997495+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/RDO RJE GCOD PA'I 'GREL PA_COMMENTARIES ON THE DIAMOND CUTTER SUTRA",
+            "timestamp": "2024-11-20 04:51:55.684407+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:51:55.684407+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

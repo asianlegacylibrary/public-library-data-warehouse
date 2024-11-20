@@ -1,12 +1,12 @@
 {
     "name": "S05977M32_'PHAGS PA 'JIG RTEN DBANG PHYUG THAMS CAD MKHYEN PA SPRUL PA'I SKU'I BRTAN BZHUGS_A Long-Life Prayer to the Reincarnate One, a Realized Being, Lord of the World, Knower of All Things_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662).TXT",
-    "path": "nyams len_personal practice/zhabs brtan_prayers for the long life of a holy being/pan chen blo bzang chos kyi rgyal mtsan_panchen lobsang chukyi gyeltsen (1565-1662)",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/zhabs brtan_prayers for the long life of a holy being/pan chen blo bzang chos kyi rgyal mtsan_panchen lobsang chukyi gyeltsen (1565-1662)/s05977m32_'phags pa 'jig rten dbang phyug thams cad mkhyen pa sprul pa'i sku'i brtan bzhugs_a long-life prayer to the reincarnate one, a realized being, lord of the world, knower of all things_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAC3Q",
-    "revision_id": "613f663ffc7d08d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/ZHABS BRTAN_PRAYERS FOR THE LONG LIFE OF A HOLY BEING/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/zhabs brtan_prayers for the long life of a holy being/pan chen blo bzang chos kyi rgyal mtsan_panchen lobsang chukyi gyeltsen (1565-1662)/s05977m32_'phags pa 'jig rten dbang phyug thams cad mkhyen pa sprul pa'i sku'i brtan bzhugs_a long-life prayer to the reincarnate one, a realized being, lord of the world, knower of all things_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABkRQ",
+    "revision_id": "625a4acab49878d294473",
     "content_hash": "d0dcdf81d6fe57e0ae17913468c4d89753ad1240de38abbf2409fb8c6b0d6688",
-    "server_modified": "2024-03-18T21:53:40",
-    "last_sync": "2024-09-09T19:04:11.624261",
+    "server_modified": "2024-10-29 21:57:42",
+    "last_sync": "2024-11-19 21:23:06.260711",
     "size": 1598,
     "meta_text": null,
     "cat_ref": "S05977M32",
@@ -19,11 +19,11 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "313550036391",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/ZHABS BRTAN_PRAYERS FOR THE LONG LIFE OF A HOLY BEING/PAN CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/ZHABS BRTAN/PAN CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/PRAYERS FOR THE LONG LIFE OF A HOLY BEING/PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
-            "subject_tibetan": "PAN CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
+            "_id": "304123406389",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/ZHABS BRTAN_PRAYERS FOR THE LONG LIFE OF A HOLY BEING/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/ZHABS BRTAN/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/PRAYERS FOR THE LONG LIFE OF A HOLY BEING/PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+            "subject_tibetan": "PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
             "subject_english": "PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)"
         }
     ],
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/zhabs brtan_prayers for the long life of a holy being/pan chen blo bzang chos kyi rgyal mtsan_panchen lobsang chukyi gyeltsen (1565-1662)",
-            "timestamp": "2024-09-10T02:04:11.642941+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/ZHABS BRTAN_PRAYERS FOR THE LONG LIFE OF A HOLY BEING/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+            "timestamp": "2024-11-20 05:23:06.274612+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:23:06.274612+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

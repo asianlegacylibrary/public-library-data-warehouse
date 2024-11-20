@@ -1,28 +1,28 @@
 {
     "name": "S00433E_DPAL RDO RJE 'JIGS BYED DPA' PO GCIG PA'I RAS BRIS KYI DKYIL 'KHOR DU DBANG BLANG PA'I CHO GA NAG PO 'GROS SHES SU BKOD PA BDUD RTZI'I CHU RGYUN_'The River of Nectar,' being a Ritual of Recitation for Taking On an Empowerment within a Secret +.TXT",
-    "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/dbang_empowerment (abhisheka)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/dbang_empowerment (abhisheka)/s00433e_dpal rdo rje 'jigs byed dpa' po gcig pa'i ras bris kyi dkyil 'khor du dbang blang pa'i cho ga nag po 'gros shes su bkod pa bdud rtzi'i chu rgyun_'the river of nectar,' being a ritual of recitation for taking on an empowerment within a secret +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAMOw",
-    "revision_id": "613f6656ded0c8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/DBANG_EMPOWERMENT (ABHISHEKA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/dbang_empowerment (abhisheka)/s00433e_dpal rdo rje 'jigs byed dpa' po gcig pa'i ras bris kyi dkyil 'khor du dbang blang pa'i cho ga nag po 'gros shes su bkod pa bdud rtzi'i chu rgyun_'the river of nectar,' being a ritual of recitation for taking on an empowerment within a secret +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABdvw",
+    "revision_id": "625a49a3c3aab8d294473",
     "content_hash": "30316224f4f70890e2cfc6657b46a5322d33a04c9fd3e1202f00a64773f99d8c",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:13:28.689936",
+    "server_modified": "2024-10-29 21:52:32",
+    "last_sync": "2024-11-19 21:11:14.290419",
     "size": 70179,
-    "meta_text": "World in the Form of a Painting, within the Teachings of the Glorious Diamond Frightener (Vajra Bhairava), in the Form of a Solitary Warrior (Eka Vira)_@ (@-@)",
+    "meta_text": "('World in the Form of a Painting, within the Teachings of the Glorious Diamond Frightener (Vajra Bhairava), in the Form of a Solitary Warrior (Eka Vira)_@ (@-@)', 'rtf')",
     "cat_ref": "S00433E",
     "work_ref": "W.S00433E",
     "title_tib": "DPAL RDO RJE 'JIGS BYED DPA' PO GCIG PA'I RAS BRIS KYI DKYIL 'KHOR DU DBANG BLANG PA'I CHO GA NAG PO 'GROS SHES SU BKOD PA BDUD RTZI'I CHU RGYUN",
-    "title_eng": "'The River of Nectar,' being a Ritual of Recitation for Taking On an Empowerment within a SecretWorld in the Form of a Painting, within the Teachings of the Glorious Diamond Frightener (Vajra Bhairava), in the Form of a Solitary Warrior (Eka Vira)",
+    "title_eng": "'The River of Nectar,' being a Ritual of Recitation for Taking On an Empowerment within a Secret('World in the Form of a Painting, within the Teachings of the Glorious Diamond Frightener (Vajra Bhairava), in the Form of a Solitary Warrior (Eka Vira)@ (@-@)', 'rtf')",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "",
     "subject": [
         {
-            "_id": "852740704779",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/DBANG_EMPOWERMENT (ABHISHEKA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/'JIGS BYED/DBANG",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/EMPOWERMENT (ABHISHEKA)",
+            "_id": "937381125153",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/DBANG_EMPOWERMENT (ABHISHEKA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/'JIGS BYED/DBANG",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/EMPOWERMENT (ABHISHEKA)",
             "subject_tibetan": "DBANG",
             "subject_english": "EMPOWERMENT (ABHISHEKA)"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/dbang_empowerment (abhisheka)",
-            "timestamp": "2024-09-10T02:13:28.702062+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/DBANG_EMPOWERMENT (ABHISHEKA)",
+            "timestamp": "2024-11-20 05:11:18.077612+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:11:18.077612+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

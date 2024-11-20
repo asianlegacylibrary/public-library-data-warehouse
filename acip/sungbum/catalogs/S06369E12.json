@@ -1,12 +1,12 @@
 {
     "name": "S06369E12_'JIGS BYED DPA' GCIG GI BRGYUD 'DEBS KHA SKONG_Addendum to the Supplication to the Lamas of the Lineage of the Practice of the Frightener (Bhairava) in the Aspect of a Solitary Warrior (Eka Vira)_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/bla brgyud_lineage lamas",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/bla brgyud_lineage lamas/s06369e12_'jigs byed dpa' gcig gi brgyud 'debs kha skong_addendum to the supplication to the lamas of the lineage of the practice of the frightener (bhairava) in the aspect of a solitary warrior (eka vira)_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAMxA",
-    "revision_id": "613f6656ded958d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/BLA BRGYUD_LINEAGE LAMAS",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/bla brgyud_lineage lamas/s06369e12_'jigs byed dpa' gcig gi brgyud 'debs kha skong_addendum to the supplication to the lamas of the lineage of the practice of the frightener (bhairava) in the aspect of a solitary warrior (eka vira)_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABdbA",
+    "revision_id": "625a49972bedf8d294473",
     "content_hash": "52afc1e9f1a3393294214c27d10be7e65c1b8d3be84482e6fe2421942f849b90",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:14:08.450473",
+    "server_modified": "2024-10-29 21:52:19",
+    "last_sync": "2024-11-19 21:10:43.000246",
     "size": 714,
     "meta_text": null,
     "cat_ref": "S06369E12",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "466562160173",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/BLA BRGYUD_LINEAGE LAMAS",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/'JIGS BYED/BLA BRGYUD",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/LINEAGE LAMAS",
+            "_id": "236134225662",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/BLA BRGYUD_LINEAGE LAMAS",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/'JIGS BYED/BLA BRGYUD",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/LINEAGE LAMAS",
             "subject_tibetan": "BLA BRGYUD",
             "subject_english": "LINEAGE LAMAS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/bla brgyud_lineage lamas",
-            "timestamp": "2024-09-10T02:14:08.474655+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/BLA BRGYUD_LINEAGE LAMAS",
+            "timestamp": "2024-11-20 05:10:44.822966+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:10:44.822966+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,14 +1,14 @@
 {
     "name": "S06302E_TSE SGRUB THUN MONG DANG THUN MONG MA YIN PA ZAB GNAD CAN 'KHYER BDE KUN PHAN_'Convenient and a Benefit for All,' including Common and Unique Rituals, with Certain Profound Points, for the Attainment of Long Life_DNGUL CHU DHARMA BHADRA (177+.TXT",
-    "path": "rgyud_secret teachings (tantra)/tse dpag med_limitless life (amitayus)/tse sgrub_ritual for long life",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/tse dpag med_limitless life (amitayus)/tse sgrub_ritual for long life/s06302e_tse sgrub thun mong dang thun mong ma yin pa zab gnad can 'khyer bde kun phan_'convenient and a benefit for all,' including common and unique rituals, with certain profound points, for the attainment of long life_dngul chu dharma bhadra (177+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAJig",
-    "revision_id": "613f664dc43a68d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/TSE DPAG MED_LIMITLESS LIFE (AMITAYUS)/TSE SGRUB_RITUAL FOR LONG LIFE",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/tse dpag med_limitless life (amitayus)/tse sgrub_ritual for long life/s06302e_tse sgrub thun mong dang thun mong ma yin pa zab gnad can 'khyer bde kun phan_'convenient and a benefit for all,' including common and unique rituals, with certain profound points, for the attainment of long life_dngul chu dharma bhadra (177+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABVjw",
+    "revision_id": "625a488abebdd8d294473",
     "content_hash": "effea6410b643a00558bd2e83f5dd7579950aa49e6c88ee8b9f1776676688589",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:10:35.859181",
+    "server_modified": "2024-10-29 21:47:38",
+    "last_sync": "2024-11-19 20:57:42.602565",
     "size": 5959,
-    "meta_text": "2-1851)",
+    "meta_text": "('2-1851)', 'rtf')",
     "cat_ref": "S06302E",
     "work_ref": "W.S06302E",
     "title_tib": "TSE SGRUB THUN MONG DANG THUN MONG MA YIN PA ZAB GNAD CAN 'KHYER BDE KUN PHAN",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "182671089789",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/TSE DPAG MED_LIMITLESS LIFE (AMITAYUS)/TSE SGRUB_RITUAL FOR LONG LIFE",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/TSE DPAG MED/TSE SGRUB",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/LIMITLESS LIFE (AMITAYUS)/RITUAL FOR LONG LIFE",
+            "_id": "333112386204",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/TSE DPAG MED_LIMITLESS LIFE (AMITAYUS)/TSE SGRUB_RITUAL FOR LONG LIFE",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/TSE DPAG MED/TSE SGRUB",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/LIMITLESS LIFE (AMITAYUS)/RITUAL FOR LONG LIFE",
             "subject_tibetan": "TSE SGRUB",
             "subject_english": "RITUAL FOR LONG LIFE"
         }
@@ -31,18 +31,26 @@
     "author": [
         {
             "author_name": "DNGUL CHU DHARMA BHADRA",
-            "author_birth": "1772",
-            "author_death": "1851",
+            "author_birth": null,
+            "author_death": null,
             "bdrc_id": "bdr:P289",
             "normalized_name": "DNGUL CHU DHARMA BHADRA",
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/tse dpag med_limitless life (amitayus)/tse sgrub_ritual for long life",
-            "timestamp": "2024-09-10T02:10:35.877275+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/TSE DPAG MED_LIMITLESS LIFE (AMITAYUS)/TSE SGRUB_RITUAL FOR LONG LIFE",
+            "timestamp": "2024-11-20 04:57:43.887420+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:57:43.887420+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

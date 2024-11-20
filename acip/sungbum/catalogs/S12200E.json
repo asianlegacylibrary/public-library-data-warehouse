@@ -1,28 +1,28 @@
 {
     "name": "S12200E_BSTAN BSRUNG YONGS KYI RJE BO LHA CHEN CHOS KYI RGYAL PO NANG SGRUB LA BRTEN PA'I GTOR CHEN BDUD DPUNG RAB 'JOMS_Total Destruction of the Demon Forces--A Ritual for the Offering of a Great Torma Cake in the Practice of the Inner Attainment o +.TXT",
-    "path": "rgyud_secret teachings (tantra)/chos rgyal_king of all things (dharmaraja)/gtor ma_offering cake (bali)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/chos rgyal_king of all things (dharmaraja)/gtor ma_offering cake (bali)/s12200e_bstan bsrung yongs kyi rje bo lha chen chos kyi rgyal po nang sgrub la brten pa'i gtor chen bdud dpung rab 'joms_total destruction of the demon forces--a ritual for the offering of a great torma cake in the practice of the inner attainment o +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAKWQ",
-    "revision_id": "613f6652788718d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/CHOS RGYAL_KING OF ALL THINGS (DHARMARAJA)/GTOR MA_OFFERING CAKE (BALI)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/chos rgyal_king of all things (dharmaraja)/gtor ma_offering cake (bali)/s12200e_bstan bsrung yongs kyi rje bo lha chen chos kyi rgyal po nang sgrub la brten pa'i gtor chen bdud dpung rab 'joms_total destruction of the demon forces--a ritual for the offering of a great torma cake in the practice of the inner attainment o +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABdHA",
+    "revision_id": "625a498aa5cfe8d294473",
     "content_hash": "fab3a7f4830f951f5b01035380cd273b1aede2b58a9852190013cd764433dd99",
-    "server_modified": "2024-03-18T21:54:00",
-    "last_sync": "2024-09-09T19:11:18.651704",
+    "server_modified": "2024-10-29 21:52:06",
+    "last_sync": "2024-11-19 21:10:09.493955",
     "size": 53000,
-    "meta_text": "f that Lord of All the Protectors of the Teaching, the Great Angel named the ‘King of All Things’_PAN CHEN BLA MA SKU PHRENG GSUM PA DPAL LDAN YE SHES (1738-1780)",
+    "meta_text": "('f that Lord of All the Protectors of the Teaching, the Great Angel named the ‘King of All Things’_PAN CHEN BLA MA SKU PHRENG GSUM PA DPAL LDAN YE SHES (1738-1780)', 'rtf')",
     "cat_ref": "S12200E",
     "work_ref": "W.S12200E",
     "title_tib": "BSTAN BSRUNG YONGS KYI RJE BO LHA CHEN CHOS KYI RGYAL PO NANG SGRUB LA BRTEN PA'I GTOR CHEN BDUD DPUNG RAB 'JOMS",
-    "title_eng": "Total Destruction of the Demon Forces--A Ritual for the Offering of a Great Torma Cake in the Practice of the Inner Attainment of that Lord of All the Protectors of the Teaching, the Great Angel named the ‘King of All Things’",
+    "title_eng": "Total Destruction of the Demon Forces--A Ritual for the Offering of a Great Torma Cake in the Practice of the Inner Attainment o('f that Lord of All the Protectors of the Teaching, the Great Angel named the ‘King of All Things’",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "PAn CHEN BLA MA SKU PHRENG GSUM PA DPAL LDAN YE SHES",
     "subject": [
         {
-            "_id": "195534494033",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/CHOS RGYAL_KING OF ALL THINGS (DHARMARAJA)/GTOR MA_OFFERING CAKE (BALI)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/CHOS RGYAL/GTOR MA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/KING OF ALL THINGS (DHARMARAJA)/OFFERING CAKE (BALI)",
+            "_id": "191968980853",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/CHOS RGYAL_KING OF ALL THINGS (DHARMARAJA)/GTOR MA_OFFERING CAKE (BALI)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/CHOS RGYAL/GTOR MA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/KING OF ALL THINGS (DHARMARAJA)/OFFERING CAKE (BALI)",
             "subject_tibetan": "GTOR MA",
             "subject_english": "OFFERING CAKE (BALI)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P168"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/chos rgyal_king of all things (dharmaraja)/gtor ma_offering cake (bali)",
-            "timestamp": "2024-09-10T02:11:18.659410+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/CHOS RGYAL_KING OF ALL THINGS (DHARMARAJA)/GTOR MA_OFFERING CAKE (BALI)",
+            "timestamp": "2024-11-20 05:10:09.498964+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:10:09.498964+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

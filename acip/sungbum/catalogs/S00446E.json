@@ -1,12 +1,12 @@
 {
     "name": "S00446E_LCAM SRING PHYI SGRUB KYI GTOR CHOG DAM NYAMS SROG GI SPU GRI_'A Razor that Slices Away the Life of Broken Pledges,' being a Ritual for Offering a Torma Cake in the Outer Practice of Reaching the Dharma Protector Chamsing_@ (@-@).TXT",
-    "path": "rgyud_secret teachings (tantra)/lcam sring_chamsing=lcam dral_chamdrel/gtor ma_offering cake (bali)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/lcam sring_chamsing=lcam dral_chamdrel/gtor ma_offering cake (bali)/s00446e_lcam sring phyi sgrub kyi gtor chog dam nyams srog gi spu gri_'a razor that slices away the life of broken pledges,' being a ritual for offering a torma cake in the outer practice of reaching the dharma protector chamsing_@ (@-@).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAALTg",
-    "revision_id": "613f6652789668d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/LCAM SRING_CHAMSING=LCAM DRAL_CHAMDREL/GTOR MA_OFFERING CAKE (BALI)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/lcam sring_chamsing=lcam dral_chamdrel/gtor ma_offering cake (bali)/s00446e_lcam sring phyi sgrub kyi gtor chog dam nyams srog gi spu gri_'a razor that slices away the life of broken pledges,' being a ritual for offering a torma cake in the outer practice of reaching the dharma protector chamsing_@ (@-@).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABUSA",
+    "revision_id": "625a4862b084e8d294473",
     "content_hash": "18a1054350dcfba1760752da17db3711d51852a09ef1177047b76c3280160bf7",
-    "server_modified": "2024-03-18T21:54:00",
-    "last_sync": "2024-09-09T19:12:29.537205",
+    "server_modified": "2024-10-29 21:46:56",
+    "last_sync": "2024-11-19 20:55:17.217404",
     "size": 20409,
     "meta_text": null,
     "cat_ref": "S00446E",
@@ -19,10 +19,10 @@
     "author_simple": "",
     "subject": [
         {
-            "_id": "303267156754",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/LCAM SRING_CHAMSING=LCAM DRAL_CHAMDREL/GTOR MA_OFFERING CAKE (BALI)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/LCAM SRING/GTOR MA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/CHAMSING=LCAM DRAL/OFFERING CAKE (BALI)",
+            "_id": "248779765547",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/LCAM SRING_CHAMSING=LCAM DRAL_CHAMDREL/GTOR MA_OFFERING CAKE (BALI)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/LCAM SRING/GTOR MA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/CHAMSING=LCAM DRAL/OFFERING CAKE (BALI)",
             "subject_tibetan": "GTOR MA",
             "subject_english": "OFFERING CAKE (BALI)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/lcam sring_chamsing=lcam dral_chamdrel/gtor ma_offering cake (bali)",
-            "timestamp": "2024-09-10T02:12:29.553642+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/LCAM SRING_CHAMSING=LCAM DRAL_CHAMDREL/GTOR MA_OFFERING CAKE (BALI)",
+            "timestamp": "2024-11-20 04:55:18.037489+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:55:18.037489+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

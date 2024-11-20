@@ -1,14 +1,14 @@
 {
     "name": "S00542E_SGRA TSAD PA RIN CHEN RNAM RGYAL GYI SGRA DBYANGS LHA MO'I RJES GNANG GI ZIN BRIS_Notes to a Teaching on the Rite of Permission into the Practice of the Angel of Melody (Sarasvati), in the Tradition of Dratsepa Rinchen Namgyal_CHE SHOS RIN P +.TXT",
-    "path": "rgyud_secret teachings (tantra)/dbyangs can ma_lady of song (sarasvati)/rjes gnang_rites of permission (anujna)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/dbyangs can ma_lady of song (sarasvati)/rjes gnang_rites of permission (anujna)/s00542e_sgra tsad pa rin chen rnam rgyal gyi sgra dbyangs lha mo'i rjes gnang gi zin bris_notes to a teaching on the rite of permission into the practice of the angel of melody (sarasvati), in the tradition of dratsepa rinchen namgyal_che shos rin p +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAL6g",
-    "revision_id": "613f6656decbb8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/DBYANGS CAN MA_LADY OF SONG (SARASVATI)/RJES GNANG_RITES OF PERMISSION (ANUJNA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/dbyangs can ma_lady of song (sarasvati)/rjes gnang_rites of permission (anujna)/s00542e_sgra tsad pa rin chen rnam rgyal gyi sgra dbyangs lha mo'i rjes gnang gi zin bris_notes to a teaching on the rite of permission into the practice of the angel of melody (sarasvati), in the tradition of dratsepa rinchen namgyal_che shos rin p +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABWLQ",
+    "revision_id": "625a489c6d21d8d294473",
     "content_hash": "f889bab4db3a3f31c3444497bc88b991d20d58620e29edd5a1666943b58dced0",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:13:05.505424",
+    "server_modified": "2024-10-29 21:47:56",
+    "last_sync": "2024-11-19 20:58:40.447602",
     "size": 4133,
-    "meta_text": "O CHE BLO BZANG BYANG CHUB BSTAN PA'I SGRON ME (1861-1933@)",
+    "meta_text": "(\"O CHE BLO BZANG BYANG CHUB BSTAN PA'I SGRON ME (1861-1933@)\", 'rtf')",
     "cat_ref": "S00542E",
     "work_ref": "W.S00542E",
     "title_tib": "SGRA TSAD PA RIN CHEN RNAM RGYAL GYI SGRA DBYANGS LHA MO'I RJES GNANG GI ZIN BRIS",
@@ -19,10 +19,10 @@
     "author_simple": "CHE SHOS RIN PO CHE BLO BZANG BYANG CHUB BSTAN PA'I SGRON ME",
     "subject": [
         {
-            "_id": "266659957569",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/DBYANGS CAN MA_LADY OF SONG (SARASVATI)/RJES GNANG_RITES OF PERMISSION (ANUJNA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/DBYANGS CAN MA/RJES GNANG",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/LADY OF SONG (SARASVATI)/RITES OF PERMISSION (ANUJNA)",
+            "_id": "193119373695",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DBYANGS CAN MA_LADY OF SONG (SARASVATI)/RJES GNANG_RITES OF PERMISSION (ANUJNA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/DBYANGS CAN MA/RJES GNANG",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/LADY OF SONG (SARASVATI)/RITES OF PERMISSION (ANUJNA)",
             "subject_tibetan": "RJES GNANG",
             "subject_english": "RITES OF PERMISSION (ANUJNA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P238"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/dbyangs can ma_lady of song (sarasvati)/rjes gnang_rites of permission (anujna)",
-            "timestamp": "2024-09-10T02:13:05.515970+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DBYANGS CAN MA_LADY OF SONG (SARASVATI)/RJES GNANG_RITES OF PERMISSION (ANUJNA)",
+            "timestamp": "2024-11-20 04:58:41.034030+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:58:41.034030+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

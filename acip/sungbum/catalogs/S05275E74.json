@@ -1,28 +1,28 @@
 {
     "name": "S05275E74_BCOM LDAN 'DAS DPAL GSANG BA 'DUS PA 'JAM DPAL RDO RJE'I BSGRUB DKYIL GYI DRIS LAN_Response to a Question concerning the Secret World of Accomplishment in the Teaching of the Transcendent Conqueror, the Glorious Secret Collection (Guhyasam +.TXT",
-    "path": "rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/dkyil 'khor_secret world (mandala)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/dkyil 'khor_secret world (mandala)/s05275e74_bcom ldan 'das dpal gsang ba 'dus pa 'jam dpal rdo rje'i bsgrub dkyil gyi dris lan_response to a question concerning the secret world of accomplishment in the teaching of the transcendent conqueror, the glorious secret collection (guhyasam +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAARPw",
-    "revision_id": "613f665fcd6c48d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/DKYIL 'KHOR_SECRET WORLD (MANDALA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/dkyil 'khor_secret world (mandala)/s05275e74_bcom ldan 'das dpal gsang ba 'dus pa 'jam dpal rdo rje'i bsgrub dkyil gyi dris lan_response to a question concerning the secret world of accomplishment in the teaching of the transcendent conqueror, the glorious secret collection (guhyasam +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABbkg",
+    "revision_id": "625a4957ab80d8d294473",
     "content_hash": "deea8fcef807b00d394b70552e8fd13b3f35e46073e04f0877b34c81d29a7208",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:18:51.152902",
+    "server_modified": "2024-10-29 21:51:12",
+    "last_sync": "2024-11-19 21:07:20.170858",
     "size": 8970,
-    "meta_text": "aja), the Glorious Gentle Diamond (Manjuvajra) RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)",
+    "meta_text": "('aja), the Glorious Gentle Diamond (Manjuvajra) RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)', 'rtf')",
     "cat_ref": "S05275E74",
     "work_ref": "W.S05275E74",
     "title_tib": "BCOM LDAN 'DAS DPAL GSANG BA 'DUS PA 'JAM DPAL RDO RJE'I BSGRUB DKYIL GYI DRIS LAN",
-    "title_eng": "Response to a Question concerning the Secret World of Accomplishment in the Teaching of the Transcendent Conqueror, the Glorious Secret Collection (Guhyasamaja), the Glorious Gentle Diamond (Manjuvajra) RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)",
+    "title_eng": "Response to a Question concerning the Secret World of Accomplishment in the Teaching of the Transcendent Conqueror, the Glorious Secret Collection (Guhyasam('aja), the Glorious Gentle Diamond (Manjuvajra) RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)', 'rtf')",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "",
     "subject": [
         {
-            "_id": "173540359271",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/DKYIL 'KHOR_SECRET WORLD (MANDALA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/GSANG 'DUS/DKYIL 'KHOR",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/SECRET COLLECTION (GUHYASAMAJA)/SECRET WORLD (MANDALA)",
+            "_id": "945137803798",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/DKYIL 'KHOR_SECRET WORLD (MANDALA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/GSANG 'DUS/DKYIL 'KHOR",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/SECRET COLLECTION (GUHYASAMAJA)/SECRET WORLD (MANDALA)",
             "subject_tibetan": "DKYIL 'KHOR",
             "subject_english": "SECRET WORLD (MANDALA)"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/dkyil 'khor_secret world (mandala)",
-            "timestamp": "2024-09-10T02:18:51.160533+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/DKYIL 'KHOR_SECRET WORLD (MANDALA)",
+            "timestamp": "2024-11-20 05:07:22.081724+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:07:22.081724+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

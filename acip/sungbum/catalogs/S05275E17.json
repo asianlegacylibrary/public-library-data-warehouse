@@ -1,12 +1,12 @@
 {
     "name": "S05275E17_MGON PO 'OD DPAG MED KYI BSTOD PA ZHING MCHOG SGO 'BYED_The 'Key to the Highest Paradise,' a Praise of the Protector, Limitless Light (Amitabha)_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419).TXT",
-    "path": "rgyud_secret teachings (tantra)/'od dpag med_limitless light (amitabha)/bstod pa_songs of praise",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/'od dpag med_limitless light (amitabha)/bstod pa_songs of praise/s05275e17_mgon po 'od dpag med kyi bstod pa zhing mchog sgo 'byed_the 'key to the highest paradise,' a praise of the protector, limitless light (amitabha)_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAP5A",
-    "revision_id": "613f665fcd5698d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/'OD DPAG MED_LIMITLESS LIGHT (AMITABHA)/BSTOD PA_SONGS OF PRAISE",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/'od dpag med_limitless light (amitabha)/bstod pa_songs of praise/s05275e17_mgon po 'od dpag med kyi bstod pa zhing mchog sgo 'byed_the 'key to the highest paradise,' a praise of the protector, limitless light (amitabha)_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABehg",
+    "revision_id": "625a49bfb0ac18d294473",
     "content_hash": "8153cfd21d1ab84542344b2b2d4fc597ca990ea595a59bb2e47a68c71485b9ea",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:17:20.304025",
+    "server_modified": "2024-10-29 21:53:02",
+    "last_sync": "2024-11-19 21:12:41.962512",
     "size": 2507,
     "meta_text": null,
     "cat_ref": "S05275E17",
@@ -19,10 +19,10 @@
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "304459841239",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/'OD DPAG MED_LIMITLESS LIGHT (AMITABHA)/BSTOD PA_SONGS OF PRAISE",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/'OD DPAG MED/BSTOD PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/LIMITLESS LIGHT (AMITABHA)/SONGS OF PRAISE",
+            "_id": "394073503949",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'OD DPAG MED_LIMITLESS LIGHT (AMITABHA)/BSTOD PA_SONGS OF PRAISE",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/'OD DPAG MED/BSTOD PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/LIMITLESS LIGHT (AMITABHA)/SONGS OF PRAISE",
             "subject_tibetan": "BSTOD PA",
             "subject_english": "SONGS OF PRAISE"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/'od dpag med_limitless light (amitabha)/bstod pa_songs of praise",
-            "timestamp": "2024-09-10T02:17:20.307510+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'OD DPAG MED_LIMITLESS LIGHT (AMITABHA)/BSTOD PA_SONGS OF PRAISE",
+            "timestamp": "2024-11-20 05:12:41.972683+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:12:41.972683+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,12 +1,12 @@
 {
     "name": "S06370MP7_GSO SBYONG MI 'DRA'I SKOR GYI DRI LAN_Response to a Question on a Number of Different Rituals for Renewal and Purification_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "'dul ba_vowed morality (vinaya)/gso sbyong_rituals of renewal and purification",
-    "download_path": "/sungbum updated 4 26 23 bk/'dul ba_vowed morality (vinaya)/gso sbyong_rituals of renewal and purification/s06370mp7_gso sbyong mi 'dra'i skor gyi dri lan_response to a question on a number of different rituals for renewal and purification_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAADlw",
-    "revision_id": "613f663ffc88a8d294473",
+    "path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "download_path": "/sungbum updated 7 30 23 nl/dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)/s06370mp7_gso sbyong mi 'dra'i skor gyi dri lan_response to a question on a number of different rituals for renewal and purification_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABTlg",
+    "revision_id": "625a483e06eeb8d294473",
     "content_hash": "1c676b079161f94256016a9c8112263cb1c56047322c9e0c0da6a513ff4df5d7",
-    "server_modified": "2024-03-18T21:53:40",
-    "last_sync": "2024-09-09T19:04:54.655636",
+    "server_modified": "2024-10-29 21:46:17",
+    "last_sync": "2024-11-19 20:54:04.356524",
     "size": 1212,
     "meta_text": null,
     "cat_ref": "S06370MP7",
@@ -19,20 +19,20 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "120472550177",
-            "subject_path": "SUNGBUM_SUNGBUM/'DUL BA_VOWED MORALITY (VINAYA)/GSO SBYONG_RITUALS OF RENEWAL AND PURIFICATION",
-            "subject_path_tibetan": "SUNGBUM/'DUL BA/GSO SBYONG",
-            "subject_path_english": "SUNGBUM/VOWED MORALITY (VINAYA)/RITUALS OF RENEWAL AND PURIFICATION",
-            "subject_tibetan": "GSO SBYONG",
-            "subject_english": "RITUALS OF RENEWAL AND PURIFICATION"
-        },
-        {
-            "_id": "244831615226",
-            "subject_path": "SUNGBUM_SUNGBUM/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_tibetan": "SUNGBUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_english": "SUNGBUM/QUESTIONS AND ANSWERS",
+            "_id": "250883940513",
+            "subject_path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "GSUNG 'BUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "Sungbum/QUESTIONS AND ANSWERS",
             "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
             "subject_english": "QUESTIONS AND ANSWERS"
+        },
+        {
+            "_id": "383731235547",
+            "subject_path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/GSO SBYONG_RITUALS OF RENEWAL AND PURIFICATION",
+            "subject_path_tibetan": "GSUNG 'BUM/'DUL BA/GSO SBYONG",
+            "subject_path_english": "Sungbum/VOWED MORALITY (VINAYA)/RITUALS OF RENEWAL AND PURIFICATION",
+            "subject_tibetan": "GSO SBYONG",
+            "subject_english": "RITUALS OF RENEWAL AND PURIFICATION"
         }
     ],
     "items": [],
@@ -46,15 +46,29 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "'dul ba_vowed morality (vinaya)/gso sbyong_rituals of renewal and purification",
-            "timestamp": "2024-09-10T02:04:54.669059+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "timestamp": "2024-11-20 04:54:07.141880+00:00"
         },
         {
-            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
-            "timestamp": "2024-09-10T02:21:49.483338+00:00"
+            "path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/GSO SBYONG_RITUALS OF RENEWAL AND PURIFICATION",
+            "timestamp": "2024-11-20 05:12:47.760220+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:54:07.141880+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T05:12:47.760220+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "text"
 }

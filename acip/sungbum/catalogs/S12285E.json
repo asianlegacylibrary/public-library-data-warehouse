@@ -1,12 +1,12 @@
 {
     "name": "S12285E_SKYABS GSUM 'DZIN PA'I DGE BSNYEN DU BSGRUB PA'I CHO GA_A Ritual for Bestowing the Vows of a Lifetime Layperson with Refuge Commitments_LCANG LUNG AARYA PAndI TA NGAG DBANG BLO BZANG BSTAN PA'I RGYAL MTSAN (1770-1845).TXT",
-    "path": "'dul ba_vowed morality (vinaya)/dge bsnyen_lifetime layperson vows/skyabs 'dzin dge bsnyen_lifetime layperson refuge vows",
-    "download_path": "/sungbum updated 4 26 23 bk/'dul ba_vowed morality (vinaya)/dge bsnyen_lifetime layperson vows/skyabs 'dzin dge bsnyen_lifetime layperson refuge vows/s12285e_skyabs gsum 'dzin pa'i dge bsnyen du bsgrub pa'i cho ga_a ritual for bestowing the vows of a lifetime layperson with refuge commitments_lcang lung aarya pandi ta ngag dbang blo bzang bstan pa'i rgyal mtsan (1770-1845).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAADhA",
-    "revision_id": "613f663ffc8778d294473",
+    "path": "'DUL BA_VOWED MORALITY (VINAYA)/DGE BSNYEN_LIFETIME LAYPERSON VOWS/SKYABS 'DZIN DGE BSNYEN_LIFETIME LAYPERSON REFUGE VOWS",
+    "download_path": "/sungbum updated 7 30 23 nl/'dul ba_vowed morality (vinaya)/dge bsnyen_lifetime layperson vows/skyabs 'dzin dge bsnyen_lifetime layperson refuge vows/s12285e_skyabs gsum 'dzin pa'i dge bsnyen du bsgrub pa'i cho ga_a ritual for bestowing the vows of a lifetime layperson with refuge commitments_lcang lung aarya pandi ta ngag dbang blo bzang bstan pa'i rgyal mtsan (1770-1845).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABfNg",
+    "revision_id": "625a49e3b58b18d294473",
     "content_hash": "ea033d1b88ddf70954d379f015f8ee503587699cf65edf37a353005b94c91986",
-    "server_modified": "2024-03-18T21:53:40",
-    "last_sync": "2024-09-09T19:04:50.728716",
+    "server_modified": "2024-10-29 21:53:39",
+    "last_sync": "2024-11-19 21:13:51.752643",
     "size": 6334,
     "meta_text": null,
     "cat_ref": "S12285E",
@@ -19,10 +19,10 @@
     "author_simple": "LCANG LUNG AARYA PAnDI TA NGAG DBANG BLO BZANG BSTAN PA'I RGYAL MTSAN",
     "subject": [
         {
-            "_id": "305399078547",
-            "subject_path": "SUNGBUM_SUNGBUM/'DUL BA_VOWED MORALITY (VINAYA)/DGE BSNYEN_LIFETIME LAYPERSON VOWS/SKYABS 'DZIN DGE BSNYEN_LIFETIME LAYPERSON REFUGE VOWS",
-            "subject_path_tibetan": "SUNGBUM/'DUL BA/DGE BSNYEN/SKYABS 'DZIN DGE BSNYEN",
-            "subject_path_english": "SUNGBUM/VOWED MORALITY (VINAYA)/LIFETIME LAYPERSON VOWS/LIFETIME LAYPERSON REFUGE VOWS",
+            "_id": "159468499770",
+            "subject_path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/DGE BSNYEN_LIFETIME LAYPERSON VOWS/SKYABS 'DZIN DGE BSNYEN_LIFETIME LAYPERSON REFUGE VOWS",
+            "subject_path_tibetan": "GSUNG 'BUM/'DUL BA/DGE BSNYEN/SKYABS 'DZIN DGE BSNYEN",
+            "subject_path_english": "Sungbum/VOWED MORALITY (VINAYA)/LIFETIME LAYPERSON VOWS/LIFETIME LAYPERSON REFUGE VOWS",
             "subject_tibetan": "SKYABS 'DZIN DGE BSNYEN",
             "subject_english": "LIFETIME LAYPERSON REFUGE VOWS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P290"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "'dul ba_vowed morality (vinaya)/dge bsnyen_lifetime layperson vows/skyabs 'dzin dge bsnyen_lifetime layperson refuge vows",
-            "timestamp": "2024-09-10T02:04:50.730774+00:00"
+            "path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/DGE BSNYEN_LIFETIME LAYPERSON VOWS/SKYABS 'DZIN DGE BSNYEN_LIFETIME LAYPERSON REFUGE VOWS",
+            "timestamp": "2024-11-20 05:13:51.757046+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:13:51.757046+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

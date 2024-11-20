@@ -1,28 +1,28 @@
 {
     "name": "S05371E_RJE RIN PO CHES 'JAM DPAL GSANG LDAN GYI DPYAD BA YONGS SU RDZOGS NAS RJE RANG NYID KYI ZIN BRIS SU GNANG BA_Notes Granted by Je Tsongkapa after Having Completed an Exhaustive Analysis of the Secret Ritual for the Practice of the Glorious Ge +.TXT",
-    "path": "rgyud_secret teachings (tantra)/'jam dbyangs_gentle voice (manjughosha, manjushri)/sgrub thabs_ritual for reaching the angel (sadhana)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/'jam dbyangs_gentle voice (manjughosha, manjushri)/sgrub thabs_ritual for reaching the angel (sadhana)/s05371e_rje rin po ches 'jam dpal gsang ldan gyi dpyad ba yongs su rdzogs nas rje rang nyid kyi zin bris su gnang ba_notes granted by je tsongkapa after having completed an exhaustive analysis of the secret ritual for the practice of the glorious ge +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAALZg",
-    "revision_id": "613f66527897e8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/'JAM DBYANGS_GENTLE VOICE (MANJUGHOSHA, MANJUSHRI)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/'jam dbyangs_gentle voice (manjughosha, manjushri)/sgrub thabs_ritual for reaching the angel (sadhana)/s05371e_rje rin po ches 'jam dpal gsang ldan gyi dpyad ba yongs su rdzogs nas rje rang nyid kyi zin bris su gnang ba_notes granted by je tsongkapa after having completed an exhaustive analysis of the secret ritual for the practice of the glorious ge +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABYCw",
+    "revision_id": "625a48d2212268d294473",
     "content_hash": "01921a1014fb8af28d2d14b75d6d7011c5a0827db9b827f8a2614f9c69be9d78",
-    "server_modified": "2024-03-18T21:54:00",
-    "last_sync": "2024-09-09T19:12:41.510712",
+    "server_modified": "2024-10-29 21:48:52",
+    "last_sync": "2024-11-19 21:01:46.511888",
     "size": 9160,
-    "meta_text": "ntle One (Manjushri)_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)",
+    "meta_text": "('ntle One (Manjushri)_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)', 'rtf')",
     "cat_ref": "S05371E",
     "work_ref": "W.S05371E",
     "title_tib": "RJE RIN PO CHES 'JAM DPAL GSANG LDAN GYI DPYAD BA YONGS SU RDZOGS NAS RJE RANG NYID KYI ZIN BRIS SU GNANG BA",
-    "title_eng": "Notes Granted by Je Tsongkapa after Having Completed an Exhaustive Analysis of the Secret Ritual for the Practice of the Glorious Gentle One (Manjushri)",
+    "title_eng": "Notes Granted by Je Tsongkapa after Having Completed an Exhaustive Analysis of the Secret Ritual for the Practice of the Glorious Ge('ntle One (Manjushri)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "260910413370",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/'JAM DBYANGS_GENTLE VOICE (MANJUGHOSHA, MANJUSHRI)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/'JAM DBYANGS/SGRUB THABS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENTLE VOICE (MANJUGHOSHA, MANJUSHRI)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "_id": "203129263717",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JAM DBYANGS_GENTLE VOICE (MANJUGHOSHA, MANJUSHRI)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/'JAM DBYANGS/SGRUB THABS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENTLE VOICE (MANJUGHOSHA, MANJUSHRI)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
             "subject_tibetan": "SGRUB THABS",
             "subject_english": "RITUAL FOR REACHING THE ANGEL (SADHANA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/'jam dbyangs_gentle voice (manjughosha, manjushri)/sgrub thabs_ritual for reaching the angel (sadhana)",
-            "timestamp": "2024-09-10T02:12:41.579536+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JAM DBYANGS_GENTLE VOICE (MANJUGHOSHA, MANJUSHRI)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "timestamp": "2024-11-20 05:01:53.849623+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:01:53.849623+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

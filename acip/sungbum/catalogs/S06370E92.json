@@ -1,12 +1,12 @@
 {
     "name": "S06370E92_GNAS BRTAN DUS LDAN GYI PHYAG MTSAN GSER GYI RNA KOR ZHES PA'I BSHAD PA_Clarification of the 'Golden Ring' Accoutrement of the Elder named Kalika_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/gnas brtan bcu drug_sixteen elders/phyag mtsan_symbolism",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/gnas brtan bcu drug_sixteen elders/phyag mtsan_symbolism/s06370e92_gnas brtan dus ldan gyi phyag mtsan gser gyi rna kor zhes pa'i bshad pa_clarification of the 'golden ring' accoutrement of the elder named kalika_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAPtg",
-    "revision_id": "613f665fcd53b8d294473",
+    "path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "download_path": "/sungbum updated 7 30 23 nl/dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)/s06370e92_gnas brtan dus ldan gyi phyag mtsan gser gyi rna kor zhes pa'i bshad pa_clarification of the 'golden ring' accoutrement of the elder named kalika_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABSbA",
+    "revision_id": "625a4810492278d294473",
     "content_hash": "a1d98e5329887e00088f723ac52cce84b19487792a53458795150a2c934a2884",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:17:10.491481",
+    "server_modified": "2024-10-29 21:45:29",
+    "last_sync": "2024-11-19 20:53:29.077741",
     "size": 360,
     "meta_text": null,
     "cat_ref": "S06370E92",
@@ -19,20 +19,20 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "101764290211",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/GNAS BRTAN BCU DRUG_SIXTEEN ELDERS/PHYAG MTSAN_SYMBOLISM",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/GNAS BRTAN BCU DRUG/PHYAG MTSAN",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/SIXTEEN ELDERS/SYMBOLISM",
-            "subject_tibetan": "PHYAG MTSAN",
-            "subject_english": "SYMBOLISM"
-        },
-        {
-            "_id": "244831615226",
-            "subject_path": "SUNGBUM_SUNGBUM/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_tibetan": "SUNGBUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_english": "SUNGBUM/QUESTIONS AND ANSWERS",
+            "_id": "250883940513",
+            "subject_path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "GSUNG 'BUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "Sungbum/QUESTIONS AND ANSWERS",
             "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
             "subject_english": "QUESTIONS AND ANSWERS"
+        },
+        {
+            "_id": "263661774497",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GNAS BRTAN BCU DRUG_SIXTEEN ELDERS/PHYAG MTSAN_SYMBOLISM",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/GNAS BRTAN BCU DRUG/PHYAG MTSAN",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/SIXTEEN ELDERS/SYMBOLISM",
+            "subject_tibetan": "PHYAG MTSAN",
+            "subject_english": "SYMBOLISM"
         }
     ],
     "items": [],
@@ -46,15 +46,29 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/gnas brtan bcu drug_sixteen elders/phyag mtsan_symbolism",
-            "timestamp": "2024-09-10T02:17:10.493470+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "timestamp": "2024-11-20 04:54:07.131957+00:00"
         },
         {
-            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
-            "timestamp": "2024-09-10T02:21:49.513357+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GNAS BRTAN BCU DRUG_SIXTEEN ELDERS/PHYAG MTSAN_SYMBOLISM",
+            "timestamp": "2024-11-20 05:09:48.313671+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:54:07.131957+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T05:09:48.313671+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,28 +1,28 @@
 {
     "name": "S12273E_MKHAN CHEN CHOS KYI RGYAL PO'I GSUNG 'BUM LAS BDE MCHOG DRIL BU LHA LNGA'I PHYI DKYIL GYI BSKYED RIM MKHA' SPYOD SGO 'BYED_ Opening the Door to the Heaven of the Angel--A Creation-Stage Practice on the Outer Secret World of the Five Angels o +.TXT",
-    "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/bskyed rim_creation stage (utpatti krama)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/bskyed rim_creation stage (utpatti krama)/s12273e_mkhan chen chos kyi rgyal po'i gsung 'bum las bde mchog dril bu lha lnga'i phyi dkyil gyi bskyed rim mkha' spyod sgo 'byed_ opening the door to the heaven of the angel--a creation-stage practice on the outer secret world of the five angels o +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAPHQ",
-    "revision_id": "613f665b611368d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/BSKYED RIM_CREATION STAGE (UTPATTI KRAMA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/bskyed rim_creation stage (utpatti krama)/s12273e_mkhan chen chos kyi rgyal po'i gsung 'bum las bde mchog dril bu lha lnga'i phyi dkyil gyi bskyed rim mkha' spyod sgo 'byed_ opening the door to the heaven of the angel--a creation-stage practice on the outer secret world of the five angels o +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABVAw",
+    "revision_id": "625a48799e15b8d294473",
     "content_hash": "5470ec620295db6f2b068495c10e6ceeae0586666bf71462f6b71451b4e38241",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:16:27.566169",
+    "server_modified": "2024-10-29 21:47:20",
+    "last_sync": "2024-11-19 20:56:43.328075",
     "size": 42646,
-    "meta_text": "f Highest Bliss (Samvara), in the Tradition of Ghantapada; from the Collected Works of that King of the Dharma, Kenchen_MKHAN CHEN BLO BZANG BSTAN 'DZIN RGYAL MTSAN (1639-@)",
+    "meta_text": "(\"f Highest Bliss (Samvara), in the Tradition of Ghantapada; from the Collected Works of that King of the Dharma, Kenchen_MKHAN CHEN BLO BZANG BSTAN 'DZIN RGYAL MTSAN (1639-@)\", 'rtf')",
     "cat_ref": "S12273E",
     "work_ref": "W.S12273E",
     "title_tib": "MKHAN CHEN CHOS KYI RGYAL PO'I GSUNG 'BUM LAS BDE MCHOG DRIL BU LHA LNGA'I PHYI DKYIL GYI BSKYED RIM MKHA' SPYOD SGO 'BYED",
-    "title_eng": "Opening the Door to the Heaven of the Angel--A Creation-Stage Practice on the Outer Secret World of the Five Angels of Highest Bliss (Samvara), in the Tradition of Ghantapada; from the Collected Works of that King of the Dharma, Kenchen",
+    "title_eng": "Opening the Door to the Heaven of the Angel--A Creation-Stage Practice on the Outer Secret World of the Five Angels o(\"f Highest Bliss (Samvara), in the Tradition of Ghantapada; from the Collected Works of that King of the Dharma, Kenchen",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "MKHAN CHEN BLO BZANG BSTAN 'DZIN RGYAL MTSAN",
     "subject": [
         {
-            "_id": "740387058301",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/BSKYED RIM_CREATION STAGE (UTPATTI KRAMA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/BDE MCHOG/BSKYED RIM",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/CREATION STAGE (UTPATTI KRAMA)",
+            "_id": "289053843006",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/BSKYED RIM_CREATION STAGE (UTPATTI KRAMA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/BDE MCHOG/BSKYED RIM",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/CREATION STAGE (UTPATTI KRAMA)",
             "subject_tibetan": "BSKYED RIM",
             "subject_english": "CREATION STAGE (UTPATTI KRAMA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P6418"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/bskyed rim_creation stage (utpatti krama)",
-            "timestamp": "2024-09-10T02:16:27.574313+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/BSKYED RIM_CREATION STAGE (UTPATTI KRAMA)",
+            "timestamp": "2024-11-20 04:56:45.218520+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:56:45.218520+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

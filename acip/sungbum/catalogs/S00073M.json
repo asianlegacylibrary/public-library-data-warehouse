@@ -1,12 +1,12 @@
 {
     "name": "S00073M_LUGS 'BYUNG RIGS PA BZHI'I SKOR_Four Reasonings for the Forward Order Expressed in Master Dignaga's 'Compendium on Accurate Perception'_SER SMAD MKHAN RIN PO CHE DGE BSHES BLO BZANG MTHAR PHYIN MCHOG (1921-2004).TXT",
-    "path": "tsad ma_study of accurate perception (sautrantika school)/tsad ma kun btus (pramana samuchaya)_compendium on accurate perceptions",
-    "download_path": "/sungbum updated 4 26 23 bk/tsad ma_study of accurate perception (sautrantika school)/tsad ma kun btus (pramana samuchaya)_compendium on accurate perceptions/s00073m_lugs 'byung rigs pa bzhi'i skor_four reasonings for the forward order expressed in master dignaga's 'compendium on accurate perception'_ser smad mkhan rin po che dge bshes blo bzang mthar phyin mchog (1921-2004).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAFyA",
-    "revision_id": "613f664484aec8d294473",
+    "path": "TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/TSAD MA KUN BTUS (PRAMANA SAMUCHAYA)_COMPENDIUM ON ACCURATE PERCEPTIONS",
+    "download_path": "/sungbum updated 7 30 23 nl/tsad ma_study of accurate perception (sautrantika school)/tsad ma kun btus (pramana samuchaya)_compendium on accurate perceptions/s00073m_lugs 'byung rigs pa bzhi'i skor_four reasonings for the forward order expressed in master dignaga's 'compendium on accurate perception'_ser smad mkhan rin po che dge bshes blo bzang mthar phyin mchog (1921-2004).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABP-w",
+    "revision_id": "625a47b1ca2f18d294473",
     "content_hash": "d2c85fd362e1ad956997fd43e96f7e2bf7816f53c0179a1d70bca95e334d6d44",
-    "server_modified": "2024-03-18T21:53:45",
-    "last_sync": "2024-09-09T19:06:55.113151",
+    "server_modified": "2024-10-29 21:43:50",
+    "last_sync": "2024-11-19 20:48:57.913521",
     "size": 1147,
     "meta_text": null,
     "cat_ref": "S00073M",
@@ -19,10 +19,10 @@
     "author_simple": "SER SMAD MKHAN RIN PO CHE DGE BSHES BLO BZANG MTHAR PHYIN MCHOG",
     "subject": [
         {
-            "_id": "339996706541",
-            "subject_path": "SUNGBUM_SUNGBUM/TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/TSAD MA KUN BTUS (PRAMANA SAMUCHAYA)_COMPENDIUM ON ACCURATE PERCEPTIONS",
-            "subject_path_tibetan": "SUNGBUM/TSAD MA/TSAD MA KUN BTUS (PRAMANA SAMUCHAYA)",
-            "subject_path_english": "SUNGBUM/STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/COMPENDIUM ON ACCURATE PERCEPTIONS",
+            "_id": "825036552399",
+            "subject_path": "GSUNG 'BUM_Sungbum/TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/TSAD MA KUN BTUS (PRAMANA SAMUCHAYA)_COMPENDIUM ON ACCURATE PERCEPTIONS",
+            "subject_path_tibetan": "GSUNG 'BUM/TSAD MA/TSAD MA KUN BTUS (PRAMANA SAMUCHAYA)",
+            "subject_path_english": "Sungbum/STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/COMPENDIUM ON ACCURATE PERCEPTIONS",
             "subject_tibetan": "TSAD MA KUN BTUS (PRAMANA SAMUCHAYA)",
             "subject_english": "COMPENDIUM ON ACCURATE PERCEPTIONS"
         }
@@ -35,11 +35,19 @@
             "author_death": "2004"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "tsad ma_study of accurate perception (sautrantika school)/tsad ma kun btus (pramana samuchaya)_compendium on accurate perceptions",
-            "timestamp": "2024-09-10T02:06:55.126183+00:00"
+            "path": "GSUNG 'BUM_Sungbum/TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/TSAD MA KUN BTUS (PRAMANA SAMUCHAYA)_COMPENDIUM ON ACCURATE PERCEPTIONS",
+            "timestamp": "2024-11-20 04:48:58.528159+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:48:58.528159+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

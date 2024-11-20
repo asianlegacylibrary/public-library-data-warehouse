@@ -1,28 +1,28 @@
 {
     "name": "SL00196E_'JAM DBYANGS BLA MA MCHOG GI PHAR PHYIN MTHA' DPYOD RIN CHEN SGRON ME DANG RJE DI PAm MTSAN CAN GYI MCHAN 'GREL GNYIS KYI DGONGS DON GSAL BAR BYED BA SKAL BZANG 'JUG NGOGS_'Entry Point for the Fortunate' being a Clarification of the True Th+.TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/sa lam_levels and paths",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/sa lam_levels and paths/sl00196e_'jam dbyangs bla ma mchog gi phar phyin mtha' dpyod rin chen sgron me dang rje di pam mtsan can gyi mchan 'grel gnyis kyi dgongs don gsal bar byed ba skal bzang 'jug ngogs_'entry point for the fortunate' being a clarification of the true th+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAOMg",
-    "revision_id": "613f665b6104b8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SA LAM_LEVELS AND PATHS",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyi_general treatments/sa lam_levels and paths/sl00196e_'jam dbyangs bla ma mchog gi phar phyin mtha' dpyod rin chen sgron me dang rje di pam mtsan can gyi mchan 'grel gnyis kyi dgongs don gsal bar byed ba skal bzang 'jug ngogs_'entry point for the fortunate' being a clarification of the true th+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABaEw",
+    "revision_id": "625a491b789798d294473",
     "content_hash": "01e8da46cafbf025ba4a904b7b457d499908c981dde9807bac1813397d4ffbb5",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:15:33.168488",
+    "server_modified": "2024-10-29 21:50:09",
+    "last_sync": "2024-11-19 21:05:02.548787",
     "size": 151275,
-    "meta_text": "ought of Two Works— ‘The Precious Lamp’ (an Analysis of the Perfection of Wisdom by the supreme Jamyang Lama); and the Annotated Commentary of the Lord, Dipam Tsenchen_GUNG THANG BLO GROS RGYA MTSO (1851-1930)",
+    "meta_text": "('ought of Two Works— ‘The Precious Lamp’ (an Analysis of the Perfection of Wisdom by the supreme Jamyang Lama); and the Annotated Commentary of the Lord, Dipam Tsenchen_GUNG THANG BLO GROS RGYA MTSO (1851-1930)', 'rtf')",
     "cat_ref": "SL00196E",
     "work_ref": "W.SL00196E",
     "title_tib": "'JAM DBYANGS BLA MA MCHOG GI PHAR PHYIN MTHA' DPYOD RIN CHEN SGRON ME DANG RJE DI PAm MTSAN CAN GYI MCHAN 'GREL GNYIS KYI DGONGS DON GSAL BAR BYED BA SKAL BZANG 'JUG NGOGS",
-    "title_eng": "'Entry Point for the Fortunate' being a Clarification of the True Thought of Two Works— ‘The Precious Lamp’ (an Analysis of the Perfection of Wisdom by the supreme Jamyang Lama); and the Annotated Commentary of the Lord, Dipam Tsenchen",
+    "title_eng": "'Entry Point for the Fortunate' being a Clarification of the True Th('ought of Two Works— ‘The Precious Lamp’ (an Analysis of the Perfection of Wisdom by the supreme Jamyang Lama); and the Annotated Commentary of the Lord, Dipam Tsenchen",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "GUNG THANG BLO GROS RGYA MTSO",
     "subject": [
         {
-            "_id": "116771001149",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SA LAM_LEVELS AND PATHS",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/SA LAM",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/LEVELS AND PATHS",
+            "_id": "820469896391",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SA LAM_LEVELS AND PATHS",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/SA LAM",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/LEVELS AND PATHS",
             "subject_tibetan": "SA LAM",
             "subject_english": "LEVELS AND PATHS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P31"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/sa lam_levels and paths",
-            "timestamp": "2024-09-10T02:15:33.175396+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SA LAM_LEVELS AND PATHS",
+            "timestamp": "2024-11-20 05:05:02.554294+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:05:02.554294+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,12 +1,12 @@
 {
     "name": "S05977E50_KHOR LO SDOM PA LA BRTEN PA'I RNAL 'BYOR_A Lama Practice Centering upon the Union of the Spheres (Chakrasamvara)_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662).TXT",
-    "path": "rgyud_secret teachings (tantra)/'khor lo sdom pa_union of the spheres (chakrasanvara)/'grel pa_commentaries",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/'khor lo sdom pa_union of the spheres (chakrasanvara)/'grel pa_commentaries/s05977e50_khor lo sdom pa la brten pa'i rnal 'byor_a lama practice centering upon the union of the spheres (chakrasamvara)_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAKnw",
-    "revision_id": "613f6652788b78d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/'KHOR LO SDOM PA_UNION OF THE SPHERES (CHAKRASANVARA)/'GREL PA_COMMENTARIES",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/'khor lo sdom pa_union of the spheres (chakrasanvara)/'grel pa_commentaries/s05977e50_khor lo sdom pa la brten pa'i rnal 'byor_a lama practice centering upon the union of the spheres (chakrasamvara)_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABXNg",
+    "revision_id": "625a48b8b0b818d294473",
     "content_hash": "16cbb5314a29ed437dd4bc9d6a737a378d1b282d25c00e16095061c7aab8dacb",
-    "server_modified": "2024-03-18T21:54:00",
-    "last_sync": "2024-09-09T19:11:41.954555",
+    "server_modified": "2024-10-29 21:48:26",
+    "last_sync": "2024-11-19 21:00:20.607956",
     "size": 13668,
     "meta_text": null,
     "cat_ref": "S05977E50",
@@ -19,10 +19,10 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "660617576883",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/'KHOR LO SDOM PA_UNION OF THE SPHERES (CHAKRASANVARA)/'GREL PA_COMMENTARIES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/'KHOR LO SDOM PA/'GREL PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/UNION OF THE SPHERES (CHAKRASANVARA)/COMMENTARIES",
+            "_id": "150700813709",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'KHOR LO SDOM PA_UNION OF THE SPHERES (CHAKRASANVARA)/'GREL PA_COMMENTARIES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/'KHOR LO SDOM PA/'GREL PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/UNION OF THE SPHERES (CHAKRASANVARA)/COMMENTARIES",
             "subject_tibetan": "'GREL PA",
             "subject_english": "COMMENTARIES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/'khor lo sdom pa_union of the spheres (chakrasanvara)/'grel pa_commentaries",
-            "timestamp": "2024-09-10T02:11:41.958023+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'KHOR LO SDOM PA_UNION OF THE SPHERES (CHAKRASANVARA)/'GREL PA_COMMENTARIES",
+            "timestamp": "2024-11-20 05:00:20.612063+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:00:20.612063+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

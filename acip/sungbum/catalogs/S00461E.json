@@ -1,12 +1,12 @@
 {
     "name": "S00461E_SGRUB THABS RIN 'BYUNG GI RJES GNANG LAS DAM BCA' CAN GYI SNGAGS_The Secret Words for the Angels who Have Taken their Pledge, from the Rite of Permission in the Ritual for Reaching the Angels known as 'The Source of Jewels'_@ (@-@).TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/sngags_secret words (mantra)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/sngags_secret words (mantra)/s00461e_sgrub thabs rin 'byung gi rjes gnang las dam bca' can gyi sngags_the secret words for the angels who have taken their pledge, from the rite of permission in the ritual for reaching the angels known as 'the source of jewels'_@ (@-@).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAOhA",
-    "revision_id": "613f665b6109d8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SNGAGS_SECRET WORDS (MANTRA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyi_general treatments/sngags_secret words (mantra)/s00461e_sgrub thabs rin 'byung gi rjes gnang las dam bca' can gyi sngags_the secret words for the angels who have taken their pledge, from the rite of permission in the ritual for reaching the angels known as 'the source of jewels'_@ (@-@).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABaGA",
+    "revision_id": "625a491cb65b28d294473",
     "content_hash": "28cec8924860102f35acb6ca204f0429200659d0bfcb6ab42e5efe25fef516d0",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:15:51.525343",
+    "server_modified": "2024-10-29 21:50:11",
+    "last_sync": "2024-11-19 21:05:04.986223",
     "size": 9633,
     "meta_text": null,
     "cat_ref": "S00461E",
@@ -19,10 +19,10 @@
     "author_simple": "",
     "subject": [
         {
-            "_id": "257381864102",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SNGAGS_SECRET WORDS (MANTRA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/SNGAGS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/SECRET WORDS (MANTRA)",
+            "_id": "208686629142",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SNGAGS_SECRET WORDS (MANTRA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/SNGAGS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/SECRET WORDS (MANTRA)",
             "subject_tibetan": "SNGAGS",
             "subject_english": "SECRET WORDS (MANTRA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/sngags_secret words (mantra)",
-            "timestamp": "2024-09-10T02:15:51.540303+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SNGAGS_SECRET WORDS (MANTRA)",
+            "timestamp": "2024-11-20 05:05:08.999214+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:05:08.999214+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

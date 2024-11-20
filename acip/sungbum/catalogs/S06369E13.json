@@ -1,12 +1,12 @@
 {
     "name": "S06369E13_KUN RIG BLA BRGYUD_Lamas of the Lineage for the Practice of the All-Knowing One (Sarvavid)_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/kun rig_the all-knowing (sarvavid)/bla brgyud_lineage lamas",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/kun rig_the all-knowing (sarvavid)/bla brgyud_lineage lamas/s06369e13_kun rig bla brgyud_lamas of the lineage for the practice of the all-knowing one (sarvavid)_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAJpA",
-    "revision_id": "613f664dc43c08d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/KUN RIG_THE ALL-KNOWING (SARVAVID)/BLA BRGYUD_LINEAGE LAMAS",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/kun rig_the all-knowing (sarvavid)/bla brgyud_lineage lamas/s06369e13_kun rig bla brgyud_lamas of the lineage for the practice of the all-knowing one (sarvavid)_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABa6g",
+    "revision_id": "625a493fd947b8d294473",
     "content_hash": "33d41f082b7ce779625aa0ba6e6aa80e2c9566a2f6dec003a3d0fd42ed5789d4",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:10:41.688652",
+    "server_modified": "2024-10-29 21:50:47",
+    "last_sync": "2024-11-19 21:06:23.372285",
     "size": 488,
     "meta_text": null,
     "cat_ref": "S06369E13",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "236024305748",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/KUN RIG_THE ALL-KNOWING (SARVAVID)/BLA BRGYUD_LINEAGE LAMAS",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/KUN RIG/BLA BRGYUD",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/THE ALL-KNOWING (SARVAVID)/LINEAGE LAMAS",
+            "_id": "171111140126",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/KUN RIG_THE ALL-KNOWING (SARVAVID)/BLA BRGYUD_LINEAGE LAMAS",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/KUN RIG/BLA BRGYUD",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/THE ALL-KNOWING (SARVAVID)/LINEAGE LAMAS",
             "subject_tibetan": "BLA BRGYUD",
             "subject_english": "LINEAGE LAMAS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/kun rig_the all-knowing (sarvavid)/bla brgyud_lineage lamas",
-            "timestamp": "2024-09-10T02:10:41.693216+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/KUN RIG_THE ALL-KNOWING (SARVAVID)/BLA BRGYUD_LINEAGE LAMAS",
+            "timestamp": "2024-11-20 05:06:23.376274+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:06:23.376274+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

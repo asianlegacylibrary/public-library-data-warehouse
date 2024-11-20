@@ -1,14 +1,14 @@
 {
     "name": "S05910E_RGYUD THAMS CAD KYI RGYAL PO BCOM LDAN 'DAS DPAL DUS KYI 'KHOR LO'I RTZA BA'I RGYUD LAS PHYUNG BA BSDUS PA'I RGYUD KYI RGYAS 'GREL DRI MA MED PA'I 'OD KYI RGYA CHER BSHAD PA DE KHO NA NYID SNANG BAR BYED PA'I SNYING PO BSDUS PA YID BZHIN GYI +.TXT",
-    "path": "rgyud_secret teachings (tantra)/dus 'khor_wheel of time (kalachakra)/'grel pa_commentaries",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/dus 'khor_wheel of time (kalachakra)/'grel pa_commentaries/s05910e_rgyud thams cad kyi rgyal po bcom ldan 'das dpal dus kyi 'khor lo'i rtza ba'i rgyud las phyung ba bsdus pa'i rgyud kyi rgyas 'grel dri ma med pa'i 'od kyi rgya cher bshad pa de kho na nyid snang bar byed pa'i snying po bsdus pa yid bzhin gyi +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAIww",
-    "revision_id": "613f664dc42df8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/'GREL PA_COMMENTARIES",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/dus 'khor_wheel of time (kalachakra)/'grel pa_commentaries/s05910e_rgyud thams cad kyi rgyal po bcom ldan 'das dpal dus kyi 'khor lo'i rtza ba'i rgyud las phyung ba bsdus pa'i rgyud kyi rgyas 'grel dri ma med pa'i 'od kyi rgya cher bshad pa de kho na nyid snang bar byed pa'i snying po bsdus pa yid bzhin gyi +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABa3g",
+    "revision_id": "625a493d2ad158d294473",
     "content_hash": "7537a298e72d98c0e70de7c0912bf98ccc1db3b1a74885eee2ff104499dc4c7b",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:09:48.444897",
+    "server_modified": "2024-10-29 21:50:45",
+    "last_sync": "2024-11-19 21:06:08.033302",
     "size": 479387,
-    "meta_text": "NOR BU_The ‘Wish-Granting Jewel,’ being an Brief Presentation of the Very Essence of ‘The Illumination of Thusness,’ itself an Extensive Explanation ‘Immaculate Light,’ a Great Commentary upon the Briefer Secret Teaching derived from the Root Secret Teaching for that King of All Secret Teachings, the Conqueror, the Glorious Wheel of Time (Kalachakra)_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)",
+    "meta_text": "('NOR BU_The ‘Wish-Granting Jewel,’ being an Brief Presentation of the Very Essence of ‘The Illumination of Thusness,’ itself an Extensive Explanation ‘Immaculate Light,’ a Great Commentary upon the Briefer Secret Teaching derived from the Root Secret Teaching for that King of All Secret Teachings, the Conqueror, the Glorious Wheel of Time (Kalachakra)_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)', 'rtf')",
     "cat_ref": "S05910E",
     "work_ref": "W.S05910E",
     "title_tib": "RGYUD THAMS CAD KYI RGYAL PO BCOM LDAN 'DAS DPAL DUS KYI 'KHOR LO'I RTZA BA'I RGYUD LAS PHYUNG BA BSDUS PA'I RGYUD KYI RGYAS 'GREL DRI MA MED PA'I 'OD KYI RGYA CHER BSHAD PA DE KHO NA NYID SNANG BAR BYED PA'I SNYING PO BSDUS PA YID BZHIN GYI",
@@ -19,10 +19,10 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "320233480126",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/'GREL PA_COMMENTARIES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/DUS 'KHOR/'GREL PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/WHEEL OF TIME (KALACHAKRA)/COMMENTARIES",
+            "_id": "224032789210",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/'GREL PA_COMMENTARIES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/DUS 'KHOR/'GREL PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/WHEEL OF TIME (KALACHAKRA)/COMMENTARIES",
             "subject_tibetan": "'GREL PA",
             "subject_english": "COMMENTARIES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/dus 'khor_wheel of time (kalachakra)/'grel pa_commentaries",
-            "timestamp": "2024-09-10T02:09:48.512762+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/'GREL PA_COMMENTARIES",
+            "timestamp": "2024-11-20 05:06:08.039425+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:06:08.039425+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

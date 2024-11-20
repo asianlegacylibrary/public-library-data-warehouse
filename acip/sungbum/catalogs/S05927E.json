@@ -1,14 +1,14 @@
 {
     "name": "S05927E_BCOM LDAN 'DAS SMAN BLA'I MDO CHOG GI SNYING PO BSDUS PA YID BZHIN GYI NOR BU_The 'Wishing Jewel,' being the Brief Essence of the Summary Ritual for the Conqueror, the Medicine Buddha (Bhaisajyaguru)_ PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN +.TXT",
-    "path": "rgyud_secret teachings (tantra)/sman bla_medicine buddha (bhaishajyaguru)/mdo chog_ritual based on the sutra",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/sman bla_medicine buddha (bhaishajyaguru)/mdo chog_ritual based on the sutra/s05927e_bcom ldan 'das sman bla'i mdo chog gi snying po bsdus pa yid bzhin gyi nor bu_the 'wishing jewel,' being the brief essence of the summary ritual for the conqueror, the medicine buddha (bhaisajyaguru)_ pan chen blo bzang chos kyi rgyal mtsan +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAALHQ",
-    "revision_id": "613f6652789358d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SMAN BLA_MEDICINE BUDDHA (BHAISHAJYAGURU)/MDO CHOG_RITUAL BASED ON THE SUTRA",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/sman bla_medicine buddha (bhaishajyaguru)/mdo chog_ritual based on the sutra/s05927e_bcom ldan 'das sman bla'i mdo chog gi snying po bsdus pa yid bzhin gyi nor bu_the 'wishing jewel,' being the brief essence of the summary ritual for the conqueror, the medicine buddha (bhaisajyaguru)_ pan chen blo bzang chos kyi rgyal mtsan +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABXnA",
+    "revision_id": "625a48c4bc9918d294473",
     "content_hash": "b0aac809393e6e4fa92d57fdc6b17176545ea5c496e3c5ad68a193d58ea5b670",
-    "server_modified": "2024-03-18T21:54:00",
-    "last_sync": "2024-09-09T19:12:16.386244",
+    "server_modified": "2024-10-29 21:48:38",
+    "last_sync": "2024-11-19 21:01:02.938064",
     "size": 12947,
-    "meta_text": "(1565-1662)",
+    "meta_text": "('(1565-1662)', 'rtf')",
     "cat_ref": "S05927E",
     "work_ref": "W.S05927E",
     "title_tib": "BCOM LDAN 'DAS SMAN BLA'I MDO CHOG GI SNYING PO BSDUS PA YID BZHIN GYI NOR BU",
@@ -19,10 +19,10 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "251933166887",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SMAN BLA_MEDICINE BUDDHA (BHAISHAJYAGURU)/MDO CHOG_RITUAL BASED ON THE SUTRA",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SMAN BLA/MDO CHOG",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/MEDICINE BUDDHA (BHAISHAJYAGURU)/RITUAL BASED ON THE SUTRA",
+            "_id": "103618469274",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SMAN BLA_MEDICINE BUDDHA (BHAISHAJYAGURU)/MDO CHOG_RITUAL BASED ON THE SUTRA",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SMAN BLA/MDO CHOG",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/MEDICINE BUDDHA (BHAISHAJYAGURU)/RITUAL BASED ON THE SUTRA",
             "subject_tibetan": "MDO CHOG",
             "subject_english": "RITUAL BASED ON THE SUTRA"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/sman bla_medicine buddha (bhaishajyaguru)/mdo chog_ritual based on the sutra",
-            "timestamp": "2024-09-10T02:12:16.393231+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SMAN BLA_MEDICINE BUDDHA (BHAISHAJYAGURU)/MDO CHOG_RITUAL BASED ON THE SUTRA",
+            "timestamp": "2024-11-20 05:01:02.941776+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:01:02.941776+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

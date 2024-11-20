@@ -1,12 +1,12 @@
 {
     "name": "S05272M_DGE SLONG GI BSLAB BYA GNAM LCE LDENG MAR GRAGS PA_A Commentary on the Rules for Fully Ordained Monks, delivered at the Monastery of Namche Deng_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419).TXT",
-    "path": "'dul ba_vowed morality (vinaya)/dge slong_vows of full monks",
-    "download_path": "/sungbum updated 4 26 23 bk/'dul ba_vowed morality (vinaya)/dge slong_vows of full monks/s05272m_dge slong gi bslab bya gnam lce ldeng mar grags pa_a commentary on the rules for fully ordained monks, delivered at the monastery of namche deng_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAADiw",
-    "revision_id": "613f663ffc87e8d294473",
+    "path": "'DUL BA_VOWED MORALITY (VINAYA)/DGE SLONG_VOWS OF FULL MONKS",
+    "download_path": "/sungbum updated 7 30 23 nl/'dul ba_vowed morality (vinaya)/dge slong_vows of full monks/s05272m_dge slong gi bslab bya gnam lce ldeng mar grags pa_a commentary on the rules for fully ordained monks, delivered at the monastery of namche deng_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABfLw",
+    "revision_id": "625a49e23521a8d294473",
     "content_hash": "e113d7dbf8290ad64d5c1978cb3f02a1f8a269d0c8451876df042e0caa340e88",
-    "server_modified": "2024-03-18T21:53:40",
-    "last_sync": "2024-09-09T19:04:52.987269",
+    "server_modified": "2024-10-29 21:53:38",
+    "last_sync": "2024-11-19 21:13:48.912308",
     "size": 227915,
     "meta_text": null,
     "cat_ref": "S05272M",
@@ -19,10 +19,10 @@
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "332173312486",
-            "subject_path": "SUNGBUM_SUNGBUM/'DUL BA_VOWED MORALITY (VINAYA)/DGE SLONG_VOWS OF FULL MONKS",
-            "subject_path_tibetan": "SUNGBUM/'DUL BA/DGE SLONG",
-            "subject_path_english": "SUNGBUM/VOWED MORALITY (VINAYA)/VOWS OF FULL MONKS",
+            "_id": "104867878744",
+            "subject_path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/DGE SLONG_VOWS OF FULL MONKS",
+            "subject_path_tibetan": "GSUNG 'BUM/'DUL BA/DGE SLONG",
+            "subject_path_english": "Sungbum/VOWED MORALITY (VINAYA)/VOWS OF FULL MONKS",
             "subject_tibetan": "DGE SLONG",
             "subject_english": "VOWS OF FULL MONKS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "'dul ba_vowed morality (vinaya)/dge slong_vows of full monks",
-            "timestamp": "2024-09-10T02:04:53.021086+00:00"
+            "path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/DGE SLONG_VOWS OF FULL MONKS",
+            "timestamp": "2024-11-20 05:13:49.767940+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:13:49.767940+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

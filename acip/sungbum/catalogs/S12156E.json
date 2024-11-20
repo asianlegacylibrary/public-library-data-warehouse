@@ -1,12 +1,12 @@
 {
     "name": "S12156E_KUN MKHYEN BLA MA'I GCIG TU BRAL GYI YIG CHAR ZUR MCHAN BKOD PA_Annotations written to the Textbook of Our Omniscient Lama on the Subject of the Proof of Emptiness called 'Neither One nor Many'_CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN (1806-@).TXT",
-    "path": "dbu ma_middle-way philosophy (madhyamika prasangika school)/gcig du bral_refutation of one or many",
-    "download_path": "/sungbum updated 4 26 23 bk/dbu ma_middle-way philosophy (madhyamika prasangika school)/gcig du bral_refutation of one or many/s12156e_kun mkhyen bla ma'i gcig tu bral gyi yig char zur mchan bkod pa_annotations written to the textbook of our omniscient lama on the subject of the proof of emptiness called 'neither one nor many'_chos rje khal kha ngag dbang dpal ldan (1806-@).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAEKg",
-    "revision_id": "613f66448494e8d294473",
+    "path": "DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/GCIG DU BRAL_REFUTATION OF ONE OR MANY",
+    "download_path": "/sungbum updated 7 30 23 nl/dbu ma_middle-way philosophy (madhyamika prasangika school)/gcig du bral_refutation of one or many/s12156e_kun mkhyen bla ma'i gcig tu bral gyi yig char zur mchan bkod pa_annotations written to the textbook of our omniscient lama on the subject of the proof of emptiness called 'neither one nor many'_chos rje khal kha ngag dbang dpal ldan (1806-@).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABRFA",
+    "revision_id": "625a47d627fd88d294473",
     "content_hash": "847351e43675dd1d59519ee0a60a6e6bb7783cf3e99a99f160bf044771693700",
-    "server_modified": "2024-03-18T21:53:45",
-    "last_sync": "2024-09-09T19:05:26.390906",
+    "server_modified": "2024-10-29 21:44:28",
+    "last_sync": "2024-11-19 20:51:28.261496",
     "size": 38229,
     "meta_text": null,
     "cat_ref": "S12156E",
@@ -19,10 +19,10 @@
     "author_simple": "CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN",
     "subject": [
         {
-            "_id": "229232554990",
-            "subject_path": "SUNGBUM_SUNGBUM/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/GCIG DU BRAL_REFUTATION OF ONE OR MANY",
-            "subject_path_tibetan": "SUNGBUM/DBU MA/GCIG DU BRAL",
-            "subject_path_english": "SUNGBUM/MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/REFUTATION OF ONE OR MANY",
+            "_id": "357762562574",
+            "subject_path": "GSUNG 'BUM_Sungbum/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/GCIG DU BRAL_REFUTATION OF ONE OR MANY",
+            "subject_path_tibetan": "GSUNG 'BUM/DBU MA/GCIG DU BRAL",
+            "subject_path_english": "Sungbum/MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/REFUTATION OF ONE OR MANY",
             "subject_tibetan": "GCIG DU BRAL",
             "subject_english": "REFUTATION OF ONE OR MANY"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P272"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "dbu ma_middle-way philosophy (madhyamika prasangika school)/gcig du bral_refutation of one or many",
-            "timestamp": "2024-09-10T02:05:26.400622+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/GCIG DU BRAL_REFUTATION OF ONE OR MANY",
+            "timestamp": "2024-11-20 04:51:28.269031+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:51:28.269031+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

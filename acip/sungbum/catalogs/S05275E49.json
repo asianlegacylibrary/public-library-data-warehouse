@@ -1,12 +1,12 @@
 {
     "name": "S05275E49_GTZUG TOR GDUGS DKAR CAN LA BSTOD PA_A Praise of the Angel of the Topknot, who Holds the White Umbrella_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419).TXT",
-    "path": "rgyud_secret teachings (tantra)/gtzug tor_topknot (ushnisha)/bstod pa_songs of praise (stotra)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/gtzug tor_topknot (ushnisha)/bstod pa_songs of praise (stotra)/s05275e49_gtzug tor gdugs dkar can la bstod pa_a praise of the angel of the topknot, who holds the white umbrella_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAJ0Q",
-    "revision_id": "613f6652787e98d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/GTZUG TOR_TOPKNOT (USHNISHA)/BSTOD PA_SONGS OF PRAISE (STOTRA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/gtzug tor_topknot (ushnisha)/bstod pa_songs of praise (stotra)/s05275e49_gtzug tor gdugs dkar can la bstod pa_a praise of the angel of the topknot, who holds the white umbrella_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABWXQ",
+    "revision_id": "625a48a08eae48d294473",
     "content_hash": "98f0991d760d1a0b80faef777966c0b25835323e87c84e89b77595309946f8f4",
-    "server_modified": "2024-03-18T21:54:00",
-    "last_sync": "2024-09-09T19:10:51.067969",
+    "server_modified": "2024-10-29 21:48:00",
+    "last_sync": "2024-11-19 20:58:56.119191",
     "size": 2033,
     "meta_text": null,
     "cat_ref": "S05275E49",
@@ -19,18 +19,18 @@
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "265510622283",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/GTZUG TOR_TOPKNOT (USHNISHA)/BSTOD PA_SONGS OF PRAISE (STOTRA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/GTZUG TOR/BSTOD PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/TOPKNOT (USHNISHA)/SONGS OF PRAISE (STOTRA)",
+            "_id": "214775661317",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GTZUG TOR_TOPKNOT (USHNISHA)/BSTOD PA_SONGS OF PRAISE (STOTRA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/GTZUG TOR/BSTOD PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/TOPKNOT (USHNISHA)/SONGS OF PRAISE (STOTRA)",
             "subject_tibetan": "BSTOD PA",
             "subject_english": "SONGS OF PRAISE (STOTRA)"
         },
         {
-            "_id": "425897991415",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/GDUGS DKAR_WHITE PARASOL (SITAPATRA)/BSTOD PA_SONGS OF PRAISE (STOTRA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/GDUGS DKAR/BSTOD PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/WHITE PARASOL (SITAPATRA)/SONGS OF PRAISE (STOTRA)",
+            "_id": "312592971933",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GDUGS DKAR_WHITE PARASOL (SITAPATRA)/BSTOD PA_SONGS OF PRAISE (STOTRA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/GDUGS DKAR/BSTOD PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/WHITE PARASOL (SITAPATRA)/SONGS OF PRAISE (STOTRA)",
             "subject_tibetan": "BSTOD PA",
             "subject_english": "SONGS OF PRAISE (STOTRA)"
         }
@@ -46,15 +46,29 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/gtzug tor_topknot (ushnisha)/bstod pa_songs of praise (stotra)",
-            "timestamp": "2024-09-10T02:10:51.076747+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GTZUG TOR_TOPKNOT (USHNISHA)/BSTOD PA_SONGS OF PRAISE (STOTRA)",
+            "timestamp": "2024-11-20 04:58:56.813826+00:00"
         },
         {
-            "path": "rgyud_secret teachings (tantra)/gdugs dkar_white parasol (sitapatra)/bstod pa_songs of praise (stotra)",
-            "timestamp": "2024-09-10T02:19:03.156508+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GDUGS DKAR_WHITE PARASOL (SITAPATRA)/BSTOD PA_SONGS OF PRAISE (STOTRA)",
+            "timestamp": "2024-11-20 05:08:39.973407+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:58:56.813826+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T05:08:39.973407+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "text"
 }

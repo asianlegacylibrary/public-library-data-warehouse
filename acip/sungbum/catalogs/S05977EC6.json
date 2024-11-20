@@ -1,12 +1,12 @@
 {
     "name": "S05977EC6_YANG TSE DBANG BSKUR TSUL MDOR BSDUS_Another Brief Method for Imparting an Empowerment for Attaining Long Life_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662).TXT",
-    "path": "rgyud_secret teachings (tantra)/tse dpag med_limitless life (amitayus)/tse sgrub_ritual for long life",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/tse dpag med_limitless life (amitayus)/tse sgrub_ritual for long life/s05977ec6_yang tse dbang bskur tsul mdor bsdus_another brief method for imparting an empowerment for attaining long life_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAJgQ",
-    "revision_id": "613f664dc439d8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/TSE DPAG MED_LIMITLESS LIFE (AMITAYUS)/TSE SGRUB_RITUAL FOR LONG LIFE",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/tse dpag med_limitless life (amitayus)/tse sgrub_ritual for long life/s05977ec6_yang tse dbang bskur tsul mdor bsdus_another brief method for imparting an empowerment for attaining long life_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABVlw",
+    "revision_id": "625a488bc1ff08d294473",
     "content_hash": "d7c18c43eb1104d9b44d330b2d8ec200e12df6ae5f532410826b9561136f66bb",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:10:35.827811",
+    "server_modified": "2024-10-29 21:47:39",
+    "last_sync": "2024-11-19 20:57:42.615065",
     "size": 3453,
     "meta_text": null,
     "cat_ref": "S05977EC6",
@@ -19,10 +19,10 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "182671089789",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/TSE DPAG MED_LIMITLESS LIFE (AMITAYUS)/TSE SGRUB_RITUAL FOR LONG LIFE",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/TSE DPAG MED/TSE SGRUB",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/LIMITLESS LIFE (AMITAYUS)/RITUAL FOR LONG LIFE",
+            "_id": "333112386204",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/TSE DPAG MED_LIMITLESS LIFE (AMITAYUS)/TSE SGRUB_RITUAL FOR LONG LIFE",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/TSE DPAG MED/TSE SGRUB",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/LIMITLESS LIFE (AMITAYUS)/RITUAL FOR LONG LIFE",
             "subject_tibetan": "TSE SGRUB",
             "subject_english": "RITUAL FOR LONG LIFE"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/tse dpag med_limitless life (amitayus)/tse sgrub_ritual for long life",
-            "timestamp": "2024-09-10T02:10:35.871037+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/TSE DPAG MED_LIMITLESS LIFE (AMITAYUS)/TSE SGRUB_RITUAL FOR LONG LIFE",
+            "timestamp": "2024-11-20 04:57:43.888149+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:57:43.888149+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

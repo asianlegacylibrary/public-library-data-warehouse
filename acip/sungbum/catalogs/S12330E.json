@@ -1,28 +1,28 @@
 {
     "name": "S12330E_BSTAN PA'I RTZA LAG YIL GOGS NA AER TI NI MER GEN PAndI TA TU THOG THU BLO BZANG BSTAN PA DAR RGYAS KYI RNAM THAR NOR BU'I ME LONG_The Jewel Mirror--A Biography of that Very Root of the Teachings, Yilgokna Ertini Mergen Pandita Hutoktu Lobsa +.TXT",
-    "path": "rnam thar_biographies/mtsan thog_by person's name/blo bzang bstan pa dar rgyas_lobsang tenpa dargye",
-    "download_path": "/sungbum updated 4 26 23 bk/rnam thar_biographies/mtsan thog_by person's name/blo bzang bstan pa dar rgyas_lobsang tenpa dargye/s12330e_bstan pa'i rtza lag yil gogs na aer ti ni mer gen pandi ta tu thog thu blo bzang bstan pa dar rgyas kyi rnam thar nor bu'i me long_the jewel mirror--a biography of that very root of the teachings, yilgokna ertini mergen pandita hutoktu lobsa +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAWLg",
-    "revision_id": "613f666d2094a8d294473",
+    "path": "RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/BLO BZANG BSTAN PA DAR RGYAS_LOBSANG TENPA DARGYE",
+    "download_path": "/sungbum updated 7 30 23 nl/rnam thar_biographies/mtsan thog_by person's name/blo bzang bstan pa dar rgyas_lobsang tenpa dargye/s12330e_bstan pa'i rtza lag yil gogs na aer ti ni mer gen pandi ta tu thog thu blo bzang bstan pa dar rgyas kyi rnam thar nor bu'i me long_the jewel mirror--a biography of that very root of the teachings, yilgokna ertini mergen pandita hutoktu lobsa +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABgWQ",
+    "revision_id": "625a4a1c0efd08d294473",
     "content_hash": "bb08b9b0ef31709549b1ff630770037d57ddac3aa2b4b9f8b078ed2f6d7936ff",
-    "server_modified": "2024-03-18T21:54:28",
-    "last_sync": "2024-09-09T19:23:21.083679",
+    "server_modified": "2024-10-29 21:54:38",
+    "last_sync": "2024-11-19 21:16:09.889519",
     "size": 26809,
-    "meta_text": "ng Tenpa Dargye_GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME (1762-1823)",
+    "meta_text": "(\"ng Tenpa Dargye_GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME (1762-1823)\", 'rtf')",
     "cat_ref": "S12330E",
     "work_ref": "W.S12330E",
     "title_tib": "BSTAN PA'I RTZA LAG YIL GOGS NA AER TI NI MER GEN PAndI TA TU THOG THU BLO BZANG BSTAN PA DAR RGYAS KYI RNAM THAR NOR BU'I ME LONG",
-    "title_eng": "The Jewel Mirror--A Biography of that Very Root of the Teachings, Yilgokna Ertini Mergen Pandita Hutoktu Lobsang Tenpa Dargye",
+    "title_eng": "The Jewel Mirror--A Biography of that Very Root of the Teachings, Yilgokna Ertini Mergen Pandita Hutoktu Lobsa(\"ng Tenpa Dargye",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME",
     "subject": [
         {
-            "_id": "325807217211",
-            "subject_path": "SUNGBUM_SUNGBUM/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/BLO BZANG BSTAN PA DAR RGYAS_LOBSANG TENPA DARGYE",
-            "subject_path_tibetan": "SUNGBUM/RNAM THAR/MTSAN THOG/BLO BZANG BSTAN PA DAR RGYAS",
-            "subject_path_english": "SUNGBUM/BIOGRAPHIES/BY PERSON'S NAME/LOBSANG TENPA DARGYE",
+            "_id": "107177183326",
+            "subject_path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/BLO BZANG BSTAN PA DAR RGYAS_LOBSANG TENPA DARGYE",
+            "subject_path_tibetan": "GSUNG 'BUM/RNAM THAR/MTSAN THOG/BLO BZANG BSTAN PA DAR RGYAS",
+            "subject_path_english": "Sungbum/BIOGRAPHIES/BY PERSON'S NAME/LOBSANG TENPA DARGYE",
             "subject_tibetan": "BLO BZANG BSTAN PA DAR RGYAS",
             "subject_english": "LOBSANG TENPA DARGYE"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P298"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rnam thar_biographies/mtsan thog_by person's name/blo bzang bstan pa dar rgyas_lobsang tenpa dargye",
-            "timestamp": "2024-09-10T02:23:21.085963+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/BLO BZANG BSTAN PA DAR RGYAS_LOBSANG TENPA DARGYE",
+            "timestamp": "2024-11-20 05:16:09.895164+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:16:09.895164+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

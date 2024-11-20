@@ -1,14 +1,14 @@
 {
     "name": "S12021E_ RDOR PHRENG MI TRA'I DBANG GI BRGYUD 'DEBS DANG BLA BRGYUD KHA SKONG GI SKOR BCAS_A Supplication to the Lineage Lamas of the Empowerment of Mitra, the String of Diamonds, including an Appendix to the Names of the Lineage_PAn CHEN SKU PHRENG +.TXT",
-    "path": "rgyud_secret teachings (tantra)/rdo rje phreng ba_string of diamonds (vajramala)/bla brgyud_lama lineage trees",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/rdo rje phreng ba_string of diamonds (vajramala)/bla brgyud_lama lineage trees/s12021e_ rdor phreng mi tra'i dbang gi brgyud 'debs dang bla brgyud kha skong gi skor bcas_a supplication to the lineage lamas of the empowerment of mitra, the string of diamonds, including an appendix to the names of the lineage_pan chen sku phreng +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAIdA",
-    "revision_id": "613f664dc42908d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE PHRENG BA_STRING OF DIAMONDS (VAJRAMALA)/BLA BRGYUD_LAMA LINEAGE TREES",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/rdo rje phreng ba_string of diamonds (vajramala)/bla brgyud_lama lineage trees/s12021e_ rdor phreng mi tra'i dbang gi brgyud 'debs dang bla brgyud kha skong gi skor bcas_a supplication to the lineage lamas of the empowerment of mitra, the string of diamonds, including an appendix to the names of the lineage_pan chen sku phreng +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABeJw",
+    "revision_id": "625a49b6958a48d294473",
     "content_hash": "3a8af01beca088aeb0b0ee7d6020cbba8eedb2dfd01a3ad3740a8cbf797dbd28",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:09:24.088679",
+    "server_modified": "2024-10-29 21:52:52",
+    "last_sync": "2024-11-19 21:12:01.076856",
     "size": 12070,
-    "meta_text": "BZHI PA BSTAN PA'I NYI MA (1782-1853)",
+    "meta_text": "(\"BZHI PA BSTAN PA'I NYI MA (1782-1853)\", 'rtf')",
     "cat_ref": "S12021E",
     "work_ref": "W.S12021E",
     "title_tib": "RDOR PHRENG MI TRA'I DBANG GI BRGYUD 'DEBS DANG BLA BRGYUD KHA SKONG GI SKOR BCAS",
@@ -19,10 +19,10 @@
     "author_simple": "PAn CHEN SKU PHRENG BZHI PA BSTAN PA'I NYI MA",
     "subject": [
         {
-            "_id": "233340740089",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE PHRENG BA_STRING OF DIAMONDS (VAJRAMALA)/BLA BRGYUD_LAMA LINEAGE TREES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/RDO RJE PHRENG BA/BLA BRGYUD",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/STRING OF DIAMONDS (VAJRAMALA)/LAMA LINEAGE TREES",
+            "_id": "116521017727",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE PHRENG BA_STRING OF DIAMONDS (VAJRAMALA)/BLA BRGYUD_LAMA LINEAGE TREES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/RDO RJE PHRENG BA/BLA BRGYUD",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/STRING OF DIAMONDS (VAJRAMALA)/LAMA LINEAGE TREES",
             "subject_tibetan": "BLA BRGYUD",
             "subject_english": "LAMA LINEAGE TREES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P285"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/rdo rje phreng ba_string of diamonds (vajramala)/bla brgyud_lama lineage trees",
-            "timestamp": "2024-09-10T02:09:24.095731+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE PHRENG BA_STRING OF DIAMONDS (VAJRAMALA)/BLA BRGYUD_LAMA LINEAGE TREES",
+            "timestamp": "2024-11-20 05:12:01.083312+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:12:01.083312+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

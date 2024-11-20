@@ -1,14 +1,14 @@
 {
     "name": "S05977ME6_MNGON MTHO NGES LEGS PHUN TSOGS SGRUB THABS MDO RGYUD MAN NGAG SNYING DRIL_The Combined Essence of Advices from the Open and Secret Teachings, a Method of Reaching the All Excellent Things of the Higher Realms and Ultimate Good_PAn CHEN BL+.TXT",
-    "path": "nyams len_personal practice/bslab bya_personal advices/pan chen blo bzang chos kyi rgyal mtsan_panchen lobsang chukyi gyeltsen (1565-1662)",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/bslab bya_personal advices/pan chen blo bzang chos kyi rgyal mtsan_panchen lobsang chukyi gyeltsen (1565-1662)/s05977me6_mngon mtho nges legs phun tsogs sgrub thabs mdo rgyud man ngag snying dril_the combined essence of advices from the open and secret teachings, a method of reaching the all excellent things of the higher realms and ultimate good_pan chen bl+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAABCw",
-    "revision_id": "613f663b87c548d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/bslab bya_personal advices/pan chen blo bzang chos kyi rgyal mtsan_panchen lobsang chukyi gyeltsen (1565-1662)/s05977me6_mngon mtho nges legs phun tsogs sgrub thabs mdo rgyud man ngag snying dril_the combined essence of advices from the open and secret teachings, a method of reaching the all excellent things of the higher realms and ultimate good_pan chen bl+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABi4A",
+    "revision_id": "625a4a9afaeb98d294473",
     "content_hash": "38ab3c3dd0c5e98c54f8027f24d47c92c61198fec8f4e1b0437c26f396c6d992",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:02:06.610148",
+    "server_modified": "2024-10-29 21:56:51",
+    "last_sync": "2024-11-19 21:20:08.869273",
     "size": 1779,
-    "meta_text": "O BZANG CHOS KYI RGYAL MTSAN (1565-1662)",
+    "meta_text": "('O BZANG CHOS KYI RGYAL MTSAN (1565-1662)', 'rtf')",
     "cat_ref": "S05977ME6",
     "work_ref": "W.S05977ME6",
     "title_tib": "MNGON MTHO NGES LEGS PHUN TSOGS SGRUB THABS MDO RGYUD MAN NGAG SNYING DRIL",
@@ -19,11 +19,11 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "150608414166",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/PAN CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/BSLAB BYA/PAN CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/PERSONAL ADVICES/PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
-            "subject_tibetan": "PAN CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
+            "_id": "285289936275",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/BSLAB BYA/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/PERSONAL ADVICES/PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+            "subject_tibetan": "PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
             "subject_english": "PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)"
         }
     ],
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/bslab bya_personal advices/pan chen blo bzang chos kyi rgyal mtsan_panchen lobsang chukyi gyeltsen (1565-1662)",
-            "timestamp": "2024-09-10T02:02:06.654782+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+            "timestamp": "2024-11-20 05:20:08.878035+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:20:08.878035+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

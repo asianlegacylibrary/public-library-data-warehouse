@@ -1,12 +1,12 @@
 {
     "name": "S00226E_RGYAL CHEN RDO RJE SHUGS LDAN GYI RTEN MDOS BCA' SGRIGS KYI DPE RIS_Illustrations for Use in the Practice of the Great King, the Diamond Angel of Power (Vajravega)_SKYABS RJE KHRI BYANG RIN PO CHE (1901-1981).TXT",
-    "path": "rgyud_secret teachings (tantra)/rdo rje shugs ldan_diamond angel of power (vajravega)/mchod pa_offering",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/rdo rje shugs ldan_diamond angel of power (vajravega)/mchod pa_offering/s00226e_rgyal chen rdo rje shugs ldan gyi rten mdos bca' sgrigs kyi dpe ris_illustrations for use in the practice of the great king, the diamond angel of power (vajravega)_skyabs rje khri byang rin po che (1901-1981).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAH-Q",
-    "revision_id": "613f664dc42158d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE SHUGS LDAN_DIAMOND ANGEL OF POWER (VAJRAVEGA)/MCHOD PA_OFFERING",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/rdo rje shugs ldan_diamond angel of power (vajravega)/mchod pa_offering/s00226e_rgyal chen rdo rje shugs ldan gyi rten mdos bca' sgrigs kyi dpe ris_illustrations for use in the practice of the great king, the diamond angel of power (vajravega)_skyabs rje khri byang rin po che (1901-1981).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABeOA",
+    "revision_id": "625a49b789ffa8d294473",
     "content_hash": "9daed711c1a495b8dbdf468c1aa25689114bdeb77fdb5847404233e67a9a8e16",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:08:58.154648",
+    "server_modified": "2024-10-29 21:52:53",
+    "last_sync": "2024-11-19 21:12:06.732076",
     "size": 953,
     "meta_text": null,
     "cat_ref": "S00226E",
@@ -19,10 +19,10 @@
     "author_simple": "SKYABS RJE KHRI BYANG RIN PO CHE",
     "subject": [
         {
-            "_id": "196794014330",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE SHUGS LDAN_DIAMOND ANGEL OF POWER (VAJRAVEGA)/MCHOD PA_OFFERING",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/RDO RJE SHUGS LDAN/MCHOD PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/DIAMOND ANGEL OF POWER (VAJRAVEGA)/OFFERING",
+            "_id": "174097040991",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE SHUGS LDAN_DIAMOND ANGEL OF POWER (VAJRAVEGA)/MCHOD PA_OFFERING",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/RDO RJE SHUGS LDAN/MCHOD PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/DIAMOND ANGEL OF POWER (VAJRAVEGA)/OFFERING",
             "subject_tibetan": "MCHOD PA",
             "subject_english": "OFFERING"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P2596"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/rdo rje shugs ldan_diamond angel of power (vajravega)/mchod pa_offering",
-            "timestamp": "2024-09-10T02:08:58.170375+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE SHUGS LDAN_DIAMOND ANGEL OF POWER (VAJRAVEGA)/MCHOD PA_OFFERING",
+            "timestamp": "2024-11-20 05:12:06.736558+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:12:06.736558+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

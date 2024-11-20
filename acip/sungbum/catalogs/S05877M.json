@@ -1,14 +1,14 @@
 {
     "name": "S05877M_CHOS SMRA BA'I DGE SLONG BLO BZANG CHOS KYI RGYAL MTSAN GYI SPYOD TSUL GSAL BAR STON PA NOR BU'I PHRENG BA_The 'String of Jewels,' being a Clear Presentation of the Deeds of that Monk who Spoke the Dharma, Lobsang Chukyi Gyeltsen_(SH'AKYA'I  +.TXT",
-    "path": "rnam thar_biographies/mtsan thog_by person's name/pan chen blo bzang chos kyi rgyal mtsan_panchen lobsang chukyi gyeltsen (1565-1662)",
-    "download_path": "/sungbum updated 4 26 23 bk/rnam thar_biographies/mtsan thog_by person's name/pan chen blo bzang chos kyi rgyal mtsan_panchen lobsang chukyi gyeltsen (1565-1662)/s05877m_chos smra ba'i dge slong blo bzang chos kyi rgyal mtsan gyi spyod tsul gsal bar ston pa nor bu'i phreng ba_the 'string of jewels,' being a clear presentation of the deeds of that monk who spoke the dharma, lobsang chukyi gyeltsen_(sh'akya'i  +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAWww",
-    "revision_id": "613f666d209df8d294473",
+    "path": "RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+    "download_path": "/sungbum updated 7 30 23 nl/rnam thar_biographies/mtsan thog_by person's name/pan chen blo bzang chos kyi rgyal mtsan_panchen lobsang chukyi gyeltsen (1565-1662)/s05877m_chos smra ba'i dge slong blo bzang chos kyi rgyal mtsan gyi spyod tsul gsal bar ston pa nor bu'i phreng ba_the 'string of jewels,' being a clear presentation of the deeds of that monk who spoke the dharma, lobsang chukyi gyeltsen_(sh'akya'i  +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABgEQ",
+    "revision_id": "625a4a1203c518d294473",
     "content_hash": "89fee11af2d486619499f77ba14cc7c5b2527273009a543c35cec2aa9db91516",
-    "server_modified": "2024-03-18T21:54:28",
-    "last_sync": "2024-09-09T19:24:03.274324",
+    "server_modified": "2024-10-29 21:54:28",
+    "last_sync": "2024-11-19 21:15:28.822793",
     "size": 602850,
-    "meta_text": "BTZUN PA) BLO BZANG YE SHES (1663-1737)",
+    "meta_text": "('BTZUN PA) BLO BZANG YE SHES (1663-1737)', 'rtf')",
     "cat_ref": "S05877M",
     "work_ref": "W.S05877M",
     "title_tib": "CHOS SMRA BA'I DGE SLONG BLO BZANG CHOS KYI RGYAL MTSAN GYI SPYOD TSUL GSAL BAR STON PA NOR BU'I PHRENG BA",
@@ -19,11 +19,11 @@
     "author_simple": "PAn CHEN BLA MA SKU PHRENG GNYIS PA BLO BZANG YE SHES",
     "subject": [
         {
-            "_id": "110436582971",
-            "subject_path": "SUNGBUM_SUNGBUM/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/PAN CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
-            "subject_path_tibetan": "SUNGBUM/RNAM THAR/MTSAN THOG/PAN CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
-            "subject_path_english": "SUNGBUM/BIOGRAPHIES/BY PERSON'S NAME/PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
-            "subject_tibetan": "PAN CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
+            "_id": "128271094854",
+            "subject_path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+            "subject_path_tibetan": "GSUNG 'BUM/RNAM THAR/MTSAN THOG/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
+            "subject_path_english": "Sungbum/BIOGRAPHIES/BY PERSON'S NAME/PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+            "subject_tibetan": "PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
             "subject_english": "PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)"
         }
     ],
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P106"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rnam thar_biographies/mtsan thog_by person's name/pan chen blo bzang chos kyi rgyal mtsan_panchen lobsang chukyi gyeltsen (1565-1662)",
-            "timestamp": "2024-09-10T02:24:03.289538+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+            "timestamp": "2024-11-20 05:15:30.561103+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:15:30.561103+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,28 +1,28 @@
 {
-    "name": "S05275MC5_DGE 'DUN GYI KHRIMS SU BCA' BA_Rules of Conduct for the Assembly of Monks_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419) (Philip Baker's conflicted copy 2021-07-18).TXT",
-    "path": "'dul ba_vowed morality (vinaya)/bca' khrims _monastic codes",
-    "download_path": "/sungbum updated 4 26 23 bk/'dul ba_vowed morality (vinaya)/bca' khrims _monastic codes/s05275mc5_dge 'dun gyi khrims su bca' ba_rules of conduct for the assembly of monks_rje tzong kha pa blo bzang grags pa (1357-1419) (philip baker's conflicted copy 2021-07-18).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAC_Q",
-    "revision_id": "613f663ffc7f08d294473",
+    "name": "S05275MC5_DGE 'DUN GYI KHRIMS SU BCA' BA_Rules of Conduct for the Assembly of Monks_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419).TXT",
+    "path": "'DUL BA_VOWED MORALITY (VINAYA)/BCA' KHRIMS _MONASTIC CODES",
+    "download_path": "/sungbum updated 7 30 23 nl/'dul ba_vowed morality (vinaya)/bca' khrims _monastic codes/s05275mc5_dge 'dun gyi khrims su bca' ba_rules of conduct for the assembly of monks_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABfHA",
+    "revision_id": "625a49dfd439c8d294473",
     "content_hash": "aad43bbcc67dfbb7cded15c7de76ac13b1d1b7a51cc10a12a6b4f0d4b109f3ae",
-    "server_modified": "2024-03-18T21:53:40",
-    "last_sync": "2024-09-09T19:04:17.649267",
+    "server_modified": "2024-10-29 21:53:35",
+    "last_sync": "2024-11-19 21:13:42.760971",
     "size": 14184,
     "meta_text": null,
     "cat_ref": "S05275MC5",
     "work_ref": "W.S05275MC5",
     "title_tib": "DGE 'DUN GYI KHRIMS SU BCA' BA",
-    "title_eng": "RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419) (Philip Baker's conflicted copy 2021-07-18)",
+    "title_eng": "Rules of Conduct for the Assembly of Monks",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
-    "author_simple": "",
+    "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "252366934899",
-            "subject_path": "SUNGBUM_SUNGBUM/'DUL BA_VOWED MORALITY (VINAYA)/BCA' KHRIMS _MONASTIC CODES",
-            "subject_path_tibetan": "SUNGBUM/'DUL BA/BCA' KHRIMS ",
-            "subject_path_english": "SUNGBUM/VOWED MORALITY (VINAYA)/MONASTIC CODES",
+            "_id": "182172746169",
+            "subject_path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/BCA' KHRIMS _MONASTIC CODES",
+            "subject_path_tibetan": "GSUNG 'BUM/'DUL BA/BCA' KHRIMS ",
+            "subject_path_english": "Sungbum/VOWED MORALITY (VINAYA)/MONASTIC CODES",
             "subject_tibetan": "BCA' KHRIMS ",
             "subject_english": "MONASTIC CODES"
         }
@@ -30,20 +30,24 @@
     "items": [],
     "author": [
         {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
+            "author_name": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
+            "author_birth": "1357",
+            "author_death": "1419"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "'dul ba_vowed morality (vinaya)/bca' khrims _monastic codes",
-            "timestamp": "2024-09-10T02:04:17.663731+00:00"
-        },
-        {
-            "path": "'dul ba_vowed morality (vinaya)/bca' khrims _monastic codes",
-            "timestamp": "2024-09-10T02:04:17.665256+00:00"
+            "path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/BCA' KHRIMS _MONASTIC CODES",
+            "timestamp": "2024-11-20 05:13:42.769588+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:13:42.769588+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,28 +1,28 @@
 {
     "name": "S05284E_RGYUD KYI RGYAL PO DPAL GSANG BA 'DUS PA'I RGYA CHER BSHAD PA SGRON MA GSAL BA'I DKA' BA'I GNAS KYI MTHA' GCOD RIN CHEN MYU GU_The 'Jewel Pen,' a Definitive Analysis of the Difficult Points in 'The Lamp of Illumination,' an Extensive Explana +.TXT",
-    "path": "rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/'grel pa_commentaries",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/'grel pa_commentaries/s05284e_rgyud kyi rgyal po dpal gsang ba 'dus pa'i rgya cher bshad pa sgron ma gsal ba'i dka' ba'i gnas kyi mtha' gcod rin chen myu gu_the 'jewel pen,' a definitive analysis of the difficult points in 'the lamp of illumination,' an extensive explana +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAARGg",
-    "revision_id": "613f665fcd69f8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/'GREL PA_COMMENTARIES",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/'grel pa_commentaries/s05284e_rgyud kyi rgyal po dpal gsang ba 'dus pa'i rgya cher bshad pa sgron ma gsal ba'i dka' ba'i gnas kyi mtha' gcod rin chen myu gu_the 'jewel pen,' a definitive analysis of the difficult points in 'the lamp of illumination,' an extensive explana +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABbeQ",
+    "revision_id": "625a4957ab7f18d294473",
     "content_hash": "e27ae6a51f1ff4efee8d2ffbfdf2da02817ed8a191d099437958781cffa9d977",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:18:43.359221",
+    "server_modified": "2024-10-29 21:51:12",
+    "last_sync": "2024-11-19 21:07:25.666217",
     "size": 394240,
-    "meta_text": "tion of the King of Secret Teachings, the Glorious Secret Collection (Guhyasamaja)_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)",
+    "meta_text": "('tion of the King of Secret Teachings, the Glorious Secret Collection (Guhyasamaja)_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)', 'rtf')",
     "cat_ref": "S05284E",
     "work_ref": "W.S05284E",
     "title_tib": "RGYUD KYI RGYAL PO DPAL GSANG BA 'DUS PA'I RGYA CHER BSHAD PA SGRON MA GSAL BA'I DKA' BA'I GNAS KYI MTHA' GCOD RIN CHEN MYU GU",
-    "title_eng": "The 'Jewel Pen,' a Definitive Analysis of the Difficult Points in 'The Lamp of Illumination,' an Extensive Explanation of the King of Secret Teachings, the Glorious Secret Collection (Guhyasamaja)",
+    "title_eng": "The 'Jewel Pen,' a Definitive Analysis of the Difficult Points in 'The Lamp of Illumination,' an Extensive Explana('tion of the King of Secret Teachings, the Glorious Secret Collection (Guhyasamaja)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "369027515595",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/'GREL PA_COMMENTARIES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/GSANG 'DUS/'GREL PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/SECRET COLLECTION (GUHYASAMAJA)/COMMENTARIES",
+            "_id": "304141721314",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/'GREL PA_COMMENTARIES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/GSANG 'DUS/'GREL PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/SECRET COLLECTION (GUHYASAMAJA)/COMMENTARIES",
             "subject_tibetan": "'GREL PA",
             "subject_english": "COMMENTARIES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/'grel pa_commentaries",
-            "timestamp": "2024-09-10T02:18:43.378490+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/'GREL PA_COMMENTARIES",
+            "timestamp": "2024-11-20 05:07:30.284441+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:07:30.284441+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

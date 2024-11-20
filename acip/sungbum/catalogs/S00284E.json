@@ -1,29 +1,29 @@
 {
     "name": "S00284E_SGROL MA TZITTA MA nI DANG 'BREL BA'I MAndAL BZHI CHOG MDOR BSDUS BYA TSUL_Instructions for a Briefer Version of the Practice of the Four Mandalas, Connected with 'The Wish-Giving Jewel Ritual' in the Teaching of the Lady of Liberation (Tara)+.TXT",
-    "path": "rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/mandal bzhi_ritual of the four secret worlds",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/mandal bzhi_ritual of the four secret worlds/s00284e_sgrol ma tzitta ma ni dang 'brel ba'i mandal bzhi chog mdor bsdus bya tsul_instructions for a briefer version of the practice of the four mandalas, connected with 'the wish-giving jewel ritual' in the teaching of the lady of liberation (tara)+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAQIA",
-    "revision_id": "613f665fcd5a58d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/MAndAL BZHI_RITUAL OF THE FOUR SECRET WORLDS",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/mandal bzhi_ritual of the four secret worlds/s00284e_sgrol ma tzitta ma ni dang 'brel ba'i mandal bzhi chog mdor bsdus bya tsul_instructions for a briefer version of the practice of the four mandalas, connected with 'the wish-giving jewel ritual' in the teaching of the lady of liberation (tara)+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABYZA",
+    "revision_id": "625a48dbe41b48d294473",
     "content_hash": "329e30ea95e520abd5045bbf619e285ad583ccbe31b05f3ef6c4caafab5d83fd",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:17:34.296531",
+    "server_modified": "2024-10-29 21:49:03",
+    "last_sync": "2024-11-19 21:02:20.471179",
     "size": 8410,
-    "meta_text": "_& (&-&)",
+    "meta_text": "('_& (&-&)', 'rtf')",
     "cat_ref": "S00284E",
     "work_ref": "W.S00284E",
     "title_tib": "SGROL MA TZITTA MA nI DANG 'BREL BA'I MAndAL BZHI CHOG MDOR BSDUS BYA TSUL",
-    "title_eng": "Instructions for a Briefer Version of the Practice of the Four Mandalas, Connected with 'The Wish-Giving Jewel Ritual' in the Teaching of the Lady of Liberation (Tara)",
+    "title_eng": "Instructions for a Briefer Version of the Practice of the Four Mandalas, Connected with 'The Wish-Giving Jewel Ritual' in the Teaching of the Lady of Liberation (Tara)& (&-&)', 'rtf')",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "",
     "subject": [
         {
-            "_id": "308948108358",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/MANDAL BZHI_RITUAL OF THE FOUR SECRET WORLDS",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SGROL MA/MANDAL BZHI",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/LADY OF LIBERATION (TARA)/RITUAL OF THE FOUR SECRET WORLDS",
-            "subject_tibetan": "MANDAL BZHI",
+            "_id": "218864984208",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/MAndAL BZHI_RITUAL OF THE FOUR SECRET WORLDS",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SGROL MA/MAndAL BZHI",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/LADY OF LIBERATION (TARA)/RITUAL OF THE FOUR SECRET WORLDS",
+            "subject_tibetan": "MAndAL BZHI",
             "subject_english": "RITUAL OF THE FOUR SECRET WORLDS"
         }
     ],
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/mandal bzhi_ritual of the four secret worlds",
-            "timestamp": "2024-09-10T02:17:34.302952+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/MAndAL BZHI_RITUAL OF THE FOUR SECRET WORLDS",
+            "timestamp": "2024-11-20 05:02:21.077145+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:02:21.077145+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,12 +1,12 @@
 {
     "name": "SS5275M1.TXT",
-    "path": "lam rim_steps of the path/yon tan gzhir gyur ma_source of all my good/tibetan",
-    "download_path": "/sungbum updated 4 26 23 bk/lam rim_steps of the path/yon tan gzhir gyur ma_source of all my good/tibetan/ss5275m1.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAGUA",
-    "revision_id": "613f66492f0ba8d294473",
+    "path": "LAM RIM_STEPS OF THE PATH/YON TAN GZHIR GYUR MA_SOURCE OF ALL MY GOOD/TIBETAN",
+    "download_path": "/sungbum updated 7 30 23 nl/lam rim_steps of the path/yon tan gzhir gyur ma_source of all my good/tibetan/ss5275m1.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABh6w",
+    "revision_id": "625a4a76543a38d294473",
     "content_hash": "5a6d7558bf1062a004a8a667303372b682356774c21888786b9e2f9e569b1c6f",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:07:25.724950",
+    "server_modified": "2024-10-29 21:56:13",
+    "last_sync": "2024-11-19 21:18:40.780228",
     "size": 2381,
     "meta_text": null,
     "cat_ref": "SS5275M1",
@@ -19,10 +19,10 @@
     "author_simple": "",
     "subject": [
         {
-            "_id": "191302348062",
-            "subject_path": "SUNGBUM_SUNGBUM/LAM RIM_STEPS OF THE PATH/YON TAN GZHIR GYUR MA_SOURCE OF ALL MY GOOD/TIBETAN",
-            "subject_path_tibetan": "SUNGBUM/LAM RIM/YON TAN GZHIR GYUR MA/TIBETAN",
-            "subject_path_english": "SUNGBUM/STEPS OF THE PATH/SOURCE OF ALL MY GOOD",
+            "_id": "561278241605",
+            "subject_path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/YON TAN GZHIR GYUR MA_SOURCE OF ALL MY GOOD/TIBETAN",
+            "subject_path_tibetan": "GSUNG 'BUM/LAM RIM/YON TAN GZHIR GYUR MA/TIBETAN",
+            "subject_path_english": "Sungbum/STEPS OF THE PATH/SOURCE OF ALL MY GOOD",
             "subject_tibetan": "TIBETAN",
             "subject_english": "SOURCE OF ALL MY GOOD"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "lam rim_steps of the path/yon tan gzhir gyur ma_source of all my good/tibetan",
-            "timestamp": "2024-09-10T02:07:25.732519+00:00"
+            "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/YON TAN GZHIR GYUR MA_SOURCE OF ALL MY GOOD/TIBETAN",
+            "timestamp": "2024-11-20 05:18:40.783444+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:18:40.783444+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

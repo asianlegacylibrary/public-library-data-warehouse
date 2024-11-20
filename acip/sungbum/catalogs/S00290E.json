@@ -1,28 +1,28 @@
 {
     "name": "S00290E_RDO RJE 'JIGS BYED PA' BO GCIG PA'I GZHI BSNYEN CHEN MO'I BKA' KHRID STZAL SKABS KYI ZIN BRI_Notes Taken on the Occasion of a Teaching about the Foundation Retreat for the Diamond Frightener )Vajra Bhairava), in the Form of a Solitary Warrio +.TXT",
-    "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/bsnyen pa_retreat instructions",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/bsnyen pa_retreat instructions/s00290e_rdo rje 'jigs byed pa' bo gcig pa'i gzhi bsnyen chen mo'i bka' khrid stzal skabs kyi zin bri_notes taken on the occasion of a teaching about the foundation retreat for the diamond frightener )vajra bhairava), in the form of a solitary warrio +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAM5A",
-    "revision_id": "613f6656dedb58d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/BSNYEN PA_RETREAT INSTRUCTIONS",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/bsnyen pa_retreat instructions/s00290e_rdo rje 'jigs byed pa' bo gcig pa'i gzhi bsnyen chen mo'i bka' khrid stzal skabs kyi zin bri_notes taken on the occasion of a teaching about the foundation retreat for the diamond frightener )vajra bhairava), in the form of a solitary warrio +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABddg",
+    "revision_id": "625a499879ed98d294473",
     "content_hash": "2f6dde2cb5fd4acb95b41aee248d264645b4f0247bda4a585ec38659ffe11c18",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:14:17.243576",
+    "server_modified": "2024-10-29 21:52:20",
+    "last_sync": "2024-11-19 21:10:46.837480",
     "size": 60277,
-    "meta_text": "r (Eka Vira)_& (&-&)",
+    "meta_text": "('r (Eka Vira)_& (&-&)', 'rtf')",
     "cat_ref": "S00290E",
     "work_ref": "W.S00290E",
     "title_tib": "RDO RJE 'JIGS BYED PA' BO GCIG PA'I GZHI BSNYEN CHEN MO'I BKA' KHRID STZAL SKABS KYI ZIN BRI",
-    "title_eng": "Notes Taken on the Occasion of a Teaching about the Foundation Retreat for the Diamond Frightener )Vajra Bhairava), in the Form of a Solitary Warrior (Eka Vira)",
+    "title_eng": "Notes Taken on the Occasion of a Teaching about the Foundation Retreat for the Diamond Frightener )Vajra Bhairava), in the Form of a Solitary Warrio('r (Eka Vira)& (&-&)', 'rtf')",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "",
     "subject": [
         {
-            "_id": "170503961426",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/BSNYEN PA_RETREAT INSTRUCTIONS",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/'JIGS BYED/BSNYEN PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/RETREAT INSTRUCTIONS",
+            "_id": "469945387818",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/BSNYEN PA_RETREAT INSTRUCTIONS",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/'JIGS BYED/BSNYEN PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/RETREAT INSTRUCTIONS",
             "subject_tibetan": "BSNYEN PA",
             "subject_english": "RETREAT INSTRUCTIONS"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/bsnyen pa_retreat instructions",
-            "timestamp": "2024-09-10T02:14:17.254593+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/BSNYEN PA_RETREAT INSTRUCTIONS",
+            "timestamp": "2024-11-20 05:10:50.325574+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:10:50.325574+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

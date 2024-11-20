@@ -1,28 +1,28 @@
 {
     "name": "S00208E_MKHAS GRUB SBYIN PA DAR RGYAS KYIS MDZAD PA'I CHOS 'KHOR GYI SPYI DON BLO GSAL GZHON NU'I MGRIN RGYAN_The 'Jewel Necklace for Intelligent Young Minds,' being an Overview of the Subject of the Turning of the Wheel of the Dharma Written by th+.TXT",
-    "path": "phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/chos 'khor_turning of the wheel",
-    "download_path": "/sungbum updated 4 26 23 bk/phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/chos 'khor_turning of the wheel/s00208e_mkhas grub sbyin pa dar rgyas kyis mdzad pa'i chos 'khor gyi spyi don blo gsal gzhon nu'i mgrin rgyan_the 'jewel necklace for intelligent young minds,' being an overview of the subject of the turning of the wheel of the dharma written by th+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAUzA",
-    "revision_id": "613f6668766328d294473",
+    "path": "PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/CHOS 'KHOR_TURNING OF THE WHEEL",
+    "download_path": "/sungbum updated 7 30 23 nl/phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/chos 'khor_turning of the wheel/s00208e_mkhas grub sbyin pa dar rgyas kyis mdzad pa'i chos 'khor gyi spyi don blo gsal gzhon nu'i mgrin rgyan_the 'jewel necklace for intelligent young minds,' being an overview of the subject of the turning of the wheel of the dharma written by th+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABOpw",
+    "revision_id": "625a4774f53a38d294473",
     "content_hash": "c7b234723409a0a3c6156a5ebac5ed6bd02f9f38eb23059951df5c50ade2f542",
-    "server_modified": "2024-03-18T21:54:23",
-    "last_sync": "2024-09-09T19:21:53.861119",
+    "server_modified": "2024-10-29 21:42:46",
+    "last_sync": "2024-11-19 20:46:42.207581",
     "size": 66166,
-    "meta_text": "e Accomplished Master Jinpa Dargye_MKHAS GRUB SBYIN PA DAR RGYAS (1558-&)",
+    "meta_text": "('e Accomplished Master Jinpa Dargye_MKHAS GRUB SBYIN PA DAR RGYAS (1558-&)', 'rtf')",
     "cat_ref": "S00208E",
     "work_ref": "W.S00208E",
     "title_tib": "MKHAS GRUB SBYIN PA DAR RGYAS KYIS MDZAD PA'I CHOS 'KHOR GYI SPYI DON BLO GSAL GZHON NU'I MGRIN RGYAN",
-    "title_eng": "The 'Jewel Necklace for Intelligent Young Minds,' being an Overview of the Subject of the Turning of the Wheel of the Dharma Written by the Accomplished Master Jinpa Dargye",
+    "title_eng": "The 'Jewel Necklace for Intelligent Young Minds,' being an Overview of the Subject of the Turning of the Wheel of the Dharma Written by th('e Accomplished Master Jinpa Dargye",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "MKHAS GRUB SBYIN PA DAR RGYAS",
     "subject": [
         {
-            "_id": "104954252487",
-            "subject_path": "SUNGBUM_SUNGBUM/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/CHOS 'KHOR_TURNING OF THE WHEEL",
-            "subject_path_tibetan": "SUNGBUM/PHAR PHYIN/CHOS 'KHOR",
-            "subject_path_english": "SUNGBUM/PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/TURNING OF THE WHEEL",
+            "_id": "256417578001",
+            "subject_path": "GSUNG 'BUM_Sungbum/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/CHOS 'KHOR_TURNING OF THE WHEEL",
+            "subject_path_tibetan": "GSUNG 'BUM/PHAR PHYIN/CHOS 'KHOR",
+            "subject_path_english": "Sungbum/PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/TURNING OF THE WHEEL",
             "subject_tibetan": "CHOS 'KHOR",
             "subject_english": "TURNING OF THE WHEEL"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P87"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/chos 'khor_turning of the wheel",
-            "timestamp": "2024-09-10T02:21:53.866354+00:00"
+            "path": "GSUNG 'BUM_Sungbum/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/CHOS 'KHOR_TURNING OF THE WHEEL",
+            "timestamp": "2024-11-20 04:46:42.217214+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:46:42.217214+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

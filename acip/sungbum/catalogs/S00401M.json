@@ -1,12 +1,12 @@
 {
     "name": "S00401M_RNAM DAG GTZUG GI NOR BU LA JO BOS GNANG BA'I BLO SBYONG_Instructions for Developing the Good Heart granted to Namdak Tsukki Norbu by Lord Atisha_DPAL MAR ME MDZAD YE SHES (AA T'I SHA) (982-1052).TXT",
-    "path": "blo sbyong_developing the good heart/rnam dag gtzug gi nor bu la jo bos gnang ba'i blo sbyong_instructions for developing the good heart granted to namdak tsukki norbu by lord atisha (982-1052)",
-    "download_path": "/sungbum updated 4 26 23 bk/blo sbyong_developing the good heart/rnam dag gtzug gi nor bu la jo bos gnang ba'i blo sbyong_instructions for developing the good heart granted to namdak tsukki norbu by lord atisha (982-1052)/s00401m_rnam dag gtzug gi nor bu la jo bos gnang ba'i blo sbyong_instructions for developing the good heart granted to namdak tsukki norbu by lord atisha_dpal mar me mdzad ye shes (aa t'i sha) (982-1052).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAATRw",
-    "revision_id": "613f66647446a8d294473",
+    "path": "BLO SBYONG_DEVELOPING THE GOOD HEART/RNAM DAG GTZUG GI NOR BU LA JO BOS GNANG BA'I BLO SBYONG_INSTRUCTIONS FOR DEVELOPING THE GOOD HEART GRANTED TO NAMDAK TSUKKI NORBU BY LORD ATISHA (982-1052)",
+    "download_path": "/sungbum updated 7 30 23 nl/blo sbyong_developing the good heart/rnam dag gtzug gi nor bu la jo bos gnang ba'i blo sbyong_instructions for developing the good heart granted to namdak tsukki norbu by lord atisha (982-1052)/s00401m_rnam dag gtzug gi nor bu la jo bos gnang ba'i blo sbyong_instructions for developing the good heart granted to namdak tsukki norbu by lord atisha_dpal mar me mdzad ye shes (aa t'i sha) (982-1052).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABlNw",
+    "revision_id": "625a4ae6594b18d294473",
     "content_hash": "8560d1b32db059edb10b00ad465ed59fb120d572dedf505d7b39cfa12972076a",
-    "server_modified": "2024-03-18T21:54:19",
-    "last_sync": "2024-09-09T19:21:01.023507",
+    "server_modified": "2024-10-29 21:58:11",
+    "last_sync": "2024-11-19 21:24:51.080094",
     "size": 6630,
     "meta_text": null,
     "cat_ref": "S00401M",
@@ -19,10 +19,10 @@
     "author_simple": "DPAL MAR ME MDZAD YE SHES",
     "subject": [
         {
-            "_id": "292420310838",
-            "subject_path": "SUNGBUM_SUNGBUM/BLO SBYONG_DEVELOPING THE GOOD HEART/RNAM DAG GTZUG GI NOR BU LA JO BOS GNANG BA'I BLO SBYONG_INSTRUCTIONS FOR DEVELOPING THE GOOD HEART GRANTED TO NAMDAK TSUKKI NORBU BY LORD ATISHA (982-1052)",
-            "subject_path_tibetan": "SUNGBUM/BLO SBYONG/RNAM DAG GTZUG GI NOR BU LA JO BOS GNANG BA'I BLO SBYONG",
-            "subject_path_english": "SUNGBUM/DEVELOPING THE GOOD HEART/INSTRUCTIONS FOR DEVELOPING THE GOOD HEART GRANTED TO NAMDAK TSUKKI NORBU BY LORD ATISHA (982-1052)",
+            "_id": "965844468981",
+            "subject_path": "GSUNG 'BUM_Sungbum/BLO SBYONG_DEVELOPING THE GOOD HEART/RNAM DAG GTZUG GI NOR BU LA JO BOS GNANG BA'I BLO SBYONG_INSTRUCTIONS FOR DEVELOPING THE GOOD HEART GRANTED TO NAMDAK TSUKKI NORBU BY LORD ATISHA (982-1052)",
+            "subject_path_tibetan": "GSUNG 'BUM/BLO SBYONG/RNAM DAG GTZUG GI NOR BU LA JO BOS GNANG BA'I BLO SBYONG",
+            "subject_path_english": "Sungbum/DEVELOPING THE GOOD HEART/INSTRUCTIONS FOR DEVELOPING THE GOOD HEART GRANTED TO NAMDAK TSUKKI NORBU BY LORD ATISHA (982-1052)",
             "subject_tibetan": "RNAM DAG GTZUG GI NOR BU LA JO BOS GNANG BA'I BLO SBYONG",
             "subject_english": "INSTRUCTIONS FOR DEVELOPING THE GOOD HEART GRANTED TO NAMDAK TSUKKI NORBU BY LORD ATISHA (982-1052)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P3379"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "blo sbyong_developing the good heart/rnam dag gtzug gi nor bu la jo bos gnang ba'i blo sbyong_instructions for developing the good heart granted to namdak tsukki norbu by lord atisha (982-1052)",
-            "timestamp": "2024-09-10T02:21:01.026088+00:00"
+            "path": "GSUNG 'BUM_Sungbum/BLO SBYONG_DEVELOPING THE GOOD HEART/RNAM DAG GTZUG GI NOR BU LA JO BOS GNANG BA'I BLO SBYONG_INSTRUCTIONS FOR DEVELOPING THE GOOD HEART GRANTED TO NAMDAK TSUKKI NORBU BY LORD ATISHA (982-1052)",
+            "timestamp": "2024-11-20 05:24:51.085329+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:24:51.085329+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

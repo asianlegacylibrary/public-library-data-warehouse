@@ -1,28 +1,28 @@
 {
     "name": "S12245E_DPAL DUS KYI 'KHOR LO'I THUGS DKYIL GYI SGRUB THABS MDOR BSDUS PAn CHEN ZHAL LUNG BDUD RTZI'I BUM BZANG_The Excellent Vase of Deathless Nectar--An Oral Transmission from His Holiness the Panchen Lama which presents a Brief Version of the Rit +.TXT",
-    "path": "rgyud_secret teachings (tantra)/dus 'khor_wheel of time (kalachakra)/sgrub thabs_ritual for reaching the angel (sadhana)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/dus 'khor_wheel of time (kalachakra)/sgrub thabs_ritual for reaching the angel (sadhana)/s12245e_dpal dus kyi 'khor lo'i thugs dkyil gyi sgrub thabs mdor bsdus pan chen zhal lung bdud rtzi'i bum bzang_the excellent vase of deathless nectar--an oral transmission from his holiness the panchen lama which presents a brief version of the rit +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAI4g",
-    "revision_id": "613f664dc42fe8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/dus 'khor_wheel of time (kalachakra)/sgrub thabs_ritual for reaching the angel (sadhana)/s12245e_dpal dus kyi 'khor lo'i thugs dkyil gyi sgrub thabs mdor bsdus pan chen zhal lung bdud rtzi'i bum bzang_the excellent vase of deathless nectar--an oral transmission from his holiness the panchen lama which presents a brief version of the rit +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABaqw",
+    "revision_id": "625a4931ddf578d294473",
     "content_hash": "2016f7b2d75b5d167a273b427d87d827fb2296e655697aa310f299689adb90c8",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:09:53.639140",
+    "server_modified": "2024-10-29 21:50:33",
+    "last_sync": "2024-11-19 21:05:53.413176",
     "size": 58078,
-    "meta_text": "ual for Reaching the Angel in the Secret World of Enlightened Mind within the Secret Teachings of the Glorious Wheel of Time (Kalachakra)_RJE BTZUN BLO BZANG RTA DBYANGS (1867-1937)",
+    "meta_text": "('ual for Reaching the Angel in the Secret World of Enlightened Mind within the Secret Teachings of the Glorious Wheel of Time (Kalachakra)_RJE BTZUN BLO BZANG RTA DBYANGS (1867-1937)', 'rtf')",
     "cat_ref": "S12245E",
     "work_ref": "W.S12245E",
     "title_tib": "DPAL DUS KYI 'KHOR LO'I THUGS DKYIL GYI SGRUB THABS MDOR BSDUS PAn CHEN ZHAL LUNG BDUD RTZI'I BUM BZANG",
-    "title_eng": "The Excellent Vase of Deathless Nectar--An Oral Transmission from His Holiness the Panchen Lama which presents a Brief Version of the Ritual for Reaching the Angel in the Secret World of Enlightened Mind within the Secret Teachings of the Glorious Wheel of Time (Kalachakra)",
+    "title_eng": "The Excellent Vase of Deathless Nectar--An Oral Transmission from His Holiness the Panchen Lama which presents a Brief Version of the Rit('ual for Reaching the Angel in the Secret World of Enlightened Mind within the Secret Teachings of the Glorious Wheel of Time (Kalachakra)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "RJE BTZUN BLO BZANG RTA DBYANGS",
     "subject": [
         {
-            "_id": "114235599071",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/DUS 'KHOR/SGRUB THABS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/WHEEL OF TIME (KALACHAKRA)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "_id": "983365910768",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/DUS 'KHOR/SGRUB THABS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/WHEEL OF TIME (KALACHAKRA)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
             "subject_tibetan": "SGRUB THABS",
             "subject_english": "RITUAL FOR REACHING THE ANGEL (SADHANA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P1638"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/dus 'khor_wheel of time (kalachakra)/sgrub thabs_ritual for reaching the angel (sadhana)",
-            "timestamp": "2024-09-10T02:09:53.654234+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "timestamp": "2024-11-20 05:05:53.418997+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:05:53.418997+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

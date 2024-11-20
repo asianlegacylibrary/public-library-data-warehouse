@@ -1,28 +1,28 @@
 {
     "name": "S12097E_BKA' DRIN ZLA MED ^ SKYABS RJE YONGS 'DZIN KHRI BYANG RDO RJE 'CHANG CHEN PO'I DRUNG NAS SE RA TSOGS CHEN DU BLA MA MCHOD PA'I KHRID STZAL SKABS KYI ZIN BRIS_Notes taken on the Occasion of a Teaching Granted by our Lama of Matchless Kindness +.TXT",
-    "path": "rgyud_secret teachings (tantra)/bla ma mchod pa_offering to lamas/'grel pa_commentaries",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/bla ma mchod pa_offering to lamas/'grel pa_commentaries/s12097e_bka' drin zla med ^ skyabs rje yongs 'dzin khri byang rdo rje 'chang chen po'i drung nas se ra tsogs chen du bla ma mchod pa'i khrid stzal skabs kyi zin bris_notes taken on the occasion of a teaching granted by our lama of matchless kindness +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAMAA",
-    "revision_id": "613f6656decd18d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/BLA MA MCHOD PA_OFFERING TO LAMAS/'GREL PA_COMMENTARIES",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/bla ma mchod pa_offering to lamas/'grel pa_commentaries/s12097e_bka' drin zla med ^ skyabs rje yongs 'dzin khri byang rdo rje 'chang chen po'i drung nas se ra tsogs chen du bla ma mchod pa'i khrid stzal skabs kyi zin bris_notes taken on the occasion of a teaching granted by our lama of matchless kindness +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABeeA",
+    "revision_id": "625a49be679628d294473",
     "content_hash": "750e9b2d7d0cb78e5231e608c9c5260ba84a8d3c39d1745f1d8aa0d2031b25ef",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:13:09.578447",
+    "server_modified": "2024-10-29 21:53:00",
+    "last_sync": "2024-11-19 21:12:31.470869",
     "size": 31535,
-    "meta_text": ", the Great Kyabje Yongdzin Trijang Dorje Chang, at the Main Temple of Sera Monastery, on the Subject the ‘Offering to Lamas’_DZE SMAD RIN PO CHE BLO BZANG DPAL LDAN BSTAN 'DZIN YAR RGYAS (1927-1996)",
+    "meta_text": "(\", the Great Kyabje Yongdzin Trijang Dorje Chang, at the Main Temple of Sera Monastery, on the Subject the ‘Offering to Lamas’_DZE SMAD RIN PO CHE BLO BZANG DPAL LDAN BSTAN 'DZIN YAR RGYAS (1927-1996)\", 'rtf')",
     "cat_ref": "S12097E",
     "work_ref": "W.S12097E",
     "title_tib": "BKA' DRIN ZLA MED ^ SKYABS RJE YONGS 'DZIN KHRI BYANG RDO RJE 'CHANG CHEN PO'I DRUNG NAS SE RA TSOGS CHEN DU BLA MA MCHOD PA'I KHRID STZAL SKABS KYI ZIN BRIS",
-    "title_eng": "Notes taken on the Occasion of a Teaching Granted by our Lama of Matchless Kindness, the Great Kyabje Yongdzin Trijang Dorje Chang, at the Main Temple of Sera Monastery, on the Subject the ‘Offering to Lamas’",
+    "title_eng": "Notes taken on the Occasion of a Teaching Granted by our Lama of Matchless Kindness(\", the Great Kyabje Yongdzin Trijang Dorje Chang, at the Main Temple of Sera Monastery, on the Subject the ‘Offering to Lamas’",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "DZE SMAD RIN PO CHE BLO BZANG DPAL LDAN BSTAN 'DZIN YAR RGYAS",
     "subject": [
         {
-            "_id": "256619765336",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/BLA MA MCHOD PA_OFFERING TO LAMAS/'GREL PA_COMMENTARIES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/BLA MA MCHOD PA/'GREL PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/OFFERING TO LAMAS/COMMENTARIES",
+            "_id": "192397078472",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BLA MA MCHOD PA_OFFERING TO LAMAS/'GREL PA_COMMENTARIES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/BLA MA MCHOD PA/'GREL PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/OFFERING TO LAMAS/COMMENTARIES",
             "subject_tibetan": "'GREL PA",
             "subject_english": "COMMENTARIES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P2425"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/bla ma mchod pa_offering to lamas/'grel pa_commentaries",
-            "timestamp": "2024-09-10T02:13:09.597156+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BLA MA MCHOD PA_OFFERING TO LAMAS/'GREL PA_COMMENTARIES",
+            "timestamp": "2024-11-20 05:12:31.481452+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:12:31.481452+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

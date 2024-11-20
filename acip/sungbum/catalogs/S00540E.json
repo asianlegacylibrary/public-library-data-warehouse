@@ -1,12 +1,12 @@
 {
     "name": "S00540E_ YANG SNAR THANG BRGYA RTZI'I ZIN BRIS_Additional Notes to Teachings on the Nartang Pantheon_CHE SHOS RIN PO CHE BLO BZANG BYANG CHUB BSTAN PA'I SGRON ME (1861-1933@).TXT",
-    "path": "rgyud_secret teachings (tantra)/snar thang_secret practices of nartang monastery/'grel pa_commentaries",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/snar thang_secret practices of nartang monastery/'grel pa_commentaries/s00540e_ yang snar thang brgya rtzi'i zin bris_additional notes to teachings on the nartang pantheon_che shos rin po che blo bzang byang chub bstan pa'i sgron me (1861-1933@).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAJ4w",
-    "revision_id": "613f6652787fb8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SNAR THANG_SECRET PRACTICES OF NARTANG MONASTERY/'GREL PA_COMMENTARIES",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/snar thang_secret practices of nartang monastery/'grel pa_commentaries/s00540e_ yang snar thang brgya rtzi'i zin bris_additional notes to teachings on the nartang pantheon_che shos rin po che blo bzang byang chub bstan pa'i sgron me (1861-1933@).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABeVw",
+    "revision_id": "625a49bb882ed8d294473",
     "content_hash": "70144317c731d078dae55206b28c928a31b6976b703515cda9501facbe88292c",
-    "server_modified": "2024-03-18T21:54:00",
-    "last_sync": "2024-09-09T19:10:54.596390",
+    "server_modified": "2024-10-29 21:52:57",
+    "last_sync": "2024-11-19 21:12:34.844082",
     "size": 2603,
     "meta_text": null,
     "cat_ref": "S00540E",
@@ -19,10 +19,10 @@
     "author_simple": "CHE SHOS RIN PO CHE BLO BZANG BYANG CHUB BSTAN PA'I SGRON ME",
     "subject": [
         {
-            "_id": "218227590660",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SNAR THANG_SECRET PRACTICES OF NARTANG MONASTERY/'GREL PA_COMMENTARIES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SNAR THANG/'GREL PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/SECRET PRACTICES OF NARTANG MONASTERY/COMMENTARIES",
+            "_id": "220834856464",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SNAR THANG_SECRET PRACTICES OF NARTANG MONASTERY/'GREL PA_COMMENTARIES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SNAR THANG/'GREL PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/SECRET PRACTICES OF NARTANG MONASTERY/COMMENTARIES",
             "subject_tibetan": "'GREL PA",
             "subject_english": "COMMENTARIES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P238"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/snar thang_secret practices of nartang monastery/'grel pa_commentaries",
-            "timestamp": "2024-09-10T02:10:54.599647+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SNAR THANG_SECRET PRACTICES OF NARTANG MONASTERY/'GREL PA_COMMENTARIES",
+            "timestamp": "2024-11-20 05:12:35.508161+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:12:35.508161+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

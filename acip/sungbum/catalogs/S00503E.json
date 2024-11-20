@@ -1,12 +1,12 @@
 {
     "name": "S00503E_GSUNG BKA' RGYA MA'I SKOR 'GA' ZHIG PHYOGS GCIG TU BKOD PA_A Number of Sealed Teachings, Collected Together in a Single Place_SKYABS RJE PHA BONG KHA PA BDE CHEN SNYING PO (1878-1941).TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/sna tsogs_miscellaneous",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/sna tsogs_miscellaneous/s00503e_gsung bka' rgya ma'i skor 'ga' zhig phyogs gcig tu bkod pa_a number of sealed teachings, collected together in a single place_skyabs rje pha bong kha pa bde chen snying po (1878-1941).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAANjg",
-    "revision_id": "613f6656dee5f8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SNA TSOGS_MISCELLANEOUS",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyi_general treatments/sna tsogs_miscellaneous/s00503e_gsung bka' rgya ma'i skor 'ga' zhig phyogs gcig tu bkod pa_a number of sealed teachings, collected together in a single place_skyabs rje pha bong kha pa bde chen snying po (1878-1941).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABYyQ",
+    "revision_id": "625a48e8db02a8d294473",
     "content_hash": "44d859e3d69d590fa01221c0f258690b6f3a5aab5db27d76d165adc494778961",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:14:54.873300",
+    "server_modified": "2024-10-29 21:49:16",
+    "last_sync": "2024-11-19 21:03:06.031510",
     "size": 90929,
     "meta_text": null,
     "cat_ref": "S00503E",
@@ -19,10 +19,10 @@
     "author_simple": "SKYABS RJE PHA BONG KHA PA BDE CHEN SNYING PO",
     "subject": [
         {
-            "_id": "398092722685",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SNA TSOGS_MISCELLANEOUS",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/SNA TSOGS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/MISCELLANEOUS",
+            "_id": "108286657715",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SNA TSOGS_MISCELLANEOUS",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/SNA TSOGS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/MISCELLANEOUS",
             "subject_tibetan": "SNA TSOGS",
             "subject_english": "MISCELLANEOUS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P230"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/sna tsogs_miscellaneous",
-            "timestamp": "2024-09-10T02:14:54.876933+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SNA TSOGS_MISCELLANEOUS",
+            "timestamp": "2024-11-20 05:03:06.785990+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:03:06.785990+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

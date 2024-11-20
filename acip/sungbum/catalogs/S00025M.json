@@ -1,12 +1,12 @@
 {
     "name": "S00025M_DBU MA MTHA' DPYOD KYI DKAR CHAG_Table of Contents to 'Analysis of the Middle Way'_DGE BSHES THUB BSTAN RIN CHEN.TXT",
-    "path": "dbu ma_middle-way philosophy (madhyamika prasangika school)/'grel pa spyi_general commentaries/mkhas grub bstan pa dar rgyas_kedrup tenpa dargye (1493-1568)/mtha' dpyod_dialectic analysis",
-    "download_path": "/sungbum updated 4 26 23 bk/dbu ma_middle-way philosophy (madhyamika prasangika school)/'grel pa spyi_general commentaries/mkhas grub bstan pa dar rgyas_kedrup tenpa dargye (1493-1568)/mtha' dpyod_dialectic analysis/s00025m_dbu ma mtha' dpyod kyi dkar chag_table of contents to 'analysis of the middle way'_dge bshes thub bstan rin chen.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAD6A",
-    "revision_id": "613f663ffc8db8d294473",
+    "path": "DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/'GREL PA SPYI_GENERAL COMMENTARIES/MKHAS GRUB BSTAN PA DAR RGYAS_KEDRUP TENPA DARGYE (1493-1568)/MTHA' DPYOD_DIALECTIC ANALYSIS",
+    "download_path": "/sungbum updated 7 30 23 nl/dbu ma_middle-way philosophy (madhyamika prasangika school)/'grel pa spyi_general commentaries/mkhas grub bstan pa dar rgyas_kedrup tenpa dargye (1493-1568)/mtha' dpyod_dialectic analysis/s00025m_dbu ma mtha' dpyod kyi dkar chag_table of contents to 'analysis of the middle way'_dge bshes thub bstan rin chen.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABRKQ",
+    "revision_id": "625a47dcd46598d294473",
     "content_hash": "55200f0ae28a251bdbed8f15f64eddb64add6a8423c459ec2f5756dcac078a8c",
-    "server_modified": "2024-03-18T21:53:40",
-    "last_sync": "2024-09-09T19:05:11.000062",
+    "server_modified": "2024-10-29 21:44:35",
+    "last_sync": "2024-11-19 20:51:24.882967",
     "size": 2106,
     "meta_text": null,
     "cat_ref": "S00025M",
@@ -19,10 +19,10 @@
     "author_simple": "DGE BSHES THUB BSTAN RIN CHEN",
     "subject": [
         {
-            "_id": "456993707634",
-            "subject_path": "SUNGBUM_SUNGBUM/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/'GREL PA SPYI_GENERAL COMMENTARIES/MKHAS GRUB BSTAN PA DAR RGYAS_KEDRUP TENPA DARGYE (1493-1568)/MTHA' DPYOD_DIALECTIC ANALYSIS",
-            "subject_path_tibetan": "SUNGBUM/DBU MA/'GREL PA SPYI/MKHAS GRUB BSTAN PA DAR RGYAS/MTHA' DPYOD",
-            "subject_path_english": "SUNGBUM/MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/GENERAL COMMENTARIES/KEDRUP TENPA DARGYE (1493-1568)/DIALECTIC ANALYSIS",
+            "_id": "191567606759",
+            "subject_path": "GSUNG 'BUM_Sungbum/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/'GREL PA SPYI_GENERAL COMMENTARIES/MKHAS GRUB BSTAN PA DAR RGYAS_KEDRUP TENPA DARGYE (1493-1568)/MTHA' DPYOD_DIALECTIC ANALYSIS",
+            "subject_path_tibetan": "GSUNG 'BUM/DBU MA/'GREL PA SPYI/MKHAS GRUB BSTAN PA DAR RGYAS/MTHA' DPYOD",
+            "subject_path_english": "Sungbum/MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/GENERAL COMMENTARIES/KEDRUP TENPA DARGYE (1493-1568)/DIALECTIC ANALYSIS",
             "subject_tibetan": "MTHA' DPYOD",
             "subject_english": "DIALECTIC ANALYSIS"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "dbu ma_middle-way philosophy (madhyamika prasangika school)/'grel pa spyi_general commentaries/mkhas grub bstan pa dar rgyas_kedrup tenpa dargye (1493-1568)/mtha' dpyod_dialectic analysis",
-            "timestamp": "2024-09-10T02:05:11.018218+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/'GREL PA SPYI_GENERAL COMMENTARIES/MKHAS GRUB BSTAN PA DAR RGYAS_KEDRUP TENPA DARGYE (1493-1568)/MTHA' DPYOD_DIALECTIC ANALYSIS",
+            "timestamp": "2024-11-20 04:51:25.538906+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:51:25.538906+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

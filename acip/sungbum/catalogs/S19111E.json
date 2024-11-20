@@ -1,12 +1,12 @@
 {
     "name": "S19111E_ RJE BTZUN RDO RJE RNAL 'BYOR MA N'A RO MKHA' SPYOD DBANG MO'I LAM GYI SMON LAM CHA CHOD BA'I TSIG DON LTUG BAR BSHAD PA MKHA' SPYOD ZHING DU 'BOD PA'I LHA'I RNGA DBYANGS_DBYANGS CAN GRUB PA'I RDO RJES (1809-1887).TXT",
-    "path": "rgyud_secret teachings (tantra)/rdo rje rnal 'byor ma_angel of diamond (vajrayogini)/'grel pa_commentaries",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/rdo rje rnal 'byor ma_angel of diamond (vajrayogini)/'grel pa_commentaries/s19111e_ rje btzun rdo rje rnal 'byor ma n'a ro mkha' spyod dbang mo'i lam gyi smon lam cha chod ba'i tsig don ltug bar bshad pa mkha' spyod zhing du 'bod pa'i lha'i rnga dbyangs_dbyangs can grub pa'i rdo rjes (1809-1887).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAJDg",
-    "revision_id": "613f664dc432a8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAL 'BYOR MA_ANGEL OF DIAMOND (VAJRAYOGINI)/'GREL PA_COMMENTARIES",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/rdo rje rnal 'byor ma_angel of diamond (vajrayogini)/'grel pa_commentaries/s19111e_ rje btzun rdo rje rnal 'byor ma n'a ro mkha' spyod dbang mo'i lam gyi smon lam cha chod ba'i tsig don ltug bar bshad pa mkha' spyod zhing du 'bod pa'i lha'i rnga dbyangs_dbyangs can grub pa'i rdo rjes (1809-1887).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABcPw",
+    "revision_id": "625a4972310518d294473",
     "content_hash": "2c120796fea270e5cd57587b870c3cd06e9af5d4e04a7aa55115646fa02d391e",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:10:03.985165",
+    "server_modified": "2024-10-29 21:51:40",
+    "last_sync": "2024-11-19 21:08:36.270438",
     "size": 128695,
     "meta_text": null,
     "cat_ref": "S19111E",
@@ -19,10 +19,10 @@
     "author_simple": "",
     "subject": [
         {
-            "_id": "236332774099",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAL 'BYOR MA_ANGEL OF DIAMOND (VAJRAYOGINI)/'GREL PA_COMMENTARIES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/RDO RJE RNAL 'BYOR MA/'GREL PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/ANGEL OF DIAMOND (VAJRAYOGINI)/COMMENTARIES",
+            "_id": "306156564498",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAL 'BYOR MA_ANGEL OF DIAMOND (VAJRAYOGINI)/'GREL PA_COMMENTARIES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/RDO RJE RNAL 'BYOR MA/'GREL PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/ANGEL OF DIAMOND (VAJRAYOGINI)/COMMENTARIES",
             "subject_tibetan": "'GREL PA",
             "subject_english": "COMMENTARIES"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/rdo rje rnal 'byor ma_angel of diamond (vajrayogini)/'grel pa_commentaries",
-            "timestamp": "2024-09-10T02:10:03.998645+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAL 'BYOR MA_ANGEL OF DIAMOND (VAJRAYOGINI)/'GREL PA_COMMENTARIES",
+            "timestamp": "2024-11-20 05:08:37.004833+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:08:37.004833+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

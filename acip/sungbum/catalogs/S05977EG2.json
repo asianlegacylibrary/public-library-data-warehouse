@@ -1,28 +1,28 @@
 {
     "name": "S05977EG2_BDE MCHOG TSES BCU PA'I DAD LDAN RNAMS LA GNANG BA'I ZAG MED BDE CHEN MA_'Great and Immaculate Bliss,' being Verses Granted to a Number of Disciples of Great Faith Practicing the Ritual of the Tenth in the Secret Teachings of Highest Bliss +.TXT",
-    "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/tses bcu_offering of the tenth day",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/tses bcu_offering of the tenth day/s05977eg2_bde mchog tses bcu pa'i dad ldan rnams la gnang ba'i zag med bde chen ma_'great and immaculate bliss,' being verses granted to a number of disciples of great faith practicing the ritual of the tenth in the secret teachings of highest bliss +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAPfg",
-    "revision_id": "613f665b611978d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/TSES BCU_OFFERING OF THE TENTH DAY",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/tses bcu_offering of the tenth day/s05977eg2_bde mchog tses bcu pa'i dad ldan rnams la gnang ba'i zag med bde chen ma_'great and immaculate bliss,' being verses granted to a number of disciples of great faith practicing the ritual of the tenth in the secret teachings of highest bliss +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABU7A",
+    "revision_id": "625a48774c1168d294473",
     "content_hash": "bb0e5967dc3ba075bb70cda971e3a7106104fb59ac2d81f941681f1aa83fcdcf",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:16:56.346419",
+    "server_modified": "2024-10-29 21:47:17",
+    "last_sync": "2024-11-19 20:56:34.553850",
     "size": 908,
-    "meta_text": "(Sambara)_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)",
+    "meta_text": "('(Sambara)_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)', 'rtf')",
     "cat_ref": "S05977EG2",
     "work_ref": "W.S05977EG2",
     "title_tib": "BDE MCHOG TSES BCU PA'I DAD LDAN RNAMS LA GNANG BA'I ZAG MED BDE CHEN MA",
-    "title_eng": "'Great and Immaculate Bliss,' being Verses Granted to a Number of Disciples of Great Faith Practicing the Ritual of the Tenth in the Secret Teachings of Highest Bliss(Sambara)",
+    "title_eng": "'Great and Immaculate Bliss,' being Verses Granted to a Number of Disciples of Great Faith Practicing the Ritual of the Tenth in the Secret Teachings of Highest Bliss('(Sambara)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "172454806115",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/TSES BCU_OFFERING OF THE TENTH DAY",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/BDE MCHOG/TSES BCU",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/OFFERING OF THE TENTH DAY",
+            "_id": "134804527654",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/TSES BCU_OFFERING OF THE TENTH DAY",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/BDE MCHOG/TSES BCU",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/OFFERING OF THE TENTH DAY",
             "subject_tibetan": "TSES BCU",
             "subject_english": "OFFERING OF THE TENTH DAY"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/tses bcu_offering of the tenth day",
-            "timestamp": "2024-09-10T02:16:56.347792+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/TSES BCU_OFFERING OF THE TENTH DAY",
+            "timestamp": "2024-11-20 04:56:34.560150+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:56:34.560150+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,12 +1,12 @@
 {
     "name": "S06368E18_BDE MCHOG LHA LNGA'I SMON LAM GYI SA BCAD_Outline of the Prayer of the Five Angels of Highest Bliss (Sambara)_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/smon lam_prayer (pranidhana)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/smon lam_prayer (pranidhana)/s06368e18_bde mchog lha lnga'i smon lam gyi sa bcad_outline of the prayer of the five angels of highest bliss (sambara)_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAPJw",
-    "revision_id": "613f665b611408d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/SMON LAM_PRAYER (PRANIDHANA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/smon lam_prayer (pranidhana)/s06368e18_bde mchog lha lnga'i smon lam gyi sa bcad_outline of the prayer of the five angels of highest bliss (sambara)_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABUXg",
+    "revision_id": "625a4864555b18d294473",
     "content_hash": "17846d5d97d127c930ac97cbc85dff3c4dec95e9485de8ea032925205dd4cd68",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:16:29.903943",
+    "server_modified": "2024-10-29 21:46:57",
+    "last_sync": "2024-11-19 20:55:29.943827",
     "size": 3128,
     "meta_text": null,
     "cat_ref": "S06368E18",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "734120918794",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/SMON LAM_PRAYER (PRANIDHANA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/BDE MCHOG/SMON LAM",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/PRAYER (PRANIDHANA)",
+            "_id": "716366773096",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/SMON LAM_PRAYER (PRANIDHANA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/BDE MCHOG/SMON LAM",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/PRAYER (PRANIDHANA)",
             "subject_tibetan": "SMON LAM",
             "subject_english": "PRAYER (PRANIDHANA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/smon lam_prayer (pranidhana)",
-            "timestamp": "2024-09-10T02:16:29.905955+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/SMON LAM_PRAYER (PRANIDHANA)",
+            "timestamp": "2024-11-20 04:55:29.948370+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:55:29.948370+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

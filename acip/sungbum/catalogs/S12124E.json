@@ -1,14 +1,14 @@
 {
     "name": "S12124E_RAB GNAS KYI BSHAD PA KUN MKHYEN CHEN PO 'JAM DBYANGS BZHAD PA'I RDO RJES MDZAD PAR GRAGS PA_ An Explication of the Rite of Consecration widely said to have been Composed by the Omniscient One, the Great Jamyang Shepay Dorje_'JAM BBYANGS BZH+.TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/rab gnas_consecration (supratishtha)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/rab gnas_consecration (supratishtha)/s12124e_rab gnas kyi bshad pa kun mkhyen chen po 'jam dbyangs bzhad pa'i rdo rjes mdzad par grags pa_ an explication of the rite of consecration widely said to have been composed by the omniscient one, the great jamyang shepay dorje_'jam bbyangs bzh+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAN8A",
-    "revision_id": "613f665b610098d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/RAB GNAS_CONSECRATION (SUPRATISHTHA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyi_general treatments/rab gnas_consecration (supratishtha)/s12124e_rab gnas kyi bshad pa kun mkhyen chen po 'jam dbyangs bzhad pa'i rdo rjes mdzad par grags pa_ an explication of the rite of consecration widely said to have been composed by the omniscient one, the great jamyang shepay dorje_'jam bbyangs bzh+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABZ6w",
+    "revision_id": "625a491614a6a8d294473",
     "content_hash": "0e58a6e49e4b6f0f870e3e3a3660530e50ed7ff521b9dfdc33e4aaaa5733058c",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:15:19.330678",
+    "server_modified": "2024-10-29 21:50:04",
+    "last_sync": "2024-11-19 21:04:43.558423",
     "size": 16381,
-    "meta_text": "AD PA'I RDO RJE (1648-1721)",
+    "meta_text": "(\"AD PA'I RDO RJE (1648-1721)\", 'rtf')",
     "cat_ref": "S12124E",
     "work_ref": "W.S12124E",
     "title_tib": "RAB GNAS KYI BSHAD PA KUN MKHYEN CHEN PO 'JAM DBYANGS BZHAD PA'I RDO RJES MDZAD PAR GRAGS PA",
@@ -19,10 +19,10 @@
     "author_simple": "'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS",
     "subject": [
         {
-            "_id": "219846535334",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/RAB GNAS_CONSECRATION (SUPRATISHTHA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/RAB GNAS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/CONSECRATION (SUPRATISHTHA)",
+            "_id": "129630635153",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/RAB GNAS_CONSECRATION (SUPRATISHTHA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/RAB GNAS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/CONSECRATION (SUPRATISHTHA)",
             "subject_tibetan": "RAB GNAS",
             "subject_english": "CONSECRATION (SUPRATISHTHA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P423"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/rab gnas_consecration (supratishtha)",
-            "timestamp": "2024-09-10T02:15:19.339344+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/RAB GNAS_CONSECRATION (SUPRATISHTHA)",
+            "timestamp": "2024-11-20 05:04:44.219897+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:04:44.219897+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

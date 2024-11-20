@@ -1,14 +1,14 @@
 {
     "name": "S06316E_SGROL MAR PHYAG 'TSAL NYER GCIG GIS BSTOD PA'I RNAM BSHAD YID 'PHROG AUTPA LA'I CHUN PO_The 'Bouquet of Lovely Lotuses,' being an Explanation of 'The Praise of the Lady of Liberation (Tara) in Twenty-One Prostrations'_DNGUL CHU DHARMA BHADR+.TXT",
-    "path": "rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/bstod pa_songs of praise (stotra)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/bstod pa_songs of praise (stotra)/s06316e_sgrol mar phyag 'tsal nyer gcig gis bstod pa'i rnam bshad yid 'phrog autpa la'i chun po_the 'bouquet of lovely lotuses,' being an explanation of 'the praise of the lady of liberation (tara) in twenty-one prostrations'_dngul chu dharma bhadr+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAQGw",
-    "revision_id": "613f665fcd5a08d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/BSTOD PA_SONGS OF PRAISE (STOTRA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/bstod pa_songs of praise (stotra)/s06316e_sgrol mar phyag 'tsal nyer gcig gis bstod pa'i rnam bshad yid 'phrog autpa la'i chun po_the 'bouquet of lovely lotuses,' being an explanation of 'the praise of the lady of liberation (tara) in twenty-one prostrations'_dngul chu dharma bhadr+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABYTA",
+    "revision_id": "625a48d95370b8d294473",
     "content_hash": "71f2aa972a2bbc9e9ae4a0e23ef3faaab6b68dd0e24ffa5c1b8394d937497a32",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:17:32.476551",
+    "server_modified": "2024-10-29 21:49:00",
+    "last_sync": "2024-11-19 21:02:11.044753",
     "size": 25424,
-    "meta_text": "A (1772-1851)",
+    "meta_text": "('A (1772-1851)', 'rtf')",
     "cat_ref": "S06316E",
     "work_ref": "W.S06316E",
     "title_tib": "SGROL MAR PHYAG 'TSAL NYER GCIG GIS BSTOD PA'I RNAM BSHAD YID 'PHROG AUTPA LA'I CHUN PO",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "246570398969",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/BSTOD PA_SONGS OF PRAISE (STOTRA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SGROL MA/BSTOD PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/LADY OF LIBERATION (TARA)/SONGS OF PRAISE (STOTRA)",
+            "_id": "303261266916",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/BSTOD PA_SONGS OF PRAISE (STOTRA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SGROL MA/BSTOD PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/LADY OF LIBERATION (TARA)/SONGS OF PRAISE (STOTRA)",
             "subject_tibetan": "BSTOD PA",
             "subject_english": "SONGS OF PRAISE (STOTRA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/bstod pa_songs of praise (stotra)",
-            "timestamp": "2024-09-10T02:17:32.480965+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/BSTOD PA_SONGS OF PRAISE (STOTRA)",
+            "timestamp": "2024-11-20 05:02:11.054793+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:02:11.054793+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

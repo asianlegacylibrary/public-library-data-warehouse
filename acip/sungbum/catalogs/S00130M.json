@@ -1,12 +1,12 @@
 {
     "name": "S00130M_BSAGS SBYANG GI GNAD BSDUS PA YAN LAG BDUN PA'I CHO GA_A Seven-Part Ritual including All the Essential Points for Collecting Goodness and Purifying Wrong_LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN (1642-1714).TXT",
-    "path": "nyams len_personal practice/yan lag bdun pa_7-part prayer",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/yan lag bdun pa_7-part prayer/s00130m_bsags sbyang gi gnad bsdus pa yan lag bdun pa'i cho ga_a seven-part ritual including all the essential points for collecting goodness and purifying wrong_lcang skya ngag dbang blo bzang chos ldan (1642-1714).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAB1A",
-    "revision_id": "613f663b87d1d8d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/YAN LAG BDUN PA_7-PART PRAYER",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/yan lag bdun pa_7-part prayer/s00130m_bsags sbyang gi gnad bsdus pa yan lag bdun pa'i cho ga_a seven-part ritual including all the essential points for collecting goodness and purifying wrong_lcang skya ngag dbang blo bzang chos ldan (1642-1714).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABkNA",
+    "revision_id": "625a4ac842b918d294473",
     "content_hash": "32a84eb6423200d8422a8046a2354a7dd346ca6dc6f641953bfb20018e257566",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:02:58.710529",
+    "server_modified": "2024-10-29 21:57:39",
+    "last_sync": "2024-11-19 21:22:56.114739",
     "size": 42714,
     "meta_text": null,
     "cat_ref": "S00130M",
@@ -19,10 +19,10 @@
     "author_simple": "LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN",
     "subject": [
         {
-            "_id": "122213940111",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/YAN LAG BDUN PA_7-PART PRAYER",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/YAN LAG BDUN PA",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/7-PART PRAYER",
+            "_id": "143319271795",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/YAN LAG BDUN PA_7-PART PRAYER",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/YAN LAG BDUN PA",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/7-PART PRAYER",
             "subject_tibetan": "YAN LAG BDUN PA",
             "subject_english": "7-PART PRAYER"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P209"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/yan lag bdun pa_7-part prayer",
-            "timestamp": "2024-09-10T02:02:58.718096+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/YAN LAG BDUN PA_7-PART PRAYER",
+            "timestamp": "2024-11-20 05:22:56.122691+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:22:56.122691+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

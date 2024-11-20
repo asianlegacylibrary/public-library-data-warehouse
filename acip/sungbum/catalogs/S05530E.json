@@ -1,12 +1,12 @@
 {
     "name": "S05530E_BCOM LDAN 'DAS THUB PA'I DBANG PO'I RNAM PAR THAR PA LA BSTOD PA BDUD DPUNG PHYE MAR 'THAG PA_Crushing the Army of Demons to Dust--A Biography, in Words of Praise, of the Lord of the Able Ones, The Conqueror_RGYAL BA DGE 'DUN GRUB (1391-1474).txt",
-    "path": "bstod pa_eulogies (stotra)/sh'akya thub pa (shakyamuni)",
-    "download_path": "/sungbum updated 4 26 23 bk/bstod pa_eulogies (stotra)/sh'akya thub pa (shakyamuni)/s05530e_bcom ldan 'das thub pa'i dbang po'i rnam par thar pa la bstod pa bdud dpung phye mar 'thag pa_crushing the army of demons to dust--a biography, in words of praise, of the lord of the able ones, the conqueror_rgyal ba dge 'dun grub (1391-1474).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAFIQ",
-    "revision_id": "613f664484a458d294473",
+    "path": "BSTOD PA_EULOGIES (STOTRA)/SH'AKYA THUB PA (SHAKYAMUNI)",
+    "download_path": "/sungbum updated 7 30 23 nl/bstod pa_eulogies (stotra)/sh'akya thub pa (shakyamuni)/s05530e_bcom ldan 'das thub pa'i dbang po'i rnam par thar pa la bstod pa bdud dpung phye mar 'thag pa_crushing the army of demons to dust--a biography, in words of praise, of the lord of the able ones, the conqueror_rgyal ba dge 'dun grub (1391-1474).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABQnw",
+    "revision_id": "625a47c6c26258d294473",
     "content_hash": "5ada99c4b71a255cd6790b8d03537e3ed463531d08a45687b0994e282d1d918e",
-    "server_modified": "2024-03-18T21:53:45",
-    "last_sync": "2024-09-09T19:06:17.444996",
+    "server_modified": "2024-10-29 21:44:12",
+    "last_sync": "2024-11-19 20:50:17.087892",
     "size": 19448,
     "meta_text": null,
     "cat_ref": "S05530E",
@@ -19,18 +19,18 @@
     "author_simple": "RGYAL BA DGE 'DUN GRUB",
     "subject": [
         {
-            "_id": "115800359942",
-            "subject_path": "SUNGBUM_SUNGBUM/BSTOD PA_EULOGIES (STOTRA)/SH'AKYA THUB PA (SHAKYAMUNI)",
-            "subject_path_tibetan": "SUNGBUM/BSTOD PA/SH'AKYA THUB PA (SHAKYAMUNI)",
-            "subject_path_english": "SUNGBUM/EULOGIES (STOTRA)",
+            "_id": "239054104717",
+            "subject_path": "GSUNG 'BUM_Sungbum/BSTOD PA_EULOGIES (STOTRA)/SH'AKYA THUB PA (SHAKYAMUNI)",
+            "subject_path_tibetan": "GSUNG 'BUM/BSTOD PA/SH'AKYA THUB PA (SHAKYAMUNI)",
+            "subject_path_english": "Sungbum/EULOGIES (STOTRA)",
             "subject_tibetan": "SH'AKYA THUB PA (SHAKYAMUNI)",
             "subject_english": "EULOGIES (STOTRA)"
         },
         {
-            "_id": "890874382664",
-            "subject_path": "SUNGBUM_SUNGBUM/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/RGYAL BA DGE 'DUN GRUB (1391-1474)",
-            "subject_path_tibetan": "SUNGBUM/RNAM THAR/MTSAN THOG/RGYAL BA DGE 'DUN GRUB (1391-1474)",
-            "subject_path_english": "SUNGBUM/BIOGRAPHIES/BY PERSON'S NAME",
+            "_id": "218338317559",
+            "subject_path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/RGYAL BA DGE 'DUN GRUB (1391-1474)",
+            "subject_path_tibetan": "GSUNG 'BUM/RNAM THAR/MTSAN THOG/RGYAL BA DGE 'DUN GRUB (1391-1474)",
+            "subject_path_english": "Sungbum/BIOGRAPHIES/BY PERSON'S NAME",
             "subject_tibetan": "RGYAL BA DGE 'DUN GRUB (1391-1474)",
             "subject_english": "BY PERSON'S NAME"
         }
@@ -46,15 +46,29 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P80"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "bstod pa_eulogies (stotra)/sh'akya thub pa (shakyamuni)",
-            "timestamp": "2024-09-10T02:06:17.454222+00:00"
+            "path": "GSUNG 'BUM_Sungbum/BSTOD PA_EULOGIES (STOTRA)/SH'AKYA THUB PA (SHAKYAMUNI)",
+            "timestamp": "2024-11-20 04:50:17.097718+00:00"
         },
         {
-            "path": "rnam thar_biographies/mtsan thog_by person's name/rgyal ba dge 'dun grub (1391-1474)",
-            "timestamp": "2024-09-10T02:23:09.987577+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/RGYAL BA DGE 'DUN GRUB (1391-1474)",
+            "timestamp": "2024-11-20 05:15:41.658419+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:50:17.097718+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T05:15:41.658419+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,28 +1,28 @@
 {
     "name": "S12033E_RJE THAMS CAD MKHYEN PA TZONG KHA PA CHEN PO'I RNAM THAR GO SLA BAR BRJOD PA BDE LEGS KUN GYI 'BYUNG GNAS_The Source of All Good and Happiness--A Biography of the Lord, the All-Knowing and Magnificent Tsongkapa, written in a Way which is Eas +.TXT",
-    "path": "rnam thar_biographies/mtsan thog_by person's name/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)",
-    "download_path": "/sungbum updated 4 26 23 bk/rnam thar_biographies/mtsan thog_by person's name/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)/s12033e_rje thams cad mkhyen pa tzong kha pa chen po'i rnam thar go sla bar brjod pa bde legs kun gyi 'byung gnas_the source of all good and happiness--a biography of the lord, the all-knowing and magnificent tsongkapa, written in a way which is eas +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAWaQ",
-    "revision_id": "613f666d209858d294473",
+    "path": "RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
+    "download_path": "/sungbum updated 7 30 23 nl/rnam thar_biographies/mtsan thog_by person's name/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)/s12033e_rje thams cad mkhyen pa tzong kha pa chen po'i rnam thar go sla bar brjod pa bde legs kun gyi 'byung gnas_the source of all good and happiness--a biography of the lord, the all-knowing and magnificent tsongkapa, written in a way which is eas +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABfpA",
+    "revision_id": "625a49ffacfa08d294473",
     "content_hash": "538423763dfe1f067faa13816f00e2b3ab9a74afeb4ec20e55ee31b340c3af3c",
-    "server_modified": "2024-03-18T21:54:28",
-    "last_sync": "2024-09-09T19:23:41.703613",
+    "server_modified": "2024-10-29 21:54:09",
+    "last_sync": "2024-11-19 21:14:33.878164",
     "size": 843902,
-    "meta_text": "ily Understood_CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS (1740-1810)",
+    "meta_text": "('ily Understood_CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS (1740-1810)', 'rtf')",
     "cat_ref": "S12033E",
     "work_ref": "W.S12033E",
     "title_tib": "RJE THAMS CAD MKHYEN PA TZONG KHA PA CHEN PO'I RNAM THAR GO SLA BAR BRJOD PA BDE LEGS KUN GYI 'BYUNG GNAS",
-    "title_eng": "The Source of All Good and Happiness--A Biography of the Lord, the All-Knowing and Magnificent Tsongkapa, written in a Way which is Easily Understood",
+    "title_eng": "The Source of All Good and Happiness--A Biography of the Lord, the All-Knowing and Magnificent Tsongkapa, written in a Way which is Eas('ily Understood",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS",
     "subject": [
         {
-            "_id": "388316092931",
-            "subject_path": "SUNGBUM_SUNGBUM/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
-            "subject_path_tibetan": "SUNGBUM/RNAM THAR/MTSAN THOG/RJE TZONG KHA PA BLO BZANG GRAGS PA",
-            "subject_path_english": "SUNGBUM/BIOGRAPHIES/BY PERSON'S NAME/JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
+            "_id": "304532043170",
+            "subject_path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
+            "subject_path_tibetan": "GSUNG 'BUM/RNAM THAR/MTSAN THOG/RJE TZONG KHA PA BLO BZANG GRAGS PA",
+            "subject_path_english": "Sungbum/BIOGRAPHIES/BY PERSON'S NAME/JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
             "subject_tibetan": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
             "subject_english": "JE TSONGKAPA LOBSANG DRAKPA (1357-1419)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P4797"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rnam thar_biographies/mtsan thog_by person's name/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)",
-            "timestamp": "2024-09-10T02:23:41.838750+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
+            "timestamp": "2024-11-20 05:14:37.998510+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:14:37.998510+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

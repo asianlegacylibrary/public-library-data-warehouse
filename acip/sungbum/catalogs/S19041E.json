@@ -1,14 +1,14 @@
 {
     "name": "S19041E_GCOD KYI GDAMS PA GDAN THOG GCIG TU DRIL NAS NYAMS SU LEN TSUL BZHUGS SO_A Beautiful String of Sindavari Berries, An Ornament upon the Ears of those with Clear Minds-- An Illuminating Treatise on Epistolary_'JAM DBYANGS BZHAD PA NGAG DBA+.TXT",
-    "path": "'phrin yig_epistles/'jam dbyangs bzhad pa ngag dbang brtzon 'grus_jamyang shepa ngawang tsundru (1648-1721)",
-    "download_path": "/sungbum updated 4 26 23 bk/'phrin yig_epistles/'jam dbyangs bzhad pa ngag dbang brtzon 'grus_jamyang shepa ngawang tsundru (1648-1721)/s19041e_gcod kyi gdams pa gdan thog gcig tu dril nas nyams su len tsul bzhugs so_a beautiful string of sindavari berries, an ornament upon the ears of those with clear minds-- an illuminating treatise on epistolary_'jam dbyangs bzhad pa ngag dba+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAXfA",
-    "revision_id": "613f666d88e348d294473",
+    "path": "'PHRIN YIG_EPISTLES/'JAM DBYANGS BZHAD PA NGAG DBANG BRTZON 'GRUS_JAMYANG SHEPA NGAWANG TSUNDRU (1648-1721)",
+    "download_path": "/sungbum updated 7 30 23 nl/'phrin yig_epistles/'jam dbyangs bzhad pa ngag dbang brtzon 'grus_jamyang shepa ngawang tsundru (1648-1721)/s19041e_gcod kyi gdams pa gdan thog gcig tu dril nas nyams su len tsul bzhugs so_a beautiful string of sindavari berries, an ornament upon the ears of those with clear minds-- an illuminating treatise on epistolary_'jam dbyangs bzhad pa ngag dba+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABQ1w",
+    "revision_id": "625a47ccc43e08d294473",
     "content_hash": "9b66952fca37c99d2ee63b3a746bfc51db7e1b8c694ab8d22098be23b834934f",
-    "server_modified": "2024-03-18T21:54:28",
-    "last_sync": "2024-09-09T19:24:47.589703",
+    "server_modified": "2024-10-29 21:44:18",
+    "last_sync": "2024-11-19 20:50:50.625655",
     "size": 85664,
-    "meta_text": null,
+    "meta_text": "(\"NG BRTZON 'GRUS (1648-1721)\", 'rtf')",
     "cat_ref": "S19041E",
     "work_ref": "W.S19041E",
     "title_tib": "GCOD KYI GDAMS PA GDAN THOG GCIG TU DRIL NAS NYAMS SU LEN TSUL BZHUGS SO",
@@ -19,10 +19,10 @@
     "author_simple": "'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS",
     "subject": [
         {
-            "_id": "809274729605",
-            "subject_path": "SUNGBUM_SUNGBUM/'PHRIN YIG_EPISTLES/'JAM DBYANGS BZHAD PA NGAG DBANG BRTZON 'GRUS_JAMYANG SHEPA NGAWANG TSUNDRU (1648-1721)",
-            "subject_path_tibetan": "SUNGBUM/'PHRIN YIG/'JAM DBYANGS BZHAD PA NGAG DBANG BRTZON 'GRUS",
-            "subject_path_english": "SUNGBUM/EPISTLES/JAMYANG SHEPA NGAWANG TSUNDRU (1648-1721)",
+            "_id": "621792215114",
+            "subject_path": "GSUNG 'BUM_Sungbum/'PHRIN YIG_EPISTLES/'JAM DBYANGS BZHAD PA NGAG DBANG BRTZON 'GRUS_JAMYANG SHEPA NGAWANG TSUNDRU (1648-1721)",
+            "subject_path_tibetan": "GSUNG 'BUM/'PHRIN YIG/'JAM DBYANGS BZHAD PA NGAG DBANG BRTZON 'GRUS",
+            "subject_path_english": "Sungbum/EPISTLES/JAMYANG SHEPA NGAWANG TSUNDRU (1648-1721)",
             "subject_tibetan": "'JAM DBYANGS BZHAD PA NGAG DBANG BRTZON 'GRUS",
             "subject_english": "JAMYANG SHEPA NGAWANG TSUNDRU (1648-1721)"
         }
@@ -31,18 +31,26 @@
     "author": [
         {
             "author_name": "'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS",
-            "author_birth": null,
-            "author_death": null,
+            "author_birth": "1648",
+            "author_death": "1721",
             "bdrc_id": "bdr:P423",
             "normalized_name": "'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS",
             "bdrc_url": "http://purl.bdrc.io/resource/P423"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "'phrin yig_epistles/'jam dbyangs bzhad pa ngag dbang brtzon 'grus_jamyang shepa ngawang tsundru (1648-1721)",
-            "timestamp": "2024-09-10T02:24:47.603769+00:00"
+            "path": "GSUNG 'BUM_Sungbum/'PHRIN YIG_EPISTLES/'JAM DBYANGS BZHAD PA NGAG DBANG BRTZON 'GRUS_JAMYANG SHEPA NGAWANG TSUNDRU (1648-1721)",
+            "timestamp": "2024-11-20 04:50:50.631725+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:50:50.631725+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "rtf"
 }

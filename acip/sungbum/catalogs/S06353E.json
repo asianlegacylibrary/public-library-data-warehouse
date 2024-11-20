@@ -1,28 +1,28 @@
 {
     "name": "S06353E_BAR DO 'PHRANG SGROL GYI GSOL 'DEBS 'JIGS SGROL GYI DPA' BO'I RNAM BSHAD PAn CHEN DGONGS RGYAN_'Jewel of the True Thought of the Great Master,' being an Explanation of 'The Warrior who Frees Us from Our Fear,' a Supplication to Free Us from +.TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/bar do gsol 'debs_prayers for the intermediate state",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/bar do gsol 'debs_prayers for the intermediate state/s06353e_bar do 'phrang sgrol gyi gsol 'debs 'jigs sgrol gyi dpa' bo'i rnam bshad pan chen dgongs rgyan_'jewel of the true thought of the great master,' being an explanation of 'the warrior who frees us from our fear,' a supplication to free us from +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAANKw",
-    "revision_id": "613f6656dedfc8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BAR DO GSOL 'DEBS_PRAYERS FOR THE INTERMEDIATE STATE",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyi_general treatments/bar do gsol 'debs_prayers for the intermediate state/s06353e_bar do 'phrang sgrol gyi gsol 'debs 'jigs sgrol gyi dpa' bo'i rnam bshad pan chen dgongs rgyan_'jewel of the true thought of the great master,' being an explanation of 'the warrior who frees us from our fear,' a supplication to free us from +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABZ9g",
+    "revision_id": "625a49187679a8d294473",
     "content_hash": "e9d9efc9e0d91f849e691adb9167f4cd19f00f00efcd93558f3173cf8ebf6c3e",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:14:34.469863",
+    "server_modified": "2024-10-29 21:50:06",
+    "last_sync": "2024-11-19 21:04:51.094126",
     "size": 30278,
-    "meta_text": "the Perilous Path of the State between Death and Rebirth_DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "meta_text": "('the Perilous Path of the State between Death and Rebirth_DNGUL CHU DHARMA BHADRA (1772-1851)', 'rtf')",
     "cat_ref": "S06353E",
     "work_ref": "W.S06353E",
     "title_tib": "BAR DO 'PHRANG SGROL GYI GSOL 'DEBS 'JIGS SGROL GYI DPA' BO'I RNAM BSHAD PAn CHEN DGONGS RGYAN",
-    "title_eng": "'Jewel of the True Thought of the Great Master,' being an Explanation of 'The Warrior who Frees Us from Our Fear,' a Supplication to Free Us fromthe Perilous Path of the State between Death and Rebirth",
+    "title_eng": "'Jewel of the True Thought of the Great Master,' being an Explanation of 'The Warrior who Frees Us from Our Fear,' a Supplication to Free Us from('the Perilous Path of the State between Death and Rebirth",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "273742079470",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BAR DO GSOL 'DEBS_PRAYERS FOR THE INTERMEDIATE STATE",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/BAR DO GSOL 'DEBS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/PRAYERS FOR THE INTERMEDIATE STATE",
+            "_id": "815150567405",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BAR DO GSOL 'DEBS_PRAYERS FOR THE INTERMEDIATE STATE",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/BAR DO GSOL 'DEBS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/PRAYERS FOR THE INTERMEDIATE STATE",
             "subject_tibetan": "BAR DO GSOL 'DEBS",
             "subject_english": "PRAYERS FOR THE INTERMEDIATE STATE"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/bar do gsol 'debs_prayers for the intermediate state",
-            "timestamp": "2024-09-10T02:14:34.480217+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BAR DO GSOL 'DEBS_PRAYERS FOR THE INTERMEDIATE STATE",
+            "timestamp": "2024-11-20 05:04:51.833632+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:04:51.833632+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

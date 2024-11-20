@@ -1,12 +1,12 @@
 {
     "name": "S12078E_SA BDAG GDON 'GROL GYI CHO GA BDE LEGS DPAL STER_A Treasure of the Glory of Goodness and Happiness-- A Ritual for Freeing Demons of the Presiding Spirit of a Locality_CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS (1740-1810).TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/sa bdag_local spirit lord",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/sa bdag_local spirit lord/s12078e_sa bdag gdon 'grol gyi cho ga bde legs dpal ster_a treasure of the glory of goodness and happiness-- a ritual for freeing demons of the presiding spirit of a locality_cha har dge bshes blo bzang tsul khrims (1740-1810).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAANIw",
-    "revision_id": "613f6656dedf48d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SA BDAG_LOCAL SPIRIT LORD",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyi_general treatments/sa bdag_local spirit lord/s12078e_sa bdag gdon 'grol gyi cho ga bde legs dpal ster_a treasure of the glory of goodness and happiness-- a ritual for freeing demons of the presiding spirit of a locality_cha har dge bshes blo bzang tsul khrims (1740-1810).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABZ_g",
+    "revision_id": "625a4918767a58d294473",
     "content_hash": "5b1c7cc0979f2ffa967cfcca99690a596109d3523a646e7833b58ae7e430a655",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:14:32.536707",
+    "server_modified": "2024-10-29 21:50:06",
+    "last_sync": "2024-11-19 21:04:56.473245",
     "size": 43383,
     "meta_text": null,
     "cat_ref": "S12078E",
@@ -19,10 +19,10 @@
     "author_simple": "CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS",
     "subject": [
         {
-            "_id": "204359884841",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SA BDAG_LOCAL SPIRIT LORD",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/SA BDAG",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/LOCAL SPIRIT LORD",
+            "_id": "156561374871",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SA BDAG_LOCAL SPIRIT LORD",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/SA BDAG",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/LOCAL SPIRIT LORD",
             "subject_tibetan": "SA BDAG",
             "subject_english": "LOCAL SPIRIT LORD"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P4797"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/sa bdag_local spirit lord",
-            "timestamp": "2024-09-10T02:14:32.552915+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SA BDAG_LOCAL SPIRIT LORD",
+            "timestamp": "2024-11-20 05:04:56.480470+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:04:56.480470+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

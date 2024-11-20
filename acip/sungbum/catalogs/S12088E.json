@@ -1,12 +1,12 @@
 {
     "name": "S12088E_RJE THAMS CAD MKHYEN PA'I BRTAN BZHUGS GSOL 'DEBS BSAM DON LHUN GRUB_The Automatic Attainment of All Our Wishes-- A Supplication for the Long and Healthy Life of our Lord, the Omniscient One_CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS (1740-1810).TXT",
-    "path": "nyams len_personal practice/zhabs brtan_prayers for the long life of a holy being/cha har dge bshes blo bzang tsul khrims_chahar geshe lobsang tsultrim (1740-1810)",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/zhabs brtan_prayers for the long life of a holy being/cha har dge bshes blo bzang tsul khrims_chahar geshe lobsang tsultrim (1740-1810)/s12088e_rje thams cad mkhyen pa'i brtan bzhugs gsol 'debs bsam don lhun grub_the automatic attainment of all our wishes-- a supplication for the long and healthy life of our lord, the omniscient one_cha har dge bshes blo bzang tsul khrims (1740-1810).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAC2g",
-    "revision_id": "613f663ffc7cd8d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/ZHABS BRTAN_PRAYERS FOR THE LONG LIFE OF A HOLY BEING/CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS_CHAHAR GESHE LOBSANG TSULTRIM (1740-1810)",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/zhabs brtan_prayers for the long life of a holy being/cha har dge bshes blo bzang tsul khrims_chahar geshe lobsang tsultrim (1740-1810)/s12088e_rje thams cad mkhyen pa'i brtan bzhugs gsol 'debs bsam don lhun grub_the automatic attainment of all our wishes-- a supplication for the long and healthy life of our lord, the omniscient one_cha har dge bshes blo bzang tsul khrims (1740-1810).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABkSg",
+    "revision_id": "625a4acc00d6d8d294473",
     "content_hash": "83e68b01f6571c74618ce97c964283099d8ff510100f551642f5f4b6189ae1ab",
-    "server_modified": "2024-03-18T21:53:40",
-    "last_sync": "2024-09-09T19:04:11.149898",
+    "server_modified": "2024-10-29 21:57:43",
+    "last_sync": "2024-11-19 21:23:07.288059",
     "size": 2443,
     "meta_text": null,
     "cat_ref": "S12088E",
@@ -19,10 +19,10 @@
     "author_simple": "CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS",
     "subject": [
         {
-            "_id": "122142202985",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/ZHABS BRTAN_PRAYERS FOR THE LONG LIFE OF A HOLY BEING/CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS_CHAHAR GESHE LOBSANG TSULTRIM (1740-1810)",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/ZHABS BRTAN/CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/PRAYERS FOR THE LONG LIFE OF A HOLY BEING/CHAHAR GESHE LOBSANG TSULTRIM (1740-1810)",
+            "_id": "302912047513",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/ZHABS BRTAN_PRAYERS FOR THE LONG LIFE OF A HOLY BEING/CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS_CHAHAR GESHE LOBSANG TSULTRIM (1740-1810)",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/ZHABS BRTAN/CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/PRAYERS FOR THE LONG LIFE OF A HOLY BEING/CHAHAR GESHE LOBSANG TSULTRIM (1740-1810)",
             "subject_tibetan": "CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS",
             "subject_english": "CHAHAR GESHE LOBSANG TSULTRIM (1740-1810)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P4797"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/zhabs brtan_prayers for the long life of a holy being/cha har dge bshes blo bzang tsul khrims_chahar geshe lobsang tsultrim (1740-1810)",
-            "timestamp": "2024-09-10T02:04:11.156204+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/ZHABS BRTAN_PRAYERS FOR THE LONG LIFE OF A HOLY BEING/CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS_CHAHAR GESHE LOBSANG TSULTRIM (1740-1810)",
+            "timestamp": "2024-11-20 05:23:07.292964+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:23:07.292964+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

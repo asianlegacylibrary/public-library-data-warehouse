@@ -1,28 +1,28 @@
 {
     "name": "S00287E_RJE BTZUN SGROL MA TZITTA MA nI'I BSNYEN SGRUB SBRAGS MA'I 'DON CHOG DNGOS GRUB BUNG BA 'GUGS PA'I YID 'PHROG AUTPAL GSAR PA'I SKYED TSAL_'The Garden of Fresh Blue Lotus Blooms that Steal Your Heart Away, and Entice the Bees of Spiritual Att+.TXT",
-    "path": "rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/bsnyen pa_retreat instructions",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/bsnyen pa_retreat instructions/s00287e_rje btzun sgrol ma tzitta ma ni'i bsnyen sgrub sbrags ma'i 'don chog dngos grub bung ba 'gugs pa'i yid 'phrog autpal gsar pa'i skyed tsal_'the garden of fresh blue lotus blooms that steal your heart away, and entice the bees of spiritual att+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAQJw",
-    "revision_id": "613f665fcd5ac8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/BSNYEN PA_RETREAT INSTRUCTIONS",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/bsnyen pa_retreat instructions/s00287e_rje btzun sgrol ma tzitta ma ni'i bsnyen sgrub sbrags ma'i 'don chog dngos grub bung ba 'gugs pa'i yid 'phrog autpal gsar pa'i skyed tsal_'the garden of fresh blue lotus blooms that steal your heart away, and entice the bees of spiritual att+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABYfQ",
+    "revision_id": "625a48e0457a28d294473",
     "content_hash": "6c3609d9a33f25035e5fae0f8de8226722e7486c9e962b02ee5a4b4db698119b",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:17:37.708044",
+    "server_modified": "2024-10-29 21:49:07",
+    "last_sync": "2024-11-19 21:02:24.696476",
     "size": 7770,
-    "meta_text": "ainments,’ being a Ritual for Recitation in Conjunction with a Retreat on the Practice of the Wish-Giving Jewel, the Holy Lady of Liberation (Tara)_& (&-&)",
+    "meta_text": "('ainments,’ being a Ritual for Recitation in Conjunction with a Retreat on the Practice of the Wish-Giving Jewel, the Holy Lady of Liberation (Tara)_& (&-&)', 'rtf')",
     "cat_ref": "S00287E",
     "work_ref": "W.S00287E",
     "title_tib": "RJE BTZUN SGROL MA TZITTA MA nI'I BSNYEN SGRUB SBRAGS MA'I 'DON CHOG DNGOS GRUB BUNG BA 'GUGS PA'I YID 'PHROG AUTPAL GSAR PA'I SKYED TSAL",
-    "title_eng": "'The Garden of Fresh Blue Lotus Blooms that Steal Your Heart Away, and Entice the Bees of Spiritual Attainments,’ being a Ritual for Recitation in Conjunction with a Retreat on the Practice of the Wish-Giving Jewel, the Holy Lady of Liberation (Tara)",
+    "title_eng": "'The Garden of Fresh Blue Lotus Blooms that Steal Your Heart Away, and Entice the Bees of Spiritual Att('ainments,’ being a Ritual for Recitation in Conjunction with a Retreat on the Practice of the Wish-Giving Jewel, the Holy Lady of Liberation (Tara)& (&-&)', 'rtf')",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "",
     "subject": [
         {
-            "_id": "187564186522",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/BSNYEN PA_RETREAT INSTRUCTIONS",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SGROL MA/BSNYEN PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/LADY OF LIBERATION (TARA)/RETREAT INSTRUCTIONS",
+            "_id": "154961476682",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/BSNYEN PA_RETREAT INSTRUCTIONS",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SGROL MA/BSNYEN PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/LADY OF LIBERATION (TARA)/RETREAT INSTRUCTIONS",
             "subject_tibetan": "BSNYEN PA",
             "subject_english": "RETREAT INSTRUCTIONS"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/bsnyen pa_retreat instructions",
-            "timestamp": "2024-09-10T02:17:37.715070+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/BSNYEN PA_RETREAT INSTRUCTIONS",
+            "timestamp": "2024-11-20 05:02:24.702870+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:02:24.702870+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

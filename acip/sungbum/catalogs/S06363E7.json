@@ -1,12 +1,12 @@
 {
     "name": "S06363E7_THUB PA DAM TSIG GSUM BKOD KYI SGRUB THABS_Method For Reaching the Able One, the Angel Named 'Triple Pledge' (Trisamayavyuha)_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/dam tsig gsum_triple pledge (trisamaya)/bsgom bzlas_meditation and recitation upon the angel",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/dam tsig gsum_triple pledge (trisamaya)/bsgom bzlas_meditation and recitation upon the angel/s06363e7_thub pa dam tsig gsum bkod kyi sgrub thabs_method for reaching the able one, the angel named 'triple pledge' (trisamayavyuha)_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAJ8A",
-    "revision_id": "613f6652788088d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/DAM TSIG GSUM_TRIPLE PLEDGE (TRISAMAYA)/BSGOM BZLAS_MEDITATION AND RECITATION UPON THE ANGEL",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/dam tsig gsum_triple pledge (trisamaya)/bsgom bzlas_meditation and recitation upon the angel/s06363e7_thub pa dam tsig gsum bkod kyi sgrub thabs_method for reaching the able one, the angel named 'triple pledge' (trisamayavyuha)_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABWQw",
+    "revision_id": "625a489e4acb88d294473",
     "content_hash": "cc6059214780837409be49df456d8a162f6b1887d1e050688f0ead2c387066f7",
-    "server_modified": "2024-03-18T21:54:00",
-    "last_sync": "2024-09-09T19:10:56.840558",
+    "server_modified": "2024-10-29 21:47:58",
+    "last_sync": "2024-11-19 20:58:49.151621",
     "size": 4098,
     "meta_text": null,
     "cat_ref": "S06363E7",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "734840193760",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/DAM TSIG GSUM_TRIPLE PLEDGE (TRISAMAYA)/BSGOM BZLAS_MEDITATION AND RECITATION UPON THE ANGEL",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/DAM TSIG GSUM/BSGOM BZLAS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/TRIPLE PLEDGE (TRISAMAYA)/MEDITATION AND RECITATION UPON THE ANGEL",
+            "_id": "224735591602",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DAM TSIG GSUM_TRIPLE PLEDGE (TRISAMAYA)/BSGOM BZLAS_MEDITATION AND RECITATION UPON THE ANGEL",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/DAM TSIG GSUM/BSGOM BZLAS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/TRIPLE PLEDGE (TRISAMAYA)/MEDITATION AND RECITATION UPON THE ANGEL",
             "subject_tibetan": "BSGOM BZLAS",
             "subject_english": "MEDITATION AND RECITATION UPON THE ANGEL"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/dam tsig gsum_triple pledge (trisamaya)/bsgom bzlas_meditation and recitation upon the angel",
-            "timestamp": "2024-09-10T02:10:56.847245+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DAM TSIG GSUM_TRIPLE PLEDGE (TRISAMAYA)/BSGOM BZLAS_MEDITATION AND RECITATION UPON THE ANGEL",
+            "timestamp": "2024-11-20 04:58:49.156098+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:58:49.156098+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

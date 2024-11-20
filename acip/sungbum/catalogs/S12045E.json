@@ -1,12 +1,12 @@
 {
     "name": "S12045E_DGA' LDAN SOGS DAG ZHING DU SKYE BA'I SMON LAM_Prayers to be Born in the Heaven of Bliss and Other Such Paradises_CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS (1740-1810).TXT",
-    "path": "nyams len_personal practice/smon lam_making prayers/cha har dge bshes blo bzang tsul khrims_chahar geshe lobsang tsultrim (1740-1810)",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/smon lam_making prayers/cha har dge bshes blo bzang tsul khrims_chahar geshe lobsang tsultrim (1740-1810)/s12045e_dga' ldan sogs dag zhing du skye ba'i smon lam_prayers to be born in the heaven of bliss and other such paradises_cha har dge bshes blo bzang tsul khrims (1740-1810).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAACOg",
-    "revision_id": "613f663ffc72d8d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS_CHAHAR GESHE LOBSANG TSULTRIM (1740-1810)",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/smon lam_making prayers/cha har dge bshes blo bzang tsul khrims_chahar geshe lobsang tsultrim (1740-1810)/s12045e_dga' ldan sogs dag zhing du skye ba'i smon lam_prayers to be born in the heaven of bliss and other such paradises_cha har dge bshes blo bzang tsul khrims (1740-1810).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABklw",
+    "revision_id": "625a4ad6966cd8d294473",
     "content_hash": "08daaaa6d05039366587596936bcd507b8e15f688b586e3c6ee5311dc42cd66e",
-    "server_modified": "2024-03-18T21:53:40",
-    "last_sync": "2024-09-09T19:03:26.720271",
+    "server_modified": "2024-10-29 21:57:54",
+    "last_sync": "2024-11-19 21:23:42.401635",
     "size": 41535,
     "meta_text": null,
     "cat_ref": "S12045E",
@@ -19,10 +19,10 @@
     "author_simple": "CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS",
     "subject": [
         {
-            "_id": "399079232791",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS_CHAHAR GESHE LOBSANG TSULTRIM (1740-1810)",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/SMON LAM/CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/MAKING PRAYERS/CHAHAR GESHE LOBSANG TSULTRIM (1740-1810)",
+            "_id": "243709977036",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS_CHAHAR GESHE LOBSANG TSULTRIM (1740-1810)",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/SMON LAM/CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/MAKING PRAYERS/CHAHAR GESHE LOBSANG TSULTRIM (1740-1810)",
             "subject_tibetan": "CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS",
             "subject_english": "CHAHAR GESHE LOBSANG TSULTRIM (1740-1810)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P4797"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/smon lam_making prayers/cha har dge bshes blo bzang tsul khrims_chahar geshe lobsang tsultrim (1740-1810)",
-            "timestamp": "2024-09-10T02:03:26.733331+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS_CHAHAR GESHE LOBSANG TSULTRIM (1740-1810)",
+            "timestamp": "2024-11-20 05:23:42.405927+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:23:42.405927+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

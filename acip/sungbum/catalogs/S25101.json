@@ -1,12 +1,12 @@
 {
     "name": "S25101_'DUL BA RGYA MTSO'I SNYING PO BSDUS PA'I TSIG 'GREL RIN CHEN PHRENG BA.txt",
-    "path": "'dul ba_vowed morality (vinaya)/spyi_general presentations/rgyal mkhan po grags pa rgyal mtsan",
-    "download_path": "/sungbum updated 4 26 23 bk/'dul ba_vowed morality (vinaya)/spyi_general presentations/rgyal mkhan po grags pa rgyal mtsan/s25101_'dul ba rgya mtso'i snying po bsdus pa'i tsig 'grel rin chen phreng ba.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAADEg",
-    "revision_id": "613f663ffc8058d294473",
+    "path": "'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/RGYAL MKHAN PO GRAGS PA RGYAL MTSAN",
+    "download_path": "/sungbum updated 7 30 23 nl/'dul ba_vowed morality (vinaya)/spyi_general presentations/rgyal mkhan po grags pa rgyal mtsan/s25101_'dul ba rgya mtso'i snying po bsdus pa'i tsig 'grel rin chen phreng ba.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABeqQ",
+    "revision_id": "625a49c3f40ec8d294473",
     "content_hash": "ff30bf41a80f01e4e1b8c80c4a70342c1ec7d4caf7a9ef22e6b381f09675e12f",
-    "server_modified": "2024-03-18T21:53:40",
-    "last_sync": "2024-09-09T19:04:22.800489",
+    "server_modified": "2024-10-29 21:53:06",
+    "last_sync": "2024-11-19 21:12:59.756804",
     "size": 129903,
     "meta_text": null,
     "cat_ref": "S25101",
@@ -19,10 +19,10 @@
     "author_simple": "",
     "subject": [
         {
-            "_id": "304688740635",
-            "subject_path": "SUNGBUM_SUNGBUM/'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/RGYAL MKHAN PO GRAGS PA RGYAL MTSAN",
-            "subject_path_tibetan": "SUNGBUM/'DUL BA/SPYI/RGYAL MKHAN PO GRAGS PA RGYAL MTSAN",
-            "subject_path_english": "SUNGBUM/VOWED MORALITY (VINAYA)/GENERAL PRESENTATIONS",
+            "_id": "290114370763",
+            "subject_path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/RGYAL MKHAN PO GRAGS PA RGYAL MTSAN",
+            "subject_path_tibetan": "GSUNG 'BUM/'DUL BA/SPYI/RGYAL MKHAN PO GRAGS PA RGYAL MTSAN",
+            "subject_path_english": "Sungbum/VOWED MORALITY (VINAYA)/GENERAL PRESENTATIONS",
             "subject_tibetan": "RGYAL MKHAN PO GRAGS PA RGYAL MTSAN",
             "subject_english": "GENERAL PRESENTATIONS"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "'dul ba_vowed morality (vinaya)/spyi_general presentations/rgyal mkhan po grags pa rgyal mtsan",
-            "timestamp": "2024-09-10T02:04:22.806732+00:00"
+            "path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/RGYAL MKHAN PO GRAGS PA RGYAL MTSAN",
+            "timestamp": "2024-11-20 05:12:59.760300+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:12:59.760300+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

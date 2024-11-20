@@ -1,12 +1,12 @@
 {
     "name": "S00172E_NAM MKHA' SGO 'BYED KYI DBANG GI BSHAD PA'I ZIN BRIS THOR BU_Various Records of Explanations given on the Empowerment into the Practice of 'Opening the Door to Space'_LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN (1642-1714).TXT",
-    "path": "rgyud_secret teachings (tantra)/nam mkha' sgo 'byed_opening the door to space/dbang_empowerment (abhisheka)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/nam mkha' sgo 'byed_opening the door to space/dbang_empowerment (abhisheka)/s00172e_nam mkha' sgo 'byed kyi dbang gi bshad pa'i zin bris thor bu_various records of explanations given on the empowerment into the practice of 'opening the door to space'_lcang skya ngag dbang blo bzang chos ldan (1642-1714).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAHuw",
-    "revision_id": "613f66492f2258d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/NAM MKHA' SGO 'BYED_OPENING THE DOOR TO SPACE/DBANG_EMPOWERMENT (ABHISHEKA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/nam mkha' sgo 'byed_opening the door to space/dbang_empowerment (abhisheka)/s00172e_nam mkha' sgo 'byed kyi dbang gi bshad pa'i zin bris thor bu_various records of explanations given on the empowerment into the practice of 'opening the door to space'_lcang skya ngag dbang blo bzang chos ldan (1642-1714).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABX9A",
+    "revision_id": "625a48d08e5eb8d294473",
     "content_hash": "6e2b8245e491c830a8d52296d01d098a130e0c73ce4af51b5e248afc59f7b763",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:08:45.267299",
+    "server_modified": "2024-10-29 21:48:51",
+    "last_sync": "2024-11-19 21:02:07.482136",
     "size": 8341,
     "meta_text": null,
     "cat_ref": "S00172E",
@@ -19,10 +19,10 @@
     "author_simple": "LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN",
     "subject": [
         {
-            "_id": "249047226628",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/NAM MKHA' SGO 'BYED_OPENING THE DOOR TO SPACE/DBANG_EMPOWERMENT (ABHISHEKA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/NAM MKHA' SGO 'BYED/DBANG",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/OPENING THE DOOR TO SPACE/EMPOWERMENT (ABHISHEKA)",
+            "_id": "135275057060",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/NAM MKHA' SGO 'BYED_OPENING THE DOOR TO SPACE/DBANG_EMPOWERMENT (ABHISHEKA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/NAM MKHA' SGO 'BYED/DBANG",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/OPENING THE DOOR TO SPACE/EMPOWERMENT (ABHISHEKA)",
             "subject_tibetan": "DBANG",
             "subject_english": "EMPOWERMENT (ABHISHEKA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P209"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/nam mkha' sgo 'byed_opening the door to space/dbang_empowerment (abhisheka)",
-            "timestamp": "2024-09-10T02:08:45.275841+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/NAM MKHA' SGO 'BYED_OPENING THE DOOR TO SPACE/DBANG_EMPOWERMENT (ABHISHEKA)",
+            "timestamp": "2024-11-20 05:02:07.490538+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:02:07.490538+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

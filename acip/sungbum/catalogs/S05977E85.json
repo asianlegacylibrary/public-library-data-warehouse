@@ -1,12 +1,12 @@
 {
     "name": "S05977E85_RAL GCIG LHA MOR MCHOD GTOR 'BUL TSUL_A Method of Offering Torma Cakes to the Goddess of a Single Lock_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662).TXT",
-    "path": "rgyud_secret teachings (tantra)/ral gcig ma (ae ka dza ti)_goddess of the single lock (ekajati)/gtor ma_offering cake (bali)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/ral gcig ma (ae ka dza ti)_goddess of the single lock (ekajati)/gtor ma_offering cake (bali)/s05977e85_ral gcig lha mor mchod gtor 'bul tsul_a method of offering torma cakes to the goddess of a single lock_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAJuw",
-    "revision_id": "613f664dc43d78d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/RAL GCIG MA (AE KA DZA TI)_GODDESS OF THE SINGLE LOCK (EKAJATI)/GTOR MA_OFFERING CAKE (BALI)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/ral gcig ma (ae ka dza ti)_goddess of the single lock (ekajati)/gtor ma_offering cake (bali)/s05977e85_ral gcig lha mor mchod gtor 'bul tsul_a method of offering torma cakes to the goddess of a single lock_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABXTw",
+    "revision_id": "625a48bc0a47d8d294473",
     "content_hash": "f48c8c4ff612ee0dac466f2ac336d01db8b64371dc82bee415126de4557ed91b",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:10:47.903945",
+    "server_modified": "2024-10-29 21:48:29",
+    "last_sync": "2024-11-19 21:00:31.777451",
     "size": 1525,
     "meta_text": null,
     "cat_ref": "S05977E85",
@@ -19,10 +19,10 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "237875552473",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/RAL GCIG MA (AE KA DZA TI)_GODDESS OF THE SINGLE LOCK (EKAJATI)/GTOR MA_OFFERING CAKE (BALI)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/RAL GCIG MA (AE KA DZA TI)/GTOR MA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GODDESS OF THE SINGLE LOCK (EKAJATI)/OFFERING CAKE (BALI)",
+            "_id": "317758403935",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RAL GCIG MA (AE KA DZA TI)_GODDESS OF THE SINGLE LOCK (EKAJATI)/GTOR MA_OFFERING CAKE (BALI)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/RAL GCIG MA (AE KA DZA TI)/GTOR MA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GODDESS OF THE SINGLE LOCK (EKAJATI)/OFFERING CAKE (BALI)",
             "subject_tibetan": "GTOR MA",
             "subject_english": "OFFERING CAKE (BALI)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/ral gcig ma (ae ka dza ti)_goddess of the single lock (ekajati)/gtor ma_offering cake (bali)",
-            "timestamp": "2024-09-10T02:10:47.911263+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RAL GCIG MA (AE KA DZA TI)_GODDESS OF THE SINGLE LOCK (EKAJATI)/GTOR MA_OFFERING CAKE (BALI)",
+            "timestamp": "2024-11-20 05:00:31.781240+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:00:31.781240+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,28 +1,28 @@
 {
     "name": "S19069E_RGYAL PO CHEN PO RNAM THOS SRAS GCIG LHAG LNGA PHRAG GSUM GYI CHOG SGRIGS DPAG BSAM LJON PA'I 'PHRENG MDZES KLAGS PA'I DON GRUB CES BYA BA BI HA RA TISMA_[Herein Contained is] A Beautiful Line of Wish-Fulfilling Trees-- Words Which, Whe+.TXT",
-    "path": "rgyud_secret teachings (tantra)/rnam thos sras_prince of learning (vaishravana)/cho ga_rituals",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/rnam thos sras_prince of learning (vaishravana)/cho ga_rituals/s19069e_rgyal po chen po rnam thos sras gcig lhag lnga phrag gsum gyi chog sgrigs dpag bsam ljon pa'i 'phreng mdzes klags pa'i don grub ces bya ba bi ha ra tisma_[herein contained is] a beautiful line of wish-fulfilling trees-- words which, whe+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAPww",
-    "revision_id": "613f665fcd5488d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/RNAM THOS SRAS_PRINCE OF LEARNING (VAISHRAVANA)/CHO GA_RITUALS",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/rnam thos sras_prince of learning (vaishravana)/cho ga_rituals/s19069e_rgyal po chen po rnam thos sras gcig lhag lnga phrag gsum gyi chog sgrigs dpag bsam ljon pa'i 'phreng mdzes klags pa'i don grub ces bya ba bi ha ra tisma_[herein contained is] a beautiful line of wish-fulfilling trees-- words which, whe+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABcdw",
+    "revision_id": "625a497b2463a8d294473",
     "content_hash": "729e0aaa56bbd22e311f1afa1db703db9904e9a4afc07a490dbd80169ea8edcf",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:17:13.871002",
+    "server_modified": "2024-10-29 21:51:50",
+    "last_sync": "2024-11-19 21:09:00.036497",
     "size": 126169,
-    "meta_text": "When Read Aloud, Enable You to Accomplish All Your Goals; A Collection of Fourteen Rituals Relating to the Great King, Son of the Learned (Vaishravana)_'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS (1648-1721)",
+    "meta_text": "(\"When Read Aloud, Enable You to Accomplish All Your Goals; A Collection of Fourteen Rituals Relating to the Great King, Son of the Learned (Vaishravana)_'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS (1648-1721)\", 'rtf')",
     "cat_ref": "S19069E",
     "work_ref": "W.S19069E",
     "title_tib": "RGYAL PO CHEN PO RNAM THOS SRAS GCIG LHAG LNGA PHRAG GSUM GYI CHOG SGRIGS DPAG BSAM LJON PA'I 'PHRENG MDZES KLAGS PA'I DON GRUB CES BYA BA BI HA RA TISMA",
-    "title_eng": "[Herein Contained is] A Beautiful Line of Wish-Fulfilling Trees-- Words Which, WheWhen Read Aloud, Enable You to Accomplish All Your Goals; A Collection of Fourteen Rituals Relating to the Great King, Son of the Learned (Vaishravana)",
+    "title_eng": "[Herein Contained is] A Beautiful Line of Wish-Fulfilling Trees-- Words Which, Whe(\"When Read Aloud, Enable You to Accomplish All Your Goals; A Collection of Fourteen Rituals Relating to the Great King, Son of the Learned (Vaishravana)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS",
     "subject": [
         {
-            "_id": "902533958222",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/RNAM THOS SRAS_PRINCE OF LEARNING (VAISHRAVANA)/CHO GA_RITUALS",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/RNAM THOS SRAS/CHO GA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/PRINCE OF LEARNING (VAISHRAVANA)/RITUALS",
+            "_id": "819631804999",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RNAM THOS SRAS_PRINCE OF LEARNING (VAISHRAVANA)/CHO GA_RITUALS",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/RNAM THOS SRAS/CHO GA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/PRINCE OF LEARNING (VAISHRAVANA)/RITUALS",
             "subject_tibetan": "CHO GA",
             "subject_english": "RITUALS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P423"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/rnam thos sras_prince of learning (vaishravana)/cho ga_rituals",
-            "timestamp": "2024-09-10T02:17:13.874080+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RNAM THOS SRAS_PRINCE OF LEARNING (VAISHRAVANA)/CHO GA_RITUALS",
+            "timestamp": "2024-11-20 05:09:00.041654+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:09:00.041654+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "rtf"
 }

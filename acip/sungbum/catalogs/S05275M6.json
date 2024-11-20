@@ -1,12 +1,12 @@
 {
     "name": "S05275M6_CHOS KYI RJE RIN PO CHE GRAGS PA BYANG CHUB DPAL BZANG PO LA GSOL BA 'DEBS PA_Verses of Supplication to that Precious Lord of the Dharma, the Good and Glorious Drakpa Jangchup_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419).TXT",
-    "path": "bstod pa_eulogies (stotra)/grags pa byang chub_drakpa jangchub",
-    "download_path": "/sungbum updated 4 26 23 bk/bstod pa_eulogies (stotra)/grags pa byang chub_drakpa jangchub/s05275m6_chos kyi rje rin po che grags pa byang chub dpal bzang po la gsol ba 'debs pa_verses of supplication to that precious lord of the dharma, the good and glorious drakpa jangchup_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAFXw",
-    "revision_id": "613f664484a838d294473",
+    "path": "BSTOD PA_EULOGIES (STOTRA)/GRAGS PA BYANG CHUB_DRAKPA JANGCHUB",
+    "download_path": "/sungbum updated 7 30 23 nl/bstod pa_eulogies (stotra)/grags pa byang chub_drakpa jangchub/s05275m6_chos kyi rje rin po che grags pa byang chub dpal bzang po la gsol ba 'debs pa_verses of supplication to that precious lord of the dharma, the good and glorious drakpa jangchup_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABQkA",
+    "revision_id": "625a47c5495658d294473",
     "content_hash": "928a2f6c73fce6ff42f2dc67cd9e38fa4d725e628c013131b7aae789c2d72847",
-    "server_modified": "2024-03-18T21:53:45",
-    "last_sync": "2024-09-09T19:06:30.483177",
+    "server_modified": "2024-10-29 21:44:11",
+    "last_sync": "2024-11-19 20:50:05.621528",
     "size": 2175,
     "meta_text": null,
     "cat_ref": "S05275M6",
@@ -19,10 +19,10 @@
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "757773519276",
-            "subject_path": "SUNGBUM_SUNGBUM/BSTOD PA_EULOGIES (STOTRA)/GRAGS PA BYANG CHUB_DRAKPA JANGCHUB",
-            "subject_path_tibetan": "SUNGBUM/BSTOD PA/GRAGS PA BYANG CHUB",
-            "subject_path_english": "SUNGBUM/EULOGIES (STOTRA)/DRAKPA JANGCHUB",
+            "_id": "306461569223",
+            "subject_path": "GSUNG 'BUM_Sungbum/BSTOD PA_EULOGIES (STOTRA)/GRAGS PA BYANG CHUB_DRAKPA JANGCHUB",
+            "subject_path_tibetan": "GSUNG 'BUM/BSTOD PA/GRAGS PA BYANG CHUB",
+            "subject_path_english": "Sungbum/EULOGIES (STOTRA)/DRAKPA JANGCHUB",
             "subject_tibetan": "GRAGS PA BYANG CHUB",
             "subject_english": "DRAKPA JANGCHUB"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "bstod pa_eulogies (stotra)/grags pa byang chub_drakpa jangchub",
-            "timestamp": "2024-09-10T02:06:30.496454+00:00"
+            "path": "GSUNG 'BUM_Sungbum/BSTOD PA_EULOGIES (STOTRA)/GRAGS PA BYANG CHUB_DRAKPA JANGCHUB",
+            "timestamp": "2024-11-20 04:50:05.630385+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:50:05.630385+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

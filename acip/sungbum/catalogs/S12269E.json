@@ -1,28 +1,28 @@
 {
     "name": "S12269E_MKHAN CHEN CHOS KYI RGYAL PO'I GSUNG 'BUM LAS GRUB CHEN DRIL BU PA'I LUGS KYI BDE MCHOG LHA LNGA'I SGRUB THABS NAG 'GROS SU BKOD PA_ A Ritual, Written in Running Prose, for Reaching the Five Angels of Highest Bliss (Samvara) in the Traditio  +.TXT",
-    "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/sgrub thabs_ritual for reaching the angel (sadhana)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/sgrub thabs_ritual for reaching the angel (sadhana)/s12269e_mkhan chen chos kyi rgyal po'i gsung 'bum las grub chen dril bu pa'i lugs kyi bde mchog lha lnga'i sgrub thabs nag 'gros su bkod pa_ a ritual, written in running prose, for reaching the five angels of highest bliss (samvara) in the traditio  +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAPEQ",
-    "revision_id": "613f665b6112a8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/sgrub thabs_ritual for reaching the angel (sadhana)/s12269e_mkhan chen chos kyi rgyal po'i gsung 'bum las grub chen dril bu pa'i lugs kyi bde mchog lha lnga'i sgrub thabs nag 'gros su bkod pa_ a ritual, written in running prose, for reaching the five angels of highest bliss (samvara) in the traditio  +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABUfg",
+    "revision_id": "625a48670a1a88d294473",
     "content_hash": "2b06535787e2d053d120834f626efb99ff8ff83e0d164c738fbbe185f261ca57",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:16:24.270445",
+    "server_modified": "2024-10-29 21:47:00",
+    "last_sync": "2024-11-19 20:55:38.276114",
     "size": 32221,
-    "meta_text": "n of that Great Adept, Ghantapada; from the Collected Works of that King of the Dharma, Kenchen_MKHAN CHEN BLO BZANG BSTAN 'DZIN RGYAL MTSAN (1639-@)",
+    "meta_text": "(\"n of that Great Adept, Ghantapada; from the Collected Works of that King of the Dharma, Kenchen_MKHAN CHEN BLO BZANG BSTAN 'DZIN RGYAL MTSAN (1639-@)\", 'rtf')",
     "cat_ref": "S12269E",
     "work_ref": "W.S12269E",
     "title_tib": "MKHAN CHEN CHOS KYI RGYAL PO'I GSUNG 'BUM LAS GRUB CHEN DRIL BU PA'I LUGS KYI BDE MCHOG LHA LNGA'I SGRUB THABS NAG 'GROS SU BKOD PA",
-    "title_eng": "A Ritual, Written in Running Prose, for Reaching the Five Angels of Highest Bliss (Samvara) in the Tradition of that Great Adept, Ghantapada; from the Collected Works of that King of the Dharma, Kenchen",
+    "title_eng": "A Ritual, Written in Running Prose, for Reaching the Five Angels of Highest Bliss (Samvara) in the Traditio(\"n of that Great Adept, Ghantapada; from the Collected Works of that King of the Dharma, Kenchen",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "MKHAN CHEN BLO BZANG BSTAN 'DZIN RGYAL MTSAN",
     "subject": [
         {
-            "_id": "250473272738",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/BDE MCHOG/SGRUB THABS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "_id": "162847641065",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/BDE MCHOG/SGRUB THABS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
             "subject_tibetan": "SGRUB THABS",
             "subject_english": "RITUAL FOR REACHING THE ANGEL (SADHANA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P6418"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/sgrub thabs_ritual for reaching the angel (sadhana)",
-            "timestamp": "2024-09-10T02:16:24.278836+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "timestamp": "2024-11-20 04:55:39.058965+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:55:39.058965+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

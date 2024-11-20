@@ -1,12 +1,12 @@
 {
     "name": "S06315E_SNYING PO DON GSUM LAS BAR DO'I NYAMS LEN GYI STONG MTHUN_Overview of the Practice of the Intermediate State in the Teaching of the Three Essentials_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/snying po don gsum_three essential practices/rnal 'byor_practices",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/snying po don gsum_three essential practices/rnal 'byor_practices/s06315e_snying po don gsum las bar do'i nyams len gyi stong mthun_overview of the practice of the intermediate state in the teaching of the three essentials_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAQDQ",
-    "revision_id": "613f665fcd5928d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SNYING PO DON GSUM_THREE ESSENTIAL PRACTICES/RNAL 'BYOR_PRACTICES",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/snying po don gsum_three essential practices/rnal 'byor_practices/s06315e_snying po don gsum las bar do'i nyams len gyi stong mthun_overview of the practice of the intermediate state in the teaching of the three essentials_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABVIA",
+    "revision_id": "625a487e17efb8d294473",
     "content_hash": "2822f2859fb78029984225e1e43ada35db48c666098a040fc17b650f84d9c0e6",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:17:28.984896",
+    "server_modified": "2024-10-29 21:47:24",
+    "last_sync": "2024-11-19 20:56:53.453311",
     "size": 5116,
     "meta_text": null,
     "cat_ref": "S06315E",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "342507464639",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SNYING PO DON GSUM_THREE ESSENTIAL PRACTICES/RNAL 'BYOR_PRACTICES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SNYING PO DON GSUM/RNAL 'BYOR",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/THREE ESSENTIAL PRACTICES/PRACTICES",
+            "_id": "327275441043",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SNYING PO DON GSUM_THREE ESSENTIAL PRACTICES/RNAL 'BYOR_PRACTICES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SNYING PO DON GSUM/RNAL 'BYOR",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/THREE ESSENTIAL PRACTICES/PRACTICES",
             "subject_tibetan": "RNAL 'BYOR",
             "subject_english": "PRACTICES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/snying po don gsum_three essential practices/rnal 'byor_practices",
-            "timestamp": "2024-09-10T02:17:28.995281+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SNYING PO DON GSUM_THREE ESSENTIAL PRACTICES/RNAL 'BYOR_PRACTICES",
+            "timestamp": "2024-11-20 04:56:53.462783+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:56:53.462783+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

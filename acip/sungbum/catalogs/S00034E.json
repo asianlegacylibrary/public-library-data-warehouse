@@ -1,12 +1,12 @@
 {
     "name": "S00034E_RDO RJE 'CHANG PHA BONG KHA PA DPAL BZANG POS LAM GTZO'I ZAB KHRID STZAL SKABS KYI GSUNG BSHAD ZIN BRIS LAM BZANG SGO_'BYED_The Principal Teachings of Buddhism_SKYABS RJE PHA BONG KHA PA BDE CHEN SNYING PO (1878-1941).TXT",
-    "path": "lam rim_steps of the path/lam gtzo rnam gsum_the three principal paths/'grel pa_commentaries",
-    "download_path": "/sungbum updated 4 26 23 bk/lam rim_steps of the path/lam gtzo rnam gsum_the three principal paths/'grel pa_commentaries/s00034e_rdo rje 'chang pha bong kha pa dpal bzang pos lam gtzo'i zab khrid stzal skabs kyi gsung bshad zin bris lam bzang sgo_'byed_the principal teachings of buddhism_skyabs rje pha bong kha pa bde chen snying po (1878-1941).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAHHg",
-    "revision_id": "613f66492f1888d294473",
+    "path": "LAM RIM_STEPS OF THE PATH/LAM GTZO RNAM GSUM_THE THREE PRINCIPAL PATHS/'GREL PA_COMMENTARIES",
+    "download_path": "/sungbum updated 7 30 23 nl/lam rim_steps of the path/lam gtzo rnam gsum_the three principal paths/'grel pa_commentaries/s00034e_rdo rje 'chang pha bong kha pa dpal bzang pos lam gtzo'i zab khrid stzal skabs kyi gsung bshad zin bris lam bzang sgo_'byed_the principal teachings of buddhism_skyabs rje pha bong kha pa bde chen snying po (1878-1941).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABh3g",
+    "revision_id": "625a4a74f30388d294473",
     "content_hash": "2da864cde14d1df3599c994d8c0132a18a7fd5d372136127e2d6e9d1a344fd08",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:08:14.339590",
+    "server_modified": "2024-10-29 21:56:12",
+    "last_sync": "2024-11-19 21:18:37.354334",
     "size": 360449,
     "meta_text": null,
     "cat_ref": "S00034E",
@@ -19,10 +19,10 @@
     "author_simple": "",
     "subject": [
         {
-            "_id": "201489212720",
-            "subject_path": "SUNGBUM_SUNGBUM/LAM RIM_STEPS OF THE PATH/LAM GTZO RNAM GSUM_THE THREE PRINCIPAL PATHS/'GREL PA_COMMENTARIES",
-            "subject_path_tibetan": "SUNGBUM/LAM RIM/LAM GTZO RNAM GSUM/'GREL PA",
-            "subject_path_english": "SUNGBUM/STEPS OF THE PATH/THE THREE PRINCIPAL PATHS/COMMENTARIES",
+            "_id": "272221214828",
+            "subject_path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/LAM GTZO RNAM GSUM_THE THREE PRINCIPAL PATHS/'GREL PA_COMMENTARIES",
+            "subject_path_tibetan": "GSUNG 'BUM/LAM RIM/LAM GTZO RNAM GSUM/'GREL PA",
+            "subject_path_english": "Sungbum/STEPS OF THE PATH/THE THREE PRINCIPAL PATHS/COMMENTARIES",
             "subject_tibetan": "'GREL PA",
             "subject_english": "COMMENTARIES"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "lam rim_steps of the path/lam gtzo rnam gsum_the three principal paths/'grel pa_commentaries",
-            "timestamp": "2024-09-10T02:08:14.382133+00:00"
+            "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/LAM GTZO RNAM GSUM_THE THREE PRINCIPAL PATHS/'GREL PA_COMMENTARIES",
+            "timestamp": "2024-11-20 05:18:39.275437+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:18:39.275437+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

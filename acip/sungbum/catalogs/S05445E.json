@@ -1,12 +1,12 @@
 {
     "name": "S05445E_'BREL PA BRTAG PA'I RNAM BSHAD NYI MA'I SNYING PO_The Essence of the Sun, an Explanation of \"An Analysis of Relationships\"_RGYAL TSAB RJE DAR MA RIN CHEN (1364-1432).txt",
-    "path": "tsad ma_study of accurate perception (sautrantika school)/'brel pa brtag pa (saṃbandha parīkṣā prakaraṇa)_an analysis of relationships",
-    "download_path": "/sungbum updated 4 26 23 bk/tsad ma_study of accurate perception (sautrantika school)/'brel pa brtag pa (saṃbandha parīkṣā prakaraṇa)_an analysis of relationships/s05445e_'brel pa brtag pa'i rnam bshad nyi ma'i snying po_the essence of the sun, an explanation of \"an analysis of relationships\"_rgyal tsab rje dar ma rin chen (1364-1432).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAFzw",
-    "revision_id": "613f664484af38d294473",
+    "path": "TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/'BREL PA BRTAG PA (Saṃbandha Parīkṣā Prakaraṇa)_AN ANALYSIS OF RELATIONSHIPS",
+    "download_path": "/sungbum updated 7 30 23 nl/tsad ma_study of accurate perception (sautrantika school)/'brel pa brtag pa (saṃbandha parīkṣā prakaraṇa)_an analysis of relationships/s05445e_'brel pa brtag pa'i rnam bshad nyi ma'i snying po_the essence of the sun, an explanation of \"an analysis of relationships\"_rgyal tsab rje dar ma rin chen (1364-1432).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABQMg",
+    "revision_id": "625a47bae19d68d294473",
     "content_hash": "307ad5a8e78fb2e788dd39123e54be2df0b83275ca9c4225b2caab2615c99154",
-    "server_modified": "2024-03-18T21:53:45",
-    "last_sync": "2024-09-09T19:06:57.087252",
+    "server_modified": "2024-10-29 21:44:00",
+    "last_sync": "2024-11-19 20:49:27.808254",
     "size": 38552,
     "meta_text": null,
     "cat_ref": "S05445E",
@@ -19,11 +19,11 @@
     "author_simple": "RGYAL TSAB DAR MA RIN CHEN",
     "subject": [
         {
-            "_id": "255043739967",
-            "subject_path": "SUNGBUM_SUNGBUM/TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/'BREL PA BRTAG PA (SAṂBANDHA PARĪKṢĀ PRAKARAṆA)_AN ANALYSIS OF RELATIONSHIPS",
-            "subject_path_tibetan": "SUNGBUM/TSAD MA/'BREL PA BRTAG PA (SAṂBANDHA PARĪKṢĀ PRAKARAṆA)",
-            "subject_path_english": "SUNGBUM/STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/AN ANALYSIS OF RELATIONSHIPS",
-            "subject_tibetan": "'BREL PA BRTAG PA (SAṂBANDHA PARĪKṢĀ PRAKARAṆA)",
+            "_id": "156152345130",
+            "subject_path": "GSUNG 'BUM_Sungbum/TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/'BREL PA BRTAG PA (Saṃbandha Parīkṣā Prakaraṇa)_AN ANALYSIS OF RELATIONSHIPS",
+            "subject_path_tibetan": "GSUNG 'BUM/TSAD MA/'BREL PA BRTAG PA (Saṃbandha Parīkṣā Prakaraṇa)",
+            "subject_path_english": "Sungbum/STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/AN ANALYSIS OF RELATIONSHIPS",
+            "subject_tibetan": "'BREL PA BRTAG PA (Saṃbandha Parīkṣā Prakaraṇa)",
             "subject_english": "AN ANALYSIS OF RELATIONSHIPS"
         }
     ],
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P65"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "tsad ma_study of accurate perception (sautrantika school)/'brel pa brtag pa (saṃbandha parīkṣā prakaraṇa)_an analysis of relationships",
-            "timestamp": "2024-09-10T02:06:57.111077+00:00"
+            "path": "GSUNG 'BUM_Sungbum/TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/'BREL PA BRTAG PA (Saṃbandha Parīkṣā Prakaraṇa)_AN ANALYSIS OF RELATIONSHIPS",
+            "timestamp": "2024-11-20 04:49:27.813299+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:49:27.813299+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

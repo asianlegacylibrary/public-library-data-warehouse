@@ -1,12 +1,12 @@
 {
     "name": "S00065E_RJE BTZUN RDO RJE RNAL 'BYOR MA LA BSTOD CING GSOL BA 'DEBS PA'I TSIGS SU BCAD PA_Verses in Praise and Supplication to the Angel of Diamond (Vajrayogini)_THU'U BKVAN BLO BZANG CHOS KYI NYI MA (1737-1802).TXT",
-    "path": "rgyud_secret teachings (tantra)/rdo rje rnal 'byor ma_angel of diamond (vajrayogini)/bstod pa_songs of praise (stotra)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/rdo rje rnal 'byor ma_angel of diamond (vajrayogini)/bstod pa_songs of praise (stotra)/s00065e_rje btzun rdo rje rnal 'byor ma la bstod cing gsol ba 'debs pa'i tsigs su bcad pa_verses in praise and supplication to the angel of diamond (vajrayogini)_thu'u bkvan blo bzang chos kyi nyi ma (1737-1802).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAJXA",
-    "revision_id": "613f664dc43788d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAL 'BYOR MA_ANGEL OF DIAMOND (VAJRAYOGINI)/BSTOD PA_SONGS OF PRAISE (STOTRA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/rdo rje rnal 'byor ma_angel of diamond (vajrayogini)/bstod pa_songs of praise (stotra)/s00065e_rje btzun rdo rje rnal 'byor ma la bstod cing gsol ba 'debs pa'i tsigs su bcad pa_verses in praise and supplication to the angel of diamond (vajrayogini)_thu'u bkvan blo bzang chos kyi nyi ma (1737-1802).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABbyg",
+    "revision_id": "625a495f45b048d294473",
     "content_hash": "07779439b0074d118231ff99646ce26b92eb0bebe1d9ed46e3f6a98f02c7f64f",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:10:25.260118",
+    "server_modified": "2024-10-29 21:51:20",
+    "last_sync": "2024-11-19 21:07:48.614608",
     "size": 8100,
     "meta_text": null,
     "cat_ref": "S00065E",
@@ -19,10 +19,10 @@
     "author_simple": "THU'U BKVAN BLO BZANG CHOS KYI NYI MA",
     "subject": [
         {
-            "_id": "128143646236",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAL 'BYOR MA_ANGEL OF DIAMOND (VAJRAYOGINI)/BSTOD PA_SONGS OF PRAISE (STOTRA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/RDO RJE RNAL 'BYOR MA/BSTOD PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/ANGEL OF DIAMOND (VAJRAYOGINI)/SONGS OF PRAISE (STOTRA)",
+            "_id": "276108010123",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAL 'BYOR MA_ANGEL OF DIAMOND (VAJRAYOGINI)/BSTOD PA_SONGS OF PRAISE (STOTRA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/RDO RJE RNAL 'BYOR MA/BSTOD PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/ANGEL OF DIAMOND (VAJRAYOGINI)/SONGS OF PRAISE (STOTRA)",
             "subject_tibetan": "BSTOD PA",
             "subject_english": "SONGS OF PRAISE (STOTRA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P170"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/rdo rje rnal 'byor ma_angel of diamond (vajrayogini)/bstod pa_songs of praise (stotra)",
-            "timestamp": "2024-09-10T02:10:25.268132+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAL 'BYOR MA_ANGEL OF DIAMOND (VAJRAYOGINI)/BSTOD PA_SONGS OF PRAISE (STOTRA)",
+            "timestamp": "2024-11-20 05:07:48.619515+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:07:48.619515+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

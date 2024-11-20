@@ -1,12 +1,12 @@
 {
     "name": "S12251E_RANG GI TSE 'DI'I BYED SPYOD RAGS BSDOMS 'DI SNANG ZA ZI'I RJES GCOD_Slicing Through the Haze of This Life's Concerns--A Very Rough Summary of How I've Spent this Life_RJE BTZUN BLO BZANG RTA DBYANGS (1867-1937).TXT",
-    "path": "rnam thar_biographies/mtsan thog_by person's name/blo bzang rta dbyangs_lobsang ta yang",
-    "download_path": "/sungbum updated 4 26 23 bk/rnam thar_biographies/mtsan thog_by person's name/blo bzang rta dbyangs_lobsang ta yang/s12251e_rang gi tse 'di'i byed spyod rags bsdoms 'di snang za zi'i rjes gcod_slicing through the haze of this life's concerns--a very rough summary of how i've spent this life_rje btzun blo bzang rta dbyangs (1867-1937).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAWSg",
-    "revision_id": "613f666d209668d294473",
+    "path": "RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/BLO BZANG RTA DBYANGS_LOBSANG TA YANG",
+    "download_path": "/sungbum updated 7 30 23 nl/rnam thar_biographies/mtsan thog_by person's name/blo bzang rta dbyangs_lobsang ta yang/s12251e_rang gi tse 'di'i byed spyod rags bsdoms 'di snang za zi'i rjes gcod_slicing through the haze of this life's concerns--a very rough summary of how i've spent this life_rje btzun blo bzang rta dbyangs (1867-1937).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABf5w",
+    "revision_id": "625a4a0cd33748d294473",
     "content_hash": "e0fea0afec430226afb829434e6d77b2128b75accaa6f81c6dc6e01e780df190",
-    "server_modified": "2024-03-18T21:54:28",
-    "last_sync": "2024-09-09T19:23:28.900491",
+    "server_modified": "2024-10-29 21:54:22",
+    "last_sync": "2024-11-19 21:15:04.996775",
     "size": 54857,
     "meta_text": null,
     "cat_ref": "S12251E",
@@ -19,10 +19,10 @@
     "author_simple": "RJE BTZUN BLO BZANG RTA DBYANGS",
     "subject": [
         {
-            "_id": "206052213765",
-            "subject_path": "SUNGBUM_SUNGBUM/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/BLO BZANG RTA DBYANGS_LOBSANG TA YANG",
-            "subject_path_tibetan": "SUNGBUM/RNAM THAR/MTSAN THOG/BLO BZANG RTA DBYANGS",
-            "subject_path_english": "SUNGBUM/BIOGRAPHIES/BY PERSON'S NAME/LOBSANG TA YANG",
+            "_id": "152227467805",
+            "subject_path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/BLO BZANG RTA DBYANGS_LOBSANG TA YANG",
+            "subject_path_tibetan": "GSUNG 'BUM/RNAM THAR/MTSAN THOG/BLO BZANG RTA DBYANGS",
+            "subject_path_english": "Sungbum/BIOGRAPHIES/BY PERSON'S NAME/LOBSANG TA YANG",
             "subject_tibetan": "BLO BZANG RTA DBYANGS",
             "subject_english": "LOBSANG TA YANG"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P1638"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rnam thar_biographies/mtsan thog_by person's name/blo bzang rta dbyangs_lobsang ta yang",
-            "timestamp": "2024-09-10T02:23:28.903222+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/BLO BZANG RTA DBYANGS_LOBSANG TA YANG",
+            "timestamp": "2024-11-20 05:15:05.001131+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:15:05.001131+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

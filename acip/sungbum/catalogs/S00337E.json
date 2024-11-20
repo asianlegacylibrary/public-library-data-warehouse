@@ -1,14 +1,14 @@
 {
     "name": "S00337E_DPAL 'KHOR LO SDOM PA'I JA MCHOD RDO RJE'I LUS KYI MCHOD SPRIN_'A Cloud of Offerings for the Diamond Body,' for Offering Grace in the Secret Teachings of the Glorious Union of the Spheres (Chakrasamvara)_SKYABS RJE PHA BONG KHA BDE CHEN SNYI +.TXT",
-    "path": "rgyud_secret teachings (tantra)/'khor lo sdom pa_union of the spheres (chakrasanvara)/mchod pa_offering",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/'khor lo sdom pa_union of the spheres (chakrasanvara)/mchod pa_offering/s00337e_dpal 'khor lo sdom pa'i ja mchod rdo rje'i lus kyi mchod sprin_'a cloud of offerings for the diamond body,' for offering grace in the secret teachings of the glorious union of the spheres (chakrasamvara)_skyabs rje pha bong kha bde chen snyi +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAKqg",
-    "revision_id": "613f6652788c28d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/'KHOR LO SDOM PA_UNION OF THE SPHERES (CHAKRASANVARA)/MCHOD PA_OFFERING",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/'khor lo sdom pa_union of the spheres (chakrasanvara)/mchod pa_offering/s00337e_dpal 'khor lo sdom pa'i ja mchod rdo rje'i lus kyi mchod sprin_'a cloud of offerings for the diamond body,' for offering grace in the secret teachings of the glorious union of the spheres (chakrasamvara)_skyabs rje pha bong kha bde chen snyi +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABW7g",
+    "revision_id": "625a48afceda48d294473",
     "content_hash": "1ae0c238fb486617cccce2477e1a9d24529ca057188f4ea7d4146b33e2be2907",
-    "server_modified": "2024-03-18T21:54:00",
-    "last_sync": "2024-09-09T19:11:46.241677",
+    "server_modified": "2024-10-29 21:48:16",
+    "last_sync": "2024-11-19 20:59:50.001002",
     "size": 2463,
-    "meta_text": "NG PO (1878-1941)",
+    "meta_text": "('NG PO (1878-1941)', 'rtf')",
     "cat_ref": "S00337E",
     "work_ref": "W.S00337E",
     "title_tib": "DPAL 'KHOR LO SDOM PA'I JA MCHOD RDO RJE'I LUS KYI MCHOD SPRIN",
@@ -19,10 +19,10 @@
     "author_simple": "SKYABS RJE PHA BONG KHA PA BDE CHEN SNYING PO",
     "subject": [
         {
-            "_id": "468952279885",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/'KHOR LO SDOM PA_UNION OF THE SPHERES (CHAKRASANVARA)/MCHOD PA_OFFERING",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/'KHOR LO SDOM PA/MCHOD PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/UNION OF THE SPHERES (CHAKRASANVARA)/OFFERING",
+            "_id": "318558116742",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'KHOR LO SDOM PA_UNION OF THE SPHERES (CHAKRASANVARA)/MCHOD PA_OFFERING",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/'KHOR LO SDOM PA/MCHOD PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/UNION OF THE SPHERES (CHAKRASANVARA)/OFFERING",
             "subject_tibetan": "MCHOD PA",
             "subject_english": "OFFERING"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P230"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/'khor lo sdom pa_union of the spheres (chakrasanvara)/mchod pa_offering",
-            "timestamp": "2024-09-10T02:11:46.260533+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'KHOR LO SDOM PA_UNION OF THE SPHERES (CHAKRASANVARA)/MCHOD PA_OFFERING",
+            "timestamp": "2024-11-20 04:59:50.683760+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:59:50.683760+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

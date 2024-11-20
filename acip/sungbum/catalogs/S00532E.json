@@ -1,14 +1,14 @@
 {
     "name": "S00532E_PHYI 'TSAMS CHEN MO'I YIG CHUNG GSAL BYED YANG CHUNG SGRON ME_'The Even Briefer Lamp,' being a Clarification of the Brief Text for the Greater Ceremony for the Outer Boundary_CHE SHOS RIN PO CHE BLO BZANG BYANG CHUB BSTAN PA'I SGRON ME (1861+.TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/bsnyen pa_retreat instructions",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/bsnyen pa_retreat instructions/s00532e_phyi 'tsams chen mo'i yig chung gsal byed yang chung sgron me_'the even briefer lamp,' being a clarification of the brief text for the greater ceremony for the outer boundary_che shos rin po che blo bzang byang chub bstan pa'i sgron me (1861+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAANCA",
-    "revision_id": "613f6656dedd98d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BSNYEN PA_RETREAT INSTRUCTIONS",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyi_general treatments/bsnyen pa_retreat instructions/s00532e_phyi 'tsams chen mo'i yig chung gsal byed yang chung sgron me_'the even briefer lamp,' being a clarification of the brief text for the greater ceremony for the outer boundary_che shos rin po che blo bzang byang chub bstan pa'i sgron me (1861+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABY-w",
+    "revision_id": "625a48f09ba7a8d294473",
     "content_hash": "2053e19ffa4a359c49f23598ed675320b8279b564bd02ae23539d840bb174996",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:14:26.747318",
+    "server_modified": "2024-10-29 21:49:24",
+    "last_sync": "2024-11-19 21:03:25.965377",
     "size": 10606,
-    "meta_text": "-1933@)",
+    "meta_text": "('-1933@)', 'rtf')",
     "cat_ref": "S00532E",
     "work_ref": "W.S00532E",
     "title_tib": "PHYI 'TSAMS CHEN MO'I YIG CHUNG GSAL BYED YANG CHUNG SGRON ME",
@@ -19,10 +19,10 @@
     "author_simple": "CHE SHOS RIN PO CHE BLO BZANG BYANG CHUB BSTAN PA'I SGRON ME",
     "subject": [
         {
-            "_id": "149498283515",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BSNYEN PA_RETREAT INSTRUCTIONS",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/BSNYEN PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/RETREAT INSTRUCTIONS",
+            "_id": "270656954829",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BSNYEN PA_RETREAT INSTRUCTIONS",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/BSNYEN PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/RETREAT INSTRUCTIONS",
             "subject_tibetan": "BSNYEN PA",
             "subject_english": "RETREAT INSTRUCTIONS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P238"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/bsnyen pa_retreat instructions",
-            "timestamp": "2024-09-10T02:14:26.758359+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BSNYEN PA_RETREAT INSTRUCTIONS",
+            "timestamp": "2024-11-20 05:03:26.583813+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:03:26.583813+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,12 +1,12 @@
 {
     "name": "S12106E_GSANG 'DUS 'JIG RTEN DBANG PHYUG GI DBANG GI ZIN BRIS_ Notes on an Empowerment into the Secret Collection (Guhya Samaja) of the Lord of the World (Lokeshvara)_DZE SMAD RIN PO CHE BLO BZANG DPAL LDAN BSTAN 'DZIN YAR RGYAS(1927-1996).TXT",
-    "path": "rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/'jig rten dbang phyug_lord of the world (lokeshvara)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/'jig rten dbang phyug_lord of the world (lokeshvara)/s12106e_gsang 'dus 'jig rten dbang phyug gi dbang gi zin bris_ notes on an empowerment into the secret collection (guhya samaja) of the lord of the world (lokeshvara)_dze smad rin po che blo bzang dpal ldan bstan 'dzin yar rgyas(1927-1996).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAQvw",
-    "revision_id": "613f665fcd6448d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/'JIG RTEN DBANG PHYUG_LORD OF THE WORLD (LOKESHVARA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/'jig rten dbang phyug_lord of the world (lokeshvara)/s12106e_gsang 'dus 'jig rten dbang phyug gi dbang gi zin bris_ notes on an empowerment into the secret collection (guhya samaja) of the lord of the world (lokeshvara)_dze smad rin po che blo bzang dpal ldan bstan 'dzin yar rgyas(1927-1996).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABbjg",
+    "revision_id": "625a4957ab8088d294473",
     "content_hash": "1da54d43dfdefd264e349e7ab80690a10c1a140ff2dcbce040c004416b0bae7f",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:18:18.222928",
+    "server_modified": "2024-10-29 21:51:12",
+    "last_sync": "2024-11-19 21:07:33.191500",
     "size": 4896,
     "meta_text": null,
     "cat_ref": "S12106E",
@@ -19,10 +19,10 @@
     "author_simple": "DZE SMAD RIN PO CHE BLO BZANG DPAL LDAN BSTAN 'DZIN YAR RGYAS",
     "subject": [
         {
-            "_id": "243459962036",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/'JIG RTEN DBANG PHYUG_LORD OF THE WORLD (LOKESHVARA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/GSANG 'DUS/'JIG RTEN DBANG PHYUG",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/SECRET COLLECTION (GUHYASAMAJA)/LORD OF THE WORLD (LOKESHVARA)",
+            "_id": "928712681410",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/'JIG RTEN DBANG PHYUG_LORD OF THE WORLD (LOKESHVARA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/GSANG 'DUS/'JIG RTEN DBANG PHYUG",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/SECRET COLLECTION (GUHYASAMAJA)/LORD OF THE WORLD (LOKESHVARA)",
             "subject_tibetan": "'JIG RTEN DBANG PHYUG",
             "subject_english": "LORD OF THE WORLD (LOKESHVARA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P2425"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/'jig rten dbang phyug_lord of the world (lokeshvara)",
-            "timestamp": "2024-09-10T02:18:18.225779+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/'JIG RTEN DBANG PHYUG_LORD OF THE WORLD (LOKESHVARA)",
+            "timestamp": "2024-11-20 05:07:33.196129+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:07:33.196129+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

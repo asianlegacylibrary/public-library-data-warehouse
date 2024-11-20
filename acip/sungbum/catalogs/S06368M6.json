@@ -1,12 +1,12 @@
 {
     "name": "S06368M6_SHES RAB SNYING PO'I BSDUS DON SA BCAD_Brief Explanation and Outline of 'The Essence of Wisdom' Sutra_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "dbu ma_middle-way philosophy (madhyamika prasangika school)/shes rab snying po'i 'grel pa_commentaries on the heart sutra",
-    "download_path": "/sungbum updated 4 26 23 bk/dbu ma_middle-way philosophy (madhyamika prasangika school)/shes rab snying po'i 'grel pa_commentaries on the heart sutra/s06368m6_shes rab snying po'i bsdus don sa bcad_brief explanation and outline of 'the essence of wisdom' sutra_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAADyw",
-    "revision_id": "613f663ffc8be8d294473",
+    "path": "DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/SHES RAB SNYING PO'I 'GREL PA_COMMENTARIES ON THE HEART SUTRA",
+    "download_path": "/sungbum updated 7 30 23 nl/dbu ma_middle-way philosophy (madhyamika prasangika school)/shes rab snying po'i 'grel pa_commentaries on the heart sutra/s06368m6_shes rab snying po'i bsdus don sa bcad_brief explanation and outline of 'the essence of wisdom' sutra_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABRUg",
+    "revision_id": "625a47e1e4b148d294473",
     "content_hash": "a4494b6f0479ca44778a282e8ba13cba468431276c953395e124c78dfd3d1caf",
-    "server_modified": "2024-03-18T21:53:40",
-    "last_sync": "2024-09-09T19:05:04.002433",
+    "server_modified": "2024-10-29 21:44:41",
+    "last_sync": "2024-11-19 20:51:34.907681",
     "size": 1994,
     "meta_text": null,
     "cat_ref": "S06368M6",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "296967230016",
-            "subject_path": "SUNGBUM_SUNGBUM/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/SHES RAB SNYING PO'I 'GREL PA_COMMENTARIES ON THE HEART SUTRA",
-            "subject_path_tibetan": "SUNGBUM/DBU MA/SHES RAB SNYING PO'I 'GREL PA",
-            "subject_path_english": "SUNGBUM/MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/COMMENTARIES ON THE HEART SUTRA",
+            "_id": "127592090797",
+            "subject_path": "GSUNG 'BUM_Sungbum/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/SHES RAB SNYING PO'I 'GREL PA_COMMENTARIES ON THE HEART SUTRA",
+            "subject_path_tibetan": "GSUNG 'BUM/DBU MA/SHES RAB SNYING PO'I 'GREL PA",
+            "subject_path_english": "Sungbum/MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/COMMENTARIES ON THE HEART SUTRA",
             "subject_tibetan": "SHES RAB SNYING PO'I 'GREL PA",
             "subject_english": "COMMENTARIES ON THE HEART SUTRA"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "dbu ma_middle-way philosophy (madhyamika prasangika school)/shes rab snying po'i 'grel pa_commentaries on the heart sutra",
-            "timestamp": "2024-09-10T02:05:04.023588+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/SHES RAB SNYING PO'I 'GREL PA_COMMENTARIES ON THE HEART SUTRA",
+            "timestamp": "2024-11-20 04:51:34.912393+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:51:34.912393+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

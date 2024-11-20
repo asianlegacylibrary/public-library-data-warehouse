@@ -1,12 +1,12 @@
 {
     "name": "S00457M_DGE SBYONG BYED TSUL GYI 'DON BSGRIGS SNYING GI THUR MA_'A Scalpel for the Heart,' being a Recitation Book that Describes a Daily Life of Virtue_CHE SHOS RIN PO CHE BLO BZANG BYANG CHUB BSTAN PA'I SGRON ME (1861-1933@).TXT",
-    "path": "nyams len_personal practice/bslab bya_personal advices/che shos rin po che blo bzang byang chub bstan pa'i sgron me_cheshu rinpoche lobsang jangchub tenpay drunme (1861-1933?)",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/bslab bya_personal advices/che shos rin po che blo bzang byang chub bstan pa'i sgron me_cheshu rinpoche lobsang jangchub tenpay drunme (1861-1933?)/s00457m_dge sbyong byed tsul gyi 'don bsgrigs snying gi thur ma_'a scalpel for the heart,' being a recitation book that describes a daily life of virtue_che shos rin po che blo bzang byang chub bstan pa'i sgron me (1861-1933@).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAABMQ",
-    "revision_id": "613f663b87c7a8d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/CHE SHOS RIN PO CHE BLO BZANG BYANG CHUB BSTAN PA'I SGRON ME_CHESHU RINPOCHE LOBSANG JANGCHUB TENPAY DRUNME (1861-1933?)",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/bslab bya_personal advices/che shos rin po che blo bzang byang chub bstan pa'i sgron me_cheshu rinpoche lobsang jangchub tenpay drunme (1861-1933?)/s00457m_dge sbyong byed tsul gyi 'don bsgrigs snying gi thur ma_'a scalpel for the heart,' being a recitation book that describes a daily life of virtue_che shos rin po che blo bzang byang chub bstan pa'i sgron me (1861-1933@).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABi7Q",
+    "revision_id": "625a4a9c69ccb8d294473",
     "content_hash": "259614530885e5b79e0581a654021691dbeef81e419ddb4e66387aa064105198",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:02:10.176146",
+    "server_modified": "2024-10-29 21:56:53",
+    "last_sync": "2024-11-19 21:20:15.219016",
     "size": 7886,
     "meta_text": null,
     "cat_ref": "S00457M",
@@ -19,10 +19,10 @@
     "author_simple": "CHE SHOS RIN PO CHE BLO BZANG BYANG CHUB BSTAN PA'I SGRON ME",
     "subject": [
         {
-            "_id": "128501035424",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/CHE SHOS RIN PO CHE BLO BZANG BYANG CHUB BSTAN PA'I SGRON ME_CHESHU RINPOCHE LOBSANG JANGCHUB TENPAY DRUNME (1861-1933?)",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/BSLAB BYA/CHE SHOS RIN PO CHE BLO BZANG BYANG CHUB BSTAN PA'I SGRON ME",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/PERSONAL ADVICES/CHESHU RINPOCHE LOBSANG JANGCHUB TENPAY DRUNME (1861-1933?)",
+            "_id": "642862523163",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/CHE SHOS RIN PO CHE BLO BZANG BYANG CHUB BSTAN PA'I SGRON ME_CHESHU RINPOCHE LOBSANG JANGCHUB TENPAY DRUNME (1861-1933?)",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/BSLAB BYA/CHE SHOS RIN PO CHE BLO BZANG BYANG CHUB BSTAN PA'I SGRON ME",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/PERSONAL ADVICES/CHESHU RINPOCHE LOBSANG JANGCHUB TENPAY DRUNME (1861-1933?)",
             "subject_tibetan": "CHE SHOS RIN PO CHE BLO BZANG BYANG CHUB BSTAN PA'I SGRON ME",
             "subject_english": "CHESHU RINPOCHE LOBSANG JANGCHUB TENPAY DRUNME (1861-1933?)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P238"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/bslab bya_personal advices/che shos rin po che blo bzang byang chub bstan pa'i sgron me_cheshu rinpoche lobsang jangchub tenpay drunme (1861-1933?)",
-            "timestamp": "2024-09-10T02:02:10.184875+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/CHE SHOS RIN PO CHE BLO BZANG BYANG CHUB BSTAN PA'I SGRON ME_CHESHU RINPOCHE LOBSANG JANGCHUB TENPAY DRUNME (1861-1933?)",
+            "timestamp": "2024-11-20 05:20:15.227024+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:20:15.227024+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

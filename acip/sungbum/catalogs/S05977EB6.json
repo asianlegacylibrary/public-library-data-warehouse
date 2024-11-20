@@ -1,14 +1,14 @@
 {
     "name": "S05977EB6_ RJE BTZUN SGROL MA'I SGRUB THABS 'DOD DGU'I MCHOG SBYIN DBANG GI RGYAL PO_The 'King of All Lords, who Grants the Highest of All the Wishes We Have,' being a Method for Reaching the Holy Lady of Liberation (Tara)_PAn CHEN BLO BZANG CHOS KY+.TXT",
-    "path": "rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/sgrub thabs_ritual for reaching the angel (sadhana)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/sgrub thabs_ritual for reaching the angel (sadhana)/s05977eb6_ rje btzun sgrol ma'i sgrub thabs 'dod dgu'i mchog sbyin dbang gi rgyal po_the 'king of all lords, who grants the highest of all the wishes we have,' being a method for reaching the holy lady of liberation (tara)_pan chen blo bzang chos ky+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAQMA",
-    "revision_id": "613f665fcd5b58d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/sgrub thabs_ritual for reaching the angel (sadhana)/s05977eb6_ rje btzun sgrol ma'i sgrub thabs 'dod dgu'i mchog sbyin dbang gi rgyal po_the 'king of all lords, who grants the highest of all the wishes we have,' being a method for reaching the holy lady of liberation (tara)_pan chen blo bzang chos ky+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABYUQ",
+    "revision_id": "625a48d9537118d294473",
     "content_hash": "9e6f5870111ea5e317b4f07f99136902f5c5e3d57bbecb7580cfb6097062d11d",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:17:42.818455",
+    "server_modified": "2024-10-29 21:49:00",
+    "last_sync": "2024-11-19 21:02:14.018347",
     "size": 7685,
-    "meta_text": "I RGYAL MTSAN (1565-1662)",
+    "meta_text": "('I RGYAL MTSAN (1565-1662)', 'rtf')",
     "cat_ref": "S05977EB6",
     "work_ref": "W.S05977EB6",
     "title_tib": "RJE BTZUN SGROL MA'I SGRUB THABS 'DOD DGU'I MCHOG SBYIN DBANG GI RGYAL PO",
@@ -19,10 +19,10 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "120364075893",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SGROL MA/SGRUB THABS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/LADY OF LIBERATION (TARA)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "_id": "185833050875",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SGROL MA/SGRUB THABS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/LADY OF LIBERATION (TARA)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
             "subject_tibetan": "SGRUB THABS",
             "subject_english": "RITUAL FOR REACHING THE ANGEL (SADHANA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/sgrub thabs_ritual for reaching the angel (sadhana)",
-            "timestamp": "2024-09-10T02:17:42.839148+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "timestamp": "2024-11-20 05:02:16.626574+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:02:16.626574+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

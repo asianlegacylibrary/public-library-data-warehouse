@@ -1,12 +1,12 @@
 {
     "name": "S00048L_LAM GYI MYONG BA DPYID KYI RGYAL MO'I GLU DBYANGS_The Song of the Victorious Woman of Spring, for Gaining Experiences in the Path of the Angel of Diamond (Vajrayogini)_@ (@-@).TXT",
-    "path": "rgyud_secret teachings (tantra)/rdo rje rnal 'byor ma_angel of diamond (vajrayogini)/bsnyen pa_retreat instructions",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/rdo rje rnal 'byor ma_angel of diamond (vajrayogini)/bsnyen pa_retreat instructions/s00048l_lam gyi myong ba dpyid kyi rgyal mo'i glu dbyangs_the song of the victorious woman of spring, for gaining experiences in the path of the angel of diamond (vajrayogini)_@ (@-@).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAJUQ",
-    "revision_id": "613f664dc436d8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAL 'BYOR MA_ANGEL OF DIAMOND (VAJRAYOGINI)/BSNYEN PA_RETREAT INSTRUCTIONS",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/rdo rje rnal 'byor ma_angel of diamond (vajrayogini)/bsnyen pa_retreat instructions/s00048l_lam gyi myong ba dpyid kyi rgyal mo'i glu dbyangs_the song of the victorious woman of spring, for gaining experiences in the path of the angel of diamond (vajrayogini)_@ (@-@).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABb8g",
+    "revision_id": "625a4964fe8b78d294473",
     "content_hash": "9195fdacaccf22ebf92e5d3d3678b8ae22ebe573f900b2287780ab28f92ad9c3",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:10:24.023321",
+    "server_modified": "2024-10-29 21:51:26",
+    "last_sync": "2024-11-19 21:08:01.371829",
     "size": 10762,
     "meta_text": null,
     "cat_ref": "S00048L",
@@ -19,10 +19,10 @@
     "author_simple": "",
     "subject": [
         {
-            "_id": "295050187401",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAL 'BYOR MA_ANGEL OF DIAMOND (VAJRAYOGINI)/BSNYEN PA_RETREAT INSTRUCTIONS",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/RDO RJE RNAL 'BYOR MA/BSNYEN PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/ANGEL OF DIAMOND (VAJRAYOGINI)/RETREAT INSTRUCTIONS",
+            "_id": "293608707903",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAL 'BYOR MA_ANGEL OF DIAMOND (VAJRAYOGINI)/BSNYEN PA_RETREAT INSTRUCTIONS",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/RDO RJE RNAL 'BYOR MA/BSNYEN PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/ANGEL OF DIAMOND (VAJRAYOGINI)/RETREAT INSTRUCTIONS",
             "subject_tibetan": "BSNYEN PA",
             "subject_english": "RETREAT INSTRUCTIONS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/rdo rje rnal 'byor ma_angel of diamond (vajrayogini)/bsnyen pa_retreat instructions",
-            "timestamp": "2024-09-10T02:10:24.052155+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAL 'BYOR MA_ANGEL OF DIAMOND (VAJRAYOGINI)/BSNYEN PA_RETREAT INSTRUCTIONS",
+            "timestamp": "2024-11-20 05:08:04.179169+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:08:04.179169+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

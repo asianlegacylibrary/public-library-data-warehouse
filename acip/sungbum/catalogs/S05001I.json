@@ -1,28 +1,28 @@
 {
     "name": "S05001I_MCHOG GI DANG PO'I SANGS RGYAS LAS PHYUNG BA RGYUD KYI RGYAL PO CHEN PO DPAL DUS KYI 'KHOR LO'I BSDUS PA'I RGYUD GO SLA'I MCHAN_Easily Understood Annotations to the 'Briefer Secret Teaching on the Glorious Wheel of Time (Kalachakra), the Kin +.TXT",
-    "path": "rgyud_secret teachings (tantra)/dus 'khor_wheel of time (kalachakra)/'grel pa_commentaries",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/dus 'khor_wheel of time (kalachakra)/'grel pa_commentaries/s05001i_mchog gi dang po'i sangs rgyas las phyung ba rgyud kyi rgyal po chen po dpal dus kyi 'khor lo'i bsdus pa'i rgyud go sla'i mchan_easily understood annotations to the 'briefer secret teaching on the glorious wheel of time (kalachakra), the kin +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAI0A",
-    "revision_id": "613f664dc42ec8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/'GREL PA_COMMENTARIES",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/dus 'khor_wheel of time (kalachakra)/'grel pa_commentaries/s05001i_mchog gi dang po'i sangs rgyas las phyung ba rgyud kyi rgyal po chen po dpal dus kyi 'khor lo'i bsdus pa'i rgyud go sla'i mchan_easily understood annotations to the 'briefer secret teaching on the glorious wheel of time (kalachakra), the kin +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABazQ",
+    "revision_id": "625a493a603ec8d294473",
     "content_hash": "2dba6e1c538b7e3cfd8eb014ffc4dbf4f2770bb66472a35e423f6299c46b33f1",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:09:48.482995",
+    "server_modified": "2024-10-29 21:50:42",
+    "last_sync": "2024-11-19 21:06:04.033649",
     "size": 183872,
-    "meta_text": "g of All Secret Teachings, Come from the First of the Highest of Enlightened Beings’_BU STON RIN CHEN GRUB (1290-1364)",
+    "meta_text": "('g of All Secret Teachings, Come from the First of the Highest of Enlightened Beings’_BU STON RIN CHEN GRUB (1290-1364)', 'rtf')",
     "cat_ref": "S05001I",
     "work_ref": "W.S05001I",
     "title_tib": "MCHOG GI DANG PO'I SANGS RGYAS LAS PHYUNG BA RGYUD KYI RGYAL PO CHEN PO DPAL DUS KYI 'KHOR LO'I BSDUS PA'I RGYUD GO SLA'I MCHAN",
-    "title_eng": "Easily Understood Annotations to the 'Briefer Secret Teaching on the Glorious Wheel of Time (Kalachakra), the King of All Secret Teachings, Come from the First of the Highest of Enlightened Beings’",
+    "title_eng": "Easily Understood Annotations to the 'Briefer Secret Teaching on the Glorious Wheel of Time (Kalachakra), the Kin('g of All Secret Teachings, Come from the First of the Highest of Enlightened Beings’",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "BU STON RIN CHEN GRUB",
     "subject": [
         {
-            "_id": "320233480126",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/'GREL PA_COMMENTARIES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/DUS 'KHOR/'GREL PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/WHEEL OF TIME (KALACHAKRA)/COMMENTARIES",
+            "_id": "224032789210",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/'GREL PA_COMMENTARIES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/DUS 'KHOR/'GREL PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/WHEEL OF TIME (KALACHAKRA)/COMMENTARIES",
             "subject_tibetan": "'GREL PA",
             "subject_english": "COMMENTARIES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P155"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/dus 'khor_wheel of time (kalachakra)/'grel pa_commentaries",
-            "timestamp": "2024-09-10T02:09:48.519590+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/'GREL PA_COMMENTARIES",
+            "timestamp": "2024-11-20 05:06:08.038336+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:06:08.038336+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

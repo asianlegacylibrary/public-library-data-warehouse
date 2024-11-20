@@ -1,12 +1,12 @@
 {
     "name": "S05977EA7_PHYAG RDOR GTUM PO'I SGRUB THABS_A Method for Reaching the Holder of the Diamond (Vajrapani) in His Fierce FormE_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662).TXT",
-    "path": "rgyud_secret teachings (tantra)/gtum po_the fierce one (chanda)/sgrub thabs_ritual for reaching the angel (sadhana)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/gtum po_the fierce one (chanda)/sgrub thabs_ritual for reaching the angel (sadhana)/s05977ea7_phyag rdor gtum po'i sgrub thabs_a method for reaching the holder of the diamond (vajrapani) in his fierce forme_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAReA",
-    "revision_id": "613f665fcd6fd8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/GTUM PO_THE FIERCE ONE (CHANDA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/gtum po_the fierce one (chanda)/sgrub thabs_ritual for reaching the angel (sadhana)/s05977ea7_phyag rdor gtum po'i sgrub thabs_a method for reaching the holder of the diamond (vajrapani) in his fierce forme_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABXWw",
+    "revision_id": "625a48bd6817e8d294473",
     "content_hash": "e607fb76c31869ea5253776e1eede1c37e12cdf6dfb9934199c151b5ab90ef1f",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:19:04.768194",
+    "server_modified": "2024-10-29 21:48:31",
+    "last_sync": "2024-11-19 21:00:39.461734",
     "size": 2170,
     "meta_text": null,
     "cat_ref": "S05977EA7",
@@ -19,10 +19,10 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "127966750067",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/GTUM PO_THE FIERCE ONE (CHANDA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/GTUM PO/SGRUB THABS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/THE FIERCE ONE (CHANDA)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "_id": "151764037498",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GTUM PO_THE FIERCE ONE (CHANDA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/GTUM PO/SGRUB THABS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/THE FIERCE ONE (CHANDA)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
             "subject_tibetan": "SGRUB THABS",
             "subject_english": "RITUAL FOR REACHING THE ANGEL (SADHANA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/gtum po_the fierce one (chanda)/sgrub thabs_ritual for reaching the angel (sadhana)",
-            "timestamp": "2024-09-10T02:19:04.770213+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GTUM PO_THE FIERCE ONE (CHANDA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "timestamp": "2024-11-20 05:00:39.465507+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:00:39.465507+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

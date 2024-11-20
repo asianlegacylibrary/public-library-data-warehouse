@@ -1,12 +1,12 @@
 {
     "name": "S0466I.TXT",
-    "path": "phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/sems bskyed_wish for enlightenment",
-    "download_path": "/sungbum updated 4 26 23 bk/phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/sems bskyed_wish for enlightenment/s0466i.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAVtA",
-    "revision_id": "613f666d208d08d294473",
+    "path": "PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/SEMS BSKYED_WISH FOR ENLIGHTENMENT",
+    "download_path": "/sungbum updated 7 30 23 nl/phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/sems bskyed_wish for enlightenment/s0466i.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABPpw",
+    "revision_id": "625a47a14cbf88d294473",
     "content_hash": "eeedbc46fd80408af709585c84147fa84b706098eba944e803a80b03d81652a6",
-    "server_modified": "2024-03-18T21:54:28",
-    "last_sync": "2024-09-09T19:22:57.813763",
+    "server_modified": "2024-10-29 21:43:33",
+    "last_sync": "2024-11-19 20:48:21.670884",
     "size": 60266,
     "meta_text": null,
     "cat_ref": "S0466I",
@@ -19,10 +19,10 @@
     "author_simple": "",
     "subject": [
         {
-            "_id": "296375759781",
-            "subject_path": "SUNGBUM_SUNGBUM/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/SEMS BSKYED_WISH FOR ENLIGHTENMENT",
-            "subject_path_tibetan": "SUNGBUM/PHAR PHYIN/SEMS BSKYED",
-            "subject_path_english": "SUNGBUM/PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/WISH FOR ENLIGHTENMENT",
+            "_id": "113973855762",
+            "subject_path": "GSUNG 'BUM_Sungbum/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/SEMS BSKYED_WISH FOR ENLIGHTENMENT",
+            "subject_path_tibetan": "GSUNG 'BUM/PHAR PHYIN/SEMS BSKYED",
+            "subject_path_english": "Sungbum/PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/WISH FOR ENLIGHTENMENT",
             "subject_tibetan": "SEMS BSKYED",
             "subject_english": "WISH FOR ENLIGHTENMENT"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/sems bskyed_wish for enlightenment",
-            "timestamp": "2024-09-10T02:22:57.819042+00:00"
+            "path": "GSUNG 'BUM_Sungbum/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/SEMS BSKYED_WISH FOR ENLIGHTENMENT",
+            "timestamp": "2024-11-20 04:48:21.673758+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:48:21.673758+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

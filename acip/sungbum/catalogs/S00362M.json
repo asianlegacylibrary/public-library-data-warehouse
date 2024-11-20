@@ -1,12 +1,12 @@
 {
     "name": "S00362M_BYANG CHUB SEMS DPA'I SPYOD PA LA 'JUG PA'I ZAB KHRID NOS SKABS KYI ZIN BRIS_Notes Taken on the Occasion of a Profound Teaching on the 'Guide to the Bodhisattva's Way of Life'_SKYABS RJE PHA BONG KHA PA BDE CHEN SNYING PO (1878-1941).TXT",
-    "path": "dbu ma_middle-way philosophy (madhyamika prasangika school)/spyod 'jug 'grel pa_commentaries on the guide to the bodhisattva's way of life",
-    "download_path": "/sungbum updated 4 26 23 bk/dbu ma_middle-way philosophy (madhyamika prasangika school)/spyod 'jug 'grel pa_commentaries on the guide to the bodhisattva's way of life/s00362m_byang chub sems dpa'i spyod pa la 'jug pa'i zab khrid nos skabs kyi zin bris_notes taken on the occasion of a profound teaching on the 'guide to the bodhisattva's way of life'_skyabs rje pha bong kha pa bde chen snying po (1878-1941).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAADuw",
-    "revision_id": "613f663ffc8ae8d294473",
+    "path": "DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/SPYOD 'JUG 'GREL PA_COMMENTARIES ON THE GUIDE TO THE BODHISATTVA'S WAY OF LIFE",
+    "download_path": "/sungbum updated 7 30 23 nl/dbu ma_middle-way philosophy (madhyamika prasangika school)/spyod 'jug 'grel pa_commentaries on the guide to the bodhisattva's way of life/s00362m_byang chub sems dpa'i spyod pa la 'jug pa'i zab khrid nos skabs kyi zin bris_notes taken on the occasion of a profound teaching on the 'guide to the bodhisattva's way of life'_skyabs rje pha bong kha pa bde chen snying po (1878-1941).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABRQg",
+    "revision_id": "625a47e0aae148d294473",
     "content_hash": "bc4bf7e4afb585afa523a2edfa4436a39e3ca1f6be95e49882aa928be57258ad",
-    "server_modified": "2024-03-18T21:53:40",
-    "last_sync": "2024-09-09T19:05:00.936644",
+    "server_modified": "2024-10-29 21:44:39",
+    "last_sync": "2024-11-19 20:51:36.446638",
     "size": 95495,
     "meta_text": null,
     "cat_ref": "S00362M",
@@ -19,10 +19,10 @@
     "author_simple": "SKYABS RJE PHA BONG KHA PA BDE CHEN SNYING PO",
     "subject": [
         {
-            "_id": "160129052975",
-            "subject_path": "SUNGBUM_SUNGBUM/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/SPYOD 'JUG 'GREL PA_COMMENTARIES ON THE GUIDE TO THE BODHISATTVA'S WAY OF LIFE",
-            "subject_path_tibetan": "SUNGBUM/DBU MA/SPYOD 'JUG 'GREL PA",
-            "subject_path_english": "SUNGBUM/MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/COMMENTARIES ON THE GUIDE TO THE BODHISATTVA'S WAY OF LIFE",
+            "_id": "119874060726",
+            "subject_path": "GSUNG 'BUM_Sungbum/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/SPYOD 'JUG 'GREL PA_COMMENTARIES ON THE GUIDE TO THE BODHISATTVA'S WAY OF LIFE",
+            "subject_path_tibetan": "GSUNG 'BUM/DBU MA/SPYOD 'JUG 'GREL PA",
+            "subject_path_english": "Sungbum/MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/COMMENTARIES ON THE GUIDE TO THE BODHISATTVA'S WAY OF LIFE",
             "subject_tibetan": "SPYOD 'JUG 'GREL PA",
             "subject_english": "COMMENTARIES ON THE GUIDE TO THE BODHISATTVA'S WAY OF LIFE"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P230"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "dbu ma_middle-way philosophy (madhyamika prasangika school)/spyod 'jug 'grel pa_commentaries on the guide to the bodhisattva's way of life",
-            "timestamp": "2024-09-10T02:05:00.959692+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/SPYOD 'JUG 'GREL PA_COMMENTARIES ON THE GUIDE TO THE BODHISATTVA'S WAY OF LIFE",
+            "timestamp": "2024-11-20 04:51:36.461437+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:51:36.461437+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

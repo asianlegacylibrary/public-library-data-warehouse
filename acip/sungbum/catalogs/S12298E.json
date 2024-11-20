@@ -1,14 +1,14 @@
 {
     "name": "S12298E_CHOS SDE CHEN PO DGA' LDAN THEG CHEN BSHAD SGRUB GLING GI DKAR CHAG DRI MED SHEL DKAR ME LONG_The Mirror of Immaculate Crystal-- A Catalog of Sacred Items Held at the Great Monastery of Ganden Tekchen Shedrup Ling_LCANG LUNG AARYA PAndI TA N+.TXT",
-    "path": "chos 'byung_religious histories/dga' ldan dkar chag_catalogs of ganden monasteries",
-    "download_path": "/sungbum updated 4 26 23 bk/chos 'byung_religious histories/dga' ldan dkar chag_catalogs of ganden monasteries/s12298e_chos sde chen po dga' ldan theg chen bshad sgrub gling gi dkar chag dri med shel dkar me long_the mirror of immaculate crystal-- a catalog of sacred items held at the great monastery of ganden tekchen shedrup ling_lcang lung aarya pandi ta n+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAARzg",
-    "revision_id": "613f6664742f18d294473",
+    "path": "CHOS 'BYUNG_RELIGIOUS HISTORIES/DGA' LDAN DKAR CHAG_CATALOGS OF GANDEN MONASTERIES",
+    "download_path": "/sungbum updated 7 30 23 nl/chos 'byung_religious histories/dga' ldan dkar chag_catalogs of ganden monasteries/s12298e_chos sde chen po dga' ldan theg chen bshad sgrub gling gi dkar chag dri med shel dkar me long_the mirror of immaculate crystal-- a catalog of sacred items held at the great monastery of ganden tekchen shedrup ling_lcang lung aarya pandi ta n+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABTwg",
+    "revision_id": "625a48465ca568d294473",
     "content_hash": "09b8199f72fd478e8b9ce8e255f8897d15e4c2cd7a073c3df8d2939c1efd8bc2",
-    "server_modified": "2024-03-18T21:54:19",
-    "last_sync": "2024-09-09T19:19:26.711760",
+    "server_modified": "2024-10-29 21:46:26",
+    "last_sync": "2024-11-19 20:54:22.853144",
     "size": 9045,
-    "meta_text": "GAG DBANG BLO BZANG BSTAN PA'I RGYAL MTSAN (1770-1845)",
+    "meta_text": "(\"GAG DBANG BLO BZANG BSTAN PA'I RGYAL MTSAN (1770-1845)\", 'rtf')",
     "cat_ref": "S12298E",
     "work_ref": "W.S12298E",
     "title_tib": "CHOS SDE CHEN PO DGA' LDAN THEG CHEN BSHAD SGRUB GLING GI DKAR CHAG DRI MED SHEL DKAR ME LONG",
@@ -19,10 +19,10 @@
     "author_simple": "LCANG LUNG AARYA PAnDI TA NGAG DBANG BLO BZANG BSTAN PA'I RGYAL MTSAN",
     "subject": [
         {
-            "_id": "915868047106",
-            "subject_path": "SUNGBUM_SUNGBUM/CHOS 'BYUNG_RELIGIOUS HISTORIES/DGA' LDAN DKAR CHAG_CATALOGS OF GANDEN MONASTERIES",
-            "subject_path_tibetan": "SUNGBUM/CHOS 'BYUNG/DGA' LDAN DKAR CHAG",
-            "subject_path_english": "SUNGBUM/RELIGIOUS HISTORIES/CATALOGS OF GANDEN MONASTERIES",
+            "_id": "149798942593",
+            "subject_path": "GSUNG 'BUM_Sungbum/CHOS 'BYUNG_RELIGIOUS HISTORIES/DGA' LDAN DKAR CHAG_CATALOGS OF GANDEN MONASTERIES",
+            "subject_path_tibetan": "GSUNG 'BUM/CHOS 'BYUNG/DGA' LDAN DKAR CHAG",
+            "subject_path_english": "Sungbum/RELIGIOUS HISTORIES/CATALOGS OF GANDEN MONASTERIES",
             "subject_tibetan": "DGA' LDAN DKAR CHAG",
             "subject_english": "CATALOGS OF GANDEN MONASTERIES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P290"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "chos 'byung_religious histories/dga' ldan dkar chag_catalogs of ganden monasteries",
-            "timestamp": "2024-09-10T02:19:26.714401+00:00"
+            "path": "GSUNG 'BUM_Sungbum/CHOS 'BYUNG_RELIGIOUS HISTORIES/DGA' LDAN DKAR CHAG_CATALOGS OF GANDEN MONASTERIES",
+            "timestamp": "2024-11-20 04:54:23.915697+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:54:23.915697+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

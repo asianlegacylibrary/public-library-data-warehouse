@@ -1,12 +1,12 @@
 {
     "name": "S00914E_RTEN 'BREL GYI RNAM BZHAG LUNG RIGS BANG MDZOD_'A Treasure Trove of Scriptural Authority and Logical Proofs,' being a Presentation on the Subject of Dependent Origination_GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME (1762-1823).TXT",
-    "path": "phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/rten 'brel_dependent origination/gung thang dkon mchog bstan pa'i sgron me_gungtang konchok tenpay drunme  (1762-1823)",
-    "download_path": "/sungbum updated 4 26 23 bk/phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/rten 'brel_dependent origination/gung thang dkon mchog bstan pa'i sgron me_gungtang konchok tenpay drunme  (1762-1823)/s00914e_rten 'brel gyi rnam bzhag lung rigs bang mdzod_'a treasure trove of scriptural authority and logical proofs,' being a presentation on the subject of dependent origination_gung thang dkon mchog bstan pa'i sgron me (1762-1823).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAVrQ",
-    "revision_id": "613f666d208c98d294473",
+    "path": "PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/RTEN 'BREL_DEPENDENT ORIGINATION/GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME_GUNGTANG KONCHOK TENPAY DRUNME  (1762-1823)",
+    "download_path": "/sungbum updated 7 30 23 nl/phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/rten 'brel_dependent origination/gung thang dkon mchog bstan pa'i sgron me_gungtang konchok tenpay drunme  (1762-1823)/s00914e_rten 'brel gyi rnam bzhag lung rigs bang mdzod_'a treasure trove of scriptural authority and logical proofs,' being a presentation on the subject of dependent origination_gung thang dkon mchog bstan pa'i sgron me (1762-1823).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABOnw",
+    "revision_id": "625a4773864298d294473",
     "content_hash": "15d1bafc3a0b50865ab9e7ff6594093d879bf1e00053a20f4ef97361d675dc9f",
-    "server_modified": "2024-03-18T21:54:28",
-    "last_sync": "2024-09-09T19:22:55.640821",
+    "server_modified": "2024-10-29 21:42:45",
+    "last_sync": "2024-11-19 20:46:31.561023",
     "size": 83285,
     "meta_text": null,
     "cat_ref": "S00914E",
@@ -19,10 +19,10 @@
     "author_simple": "GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME",
     "subject": [
         {
-            "_id": "240800431898",
-            "subject_path": "SUNGBUM_SUNGBUM/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/RTEN 'BREL_DEPENDENT ORIGINATION/GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME_GUNGTANG KONCHOK TENPAY DRUNME  (1762-1823)",
-            "subject_path_tibetan": "SUNGBUM/PHAR PHYIN/RTEN 'BREL/GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME",
-            "subject_path_english": "SUNGBUM/PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/DEPENDENT ORIGINATION/GUNGTANG KONCHOK TENPAY DRUNME  (1762-1823)",
+            "_id": "287553167522",
+            "subject_path": "GSUNG 'BUM_Sungbum/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/RTEN 'BREL_DEPENDENT ORIGINATION/GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME_GUNGTANG KONCHOK TENPAY DRUNME  (1762-1823)",
+            "subject_path_tibetan": "GSUNG 'BUM/PHAR PHYIN/RTEN 'BREL/GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME",
+            "subject_path_english": "Sungbum/PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/DEPENDENT ORIGINATION/GUNGTANG KONCHOK TENPAY DRUNME  (1762-1823)",
             "subject_tibetan": "GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME",
             "subject_english": "GUNGTANG KONCHOK TENPAY DRUNME  (1762-1823)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P298"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/rten 'brel_dependent origination/gung thang dkon mchog bstan pa'i sgron me_gungtang konchok tenpay drunme  (1762-1823)",
-            "timestamp": "2024-09-10T02:22:55.643388+00:00"
+            "path": "GSUNG 'BUM_Sungbum/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/RTEN 'BREL_DEPENDENT ORIGINATION/GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME_GUNGTANG KONCHOK TENPAY DRUNME  (1762-1823)",
+            "timestamp": "2024-11-20 04:46:31.565659+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:46:31.565659+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

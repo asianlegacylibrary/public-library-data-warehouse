@@ -1,12 +1,12 @@
 {
     "name": "S06363M16_BDUD RTZI RIL BU BSGRUB TSUL_Method for Creating Nectar Pills_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/bdud rtzi_nectar (amirta)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/bdud rtzi_nectar (amirta)/s06363m16_bdud rtzi ril bu bsgrub tsul_method for creating nectar pills_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAANfQ",
-    "revision_id": "613f6656dee4e8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SDOM PA_SECRET VOWS (SAMAYA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyi_general treatments/sdom pa_secret vows (samaya)/s06363m16_bdud rtzi ril bu bsgrub tsul_method for creating nectar pills_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABZMg",
+    "revision_id": "625a48fb610678d294473",
     "content_hash": "3ec25ef220c94376eddbaf6e8be4ebc97f4c1c79b445ceabfaee0b8550a5ed42",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:14:51.272235",
+    "server_modified": "2024-10-29 21:49:36",
+    "last_sync": "2024-11-19 21:03:42.317970",
     "size": 9676,
     "meta_text": null,
     "cat_ref": "S06363M16",
@@ -19,20 +19,20 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "148346227456",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BDUD RTZI_NECTAR (AMIRTA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/BDUD RTZI",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/NECTAR (AMIRTA)",
-            "subject_tibetan": "BDUD RTZI",
-            "subject_english": "NECTAR (AMIRTA)"
-        },
-        {
-            "_id": "789206632990",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SDOM PA_SECRET VOWS (SAMAYA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/SDOM PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/SECRET VOWS (SAMAYA)",
+            "_id": "101717976416",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SDOM PA_SECRET VOWS (SAMAYA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/SDOM PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/SECRET VOWS (SAMAYA)",
             "subject_tibetan": "SDOM PA",
             "subject_english": "SECRET VOWS (SAMAYA)"
+        },
+        {
+            "_id": "201719862685",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BDUD RTZI_NECTAR (AMIRTA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/BDUD RTZI",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/NECTAR (AMIRTA)",
+            "subject_tibetan": "BDUD RTZI",
+            "subject_english": "NECTAR (AMIRTA)"
         }
     ],
     "items": [],
@@ -46,15 +46,29 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/bdud rtzi_nectar (amirta)",
-            "timestamp": "2024-09-10T02:14:51.275978+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SDOM PA_SECRET VOWS (SAMAYA)",
+            "timestamp": "2024-11-20 05:03:42.884319+00:00"
         },
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/sdom pa_secret vows (samaya)",
-            "timestamp": "2024-09-10T02:15:59.224937+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BDUD RTZI_NECTAR (AMIRTA)",
+            "timestamp": "2024-11-20 05:04:29.045954+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:03:42.884319+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T05:04:29.045954+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "text"
 }

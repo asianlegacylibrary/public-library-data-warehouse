@@ -1,14 +1,14 @@
 {
     "name": "S05977ME8_ZHAL GDAMS DAL RTEN YID BZHIN MA DANG 'DI PHYI'I 'GAL SKYEN MA GNYIS_A Pair of Advices-- 'This Body of Spiritual Leisure and Fortune, so Much Like a Wishing Jewel,' and 'The Way to Remove all Obstacles, in this Life and Those toCome'_PAn C+.TXT",
-    "path": "nyams len_personal practice/bslab bya_personal advices/pan chen blo bzang chos kyi rgyal mtsan_panchen lobsang chukyi gyeltsen (1565-1662)",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/bslab bya_personal advices/pan chen blo bzang chos kyi rgyal mtsan_panchen lobsang chukyi gyeltsen (1565-1662)/s05977me8_zhal gdams dal rten yid bzhin ma dang 'di phyi'i 'gal skyen ma gnyis_a pair of advices-- 'this body of spiritual leisure and fortune, so much like a wishing jewel,' and 'the way to remove all obstacles, in this life and those tocome'_pan c+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAABAA",
-    "revision_id": "613f663b87c498d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/bslab bya_personal advices/pan chen blo bzang chos kyi rgyal mtsan_panchen lobsang chukyi gyeltsen (1565-1662)/s05977me8_zhal gdams dal rten yid bzhin ma dang 'di phyi'i 'gal skyen ma gnyis_a pair of advices-- 'this body of spiritual leisure and fortune, so much like a wishing jewel,' and 'the way to remove all obstacles, in this life and those tocome'_pan c+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABiyQ",
+    "revision_id": "625a4a97389648d294473",
     "content_hash": "ec0fb286228f2570c490345fb4eb587d70ecb739b1c95d27309d9b6d6d38ae34",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:02:06.573527",
+    "server_modified": "2024-10-29 21:56:48",
+    "last_sync": "2024-11-19 21:20:06.638905",
     "size": 1222,
-    "meta_text": "HEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)",
+    "meta_text": "('HEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)', 'rtf')",
     "cat_ref": "S05977ME8",
     "work_ref": "W.S05977ME8",
     "title_tib": "ZHAL GDAMS DAL RTEN YID BZHIN MA DANG 'DI PHYI'I 'GAL SKYEN MA GNYIS",
@@ -19,11 +19,11 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "150608414166",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/PAN CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/BSLAB BYA/PAN CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/PERSONAL ADVICES/PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
-            "subject_tibetan": "PAN CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
+            "_id": "285289936275",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/BSLAB BYA/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/PERSONAL ADVICES/PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+            "subject_tibetan": "PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
             "subject_english": "PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)"
         }
     ],
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/bslab bya_personal advices/pan chen blo bzang chos kyi rgyal mtsan_panchen lobsang chukyi gyeltsen (1565-1662)",
-            "timestamp": "2024-09-10T02:02:06.651553+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+            "timestamp": "2024-11-20 05:20:08.876211+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:20:08.876211+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

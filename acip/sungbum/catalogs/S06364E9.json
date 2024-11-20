@@ -1,28 +1,28 @@
 {
     "name": "S06364E9_RJE BTZUN SENG LDENG NAGS SGROL GTZO 'KHOR GSUM GYI SGRUB THABS RJES GNANG_Method for Reaching, and Permission into the Teaching of, the Central and Surrounding Figures in the Teaching of the Holy Lady of Liberation (Tara), from the Forest +.TXT",
-    "path": "rgyud_secret teachings (tantra)/seng ldeng nags sgrol_lady of liberation from the forest of sandalwood (khadiravanitara)/sgrub thabs_ritual for reaching the angel (sadhana)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/seng ldeng nags sgrol_lady of liberation from the forest of sandalwood (khadiravanitara)/sgrub thabs_ritual for reaching the angel (sadhana)/s06364e9_rje btzun seng ldeng nags sgrol gtzo 'khor gsum gyi sgrub thabs rjes gnang_method for reaching, and permission into the teaching of, the central and surrounding figures in the teaching of the holy lady of liberation (tara), from the forest +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAQdw",
-    "revision_id": "613f665fcd5fc8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SENG LDENG NAGS SGROL_LADY OF LIBERATION FROM THE FOREST OF SANDALWOOD (KHADIRAVANITARA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/seng ldeng nags sgrol_lady of liberation from the forest of sandalwood (khadiravanitara)/sgrub thabs_ritual for reaching the angel (sadhana)/s06364e9_rje btzun seng ldeng nags sgrol gtzo 'khor gsum gyi sgrub thabs rjes gnang_method for reaching, and permission into the teaching of, the central and surrounding figures in the teaching of the holy lady of liberation (tara), from the forest +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABUTg",
+    "revision_id": "625a4862b08588d294473",
     "content_hash": "bcb0682c64a12f4c9f8ee4c340583e7673ef8bcbaea86eac96c2d78d2f841472",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:17:57.523694",
+    "server_modified": "2024-10-29 21:46:56",
+    "last_sync": "2024-11-19 20:55:22.574814",
     "size": 11200,
-    "meta_text": "of Sandalwood (Khadiravani)_NR DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "meta_text": "('of Sandalwood (Khadiravani)_NR DNGUL CHU DHARMA BHADRA (1772-1851)', 'rtf')",
     "cat_ref": "S06364E9",
     "work_ref": "W.S06364E9",
     "title_tib": "RJE BTZUN SENG LDENG NAGS SGROL GTZO 'KHOR GSUM GYI SGRUB THABS RJES GNANG",
-    "title_eng": "Method for Reaching, and Permission into the Teaching of, the Central and Surrounding Figures in the Teaching of the Holy Lady of Liberation (Tara), from the Forestof Sandalwood (Khadiravani)",
+    "title_eng": "Method for Reaching, and Permission into the Teaching of, the Central and Surrounding Figures in the Teaching of the Holy Lady of Liberation (Tara), from the Forest('of Sandalwood (Khadiravani)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "728991141327",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SENG LDENG NAGS SGROL_LADY OF LIBERATION FROM THE FOREST OF SANDALWOOD (KHADIRAVANITARA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SENG LDENG NAGS SGROL/SGRUB THABS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/LADY OF LIBERATION FROM THE FOREST OF SANDALWOOD (KHADIRAVANITARA)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "_id": "252834476385",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SENG LDENG NAGS SGROL_LADY OF LIBERATION FROM THE FOREST OF SANDALWOOD (KHADIRAVANITARA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SENG LDENG NAGS SGROL/SGRUB THABS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/LADY OF LIBERATION FROM THE FOREST OF SANDALWOOD (KHADIRAVANITARA)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
             "subject_tibetan": "SGRUB THABS",
             "subject_english": "RITUAL FOR REACHING THE ANGEL (SADHANA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/seng ldeng nags sgrol_lady of liberation from the forest of sandalwood (khadiravanitara)/sgrub thabs_ritual for reaching the angel (sadhana)",
-            "timestamp": "2024-09-10T02:17:57.525865+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SENG LDENG NAGS SGROL_LADY OF LIBERATION FROM THE FOREST OF SANDALWOOD (KHADIRAVANITARA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "timestamp": "2024-11-20 04:55:22.582517+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:55:22.582517+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

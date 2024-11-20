@@ -1,14 +1,14 @@
 {
     "name": "S05352E_SBYOR BA YAN LAG DRUG GI RDZOGS RIM GYI GNAD BSDUS PA RJE'I GSUNG BZHIN RGYAL STENGS PAS MDZAD PA_A Brief Presentation of the Crucial Points in Six-Part Practice of Inner Wind in the Stage of Completion_RJE TZONG KHA PA BLO BZANG GRAGS PA (1 +.TXT",
-    "path": "rgyud_secret teachings (tantra)/dus 'khor_wheel of time (kalachakra)/'grel pa_commentaries",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/dus 'khor_wheel of time (kalachakra)/'grel pa_commentaries/s05352e_sbyor ba yan lag drug gi rdzogs rim gyi gnad bsdus pa rje'i gsung bzhin rgyal stengs pas mdzad pa_a brief presentation of the crucial points in six-part practice of inner wind in the stage of completion_rje tzong kha pa blo bzang grags pa (1 +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAI0Q",
-    "revision_id": "613f664dc42ed8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/'GREL PA_COMMENTARIES",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/dus 'khor_wheel of time (kalachakra)/'grel pa_commentaries/s05352e_sbyor ba yan lag drug gi rdzogs rim gyi gnad bsdus pa rje'i gsung bzhin rgyal stengs pas mdzad pa_a brief presentation of the crucial points in six-part practice of inner wind in the stage of completion_rje tzong kha pa blo bzang grags pa (1 +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABa1Q",
+    "revision_id": "625a493c05aa18d294473",
     "content_hash": "2c459cc37d79c562f65830523586ffefbbe7199c5b1feceacc00f0eb75effc90",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:09:48.498146",
+    "server_modified": "2024-10-29 21:50:43",
+    "last_sync": "2024-11-19 21:06:06.130622",
     "size": 58147,
-    "meta_text": "357-1419)",
+    "meta_text": "('357-1419)', 'rtf')",
     "cat_ref": "S05352E",
     "work_ref": "W.S05352E",
     "title_tib": "SBYOR BA YAN LAG DRUG GI RDZOGS RIM GYI GNAD BSDUS PA RJE'I GSUNG BZHIN RGYAL STENGS PAS MDZAD PA",
@@ -19,10 +19,10 @@
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "320233480126",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/'GREL PA_COMMENTARIES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/DUS 'KHOR/'GREL PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/WHEEL OF TIME (KALACHAKRA)/COMMENTARIES",
+            "_id": "224032789210",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/'GREL PA_COMMENTARIES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/DUS 'KHOR/'GREL PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/WHEEL OF TIME (KALACHAKRA)/COMMENTARIES",
             "subject_tibetan": "'GREL PA",
             "subject_english": "COMMENTARIES"
         }
@@ -31,18 +31,26 @@
     "author": [
         {
             "author_name": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
-            "author_birth": "1357",
-            "author_death": "1419",
+            "author_birth": null,
+            "author_death": null,
             "bdrc_id": "bdr:P64",
             "normalized_name": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/dus 'khor_wheel of time (kalachakra)/'grel pa_commentaries",
-            "timestamp": "2024-09-10T02:09:48.520382+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/'GREL PA_COMMENTARIES",
+            "timestamp": "2024-11-20 05:06:08.039041+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:06:08.039041+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,28 +1,28 @@
 {
     "name": "S05282E_RGYUD THAMS CAD KYI RGYAL PO DPAL GSANG BA 'DUS PA'I RGYA CHER BSHAD PA SGRON MA GSAL BA'I TSIG DON JI BZHIN 'BYED PA'I MTSAN GYI YANG 'GREL_The 'Commentary of the Commentary of the Names,' being a Revelation of the Meaning of the Words in ' +.TXT",
-    "path": "rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/'grel pa_commentaries",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/'grel pa_commentaries/s05282e_rgyud thams cad kyi rgyal po dpal gsang ba 'dus pa'i rgya cher bshad pa sgron ma gsal ba'i tsig don ji bzhin 'byed pa'i mtsan gyi yang 'grel_the 'commentary of the commentary of the names,' being a revelation of the meaning of the words in ' +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAARHw",
-    "revision_id": "613f665fcd6a48d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/'GREL PA_COMMENTARIES",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/'grel pa_commentaries/s05282e_rgyud thams cad kyi rgyal po dpal gsang ba 'dus pa'i rgya cher bshad pa sgron ma gsal ba'i tsig don ji bzhin 'byed pa'i mtsan gyi yang 'grel_the 'commentary of the commentary of the names,' being a revelation of the meaning of the words in ' +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABbuQ",
+    "revision_id": "625a495bdc2868d294473",
     "content_hash": "040d8e8b3e9d7d0797349b152b7371c6b0feb6a4d5a807e0ca62344630abfed2",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:18:43.362361",
+    "server_modified": "2024-10-29 21:51:17",
+    "last_sync": "2024-11-19 21:07:30.276629",
     "size": 1490340,
-    "meta_text": "The Lamp of Illumination,’ an Extensive Commentary upon the King of All Secret Teachings, the Glorious Secret Collection (Guhyasamaja)_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)",
+    "meta_text": "('The Lamp of Illumination,’ an Extensive Commentary upon the King of All Secret Teachings, the Glorious Secret Collection (Guhyasamaja)_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)', 'rtf')",
     "cat_ref": "S05282E",
     "work_ref": "W.S05282E",
     "title_tib": "RGYUD THAMS CAD KYI RGYAL PO DPAL GSANG BA 'DUS PA'I RGYA CHER BSHAD PA SGRON MA GSAL BA'I TSIG DON JI BZHIN 'BYED PA'I MTSAN GYI YANG 'GREL",
-    "title_eng": "The 'Commentary of the Commentary of the Names,' being a Revelation of the Meaning of the Words in 'The Lamp of Illumination,’ an Extensive Commentary upon the King of All Secret Teachings, the Glorious Secret Collection (Guhyasamaja)",
+    "title_eng": "The 'Commentary of the Commentary of the Names,' being a Revelation of the Meaning of the Words in '('The Lamp of Illumination,’ an Extensive Commentary upon the King of All Secret Teachings, the Glorious Secret Collection (Guhyasamaja)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "369027515595",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/'GREL PA_COMMENTARIES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/GSANG 'DUS/'GREL PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/SECRET COLLECTION (GUHYASAMAJA)/COMMENTARIES",
+            "_id": "304141721314",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/'GREL PA_COMMENTARIES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/GSANG 'DUS/'GREL PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/SECRET COLLECTION (GUHYASAMAJA)/COMMENTARIES",
             "subject_tibetan": "'GREL PA",
             "subject_english": "COMMENTARIES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/'grel pa_commentaries",
-            "timestamp": "2024-09-10T02:18:43.379300+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/'GREL PA_COMMENTARIES",
+            "timestamp": "2024-11-20 05:07:30.286310+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:07:30.286310+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

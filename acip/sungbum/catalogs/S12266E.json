@@ -1,14 +1,14 @@
 {
     "name": "S12266E_MKHAN CHEN CHOS KYI RGYAL PO'I GSUNG 'BUM LAS BDE BA CAN GYI 'PHO BA'I GDAMS NGAG_Advices for Transferring Ones Consciousness to the Heaven of Happiness, from the Collected Works of that King of the Dharma, Kenchen_MKHAN CHEN BLO BZANG BSTA+.TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/'pho ba_transferring consciousness",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/'pho ba_transferring consciousness/s12266e_mkhan chen chos kyi rgyal po'i gsung 'bum las bde ba can gyi 'pho ba'i gdams ngag_advices for transferring ones consciousness to the heaven of happiness, from the collected works of that king of the dharma, kenchen_mkhan chen blo bzang bsta+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAOJg",
-    "revision_id": "613f665b6103f8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/'PHO BA_TRANSFERRING CONSCIOUSNESS",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyi_general treatments/'pho ba_transferring consciousness/s12266e_mkhan chen chos kyi rgyal po'i gsung 'bum las bde ba can gyi 'pho ba'i gdams ngag_advices for transferring ones consciousness to the heaven of happiness, from the collected works of that king of the dharma, kenchen_mkhan chen blo bzang bsta+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABaOg",
+    "revision_id": "625a4921ba4d88d294473",
     "content_hash": "0f4991b99951b4a4da736f0ca71cb5dcc5f6ab05247929ffa89953b16ed92e7a",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:15:30.693999",
+    "server_modified": "2024-10-29 21:50:16",
+    "last_sync": "2024-11-19 21:05:13.069700",
     "size": 4836,
-    "meta_text": "N 'DZIN RGYAL MTSAN (1639-@)",
+    "meta_text": "(\"N 'DZIN RGYAL MTSAN (1639-@)\", 'rtf')",
     "cat_ref": "S12266E",
     "work_ref": "W.S12266E",
     "title_tib": "MKHAN CHEN CHOS KYI RGYAL PO'I GSUNG 'BUM LAS BDE BA CAN GYI 'PHO BA'I GDAMS NGAG",
@@ -19,10 +19,10 @@
     "author_simple": "MKHAN CHEN BLO BZANG BSTAN 'DZIN RGYAL MTSAN",
     "subject": [
         {
-            "_id": "222072253393",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/'PHO BA_TRANSFERRING CONSCIOUSNESS",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/'PHO BA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/TRANSFERRING CONSCIOUSNESS",
+            "_id": "204681786270",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/'PHO BA_TRANSFERRING CONSCIOUSNESS",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/'PHO BA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/TRANSFERRING CONSCIOUSNESS",
             "subject_tibetan": "'PHO BA",
             "subject_english": "TRANSFERRING CONSCIOUSNESS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P6418"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/'pho ba_transferring consciousness",
-            "timestamp": "2024-09-10T02:15:30.708356+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/'PHO BA_TRANSFERRING CONSCIOUSNESS",
+            "timestamp": "2024-11-20 05:05:13.082356+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:05:13.082356+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

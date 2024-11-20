@@ -1,12 +1,12 @@
 {
     "name": "S05275M72_RIN PO CHE RGYAL DBANG PA LA MDZAD PA'I DRI BA'I LAN TSIG_Epistle sent in Response to a Question by Rinpoche Gyalwangpa_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419).TXT",
-    "path": "nyams len_personal practice/spyi_general treatments/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)/rgyal dbang pa'i dri lan_response to a question by gyalwangpa",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/spyi_general treatments/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)/rgyal dbang pa'i dri lan_response to a question by gyalwangpa/s05275m72_rin po che rgyal dbang pa la mdzad pa'i dri ba'i lan tsig_epistle sent in response to a question by rinpoche gyalwangpa_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAApA",
-    "revision_id": "613f663b87bed8d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/SPYI_GENERAL TREATMENTS/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)/RGYAL DBANG PA'I DRI LAN_RESPONSE TO A QUESTION BY GYALWANGPA",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/spyi_general treatments/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)/rgyal dbang pa'i dri lan_response to a question by gyalwangpa/s05275m72_rin po che rgyal dbang pa la mdzad pa'i dri ba'i lan tsig_epistle sent in response to a question by rinpoche gyalwangpa_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABkCg",
+    "revision_id": "625a4ac222c038d294473",
     "content_hash": "ba44da1203e37e282d721bbbf77bcd5c8a8325bec2207098aa96e83285d9aec3",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:01:40.774678",
+    "server_modified": "2024-10-29 21:57:33",
+    "last_sync": "2024-11-19 21:22:37.139320",
     "size": 4558,
     "meta_text": null,
     "cat_ref": "S05275M72",
@@ -19,10 +19,10 @@
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "292889069665",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/SPYI_GENERAL TREATMENTS/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)/RGYAL DBANG PA'I DRI LAN_RESPONSE TO A QUESTION BY GYALWANGPA",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/SPYI/RJE TZONG KHA PA BLO BZANG GRAGS PA/RGYAL DBANG PA'I DRI LAN",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/GENERAL TREATMENTS/JE TSONGKAPA LOBSANG DRAKPA (1357-1419)/RESPONSE TO A QUESTION BY GYALWANGPA",
+            "_id": "189047555476",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SPYI_GENERAL TREATMENTS/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)/RGYAL DBANG PA'I DRI LAN_RESPONSE TO A QUESTION BY GYALWANGPA",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/SPYI/RJE TZONG KHA PA BLO BZANG GRAGS PA/RGYAL DBANG PA'I DRI LAN",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/GENERAL TREATMENTS/JE TSONGKAPA LOBSANG DRAKPA (1357-1419)/RESPONSE TO A QUESTION BY GYALWANGPA",
             "subject_tibetan": "RGYAL DBANG PA'I DRI LAN",
             "subject_english": "RESPONSE TO A QUESTION BY GYALWANGPA"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/spyi_general treatments/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)/rgyal dbang pa'i dri lan_response to a question by gyalwangpa",
-            "timestamp": "2024-09-10T02:01:40.782228+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SPYI_GENERAL TREATMENTS/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)/RGYAL DBANG PA'I DRI LAN_RESPONSE TO A QUESTION BY GYALWANGPA",
+            "timestamp": "2024-11-20 05:22:37.143938+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:22:37.143938+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

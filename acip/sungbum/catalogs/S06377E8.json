@@ -1,12 +1,12 @@
 {
     "name": "S06377E8_DPAL DUR KHROD KYI BDAG PO YAB YUM GYI RJES GNANG BYA BA'I TSUL_Method for Granting Permission into the Practice of the Glorious Father and Mother, Lords of the Burial Ground_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/dur khrod bdag po_lord of the burial grounds (shmashanapati)/rjes gnang_rites of permission (anujna)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/dur khrod bdag po_lord of the burial grounds (shmashanapati)/rjes gnang_rites of permission (anujna)/s06377e8_dpal dur khrod kyi bdag po yab yum gyi rjes gnang bya ba'i tsul_method for granting permission into the practice of the glorious father and mother, lords of the burial ground_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAL0w",
-    "revision_id": "613f6656deca48d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/DUR KHROD BDAG PO_LORD OF THE BURIAL GROUNDS (SHMASHANAPATI)/RJES GNANG_RITES OF PERMISSION (ANUJNA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/dur khrod bdag po_lord of the burial grounds (shmashanapati)/rjes gnang_rites of permission (anujna)/s06377e8_dpal dur khrod kyi bdag po yab yum gyi rjes gnang bya ba'i tsul_method for granting permission into the practice of the glorious father and mother, lords of the burial ground_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABXWg",
+    "revision_id": "625a48bd6817b8d294473",
     "content_hash": "e0db21db38385ef1df1bf4928b9880d6d115772a19a3c24422f2cff6f7235e11",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:12:59.510268",
+    "server_modified": "2024-10-29 21:48:31",
+    "last_sync": "2024-11-19 21:00:37.098707",
     "size": 6010,
     "meta_text": null,
     "cat_ref": "S06377E8",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "266025667546",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/DUR KHROD BDAG PO_LORD OF THE BURIAL GROUNDS (SHMASHANAPATI)/RJES GNANG_RITES OF PERMISSION (ANUJNA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/DUR KHROD BDAG PO/RJES GNANG",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/LORD OF THE BURIAL GROUNDS (SHMASHANAPATI)/RITES OF PERMISSION (ANUJNA)",
+            "_id": "695599893794",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DUR KHROD BDAG PO_LORD OF THE BURIAL GROUNDS (SHMASHANAPATI)/RJES GNANG_RITES OF PERMISSION (ANUJNA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/DUR KHROD BDAG PO/RJES GNANG",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/LORD OF THE BURIAL GROUNDS (SHMASHANAPATI)/RITES OF PERMISSION (ANUJNA)",
             "subject_tibetan": "RJES GNANG",
             "subject_english": "RITES OF PERMISSION (ANUJNA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/dur khrod bdag po_lord of the burial grounds (shmashanapati)/rjes gnang_rites of permission (anujna)",
-            "timestamp": "2024-09-10T02:12:59.512262+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DUR KHROD BDAG PO_LORD OF THE BURIAL GROUNDS (SHMASHANAPATI)/RJES GNANG_RITES OF PERMISSION (ANUJNA)",
+            "timestamp": "2024-11-20 05:00:37.102596+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:00:37.102596+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

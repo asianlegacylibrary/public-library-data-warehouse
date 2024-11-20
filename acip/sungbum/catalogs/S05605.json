@@ -1,14 +1,14 @@
 {
     "name": "S05605_DPAL RDO RJE 'JIGS BYED KYI ZHI BA'I SBYIN SREG RAB DKAR BDUD RTZI'I BUM BZANG_\"The Exquisite Vase Filled with the Pure White Nectar of Immortality,\" a Peaceful Fire Offering in the Tradition of the Glorious Diamond Frightener_RGYAL BA NGA+.TXT",
-    "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/sbyin sreg_fire offering (homa)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/sbyin sreg_fire offering (homa)/s05605_dpal rdo rje 'jigs byed kyi zhi ba'i sbyin sreg rab dkar bdud rtzi'i bum bzang_\"the exquisite vase filled with the pure white nectar of immortality,\" a peaceful fire offering in the tradition of the glorious diamond frightener_rgyal ba nga+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAMDA",
-    "revision_id": "613f6656decdd8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/SBYIN SREG_FIRE OFFERING (HOMA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/sbyin sreg_fire offering (homa)/s05605_dpal rdo rje 'jigs byed kyi zhi ba'i sbyin sreg rab dkar bdud rtzi'i bum bzang_\"the exquisite vase filled with the pure white nectar of immortality,\" a peaceful fire offering in the tradition of the glorious diamond frightener_rgyal ba nga+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABdtA",
+    "revision_id": "625a49a1947198d294473",
     "content_hash": "f1d3e96164c86d29959eebc15248fe40c24a9c634bfd14ce2f23b3bbd4860446",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:13:16.884786",
+    "server_modified": "2024-10-29 21:52:30",
+    "last_sync": "2024-11-19 21:11:08.071099",
     "size": 16990,
-    "meta_text": null,
+    "meta_text": "('G DBANG BLO BZANG RGYA MTSO (1617-1682)', 'text')",
     "cat_ref": "S05605",
     "work_ref": "W.S05605",
     "title_tib": "DPAL RDO RJE 'JIGS BYED KYI ZHI BA'I SBYIN SREG RAB DKAR BDUD RTZI'I BUM BZANG",
@@ -19,10 +19,10 @@
     "author_simple": "RGYAL BA NGAG DBANG BLO BZANG RGYA MTSO",
     "subject": [
         {
-            "_id": "878584584879",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/SBYIN SREG_FIRE OFFERING (HOMA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/'JIGS BYED/SBYIN SREG",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/FIRE OFFERING (HOMA)",
+            "_id": "253172044199",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/SBYIN SREG_FIRE OFFERING (HOMA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/'JIGS BYED/SBYIN SREG",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/FIRE OFFERING (HOMA)",
             "subject_tibetan": "SBYIN SREG",
             "subject_english": "FIRE OFFERING (HOMA)"
         }
@@ -31,18 +31,26 @@
     "author": [
         {
             "author_name": "RGYAL BA NGAG DBANG BLO BZANG RGYA MTSO",
-            "author_birth": null,
-            "author_death": null,
+            "author_birth": "1617",
+            "author_death": "1682",
             "bdrc_id": "bdr:P37",
             "normalized_name": "RGYAL BA NGAG DBANG BLO BZANG RGYA MTSO",
             "bdrc_url": "http://purl.bdrc.io/resource/P37"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/sbyin sreg_fire offering (homa)",
-            "timestamp": "2024-09-10T02:13:16.928218+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/SBYIN SREG_FIRE OFFERING (HOMA)",
+            "timestamp": "2024-11-20 05:11:08.747996+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:11:08.747996+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,28 +1,28 @@
 {
     "name": "S05327E_RNAL 'BYOR DBANG PHYUG DRIL BU LUGS BDE MCHOG LUS DKYIL GYI DBANG CHOG RIN PO CHE'I BANG MDZOD_The 'Warehouse of Precious Jewels,' being an Explanation of the Ritual for Granting Initiation into the Practice of the Secret World of the Body i +.TXT",
-    "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/lus dkyil_secret world of the body",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/lus dkyil_secret world of the body/s05327e_rnal 'byor dbang phyug dril bu lugs bde mchog lus dkyil gyi dbang chog rin po che'i bang mdzod_the 'warehouse of precious jewels,' being an explanation of the ritual for granting initiation into the practice of the secret world of the body i +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAPYg",
-    "revision_id": "613f665b6117b8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/LUS DKYIL_SECRET WORLD OF THE BODY",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/lus dkyil_secret world of the body/s05327e_rnal 'byor dbang phyug dril bu lugs bde mchog lus dkyil gyi dbang chog rin po che'i bang mdzod_the 'warehouse of precious jewels,' being an explanation of the ritual for granting initiation into the practice of the secret world of the body i +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABUqQ",
+    "revision_id": "625a486d22ac68d294473",
     "content_hash": "7509bf8615fbe3e22a3fdd3c389c1b4b1c0ab773bbe87c591614795b8e78d027",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:16:53.048753",
+    "server_modified": "2024-10-29 21:47:07",
+    "last_sync": "2024-11-19 20:55:59.102316",
     "size": 74481,
-    "meta_text": "n the Secret Teaching of Highest Bliss (Sambara), according to the System of that Lord of Secret Practitioners, Ghantapada_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)",
+    "meta_text": "('n the Secret Teaching of Highest Bliss (Sambara), according to the System of that Lord of Secret Practitioners, Ghantapada_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)', 'rtf')",
     "cat_ref": "S05327E",
     "work_ref": "W.S05327E",
     "title_tib": "RNAL 'BYOR DBANG PHYUG DRIL BU LUGS BDE MCHOG LUS DKYIL GYI DBANG CHOG RIN PO CHE'I BANG MDZOD",
-    "title_eng": "The 'Warehouse of Precious Jewels,' being an Explanation of the Ritual for Granting Initiation into the Practice of the Secret World of the Body in the Secret Teaching of Highest Bliss (Sambara), according to the System of that Lord of Secret Practitioners, Ghantapada",
+    "title_eng": "The 'Warehouse of Precious Jewels,' being an Explanation of the Ritual for Granting Initiation into the Practice of the Secret World of the Body i('n the Secret Teaching of Highest Bliss (Sambara), according to the System of that Lord of Secret Practitioners, Ghantapada",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "936814418873",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/LUS DKYIL_SECRET WORLD OF THE BODY",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/BDE MCHOG/LUS DKYIL",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/SECRET WORLD OF THE BODY",
+            "_id": "934495339853",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/LUS DKYIL_SECRET WORLD OF THE BODY",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/BDE MCHOG/LUS DKYIL",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/SECRET WORLD OF THE BODY",
             "subject_tibetan": "LUS DKYIL",
             "subject_english": "SECRET WORLD OF THE BODY"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/lus dkyil_secret world of the body",
-            "timestamp": "2024-09-10T02:16:53.065864+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/LUS DKYIL_SECRET WORLD OF THE BODY",
+            "timestamp": "2024-11-20 04:55:59.794793+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:55:59.794793+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

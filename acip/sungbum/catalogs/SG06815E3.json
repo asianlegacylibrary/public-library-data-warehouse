@@ -1,12 +1,12 @@
 {
     "name": "SG06815E3_SKABS GSUM PA'I MTHA' DPYOD RJE BTZUN CHOS KYI RGYAL MTSAN GYI GSUNG RGYUN_An Analysis of the Third Chapter [of the 'Ornament of Realization'] composed by Jetsun Chukyi Gyeltsen_SE RA RJE BTZUN CHOS KYI RGYAL MTSAN (1469-1546).TXT",
-    "path": "phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/spyi_general commentaries/se ra rje btzun chos kyi rgyal mtsan_sera jetsun chukyi gyeltsen (1469-1546)/mtha' dpyod_dialectic analysis",
-    "download_path": "/sungbum updated 4 26 23 bk/phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/spyi_general commentaries/se ra rje btzun chos kyi rgyal mtsan_sera jetsun chukyi gyeltsen (1469-1546)/mtha' dpyod_dialectic analysis/sg06815e3_skabs gsum pa'i mtha' dpyod rje btzun chos kyi rgyal mtsan gyi gsung rgyun_an analysis of the third chapter [of the 'ornament of realization'] composed by jetsun chukyi gyeltsen_se ra rje btzun chos kyi rgyal mtsan (1469-1546).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAVEw",
-    "revision_id": "613f6668766798d294473",
+    "path": "PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/SPYI_GENERAL COMMENTARIES/SE RA RJE BTZUN CHOS KYI RGYAL MTSAN_SERA JETSUN CHUKYI GYELTSEN (1469-1546)/MTHA' DPYOD_DIALECTIC ANALYSIS",
+    "download_path": "/sungbum updated 7 30 23 nl/phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/spyi_general commentaries/se ra rje btzun chos kyi rgyal mtsan_sera jetsun chukyi gyeltsen (1469-1546)/mtha' dpyod_dialectic analysis/sg06815e3_skabs gsum pa'i mtha' dpyod rje btzun chos kyi rgyal mtsan gyi gsung rgyun_an analysis of the third chapter [of the 'ornament of realization'] composed by jetsun chukyi gyeltsen_se ra rje btzun chos kyi rgyal mtsan (1469-1546).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABPDQ",
+    "revision_id": "625a4789eecfd8d294473",
     "content_hash": "496339817820a66c1a9f494b7f063a8684efacf72cca06c87af2ea75c2101bab",
-    "server_modified": "2024-03-18T21:54:23",
-    "last_sync": "2024-09-09T19:22:18.798108",
+    "server_modified": "2024-10-29 21:43:08",
+    "last_sync": "2024-11-19 20:47:16.052126",
     "size": 41558,
     "meta_text": null,
     "cat_ref": "SG06815E3",
@@ -19,10 +19,10 @@
     "author_simple": "SE RA RJE BTZUN CHOS KYI RGYAL MTSAN",
     "subject": [
         {
-            "_id": "308336733259",
-            "subject_path": "SUNGBUM_SUNGBUM/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/SPYI_GENERAL COMMENTARIES/SE RA RJE BTZUN CHOS KYI RGYAL MTSAN_SERA JETSUN CHUKYI GYELTSEN (1469-1546)/MTHA' DPYOD_DIALECTIC ANALYSIS",
-            "subject_path_tibetan": "SUNGBUM/PHAR PHYIN/SPYI/SE RA RJE BTZUN CHOS KYI RGYAL MTSAN/MTHA' DPYOD",
-            "subject_path_english": "SUNGBUM/PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/GENERAL COMMENTARIES/SERA JETSUN CHUKYI GYELTSEN (1469-1546)/DIALECTIC ANALYSIS",
+            "_id": "323841956550",
+            "subject_path": "GSUNG 'BUM_Sungbum/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/SPYI_GENERAL COMMENTARIES/SE RA RJE BTZUN CHOS KYI RGYAL MTSAN_SERA JETSUN CHUKYI GYELTSEN (1469-1546)/MTHA' DPYOD_DIALECTIC ANALYSIS",
+            "subject_path_tibetan": "GSUNG 'BUM/PHAR PHYIN/SPYI/SE RA RJE BTZUN CHOS KYI RGYAL MTSAN/MTHA' DPYOD",
+            "subject_path_english": "Sungbum/PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/GENERAL COMMENTARIES/SERA JETSUN CHUKYI GYELTSEN (1469-1546)/DIALECTIC ANALYSIS",
             "subject_tibetan": "MTHA' DPYOD",
             "subject_english": "DIALECTIC ANALYSIS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P477"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/spyi_general commentaries/se ra rje btzun chos kyi rgyal mtsan_sera jetsun chukyi gyeltsen (1469-1546)/mtha' dpyod_dialectic analysis",
-            "timestamp": "2024-09-10T02:22:18.812428+00:00"
+            "path": "GSUNG 'BUM_Sungbum/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/SPYI_GENERAL COMMENTARIES/SE RA RJE BTZUN CHOS KYI RGYAL MTSAN_SERA JETSUN CHUKYI GYELTSEN (1469-1546)/MTHA' DPYOD_DIALECTIC ANALYSIS",
+            "timestamp": "2024-11-20 04:47:18.074427+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:47:18.074427+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,28 +1,28 @@
 {
     "name": "S05570E_RJE THAMS CAD MKHYEN PA DGE 'DUN RGYA MTSOS MDZAD PA'I DPAL RDO RJE 'JIGS BYED KYI TSOGS MCHOD_A Tantric Feast for the Glorious Diamond Frightener (Vajra Bhairava), Composed by the All-Knowing Gendun Gyatso, from Assorted Writings found in +.txt",
-    "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/tsogs_circle of gathering (ganachakra)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/tsogs_circle of gathering (ganachakra)/s05570e_rje thams cad mkhyen pa dge 'dun rgya mtsos mdzad pa'i dpal rdo rje 'jigs byed kyi tsogs mchod_a tantric feast for the glorious diamond frightener (vajra bhairava), composed by the all-knowing gendun gyatso, from assorted writings found in +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAMTg",
-    "revision_id": "613f6656ded1f8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/TSOGS_CIRCLE OF GATHERING (GANACHAKRA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/tsogs_circle of gathering (ganachakra)/s05570e_rje thams cad mkhyen pa dge 'dun rgya mtsos mdzad pa'i dpal rdo rje 'jigs byed kyi tsogs mchod_a tantric feast for the glorious diamond frightener (vajra bhairava), composed by the all-knowing gendun gyatso, from assorted writings found in +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABdkQ",
+    "revision_id": "625a499bab1d78d294473",
     "content_hash": "7923dfdc18fb79964c48d282899fa729e5b8d4b3f3feb74f15c07547d8d656c1",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:13:34.472217",
+    "server_modified": "2024-10-29 21:52:24",
+    "last_sync": "2024-11-19 21:10:59.738166",
     "size": 4825,
-    "meta_text": "from Assorted Writings found in the Collected Works of the Omniscient Lord_RGYAL BA DGE 'DUN RGYA MTSO (1476-1542)",
+    "meta_text": "(\"from Assorted Writings found in the Collected Works of the Omniscient Lord_RGYAL BA DGE 'DUN RGYA MTSO (1476-1542)\", 'text')",
     "cat_ref": "S05570E",
     "work_ref": "W.S05570E",
     "title_tib": "RJE THAMS CAD MKHYEN PA DGE 'DUN RGYA MTSOS MDZAD PA'I DPAL RDO RJE 'JIGS BYED KYI TSOGS MCHOD",
-    "title_eng": "A Tantric Feast for the Glorious Diamond Frightener (Vajra Bhairava), Composed by the All-Knowing Gendun Gyatso, from Assorted Writings found infrom Assorted Writings found in the Collected Works of the Omniscient Lord",
+    "title_eng": "A Tantric Feast for the Glorious Diamond Frightener (Vajra Bhairava), Composed by the All-Knowing Gendun Gyatso, from Assorted Writings found in(\"from Assorted Writings found in the Collected Works of the Omniscient Lord",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "RGYAL BA DGE 'DUN RGYA MTSO",
     "subject": [
         {
-            "_id": "224792472996",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/TSOGS_CIRCLE OF GATHERING (GANACHAKRA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/'JIGS BYED/TSOGS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/CIRCLE OF GATHERING (GANACHAKRA)",
+            "_id": "112347907406",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/TSOGS_CIRCLE OF GATHERING (GANACHAKRA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/'JIGS BYED/TSOGS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/CIRCLE OF GATHERING (GANACHAKRA)",
             "subject_tibetan": "TSOGS",
             "subject_english": "CIRCLE OF GATHERING (GANACHAKRA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P84"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/tsogs_circle of gathering (ganachakra)",
-            "timestamp": "2024-09-10T02:13:34.483421+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/TSOGS_CIRCLE OF GATHERING (GANACHAKRA)",
+            "timestamp": "2024-11-20 05:10:59.748677+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:10:59.748677+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

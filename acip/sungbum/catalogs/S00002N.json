@@ -1,30 +1,30 @@
 {
     "name": "S00002N_DRANG BA DANG NGES PA'I DON RNAM PAR 'BYED PA'I BSTAN BCOS LEGS BSHAD SNYING PO'I DON BSDUS BLO GSAL GZHON NU'I MGUL RGYAN_'A Necklace for Those with Bright Young Minds,' being a Concise Presentation of 'The Essence of Eloquence,' a Classica+.TXT",
-    "path": "drang nges_art of interpretation/rgyal dbang 'phrin las rnam rgyal_gyalwang trinle namgyal (fl 1840-1860)",
-    "download_path": "/sungbum updated 4 26 23 bk/drang nges_art of interpretation/rgyal dbang 'phrin las rnam rgyal_gyalwang trinle namgyal (fl 1840-1860)/s00002n_drang ba dang nges pa'i don rnam par 'byed pa'i bstan bcos legs bshad snying po'i don bsdus blo gsal gzhon nu'i mgul rgyan_'a necklace for those with bright young minds,' being a concise presentation of 'the essence of eloquence,' a classica+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAARA",
-    "revision_id": "613f663b87b8d8d294473",
+    "path": "DRANG NGES_ART OF INTERPRETATION/RGYAL DBANG 'PHRIN LAS RNAM RGYAL_GYALWANG TRINLE NAMGYAL (fl 1840-1860)",
+    "download_path": "/sungbum updated 7 30 23 nl/drang nges_art of interpretation/rgyal dbang 'phrin las rnam rgyal_gyalwang trinle namgyal (fl 1840-1860)/s00002n_drang ba dang nges pa'i don rnam par 'byed pa'i bstan bcos legs bshad snying po'i don bsdus blo gsal gzhon nu'i mgul rgyan_'a necklace for those with bright young minds,' being a concise presentation of 'the essence of eloquence,' a classica+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABR9w",
+    "revision_id": "625a4803691328d294473",
     "content_hash": "0181f14c92cf69169255eefd6fe8dc15427611830443b4adafa76445921cced0",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:01:17.678011",
+    "server_modified": "2024-10-29 21:45:16",
+    "last_sync": "2024-11-19 20:52:55.610598",
     "size": 25425,
-    "meta_text": "l Commentary upon the Art of Distinguishing the Figurative from the Literal_RGYAL DBANG 'PHRIN LAS RNAM RGYAL (1850-@)",
+    "meta_text": "(\"l Commentary upon the Art of Distinguishing the Figurative from the Literal_RGYAL DBANG 'PHRIN LAS RNAM RGYAL (1850-@)\", 'rtf')",
     "cat_ref": "S00002N",
     "work_ref": "W.S00002N",
     "title_tib": "DRANG BA DANG NGES PA'I DON RNAM PAR 'BYED PA'I BSTAN BCOS LEGS BSHAD SNYING PO'I DON BSDUS BLO GSAL GZHON NU'I MGUL RGYAN",
-    "title_eng": "'A Necklace for Those with Bright Young Minds,' being a Concise Presentation of 'The Essence of Eloquence,' a Classical Commentary upon the Art of Distinguishing the Figurative from the Literal",
+    "title_eng": "'A Necklace for Those with Bright Young Minds,' being a Concise Presentation of 'The Essence of Eloquence,' a Classica(\"l Commentary upon the Art of Distinguishing the Figurative from the Literal",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "RGYAL DBANG BLO BZANG 'PHRIN LAS RNAM RGYAL",
     "subject": [
         {
-            "_id": "185876849853",
-            "subject_path": "SUNGBUM_SUNGBUM/DRANG NGES_ART OF INTERPRETATION/RGYAL DBANG 'PHRIN LAS RNAM RGYAL_GYALWANG TRINLE NAMGYAL (FL 1840-1860)",
-            "subject_path_tibetan": "SUNGBUM/DRANG NGES/RGYAL DBANG 'PHRIN LAS RNAM RGYAL",
-            "subject_path_english": "SUNGBUM/ART OF INTERPRETATION/GYALWANG TRINLE NAMGYAL (FL 1840-1860)",
+            "_id": "108423940221",
+            "subject_path": "GSUNG 'BUM_Sungbum/DRANG NGES_ART OF INTERPRETATION/RGYAL DBANG 'PHRIN LAS RNAM RGYAL_GYALWANG TRINLE NAMGYAL (fl 1840-1860)",
+            "subject_path_tibetan": "GSUNG 'BUM/DRANG NGES/RGYAL DBANG 'PHRIN LAS RNAM RGYAL",
+            "subject_path_english": "Sungbum/ART OF INTERPRETATION/GYALWANG TRINLE NAMGYAL (fl 1840-1860)",
             "subject_tibetan": "RGYAL DBANG 'PHRIN LAS RNAM RGYAL",
-            "subject_english": "GYALWANG TRINLE NAMGYAL (FL 1840-1860)"
+            "subject_english": "GYALWANG TRINLE NAMGYAL (fl 1840-1860)"
         }
     ],
     "items": [],
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P262"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "drang nges_art of interpretation/rgyal dbang 'phrin las rnam rgyal_gyalwang trinle namgyal (fl 1840-1860)",
-            "timestamp": "2024-09-10T02:01:17.685317+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DRANG NGES_ART OF INTERPRETATION/RGYAL DBANG 'PHRIN LAS RNAM RGYAL_GYALWANG TRINLE NAMGYAL (fl 1840-1860)",
+            "timestamp": "2024-11-20 04:52:55.616514+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:52:55.616514+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

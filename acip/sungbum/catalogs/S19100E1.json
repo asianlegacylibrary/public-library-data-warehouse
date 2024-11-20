@@ -1,12 +1,12 @@
 {
     "name": "S19100E1.rtf",
-    "path": "mngon pa_higher knowledge (abhidharma) (vaibhashika school)/'jam dbyangs bzhad pa'i rdo rje ngag dbang brtzon 'grus_jamyang shepay dorje ngawang tsundru (1648-1721)",
-    "download_path": "/sungbum updated 4 26 23 bk/mngon pa_higher knowledge (abhidharma) (vaibhashika school)/'jam dbyangs bzhad pa'i rdo rje ngag dbang brtzon 'grus_jamyang shepay dorje ngawang tsundru (1648-1721)/s19100e1.rtf",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAXWg",
-    "revision_id": "613f666d20a768d294473",
+    "path": "MNGON PA_HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)/'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS_JAMYANG SHEPAY DORJE NGAWANG TSUNDRU (1648-1721)",
+    "download_path": "/sungbum updated 7 30 23 nl/mngon pa_higher knowledge (abhidharma) (vaibhashika school)/'jam dbyangs bzhad pa'i rdo rje ngag dbang brtzon 'grus_jamyang shepay dorje ngawang tsundru (1648-1721)/s19100e1.rtf",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABmCA",
+    "revision_id": "625a4b01eb5b38d294473",
     "content_hash": "26e25f983929da61acd379dc36bc9fb562999c0fcdf980f322fd44ce4aebb788",
-    "server_modified": "2024-03-18T21:54:28",
-    "last_sync": "2024-09-09T19:24:41.237251",
+    "server_modified": "2024-10-29 21:58:39",
+    "last_sync": "2024-11-19 21:26:26.364718",
     "size": 280102,
     "meta_text": null,
     "cat_ref": "S19100E1",
@@ -19,10 +19,10 @@
     "author_simple": "",
     "subject": [
         {
-            "_id": "234907932452",
-            "subject_path": "SUNGBUM_SUNGBUM/MNGON PA_HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)/'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS_JAMYANG SHEPAY DORJE NGAWANG TSUNDRU (1648-1721)",
-            "subject_path_tibetan": "SUNGBUM/MNGON PA/'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS",
-            "subject_path_english": "SUNGBUM/HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)/JAMYANG SHEPAY DORJE NGAWANG TSUNDRU (1648-1721)",
+            "_id": "687837248117",
+            "subject_path": "GSUNG 'BUM_Sungbum/MNGON PA_HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)/'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS_JAMYANG SHEPAY DORJE NGAWANG TSUNDRU (1648-1721)",
+            "subject_path_tibetan": "GSUNG 'BUM/MNGON PA/'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS",
+            "subject_path_english": "Sungbum/HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)/JAMYANG SHEPAY DORJE NGAWANG TSUNDRU (1648-1721)",
             "subject_tibetan": "'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS",
             "subject_english": "JAMYANG SHEPAY DORJE NGAWANG TSUNDRU (1648-1721)"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "mngon pa_higher knowledge (abhidharma) (vaibhashika school)/'jam dbyangs bzhad pa'i rdo rje ngag dbang brtzon 'grus_jamyang shepay dorje ngawang tsundru (1648-1721)",
-            "timestamp": "2024-09-10T02:24:41.257985+00:00"
+            "path": "GSUNG 'BUM_Sungbum/MNGON PA_HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)/'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS_JAMYANG SHEPAY DORJE NGAWANG TSUNDRU (1648-1721)",
+            "timestamp": "2024-11-20 05:26:26.380818+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:26:26.380818+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "rtf"
 }

@@ -1,12 +1,12 @@
 {
     "name": "S00462M_BKA' 'GYUR GYI LUNG GI BLA MA BRGYUD PA'I GSOL 'DEBS_A Supplication to the Lineage of Lamas through Whom the Oral Transmission of the Buddhist Canon has been Passed Down_@ (@-@).TXT",
-    "path": "bla brgyud_lama lineage trees",
-    "download_path": "/sungbum updated 4 26 23 bk/bla brgyud_lama lineage trees/s00462m_bka' 'gyur gyi lung gi bla ma brgyud pa'i gsol 'debs_a supplication to the lineage of lamas through whom the oral transmission of the buddhist canon has been passed down_@ (@-@).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAARhw",
-    "revision_id": "613f665fcd70c8d294473",
+    "path": "BLA BRGYUD_LAMA LINEAGE TREES",
+    "download_path": "/sungbum updated 7 30 23 nl/bla brgyud_lama lineage trees/s00462m_bka' 'gyur gyi lung gi bla ma brgyud pa'i gsol 'debs_a supplication to the lineage of lamas through whom the oral transmission of the buddhist canon has been passed down_@ (@-@).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABmTA",
+    "revision_id": "625a4b1348ab28d294473",
     "content_hash": "2f5e334ca5b8a9af558cbbe316d94866dd9a16928a5a96d975783a58b2241943",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:19:12.259767",
+    "server_modified": "2024-10-29 21:58:58",
+    "last_sync": "2024-11-19 21:26:52.563316",
     "size": 5642,
     "meta_text": null,
     "cat_ref": "S00462M",
@@ -19,10 +19,10 @@
     "author_simple": "",
     "subject": [
         {
-            "_id": "271190553389",
-            "subject_path": "SUNGBUM_SUNGBUM/BLA BRGYUD_LAMA LINEAGE TREES",
-            "subject_path_tibetan": "SUNGBUM/BLA BRGYUD",
-            "subject_path_english": "SUNGBUM/LAMA LINEAGE TREES",
+            "_id": "275259724853",
+            "subject_path": "GSUNG 'BUM_Sungbum/BLA BRGYUD_LAMA LINEAGE TREES",
+            "subject_path_tibetan": "GSUNG 'BUM/BLA BRGYUD",
+            "subject_path_english": "Sungbum/LAMA LINEAGE TREES",
             "subject_tibetan": "BLA BRGYUD",
             "subject_english": "LAMA LINEAGE TREES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "bla brgyud_lama lineage trees",
-            "timestamp": "2024-09-10T02:19:12.276599+00:00"
+            "path": "GSUNG 'BUM_Sungbum/BLA BRGYUD_LAMA LINEAGE TREES",
+            "timestamp": "2024-11-20 05:26:56.474517+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:26:56.474517+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

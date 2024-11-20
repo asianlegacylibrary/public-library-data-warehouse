@@ -1,12 +1,12 @@
 {
     "name": "S00411M_ZHEN PA BZHI BRAL GYI KHRID YIG_A Book of Instruction on the Text entitled 'Freedom from the Four Kinds of Attachment'_DGE SLONG KUN DGA' LEGS PA'I RIN CHEN (1450-@).TXT",
-    "path": "blo sbyong_developing the good heart/zhen pa bzhi bral gyi khrid yig_a book of instruction on the text entitled 'freedom from the four kinds of attachment' (1450-?)",
-    "download_path": "/sungbum updated 4 26 23 bk/blo sbyong_developing the good heart/zhen pa bzhi bral gyi khrid yig_a book of instruction on the text entitled 'freedom from the four kinds of attachment' (1450-?)/s00411m_zhen pa bzhi bral gyi khrid yig_a book of instruction on the text entitled 'freedom from the four kinds of attachment'_dge slong kun dga' legs pa'i rin chen (1450-@).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAS2A",
-    "revision_id": "613f6664743fb8d294473",
+    "path": "BLO SBYONG_DEVELOPING THE GOOD HEART/ZHEN PA BZHI BRAL GYI KHRID YIG_A BOOK OF INSTRUCTION ON THE TEXT ENTITLED 'FREEDOM FROM THE FOUR KINDS OF ATTACHMENT' (1450-?)",
+    "download_path": "/sungbum updated 7 30 23 nl/blo sbyong_developing the good heart/zhen pa bzhi bral gyi khrid yig_a book of instruction on the text entitled 'freedom from the four kinds of attachment' (1450-?)/s00411m_zhen pa bzhi bral gyi khrid yig_a book of instruction on the text entitled 'freedom from the four kinds of attachment'_dge slong kun dga' legs pa'i rin chen (1450-@).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABlIg",
+    "revision_id": "625a4ae2f8fd68d294473",
     "content_hash": "d7eab92c60efd8a228be6fcbef6700aef41ad2305ad1a8a6e8de95dbd64a7fec",
-    "server_modified": "2024-03-18T21:54:19",
-    "last_sync": "2024-09-09T19:20:34.760241",
+    "server_modified": "2024-10-29 21:58:07",
+    "last_sync": "2024-11-19 21:24:37.986388",
     "size": 42086,
     "meta_text": null,
     "cat_ref": "S00411M",
@@ -19,10 +19,10 @@
     "author_simple": "DGE SLONG KUN DGA' LEGS PA'I RIN CHEN",
     "subject": [
         {
-            "_id": "211607611131",
-            "subject_path": "SUNGBUM_SUNGBUM/BLO SBYONG_DEVELOPING THE GOOD HEART/ZHEN PA BZHI BRAL GYI KHRID YIG_A BOOK OF INSTRUCTION ON THE TEXT ENTITLED 'FREEDOM FROM THE FOUR KINDS OF ATTACHMENT' (1450-?)",
-            "subject_path_tibetan": "SUNGBUM/BLO SBYONG/ZHEN PA BZHI BRAL GYI KHRID YIG",
-            "subject_path_english": "SUNGBUM/DEVELOPING THE GOOD HEART/A BOOK OF INSTRUCTION ON THE TEXT ENTITLED 'FREEDOM FROM THE FOUR KINDS OF ATTACHMENT' (1450-?)",
+            "_id": "230631064492",
+            "subject_path": "GSUNG 'BUM_Sungbum/BLO SBYONG_DEVELOPING THE GOOD HEART/ZHEN PA BZHI BRAL GYI KHRID YIG_A BOOK OF INSTRUCTION ON THE TEXT ENTITLED 'FREEDOM FROM THE FOUR KINDS OF ATTACHMENT' (1450-?)",
+            "subject_path_tibetan": "GSUNG 'BUM/BLO SBYONG/ZHEN PA BZHI BRAL GYI KHRID YIG",
+            "subject_path_english": "Sungbum/DEVELOPING THE GOOD HEART/A BOOK OF INSTRUCTION ON THE TEXT ENTITLED 'FREEDOM FROM THE FOUR KINDS OF ATTACHMENT' (1450-?)",
             "subject_tibetan": "ZHEN PA BZHI BRAL GYI KHRID YIG",
             "subject_english": "A BOOK OF INSTRUCTION ON THE TEXT ENTITLED 'FREEDOM FROM THE FOUR KINDS OF ATTACHMENT' (1450-?)"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "blo sbyong_developing the good heart/zhen pa bzhi bral gyi khrid yig_a book of instruction on the text entitled 'freedom from the four kinds of attachment' (1450-?)",
-            "timestamp": "2024-09-10T02:20:34.762065+00:00"
+            "path": "GSUNG 'BUM_Sungbum/BLO SBYONG_DEVELOPING THE GOOD HEART/ZHEN PA BZHI BRAL GYI KHRID YIG_A BOOK OF INSTRUCTION ON THE TEXT ENTITLED 'FREEDOM FROM THE FOUR KINDS OF ATTACHMENT' (1450-?)",
+            "timestamp": "2024-11-20 05:24:37.991493+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:24:37.991493+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

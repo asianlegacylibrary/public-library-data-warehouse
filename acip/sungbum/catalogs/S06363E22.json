@@ -1,14 +1,14 @@
 {
     "name": "S06363E22_GSANG 'DUS 'JAM PA'I RDO RJE'I SGRUB THABS 'JAM DBYANGS DGONGS GSAL SNYING PO_'Essence of the Clarification of the True Thought of Gentle Voice,' being a Method for Reaching Gentle Diamond of the Secret Collection (Guhyasamaja)_DNGUL CHU DH+.TXT",
-    "path": "rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/sgrub thabs_ritual for reaching the angel (sadhana)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/sgrub thabs_ritual for reaching the angel (sadhana)/s06363e22_gsang 'dus 'jam pa'i rdo rje'i sgrub thabs 'jam dbyangs dgongs gsal snying po_'essence of the clarification of the true thought of gentle voice,' being a method for reaching gentle diamond of the secret collection (guhyasamaja)_dngul chu dh+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAQpA",
-    "revision_id": "613f665fcd6298d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/sgrub thabs_ritual for reaching the angel (sadhana)/s06363e22_gsang 'dus 'jam pa'i rdo rje'i sgrub thabs 'jam dbyangs dgongs gsal snying po_'essence of the clarification of the true thought of gentle voice,' being a method for reaching gentle diamond of the secret collection (guhyasamaja)_dngul chu dh+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABbGQ",
+    "revision_id": "625a4944b9d678d294473",
     "content_hash": "2f96293ef35113f84131f0d16f6f466d94dcef2666e3660a571d4f072c351fe8",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:18:10.415452",
+    "server_modified": "2024-10-29 21:50:53",
+    "last_sync": "2024-11-19 21:06:44.002051",
     "size": 13783,
-    "meta_text": "ARMA BHADRA (1772-1851)",
+    "meta_text": "('ARMA BHADRA (1772-1851)', 'rtf')",
     "cat_ref": "S06363E22",
     "work_ref": "W.S06363E22",
     "title_tib": "GSANG 'DUS 'JAM PA'I RDO RJE'I SGRUB THABS 'JAM DBYANGS DGONGS GSAL SNYING PO",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "709678704308",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/GSANG 'DUS/SGRUB THABS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/SECRET COLLECTION (GUHYASAMAJA)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "_id": "165290289031",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/GSANG 'DUS/SGRUB THABS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/SECRET COLLECTION (GUHYASAMAJA)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
             "subject_tibetan": "SGRUB THABS",
             "subject_english": "RITUAL FOR REACHING THE ANGEL (SADHANA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/sgrub thabs_ritual for reaching the angel (sadhana)",
-            "timestamp": "2024-09-10T02:18:10.424470+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "timestamp": "2024-11-20 05:06:44.636302+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:06:44.636302+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

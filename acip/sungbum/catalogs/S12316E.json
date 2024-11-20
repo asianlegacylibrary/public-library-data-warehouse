@@ -1,14 +1,14 @@
 {
     "name": "S12316E_RJE BTZUN MA KU RU KU LLE'I SGRUB THABS THUN MONG MA YIN PA AU TPAL GSAR PA'I MA Li KKA_The String of Fresh Blue Lotus Blooms--A Unique Riutal for Reaching that High and Holy Lady, Kurukulla_LCANG LUNG AARYA PAndI TA NGAG DBANG BLO BZANG BST+.TXT",
-    "path": "rgyud_secret teachings (tantra)/ku ru kul le_kurukulle (kurukulle)/sgrub thabs_ritual for reaching the angel (sadhana)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/ku ru kul le_kurukulle (kurukulle)/sgrub thabs_ritual for reaching the angel (sadhana)/s12316e_rje btzun ma ku ru ku lle'i sgrub thabs thun mong ma yin pa au tpal gsar pa'i ma li kka_the string of fresh blue lotus blooms--a unique riutal for reaching that high and holy lady, kurukulla_lcang lung aarya pandi ta ngag dbang blo bzang bst+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAH0Q",
-    "revision_id": "613f66492f23b8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/KU RU KUL LE_KURUKULLE (KURUKULLE)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/ku ru kul le_kurukulle (kurukulle)/sgrub thabs_ritual for reaching the angel (sadhana)/s12316e_rje btzun ma ku ru ku lle'i sgrub thabs thun mong ma yin pa au tpal gsar pa'i ma li kka_the string of fresh blue lotus blooms--a unique riutal for reaching that high and holy lady, kurukulla_lcang lung aarya pandi ta ngag dbang blo bzang bst+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABVeg",
+    "revision_id": "625a48893f6a98d294473",
     "content_hash": "c0f8be9680894b96618e11375ffe56a86e4109558acb87dd377b27529e463b08",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:08:49.505086",
+    "server_modified": "2024-10-29 21:47:36",
+    "last_sync": "2024-11-19 20:57:36.223201",
     "size": 30815,
-    "meta_text": "AN PA'I RGYAL MTSAN (1770-1845)",
+    "meta_text": "(\"AN PA'I RGYAL MTSAN (1770-1845)\", 'rtf')",
     "cat_ref": "S12316E",
     "work_ref": "W.S12316E",
     "title_tib": "RJE BTZUN MA KU RU KU LLE'I SGRUB THABS THUN MONG MA YIN PA AU TPAL GSAR PA'I MA Li KKA",
@@ -19,10 +19,10 @@
     "author_simple": "LCANG LUNG AARYA PAnDI TA NGAG DBANG BLO BZANG BSTAN PA'I RGYAL MTSAN",
     "subject": [
         {
-            "_id": "170350727772",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/KU RU KUL LE_KURUKULLE (KURUKULLE)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/KU RU KUL LE/SGRUB THABS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/KURUKULLE (KURUKULLE)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "_id": "316654300052",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/KU RU KUL LE_KURUKULLE (KURUKULLE)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/KU RU KUL LE/SGRUB THABS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/KURUKULLE (KURUKULLE)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
             "subject_tibetan": "SGRUB THABS",
             "subject_english": "RITUAL FOR REACHING THE ANGEL (SADHANA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P290"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/ku ru kul le_kurukulle (kurukulle)/sgrub thabs_ritual for reaching the angel (sadhana)",
-            "timestamp": "2024-09-10T02:08:49.522267+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/KU RU KUL LE_KURUKULLE (KURUKULLE)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "timestamp": "2024-11-20 04:57:36.864622+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:57:36.864622+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

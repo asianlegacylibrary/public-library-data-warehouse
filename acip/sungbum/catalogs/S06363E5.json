@@ -1,12 +1,12 @@
 {
     "name": "S06363E5_'PHO BA BRDUS PA_A Brief Ritual for the Practice of Transference_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/'od dpag med_limitless light (amitabha)/'pho ba_transferring consciousness",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/'od dpag med_limitless light (amitabha)/'pho ba_transferring consciousness/s06363e5_'pho ba brdus pa_a brief ritual for the practice of transference_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAP6A",
-    "revision_id": "613f665fcd56d8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/'OD DPAG MED_LIMITLESS LIGHT (AMITABHA)/'PHO BA_TRANSFERRING CONSCIOUSNESS",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/'od dpag med_limitless light (amitabha)/'pho ba_transferring consciousness/s06363e5_'pho ba brdus pa_a brief ritual for the practice of transference_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABehQ",
+    "revision_id": "625a49bfb0abf8d294473",
     "content_hash": "f441a45b2b038a1f3f2d7dd1fb1e1af24e9fe92a4fe36d3a5380c5d07bbe6630",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:17:20.619276",
+    "server_modified": "2024-10-29 21:53:02",
+    "last_sync": "2024-11-19 21:12:39.513051",
     "size": 1243,
     "meta_text": null,
     "cat_ref": "S06363E5",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "189363271101",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/'OD DPAG MED_LIMITLESS LIGHT (AMITABHA)/'PHO BA_TRANSFERRING CONSCIOUSNESS",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/'OD DPAG MED/'PHO BA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/LIMITLESS LIGHT (AMITABHA)/TRANSFERRING CONSCIOUSNESS",
+            "_id": "279882961194",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'OD DPAG MED_LIMITLESS LIGHT (AMITABHA)/'PHO BA_TRANSFERRING CONSCIOUSNESS",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/'OD DPAG MED/'PHO BA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/LIMITLESS LIGHT (AMITABHA)/TRANSFERRING CONSCIOUSNESS",
             "subject_tibetan": "'PHO BA",
             "subject_english": "TRANSFERRING CONSCIOUSNESS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/'od dpag med_limitless light (amitabha)/'pho ba_transferring consciousness",
-            "timestamp": "2024-09-10T02:17:20.621560+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'OD DPAG MED_LIMITLESS LIGHT (AMITABHA)/'PHO BA_TRANSFERRING CONSCIOUSNESS",
+            "timestamp": "2024-11-20 05:12:39.517238+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:12:39.517238+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,14 +1,14 @@
 {
     "name": "S05591_JIG RTEN DBANG PHYUG THAMS CAD MKHYEN PA YON TAN RGYA MTSO DPAL BZANG PO'I RNAM PAR THAR PA NOR BU'I 'PHRENG BA_The String of Jewels, a Biography of the Lord of the World, the Good and Glorious One, the All-Knowing Yunten Gyatso_RGYAL BA NGAG +.TXT",
-    "path": "rnam thar_biographies/mtsan thog_by person's name/rgyal ba yon tan rgya mtso_gyalwa yunten gyatso (1589-1616)",
-    "download_path": "/sungbum updated 4 26 23 bk/rnam thar_biographies/mtsan thog_by person's name/rgyal ba yon tan rgya mtso_gyalwa yunten gyatso (1589-1616)/s05591_jig rten dbang phyug thams cad mkhyen pa yon tan rgya mtso dpal bzang po'i rnam par thar pa nor bu'i 'phreng ba_the string of jewels, a biography of the lord of the world, the good and glorious one, the all-knowing yunten gyatso_rgyal ba ngag +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAW7A",
-    "revision_id": "613f666d20a088d294473",
+    "path": "RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/RGYAL BA YON TAN RGYA MTSO_Gyalwa Yunten Gyatso (1589-1616)",
+    "download_path": "/sungbum updated 7 30 23 nl/rnam thar_biographies/mtsan thog_by person's name/rgyal ba yon tan rgya mtso_gyalwa yunten gyatso (1589-1616)/s05591_jig rten dbang phyug thams cad mkhyen pa yon tan rgya mtso dpal bzang po'i rnam par thar pa nor bu'i 'phreng ba_the string of jewels, a biography of the lord of the world, the good and glorious one, the all-knowing yunten gyatso_rgyal ba ngag +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABgJg",
+    "revision_id": "625a4a16a53148d294473",
     "content_hash": "7ecb3ba3b97523ce2b6ec07d00147472d3f4362b531e23f22fe39b173582d0f6",
-    "server_modified": "2024-03-18T21:54:28",
-    "last_sync": "2024-09-09T19:24:16.312309",
+    "server_modified": "2024-10-29 21:54:33",
+    "last_sync": "2024-11-19 21:15:43.572500",
     "size": 150118,
-    "meta_text": null,
+    "meta_text": "('DBANG BLO BZANG RGYA MTSO (1617-1682)', 'text')",
     "cat_ref": "S05591",
     "work_ref": "W.S05591",
     "title_tib": "JIG RTEN DBANG PHYUG THAMS CAD MKHYEN PA YON TAN RGYA MTSO DPAL BZANG PO'I RNAM PAR THAR PA NOR BU'I 'PHRENG BA",
@@ -19,30 +19,38 @@
     "author_simple": "RGYAL BA NGAG DBANG BLO BZANG RGYA MTSO",
     "subject": [
         {
-            "_id": "143219348092",
-            "subject_path": "SUNGBUM_SUNGBUM/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/RGYAL BA YON TAN RGYA MTSO_GYALWA YUNTEN GYATSO (1589-1616)",
-            "subject_path_tibetan": "SUNGBUM/RNAM THAR/MTSAN THOG/RGYAL BA YON TAN RGYA MTSO",
-            "subject_path_english": "SUNGBUM/BIOGRAPHIES/BY PERSON'S NAME/GYALWA YUNTEN GYATSO (1589-1616)",
+            "_id": "256662953820",
+            "subject_path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/RGYAL BA YON TAN RGYA MTSO_Gyalwa Yunten Gyatso (1589-1616)",
+            "subject_path_tibetan": "GSUNG 'BUM/RNAM THAR/MTSAN THOG/RGYAL BA YON TAN RGYA MTSO",
+            "subject_path_english": "Sungbum/BIOGRAPHIES/BY PERSON'S NAME/Gyalwa Yunten Gyatso (1589-1616)",
             "subject_tibetan": "RGYAL BA YON TAN RGYA MTSO",
-            "subject_english": "GYALWA YUNTEN GYATSO (1589-1616)"
+            "subject_english": "Gyalwa Yunten Gyatso (1589-1616)"
         }
     ],
     "items": [],
     "author": [
         {
             "author_name": "RGYAL BA NGAG DBANG BLO BZANG RGYA MTSO",
-            "author_birth": null,
-            "author_death": null,
+            "author_birth": "1617",
+            "author_death": "1682",
             "bdrc_id": "bdr:P37",
             "normalized_name": "RGYAL BA NGAG DBANG BLO BZANG RGYA MTSO",
             "bdrc_url": "http://purl.bdrc.io/resource/P37"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rnam thar_biographies/mtsan thog_by person's name/rgyal ba yon tan rgya mtso_gyalwa yunten gyatso (1589-1616)",
-            "timestamp": "2024-09-10T02:24:16.318299+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/RGYAL BA YON TAN RGYA MTSO_Gyalwa Yunten Gyatso (1589-1616)",
+            "timestamp": "2024-11-20 05:15:43.577514+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:15:43.577514+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,28 +1,28 @@
 {
     "name": "S06517E_DGE LDAN SNYAN BRGYUD KYI BKA' SROL PHYAG RGYA CHEN PO'I ZIN BRIS RNAM GROL KUN TU DGE BA'I LAM BZANG_'The Excellent Path of Total Virtue, which Leads to Liberation,' being Lecture Notes on the Practice of the Great Seal, in the Tradition of +.TXT",
-    "path": "rgyud_secret teachings (tantra)/phyag rgya chen po_great seal (mahamudra)/'grel pa_commentaries",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/phyag rgya chen po_great seal (mahamudra)/'grel pa_commentaries/s06517e_dge ldan snyan brgyud kyi bka' srol phyag rgya chen po'i zin bris rnam grol kun tu dge ba'i lam bzang_'the excellent path of total virtue, which leads to liberation,' being lecture notes on the practice of the great seal, in the tradition of +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAISw",
-    "revision_id": "613f664dc42678d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/PHYAG RGYA CHEN PO_GREAT SEAL (MAHAMUDRA)/'GREL PA_COMMENTARIES",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/phyag rgya chen po_great seal (mahamudra)/'grel pa_commentaries/s06517e_dge ldan snyan brgyud kyi bka' srol phyag rgya chen po'i zin bris rnam grol kun tu dge ba'i lam bzang_'the excellent path of total virtue, which leads to liberation,' being lecture notes on the practice of the great seal, in the tradition of +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABX0A",
+    "revision_id": "625a48cae81e98d294473",
     "content_hash": "7cfa015ece9fd14e30becea71beeb92d4c01d486937088a481eab42fdc075fc4",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:09:16.922992",
+    "server_modified": "2024-10-29 21:48:45",
+    "last_sync": "2024-11-19 21:01:29.212595",
     "size": 268141,
-    "meta_text": "the Oral Lineage of the Virtuous Ones_KE'U TSANG BLO BZANG 'JAM DBYANGS SMON LAM (1689-&)",
+    "meta_text": "(\"the Oral Lineage of the Virtuous Ones_KE'U TSANG BLO BZANG 'JAM DBYANGS SMON LAM (1689-&)\", 'rtf')",
     "cat_ref": "S06517E",
     "work_ref": "W.S06517E",
     "title_tib": "DGE LDAN SNYAN BRGYUD KYI BKA' SROL PHYAG RGYA CHEN PO'I ZIN BRIS RNAM GROL KUN TU DGE BA'I LAM BZANG",
-    "title_eng": "'The Excellent Path of Total Virtue, which Leads to Liberation,' being Lecture Notes on the Practice of the Great Seal, in the Tradition ofthe Oral Lineage of the Virtuous Ones",
+    "title_eng": "'The Excellent Path of Total Virtue, which Leads to Liberation,' being Lecture Notes on the Practice of the Great Seal, in the Tradition of(\"the Oral Lineage of the Virtuous Ones",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "KE'U TSANG BLO BZANG ''JAM DBYANGS SMON LAM",
     "subject": [
         {
-            "_id": "280432982390",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/PHYAG RGYA CHEN PO_GREAT SEAL (MAHAMUDRA)/'GREL PA_COMMENTARIES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/PHYAG RGYA CHEN PO/'GREL PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GREAT SEAL (MAHAMUDRA)/COMMENTARIES",
+            "_id": "168591050186",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/PHYAG RGYA CHEN PO_GREAT SEAL (MAHAMUDRA)/'GREL PA_COMMENTARIES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/PHYAG RGYA CHEN PO/'GREL PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GREAT SEAL (MAHAMUDRA)/COMMENTARIES",
             "subject_tibetan": "'GREL PA",
             "subject_english": "COMMENTARIES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P307"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/phyag rgya chen po_great seal (mahamudra)/'grel pa_commentaries",
-            "timestamp": "2024-09-10T02:09:16.940338+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/PHYAG RGYA CHEN PO_GREAT SEAL (MAHAMUDRA)/'GREL PA_COMMENTARIES",
+            "timestamp": "2024-11-20 05:01:29.901282+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:01:29.901282+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

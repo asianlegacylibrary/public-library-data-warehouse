@@ -1,28 +1,28 @@
 {
     "name": "S12318E_BCOM LDAN 'DAS SMAN GYI BLA'I SKU BRNYAN SRID ZHI'I MDZES RGYAN GYI DKAR CHAG DAD GSUM GNAS LA 'GOD BYED LHA YI RNGA SGRA_A Drumsong of the Gods for Setting Up a Seat for the Three Kinds of Faith-- A Catalog to the Shrine of the Holy Image o+.TXT",
-    "path": "lha bzo_fine arts/spyi_general treatments",
-    "download_path": "/sungbum updated 4 26 23 bk/lha bzo_fine arts/spyi_general treatments/s12318e_bcom ldan 'das sman gyi bla'i sku brnyan srid zhi'i mdzes rgyan gyi dkar chag dad gsum gnas la 'god byed lha yi rnga sgra_a drumsong of the gods for setting up a seat for the three kinds of faith-- a catalog to the shrine of the holy image o+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAASkw",
-    "revision_id": "613f6664743b68d294473",
+    "path": "LHA BZO_FINE ARTS/SPYI_GENERAL TREATMENTS",
+    "download_path": "/sungbum updated 7 30 23 nl/lha bzo_fine arts/spyi_general treatments/s12318e_bcom ldan 'das sman gyi bla'i sku brnyan srid zhi'i mdzes rgyan gyi dkar chag dad gsum gnas la 'god byed lha yi rnga sgra_a drumsong of the gods for setting up a seat for the three kinds of faith-- a catalog to the shrine of the holy image o+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABQ-g",
+    "revision_id": "625a47d1129d38d294473",
     "content_hash": "28279cf9d096a3954b16e47fd04eefb6de997d0ac6c2d8e5b35d8d966a11a728",
-    "server_modified": "2024-03-18T21:54:19",
-    "last_sync": "2024-09-09T19:20:20.905928",
+    "server_modified": "2024-10-29 21:44:23",
+    "last_sync": "2024-11-19 20:51:01.475192",
     "size": 38292,
-    "meta_text": "f the Conquering One, the Medicine Lama--a Jewel to Embellish both the World of Pain and that of Peace_LCANG LUNG AARYA PAndI TA NGAG DBANG BLO BZANG BSTAN PA'I RGYAL MTSAN (1770-1845)",
+    "meta_text": "(\"f the Conquering One, the Medicine Lama--a Jewel to Embellish both the World of Pain and that of Peace_LCANG LUNG AARYA PAndI TA NGAG DBANG BLO BZANG BSTAN PA'I RGYAL MTSAN (1770-1845)\", 'rtf')",
     "cat_ref": "S12318E",
     "work_ref": "W.S12318E",
     "title_tib": "BCOM LDAN 'DAS SMAN GYI BLA'I SKU BRNYAN SRID ZHI'I MDZES RGYAN GYI DKAR CHAG DAD GSUM GNAS LA 'GOD BYED LHA YI RNGA SGRA",
-    "title_eng": "A Drumsong of the Gods for Setting Up a Seat for the Three Kinds of Faith-- A Catalog to the Shrine of the Holy Image of the Conquering One, the Medicine Lama--a Jewel to Embellish both the World of Pain and that of Peace",
+    "title_eng": "A Drumsong of the Gods for Setting Up a Seat for the Three Kinds of Faith-- A Catalog to the Shrine of the Holy Image o(\"f the Conquering One, the Medicine Lama--a Jewel to Embellish both the World of Pain and that of Peace",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "LCANG LUNG AARYA PAnDI TA NGAG DBANG BLO BZANG BSTAN PA'I RGYAL MTSAN",
     "subject": [
         {
-            "_id": "204553142149",
-            "subject_path": "SUNGBUM_SUNGBUM/LHA BZO_FINE ARTS/SPYI_GENERAL TREATMENTS",
-            "subject_path_tibetan": "SUNGBUM/LHA BZO/SPYI",
-            "subject_path_english": "SUNGBUM/FINE ARTS/GENERAL TREATMENTS",
+            "_id": "230498274875",
+            "subject_path": "GSUNG 'BUM_Sungbum/LHA BZO_FINE ARTS/SPYI_GENERAL TREATMENTS",
+            "subject_path_tibetan": "GSUNG 'BUM/LHA BZO/SPYI",
+            "subject_path_english": "Sungbum/FINE ARTS/GENERAL TREATMENTS",
             "subject_tibetan": "SPYI",
             "subject_english": "GENERAL TREATMENTS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P290"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "lha bzo_fine arts/spyi_general treatments",
-            "timestamp": "2024-09-10T02:20:20.962402+00:00"
+            "path": "GSUNG 'BUM_Sungbum/LHA BZO_FINE ARTS/SPYI_GENERAL TREATMENTS",
+            "timestamp": "2024-11-20 04:51:01.482053+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:51:01.482053+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

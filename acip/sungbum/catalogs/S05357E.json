@@ -1,14 +1,14 @@
 {
     "name": "S05357E_SANGS RGYAS THOD PA'I MI 'JIGS GZHUNG 'GREL SOGS KYI ZIN BRIS RJES GNANG BA_Notes Granted by Je Tsongkapa Himself concerning such Subjects as the 'Fearlessness' Root Text and Commentary in the Secret Teaching of the Buddha Skull_RJE TZONG KH+.TXT",
-    "path": "rgyud_secret teachings (tantra)/sangs rgyas thod pa_secret teaching of the buddha skull (buddhakapala)/'grel pa_commentaries",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/sangs rgyas thod pa_secret teaching of the buddha skull (buddhakapala)/'grel pa_commentaries/s05357e_sangs rgyas thod pa'i mi 'jigs gzhung 'grel sogs kyi zin bris rjes gnang ba_notes granted by je tsongkapa himself concerning such subjects as the 'fearlessness' root text and commentary in the secret teaching of the buddha skull_rje tzong kh+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAKvg",
-    "revision_id": "613f6652788d68d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SANGS RGYAS THOD PA_SECRET TEACHING OF THE BUDDHA SKULL (BUDDHAKAPALA)/'GREL PA_COMMENTARIES",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/sangs rgyas thod pa_secret teaching of the buddha skull (buddhakapala)/'grel pa_commentaries/s05357e_sangs rgyas thod pa'i mi 'jigs gzhung 'grel sogs kyi zin bris rjes gnang ba_notes granted by je tsongkapa himself concerning such subjects as the 'fearlessness' root text and commentary in the secret teaching of the buddha skull_rje tzong kh+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABVfg",
+    "revision_id": "625a48893f6af8d294473",
     "content_hash": "c3c350350aa2a717aed246f7a74c37fa4e028020e28cb0ace69a0c5e7cd4477b",
-    "server_modified": "2024-03-18T21:54:00",
-    "last_sync": "2024-09-09T19:11:52.571031",
+    "server_modified": "2024-10-29 21:47:36",
+    "last_sync": "2024-11-19 20:57:38.766841",
     "size": 18891,
-    "meta_text": "A PA BLO BZANG GRAGS PA (1357-1419)",
+    "meta_text": "('A PA BLO BZANG GRAGS PA (1357-1419)', 'rtf')",
     "cat_ref": "S05357E",
     "work_ref": "W.S05357E",
     "title_tib": "SANGS RGYAS THOD PA'I MI 'JIGS GZHUNG 'GREL SOGS KYI ZIN BRIS RJES GNANG BA",
@@ -19,10 +19,10 @@
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "790624045692",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SANGS RGYAS THOD PA_SECRET TEACHING OF THE BUDDHA SKULL (BUDDHAKAPALA)/'GREL PA_COMMENTARIES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SANGS RGYAS THOD PA/'GREL PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/SECRET TEACHING OF THE BUDDHA SKULL (BUDDHAKAPALA)/COMMENTARIES",
+            "_id": "695902847730",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SANGS RGYAS THOD PA_SECRET TEACHING OF THE BUDDHA SKULL (BUDDHAKAPALA)/'GREL PA_COMMENTARIES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SANGS RGYAS THOD PA/'GREL PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/SECRET TEACHING OF THE BUDDHA SKULL (BUDDHAKAPALA)/COMMENTARIES",
             "subject_tibetan": "'GREL PA",
             "subject_english": "COMMENTARIES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/sangs rgyas thod pa_secret teaching of the buddha skull (buddhakapala)/'grel pa_commentaries",
-            "timestamp": "2024-09-10T02:11:52.578605+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SANGS RGYAS THOD PA_SECRET TEACHING OF THE BUDDHA SKULL (BUDDHAKAPALA)/'GREL PA_COMMENTARIES",
+            "timestamp": "2024-11-20 04:57:38.772476+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:57:38.772476+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

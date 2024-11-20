@@ -1,14 +1,14 @@
 {
     "name": "S12092E_BYANG CHUB LAM RIM CHEN MO'I BSHAD KHRID KYI ZIN BRIS THOR BU GDUNG SEL NOR BU'I MCHOD SDONG_A Jeweled Wick for the Offering Lamp- A Selection of Notes to Teachings on the Great Book on the Steps of the Path to Enlightenment_DZE SMAD RIN PO +.TXT",
-    "path": "lam rim_steps of the path/lam rim chen mo_great book on the steps of the path/'grel pa_commentaries",
-    "download_path": "/sungbum updated 4 26 23 bk/lam rim_steps of the path/lam rim chen mo_great book on the steps of the path/'grel pa_commentaries/s12092e_byang chub lam rim chen mo'i bshad khrid kyi zin bris thor bu gdung sel nor bu'i mchod sdong_a jeweled wick for the offering lamp- a selection of notes to teachings on the great book on the steps of the path to enlightenment_dze smad rin po +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAGhw",
-    "revision_id": "613f66492f0f18d294473",
+    "path": "LAM RIM_STEPS OF THE PATH/LAM RIM CHEN MO_GREAT BOOK ON THE STEPS OF THE PATH/'GREL PA_COMMENTARIES",
+    "download_path": "/sungbum updated 7 30 23 nl/lam rim_steps of the path/lam rim chen mo_great book on the steps of the path/'grel pa_commentaries/s12092e_byang chub lam rim chen mo'i bshad khrid kyi zin bris thor bu gdung sel nor bu'i mchod sdong_a jeweled wick for the offering lamp- a selection of notes to teachings on the great book on the steps of the path to enlightenment_dze smad rin po +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABhEQ",
+    "revision_id": "625a4a538396b8d294473",
     "content_hash": "8d40ba591304d50d34089aca1317d3bf272371a93dfbadf1c4c730311c74b64e",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:07:39.397041",
+    "server_modified": "2024-10-29 21:55:37",
+    "last_sync": "2024-11-19 21:17:05.175783",
     "size": 98864,
-    "meta_text": "CHE BLO BZANG DPAL LDAN BSTAN 'DZIN YAR RGYAS (1927-1996)",
+    "meta_text": "(\"CHE BLO BZANG DPAL LDAN BSTAN 'DZIN YAR RGYAS (1927-1996)\", 'rtf')",
     "cat_ref": "S12092E",
     "work_ref": "W.S12092E",
     "title_tib": "BYANG CHUB LAM RIM CHEN MO'I BSHAD KHRID KYI ZIN BRIS THOR BU GDUNG SEL NOR BU'I MCHOD SDONG",
@@ -19,10 +19,10 @@
     "author_simple": "DZE SMAD RIN PO CHE BLO BZANG DPAL LDAN BSTAN 'DZIN YAR RGYAS",
     "subject": [
         {
-            "_id": "318406488916",
-            "subject_path": "SUNGBUM_SUNGBUM/LAM RIM_STEPS OF THE PATH/LAM RIM CHEN MO_GREAT BOOK ON THE STEPS OF THE PATH/'GREL PA_COMMENTARIES",
-            "subject_path_tibetan": "SUNGBUM/LAM RIM/LAM RIM CHEN MO/'GREL PA",
-            "subject_path_english": "SUNGBUM/STEPS OF THE PATH/GREAT BOOK ON THE STEPS OF THE PATH/COMMENTARIES",
+            "_id": "231647048415",
+            "subject_path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/LAM RIM CHEN MO_GREAT BOOK ON THE STEPS OF THE PATH/'GREL PA_COMMENTARIES",
+            "subject_path_tibetan": "GSUNG 'BUM/LAM RIM/LAM RIM CHEN MO/'GREL PA",
+            "subject_path_english": "Sungbum/STEPS OF THE PATH/GREAT BOOK ON THE STEPS OF THE PATH/COMMENTARIES",
             "subject_tibetan": "'GREL PA",
             "subject_english": "COMMENTARIES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P2425"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "lam rim_steps of the path/lam rim chen mo_great book on the steps of the path/'grel pa_commentaries",
-            "timestamp": "2024-09-10T02:07:39.461049+00:00"
+            "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/LAM RIM CHEN MO_GREAT BOOK ON THE STEPS OF THE PATH/'GREL PA_COMMENTARIES",
+            "timestamp": "2024-11-20 05:17:06.835561+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:17:06.835561+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

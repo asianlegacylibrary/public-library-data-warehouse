@@ -1,12 +1,12 @@
 {
     "name": "S12067E_LHA KHANG BZHENGS PA'I SA LA BYIN RLABS DGOS PA SOGS_An Explanation of Why a Ceremony of Blessing for the Site is Necessary during the Construction of a Temple; and other Subjects_CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS (1740-1810).TXT",
-    "path": "cho ga_rituals/rab gnas_consecration rituals",
-    "download_path": "/sungbum updated 4 26 23 bk/cho ga_rituals/rab gnas_consecration rituals/s12067e_lha khang bzhengs pa'i sa la byin rlabs dgos pa sogs_an explanation of why a ceremony of blessing for the site is necessary during the construction of a temple; and other subjects_cha har dge bshes blo bzang tsul khrims (1740-1810).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAErw",
-    "revision_id": "613f6644849d38d294473",
+    "path": "CHO GA_RITUALS/RAB GNAS_CONSECRATION RITUALS",
+    "download_path": "/sungbum updated 7 30 23 nl/cho ga_rituals/rab gnas_consecration rituals/s12067e_lha khang bzhengs pa'i sa la byin rlabs dgos pa sogs_an explanation of why a ceremony of blessing for the site is necessary during the construction of a temple; and other subjects_cha har dge bshes blo bzang tsul khrims (1740-1810).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABlxA",
+    "revision_id": "625a4af65acfd8d294473",
     "content_hash": "67afcfeeb0f6ee0d37ade070d35aea1321f4485da9627357eef51829d9e1c5a1",
-    "server_modified": "2024-03-18T21:53:45",
-    "last_sync": "2024-09-09T19:05:55.162783",
+    "server_modified": "2024-10-29 21:58:27",
+    "last_sync": "2024-11-19 21:26:00.892129",
     "size": 14618,
     "meta_text": null,
     "cat_ref": "S12067E",
@@ -19,10 +19,10 @@
     "author_simple": "CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS",
     "subject": [
         {
-            "_id": "882668806207",
-            "subject_path": "SUNGBUM_SUNGBUM/CHO GA_RITUALS/RAB GNAS_CONSECRATION RITUALS",
-            "subject_path_tibetan": "SUNGBUM/CHO GA/RAB GNAS",
-            "subject_path_english": "SUNGBUM/RITUALS/CONSECRATION RITUALS",
+            "_id": "333726750752",
+            "subject_path": "GSUNG 'BUM_Sungbum/CHO GA_RITUALS/RAB GNAS_CONSECRATION RITUALS",
+            "subject_path_tibetan": "GSUNG 'BUM/CHO GA/RAB GNAS",
+            "subject_path_english": "Sungbum/RITUALS/CONSECRATION RITUALS",
             "subject_tibetan": "RAB GNAS",
             "subject_english": "CONSECRATION RITUALS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P4797"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "cho ga_rituals/rab gnas_consecration rituals",
-            "timestamp": "2024-09-10T02:05:55.215870+00:00"
+            "path": "GSUNG 'BUM_Sungbum/CHO GA_RITUALS/RAB GNAS_CONSECRATION RITUALS",
+            "timestamp": "2024-11-20 05:26:03.316487+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:26:03.316487+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

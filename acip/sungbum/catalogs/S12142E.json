@@ -1,12 +1,12 @@
 {
     "name": "S12142E_RJE BTZUN 'JAM DBYANGS LA GSOL BA BTAB PA'I TSIGS BCAD_Verses in Supplication to the Holy Gentle Voice (Manjushri)_CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN (1806-@).TXT",
-    "path": "rgyud_secret teachings (tantra)/'jam dbyangs_gentle voice (manjughosha, manjushri)/smon lam_prayers (pranidhana)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/'jam dbyangs_gentle voice (manjughosha, manjushri)/smon lam_prayers (pranidhana)/s12142e_rje btzun 'jam dbyangs la gsol ba btab pa'i tsigs bcad_verses in supplication to the holy gentle voice (manjushri)_chos rje khal kha ngag dbang dpal ldan (1806-@).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAALnw",
-    "revision_id": "613f6652789b78d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/'JAM DBYANGS_GENTLE VOICE (MANJUGHOSHA, MANJUSHRI)/SMON LAM_PRAYERS (PRANIDHANA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/'jam dbyangs_gentle voice (manjughosha, manjushri)/smon lam_prayers (pranidhana)/s12142e_rje btzun 'jam dbyangs la gsol ba btab pa'i tsigs bcad_verses in supplication to the holy gentle voice (manjushri)_chos rje khal kha ngag dbang dpal ldan (1806-@).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABYMA",
+    "revision_id": "625a48d5d81d88d294473",
     "content_hash": "56e0684ad57dfa6d90a5d689c42597d5fffec398fbea2f5f712a837c2c21ae48",
-    "server_modified": "2024-03-18T21:54:00",
-    "last_sync": "2024-09-09T19:12:47.861377",
+    "server_modified": "2024-10-29 21:48:56",
+    "last_sync": "2024-11-19 21:01:56.992965",
     "size": 2055,
     "meta_text": null,
     "cat_ref": "S12142E",
@@ -19,10 +19,10 @@
     "author_simple": "CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN",
     "subject": [
         {
-            "_id": "245753156827",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/'JAM DBYANGS_GENTLE VOICE (MANJUGHOSHA, MANJUSHRI)/SMON LAM_PRAYERS (PRANIDHANA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/'JAM DBYANGS/SMON LAM",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENTLE VOICE (MANJUGHOSHA, MANJUSHRI)/PRAYERS (PRANIDHANA)",
+            "_id": "973666624441",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JAM DBYANGS_GENTLE VOICE (MANJUGHOSHA, MANJUSHRI)/SMON LAM_PRAYERS (PRANIDHANA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/'JAM DBYANGS/SMON LAM",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENTLE VOICE (MANJUGHOSHA, MANJUSHRI)/PRAYERS (PRANIDHANA)",
             "subject_tibetan": "SMON LAM",
             "subject_english": "PRAYERS (PRANIDHANA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P272"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/'jam dbyangs_gentle voice (manjughosha, manjushri)/smon lam_prayers (pranidhana)",
-            "timestamp": "2024-09-10T02:12:47.865773+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JAM DBYANGS_GENTLE VOICE (MANJUGHOSHA, MANJUSHRI)/SMON LAM_PRAYERS (PRANIDHANA)",
+            "timestamp": "2024-11-20 05:01:56.996952+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:01:56.996952+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

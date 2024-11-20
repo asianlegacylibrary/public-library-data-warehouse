@@ -1,12 +1,12 @@
 {
     "name": "S00026N_DRANG NGES LEGS BSHAD SNYING PO'I ZIN BRIS_Notes on the Art of Interpretation_SER BYES MKHAN ZUR DGE BSHES BLO BZANG DBANG PHYUG (1901-1979).TXT",
-    "path": "drang nges_art of interpretation/ser byes mkhan zur dge bshes blo bzang dbang phyug_serje kensur geshe lobsang wangchuk (1901-1979)",
-    "download_path": "/sungbum updated 4 26 23 bk/drang nges_art of interpretation/ser byes mkhan zur dge bshes blo bzang dbang phyug_serje kensur geshe lobsang wangchuk (1901-1979)/s00026n_drang nges legs bshad snying po'i zin bris_notes on the art of interpretation_ser byes mkhan zur dge bshes blo bzang dbang phyug (1901-1979).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAAJA",
-    "revision_id": "613f663b87b6d8d294473",
+    "path": "DRANG NGES_ART OF INTERPRETATION/SER BYES MKHAN ZUR DGE BSHES BLO BZANG DBANG PHYUG_Serje Kensur Geshe Lobsang Wangchuk (1901-1979)",
+    "download_path": "/sungbum updated 7 30 23 nl/drang nges_art of interpretation/ser byes mkhan zur dge bshes blo bzang dbang phyug_serje kensur geshe lobsang wangchuk (1901-1979)/s00026n_drang nges legs bshad snying po'i zin bris_notes on the art of interpretation_ser byes mkhan zur dge bshes blo bzang dbang phyug (1901-1979).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABSCA",
+    "revision_id": "625a4804fece08d294473",
     "content_hash": "734c31d56aee27bd6e251ce81f5da7300a17229efc3f8fe46f5942b0f72cb46d",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:01:06.525274",
+    "server_modified": "2024-10-29 21:45:17",
+    "last_sync": "2024-11-19 20:52:58.961224",
     "size": 332244,
     "meta_text": null,
     "cat_ref": "S00026N",
@@ -19,12 +19,12 @@
     "author_simple": "SER BYES MKHAN ZUR DGE BSHES BLO BZANG DBANG PHYUG",
     "subject": [
         {
-            "_id": "319448848978",
-            "subject_path": "SUNGBUM_SUNGBUM/DRANG NGES_ART OF INTERPRETATION/SER BYES MKHAN ZUR DGE BSHES BLO BZANG DBANG PHYUG_SERJE KENSUR GESHE LOBSANG WANGCHUK (1901-1979)",
-            "subject_path_tibetan": "SUNGBUM/DRANG NGES/SER BYES MKHAN ZUR DGE BSHES BLO BZANG DBANG PHYUG",
-            "subject_path_english": "SUNGBUM/ART OF INTERPRETATION/SERJE KENSUR GESHE LOBSANG WANGCHUK (1901-1979)",
+            "_id": "256082621662",
+            "subject_path": "GSUNG 'BUM_Sungbum/DRANG NGES_ART OF INTERPRETATION/SER BYES MKHAN ZUR DGE BSHES BLO BZANG DBANG PHYUG_Serje Kensur Geshe Lobsang Wangchuk (1901-1979)",
+            "subject_path_tibetan": "GSUNG 'BUM/DRANG NGES/SER BYES MKHAN ZUR DGE BSHES BLO BZANG DBANG PHYUG",
+            "subject_path_english": "Sungbum/ART OF INTERPRETATION/Serje Kensur Geshe Lobsang Wangchuk (1901-1979)",
             "subject_tibetan": "SER BYES MKHAN ZUR DGE BSHES BLO BZANG DBANG PHYUG",
-            "subject_english": "SERJE KENSUR GESHE LOBSANG WANGCHUK (1901-1979)"
+            "subject_english": "Serje Kensur Geshe Lobsang Wangchuk (1901-1979)"
         }
     ],
     "items": [],
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P8LS12427"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "drang nges_art of interpretation/ser byes mkhan zur dge bshes blo bzang dbang phyug_serje kensur geshe lobsang wangchuk (1901-1979)",
-            "timestamp": "2024-09-10T02:01:06.539219+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DRANG NGES_ART OF INTERPRETATION/SER BYES MKHAN ZUR DGE BSHES BLO BZANG DBANG PHYUG_Serje Kensur Geshe Lobsang Wangchuk (1901-1979)",
+            "timestamp": "2024-11-20 04:52:58.972100+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:52:58.972100+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

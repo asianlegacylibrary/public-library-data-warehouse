@@ -1,28 +1,28 @@
 {
     "name": "S00224E_JAM MGON RGYAL BA'I BSTAN SRUNG RDO RJE SHUGS LDAN DRAG PO RTZAL LA BRTEN NAS BSAD PA GTZO BOR GYUR PA'I DRAG PO'I SBYIN SREG GI CHO GA GLOG GI ME LCE'I PHRENG BA _'The String of Lightning Flame,' being a Ceremony for Performing a Fierce Fir+.TXT",
-    "path": "rgyud_secret teachings (tantra)/rdo rje shugs ldan_diamond angel of power (vajravega)/sbyin sreg_fire offering (homa)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/rdo rje shugs ldan_diamond angel of power (vajravega)/sbyin sreg_fire offering (homa)/s00224e_jam mgon rgyal ba'i bstan srung rdo rje shugs ldan drag po rtzal la brten nas bsad pa gtzo bor gyur pa'i drag po'i sbyin sreg gi cho ga glog gi me lce'i phreng ba _'the string of lightning flame,' being a ceremony for performing a fierce fir+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAH-w",
-    "revision_id": "613f664dc42178d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE SHUGS LDAN_DIAMOND ANGEL OF POWER (VAJRAVEGA)/SBYIN SREG_FIRE OFFERING (HOMA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/rdo rje shugs ldan_diamond angel of power (vajravega)/sbyin sreg_fire offering (homa)/s00224e_jam mgon rgyal ba'i bstan srung rdo rje shugs ldan drag po rtzal la brten nas bsad pa gtzo bor gyur pa'i drag po'i sbyin sreg gi cho ga glog gi me lce'i phreng ba _'the string of lightning flame,' being a ceremony for performing a fierce fir+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABeRg",
+    "revision_id": "625a49b9d36348d294473",
     "content_hash": "6cbc3875e9ae363467d3fad68813e4a45e31b5c114ad0c12ff3d3e0c1bff60e7",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:08:59.627071",
+    "server_modified": "2024-10-29 21:52:55",
+    "last_sync": "2024-11-19 21:12:18.704987",
     "size": 49882,
-    "meta_text": "e Offering for the Gentle Protector, Diamond Angel of Power (Vajravega)_SKYABS RJE KHRI BYANG RIN PO CHE (1901-1981)",
+    "meta_text": "('e Offering for the Gentle Protector, Diamond Angel of Power (Vajravega)_SKYABS RJE KHRI BYANG RIN PO CHE (1901-1981)', 'rtf')",
     "cat_ref": "S00224E",
     "work_ref": "W.S00224E",
     "title_tib": "JAM MGON RGYAL BA'I BSTAN SRUNG RDO RJE SHUGS LDAN DRAG PO RTZAL LA BRTEN NAS BSAD PA GTZO BOR GYUR PA'I DRAG PO'I SBYIN SREG GI CHO GA GLOG GI ME LCE'I PHRENG BA",
-    "title_eng": "'The String of Lightning Flame,' being a Ceremony for Performing a Fierce Fire Offering for the Gentle Protector, Diamond Angel of Power (Vajravega)",
+    "title_eng": "'The String of Lightning Flame,' being a Ceremony for Performing a Fierce Fir('e Offering for the Gentle Protector, Diamond Angel of Power (Vajravega)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "SKYABS RJE KHRI BYANG RIN PO CHE",
     "subject": [
         {
-            "_id": "178793393380",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE SHUGS LDAN_DIAMOND ANGEL OF POWER (VAJRAVEGA)/SBYIN SREG_FIRE OFFERING (HOMA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/RDO RJE SHUGS LDAN/SBYIN SREG",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/DIAMOND ANGEL OF POWER (VAJRAVEGA)/FIRE OFFERING (HOMA)",
+            "_id": "601508575675",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE SHUGS LDAN_DIAMOND ANGEL OF POWER (VAJRAVEGA)/SBYIN SREG_FIRE OFFERING (HOMA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/RDO RJE SHUGS LDAN/SBYIN SREG",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/DIAMOND ANGEL OF POWER (VAJRAVEGA)/FIRE OFFERING (HOMA)",
             "subject_tibetan": "SBYIN SREG",
             "subject_english": "FIRE OFFERING (HOMA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P2596"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/rdo rje shugs ldan_diamond angel of power (vajravega)/sbyin sreg_fire offering (homa)",
-            "timestamp": "2024-09-10T02:08:59.637230+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE SHUGS LDAN_DIAMOND ANGEL OF POWER (VAJRAVEGA)/SBYIN SREG_FIRE OFFERING (HOMA)",
+            "timestamp": "2024-11-20 05:12:18.709777+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:12:18.709777+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

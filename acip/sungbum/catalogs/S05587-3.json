@@ -1,12 +1,12 @@
 {
     "name": "S05587-3_ZAB PA DANG RGYA CHE BA'I DAM PA'I CHOS KYI THOB YIG GANG+G'A'I CHU RGYUN LAS GLEGS BAM GSUM PA_Third Volume of \"The Mighty Flow of the Ganges\"-- a Record of Holy Teachings Received, Deep and Wide_NGAG DBANG BLO BZANG RGYA MTSO (1617-1682).TXT",
-    "path": "gsan yig_records of teachings received/rgyal ba ngag dbang blo bzang rgya mtso_gyalwa ngawang lobsang gyatso (1617-1682)",
-    "download_path": "/sungbum updated 4 26 23 bk/gsan yig_records of teachings received/rgyal ba ngag dbang blo bzang rgya mtso_gyalwa ngawang lobsang gyatso (1617-1682)/s05587-3_zab pa dang rgya che ba'i dam pa'i chos kyi thob yig gang+g'a'i chu rgyun las glegs bam gsum pa_third volume of \"the mighty flow of the ganges\"-- a record of holy teachings received, deep and wide_ngag dbang blo bzang rgya mtso (1617-1682).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAR_w",
-    "revision_id": "613f6664743228d294473",
+    "path": "GSAN YIG_RECORDS OF TEACHINGS RECEIVED/RGYAL BA NGAG DBANG BLO BZANG RGYA MTSO_GYALWA NGAWANG LOBSANG GYATSO (1617-1682)",
+    "download_path": "/sungbum updated 7 30 23 nl/gsan yig_records of teachings received/rgyal ba ngag dbang blo bzang rgya mtso_gyalwa ngawang lobsang gyatso (1617-1682)/s05587-3_zab pa dang rgya che ba'i dam pa'i chos kyi thob yig gang+g'a'i chu rgyun las glegs bam gsum pa_third volume of \"the mighty flow of the ganges\"-- a record of holy teachings received, deep and wide_ngag dbang blo bzang rgya mtso (1617-1682).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABfgA",
+    "revision_id": "625a49f882be48d294473",
     "content_hash": "a1c7e297a664a0b37897287376d5dfdfd9a9deb22454bc69bb621be549b60ecd",
-    "server_modified": "2024-03-18T21:54:19",
-    "last_sync": "2024-09-09T19:19:34.536308",
+    "server_modified": "2024-10-29 21:54:01",
+    "last_sync": "2024-11-19 21:14:18.398645",
     "size": 1113785,
     "meta_text": null,
     "cat_ref": "S05587-3",
@@ -19,10 +19,10 @@
     "author_simple": "RGYAL BA NGAG DBANG BLO BZANG RGYA MTSO",
     "subject": [
         {
-            "_id": "208777245538",
-            "subject_path": "SUNGBUM_SUNGBUM/GSAN YIG_RECORDS OF TEACHINGS RECEIVED/RGYAL BA NGAG DBANG BLO BZANG RGYA MTSO_GYALWA NGAWANG LOBSANG GYATSO (1617-1682)",
-            "subject_path_tibetan": "SUNGBUM/GSAN YIG/RGYAL BA NGAG DBANG BLO BZANG RGYA MTSO",
-            "subject_path_english": "SUNGBUM/RECORDS OF TEACHINGS RECEIVED/GYALWA NGAWANG LOBSANG GYATSO (1617-1682)",
+            "_id": "786832989141",
+            "subject_path": "GSUNG 'BUM_Sungbum/GSAN YIG_RECORDS OF TEACHINGS RECEIVED/RGYAL BA NGAG DBANG BLO BZANG RGYA MTSO_GYALWA NGAWANG LOBSANG GYATSO (1617-1682)",
+            "subject_path_tibetan": "GSUNG 'BUM/GSAN YIG/RGYAL BA NGAG DBANG BLO BZANG RGYA MTSO",
+            "subject_path_english": "Sungbum/RECORDS OF TEACHINGS RECEIVED/GYALWA NGAWANG LOBSANG GYATSO (1617-1682)",
             "subject_tibetan": "RGYAL BA NGAG DBANG BLO BZANG RGYA MTSO",
             "subject_english": "GYALWA NGAWANG LOBSANG GYATSO (1617-1682)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P37"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "gsan yig_records of teachings received/rgyal ba ngag dbang blo bzang rgya mtso_gyalwa ngawang lobsang gyatso (1617-1682)",
-            "timestamp": "2024-09-10T02:19:34.553900+00:00"
+            "path": "GSUNG 'BUM_Sungbum/GSAN YIG_RECORDS OF TEACHINGS RECEIVED/RGYAL BA NGAG DBANG BLO BZANG RGYA MTSO_GYALWA NGAWANG LOBSANG GYATSO (1617-1682)",
+            "timestamp": "2024-11-20 05:14:18.408482+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:14:18.408482+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

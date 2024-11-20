@@ -1,12 +1,12 @@
 {
     "name": "S05547E_RJE BTZUN THAMS CAD MKHYEN PA'I GSUNG 'BUM THOR BU LAS ZHAL GDAMS MGUR MA'I SKOR_Spiritual Songs of Personal Advice, from Assorted Writings found in the Collected Works of the Holy and Omniscient One_RGYAL BA DGE 'DUN RGYA MTSO (1476-1542).txt",
-    "path": "nyams len_personal practice/spyi_general treatments/rgyal ba dge 'dun rgya mtso_his holiness the second dalai lama, gyalwa gendun gyatso (1476-1542)",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/spyi_general treatments/rgyal ba dge 'dun rgya mtso_his holiness the second dalai lama, gyalwa gendun gyatso (1476-1542)/s05547e_rje btzun thams cad mkhyen pa'i gsung 'bum thor bu las zhal gdams mgur ma'i skor_spiritual songs of personal advice, from assorted writings found in the collected works of the holy and omniscient one_rgyal ba dge 'dun rgya mtso (1476-1542).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAAfQ",
-    "revision_id": "613f663b87bc68d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/SPYI_GENERAL TREATMENTS/RGYAL BA DGE 'DUN RGYA MTSO_HIS HOLINESS THE SECOND DALAI LAMA, GYALWA GENDUN GYATSO (1476-1542)",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/spyi_general treatments/rgyal ba dge 'dun rgya mtso_his holiness the second dalai lama, gyalwa gendun gyatso (1476-1542)/s05547e_rje btzun thams cad mkhyen pa'i gsung 'bum thor bu las zhal gdams mgur ma'i skor_spiritual songs of personal advice, from assorted writings found in the collected works of the holy and omniscient one_rgyal ba dge 'dun rgya mtso (1476-1542).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABkIg",
+    "revision_id": "625a4ac5a8e6c8d294473",
     "content_hash": "8e4e941a01f76471938a210777d563693357f2596468a7b990c0d4c83b4ed94d",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:01:30.826711",
+    "server_modified": "2024-10-29 21:57:36",
+    "last_sync": "2024-11-19 21:22:47.393542",
     "size": 69627,
     "meta_text": null,
     "cat_ref": "S05547E",
@@ -19,10 +19,10 @@
     "author_simple": "RGYAL BA DGE 'DUN RGYA MTSO",
     "subject": [
         {
-            "_id": "244427139731",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/SPYI_GENERAL TREATMENTS/RGYAL BA DGE 'DUN RGYA MTSO_HIS HOLINESS THE SECOND DALAI LAMA, GYALWA GENDUN GYATSO (1476-1542)",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/SPYI/RGYAL BA DGE 'DUN RGYA MTSO",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/GENERAL TREATMENTS/HIS HOLINESS THE SECOND DALAI LAMA, GYALWA GENDUN GYATSO (1476-1542)",
+            "_id": "236777425131",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SPYI_GENERAL TREATMENTS/RGYAL BA DGE 'DUN RGYA MTSO_HIS HOLINESS THE SECOND DALAI LAMA, GYALWA GENDUN GYATSO (1476-1542)",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/SPYI/RGYAL BA DGE 'DUN RGYA MTSO",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/GENERAL TREATMENTS/HIS HOLINESS THE SECOND DALAI LAMA, GYALWA GENDUN GYATSO (1476-1542)",
             "subject_tibetan": "RGYAL BA DGE 'DUN RGYA MTSO",
             "subject_english": "HIS HOLINESS THE SECOND DALAI LAMA, GYALWA GENDUN GYATSO (1476-1542)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P84"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/spyi_general treatments/rgyal ba dge 'dun rgya mtso_his holiness the second dalai lama, gyalwa gendun gyatso (1476-1542)",
-            "timestamp": "2024-09-10T02:01:30.832059+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SPYI_GENERAL TREATMENTS/RGYAL BA DGE 'DUN RGYA MTSO_HIS HOLINESS THE SECOND DALAI LAMA, GYALWA GENDUN GYATSO (1476-1542)",
+            "timestamp": "2024-11-20 05:22:47.397431+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:22:47.397431+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

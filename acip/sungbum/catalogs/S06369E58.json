@@ -1,12 +1,12 @@
 {
     "name": "S06369E58_RJE DKON MCHOG BSTAN SGRON GYI GSUNG LA BRTEN NAS SBYAR BA'I MCHOD PA_A Ritual for Offering based on the Words of the Lord, Konchok Tendrun_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/mchod pa_offering",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/mchod pa_offering/s06369e58_rje dkon mchog bstan sgron gyi gsung la brten nas sbyar ba'i mchod pa_a ritual for offering based on the words of the lord, konchok tendrun_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAANDg",
-    "revision_id": "613f6656deddf8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/MCHOD PA_OFFERING",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyi_general treatments/mchod pa_offering/s06369e58_rje dkon mchog bstan sgron gyi gsung la brten nas sbyar ba'i mchod pa_a ritual for offering based on the words of the lord, konchok tendrun_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABY0A",
+    "revision_id": "625a48e9d3a2d8d294473",
     "content_hash": "b42ddfad146980c3ec8ce367222b503ff0dddf2f702beedd9d803bc1fb0c8f0b",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:14:28.439376",
+    "server_modified": "2024-10-29 21:49:17",
+    "last_sync": "2024-11-19 21:03:09.503709",
     "size": 849,
     "meta_text": null,
     "cat_ref": "S06369E58",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "167038433412",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/MCHOD PA_OFFERING",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/MCHOD PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/OFFERING",
+            "_id": "278800248305",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/MCHOD PA_OFFERING",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/MCHOD PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/OFFERING",
             "subject_tibetan": "MCHOD PA",
             "subject_english": "OFFERING"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/mchod pa_offering",
-            "timestamp": "2024-09-10T02:14:28.449179+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/MCHOD PA_OFFERING",
+            "timestamp": "2024-11-20 05:03:09.507733+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:03:09.507733+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

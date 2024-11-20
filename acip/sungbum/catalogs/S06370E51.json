@@ -1,12 +1,12 @@
 {
     "name": "S06370E51_BDUD RTZI'I SPUN ZLA GNYIS PA ZHES PA'I DON GYI BSHAD PA_Response to a Question about the Expression 'Another Brother of Nectar'_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/bdud rtzi_nectar (amirta)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/bdud rtzi_nectar (amirta)/s06370e51_bdud rtzi'i spun zla gnyis pa zhes pa'i don gyi bshad pa_response to a question about the expression 'another brother of nectar'_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAANeg",
-    "revision_id": "613f6656dee4b8d294473",
+    "path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "download_path": "/sungbum updated 7 30 23 nl/dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)/s06370e51_bdud rtzi'i spun zla gnyis pa zhes pa'i don gyi bshad pa_response to a question about the expression 'another brother of nectar'_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABSwg",
+    "revision_id": "625a481e040cc8d294473",
     "content_hash": "8a5c30e465c7562f88998284fbdd983a9e52073ff0f355aed1ebfd3448911786",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:14:51.267160",
+    "server_modified": "2024-10-29 21:45:44",
+    "last_sync": "2024-11-19 20:53:39.980007",
     "size": 1900,
     "meta_text": null,
     "cat_ref": "S06370E51",
@@ -19,20 +19,20 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "148346227456",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BDUD RTZI_NECTAR (AMIRTA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/BDUD RTZI",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/NECTAR (AMIRTA)",
-            "subject_tibetan": "BDUD RTZI",
-            "subject_english": "NECTAR (AMIRTA)"
-        },
-        {
-            "_id": "244831615226",
-            "subject_path": "SUNGBUM_SUNGBUM/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_tibetan": "SUNGBUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_english": "SUNGBUM/QUESTIONS AND ANSWERS",
+            "_id": "250883940513",
+            "subject_path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "GSUNG 'BUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "Sungbum/QUESTIONS AND ANSWERS",
             "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
             "subject_english": "QUESTIONS AND ANSWERS"
+        },
+        {
+            "_id": "201719862685",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BDUD RTZI_NECTAR (AMIRTA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/BDUD RTZI",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/NECTAR (AMIRTA)",
+            "subject_tibetan": "BDUD RTZI",
+            "subject_english": "NECTAR (AMIRTA)"
         }
     ],
     "items": [],
@@ -46,15 +46,29 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/bdud rtzi_nectar (amirta)",
-            "timestamp": "2024-09-10T02:14:51.274222+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "timestamp": "2024-11-20 04:54:07.134936+00:00"
         },
         {
-            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
-            "timestamp": "2024-09-10T02:21:49.496649+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BDUD RTZI_NECTAR (AMIRTA)",
+            "timestamp": "2024-11-20 05:04:29.046282+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:54:07.134936+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T05:04:29.046282+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "text"
 }

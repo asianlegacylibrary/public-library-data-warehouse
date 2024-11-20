@@ -1,12 +1,12 @@
 {
     "name": "S06399M_NYER BSGYUR NYI SHU'I BSHAD SBYAR RGYA MTSO'I CHU THIGS_'A Drop from the Ocean,' being an Explication of the Twenty Prefixes_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "sgra_study of sanskrit/nyer bsgyur_prefixes",
-    "download_path": "/sungbum updated 4 26 23 bk/sgra_study of sanskrit/nyer bsgyur_prefixes/s06399m_nyer bsgyur nyi shu'i bshad sbyar rgya mtso'i chu thigs_'a drop from the ocean,' being an explication of the twenty prefixes_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAASWA",
-    "revision_id": "613f66647437b8d294473",
+    "path": "SGRA_STUDY OF SANSKRIT/NYER BSGYUR_PREFIXES",
+    "download_path": "/sungbum updated 7 30 23 nl/sgra_study of sanskrit/nyer bsgyur_prefixes/s06399m_nyer bsgyur nyi shu'i bshad sbyar rgya mtso'i chu thigs_'a drop from the ocean,' being an explication of the twenty prefixes_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABltQ",
+    "revision_id": "625a4af4e1e0e8d294473",
     "content_hash": "cd0045ea2ff1b1033d626e838caffa852ac3bb94359832d649efcea20bdcd2ac",
-    "server_modified": "2024-03-18T21:54:19",
-    "last_sync": "2024-09-09T19:19:58.399884",
+    "server_modified": "2024-10-29 21:58:26",
+    "last_sync": "2024-11-19 21:25:51.223833",
     "size": 2543,
     "meta_text": null,
     "cat_ref": "S06399M",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "251015985947",
-            "subject_path": "SUNGBUM_SUNGBUM/SGRA_STUDY OF SANSKRIT/NYER BSGYUR_PREFIXES",
-            "subject_path_tibetan": "SUNGBUM/SGRA/NYER BSGYUR",
-            "subject_path_english": "SUNGBUM/STUDY OF SANSKRIT/PREFIXES",
+            "_id": "206578391405",
+            "subject_path": "GSUNG 'BUM_Sungbum/SGRA_STUDY OF SANSKRIT/NYER BSGYUR_PREFIXES",
+            "subject_path_tibetan": "GSUNG 'BUM/SGRA/NYER BSGYUR",
+            "subject_path_english": "Sungbum/STUDY OF SANSKRIT/PREFIXES",
             "subject_tibetan": "NYER BSGYUR",
             "subject_english": "PREFIXES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "sgra_study of sanskrit/nyer bsgyur_prefixes",
-            "timestamp": "2024-09-10T02:19:58.403758+00:00"
+            "path": "GSUNG 'BUM_Sungbum/SGRA_STUDY OF SANSKRIT/NYER BSGYUR_PREFIXES",
+            "timestamp": "2024-11-20 05:25:51.228329+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:25:51.228329+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

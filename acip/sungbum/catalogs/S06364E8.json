@@ -1,14 +1,14 @@
 {
     "name": "S06364E8_PHYAG RDOR GTUM PO KHYUNG LNGA'I BDAG BSKYED RJES GNANG_Method for Granting Permission into the Practice of Making Oneself the Angel, in the Teaching of a Fierce Form of the Holder of Diamond (Vajrapani), the Five Garudas_DNGUL CHU DHARMA BH+.TXT",
-    "path": "rgyud_secret teachings (tantra)/phyag na rdo rje_holder of the diamond (vajrapani)/rnal 'byor_practices",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/phyag na rdo rje_holder of the diamond (vajrapani)/rnal 'byor_practices/s06364e8_phyag rdor gtum po khyung lnga'i bdag bskyed rjes gnang_method for granting permission into the practice of making oneself the angel, in the teaching of a fierce form of the holder of diamond (vajrapani), the five garudas_dngul chu dharma bh+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAK_w",
-    "revision_id": "613f6652789178d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/PHYAG NA RDO RJE_HOLDER OF THE DIAMOND (VAJRAPANI)/RNAL 'BYOR_PRACTICES",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/phyag na rdo rje_holder of the diamond (vajrapani)/rnal 'byor_practices/s06364e8_phyag rdor gtum po khyung lnga'i bdag bskyed rjes gnang_method for granting permission into the practice of making oneself the angel, in the teaching of a fierce form of the holder of diamond (vajrapani), the five garudas_dngul chu dharma bh+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABWmw",
+    "revision_id": "625a48a6ff7368d294473",
     "content_hash": "23949e4e504d23bd95041f782484cc0a886445cfb6e34b029eb31c508d6d660d",
-    "server_modified": "2024-03-18T21:54:00",
-    "last_sync": "2024-09-09T19:12:08.720459",
+    "server_modified": "2024-10-29 21:48:07",
+    "last_sync": "2024-11-19 20:59:20.275960",
     "size": 5570,
-    "meta_text": "ADRA (1772-1851)",
+    "meta_text": "('ADRA (1772-1851)', 'rtf')",
     "cat_ref": "S06364E8",
     "work_ref": "W.S06364E8",
     "title_tib": "PHYAG RDOR GTUM PO KHYUNG LNGA'I BDAG BSKYED RJES GNANG",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "174700660284",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/PHYAG NA RDO RJE_HOLDER OF THE DIAMOND (VAJRAPANI)/RNAL 'BYOR_PRACTICES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/PHYAG NA RDO RJE/RNAL 'BYOR",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/HOLDER OF THE DIAMOND (VAJRAPANI)/PRACTICES",
+            "_id": "102078670199",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/PHYAG NA RDO RJE_HOLDER OF THE DIAMOND (VAJRAPANI)/RNAL 'BYOR_PRACTICES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/PHYAG NA RDO RJE/RNAL 'BYOR",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/HOLDER OF THE DIAMOND (VAJRAPANI)/PRACTICES",
             "subject_tibetan": "RNAL 'BYOR",
             "subject_english": "PRACTICES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/phyag na rdo rje_holder of the diamond (vajrapani)/rnal 'byor_practices",
-            "timestamp": "2024-09-10T02:12:08.736726+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/PHYAG NA RDO RJE_HOLDER OF THE DIAMOND (VAJRAPANI)/RNAL 'BYOR_PRACTICES",
+            "timestamp": "2024-11-20 04:59:21.229833+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:59:21.229833+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

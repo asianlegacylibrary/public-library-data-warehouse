@@ -1,12 +1,12 @@
 {
     "name": "S06369E14_PHYAG CHEN GSOL 'DEBS_Petition to the Lamas of the Lineage of the Great Seal (Mahamudra)_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/phyag rgya chen po_great seal (mahamudra)/bla brgyud_lama lineage trees",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/phyag rgya chen po_great seal (mahamudra)/bla brgyud_lama lineage trees/s06369e14_phyag chen gsol 'debs_petition to the lamas of the lineage of the great seal (mahamudra)_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAITw",
-    "revision_id": "613f664dc426b8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/PHYAG RGYA CHEN PO_GREAT SEAL (MAHAMUDRA)/BLA BRGYUD_LAMA LINEAGE TREES",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/phyag rgya chen po_great seal (mahamudra)/bla brgyud_lama lineage trees/s06369e14_phyag chen gsol 'debs_petition to the lamas of the lineage of the great seal (mahamudra)_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABX4g",
+    "revision_id": "625a48ced0c9d8d294473",
     "content_hash": "b4923966eae3b3b67b59e8688eeb0cd450066c3344d757fdf1a16787d63ac768",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:09:17.320472",
+    "server_modified": "2024-10-29 21:48:49",
+    "last_sync": "2024-11-19 21:01:32.107801",
     "size": 1546,
     "meta_text": null,
     "cat_ref": "S06369E14",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "236450319801",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/PHYAG RGYA CHEN PO_GREAT SEAL (MAHAMUDRA)/BLA BRGYUD_LAMA LINEAGE TREES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/PHYAG RGYA CHEN PO/BLA BRGYUD",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GREAT SEAL (MAHAMUDRA)/LAMA LINEAGE TREES",
+            "_id": "103213831326",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/PHYAG RGYA CHEN PO_GREAT SEAL (MAHAMUDRA)/BLA BRGYUD_LAMA LINEAGE TREES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/PHYAG RGYA CHEN PO/BLA BRGYUD",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GREAT SEAL (MAHAMUDRA)/LAMA LINEAGE TREES",
             "subject_tibetan": "BLA BRGYUD",
             "subject_english": "LAMA LINEAGE TREES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/phyag rgya chen po_great seal (mahamudra)/bla brgyud_lama lineage trees",
-            "timestamp": "2024-09-10T02:09:17.340364+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/PHYAG RGYA CHEN PO_GREAT SEAL (MAHAMUDRA)/BLA BRGYUD_LAMA LINEAGE TREES",
+            "timestamp": "2024-11-20 05:01:32.114499+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:01:32.114499+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

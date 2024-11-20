@@ -1,12 +1,12 @@
 {
     "name": "S00505E_MDO SNGAGS SKOR GYI DRIS LAN SNA TSOGS PHYOGS GCIG TU BSGRIGS PA_A Compilation of Questions and Answers on an Assortment of Subjects from Both the Open and Secret Teachings_SKYABS RJE PHA BONG KHA PA BDE CHEN SNYING PO (1878-1941).TXT",
-    "path": "phran tsegs_miscellaneous/skyabs rje pha bong kha bde chen snying po_kyabje pabongka rinpoche dechen nyingpo (1878-1941)",
-    "download_path": "/sungbum updated 4 26 23 bk/phran tsegs_miscellaneous/skyabs rje pha bong kha bde chen snying po_kyabje pabongka rinpoche dechen nyingpo (1878-1941)/s00505e_mdo sngags skor gyi dris lan sna tsogs phyogs gcig tu bsgrigs pa_a compilation of questions and answers on an assortment of subjects from both the open and secret teachings_skyabs rje pha bong kha pa bde chen snying po (1878-1941).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAGEw",
-    "revision_id": "613f66492f07d8d294473",
+    "path": "PHRAN TSEGS_MISCELLANEOUS/SKYABS RJE PHA BONG KHA BDE CHEN SNYING PO_KYABJE PABONGKA RINPOCHE DECHEN NYINGPO (1878-1941)",
+    "download_path": "/sungbum updated 7 30 23 nl/phran tsegs_miscellaneous/skyabs rje pha bong kha bde chen snying po_kyabje pabongka rinpoche dechen nyingpo (1878-1941)/s00505e_mdo sngags skor gyi dris lan sna tsogs phyogs gcig tu bsgrigs pa_a compilation of questions and answers on an assortment of subjects from both the open and secret teachings_skyabs rje pha bong kha pa bde chen snying po (1878-1941).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABiDg",
+    "revision_id": "625a4a7a6861e8d294473",
     "content_hash": "e26c319632e333071a83ea3c1f0a177dc212103a2f273ea0438e898cfa3fce5e",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:07:12.602490",
+    "server_modified": "2024-10-29 21:56:17",
+    "last_sync": "2024-11-19 21:18:58.820177",
     "size": 311742,
     "meta_text": null,
     "cat_ref": "S00505E",
@@ -19,10 +19,10 @@
     "author_simple": "SKYABS RJE PHA BONG KHA PA BDE CHEN SNYING PO",
     "subject": [
         {
-            "_id": "289650860447",
-            "subject_path": "SUNGBUM_SUNGBUM/PHRAN TSEGS_MISCELLANEOUS/SKYABS RJE PHA BONG KHA BDE CHEN SNYING PO_KYABJE PABONGKA RINPOCHE DECHEN NYINGPO (1878-1941)",
-            "subject_path_tibetan": "SUNGBUM/PHRAN TSEGS/SKYABS RJE PHA BONG KHA BDE CHEN SNYING PO",
-            "subject_path_english": "SUNGBUM/MISCELLANEOUS/KYABJE PABONGKA RINPOCHE DECHEN NYINGPO (1878-1941)",
+            "_id": "128195676938",
+            "subject_path": "GSUNG 'BUM_Sungbum/PHRAN TSEGS_MISCELLANEOUS/SKYABS RJE PHA BONG KHA BDE CHEN SNYING PO_KYABJE PABONGKA RINPOCHE DECHEN NYINGPO (1878-1941)",
+            "subject_path_tibetan": "GSUNG 'BUM/PHRAN TSEGS/SKYABS RJE PHA BONG KHA BDE CHEN SNYING PO",
+            "subject_path_english": "Sungbum/MISCELLANEOUS/KYABJE PABONGKA RINPOCHE DECHEN NYINGPO (1878-1941)",
             "subject_tibetan": "SKYABS RJE PHA BONG KHA BDE CHEN SNYING PO",
             "subject_english": "KYABJE PABONGKA RINPOCHE DECHEN NYINGPO (1878-1941)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P230"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "phran tsegs_miscellaneous/skyabs rje pha bong kha bde chen snying po_kyabje pabongka rinpoche dechen nyingpo (1878-1941)",
-            "timestamp": "2024-09-10T02:07:12.611462+00:00"
+            "path": "GSUNG 'BUM_Sungbum/PHRAN TSEGS_MISCELLANEOUS/SKYABS RJE PHA BONG KHA BDE CHEN SNYING PO_KYABJE PABONGKA RINPOCHE DECHEN NYINGPO (1878-1941)",
+            "timestamp": "2024-11-20 05:18:58.824082+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:18:58.824082+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

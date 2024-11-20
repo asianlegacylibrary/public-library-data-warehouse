@@ -1,28 +1,28 @@
 {
     "name": "S05962E_KHRO MO SME BA BRTZEGS PA'I SGRUB THABS BKRU BYA BA BSRUNG GSUM BYA TSUL DANG BCAS PA_A Group of Three Practices--a Ritual for Reaching the Angel, a Rite of Bathing, and a Ritual for Protecting One's Deeds--according to the Secret Teachings +.TXT",
-    "path": "rgyud_secret teachings (tantra)/sme brtzegs_metsek/sgrub thabs_ritual for reaching the angel (sadhana)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/sme brtzegs_metsek/sgrub thabs_ritual for reaching the angel (sadhana)/s05962e_khro mo sme ba brtzegs pa'i sgrub thabs bkru bya ba bsrung gsum bya tsul dang bcas pa_a group of three practices--a ritual for reaching the angel, a rite of bathing, and a ritual for protecting one's deeds--according to the secret teachings +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAPzw",
-    "revision_id": "613f665fcd5548d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SME BRTZEGS_METSEK/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/sme brtzegs_metsek/sgrub thabs_ritual for reaching the angel (sadhana)/s05962e_khro mo sme ba brtzegs pa'i sgrub thabs bkru bya ba bsrung gsum bya tsul dang bcas pa_a group of three practices--a ritual for reaching the angel, a rite of bathing, and a ritual for protecting one's deeds--according to the secret teachings +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABVuA",
+    "revision_id": "625a4890b0e018d294473",
     "content_hash": "5af18a73249d02654c072fc6e03e60bde9f5aad3634d6cf9a30f379f0afd179c",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:17:16.676060",
+    "server_modified": "2024-10-29 21:47:44",
+    "last_sync": "2024-11-19 20:57:57.530427",
     "size": 8040,
-    "meta_text": "of the Wrathful One, the Protector Metsek_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)",
+    "meta_text": "('of the Wrathful One, the Protector Metsek_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)', 'rtf')",
     "cat_ref": "S05962E",
     "work_ref": "W.S05962E",
     "title_tib": "KHRO MO SME BA BRTZEGS PA'I SGRUB THABS BKRU BYA BA BSRUNG GSUM BYA TSUL DANG BCAS PA",
-    "title_eng": "A Group of Three Practices--a Ritual for Reaching the Angel, a Rite of Bathing, and a Ritual for Protecting One's Deeds--according to the Secret Teachingsof the Wrathful One, the Protector Metsek",
+    "title_eng": "A Group of Three Practices--a Ritual for Reaching the Angel, a Rite of Bathing, and a Ritual for Protecting One's Deeds--according to the Secret Teachings('of the Wrathful One, the Protector Metsek",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "318690261075",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SME BRTZEGS_METSEK/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SME BRTZEGS/SGRUB THABS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/METSEK/RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "_id": "240264659064",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SME BRTZEGS_METSEK/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SME BRTZEGS/SGRUB THABS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/METSEK/RITUAL FOR REACHING THE ANGEL (SADHANA)",
             "subject_tibetan": "SGRUB THABS",
             "subject_english": "RITUAL FOR REACHING THE ANGEL (SADHANA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/sme brtzegs_metsek/sgrub thabs_ritual for reaching the angel (sadhana)",
-            "timestamp": "2024-09-10T02:17:16.681066+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SME BRTZEGS_METSEK/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "timestamp": "2024-11-20 04:57:57.536875+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:57:57.536875+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

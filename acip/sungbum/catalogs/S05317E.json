@@ -1,28 +1,28 @@
 {
     "name": "S05317E_ZAB LAM N'A RO'I CHOS DRUG GI SGO NAS 'KHRID PA'I RIM PA YID CHES GSUM LDAN_The 'Teaching with the Three Qualities of Credibility,' being an Explanation of the Steps by which One Can Guide Disciples by Using the Profound Path of the Six Prac+.TXT",
-    "path": "rgyud_secret teachings (tantra)/na ro chos drug_six practices of naropa/'grel pa_commentaries",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/na ro chos drug_six practices of naropa/'grel pa_commentaries/s05317e_zab lam n'a ro'i chos drug gi sgo nas 'khrid pa'i rim pa yid ches gsum ldan_the 'teaching with the three qualities of credibility,' being an explanation of the steps by which one can guide disciples by using the profound path of the six prac+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAKIQ",
-    "revision_id": "613f6652788398d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/NA RO CHOS DRUG_SIX PRACTICES OF NAROPA/'GREL PA_COMMENTARIES",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/na ro chos drug_six practices of naropa/'grel pa_commentaries/s05317e_zab lam n'a ro'i chos drug gi sgo nas 'khrid pa'i rim pa yid ches gsum ldan_the 'teaching with the three qualities of credibility,' being an explanation of the steps by which one can guide disciples by using the profound path of the six prac+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABcyQ",
+    "revision_id": "625a4982f02708d294473",
     "content_hash": "e799e2d5ba85269c3ce4c0bb21e5e3c71d8a9e80b71148998f33b1d36bc0b529",
-    "server_modified": "2024-03-18T21:54:00",
-    "last_sync": "2024-09-09T19:11:07.656475",
+    "server_modified": "2024-10-29 21:51:58",
+    "last_sync": "2024-11-19 21:09:31.852072",
     "size": 174294,
-    "meta_text": "tices of Naropa_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)",
+    "meta_text": "('tices of Naropa_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)', 'rtf')",
     "cat_ref": "S05317E",
     "work_ref": "W.S05317E",
     "title_tib": "ZAB LAM N'A RO'I CHOS DRUG GI SGO NAS 'KHRID PA'I RIM PA YID CHES GSUM LDAN",
-    "title_eng": "The 'Teaching with the Three Qualities of Credibility,' being an Explanation of the Steps by which One Can Guide Disciples by Using the Profound Path of the Six Practices of Naropa",
+    "title_eng": "The 'Teaching with the Three Qualities of Credibility,' being an Explanation of the Steps by which One Can Guide Disciples by Using the Profound Path of the Six Prac('tices of Naropa",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "135323875572",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/NA RO CHOS DRUG_SIX PRACTICES OF NAROPA/'GREL PA_COMMENTARIES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/NA RO CHOS DRUG/'GREL PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/SIX PRACTICES OF NAROPA/COMMENTARIES",
+            "_id": "311761277996",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/NA RO CHOS DRUG_SIX PRACTICES OF NAROPA/'GREL PA_COMMENTARIES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/NA RO CHOS DRUG/'GREL PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/SIX PRACTICES OF NAROPA/COMMENTARIES",
             "subject_tibetan": "'GREL PA",
             "subject_english": "COMMENTARIES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/na ro chos drug_six practices of naropa/'grel pa_commentaries",
-            "timestamp": "2024-09-10T02:11:07.691323+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/NA RO CHOS DRUG_SIX PRACTICES OF NAROPA/'GREL PA_COMMENTARIES",
+            "timestamp": "2024-11-20 05:09:31.861289+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:09:31.861289+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,12 +1,12 @@
 {
     "name": "S05275E27_RJE BTZUN SPYAN RAS GZIGS LA PHYAG 'TSAL BA_An Obeisance to the Revered Loving Eyes (Avalokiteshvara)_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419).TXT",
-    "path": "rgyud_secret teachings (tantra)/spyan ras gzigs_loving eyes (avalokiteshvara)/bstod pa_songs of praise (stotra)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyan ras gzigs_loving eyes (avalokiteshvara)/bstod pa_songs of praise (stotra)/s05275e27_rje btzun spyan ras gzigs la phyag 'tsal ba_an obeisance to the revered loving eyes (avalokiteshvara)_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAHSQ",
-    "revision_id": "613f66492f1b38d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYAN RAS GZIGS_LOVING EYES (AVALOKITESHVARA)/BSTOD PA_SONGS OF PRAISE (STOTRA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyan ras gzigs_loving eyes (avalokiteshvara)/bstod pa_songs of praise (stotra)/s05275e27_rje btzun spyan ras gzigs la phyag 'tsal ba_an obeisance to the revered loving eyes (avalokiteshvara)_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABcew",
+    "revision_id": "625a497b246418d294473",
     "content_hash": "110d7fb449b926d7f244017c3a47e02730d0f71d4fdafe9b9dbf7414b2aa2cbd",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:08:21.797191",
+    "server_modified": "2024-10-29 21:51:50",
+    "last_sync": "2024-11-19 21:09:01.543563",
     "size": 573,
     "meta_text": null,
     "cat_ref": "S05275E27",
@@ -19,10 +19,10 @@
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "179787325174",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYAN RAS GZIGS_LOVING EYES (AVALOKITESHVARA)/BSTOD PA_SONGS OF PRAISE (STOTRA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYAN RAS GZIGS/BSTOD PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/LOVING EYES (AVALOKITESHVARA)/SONGS OF PRAISE (STOTRA)",
+            "_id": "160238808740",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYAN RAS GZIGS_LOVING EYES (AVALOKITESHVARA)/BSTOD PA_SONGS OF PRAISE (STOTRA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYAN RAS GZIGS/BSTOD PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/LOVING EYES (AVALOKITESHVARA)/SONGS OF PRAISE (STOTRA)",
             "subject_tibetan": "BSTOD PA",
             "subject_english": "SONGS OF PRAISE (STOTRA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyan ras gzigs_loving eyes (avalokiteshvara)/bstod pa_songs of praise (stotra)",
-            "timestamp": "2024-09-10T02:08:21.813268+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYAN RAS GZIGS_LOVING EYES (AVALOKITESHVARA)/BSTOD PA_SONGS OF PRAISE (STOTRA)",
+            "timestamp": "2024-11-20 05:09:01.548252+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:09:01.548252+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

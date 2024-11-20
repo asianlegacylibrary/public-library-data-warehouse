@@ -1,12 +1,12 @@
 {
     "name": "S06370EC8_MKHA' 'GRO SDE LNGA'I BSNYEN PA'I SKABS KYI SKOR GYI DRI LAN_Response to a Question on the Retreat of the Five Groups of Angels_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/mkha' 'gro sde lnga_five groups of angels/'grel pa_commentaries",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/mkha' 'gro sde lnga_five groups of angels/'grel pa_commentaries/s06370ec8_mkha' 'gro sde lnga'i bsnyen pa'i skabs kyi skor gyi dri lan_response to a question on the retreat of the five groups of angels_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAARew",
-    "revision_id": "613f665fcd7008d294473",
+    "path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "download_path": "/sungbum updated 7 30 23 nl/dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)/s06370ec8_mkha' 'gro sde lnga'i bsnyen pa'i skabs kyi skor gyi dri lan_response to a question on the retreat of the five groups of angels_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABTCA",
+    "revision_id": "625a4828621b28d294473",
     "content_hash": "4f96f999a710c2f4a1025814cc457b8cedecce1bad1d82eb0e9f887b00ca4e4a",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:19:05.065744",
+    "server_modified": "2024-10-29 21:45:54",
+    "last_sync": "2024-11-19 20:53:47.676476",
     "size": 976,
     "meta_text": null,
     "cat_ref": "S06370EC8",
@@ -19,20 +19,20 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "327871800900",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/MKHA' 'GRO SDE LNGA_FIVE GROUPS OF ANGELS/'GREL PA_COMMENTARIES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/MKHA' 'GRO SDE LNGA/'GREL PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/FIVE GROUPS OF ANGELS/COMMENTARIES",
-            "subject_tibetan": "'GREL PA",
-            "subject_english": "COMMENTARIES"
-        },
-        {
-            "_id": "244831615226",
-            "subject_path": "SUNGBUM_SUNGBUM/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_tibetan": "SUNGBUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_english": "SUNGBUM/QUESTIONS AND ANSWERS",
+            "_id": "250883940513",
+            "subject_path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "GSUNG 'BUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "Sungbum/QUESTIONS AND ANSWERS",
             "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
             "subject_english": "QUESTIONS AND ANSWERS"
+        },
+        {
+            "_id": "254183738631",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/MKHA' 'GRO SDE LNGA_FIVE GROUPS OF ANGELS/'GREL PA_COMMENTARIES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/MKHA' 'GRO SDE LNGA/'GREL PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/FIVE GROUPS OF ANGELS/COMMENTARIES",
+            "subject_tibetan": "'GREL PA",
+            "subject_english": "COMMENTARIES"
         }
     ],
     "items": [],
@@ -46,15 +46,29 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/mkha' 'gro sde lnga_five groups of angels/'grel pa_commentaries",
-            "timestamp": "2024-09-10T02:19:05.067227+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "timestamp": "2024-11-20 04:54:07.136888+00:00"
         },
         {
-            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
-            "timestamp": "2024-09-10T02:21:49.590190+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/MKHA' 'GRO SDE LNGA_FIVE GROUPS OF ANGELS/'GREL PA_COMMENTARIES",
+            "timestamp": "2024-11-20 05:00:40.432691+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:54:07.136888+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T05:00:40.432691+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "text"
 }

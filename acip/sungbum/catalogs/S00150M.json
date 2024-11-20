@@ -1,12 +1,12 @@
 {
     "name": "S00150M_RNAM THAR BKA' RTZOM_The Autobiography of Changkya Ngawang Lobsang Chunden_LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN (1642-1714).TXT",
-    "path": "rnam thar_biographies/mtsan thog_by person's name/lcang skya ngag dbang blo bzang chos ldan_changkya ngawang lobsang chunden",
-    "download_path": "/sungbum updated 4 26 23 bk/rnam thar_biographies/mtsan thog_by person's name/lcang skya ngag dbang blo bzang chos ldan_changkya ngawang lobsang chunden/s00150m_rnam thar bka' rtzom_the autobiography of changkya ngawang lobsang chunden_lcang skya ngag dbang blo bzang chos ldan (1642-1714).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAW7g",
-    "revision_id": "613f666d20a0a8d294473",
+    "path": "RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN_CHANGKYA NGAWANG LOBSANG CHUNDEN",
+    "download_path": "/sungbum updated 7 30 23 nl/rnam thar_biographies/mtsan thog_by person's name/lcang skya ngag dbang blo bzang chos ldan_changkya ngawang lobsang chunden/s00150m_rnam thar bka' rtzom_the autobiography of changkya ngawang lobsang chunden_lcang skya ngag dbang blo bzang chos ldan (1642-1714).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABgNQ",
+    "revision_id": "625a4a19910428d294473",
     "content_hash": "6e2deb11096e533cdb2d1ee9dbd9adf73112156312eb5676be733852fd04fa54",
-    "server_modified": "2024-03-18T21:54:28",
-    "last_sync": "2024-09-09T19:24:16.651669",
+    "server_modified": "2024-10-29 21:54:36",
+    "last_sync": "2024-11-19 21:15:51.059394",
     "size": 87805,
     "meta_text": null,
     "cat_ref": "S00150M",
@@ -19,10 +19,10 @@
     "author_simple": "LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN",
     "subject": [
         {
-            "_id": "196089793740",
-            "subject_path": "SUNGBUM_SUNGBUM/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN_CHANGKYA NGAWANG LOBSANG CHUNDEN",
-            "subject_path_tibetan": "SUNGBUM/RNAM THAR/MTSAN THOG/LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN",
-            "subject_path_english": "SUNGBUM/BIOGRAPHIES/BY PERSON'S NAME/CHANGKYA NGAWANG LOBSANG CHUNDEN",
+            "_id": "917276951921",
+            "subject_path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN_CHANGKYA NGAWANG LOBSANG CHUNDEN",
+            "subject_path_tibetan": "GSUNG 'BUM/RNAM THAR/MTSAN THOG/LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN",
+            "subject_path_english": "Sungbum/BIOGRAPHIES/BY PERSON'S NAME/CHANGKYA NGAWANG LOBSANG CHUNDEN",
             "subject_tibetan": "LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN",
             "subject_english": "CHANGKYA NGAWANG LOBSANG CHUNDEN"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P209"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rnam thar_biographies/mtsan thog_by person's name/lcang skya ngag dbang blo bzang chos ldan_changkya ngawang lobsang chunden",
-            "timestamp": "2024-09-10T02:24:16.658466+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN_CHANGKYA NGAWANG LOBSANG CHUNDEN",
+            "timestamp": "2024-11-20 05:15:51.063816+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:15:51.063816+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

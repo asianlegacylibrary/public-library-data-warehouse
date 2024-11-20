@@ -1,28 +1,28 @@
 {
     "name": "S00258A_DPAL RDO RJE 'JIGS BYED KYI RIM PA DANG PO'I KHRID RGYUN MAN NGAG SNANG BRNYAN KUN 'CHAR GSAL BA'I ME LONG 'JIGS BYED BSKYED RIM_'A Crystal Mirror in Which Every Image is Reflected,' being Advices on the Tradition of Instruction for the firs +.TXT",
-    "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/'grel pa_commentaries",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/'grel pa_commentaries/s00258a_dpal rdo rje 'jigs byed kyi rim pa dang po'i khrid rgyun man ngag snang brnyan kun 'char gsal ba'i me long 'jigs byed bskyed rim_'a crystal mirror in which every image is reflected,' being advices on the tradition of instruction for the firs +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAMsA",
-    "revision_id": "613f6656ded818d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/'GREL PA_COMMENTARIES",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/'grel pa_commentaries/s00258a_dpal rdo rje 'jigs byed kyi rim pa dang po'i khrid rgyun man ngag snang brnyan kun 'char gsal ba'i me long 'jigs byed bskyed rim_'a crystal mirror in which every image is reflected,' being advices on the tradition of instruction for the firs +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABd-g",
+    "revision_id": "625a49ae5a3e28d294473",
     "content_hash": "118578a199ebce50578aac41eb3e2827112a281af81dc99598a2d14685c220d0",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:14:03.432911",
+    "server_modified": "2024-10-29 21:52:43",
+    "last_sync": "2024-11-19 21:11:42.219292",
     "size": 127272,
-    "meta_text": "t of the Stages, in the Tradition of the Glorious Diamond Frightener (Vajra Bhairava)_CO NE  BLA MA GRAGS PA BSHAD SGRUB (1675-1748)",
+    "meta_text": "('t of the Stages, in the Tradition of the Glorious Diamond Frightener (Vajra Bhairava)_CO NE  BLA MA GRAGS PA BSHAD SGRUB (1675-1748)', 'rtf')",
     "cat_ref": "S00258A",
     "work_ref": "W.S00258A",
     "title_tib": "DPAL RDO RJE 'JIGS BYED KYI RIM PA DANG PO'I KHRID RGYUN MAN NGAG SNANG BRNYAN KUN 'CHAR GSAL BA'I ME LONG 'JIGS BYED BSKYED RIM",
-    "title_eng": "'A Crystal Mirror in Which Every Image is Reflected,' being Advices on the Tradition of Instruction for the first of the Stages, in the Tradition of the Glorious Diamond Frightener (Vajra Bhairava)",
+    "title_eng": "'A Crystal Mirror in Which Every Image is Reflected,' being Advices on the Tradition of Instruction for the firs('t of the Stages, in the Tradition of the Glorious Diamond Frightener (Vajra Bhairava)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "CO NE BLA MA GRAGS PA BSHAD SGRUB",
     "subject": [
         {
-            "_id": "150859866092",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/'GREL PA_COMMENTARIES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/'JIGS BYED/'GREL PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/COMMENTARIES",
+            "_id": "249068582631",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/'GREL PA_COMMENTARIES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/'JIGS BYED/'GREL PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/COMMENTARIES",
             "subject_tibetan": "'GREL PA",
             "subject_english": "COMMENTARIES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P1629"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/'grel pa_commentaries",
-            "timestamp": "2024-09-10T02:14:03.447089+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/'GREL PA_COMMENTARIES",
+            "timestamp": "2024-11-20 05:11:43.043580+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:11:43.043580+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

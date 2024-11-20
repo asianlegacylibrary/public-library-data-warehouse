@@ -1,14 +1,14 @@
 {
     "name": "S19050E_GZUNGS 'BUL GYI LHAN THABS GNOD SBYIN DANG TSOGS BDAG GI 'KHOR LO'I SGRUB THABS_A Ritual for Reaching the Groups of the Spirits of Harm and the Lord of the Gathering (Ganapati), An Addendum to the Ceremony on Loading Holy Objects_'JAM DBYANG+.TXT",
-    "path": "rgyud_secret teachings (tantra)/tsogs bdag_lord of the gathering (ganapati)/sgrubs thabs (sadhana)_ritual for reaching the angel",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/tsogs bdag_lord of the gathering (ganapati)/sgrubs thabs (sadhana)_ritual for reaching the angel/s19050e_gzungs 'bul gyi lhan thabs gnod sbyin dang tsogs bdag gi 'khor lo'i sgrub thabs_a ritual for reaching the groups of the spirits of harm and the lord of the gathering (ganapati), an addendum to the ceremony on loading holy objects_'jam dbyang+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAJ3A",
-    "revision_id": "613f6652787f48d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/TSOGS BDAG_LORD OF THE GATHERING (GANAPATI)/SGRUBS THABS (SADHANA)_RITUAL FOR REACHING THE ANGEL",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/tsogs bdag_lord of the gathering (ganapati)/sgrubs thabs (sadhana)_ritual for reaching the angel/s19050e_gzungs 'bul gyi lhan thabs gnod sbyin dang tsogs bdag gi 'khor lo'i sgrub thabs_a ritual for reaching the groups of the spirits of harm and the lord of the gathering (ganapati), an addendum to the ceremony on loading holy objects_'jam dbyang+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABVbg",
+    "revision_id": "625a488768e508d294473",
     "content_hash": "87e5f469e18db753882cf07fcbe2b67327a21be77a964cf57f0d12352976e242",
-    "server_modified": "2024-03-18T21:54:00",
-    "last_sync": "2024-09-09T19:10:53.155822",
+    "server_modified": "2024-10-29 21:47:34",
+    "last_sync": "2024-11-19 20:57:29.452671",
     "size": 13179,
-    "meta_text": "S BZHAD PA'I RDO RJE (1648-1721)",
+    "meta_text": "(\"S BZHAD PA'I RDO RJE (1648-1721)\", 'rtf')",
     "cat_ref": "S19050E",
     "work_ref": "W.S19050E",
     "title_tib": "GZUNGS 'BUL GYI LHAN THABS GNOD SBYIN DANG TSOGS BDAG GI 'KHOR LO'I SGRUB THABS",
@@ -19,10 +19,10 @@
     "author_simple": "'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS",
     "subject": [
         {
-            "_id": "817988815414",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/TSOGS BDAG_LORD OF THE GATHERING (GANAPATI)/SGRUBS THABS (SADHANA)_RITUAL FOR REACHING THE ANGEL",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/TSOGS BDAG/SGRUBS THABS (SADHANA)",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/LORD OF THE GATHERING (GANAPATI)/RITUAL FOR REACHING THE ANGEL",
+            "_id": "218751289598",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/TSOGS BDAG_LORD OF THE GATHERING (GANAPATI)/SGRUBS THABS (SADHANA)_RITUAL FOR REACHING THE ANGEL",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/TSOGS BDAG/SGRUBS THABS (SADHANA)",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/LORD OF THE GATHERING (GANAPATI)/RITUAL FOR REACHING THE ANGEL",
             "subject_tibetan": "SGRUBS THABS (SADHANA)",
             "subject_english": "RITUAL FOR REACHING THE ANGEL"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P423"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/tsogs bdag_lord of the gathering (ganapati)/sgrubs thabs (sadhana)_ritual for reaching the angel",
-            "timestamp": "2024-09-10T02:10:53.174388+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/TSOGS BDAG_LORD OF THE GATHERING (GANAPATI)/SGRUBS THABS (SADHANA)_RITUAL FOR REACHING THE ANGEL",
+            "timestamp": "2024-11-20 04:57:29.458796+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:57:29.458796+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "rtf"
 }

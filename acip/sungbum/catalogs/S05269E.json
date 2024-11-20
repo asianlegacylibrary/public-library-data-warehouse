@@ -1,12 +1,12 @@
 {
     "name": "S05269E_BLA MA LNGA BCU PA'I RNAM BSHAD_Elucidation of 'The Fifty Verses on Lamas'_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419).TXT",
-    "path": "rgyud_secret teachings (tantra)/bla ma lnga bcu pa_50 verses on lamas (gurupanchasika)/'grel pa_commentaries",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/bla ma lnga bcu pa_50 verses on lamas (gurupanchasika)/'grel pa_commentaries/s05269e_bla ma lnga bcu pa'i rnam bshad_elucidation of 'the fifty verses on lamas'_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAALVg",
-    "revision_id": "613f66527896e8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/BLA MA LNGA BCU PA_50 VERSES ON LAMAS (GURUPANCHASIKA)/'GREL PA_COMMENTARIES",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/bla ma lnga bcu pa_50 verses on lamas (gurupanchasika)/'grel pa_commentaries/s05269e_bla ma lnga bcu pa'i rnam bshad_elucidation of 'the fifty verses on lamas'_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABVig",
+    "revision_id": "625a488abebd48d294473",
     "content_hash": "d42b711b5c498bcf437f2e1c036e29e3d8bfcc5635e7278a782fdd584d3cc7ee",
-    "server_modified": "2024-03-18T21:54:00",
-    "last_sync": "2024-09-09T19:12:32.213005",
+    "server_modified": "2024-10-29 21:47:38",
+    "last_sync": "2024-11-19 20:57:30.942042",
     "size": 79404,
     "meta_text": null,
     "cat_ref": "S05269E",
@@ -19,10 +19,10 @@
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "189284118758",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/BLA MA LNGA BCU PA_50 VERSES ON LAMAS (GURUPANCHASIKA)/'GREL PA_COMMENTARIES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/BLA MA LNGA BCU PA/'GREL PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/50 VERSES ON LAMAS (GURUPANCHASIKA)/COMMENTARIES",
+            "_id": "136842489523",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BLA MA LNGA BCU PA_50 VERSES ON LAMAS (GURUPANCHASIKA)/'GREL PA_COMMENTARIES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/BLA MA LNGA BCU PA/'GREL PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/50 VERSES ON LAMAS (GURUPANCHASIKA)/COMMENTARIES",
             "subject_tibetan": "'GREL PA",
             "subject_english": "COMMENTARIES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/bla ma lnga bcu pa_50 verses on lamas (gurupanchasika)/'grel pa_commentaries",
-            "timestamp": "2024-09-10T02:12:32.224805+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BLA MA LNGA BCU PA_50 VERSES ON LAMAS (GURUPANCHASIKA)/'GREL PA_COMMENTARIES",
+            "timestamp": "2024-11-20 04:57:30.950540+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:57:30.950540+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

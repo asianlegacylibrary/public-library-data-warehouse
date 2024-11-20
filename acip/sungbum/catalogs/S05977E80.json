@@ -1,12 +1,12 @@
 {
     "name": "S05977E80_BSTAN SKYONG SGROL MA BCU GNYIS LA MCHOD GTOR 'BUL TSUL_Instructions for Making Torma-Cake Offerings to the Twelve Ladies of Liberation, Protectors of the Teaching_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662).TXT",
-    "path": "rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/gtor ma_offering cake (bali)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/gtor ma_offering cake (bali)/s05977e80_bstan skyong sgrol ma bcu gnyis la mchod gtor 'bul tsul_instructions for making torma-cake offerings to the twelve ladies of liberation, protectors of the teaching_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAQSg",
-    "revision_id": "613f665fcd5cf8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/GTOR MA_OFFERING CAKE (BALI)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/gtor ma_offering cake (bali)/s05977e80_bstan skyong sgrol ma bcu gnyis la mchod gtor 'bul tsul_instructions for making torma-cake offerings to the twelve ladies of liberation, protectors of the teaching_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABYgQ",
+    "revision_id": "625a48e0457a88d294473",
     "content_hash": "58e25091c89b1da58674632551679227e6cab28a404646a723f60d760da63542",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:17:45.069452",
+    "server_modified": "2024-10-29 21:49:07",
+    "last_sync": "2024-11-19 21:02:31.807321",
     "size": 8025,
     "meta_text": null,
     "cat_ref": "S05977E80",
@@ -19,10 +19,10 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "323749683945",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/GTOR MA_OFFERING CAKE (BALI)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SGROL MA/GTOR MA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/LADY OF LIBERATION (TARA)/OFFERING CAKE (BALI)",
+            "_id": "285069517381",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/GTOR MA_OFFERING CAKE (BALI)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SGROL MA/GTOR MA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/LADY OF LIBERATION (TARA)/OFFERING CAKE (BALI)",
             "subject_tibetan": "GTOR MA",
             "subject_english": "OFFERING CAKE (BALI)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/gtor ma_offering cake (bali)",
-            "timestamp": "2024-09-10T02:17:45.072724+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/GTOR MA_OFFERING CAKE (BALI)",
+            "timestamp": "2024-11-20 05:02:31.814265+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:02:31.814265+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

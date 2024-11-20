@@ -1,13 +1,13 @@
 {
     "name": "S05977M24_SPYOD 'JUG KHA TON DU BYED PA'I SNGON DU GDON PA_Verses to be Spoken prior to Reciting 'The Guide to the Bodhisattva's Way of Life'_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662).TXT",
-    "path": "bstod pa_eulogies (stotra)/zla ba grags pa (chandrakirti)",
-    "download_path": "/sungbum updated 4 26 23 bk/bstod pa_eulogies (stotra)/zla ba grags pa (chandrakirti)/s05977m24_spyod 'jug kha ton du byed pa'i sngon du gdon pa_verses to be spoken prior to reciting 'the guide to the bodhisattva's way of life'_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAFMQ",
-    "revision_id": "613f664484a558d294473",
-    "content_hash": "0ca5fadc84cc5bcc6f696bfadfdc41b62e942e52c4e540076d629cb1699a3cbf",
-    "server_modified": "2024-03-18T21:53:45",
-    "last_sync": "2024-09-09T19:06:21.850026",
-    "size": 494,
+    "path": "BSTOD PA_EULOGIES (STOTRA)/ZHI BA LHA (SHANTIDEVA)",
+    "download_path": "/sungbum updated 7 30 23 nl/bstod pa_eulogies (stotra)/zhi ba lha (shantideva)/s05977m24_spyod 'jug kha ton du byed pa'i sngon du gdon pa_verses to be spoken prior to reciting 'the guide to the bodhisattva's way of life'_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABQbw",
+    "revision_id": "625a47c18e9b88d294473",
+    "content_hash": "7fabc924bcd5d00e124994ecf5d045f12b5600eebd30d45fa4cf2eea6ef958a3",
+    "server_modified": "2024-10-29 21:44:07",
+    "last_sync": "2024-11-19 20:49:52.343707",
+    "size": 762,
     "meta_text": null,
     "cat_ref": "S05977M24",
     "work_ref": "W.S05977M24",
@@ -19,19 +19,19 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "167195939703",
-            "subject_path": "SUNGBUM_SUNGBUM/BSTOD PA_EULOGIES (STOTRA)/ZLA BA GRAGS PA (CHANDRAKIRTI)",
-            "subject_path_tibetan": "SUNGBUM/BSTOD PA/ZLA BA GRAGS PA (CHANDRAKIRTI)",
-            "subject_path_english": "SUNGBUM/EULOGIES (STOTRA)",
-            "subject_tibetan": "ZLA BA GRAGS PA (CHANDRAKIRTI)",
+            "_id": "418841546615",
+            "subject_path": "GSUNG 'BUM_Sungbum/BSTOD PA_EULOGIES (STOTRA)/ZHI BA LHA (SHANTIDEVA)",
+            "subject_path_tibetan": "GSUNG 'BUM/BSTOD PA/ZHI BA LHA (SHANTIDEVA)",
+            "subject_path_english": "Sungbum/EULOGIES (STOTRA)",
+            "subject_tibetan": "ZHI BA LHA (SHANTIDEVA)",
             "subject_english": "EULOGIES (STOTRA)"
         },
         {
-            "_id": "297927726777",
-            "subject_path": "SUNGBUM_SUNGBUM/BSTOD PA_EULOGIES (STOTRA)/ZHI BA LHA (SHANTIDEVA)",
-            "subject_path_tibetan": "SUNGBUM/BSTOD PA/ZHI BA LHA (SHANTIDEVA)",
-            "subject_path_english": "SUNGBUM/EULOGIES (STOTRA)",
-            "subject_tibetan": "ZHI BA LHA (SHANTIDEVA)",
+            "_id": "601423120315",
+            "subject_path": "GSUNG 'BUM_Sungbum/BSTOD PA_EULOGIES (STOTRA)/ZLA BA GRAGS PA (CHANDRAKIRTI)",
+            "subject_path_tibetan": "GSUNG 'BUM/BSTOD PA/ZLA BA GRAGS PA (CHANDRAKIRTI)",
+            "subject_path_english": "Sungbum/EULOGIES (STOTRA)",
+            "subject_tibetan": "ZLA BA GRAGS PA (CHANDRAKIRTI)",
             "subject_english": "EULOGIES (STOTRA)"
         }
     ],
@@ -46,15 +46,29 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "bstod pa_eulogies (stotra)/zla ba grags pa (chandrakirti)",
-            "timestamp": "2024-09-10T02:06:21.856139+00:00"
+            "path": "GSUNG 'BUM_Sungbum/BSTOD PA_EULOGIES (STOTRA)/ZHI BA LHA (SHANTIDEVA)",
+            "timestamp": "2024-11-20 04:49:52.352862+00:00"
         },
         {
-            "path": "bstod pa_eulogies (stotra)/zhi ba lha (shantideva)",
-            "timestamp": "2024-09-10T02:06:34.010644+00:00"
+            "path": "GSUNG 'BUM_Sungbum/BSTOD PA_EULOGIES (STOTRA)/ZLA BA GRAGS PA (CHANDRAKIRTI)",
+            "timestamp": "2024-11-20 04:50:31.679197+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:49:52.352862+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T04:50:31.679197+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "text"
 }

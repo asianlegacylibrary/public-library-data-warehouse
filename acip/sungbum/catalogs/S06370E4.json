@@ -1,12 +1,12 @@
 {
     "name": "S06370E4_BCU GCIG ZHAL GYI GZUNGS RING GI SNGAGS DON_Meaning of the Long Mantra in the Practice of the Eleven-Faced One (Ekadasha Mukha)_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/zhal bcu gcig_eleven-faced one (ekadashamukha)/sngags_secret words (mantra)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/zhal bcu gcig_eleven-faced one (ekadashamukha)/sngags_secret words (mantra)/s06370e4_bcu gcig zhal gyi gzungs ring gi sngags don_meaning of the long mantra in the practice of the eleven-faced one (ekadasha mukha)_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAHZg",
-    "revision_id": "613f66492f1d08d294473",
+    "path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "download_path": "/sungbum updated 7 30 23 nl/dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)/s06370e4_bcu gcig zhal gyi gzungs ring gi sngags don_meaning of the long mantra in the practice of the eleven-faced one (ekadasha mukha)_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABTMQ",
+    "revision_id": "625a482eea4418d294473",
     "content_hash": "55c7b130e6f4be000137cf1eae8c76cd8b6fde225850f3b4cd252606cf4ab404",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:08:28.939937",
+    "server_modified": "2024-10-29 21:46:01",
+    "last_sync": "2024-11-19 20:53:51.850721",
     "size": 1138,
     "meta_text": null,
     "cat_ref": "S06370E4",
@@ -19,20 +19,20 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "149590749483",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/ZHAL BCU GCIG_ELEVEN-FACED ONE (EKADASHAMUKHA)/SNGAGS_SECRET WORDS (MANTRA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/ZHAL BCU GCIG/SNGAGS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/ELEVEN-FACED ONE (EKADASHAMUKHA)/SECRET WORDS (MANTRA)",
-            "subject_tibetan": "SNGAGS",
-            "subject_english": "SECRET WORDS (MANTRA)"
-        },
-        {
-            "_id": "244831615226",
-            "subject_path": "SUNGBUM_SUNGBUM/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_tibetan": "SUNGBUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_english": "SUNGBUM/QUESTIONS AND ANSWERS",
+            "_id": "250883940513",
+            "subject_path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "GSUNG 'BUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "Sungbum/QUESTIONS AND ANSWERS",
             "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
             "subject_english": "QUESTIONS AND ANSWERS"
+        },
+        {
+            "_id": "240731456898",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/ZHAL BCU GCIG_ELEVEN-FACED ONE (EKADASHAMUKHA)/SNGAGS_SECRET WORDS (MANTRA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/ZHAL BCU GCIG/SNGAGS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/ELEVEN-FACED ONE (EKADASHAMUKHA)/SECRET WORDS (MANTRA)",
+            "subject_tibetan": "SNGAGS",
+            "subject_english": "SECRET WORDS (MANTRA)"
         }
     ],
     "items": [],
@@ -46,15 +46,29 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/zhal bcu gcig_eleven-faced one (ekadashamukha)/sngags_secret words (mantra)",
-            "timestamp": "2024-09-10T02:08:28.946890+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "timestamp": "2024-11-20 04:54:07.138352+00:00"
         },
         {
-            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
-            "timestamp": "2024-09-10T02:21:49.635274+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/ZHAL BCU GCIG_ELEVEN-FACED ONE (EKADASHAMUKHA)/SNGAGS_SECRET WORDS (MANTRA)",
+            "timestamp": "2024-11-20 04:58:13.863936+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:54:07.138352+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T04:58:13.863936+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,12 +1,12 @@
 {
     "name": "S12254E_RANG DGON GYI BSTAN RTZIS_A Chronology of the History of Our Own Monastery_RJE BTZUN BLO BZANG RTA DBYANGS (1867-1937).TXT",
-    "path": "chos 'byung_religious histories/lo rim_religious histories dated by year",
-    "download_path": "/sungbum updated 4 26 23 bk/chos 'byung_religious histories/lo rim_religious histories dated by year/s12254e_rang dgon gyi bstan rtzis_a chronology of the history of our own monastery_rje btzun blo bzang rta dbyangs (1867-1937).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAARug",
-    "revision_id": "613f6664742dd8d294473",
+    "path": "CHOS 'BYUNG_RELIGIOUS HISTORIES/LO RIM_RELIGIOUS HISTORIES DATED BY YEAR",
+    "download_path": "/sungbum updated 7 30 23 nl/chos 'byung_religious histories/lo rim_religious histories dated by year/s12254e_rang dgon gyi bstan rtzis_a chronology of the history of our own monastery_rje btzun blo bzang rta dbyangs (1867-1937).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABT-Q",
+    "revision_id": "625a4854e1aff8d294473",
     "content_hash": "7b179cacc1ccfbd007b4875ccf77ae552fa16604d815065f3768a6762e71539c",
-    "server_modified": "2024-03-18T21:54:19",
-    "last_sync": "2024-09-09T19:19:19.067934",
+    "server_modified": "2024-10-29 21:46:41",
+    "last_sync": "2024-11-19 20:54:51.167315",
     "size": 7020,
     "meta_text": null,
     "cat_ref": "S12254E",
@@ -19,10 +19,10 @@
     "author_simple": "RJE BTZUN BLO BZANG RTA DBYANGS",
     "subject": [
         {
-            "_id": "263472454785",
-            "subject_path": "SUNGBUM_SUNGBUM/CHOS 'BYUNG_RELIGIOUS HISTORIES/LO RIM_RELIGIOUS HISTORIES DATED BY YEAR",
-            "subject_path_tibetan": "SUNGBUM/CHOS 'BYUNG/LO RIM",
-            "subject_path_english": "SUNGBUM/RELIGIOUS HISTORIES/RELIGIOUS HISTORIES DATED BY YEAR",
+            "_id": "281989701060",
+            "subject_path": "GSUNG 'BUM_Sungbum/CHOS 'BYUNG_RELIGIOUS HISTORIES/LO RIM_RELIGIOUS HISTORIES DATED BY YEAR",
+            "subject_path_tibetan": "GSUNG 'BUM/CHOS 'BYUNG/LO RIM",
+            "subject_path_english": "Sungbum/RELIGIOUS HISTORIES/RELIGIOUS HISTORIES DATED BY YEAR",
             "subject_tibetan": "LO RIM",
             "subject_english": "RELIGIOUS HISTORIES DATED BY YEAR"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P1638"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "chos 'byung_religious histories/lo rim_religious histories dated by year",
-            "timestamp": "2024-09-10T02:19:19.070628+00:00"
+            "path": "GSUNG 'BUM_Sungbum/CHOS 'BYUNG_RELIGIOUS HISTORIES/LO RIM_RELIGIOUS HISTORIES DATED BY YEAR",
+            "timestamp": "2024-11-20 04:54:51.170289+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:54:51.170289+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

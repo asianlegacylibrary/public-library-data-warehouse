@@ -1,12 +1,12 @@
 {
     "name": "S00128E_SNA TSOGS YUM GYI MNGON RTOGS DANG RJES GNANG BYA TSUL_How to Perform the Rituals of Realization and Permission in the Practice of the Various Mother (Vishvamatr)_LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN (1642-1714).TXT",
-    "path": "rgyud_secret teachings (tantra)/sna tsogs yum_the various mother (vishvamatir)/rjes gnang_rites of permission (anujna)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/sna tsogs yum_the various mother (vishvamatir)/rjes gnang_rites of permission (anujna)/s00128e_sna tsogs yum gyi mngon rtogs dang rjes gnang bya tsul_how to perform the rituals of realization and permission in the practice of the various mother (vishvamatr)_lcang skya ngag dbang blo bzang chos ldan (1642-1714).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAHxQ",
-    "revision_id": "613f66492f22f8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SNA TSOGS YUM_THE VARIOUS MOTHER (VISHVAMATIR)/RJES GNANG_RITES OF PERMISSION (ANUJNA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/sna tsogs yum_the various mother (vishvamatir)/rjes gnang_rites of permission (anujna)/s00128e_sna tsogs yum gyi mngon rtogs dang rjes gnang bya tsul_how to perform the rituals of realization and permission in the practice of the various mother (vishvamatr)_lcang skya ngag dbang blo bzang chos ldan (1642-1714).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABV6g",
+    "revision_id": "625a489773cb38d294473",
     "content_hash": "3a8bb444509b8579fad1598a6815c6495652f5901e6d57922482f6c28a4fa187",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:08:47.149946",
+    "server_modified": "2024-10-29 21:47:51",
+    "last_sync": "2024-11-19 20:58:21.754284",
     "size": 7409,
     "meta_text": null,
     "cat_ref": "S00128E",
@@ -19,10 +19,10 @@
     "author_simple": "LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN",
     "subject": [
         {
-            "_id": "632105968801",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SNA TSOGS YUM_THE VARIOUS MOTHER (VISHVAMATIR)/RJES GNANG_RITES OF PERMISSION (ANUJNA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SNA TSOGS YUM/RJES GNANG",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/THE VARIOUS MOTHER (VISHVAMATIR)/RITES OF PERMISSION (ANUJNA)",
+            "_id": "112699023273",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SNA TSOGS YUM_THE VARIOUS MOTHER (VISHVAMATIR)/RJES GNANG_RITES OF PERMISSION (ANUJNA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SNA TSOGS YUM/RJES GNANG",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/THE VARIOUS MOTHER (VISHVAMATIR)/RITES OF PERMISSION (ANUJNA)",
             "subject_tibetan": "RJES GNANG",
             "subject_english": "RITES OF PERMISSION (ANUJNA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P209"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/sna tsogs yum_the various mother (vishvamatir)/rjes gnang_rites of permission (anujna)",
-            "timestamp": "2024-09-10T02:08:47.157247+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SNA TSOGS YUM_THE VARIOUS MOTHER (VISHVAMATIR)/RJES GNANG_RITES OF PERMISSION (ANUJNA)",
+            "timestamp": "2024-11-20 04:58:21.758553+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:58:21.758553+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

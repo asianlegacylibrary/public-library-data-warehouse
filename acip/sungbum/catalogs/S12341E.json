@@ -1,12 +1,12 @@
 {
     "name": "S12341E_RGYAL DGE DGON GYI BYUNG RIM GSER GYI RNGA BO CHE_The Great Drum of Gold-- A Description of the Process by which the Monastery of Gyalge Gun Came to Be_DMU DGE BSAM GTAN RGYA MTSO (1914-1993).TXT",
-    "path": "chos 'byung_religious histories/dmu dge bsam gtan rgya mtso'i chos 'byung_religious histories by muge samten gyatso (1914-1993)",
-    "download_path": "/sungbum updated 4 26 23 bk/chos 'byung_religious histories/dmu dge bsam gtan rgya mtso'i chos 'byung_religious histories by muge samten gyatso (1914-1993)/s12341e_rgyal dge dgon gyi byung rim gser gyi rnga bo che_the great drum of gold-- a description of the process by which the monastery of gyalge gun came to be_dmu dge bsam gtan rgya mtso (1914-1993).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAR_A",
-    "revision_id": "613f66647431f8d294473",
+    "path": "CHOS 'BYUNG_RELIGIOUS HISTORIES/DMU DGE BSAM GTAN RGYA MTSO'I CHOS 'BYUNG_RELIGIOUS HISTORIES BY MUGE SAMTEN GYATSO (1914-1993)",
+    "download_path": "/sungbum updated 7 30 23 nl/chos 'byung_religious histories/dmu dge bsam gtan rgya mtso'i chos 'byung_religious histories by muge samten gyatso (1914-1993)/s12341e_rgyal dge dgon gyi byung rim gser gyi rnga bo che_the great drum of gold-- a description of the process by which the monastery of gyalge gun came to be_dmu dge bsam gtan rgya mtso (1914-1993).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABT_g",
+    "revision_id": "625a485604f828d294473",
     "content_hash": "5f71f975744d095bac15bfafbee680539ad62f1db0b9231c7f7d3346fd317c2a",
-    "server_modified": "2024-03-18T21:54:19",
-    "last_sync": "2024-09-09T19:19:34.190974",
+    "server_modified": "2024-10-29 21:46:42",
+    "last_sync": "2024-11-19 20:54:48.026023",
     "size": 41855,
     "meta_text": null,
     "cat_ref": "S12341E",
@@ -19,10 +19,10 @@
     "author_simple": "DMU DGE BSAM GTAN RGYA MTSO",
     "subject": [
         {
-            "_id": "227529121197",
-            "subject_path": "SUNGBUM_SUNGBUM/CHOS 'BYUNG_RELIGIOUS HISTORIES/DMU DGE BSAM GTAN RGYA MTSO'I CHOS 'BYUNG_RELIGIOUS HISTORIES BY MUGE SAMTEN GYATSO (1914-1993)",
-            "subject_path_tibetan": "SUNGBUM/CHOS 'BYUNG/DMU DGE BSAM GTAN RGYA MTSO'I CHOS 'BYUNG",
-            "subject_path_english": "SUNGBUM/RELIGIOUS HISTORIES/RELIGIOUS HISTORIES BY MUGE SAMTEN GYATSO (1914-1993)",
+            "_id": "731803727242",
+            "subject_path": "GSUNG 'BUM_Sungbum/CHOS 'BYUNG_RELIGIOUS HISTORIES/DMU DGE BSAM GTAN RGYA MTSO'I CHOS 'BYUNG_RELIGIOUS HISTORIES BY MUGE SAMTEN GYATSO (1914-1993)",
+            "subject_path_tibetan": "GSUNG 'BUM/CHOS 'BYUNG/DMU DGE BSAM GTAN RGYA MTSO'I CHOS 'BYUNG",
+            "subject_path_english": "Sungbum/RELIGIOUS HISTORIES/RELIGIOUS HISTORIES BY MUGE SAMTEN GYATSO (1914-1993)",
             "subject_tibetan": "DMU DGE BSAM GTAN RGYA MTSO'I CHOS 'BYUNG",
             "subject_english": "RELIGIOUS HISTORIES BY MUGE SAMTEN GYATSO (1914-1993)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P1647"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "chos 'byung_religious histories/dmu dge bsam gtan rgya mtso'i chos 'byung_religious histories by muge samten gyatso (1914-1993)",
-            "timestamp": "2024-09-10T02:19:34.202166+00:00"
+            "path": "GSUNG 'BUM_Sungbum/CHOS 'BYUNG_RELIGIOUS HISTORIES/DMU DGE BSAM GTAN RGYA MTSO'I CHOS 'BYUNG_RELIGIOUS HISTORIES BY MUGE SAMTEN GYATSO (1914-1993)",
+            "timestamp": "2024-11-20 04:54:48.058218+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:54:48.058218+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

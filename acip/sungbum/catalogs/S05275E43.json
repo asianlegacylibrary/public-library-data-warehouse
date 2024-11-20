@@ -1,12 +1,12 @@
 {
     "name": "S05275E43_BCOM LDAN MI GA-YO MGON PO'I SGO NAS SMON LAM 'DEBS TSUL TSIGS BCAD BDUN_Seven Verses to be used as a Prayer centered upon the Conqueror, the Unshakeable Protector_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419).TXT",
-    "path": "rgyud_secret teachings (tantra)/mi ga-yo mgon po_unshakable protector/smon lam_prayers",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/mi ga-yo mgon po_unshakable protector/smon lam_prayers/s05275e43_bcom ldan mi ga-yo mgon po'i sgo nas smon lam 'debs tsul tsigs bcad bdun_seven verses to be used as a prayer centered upon the conqueror, the unshakeable protector_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAJwA",
-    "revision_id": "613f664dc43dc8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/MI GA-YO MGON PO_UNSHAKABLE PROTECTOR/SMON LAM_PRAYERS",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/mi ga-yo mgon po_unshakable protector/smon lam_prayers/s05275e43_bcom ldan mi ga-yo mgon po'i sgo nas smon lam 'debs tsul tsigs bcad bdun_seven verses to be used as a prayer centered upon the conqueror, the unshakeable protector_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABWag",
+    "revision_id": "625a48a1b34f78d294473",
     "content_hash": "d9ababecb0494732d8b78cd0b803eb8a316c52625f43dfb88b98701bdf6f5540",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:10:48.681627",
+    "server_modified": "2024-10-29 21:48:02",
+    "last_sync": "2024-11-19 20:59:02.107839",
     "size": 1410,
     "meta_text": null,
     "cat_ref": "S05275E43",
@@ -19,10 +19,10 @@
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "186195263375",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/MI GA-YO MGON PO_UNSHAKABLE PROTECTOR/SMON LAM_PRAYERS",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/MI GA-YO MGON PO/SMON LAM",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/UNSHAKABLE PROTECTOR/PRAYERS",
+            "_id": "235169884851",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/MI GA-YO MGON PO_UNSHAKABLE PROTECTOR/SMON LAM_PRAYERS",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/MI GA-YO MGON PO/SMON LAM",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/UNSHAKABLE PROTECTOR/PRAYERS",
             "subject_tibetan": "SMON LAM",
             "subject_english": "PRAYERS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/mi ga-yo mgon po_unshakable protector/smon lam_prayers",
-            "timestamp": "2024-09-10T02:10:48.687577+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/MI GA-YO MGON PO_UNSHAKABLE PROTECTOR/SMON LAM_PRAYERS",
+            "timestamp": "2024-11-20 04:59:02.112321+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:59:02.112321+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

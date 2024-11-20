@@ -1,12 +1,12 @@
 {
     "name": "S06370M48_RGYAL BA'I YUM ZHES PA'I SKOR GYI DRI LAN_Response to a Question about the Meaning of the Expression 'Mother of the Victorious Buddhas'_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "tsig mdzod_lexical materials",
-    "download_path": "/sungbum updated 4 26 23 bk/tsig mdzod_lexical materials/s06370m48_rgyal ba'i yum zhes pa'i skor gyi dri lan_response to a question about the meaning of the expression 'mother of the victorious buddhas'_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAARpQ",
-    "revision_id": "613f6664742c88d294473",
+    "path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "download_path": "/sungbum updated 7 30 23 nl/dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)/s06370m48_rgyal ba'i yum zhes pa'i skor gyi dri lan_response to a question about the meaning of the expression 'mother of the victorious buddhas'_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABSNw",
+    "revision_id": "625a48098c6638d294473",
     "content_hash": "2e5b349ffc8fdb61465cf6fdca1b65858d6c7132d70e47d605ec39e2562177db",
-    "server_modified": "2024-03-18T21:54:19",
-    "last_sync": "2024-09-09T19:19:14.669447",
+    "server_modified": "2024-10-29 21:45:22",
+    "last_sync": "2024-11-19 20:53:23.571464",
     "size": 1961,
     "meta_text": null,
     "cat_ref": "S06370M48",
@@ -19,20 +19,20 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "986689180498",
-            "subject_path": "SUNGBUM_SUNGBUM/TSIG MDZOD_LEXICAL MATERIALS",
-            "subject_path_tibetan": "SUNGBUM/TSIG MDZOD",
-            "subject_path_english": "SUNGBUM/LEXICAL MATERIALS",
-            "subject_tibetan": "TSIG MDZOD",
-            "subject_english": "LEXICAL MATERIALS"
-        },
-        {
-            "_id": "244831615226",
-            "subject_path": "SUNGBUM_SUNGBUM/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_tibetan": "SUNGBUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_english": "SUNGBUM/QUESTIONS AND ANSWERS",
+            "_id": "250883940513",
+            "subject_path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "GSUNG 'BUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "Sungbum/QUESTIONS AND ANSWERS",
             "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
             "subject_english": "QUESTIONS AND ANSWERS"
+        },
+        {
+            "_id": "650013397436",
+            "subject_path": "GSUNG 'BUM_Sungbum/TSIG MDZOD_LEXICAL MATERIALS",
+            "subject_path_tibetan": "GSUNG 'BUM/TSIG MDZOD",
+            "subject_path_english": "Sungbum/LEXICAL MATERIALS",
+            "subject_tibetan": "TSIG MDZOD",
+            "subject_english": "LEXICAL MATERIALS"
         }
     ],
     "items": [],
@@ -46,15 +46,29 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "tsig mdzod_lexical materials",
-            "timestamp": "2024-09-10T02:19:14.683197+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "timestamp": "2024-11-20 04:54:07.129763+00:00"
         },
         {
-            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
-            "timestamp": "2024-09-10T02:21:49.600556+00:00"
+            "path": "GSUNG 'BUM_Sungbum/TSIG MDZOD_LEXICAL MATERIALS",
+            "timestamp": "2024-11-20 05:16:51.049750+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:54:07.129763+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T05:16:51.049750+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "text"
 }

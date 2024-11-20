@@ -1,14 +1,14 @@
 {
     "name": "S05977MF7_RANG GI YID LA RE BA'I DON SMON PA'I TSIGS SU BCAD PA LHAG BSAM RNAM PAR DKAR BA'I SPRIN GYI SGRA DBYANGS_The 'Thunder-Song of Pure-White Motivation,' being Verses of Prayer that the Hopes of My Heart May be Accomplished_PAn CHEN BLO BZAN+.TXT",
-    "path": "nyams len_personal practice/smon lam_making prayers/pan chen blo bzang chos kyi rgyal mtsan_panchen lobsang chukyi gyeltsen (1565-1662)",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/smon lam_making prayers/pan chen blo bzang chos kyi rgyal mtsan_panchen lobsang chukyi gyeltsen (1565-1662)/s05977mf7_rang gi yid la re ba'i don smon pa'i tsigs su bcad pa lhag bsam rnam par dkar ba'i sprin gyi sgra dbyangs_the 'thunder-song of pure-white motivation,' being verses of prayer that the hopes of my heart may be accomplished_pan chen blo bzan+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAACCw",
-    "revision_id": "613f663ffc6fe8d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/smon lam_making prayers/pan chen blo bzang chos kyi rgyal mtsan_panchen lobsang chukyi gyeltsen (1565-1662)/s05977mf7_rang gi yid la re ba'i don smon pa'i tsigs su bcad pa lhag bsam rnam par dkar ba'i sprin gyi sgra dbyangs_the 'thunder-song of pure-white motivation,' being verses of prayer that the hopes of my heart may be accomplished_pan chen blo bzan+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABkjg",
+    "revision_id": "625a4ad55c98e8d294473",
     "content_hash": "494cf69112e8e7e736da721c2c2d910df6f4cc8b9bcd26daaf54b3d262540412",
-    "server_modified": "2024-03-18T21:53:40",
-    "last_sync": "2024-09-09T19:03:13.469021",
+    "server_modified": "2024-10-29 21:57:53",
+    "last_sync": "2024-11-19 21:23:33.569548",
     "size": 4344,
-    "meta_text": "G CHOS KYI RGYAL MTSAN (1565-1662)",
+    "meta_text": "('G CHOS KYI RGYAL MTSAN (1565-1662)', 'rtf')",
     "cat_ref": "S05977MF7",
     "work_ref": "W.S05977MF7",
     "title_tib": "RANG GI YID LA RE BA'I DON SMON PA'I TSIGS SU BCAD PA LHAG BSAM RNAM PAR DKAR BA'I SPRIN GYI SGRA DBYANGS",
@@ -19,11 +19,11 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "129475331094",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/PAN CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/SMON LAM/PAN CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/MAKING PRAYERS/PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
-            "subject_tibetan": "PAN CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
+            "_id": "261817344784",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/SMON LAM/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/MAKING PRAYERS/PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+            "subject_tibetan": "PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
             "subject_english": "PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)"
         }
     ],
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/smon lam_making prayers/pan chen blo bzang chos kyi rgyal mtsan_panchen lobsang chukyi gyeltsen (1565-1662)",
-            "timestamp": "2024-09-10T02:03:13.479414+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+            "timestamp": "2024-11-20 05:23:35.416332+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:23:35.416332+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

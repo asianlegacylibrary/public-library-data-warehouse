@@ -1,14 +1,14 @@
 {
     "name": "S05977MG1_DPAL 'KHOR LO BDE MCHOG DKAR PO'I SMON LAM SHIS BRJOD MDOR BSDUS_Brief Verses of Prayer and Benediction for the Secret Practice of the Glorious Sphere of Highest Bliss (Chakrasamvara), in His White Form_PAn CHEN BLO BZANG CHOS KYI RGYAL MT+.TXT",
-    "path": "nyams len_personal practice/smon lam_making prayers/pan chen blo bzang chos kyi rgyal mtsan_panchen lobsang chukyi gyeltsen (1565-1662)",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/smon lam_making prayers/pan chen blo bzang chos kyi rgyal mtsan_panchen lobsang chukyi gyeltsen (1565-1662)/s05977mg1_dpal 'khor lo bde mchog dkar po'i smon lam shis brjod mdor bsdus_brief verses of prayer and benediction for the secret practice of the glorious sphere of highest bliss (chakrasamvara), in his white form_pan chen blo bzang chos kyi rgyal mt+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAACAg",
-    "revision_id": "613f663ffc6f58d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/smon lam_making prayers/pan chen blo bzang chos kyi rgyal mtsan_panchen lobsang chukyi gyeltsen (1565-1662)/s05977mg1_dpal 'khor lo bde mchog dkar po'i smon lam shis brjod mdor bsdus_brief verses of prayer and benediction for the secret practice of the glorious sphere of highest bliss (chakrasamvara), in his white form_pan chen blo bzang chos kyi rgyal mt+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABkkA",
+    "revision_id": "625a4ad55c9908d294473",
     "content_hash": "211e20811c2a1812d790ff67a84455bae7cedef37b4e86f5554e19bef989d480",
-    "server_modified": "2024-03-18T21:53:40",
-    "last_sync": "2024-09-09T19:03:13.441063",
+    "server_modified": "2024-10-29 21:57:53",
+    "last_sync": "2024-11-19 21:23:34.804482",
     "size": 2212,
-    "meta_text": "SAN (1565-1662)",
+    "meta_text": "('SAN (1565-1662)', 'rtf')",
     "cat_ref": "S05977MG1",
     "work_ref": "W.S05977MG1",
     "title_tib": "DPAL 'KHOR LO BDE MCHOG DKAR PO'I SMON LAM SHIS BRJOD MDOR BSDUS",
@@ -19,11 +19,11 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "129475331094",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/PAN CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/SMON LAM/PAN CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/MAKING PRAYERS/PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
-            "subject_tibetan": "PAN CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
+            "_id": "261817344784",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/SMON LAM/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/MAKING PRAYERS/PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+            "subject_tibetan": "PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
             "subject_english": "PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)"
         }
     ],
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/smon lam_making prayers/pan chen blo bzang chos kyi rgyal mtsan_panchen lobsang chukyi gyeltsen (1565-1662)",
-            "timestamp": "2024-09-10T02:03:13.476050+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+            "timestamp": "2024-11-20 05:23:35.417168+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:23:35.417168+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

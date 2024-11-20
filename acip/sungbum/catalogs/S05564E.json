@@ -1,12 +1,12 @@
 {
     "name": "S05564E_RJE BTZUN THAMS CAD MKHYEN PA'I GSUNG 'BUM THOR BU LAS DKAR GTOR DANG GTOR MA BRGYA RTZA'I RIM PA_The Offering of White Tormas and the Steps to the Hundred-Fold Offering of Tormas, from Assorted Writings found in the Collected Works of the Ho+.txt",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/gtor ma_offering cake (bali)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/gtor ma_offering cake (bali)/s05564e_rje btzun thams cad mkhyen pa'i gsung 'bum thor bu las dkar gtor dang gtor ma brgya rtza'i rim pa_the offering of white tormas and the steps to the hundred-fold offering of tormas, from assorted writings found in the collected works of the ho+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAANmA",
-    "revision_id": "613f6656dee698d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/GTOR MA_OFFERING CAKE (BALI)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyi_general treatments/gtor ma_offering cake (bali)/s05564e_rje btzun thams cad mkhyen pa'i gsung 'bum thor bu las dkar gtor dang gtor ma brgya rtza'i rim pa_the offering of white tormas and the steps to the hundred-fold offering of tormas, from assorted writings found in the collected works of the ho+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABZdg",
+    "revision_id": "625a4909640158d294473",
     "content_hash": "975f6aa40ba0c5a34aab767b4d1e03bc9e36f756794721b58d0a92a96676dcb4",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:15:07.733471",
+    "server_modified": "2024-10-29 21:49:50",
+    "last_sync": "2024-11-19 21:04:01.633625",
     "size": 13244,
     "meta_text": null,
     "cat_ref": "S05564E",
@@ -19,10 +19,10 @@
     "author_simple": "",
     "subject": [
         {
-            "_id": "543190042798",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/GTOR MA_OFFERING CAKE (BALI)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/GTOR MA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/OFFERING CAKE (BALI)",
+            "_id": "102816338586",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/GTOR MA_OFFERING CAKE (BALI)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/GTOR MA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/OFFERING CAKE (BALI)",
             "subject_tibetan": "GTOR MA",
             "subject_english": "OFFERING CAKE (BALI)"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/gtor ma_offering cake (bali)",
-            "timestamp": "2024-09-10T02:15:07.796612+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/GTOR MA_OFFERING CAKE (BALI)",
+            "timestamp": "2024-11-20 05:04:02.186245+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:04:02.186245+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

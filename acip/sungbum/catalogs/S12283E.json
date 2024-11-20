@@ -1,28 +1,28 @@
 {
     "name": "S12283E_BCOM LDAN 'DAS 'PHAGS MA GDUGS DKAR MO CAN GYI DKYIL 'KHOR CHEN POR 'JUG CING DBANG BSKUR BA'I CHO GA DNGOS GRUB GANG+G'A'I CHU RGYUN_The Ganges River of Realizations--A Ritual for Entering and Granting Empowerment into the Magnificent Secre +.TXT",
-    "path": "rgyud_secret teachings (tantra)/gdugs dkar_white parasol (sitapatra)/dbang_empowerment (abhisheka)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/gdugs dkar_white parasol (sitapatra)/dbang_empowerment (abhisheka)/s12283e_bcom ldan 'das 'phags ma gdugs dkar mo can gyi dkyil 'khor chen por 'jug cing dbang bskur ba'i cho ga dngos grub gang+g'a'i chu rgyun_the ganges river of realizations--a ritual for entering and granting empowerment into the magnificent secre +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAARXw",
-    "revision_id": "613f665fcd6e48d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/GDUGS DKAR_WHITE PARASOL (SITAPATRA)/DBANG_EMPOWERMENT (ABHISHEKA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/gdugs dkar_white parasol (sitapatra)/dbang_empowerment (abhisheka)/s12283e_bcom ldan 'das 'phags ma gdugs dkar mo can gyi dkyil 'khor chen por 'jug cing dbang bskur ba'i cho ga dngos grub gang+g'a'i chu rgyun_the ganges river of realizations--a ritual for entering and granting empowerment into the magnificent secre +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABcWQ",
+    "revision_id": "625a4977d4a888d294473",
     "content_hash": "1a9ac2e43ac782db10ef60fa04ae82923d01083509d526fc7e67ef82e5d2b61a",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:19:00.100559",
+    "server_modified": "2024-10-29 21:51:46",
+    "last_sync": "2024-11-19 21:08:46.541801",
     "size": 106621,
-    "meta_text": "t World of the Conquering Woman of Realization, the Keeper of the White Parasol (Sitapatra)_LCANG LUNG AARYA PAndI TA NGAG DBANG BLO BZANG BSTAN PA'I RGYAL MTSAN (1770-1845)",
+    "meta_text": "(\"t World of the Conquering Woman of Realization, the Keeper of the White Parasol (Sitapatra)_LCANG LUNG AARYA PAndI TA NGAG DBANG BLO BZANG BSTAN PA'I RGYAL MTSAN (1770-1845)\", 'rtf')",
     "cat_ref": "S12283E",
     "work_ref": "W.S12283E",
     "title_tib": "BCOM LDAN 'DAS 'PHAGS MA GDUGS DKAR MO CAN GYI DKYIL 'KHOR CHEN POR 'JUG CING DBANG BSKUR BA'I CHO GA DNGOS GRUB GANG+G'A'I CHU RGYUN",
-    "title_eng": "The Ganges River of Realizations--A Ritual for Entering and Granting Empowerment into the Magnificent Secret World of the Conquering Woman of Realization, the Keeper of the White Parasol (Sitapatra)",
+    "title_eng": "The Ganges River of Realizations--A Ritual for Entering and Granting Empowerment into the Magnificent Secre(\"t World of the Conquering Woman of Realization, the Keeper of the White Parasol (Sitapatra)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "LCANG LUNG AARYA PAnDI TA NGAG DBANG BLO BZANG BSTAN PA'I RGYAL MTSAN",
     "subject": [
         {
-            "_id": "327056510181",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/GDUGS DKAR_WHITE PARASOL (SITAPATRA)/DBANG_EMPOWERMENT (ABHISHEKA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/GDUGS DKAR/DBANG",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/WHITE PARASOL (SITAPATRA)/EMPOWERMENT (ABHISHEKA)",
+            "_id": "428195213675",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GDUGS DKAR_WHITE PARASOL (SITAPATRA)/DBANG_EMPOWERMENT (ABHISHEKA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/GDUGS DKAR/DBANG",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/WHITE PARASOL (SITAPATRA)/EMPOWERMENT (ABHISHEKA)",
             "subject_tibetan": "DBANG",
             "subject_english": "EMPOWERMENT (ABHISHEKA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P290"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/gdugs dkar_white parasol (sitapatra)/dbang_empowerment (abhisheka)",
-            "timestamp": "2024-09-10T02:19:00.102723+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GDUGS DKAR_WHITE PARASOL (SITAPATRA)/DBANG_EMPOWERMENT (ABHISHEKA)",
+            "timestamp": "2024-11-20 05:08:46.546923+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:08:46.546923+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

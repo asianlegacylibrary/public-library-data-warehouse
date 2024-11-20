@@ -1,12 +1,12 @@
 {
     "name": "S06369M37_KUN MKHYEN RGYAL DBANG MCHOG GI ZHABS BRTAN GSOL 'DEBS_Petition for the Long Life of the All-Knowing Dalai Lama_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "nyams len_personal practice/zhabs brtan_prayers for the long life of a holy being/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/zhabs brtan_prayers for the long life of a holy being/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)/s06369m37_kun mkhyen rgyal dbang mchog gi zhabs brtan gsol 'debs_petition for the long life of the all-knowing dalai lama_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAACyw",
-    "revision_id": "613f663ffc7be8d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/ZHABS BRTAN_PRAYERS FOR THE LONG LIFE OF A HOLY BEING/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/zhabs brtan_prayers for the long life of a holy being/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)/s06369m37_kun mkhyen rgyal dbang mchog gi zhabs brtan gsol 'debs_petition for the long life of the all-knowing dalai lama_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABkSw",
+    "revision_id": "625a4acc00d6f8d294473",
     "content_hash": "e4fcfa5c57edc960209e1c90f4bae7252b2565197835f5c4d074abd7f974d9ed",
-    "server_modified": "2024-03-18T21:53:40",
-    "last_sync": "2024-09-09T19:04:07.635881",
+    "server_modified": "2024-10-29 21:57:43",
+    "last_sync": "2024-11-19 21:23:08.970725",
     "size": 2486,
     "meta_text": null,
     "cat_ref": "S06369M37",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "336492953405",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/ZHABS BRTAN_PRAYERS FOR THE LONG LIFE OF A HOLY BEING/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/ZHABS BRTAN/DNGUL CHU DHARMA BHADRA",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/PRAYERS FOR THE LONG LIFE OF A HOLY BEING/NGULCHU DHARMA BHADRA (1772-1851)",
+            "_id": "113553105394",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/ZHABS BRTAN_PRAYERS FOR THE LONG LIFE OF A HOLY BEING/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/ZHABS BRTAN/DNGUL CHU DHARMA BHADRA",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/PRAYERS FOR THE LONG LIFE OF A HOLY BEING/NGULCHU DHARMA BHADRA (1772-1851)",
             "subject_tibetan": "DNGUL CHU DHARMA BHADRA",
             "subject_english": "NGULCHU DHARMA BHADRA (1772-1851)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/zhabs brtan_prayers for the long life of a holy being/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)",
-            "timestamp": "2024-09-10T02:04:07.669209+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/ZHABS BRTAN_PRAYERS FOR THE LONG LIFE OF A HOLY BEING/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
+            "timestamp": "2024-11-20 05:23:08.982999+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:23:08.982999+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

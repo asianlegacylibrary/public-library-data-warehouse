@@ -1,12 +1,12 @@
 {
     "name": "S0464I_LAM GYI RIM PA'I GDAMS PA'I TSIGS SU BCAD PA KUN  MKHYEN BDE LAM.TXT",
-    "path": "lam rim_steps of the path/kun mkhyen bde lam_an easy path to omniscience",
-    "download_path": "/sungbum updated 4 26 23 bk/lam rim_steps of the path/kun mkhyen bde lam_an easy path to omniscience/s0464i_lam gyi rim pa'i gdams pa'i tsigs su bcad pa kun  mkhyen bde lam.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAGdQ",
-    "revision_id": "613f66492f0df8d294473",
+    "path": "LAM RIM_STEPS OF THE PATH/KUN MKHYEN BDE LAM_AN EASY PATH TO OMNISCIENCE",
+    "download_path": "/sungbum updated 7 30 23 nl/lam rim_steps of the path/kun mkhyen bde lam_an easy path to omniscience/s0464i_lam gyi rim pa'i gdams pa'i tsigs su bcad pa kun  mkhyen bde lam.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABhkg",
+    "revision_id": "625a4a63865098d294473",
     "content_hash": "9ed80de416240945e0bb9c56758ebc99996565e062514258fd0d15e83c6f7434",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:07:32.908848",
+    "server_modified": "2024-10-29 21:55:53",
+    "last_sync": "2024-11-19 21:18:02.472675",
     "size": 539019,
     "meta_text": null,
     "cat_ref": "S0464I",
@@ -19,10 +19,10 @@
     "author_simple": "",
     "subject": [
         {
-            "_id": "128430106040",
-            "subject_path": "SUNGBUM_SUNGBUM/LAM RIM_STEPS OF THE PATH/KUN MKHYEN BDE LAM_AN EASY PATH TO OMNISCIENCE",
-            "subject_path_tibetan": "SUNGBUM/LAM RIM/KUN MKHYEN BDE LAM",
-            "subject_path_english": "SUNGBUM/STEPS OF THE PATH/AN EASY PATH TO OMNISCIENCE",
+            "_id": "293903904721",
+            "subject_path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/KUN MKHYEN BDE LAM_AN EASY PATH TO OMNISCIENCE",
+            "subject_path_tibetan": "GSUNG 'BUM/LAM RIM/KUN MKHYEN BDE LAM",
+            "subject_path_english": "Sungbum/STEPS OF THE PATH/AN EASY PATH TO OMNISCIENCE",
             "subject_tibetan": "KUN MKHYEN BDE LAM",
             "subject_english": "AN EASY PATH TO OMNISCIENCE"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "lam rim_steps of the path/kun mkhyen bde lam_an easy path to omniscience",
-            "timestamp": "2024-09-10T02:07:32.915201+00:00"
+            "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/KUN MKHYEN BDE LAM_AN EASY PATH TO OMNISCIENCE",
+            "timestamp": "2024-11-20 05:18:02.476211+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:18:02.476211+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

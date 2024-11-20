@@ -1,12 +1,12 @@
 {
     "name": "S12087E_GSAR DU BRTZAMS PA'I CHOS RNAMS KYI DGOS PA RAB BSDUS DON BSTAN PA_A Brief Description of the Supreme Importance of a Number of Newly Composed Religious Works_CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS (1740-1810).TXT",
-    "path": "phran tsegs_miscellaneous/cha har dge bshes blo bzang tsul khrims_chahar geshe lobsang tsultrim (1740-1810)",
-    "download_path": "/sungbum updated 4 26 23 bk/phran tsegs_miscellaneous/cha har dge bshes blo bzang tsul khrims_chahar geshe lobsang tsultrim (1740-1810)/s12087e_gsar du brtzams pa'i chos rnams kyi dgos pa rab bsdus don bstan pa_a brief description of the supreme importance of a number of newly composed religious works_cha har dge bshes blo bzang tsul khrims (1740-1810).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAGIA",
-    "revision_id": "613f66492f08a8d294473",
+    "path": "PHRAN TSEGS_MISCELLANEOUS/CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS_CHAHAR GESHE LOBSANG TSULTRIM (1740-1810)",
+    "download_path": "/sungbum updated 7 30 23 nl/phran tsegs_miscellaneous/cha har dge bshes blo bzang tsul khrims_chahar geshe lobsang tsultrim (1740-1810)/s12087e_gsar du brtzams pa'i chos rnams kyi dgos pa rab bsdus don bstan pa_a brief description of the supreme importance of a number of newly composed religious works_cha har dge bshes blo bzang tsul khrims (1740-1810).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABiCQ",
+    "revision_id": "625a4a7a686158d294473",
     "content_hash": "6350ab3ecc3e0c2fc1744e11d0a2827141ec8eae42ec86e9f02dd1cf1dbfef0f",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:07:15.696788",
+    "server_modified": "2024-10-29 21:56:17",
+    "last_sync": "2024-11-19 21:18:53.544652",
     "size": 20088,
     "meta_text": null,
     "cat_ref": "S12087E",
@@ -19,10 +19,10 @@
     "author_simple": "CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS",
     "subject": [
         {
-            "_id": "548818207261",
-            "subject_path": "SUNGBUM_SUNGBUM/PHRAN TSEGS_MISCELLANEOUS/CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS_CHAHAR GESHE LOBSANG TSULTRIM (1740-1810)",
-            "subject_path_tibetan": "SUNGBUM/PHRAN TSEGS/CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS",
-            "subject_path_english": "SUNGBUM/MISCELLANEOUS/CHAHAR GESHE LOBSANG TSULTRIM (1740-1810)",
+            "_id": "341347948375",
+            "subject_path": "GSUNG 'BUM_Sungbum/PHRAN TSEGS_MISCELLANEOUS/CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS_CHAHAR GESHE LOBSANG TSULTRIM (1740-1810)",
+            "subject_path_tibetan": "GSUNG 'BUM/PHRAN TSEGS/CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS",
+            "subject_path_english": "Sungbum/MISCELLANEOUS/CHAHAR GESHE LOBSANG TSULTRIM (1740-1810)",
             "subject_tibetan": "CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS",
             "subject_english": "CHAHAR GESHE LOBSANG TSULTRIM (1740-1810)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P4797"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "phran tsegs_miscellaneous/cha har dge bshes blo bzang tsul khrims_chahar geshe lobsang tsultrim (1740-1810)",
-            "timestamp": "2024-09-10T02:07:15.706823+00:00"
+            "path": "GSUNG 'BUM_Sungbum/PHRAN TSEGS_MISCELLANEOUS/CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS_CHAHAR GESHE LOBSANG TSULTRIM (1740-1810)",
+            "timestamp": "2024-11-20 05:18:53.547632+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:18:53.547632+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }
