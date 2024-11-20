@@ -1,12 +1,12 @@
 {
     "name": "S00383M_NYON MONGS PA LAM DU BLANGS PA'I CHOS_An Instruction for Turning Mental Afflictions into an Opportunity to Practice the Path_@ (@-@).TXT",
-    "path": "blo sbyong_developing the good heart/nyon mongs pa lam du blangs pa'i chos_an instruction for turning mental afflictions into an opportunity to practice the path",
-    "download_path": "/sungbum updated 4 26 23 bk/blo sbyong_developing the good heart/nyon mongs pa lam du blangs pa'i chos_an instruction for turning mental afflictions into an opportunity to practice the path/s00383m_nyon mongs pa lam du blangs pa'i chos_an instruction for turning mental afflictions into an opportunity to practice the path_@ (@-@).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAS5g",
-    "revision_id": "613f6664744098d294473",
+    "path": "BLO SBYONG_DEVELOPING THE GOOD HEART/NYON MONGS PA LAM DU BLANGS PA'I CHOS_AN INSTRUCTION FOR TURNING MENTAL AFFLICTIONS INTO AN OPPORTUNITY TO PRACTICE THE PATH",
+    "download_path": "/sungbum updated 7 30 23 nl/blo sbyong_developing the good heart/nyon mongs pa lam du blangs pa'i chos_an instruction for turning mental afflictions into an opportunity to practice the path/s00383m_nyon mongs pa lam du blangs pa'i chos_an instruction for turning mental afflictions into an opportunity to practice the path_@ (@-@).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABlDQ",
+    "revision_id": "625a4ae16b21f8d294473",
     "content_hash": "e8eb9af95ae9c406c38a000110dcb01b409564847efb9e2fea11741ecc8e25eb",
-    "server_modified": "2024-03-18T21:54:19",
-    "last_sync": "2024-09-09T19:20:37.235740",
+    "server_modified": "2024-10-29 21:58:05",
+    "last_sync": "2024-11-19 21:24:28.276006",
     "size": 2423,
     "meta_text": null,
     "cat_ref": "S00383M",
@@ -19,10 +19,10 @@
     "author_simple": "",
     "subject": [
         {
-            "_id": "334616503904",
-            "subject_path": "SUNGBUM_SUNGBUM/BLO SBYONG_DEVELOPING THE GOOD HEART/NYON MONGS PA LAM DU BLANGS PA'I CHOS_AN INSTRUCTION FOR TURNING MENTAL AFFLICTIONS INTO AN OPPORTUNITY TO PRACTICE THE PATH",
-            "subject_path_tibetan": "SUNGBUM/BLO SBYONG/NYON MONGS PA LAM DU BLANGS PA'I CHOS",
-            "subject_path_english": "SUNGBUM/DEVELOPING THE GOOD HEART/AN INSTRUCTION FOR TURNING MENTAL AFFLICTIONS INTO AN OPPORTUNITY TO PRACTICE THE PATH",
+            "_id": "281259276232",
+            "subject_path": "GSUNG 'BUM_Sungbum/BLO SBYONG_DEVELOPING THE GOOD HEART/NYON MONGS PA LAM DU BLANGS PA'I CHOS_AN INSTRUCTION FOR TURNING MENTAL AFFLICTIONS INTO AN OPPORTUNITY TO PRACTICE THE PATH",
+            "subject_path_tibetan": "GSUNG 'BUM/BLO SBYONG/NYON MONGS PA LAM DU BLANGS PA'I CHOS",
+            "subject_path_english": "Sungbum/DEVELOPING THE GOOD HEART/AN INSTRUCTION FOR TURNING MENTAL AFFLICTIONS INTO AN OPPORTUNITY TO PRACTICE THE PATH",
             "subject_tibetan": "NYON MONGS PA LAM DU BLANGS PA'I CHOS",
             "subject_english": "AN INSTRUCTION FOR TURNING MENTAL AFFLICTIONS INTO AN OPPORTUNITY TO PRACTICE THE PATH"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "blo sbyong_developing the good heart/nyon mongs pa lam du blangs pa'i chos_an instruction for turning mental afflictions into an opportunity to practice the path",
-            "timestamp": "2024-09-10T02:20:37.237428+00:00"
+            "path": "GSUNG 'BUM_Sungbum/BLO SBYONG_DEVELOPING THE GOOD HEART/NYON MONGS PA LAM DU BLANGS PA'I CHOS_AN INSTRUCTION FOR TURNING MENTAL AFFLICTIONS INTO AN OPPORTUNITY TO PRACTICE THE PATH",
+            "timestamp": "2024-11-20 05:24:28.279899+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:24:28.279899+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

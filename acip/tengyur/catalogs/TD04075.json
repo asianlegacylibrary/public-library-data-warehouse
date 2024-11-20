@@ -1,45 +1,53 @@
 {
     "name": "TD04075_RNAL 'BYOR LA 'JUG PA'I MAN NGAG (Yogāvatāropadeśa).txt",
-    "path": "TENGYUR_TENGYUR/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 16 (HI)",
+    "path": "06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 16 (HI)",
     "download_path": "/tengyur updated 10 31 24 ws/06 sems tzam_mind only school (cittamātra)/vol 16 (hi)/td04075_rnal 'byor la 'jug pa'i man ngag (yogāvatāropadeśa).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACDnQ",
     "revision_id": "62633de7f6c908d294473",
     "content_hash": "259e7d34ce6f8d29fc8c815e9f9008f5dd42f495999bb8766495a424e3c6fe21",
     "server_modified": "2024-11-06 00:47:58",
-    "last_sync": "2024-11-13 02:00:04.377663+00:00",
+    "last_sync": "2024-11-20 04:01:08.968439",
     "size": 3596,
+    "meta_text": null,
     "cat_ref": "TD04075",
     "work_ref": "W.TD04075",
-    "title_tib": "RNAL 'BYOR LA 'JUG PA'I MAN NGAG",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "216714981128",
-            "subject_path": "TENGYUR_TENGYUR/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 16 (HI)",
-            "subject_path_tibetan": "TENGYUR/SEMS TZAM/16 (HI)",
-            "subject_path_english": "TENGYUR/Mind Only School (Cittamātra)/VOL 16 (HI)",
-            "subject_tibetan": "16 (HI)",
-            "subject_english": "VOL 16 (HI)"
+            "_id": "233087936475",
+            "subject_path": "BSTAN 'GYUR_Tengyur/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 16 (HI)",
+            "subject_path_tibetan": "BSTAN 'GYUR/06 SEMS TZAM/VOL 16 (HI)",
+            "subject_path_english": "Tengyur/Mind Only School (Cittamātra)",
+            "subject_tibetan": "VOL 16 (HI)",
+            "subject_english": "Mind Only School (Cittamātra)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Yogāvatāropadeśa",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 16 (HI)",
+            "timestamp": "2024-11-20 12:01:08.991909+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T02:00:04.382715+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T12:01:08.991909+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 16 (HI)",
-            "timestamp": "2024-11-13 02:00:04.382715+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

@@ -1,12 +1,12 @@
 {
     "name": "S05338E_DPAL GSHIN RJE DGRA NAG GI SGRUB PA'I THABS RIN PO CHE 'BAR BA_The 'Jewel of Burning Light,' being a Ritual for Reaching the Glorious Lord of Death, the Black Enemy_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419).TXT",
-    "path": "rgyud_secret teachings (tantra)/gshin rje dgra nag_lord of death black enemy (kirshnayamari)/sgrub thabs_ritual for reaching the angel (sadhana)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/gshin rje dgra nag_lord of death black enemy (kirshnayamari)/sgrub thabs_ritual for reaching the angel (sadhana)/s05338e_dpal gshin rje dgra nag gi sgrub pa'i thabs rin po che 'bar ba_the 'jewel of burning light,' being a ritual for reaching the glorious lord of death, the black enemy_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAQaQ",
-    "revision_id": "613f665fcd5ee8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/GSHIN RJE DGRA NAG_LORD OF DEATH BLACK ENEMY (KIRSHNAYAMARI)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/gshin rje dgra nag_lord of death black enemy (kirshnayamari)/sgrub thabs_ritual for reaching the angel (sadhana)/s05338e_dpal gshin rje dgra nag gi sgrub pa'i thabs rin po che 'bar ba_the 'jewel of burning light,' being a ritual for reaching the glorious lord of death, the black enemy_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABeVA",
+    "revision_id": "625a49bb882e78d294473",
     "content_hash": "0faeabbcd20cd0f800359f1c25722f1ab9154d85e3fd0cd1bb67403a982cd4c3",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:17:54.739965",
+    "server_modified": "2024-10-29 21:52:57",
+    "last_sync": "2024-11-19 21:12:33.663720",
     "size": 46201,
     "meta_text": null,
     "cat_ref": "S05338E",
@@ -19,10 +19,10 @@
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "274687897848",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/GSHIN RJE DGRA NAG_LORD OF DEATH BLACK ENEMY (KIRSHNAYAMARI)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/GSHIN RJE DGRA NAG/SGRUB THABS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/LORD OF DEATH BLACK ENEMY (KIRSHNAYAMARI)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "_id": "149276155019",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSHIN RJE DGRA NAG_LORD OF DEATH BLACK ENEMY (KIRSHNAYAMARI)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/GSHIN RJE DGRA NAG/SGRUB THABS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/LORD OF DEATH BLACK ENEMY (KIRSHNAYAMARI)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
             "subject_tibetan": "SGRUB THABS",
             "subject_english": "RITUAL FOR REACHING THE ANGEL (SADHANA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/gshin rje dgra nag_lord of death black enemy (kirshnayamari)/sgrub thabs_ritual for reaching the angel (sadhana)",
-            "timestamp": "2024-09-10T02:17:54.742326+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSHIN RJE DGRA NAG_LORD OF DEATH BLACK ENEMY (KIRSHNAYAMARI)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "timestamp": "2024-11-20 05:12:33.670006+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:12:33.670006+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

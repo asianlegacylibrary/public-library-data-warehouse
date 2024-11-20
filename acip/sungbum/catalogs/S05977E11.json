@@ -1,14 +1,14 @@
 {
     "name": "S05977E11_PHRENG BA'I DKYIL 'KHOR ZHE GNYIS SAM BZHI BCU'I BRGYUD RIM GSOL 'DEBS DANG BCAS PA_The Lineage of Lamas for the Secret Worlds of the Garlands, either as Forty-Two or as Forty, along with a Supplication to Them_PAn CHEN BLO BZANG CHOS KYI +.TXT",
-    "path": "rgyud_secret teachings (tantra)/rdo rje phreng ba_string of diamonds (vajramala)/sgrub thabs_ritual for reaching the angel (sadhana)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/rdo rje phreng ba_string of diamonds (vajramala)/sgrub thabs_ritual for reaching the angel (sadhana)/s05977e11_phreng ba'i dkyil 'khor zhe gnyis sam bzhi bcu'i brgyud rim gsol 'debs dang bcas pa_the lineage of lamas for the secret worlds of the garlands, either as forty-two or as forty, along with a supplication to them_pan chen blo bzang chos kyi +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAIfA",
-    "revision_id": "613f664dc42988d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE PHRENG BA_STRING OF DIAMONDS (VAJRAMALA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/rdo rje phreng ba_string of diamonds (vajramala)/sgrub thabs_ritual for reaching the angel (sadhana)/s05977e11_phreng ba'i dkyil 'khor zhe gnyis sam bzhi bcu'i brgyud rim gsol 'debs dang bcas pa_the lineage of lamas for the secret worlds of the garlands, either as forty-two or as forty, along with a supplication to them_pan chen blo bzang chos kyi +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABeFg",
+    "revision_id": "625a49b35b7838d294473",
     "content_hash": "7f8c2825152de451fa2cf1aae7a27ffb3b2db8524b0b030d8e5e8ed55c731250",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:09:26.730528",
+    "server_modified": "2024-10-29 21:52:49",
+    "last_sync": "2024-11-19 21:11:58.569087",
     "size": 2315,
-    "meta_text": "RGYAL MTSAN (1565-1662)",
+    "meta_text": "('RGYAL MTSAN (1565-1662)', 'rtf')",
     "cat_ref": "S05977E11",
     "work_ref": "W.S05977E11",
     "title_tib": "PHRENG BA'I DKYIL 'KHOR ZHE GNYIS SAM BZHI BCU'I BRGYUD RIM GSOL 'DEBS DANG BCAS PA",
@@ -19,10 +19,10 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "763910775686",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE PHRENG BA_STRING OF DIAMONDS (VAJRAMALA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/RDO RJE PHRENG BA/SGRUB THABS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/STRING OF DIAMONDS (VAJRAMALA)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "_id": "178825965852",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE PHRENG BA_STRING OF DIAMONDS (VAJRAMALA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/RDO RJE PHRENG BA/SGRUB THABS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/STRING OF DIAMONDS (VAJRAMALA)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
             "subject_tibetan": "SGRUB THABS",
             "subject_english": "RITUAL FOR REACHING THE ANGEL (SADHANA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/rdo rje phreng ba_string of diamonds (vajramala)/sgrub thabs_ritual for reaching the angel (sadhana)",
-            "timestamp": "2024-09-10T02:09:26.749808+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE PHRENG BA_STRING OF DIAMONDS (VAJRAMALA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "timestamp": "2024-11-20 05:11:59.175676+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:11:59.175676+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

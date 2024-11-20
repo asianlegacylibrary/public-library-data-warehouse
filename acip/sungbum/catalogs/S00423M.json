@@ -1,28 +1,28 @@
 {
     "name": "S00423M_CHE SHOS MCHOG SPRUL RIN PO CHE NAS GNANG BA'I BKA' RTZOM THOG MA TSIGS BCAD GCIG GI 'GREL BA TSIG DON GSAL BA'I SGRON ME_'A Lamp for Illuminating the Meaning of the Words,' being a Commentary upon that Single Verse, the Very First Compositi+.TXT",
-    "path": "nyams len_personal practice/phyag 'tsal ba_the practice of prostration",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/phyag 'tsal ba_the practice of prostration/s00423m_che shos mchog sprul rin po che nas gnang ba'i bka' rtzom thog ma tsigs bcad gcig gi 'grel ba tsig don gsal ba'i sgron me_'a lamp for illuminating the meaning of the words,' being a commentary upon that single verse, the very first compositi+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAAXg",
-    "revision_id": "613f663b87ba78d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/PHYAG 'TSAL BA_THE PRACTICE OF PROSTRATION",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/phyag 'tsal ba_the practice of prostration/s00423m_che shos mchog sprul rin po che nas gnang ba'i bka' rtzom thog ma tsigs bcad gcig gi 'grel ba tsig don gsal ba'i sgron me_'a lamp for illuminating the meaning of the words,' being a commentary upon that single verse, the very first compositi+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABiUA",
+    "revision_id": "625a4a846b3808d294473",
     "content_hash": "991fbb09d3f01d2a0e5d6a2918320e1f762db8b2321ae20bde431f231b91c45c",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:01:24.336710",
+    "server_modified": "2024-10-29 21:56:28",
+    "last_sync": "2024-11-19 21:19:24.541030",
     "size": 4811,
-    "meta_text": "on Granted by that Supreme Emanation, Cheshu Rinpoche_DAR HAN CHOS RJE'I SPRUL MING YE SHES MKHAS BTZUN RGYA MTSO (1885-@)",
+    "meta_text": "(\"on Granted by that Supreme Emanation, Cheshu Rinpoche_DAR HAN CHOS RJE'I SPRUL MING YE SHES MKHAS BTZUN RGYA MTSO (1885-@)\", 'rtf')",
     "cat_ref": "S00423M",
     "work_ref": "W.S00423M",
     "title_tib": "CHE SHOS MCHOG SPRUL RIN PO CHE NAS GNANG BA'I BKA' RTZOM THOG MA TSIGS BCAD GCIG GI 'GREL BA TSIG DON GSAL BA'I SGRON ME",
-    "title_eng": "'A Lamp for Illuminating the Meaning of the Words,' being a Commentary upon that Single Verse, the Very First Composition Granted by that Supreme Emanation, Cheshu Rinpoche",
+    "title_eng": "'A Lamp for Illuminating the Meaning of the Words,' being a Commentary upon that Single Verse, the Very First Compositi(\"on Granted by that Supreme Emanation, Cheshu Rinpoche",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "DAR HAN CHOS RJE'I SPRUL MING YE SHES MKHAS BTZUN RGYA MTSO",
     "subject": [
         {
-            "_id": "275454602816",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/PHYAG 'TSAL BA_THE PRACTICE OF PROSTRATION",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/PHYAG 'TSAL BA",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/THE PRACTICE OF PROSTRATION",
+            "_id": "300037299186",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/PHYAG 'TSAL BA_THE PRACTICE OF PROSTRATION",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/PHYAG 'TSAL BA",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/THE PRACTICE OF PROSTRATION",
             "subject_tibetan": "PHYAG 'TSAL BA",
             "subject_english": "THE PRACTICE OF PROSTRATION"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/phyag 'tsal ba_the practice of prostration",
-            "timestamp": "2024-09-10T02:01:24.354550+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/PHYAG 'TSAL BA_THE PRACTICE OF PROSTRATION",
+            "timestamp": "2024-11-20 05:19:24.547102+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:19:24.547102+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,14 +1,14 @@
 {
     "name": "S05913E_DPAL DUS KYI 'KHOR LO'I SGRUB THABS MDOR BSDUS 'JAM DPAL DGONGS RGYAN_The 'Jewel of the True Thought of the Glorious Gentle Voice (Manjushri),' being a Brief Ritual for Reaching the Glorious Wheel of Time (Kalachakra)_PAn CHEN BLO BZANG CHOS +.TXT",
-    "path": "rgyud_secret teachings (tantra)/dus 'khor_wheel of time (kalachakra)/sgrub thabs_ritual for reaching the angel (sadhana)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/dus 'khor_wheel of time (kalachakra)/sgrub thabs_ritual for reaching the angel (sadhana)/s05913e_dpal dus kyi 'khor lo'i sgrub thabs mdor bsdus 'jam dpal dgongs rgyan_the 'jewel of the true thought of the glorious gentle voice (manjushri),' being a brief ritual for reaching the glorious wheel of time (kalachakra)_pan chen blo bzang chos +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAI4w",
-    "revision_id": "613f664dc42ff8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/dus 'khor_wheel of time (kalachakra)/sgrub thabs_ritual for reaching the angel (sadhana)/s05913e_dpal dus kyi 'khor lo'i sgrub thabs mdor bsdus 'jam dpal dgongs rgyan_the 'jewel of the true thought of the glorious gentle voice (manjushri),' being a brief ritual for reaching the glorious wheel of time (kalachakra)_pan chen blo bzang chos +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABaqQ",
+    "revision_id": "625a4931ddf558d294473",
     "content_hash": "63fadee9e479eec0acaccbf2335ab3e654430bfa208116890719d9f50697021b",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:09:53.645300",
+    "server_modified": "2024-10-29 21:50:33",
+    "last_sync": "2024-11-19 21:05:52.804269",
     "size": 34194,
-    "meta_text": "KYI RGYAL MTSAN (1565-1662)",
+    "meta_text": "('KYI RGYAL MTSAN (1565-1662)', 'rtf')",
     "cat_ref": "S05913E",
     "work_ref": "W.S05913E",
     "title_tib": "DPAL DUS KYI 'KHOR LO'I SGRUB THABS MDOR BSDUS 'JAM DPAL DGONGS RGYAN",
@@ -19,10 +19,10 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "114235599071",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/DUS 'KHOR/SGRUB THABS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/WHEEL OF TIME (KALACHAKRA)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "_id": "983365910768",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/DUS 'KHOR/SGRUB THABS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/WHEEL OF TIME (KALACHAKRA)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
             "subject_tibetan": "SGRUB THABS",
             "subject_english": "RITUAL FOR REACHING THE ANGEL (SADHANA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/dus 'khor_wheel of time (kalachakra)/sgrub thabs_ritual for reaching the angel (sadhana)",
-            "timestamp": "2024-09-10T02:09:53.656215+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "timestamp": "2024-11-20 05:05:53.418642+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:05:53.418642+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

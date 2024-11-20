@@ -1,14 +1,14 @@
 {
     "name": "S05980E_BSANGS KYI CHO GA DNGOS GRUB KYI GZI 'OD 'BAR BA NGO MTSAR RIN PO CHE'I PHRENG BA 'BRING BO_'An Incredible String of Jewels, Blazing with the Glory of Spiritual Attainments,' being a Ritual for the Offering of Sacred Smoke_PAn CHEN BLO BZAN+.TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/bsangs chog_ritual of purification",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/bsangs chog_ritual of purification/s05980e_bsangs kyi cho ga dngos grub kyi gzi 'od 'bar ba ngo mtsar rin po che'i phreng ba 'bring bo_'an incredible string of jewels, blazing with the glory of spiritual attainments,' being a ritual for the offering of sacred smoke_pan chen blo bzan+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAOlA",
-    "revision_id": "613f665b610ad8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BSANGS CHOG_RITUAL OF PURIFICATION",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyi_general treatments/bsangs chog_ritual of purification/s05980e_bsangs kyi cho ga dngos grub kyi gzi 'od 'bar ba ngo mtsar rin po che'i phreng ba 'bring bo_'an incredible string of jewels, blazing with the glory of spiritual attainments,' being a ritual for the offering of sacred smoke_pan chen blo bzan+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABZmQ",
+    "revision_id": "625a490caf57c8d294473",
     "content_hash": "693bb09a25828c804db1f78e58fe00206ebfbb33b3717a2edda38b6f3c94478d",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:15:55.890481",
+    "server_modified": "2024-10-29 21:49:54",
+    "last_sync": "2024-11-19 21:04:12.403258",
     "size": 22392,
-    "meta_text": "G CHOS KYI RGYAL MTSAN (1565-1662)",
+    "meta_text": "('G CHOS KYI RGYAL MTSAN (1565-1662)', 'rtf')",
     "cat_ref": "S05980E",
     "work_ref": "W.S05980E",
     "title_tib": "BSANGS KYI CHO GA DNGOS GRUB KYI GZI 'OD 'BAR BA NGO MTSAR RIN PO CHE'I PHRENG BA 'BRING BO",
@@ -19,10 +19,10 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "276529941023",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BSANGS CHOG_RITUAL OF PURIFICATION",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/BSANGS CHOG",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/RITUAL OF PURIFICATION",
+            "_id": "658173799647",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BSANGS CHOG_RITUAL OF PURIFICATION",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/BSANGS CHOG",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/RITUAL OF PURIFICATION",
             "subject_tibetan": "BSANGS CHOG",
             "subject_english": "RITUAL OF PURIFICATION"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/bsangs chog_ritual of purification",
-            "timestamp": "2024-09-10T02:15:55.911292+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BSANGS CHOG_RITUAL OF PURIFICATION",
+            "timestamp": "2024-11-20 05:04:13.103112+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:04:13.103112+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,12 +1,12 @@
 {
     "name": "S05611_LAM ZAB NANG MA'I BLA MA'I RNAL 'BYOR MTHO RIS DBANG GI CHU MO_\"The River of Empowerment into the Higher Realms,\" the Profound Path of Inner Lama Practice_RGYAL BA NGAG DBANG BLO BZANG RGYA MTSO (1617-1682).TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/bla ma'i rnal 'byor_lama practice (guru yoga)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/bla ma'i rnal 'byor_lama practice (guru yoga)/s05611_lam zab nang ma'i bla ma'i rnal 'byor mtho ris dbang gi chu mo_\"the river of empowerment into the higher realms,\" the profound path of inner lama practice_rgyal ba ngag dbang blo bzang rgya mtso (1617-1682).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAOpA",
-    "revision_id": "613f665b610bd8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BLA MA'I RNAL 'BYOR_LAMA PRACTICE (GURU YOGA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyi_general treatments/bla ma'i rnal 'byor_lama practice (guru yoga)/s05611_lam zab nang ma'i bla ma'i rnal 'byor mtho ris dbang gi chu mo_\"the river of empowerment into the higher realms,\" the profound path of inner lama practice_rgyal ba ngag dbang blo bzang rgya mtso (1617-1682).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABYqw",
+    "revision_id": "625a48e483d318d294473",
     "content_hash": "12709ede118dd5c937e31243fb1eebbea0433e3fb6900adc0418851d5e64f036",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:15:57.240034",
+    "server_modified": "2024-10-29 21:49:12",
+    "last_sync": "2024-11-19 21:02:47.933092",
     "size": 12943,
     "meta_text": null,
     "cat_ref": "S05611",
@@ -19,10 +19,10 @@
     "author_simple": "RGYAL BA NGAG DBANG BLO BZANG RGYA MTSO",
     "subject": [
         {
-            "_id": "268157052227",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BLA MA'I RNAL 'BYOR_LAMA PRACTICE (GURU YOGA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/BLA MA'I RNAL 'BYOR",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/LAMA PRACTICE (GURU YOGA)",
+            "_id": "292269128056",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BLA MA'I RNAL 'BYOR_LAMA PRACTICE (GURU YOGA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/BLA MA'I RNAL 'BYOR",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/LAMA PRACTICE (GURU YOGA)",
             "subject_tibetan": "BLA MA'I RNAL 'BYOR",
             "subject_english": "LAMA PRACTICE (GURU YOGA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P37"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/bla ma'i rnal 'byor_lama practice (guru yoga)",
-            "timestamp": "2024-09-10T02:15:57.242307+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BLA MA'I RNAL 'BYOR_LAMA PRACTICE (GURU YOGA)",
+            "timestamp": "2024-11-20 05:02:47.937820+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:02:47.937820+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

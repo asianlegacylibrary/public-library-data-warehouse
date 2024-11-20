@@ -1,12 +1,12 @@
 {
     "name": "S00017N_BSAM GZUGS KYI MTHA' DPYOD_A Dialectic Analysis of the Meditations of the Form and Formless Realms_MKHAS GRUB BSTAN PA DAR RGYAS (1493-1568).TXT",
-    "path": "phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/bsam gzugs_form & formless realms/mkhas grub bstan pa dar rgyas_kedrup tenpa dargye (1493-1568)/mtha' dpyod_dialectic analysis",
-    "download_path": "/sungbum updated 4 26 23 bk/phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/bsam gzugs_form & formless realms/mkhas grub bstan pa dar rgyas_kedrup tenpa dargye (1493-1568)/mtha' dpyod_dialectic analysis/s00017n_bsam gzugs kyi mtha' dpyod_a dialectic analysis of the meditations of the form and formless realms_mkhas grub bstan pa dar rgyas (1493-1568).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAVog",
-    "revision_id": "613f666d208be8d294473",
+    "path": "PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/BSAM GZUGS_FORM & FORMLESS REALMS/MKHAS GRUB BSTAN PA DAR RGYAS_KEDRUP TENPA DARGYE (1493-1568)/MTHA' DPYOD_DIALECTIC ANALYSIS",
+    "download_path": "/sungbum updated 7 30 23 nl/phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/bsam gzugs_form & formless realms/mkhas grub bstan pa dar rgyas_kedrup tenpa dargye (1493-1568)/mtha' dpyod_dialectic analysis/s00017n_bsam gzugs kyi mtha' dpyod_a dialectic analysis of the meditations of the form and formless realms_mkhas grub bstan pa dar rgyas (1493-1568).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABOug",
+    "revision_id": "625a47777da258d294473",
     "content_hash": "2b044ef17e05dcf1d9c6e3d44adb62c1c7cb43d3a28a454d0bf7891fdc41928a",
-    "server_modified": "2024-03-18T21:54:28",
-    "last_sync": "2024-09-09T19:22:53.084383",
+    "server_modified": "2024-10-29 21:42:49",
+    "last_sync": "2024-11-19 20:46:45.105051",
     "size": 71819,
     "meta_text": null,
     "cat_ref": "S00017N",
@@ -19,10 +19,10 @@
     "author_simple": "MKHAS GRUB BSTAN PA DAR RGYAS",
     "subject": [
         {
-            "_id": "333341616440",
-            "subject_path": "SUNGBUM_SUNGBUM/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/BSAM GZUGS_FORM & FORMLESS REALMS/MKHAS GRUB BSTAN PA DAR RGYAS_KEDRUP TENPA DARGYE (1493-1568)/MTHA' DPYOD_DIALECTIC ANALYSIS",
-            "subject_path_tibetan": "SUNGBUM/PHAR PHYIN/BSAM GZUGS/MKHAS GRUB BSTAN PA DAR RGYAS/MTHA' DPYOD",
-            "subject_path_english": "SUNGBUM/PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/FORM & FORMLESS REALMS/KEDRUP TENPA DARGYE (1493-1568)/DIALECTIC ANALYSIS",
+            "_id": "361264707038",
+            "subject_path": "GSUNG 'BUM_Sungbum/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/BSAM GZUGS_FORM & FORMLESS REALMS/MKHAS GRUB BSTAN PA DAR RGYAS_KEDRUP TENPA DARGYE (1493-1568)/MTHA' DPYOD_DIALECTIC ANALYSIS",
+            "subject_path_tibetan": "GSUNG 'BUM/PHAR PHYIN/BSAM GZUGS/MKHAS GRUB BSTAN PA DAR RGYAS/MTHA' DPYOD",
+            "subject_path_english": "Sungbum/PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/FORM & FORMLESS REALMS/KEDRUP TENPA DARGYE (1493-1568)/DIALECTIC ANALYSIS",
             "subject_tibetan": "MTHA' DPYOD",
             "subject_english": "DIALECTIC ANALYSIS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P996"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/bsam gzugs_form & formless realms/mkhas grub bstan pa dar rgyas_kedrup tenpa dargye (1493-1568)/mtha' dpyod_dialectic analysis",
-            "timestamp": "2024-09-10T02:22:53.086318+00:00"
+            "path": "GSUNG 'BUM_Sungbum/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/BSAM GZUGS_FORM & FORMLESS REALMS/MKHAS GRUB BSTAN PA DAR RGYAS_KEDRUP TENPA DARGYE (1493-1568)/MTHA' DPYOD_DIALECTIC ANALYSIS",
+            "timestamp": "2024-11-20 04:46:45.109570+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:46:45.109570+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

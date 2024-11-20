@@ -1,12 +1,12 @@
 {
     "name": "S00456M_BCA' MTSAMS BLO GSAL SGEG MO'I MGUL RGYAN_'A Necklace for Ladies of Lovely Poses, Disciples of Clear Minds,' being a Book of Monastic Rules_@ (@-@).TXT",
-    "path": "bca' yig_official documents/dge 'phel gling_gepel ling monastery",
-    "download_path": "/sungbum updated 4 26 23 bk/bca' yig_official documents/dge 'phel gling_gepel ling monastery/s00456m_bca' mtsams blo gsal sgeg mo'i mgul rgyan_'a necklace for ladies of lovely poses, disciples of clear minds,' being a book of monastic rules_@ (@-@).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAEzg",
-    "revision_id": "613f6644849f28d294473",
+    "path": "BCA' YIG_OFFICIAL DOCUMENTS/DGE 'PHEL GLING_GEPEL LING MONASTERY",
+    "download_path": "/sungbum updated 7 30 23 nl/bca' yig_official documents/dge 'phel gling_gepel ling monastery/s00456m_bca' mtsams blo gsal sgeg mo'i mgul rgyan_'a necklace for ladies of lovely poses, disciples of clear minds,' being a book of monastic rules_@ (@-@).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABlBA",
+    "revision_id": "625a4ae01a03d8d294473",
     "content_hash": "76315288e5f0181f5ccfca998d67fb4ae936272e100cbd4c5eb1a8f6a8d7420f",
-    "server_modified": "2024-03-18T21:53:45",
-    "last_sync": "2024-09-09T19:06:01.361886",
+    "server_modified": "2024-10-29 21:58:04",
+    "last_sync": "2024-11-19 21:24:20.057979",
     "size": 18207,
     "meta_text": null,
     "cat_ref": "S00456M",
@@ -19,10 +19,10 @@
     "author_simple": "",
     "subject": [
         {
-            "_id": "245403897639",
-            "subject_path": "SUNGBUM_SUNGBUM/BCA' YIG_OFFICIAL DOCUMENTS/DGE 'PHEL GLING_GEPEL LING MONASTERY",
-            "subject_path_tibetan": "SUNGBUM/BCA' YIG/DGE 'PHEL GLING",
-            "subject_path_english": "SUNGBUM/OFFICIAL DOCUMENTS/GEPEL LING MONASTERY",
+            "_id": "101552876928",
+            "subject_path": "GSUNG 'BUM_Sungbum/BCA' YIG_OFFICIAL DOCUMENTS/DGE 'PHEL GLING_GEPEL LING MONASTERY",
+            "subject_path_tibetan": "GSUNG 'BUM/BCA' YIG/DGE 'PHEL GLING",
+            "subject_path_english": "Sungbum/OFFICIAL DOCUMENTS/GEPEL LING MONASTERY",
             "subject_tibetan": "DGE 'PHEL GLING",
             "subject_english": "GEPEL LING MONASTERY"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "bca' yig_official documents/dge 'phel gling_gepel ling monastery",
-            "timestamp": "2024-09-10T02:06:01.372092+00:00"
+            "path": "GSUNG 'BUM_Sungbum/BCA' YIG_OFFICIAL DOCUMENTS/DGE 'PHEL GLING_GEPEL LING MONASTERY",
+            "timestamp": "2024-11-20 05:24:22.178577+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:24:22.178577+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,12 +1,12 @@
 {
     "name": "S05443_RIGS PA DRUG CU PA'I t'IKKA_W29194_05CA.txt",
-    "path": "dbu ma_middle-way philosophy (madhyamika prasangika school)/rigs pa drug cu pa",
-    "download_path": "/sungbum updated 4 26 23 bk/dbu ma_middle-way philosophy (madhyamika prasangika school)/rigs pa drug cu pa/s05443_rigs pa drug cu pa'i t'ikka_w29194_05ca.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAEKA",
-    "revision_id": "613f66448494c8d294473",
+    "path": "DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/RIGS PA DRUG CU PA",
+    "download_path": "/sungbum updated 7 30 23 nl/dbu ma_middle-way philosophy (madhyamika prasangika school)/rigs pa drug cu pa/s05443_rigs pa drug cu pa'i t'ikka_w29194_05ca.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABRPw",
+    "revision_id": "625a47e0aae0f8d294473",
     "content_hash": "8ab2830a25946a3ef90288ad1b01ec05c51c40568db89f6d70ef815d8d736fc3",
-    "server_modified": "2024-03-18T21:53:45",
-    "last_sync": "2024-09-09T19:05:26.071670",
+    "server_modified": "2024-10-29 21:44:39",
+    "last_sync": "2024-11-19 20:51:33.809241",
     "size": 98692,
     "meta_text": null,
     "cat_ref": "S05443",
@@ -19,10 +19,10 @@
     "author_simple": "",
     "subject": [
         {
-            "_id": "141264005020",
-            "subject_path": "SUNGBUM_SUNGBUM/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/RIGS PA DRUG CU PA",
-            "subject_path_tibetan": "SUNGBUM/DBU MA/RIGS PA DRUG CU PA",
-            "subject_path_english": "SUNGBUM/MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)",
+            "_id": "175174343068",
+            "subject_path": "GSUNG 'BUM_Sungbum/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/RIGS PA DRUG CU PA",
+            "subject_path_tibetan": "GSUNG 'BUM/DBU MA/RIGS PA DRUG CU PA",
+            "subject_path_english": "Sungbum/MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)",
             "subject_tibetan": "RIGS PA DRUG CU PA",
             "subject_english": "MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "dbu ma_middle-way philosophy (madhyamika prasangika school)/rigs pa drug cu pa",
-            "timestamp": "2024-09-10T02:05:26.081081+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/RIGS PA DRUG CU PA",
+            "timestamp": "2024-11-20 04:51:33.816680+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:51:33.816680+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

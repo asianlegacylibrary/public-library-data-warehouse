@@ -1,28 +1,28 @@
 {
     "name": "S06825M_ 'DIR 'GOG SNYOMS BRGAL LAN GYI RNAM GZHAG RJE BTZUN RANG GI GSUNG RIGS ZIN BRIS SU BGYIS PA BZHUGS YOD, RJES SU THOD RGAL YANG BZHUGS YOD_Herein contained are Notes on a Teaching Delivered by the Venerable One Himself-- a Treatise Presentin+.TXT",
-    "path": "phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/'gog snyoms_cessation meditation",
-    "download_path": "/sungbum updated 4 26 23 bk/phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/'gog snyoms_cessation meditation/s06825m_ 'dir 'gog snyoms brgal lan gyi rnam gzhag rje btzun rang gi gsung rigs zin bris su bgyis pa bzhugs yod, rjes su thod rgal yang bzhugs yod_herein contained are notes on a teaching delivered by the venerable one himself-- a treatise presentin+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAUyg",
-    "revision_id": "613f6668766308d294473",
+    "path": "PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/'GOG SNYOMS_CESSATION MEDITATION",
+    "download_path": "/sungbum updated 7 30 23 nl/phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/'gog snyoms_cessation meditation/s06825m_ 'dir 'gog snyoms brgal lan gyi rnam gzhag rje btzun rang gi gsung rigs zin bris su bgyis pa bzhugs yod, rjes su thod rgal yang bzhugs yod_herein contained are notes on a teaching delivered by the venerable one himself-- a treatise presentin+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABOpA",
+    "revision_id": "625a4774f539e8d294473",
     "content_hash": "ff35dc2865ce09562e3fc1afacb0959233c02ac35ae200915b3a7b1beeb75173",
-    "server_modified": "2024-03-18T21:54:23",
-    "last_sync": "2024-09-09T19:21:52.782222",
+    "server_modified": "2024-10-29 21:42:46",
+    "last_sync": "2024-11-19 20:46:39.320014",
     "size": 76938,
-    "meta_text": "g a Defense of Positions Taken on the Subject of Cessation Meditation; as well as a Subsequent Section on the Practice of Skipping Levels in Meditation_SE RA RJE BTZUN CHOS KYI RGYAL MTSAN (1469-1546)",
+    "meta_text": "('g a Defense of Positions Taken on the Subject of Cessation Meditation; as well as a Subsequent Section on the Practice of Skipping Levels in Meditation_SE RA RJE BTZUN CHOS KYI RGYAL MTSAN (1469-1546)', 'rtf')",
     "cat_ref": "S06825M",
     "work_ref": "W.S06825M",
     "title_tib": "'DIR 'GOG SNYOMS BRGAL LAN GYI RNAM GZHAG RJE BTZUN RANG GI GSUNG RIGS ZIN BRIS SU BGYIS PA BZHUGS YOD, RJES SU THOD RGAL YANG BZHUGS YOD",
-    "title_eng": "Herein contained are Notes on a Teaching Delivered by the Venerable One Himself-- a Treatise Presenting a Defense of Positions Taken on the Subject of Cessation Meditation; as well as a Subsequent Section on the Practice of Skipping Levels in Meditation",
+    "title_eng": "Herein contained are Notes on a Teaching Delivered by the Venerable One Himself-- a Treatise Presentin('g a Defense of Positions Taken on the Subject of Cessation Meditation; as well as a Subsequent Section on the Practice of Skipping Levels in Meditation",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "SE RA RJE BTZUN CHOS KYI RGYAL MTSAN",
     "subject": [
         {
-            "_id": "317510761915",
-            "subject_path": "SUNGBUM_SUNGBUM/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/'GOG SNYOMS_CESSATION MEDITATION",
-            "subject_path_tibetan": "SUNGBUM/PHAR PHYIN/'GOG SNYOMS",
-            "subject_path_english": "SUNGBUM/PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/CESSATION MEDITATION",
+            "_id": "202351004374",
+            "subject_path": "GSUNG 'BUM_Sungbum/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/'GOG SNYOMS_CESSATION MEDITATION",
+            "subject_path_tibetan": "GSUNG 'BUM/PHAR PHYIN/'GOG SNYOMS",
+            "subject_path_english": "Sungbum/PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/CESSATION MEDITATION",
             "subject_tibetan": "'GOG SNYOMS",
             "subject_english": "CESSATION MEDITATION"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P477"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/'gog snyoms_cessation meditation",
-            "timestamp": "2024-09-10T02:21:52.783887+00:00"
+            "path": "GSUNG 'BUM_Sungbum/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/'GOG SNYOMS_CESSATION MEDITATION",
+            "timestamp": "2024-11-20 04:46:39.325287+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:46:39.325287+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

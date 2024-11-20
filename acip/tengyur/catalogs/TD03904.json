@@ -1,45 +1,53 @@
 {
     "name": "TD03904_TSAD MA RNAM PAR 'JOMS PA MDOR BSHAD PA'I 'GREL PA ZHES BYA BA (Tarkavighātaṭippiṭaka Vṛtti).txt",
-    "path": "TENGYUR_TENGYUR/04 DBU MA_Middle Way School (Madhyamaka)/VOL 14 (AA)",
+    "path": "04 DBU MA_Middle Way School (Madhyamaka)/VOL 14 (AA)",
     "download_path": "/tengyur updated 10 31 24 ws/04 dbu ma_middle way school (madhyamaka)/vol 14 (aa)/td03904_tsad ma rnam par 'joms pa mdor bshad pa'i 'grel pa zhes bya ba (tarkavighātaṭippiṭaka vṛtti).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB3AA",
     "revision_id": "62633bb24f2b18d294473",
     "content_hash": "352063c48eab8bd9679628347e96fb6494ec867092c0d944ee6ddf4312ef5868",
     "server_modified": "2024-11-06 00:38:05",
-    "last_sync": "2024-11-13 01:58:05.606160+00:00",
+    "last_sync": "2024-11-20 03:58:57.322396",
     "size": 10904,
+    "meta_text": null,
     "cat_ref": "TD03904",
     "work_ref": "W.TD03904",
-    "title_tib": "TSAD MA RNAM PAR 'JOMS PA MDOR BSHAD PA'I 'GREL PA ZHES BYA BA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "107168951342",
-            "subject_path": "TENGYUR_TENGYUR/04 DBU MA_Middle Way School (Madhyamaka)/VOL 14 (AA)",
-            "subject_path_tibetan": "TENGYUR/DBU MA/14 (AA)",
-            "subject_path_english": "TENGYUR/Middle Way School (Madhyamaka)/VOL 14 (AA)",
-            "subject_tibetan": "14 (AA)",
-            "subject_english": "VOL 14 (AA)"
+            "_id": "235565101896",
+            "subject_path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 14 (AA)",
+            "subject_path_tibetan": "BSTAN 'GYUR/04 DBU MA/VOL 14 (AA)",
+            "subject_path_english": "Tengyur/Middle Way School (Madhyamaka)",
+            "subject_tibetan": "VOL 14 (AA)",
+            "subject_english": "Middle Way School (Madhyamaka)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Tarkavighātaṭippiṭaka Vṛtti",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 14 (AA)",
+            "timestamp": "2024-11-20 11:58:57.342584+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:58:05.885286+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T11:58:57.342584+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/04 DBU MA_Middle Way School (Madhyamaka)/VOL 14 (AA)",
-            "timestamp": "2024-11-13 01:58:05.885286+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

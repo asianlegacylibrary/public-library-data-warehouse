@@ -1,12 +1,12 @@
 {
     "name": "S06383E_BRGYA BZHI'I CHO GA JI LTAR BYA TSUL NAG 'GROS SU BKOD PA_A Ritual for Performing the Practice of the Four Hundreds, written in a Form to Facilitate Recitation_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/bzlog pa_repelling evil spirits",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/bzlog pa_repelling evil spirits/s06383e_brgya bzhi'i cho ga ji ltar bya tsul nag 'gros su bkod pa_a ritual for performing the practice of the four hundreds, written in a form to facilitate recitation_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAANhQ",
-    "revision_id": "613f6656dee568d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BZLOG PA_REPELLING EVIL SPIRITS",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyi_general treatments/bzlog pa_repelling evil spirits/s06383e_brgya bzhi'i cho ga ji ltar bya tsul nag 'gros su bkod pa_a ritual for performing the practice of the four hundreds, written in a form to facilitate recitation_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABZIQ",
+    "revision_id": "625a48f5e64f38d294473",
     "content_hash": "e0ed453d4cd86058595f5ba986cfb543dce656a422aec36b98125013cec77cf7",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:14:53.886339",
+    "server_modified": "2024-10-29 21:49:30",
+    "last_sync": "2024-11-19 21:03:39.844400",
     "size": 16033,
     "meta_text": null,
     "cat_ref": "S06383E",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "289210334279",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BZLOG PA_REPELLING EVIL SPIRITS",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/BZLOG PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/REPELLING EVIL SPIRITS",
+            "_id": "220133409586",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BZLOG PA_REPELLING EVIL SPIRITS",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/BZLOG PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/REPELLING EVIL SPIRITS",
             "subject_tibetan": "BZLOG PA",
             "subject_english": "REPELLING EVIL SPIRITS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/bzlog pa_repelling evil spirits",
-            "timestamp": "2024-09-10T02:14:53.896192+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BZLOG PA_REPELLING EVIL SPIRITS",
+            "timestamp": "2024-11-20 05:03:40.542155+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:03:40.542155+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

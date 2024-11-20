@@ -1,12 +1,12 @@
 {
     "name": "S00074M_RTAGS RIGS KYI RNAM BZHAG LUNG RIGS KYI SNYING PO BSDUS PA_The 'Brief Essence of Scriptural Authority and Reasoning,' being a Presentation on the Science of Reasoning_CO NE BLA MA GRAGS PA BSHAD SGRUB (1675-1748).TXT",
-    "path": "tsad ma_study of accurate perception (sautrantika school)/bsdus grva_collected topics of logic/rtags rigs_formal logic",
-    "download_path": "/sungbum updated 4 26 23 bk/tsad ma_study of accurate perception (sautrantika school)/bsdus grva_collected topics of logic/rtags rigs_formal logic/s00074m_rtags rigs kyi rnam bzhag lung rigs kyi snying po bsdus pa_the 'brief essence of scriptural authority and reasoning,' being a presentation on the science of reasoning_co ne bla ma grags pa bshad sgrub (1675-1748).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAGBw",
-    "revision_id": "613f66492f0718d294473",
+    "path": "TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/BSDUS GRVA_COLLECTED TOPICS OF LOGIC/RTAGS RIGS_FORMAL LOGIC",
+    "download_path": "/sungbum updated 7 30 23 nl/tsad ma_study of accurate perception (sautrantika school)/bsdus grva_collected topics of logic/rtags rigs_formal logic/s00074m_rtags rigs kyi rnam bzhag lung rigs kyi snying po bsdus pa_the 'brief essence of scriptural authority and reasoning,' being a presentation on the science of reasoning_co ne bla ma grags pa bshad sgrub (1675-1748).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABQEg",
+    "revision_id": "625a47b5c8ef88d294473",
     "content_hash": "4199c99b826444c4ddb412af6a352729b0d8ced7a49214906b9e2251e068ccab",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:07:10.704682",
+    "server_modified": "2024-10-29 21:43:54",
+    "last_sync": "2024-11-19 20:49:02.490673",
     "size": 47113,
     "meta_text": null,
     "cat_ref": "S00074M",
@@ -19,10 +19,10 @@
     "author_simple": "CO NE BLA MA GRAGS PA BSHAD SGRUB",
     "subject": [
         {
-            "_id": "280912124319",
-            "subject_path": "SUNGBUM_SUNGBUM/TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/BSDUS GRVA_COLLECTED TOPICS OF LOGIC/RTAGS RIGS_FORMAL LOGIC",
-            "subject_path_tibetan": "SUNGBUM/TSAD MA/BSDUS GRVA/RTAGS RIGS",
-            "subject_path_english": "SUNGBUM/STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/COLLECTED TOPICS OF LOGIC/FORMAL LOGIC",
+            "_id": "173588355784",
+            "subject_path": "GSUNG 'BUM_Sungbum/TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/BSDUS GRVA_COLLECTED TOPICS OF LOGIC/RTAGS RIGS_FORMAL LOGIC",
+            "subject_path_tibetan": "GSUNG 'BUM/TSAD MA/BSDUS GRVA/RTAGS RIGS",
+            "subject_path_english": "Sungbum/STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/COLLECTED TOPICS OF LOGIC/FORMAL LOGIC",
             "subject_tibetan": "RTAGS RIGS",
             "subject_english": "FORMAL LOGIC"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P1629"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "tsad ma_study of accurate perception (sautrantika school)/bsdus grva_collected topics of logic/rtags rigs_formal logic",
-            "timestamp": "2024-09-10T02:07:10.715849+00:00"
+            "path": "GSUNG 'BUM_Sungbum/TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/BSDUS GRVA_COLLECTED TOPICS OF LOGIC/RTAGS RIGS_FORMAL LOGIC",
+            "timestamp": "2024-11-20 04:49:03.330107+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:49:03.330107+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

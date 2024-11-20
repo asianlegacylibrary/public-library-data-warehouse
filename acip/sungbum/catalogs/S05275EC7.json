@@ -1,12 +1,12 @@
 {
     "name": "S05275EC7_RJE BTZUN RED MDA' PA'I GSUNG NGAG DRIS LAN_Response to a Question posed by the Venerable Rendawa_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419).TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/'grel pa_general commentaries/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/'grel pa_general commentaries/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)/s05275ec7_rje btzun red mda' pa'i gsung ngag dris lan_response to a question posed by the venerable rendawa_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAANSg",
-    "revision_id": "613f6656dee1b8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/'GREL PA_GENERAL COMMENTARIES/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyi_general treatments/'grel pa_general commentaries/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)/s05275ec7_rje btzun red mda' pa'i gsung ngag dris lan_response to a question posed by the venerable rendawa_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABadQ",
+    "revision_id": "625a492e12a408d294473",
     "content_hash": "3d5bd32e093a58a1df737361091dbf12e262720f8d5e394e1f243cc580285add",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:14:44.408402",
+    "server_modified": "2024-10-29 21:50:29",
+    "last_sync": "2024-11-19 21:05:22.189299",
     "size": 17998,
     "meta_text": null,
     "cat_ref": "S05275EC7",
@@ -19,10 +19,10 @@
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "252003746730",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/'GREL PA_GENERAL COMMENTARIES/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/'GREL PA/RJE TZONG KHA PA BLO BZANG GRAGS PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/GENERAL COMMENTARIES/JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
+            "_id": "111257365936",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/'GREL PA_GENERAL COMMENTARIES/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/'GREL PA/RJE TZONG KHA PA BLO BZANG GRAGS PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/GENERAL COMMENTARIES/JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
             "subject_tibetan": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
             "subject_english": "JE TSONGKAPA LOBSANG DRAKPA (1357-1419)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/'grel pa_general commentaries/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)",
-            "timestamp": "2024-09-10T02:14:44.416423+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/'GREL PA_GENERAL COMMENTARIES/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
+            "timestamp": "2024-11-20 05:05:22.906918+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:05:22.906918+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

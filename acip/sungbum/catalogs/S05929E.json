@@ -1,28 +1,28 @@
 {
     "name": "S05929E_ 'PHAGS PA ZHAL BCU GCIG PA'I SGRUB THABS SMYUNG BAR GNAS PA'I CHO GA NOR BU'I 'PHRENG BA_The 'String of Precious Jewels,' being a Ritual for Reaching, through the Practice of Fasting, that Realized Being, the Eleven-Faced One (Ekadasha Mukh+.TXT",
-    "path": "rgyud_secret teachings (tantra)/zhal bcu gcig_eleven-faced one (ekadashamukha)/smyung gnas_practice of fasting",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/zhal bcu gcig_eleven-faced one (ekadashamukha)/smyung gnas_practice of fasting/s05929e_ 'phags pa zhal bcu gcig pa'i sgrub thabs smyung bar gnas pa'i cho ga nor bu'i 'phreng ba_the 'string of precious jewels,' being a ritual for reaching, through the practice of fasting, that realized being, the eleven-faced one (ekadasha mukh+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAHbg",
-    "revision_id": "613f66492f1d88d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/ZHAL BCU GCIG_ELEVEN-FACED ONE (EKADASHAMUKHA)/SMYUNG GNAS_PRACTICE OF FASTING",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/zhal bcu gcig_eleven-faced one (ekadashamukha)/smyung gnas_practice of fasting/s05929e_ 'phags pa zhal bcu gcig pa'i sgrub thabs smyung bar gnas pa'i cho ga nor bu'i 'phreng ba_the 'string of precious jewels,' being a ritual for reaching, through the practice of fasting, that realized being, the eleven-faced one (ekadasha mukh+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABV2g",
+    "revision_id": "625a48960683b8d294473",
     "content_hash": "96b3436530e01567f8352689897ad623d79b6fbb5c01ed1090c96a1688a9fd1a",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:08:31.636120",
+    "server_modified": "2024-10-29 21:47:49",
+    "last_sync": "2024-11-19 20:58:12.125333",
     "size": 28331,
-    "meta_text": "a)_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)",
+    "meta_text": "('a)_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)', 'rtf')",
     "cat_ref": "S05929E",
     "work_ref": "W.S05929E",
     "title_tib": "'PHAGS PA ZHAL BCU GCIG PA'I SGRUB THABS SMYUNG BAR GNAS PA'I CHO GA NOR BU'I 'PHRENG BA",
-    "title_eng": "The 'String of Precious Jewels,' being a Ritual for Reaching, through the Practice of Fasting, that Realized Being, the Eleven-Faced One (Ekadasha Mukha)",
+    "title_eng": "The 'String of Precious Jewels,' being a Ritual for Reaching, through the Practice of Fasting, that Realized Being, the Eleven-Faced One (Ekadasha Mukh('a)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "120303753439",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/ZHAL BCU GCIG_ELEVEN-FACED ONE (EKADASHAMUKHA)/SMYUNG GNAS_PRACTICE OF FASTING",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/ZHAL BCU GCIG/SMYUNG GNAS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/ELEVEN-FACED ONE (EKADASHAMUKHA)/PRACTICE OF FASTING",
+            "_id": "330303523295",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/ZHAL BCU GCIG_ELEVEN-FACED ONE (EKADASHAMUKHA)/SMYUNG GNAS_PRACTICE OF FASTING",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/ZHAL BCU GCIG/SMYUNG GNAS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/ELEVEN-FACED ONE (EKADASHAMUKHA)/PRACTICE OF FASTING",
             "subject_tibetan": "SMYUNG GNAS",
             "subject_english": "PRACTICE OF FASTING"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/zhal bcu gcig_eleven-faced one (ekadashamukha)/smyung gnas_practice of fasting",
-            "timestamp": "2024-09-10T02:08:31.651566+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/ZHAL BCU GCIG_ELEVEN-FACED ONE (EKADASHAMUKHA)/SMYUNG GNAS_PRACTICE OF FASTING",
+            "timestamp": "2024-11-20 04:58:13.076682+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:58:13.076682+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

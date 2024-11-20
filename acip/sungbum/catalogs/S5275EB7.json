@@ -1,12 +1,12 @@
 {
     "name": "S5275EB7_'KHOR LO BDE MCHOG GI MCHOD 'BUL SMON LAM BKRA SHIS DANG BCAS PA_A Ritual of Offering in the Practice of the Wheel of Highest Bliss (Chakrasamvara), along with a Prayer and Words of Benediction_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419).TXT",
-    "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/mchod pa_offering",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/mchod pa_offering/s5275eb7_'khor lo bde mchog gi mchod 'bul smon lam bkra shis dang bcas pa_a ritual of offering in the practice of the wheel of highest bliss (chakrasamvara), along with a prayer and words of benediction_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAPOQ",
-    "revision_id": "613f665b611528d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/MCHOD PA_OFFERING",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/mchod pa_offering/s5275eb7_'khor lo bde mchog gi mchod 'bul smon lam bkra shis dang bcas pa_a ritual of offering in the practice of the wheel of highest bliss (chakrasamvara), along with a prayer and words of benediction_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABUhw",
+    "revision_id": "625a48684cd178d294473",
     "content_hash": "61d57ab31a95a14c435c6803bc247c4e9b2750046da95f8ebb7cceae25c933fd",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:16:34.545116",
+    "server_modified": "2024-10-29 21:47:01",
+    "last_sync": "2024-11-19 20:55:43.936514",
     "size": 35890,
     "meta_text": null,
     "cat_ref": "S5275EB7",
@@ -19,10 +19,10 @@
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "266145407155",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/MCHOD PA_OFFERING",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/BDE MCHOG/MCHOD PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/OFFERING",
+            "_id": "189881822134",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/MCHOD PA_OFFERING",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/BDE MCHOG/MCHOD PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/OFFERING",
             "subject_tibetan": "MCHOD PA",
             "subject_english": "OFFERING"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/mchod pa_offering",
-            "timestamp": "2024-09-10T02:16:34.547097+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/MCHOD PA_OFFERING",
+            "timestamp": "2024-11-20 04:55:43.940988+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:55:43.940988+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,12 +1,12 @@
 {
     "name": "S00099E_MGON PO'I SNYEN BSGRUB KYI YIG CHUNG_Instructions for Performing a Retreat to Reach the Protector (Mahakala)_LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN (1642-1714).TXT",
-    "path": "rgyud_secret teachings (tantra)/mgon po_the protector (mahakala)/bsnyen pa_retreat instructions",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/mgon po_the protector (mahakala)/bsnyen pa_retreat instructions/s00099e_mgon po'i snyen bsgrub kyi yig chung_instructions for performing a retreat to reach the protector (mahakala)_lcang skya ngag dbang blo bzang chos ldan (1642-1714).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAIhA",
-    "revision_id": "613f664dc42a08d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/MGON PO_THE PROTECTOR (MAHAKALA)/BSNYEN PA_RETREAT INSTRUCTIONS",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/mgon po_the protector (mahakala)/bsnyen pa_retreat instructions/s00099e_mgon po'i snyen bsgrub kyi yig chung_instructions for performing a retreat to reach the protector (mahakala)_lcang skya ngag dbang blo bzang chos ldan (1642-1714).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABUJg",
+    "revision_id": "625a485d51aac8d294473",
     "content_hash": "04ca96339510ac7b568294c31ef7294f3da3ceec13cb9a4b724b10f08321b4c6",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:09:29.375787",
+    "server_modified": "2024-10-29 21:46:50",
+    "last_sync": "2024-11-19 20:54:59.528094",
     "size": 2846,
     "meta_text": null,
     "cat_ref": "S00099E",
@@ -19,10 +19,10 @@
     "author_simple": "LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN",
     "subject": [
         {
-            "_id": "128110965195",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/MGON PO_THE PROTECTOR (MAHAKALA)/BSNYEN PA_RETREAT INSTRUCTIONS",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/MGON PO/BSNYEN PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/THE PROTECTOR (MAHAKALA)/RETREAT INSTRUCTIONS",
+            "_id": "142137394349",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/MGON PO_THE PROTECTOR (MAHAKALA)/BSNYEN PA_RETREAT INSTRUCTIONS",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/MGON PO/BSNYEN PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/THE PROTECTOR (MAHAKALA)/RETREAT INSTRUCTIONS",
             "subject_tibetan": "BSNYEN PA",
             "subject_english": "RETREAT INSTRUCTIONS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P209"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/mgon po_the protector (mahakala)/bsnyen pa_retreat instructions",
-            "timestamp": "2024-09-10T02:09:29.390604+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/MGON PO_THE PROTECTOR (MAHAKALA)/BSNYEN PA_RETREAT INSTRUCTIONS",
+            "timestamp": "2024-11-20 04:55:01.241073+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:55:01.241073+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

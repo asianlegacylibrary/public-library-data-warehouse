@@ -1,12 +1,12 @@
 {
     "name": "S06377E1_MGON DKAR YID BZHIN NOR BU'I RJES GNANG BYA TSUL_Method for Granting Permission into the Practice of the White Protector (Sita Mahakala), the Wish-Fulfilling Jewel_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/mgon po_the protector (mahakala)/rjes gnang_rites of permission (anujna)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/mgon po_the protector (mahakala)/rjes gnang_rites of permission (anujna)/s06377e1_mgon dkar yid bzhin nor bu'i rjes gnang bya tsul_method for granting permission into the practice of the white protector (sita mahakala), the wish-fulfilling jewel_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAIiA",
-    "revision_id": "613f664dc42a48d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/MGON PO_THE PROTECTOR (MAHAKALA)/RJES GNANG_RITES OF PERMISSION (ANUJNA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/mgon po_the protector (mahakala)/rjes gnang_rites of permission (anujna)/s06377e1_mgon dkar yid bzhin nor bu'i rjes gnang bya tsul_method for granting permission into the practice of the white protector (sita mahakala), the wish-fulfilling jewel_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABULg",
+    "revision_id": "625a485ea9ad68d294473",
     "content_hash": "c659a3baa88d4b54558f037d477383f478d51edd3df9188980f929f767f77044",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:09:29.684684",
+    "server_modified": "2024-10-29 21:46:51",
+    "last_sync": "2024-11-19 20:55:04.306071",
     "size": 9577,
     "meta_text": null,
     "cat_ref": "S06377E1",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "140181206283",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/MGON PO_THE PROTECTOR (MAHAKALA)/RJES GNANG_RITES OF PERMISSION (ANUJNA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/MGON PO/RJES GNANG",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/THE PROTECTOR (MAHAKALA)/RITES OF PERMISSION (ANUJNA)",
+            "_id": "331141464407",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/MGON PO_THE PROTECTOR (MAHAKALA)/RJES GNANG_RITES OF PERMISSION (ANUJNA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/MGON PO/RJES GNANG",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/THE PROTECTOR (MAHAKALA)/RITES OF PERMISSION (ANUJNA)",
             "subject_tibetan": "RJES GNANG",
             "subject_english": "RITES OF PERMISSION (ANUJNA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/mgon po_the protector (mahakala)/rjes gnang_rites of permission (anujna)",
-            "timestamp": "2024-09-10T02:09:29.688189+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/MGON PO_THE PROTECTOR (MAHAKALA)/RJES GNANG_RITES OF PERMISSION (ANUJNA)",
+            "timestamp": "2024-11-20 04:55:04.315751+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:55:04.315751+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

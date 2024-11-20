@@ -1,12 +1,12 @@
 {
     "name": "S00910E_YID DANG KUN GZHI'I DKA' GNAS RNAM PAR BSHAD PA MKHAS PA'I 'JUG NGOGS_'Entry Point for the Wise,' being an Explanation of 'Difficult Points on the Mind and Foundation Consciousness'_GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME_(1762-1823).TXT",
-    "path": "sems tzam_mind-only school (chittamatra)/kun gzhi'i rnam par shes (alaya vijnana)_foundation consciousness/gung thang dkon mchog bstan pa'i sgron me_gungtang konchog tenpay drunme (1762-1823)",
-    "download_path": "/sungbum updated 4 26 23 bk/sems tzam_mind-only school (chittamatra)/kun gzhi'i rnam par shes (alaya vijnana)_foundation consciousness/gung thang dkon mchog bstan pa'i sgron me_gungtang konchog tenpay drunme (1762-1823)/s00910e_yid dang kun gzhi'i dka' gnas rnam par bshad pa mkhas pa'i 'jug ngogs_'entry point for the wise,' being an explanation of 'difficult points on the mind and foundation consciousness'_gung thang dkon mchog bstan pa'i sgron me_(1762-1823).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAXdg",
-    "revision_id": "613f666d88e2e8d294473",
+    "path": "SEMS TZAM_MIND-ONLY SCHOOL (CHITTAMATRA)/KUN GZHI'I RNAM PAR SHES (ALAYA VIJNANA)_FOUNDATION CONSCIOUSNESS/GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME_GUNGTANG KONCHOG TENPAY DRUNME (1762-1823)",
+    "download_path": "/sungbum updated 7 30 23 nl/sems tzam_mind-only school (chittamatra)/kun gzhi'i rnam par shes (alaya vijnana)_foundation consciousness/gung thang dkon mchog bstan pa'i sgron me_gungtang konchog tenpay drunme (1762-1823)/s00910e_yid dang kun gzhi'i dka' gnas rnam par bshad pa mkhas pa'i 'jug ngogs_'entry point for the wise,' being an explanation of 'difficult points on the mind and foundation consciousness'_gung thang dkon mchog bstan pa'i sgron me_(1762-1823).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABPtQ",
+    "revision_id": "625a47a26a0f78d294473",
     "content_hash": "5ad7817954120707f0067d59474f73239a4eac204d1223443d316c2d0777664f",
-    "server_modified": "2024-03-18T21:54:28",
-    "last_sync": "2024-09-09T19:24:46.209121",
+    "server_modified": "2024-10-29 21:43:34",
+    "last_sync": "2024-11-19 20:48:26.631202",
     "size": 177554,
     "meta_text": null,
     "cat_ref": "S00910E",
@@ -19,10 +19,10 @@
     "author_simple": "GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME",
     "subject": [
         {
-            "_id": "318925641474",
-            "subject_path": "SUNGBUM_SUNGBUM/SEMS TZAM_MIND-ONLY SCHOOL (CHITTAMATRA)/KUN GZHI'I RNAM PAR SHES (ALAYA VIJNANA)_FOUNDATION CONSCIOUSNESS/GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME_GUNGTANG KONCHOG TENPAY DRUNME (1762-1823)",
-            "subject_path_tibetan": "SUNGBUM/SEMS TZAM/KUN GZHI'I RNAM PAR SHES (ALAYA VIJNANA)/GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME",
-            "subject_path_english": "SUNGBUM/MIND-ONLY SCHOOL (CHITTAMATRA)/FOUNDATION CONSCIOUSNESS/GUNGTANG KONCHOG TENPAY DRUNME (1762-1823)",
+            "_id": "110619170119",
+            "subject_path": "GSUNG 'BUM_Sungbum/SEMS TZAM_MIND-ONLY SCHOOL (CHITTAMATRA)/KUN GZHI'I RNAM PAR SHES (ALAYA VIJNANA)_FOUNDATION CONSCIOUSNESS/GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME_GUNGTANG KONCHOG TENPAY DRUNME (1762-1823)",
+            "subject_path_tibetan": "GSUNG 'BUM/SEMS TZAM/KUN GZHI'I RNAM PAR SHES (ALAYA VIJNANA)/GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME",
+            "subject_path_english": "Sungbum/MIND-ONLY SCHOOL (CHITTAMATRA)/FOUNDATION CONSCIOUSNESS/GUNGTANG KONCHOG TENPAY DRUNME (1762-1823)",
             "subject_tibetan": "GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME",
             "subject_english": "GUNGTANG KONCHOG TENPAY DRUNME (1762-1823)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P298"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "sems tzam_mind-only school (chittamatra)/kun gzhi'i rnam par shes (alaya vijnana)_foundation consciousness/gung thang dkon mchog bstan pa'i sgron me_gungtang konchog tenpay drunme (1762-1823)",
-            "timestamp": "2024-09-10T02:24:46.218361+00:00"
+            "path": "GSUNG 'BUM_Sungbum/SEMS TZAM_MIND-ONLY SCHOOL (CHITTAMATRA)/KUN GZHI'I RNAM PAR SHES (ALAYA VIJNANA)_FOUNDATION CONSCIOUSNESS/GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME_GUNGTANG KONCHOG TENPAY DRUNME (1762-1823)",
+            "timestamp": "2024-11-20 04:48:26.635128+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:48:26.635128+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

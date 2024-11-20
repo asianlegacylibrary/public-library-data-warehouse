@@ -1,45 +1,53 @@
 {
     "name": "TD02517_RDO RJE SEMS DPA' 'BYUNG BA ZHES BYA BA'I SGRUB PA'I THABS (Vajrasattvodaya Nāma Sādhana).txt",
-    "path": "TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/02 RNAL 'BYOR RGYUD_Secret Class of Practice (Yoga Tantra)/02 DPAL MCHOG DANG PO_The Glorious First of the Best (Śrīparamādya)/02 SGRUB PA'I SKOR_Related Practices (Sādhya)/VOL 61 (KU)",
+    "path": "02 RGYUD_Diamond Way (Vajrayāna)/02 RNAL 'BYOR RGYUD_Secret Class of Practice (Yoga Tantra)/02 DPAL MCHOG DANG PO_The Glorious First of the Best (Śrīparamādya)/02 SGRUB PA'I SKOR_Related Practices (Sādhya)/VOL 61 (KU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/02 rnal 'byor rgyud_secret class of practice (yoga tantra)/02 dpal mchog dang po_the glorious first of the best (śrīparamādya)/02 sgrub pa'i skor_related practices (sādhya)/vol 61 (ku)/td02517_rdo rje sems dpa' 'byung ba zhes bya ba'i sgrub pa'i thabs (vajrasattvodaya nāma sādhana).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB4HQ",
     "revision_id": "62633be8d21d98d294473",
     "content_hash": "4670999b18dd5b19be8a4dfeb47307fc19d9000886c0a86d94452ec3a4328423",
     "server_modified": "2024-11-06 00:39:02",
-    "last_sync": "2024-11-13 01:58:21.166306+00:00",
+    "last_sync": "2024-11-20 03:59:19.770467",
     "size": 47130,
+    "meta_text": null,
     "cat_ref": "TD02517",
     "work_ref": "W.TD02517",
-    "title_tib": "RDO RJE SEMS DPA' 'BYUNG BA ZHES BYA BA'I SGRUB PA'I THABS",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "102043617198",
-            "subject_path": "TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/02 RNAL 'BYOR RGYUD_Secret Class of Practice (Yoga Tantra)/02 DPAL MCHOG DANG PO_The Glorious First of the Best (Śrīparamādya)/02 SGRUB PA'I SKOR_Related Practices (Sādhya)/VOL 61 (KU)",
-            "subject_path_tibetan": "TENGYUR/RGYUD/RNAL 'BYOR RGYUD/DPAL MCHOG DANG PO/SGRUB PA'I SKOR/61 (KU)",
-            "subject_path_english": "TENGYUR/Diamond Way (Vajrayāna)/Secret Class of Practice (Yoga Tantra)/The Glorious First of the Best (Śrīparamādya)/Related Practices (Sādhya)/VOL 61 (KU)",
-            "subject_tibetan": "61 (KU)",
-            "subject_english": "VOL 61 (KU)"
+            "_id": "197815704640",
+            "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/02 RNAL 'BYOR RGYUD_Secret Class of Practice (Yoga Tantra)/02 DPAL MCHOG DANG PO_The Glorious First of the Best (Śrīparamādya)/02 SGRUB PA'I SKOR_Related Practices (Sādhya)/VOL 61 (KU)",
+            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/02 RNAL 'BYOR RGYUD/02 DPAL MCHOG DANG PO/02 SGRUB PA'I SKOR/VOL 61 (KU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Secret Class of Practice (Yoga Tantra)/The Glorious First of the Best (Śrīparamādya)/Related Practices (Sādhya)",
+            "subject_tibetan": "VOL 61 (KU)",
+            "subject_english": "Related Practices (Sādhya)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Vajrasattvodaya Nāma Sādhana",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/02 RNAL 'BYOR RGYUD_Secret Class of Practice (Yoga Tantra)/02 DPAL MCHOG DANG PO_The Glorious First of the Best (Śrīparamādya)/02 SGRUB PA'I SKOR_Related Practices (Sādhya)/VOL 61 (KU)",
+            "timestamp": "2024-11-20 11:59:19.799385+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:58:21.470400+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T11:59:19.799385+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/02 RNAL 'BYOR RGYUD_Secret Class of Practice (Yoga Tantra)/02 DPAL MCHOG DANG PO_The Glorious First of the Best (Śrīparamādya)/02 SGRUB PA'I SKOR_Related Practices (Sādhya)/VOL 61 (KU)",
-            "timestamp": "2024-11-13 01:58:21.470400+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

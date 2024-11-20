@@ -1,45 +1,53 @@
 {
     "name": "TD03862_DBU MA LA 'JUG PA'I BSHAD PA ZHES BYA BA (Madhyamakāvatāra Bhāṣya (Nāma)).txt",
-    "path": "TENGYUR_TENGYUR/04 DBU MA_Middle Way School (Madhyamaka)/VOL 7 ('A)",
+    "path": "04 DBU MA_Middle Way School (Madhyamaka)/VOL 7 ('A)",
     "download_path": "/tengyur updated 10 31 24 ws/04 dbu ma_middle way school (madhyamaka)/vol 7 ('a)/td03862_dbu ma la 'jug pa'i bshad pa zhes bya ba (madhyamakāvatāra bhāṣya (nāma)).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB3Bw",
     "revision_id": "62633bb3762b48d294473",
     "content_hash": "cbd402a193c12bc9968408ef2a9d1ef8b61775d0e92214d1688f1db9acb81b51",
     "server_modified": "2024-11-06 00:38:06",
-    "last_sync": "2024-11-13 01:58:06.623569+00:00",
+    "last_sync": "2024-11-20 03:58:58.762196",
     "size": 500633,
+    "meta_text": null,
     "cat_ref": "TD03862",
     "work_ref": "W.TD03862",
-    "title_tib": "DBU MA LA 'JUG PA'I BSHAD PA ZHES BYA BA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "305409101445",
-            "subject_path": "TENGYUR_TENGYUR/04 DBU MA_Middle Way School (Madhyamaka)/VOL 7 ('A)",
-            "subject_path_tibetan": "TENGYUR/DBU MA/7 ('A)",
-            "subject_path_english": "TENGYUR/Middle Way School (Madhyamaka)/VOL 7 ('A)",
-            "subject_tibetan": "7 ('A)",
-            "subject_english": "VOL 7 ('A)"
+            "_id": "334772985380",
+            "subject_path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 7 ('A)",
+            "subject_path_tibetan": "BSTAN 'GYUR/04 DBU MA/VOL 7 ('A)",
+            "subject_path_english": "Tengyur/Middle Way School (Madhyamaka)",
+            "subject_tibetan": "VOL 7 ('A)",
+            "subject_english": "Middle Way School (Madhyamaka)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Madhyamakāvatāra Bhāṣya (Nāma)",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 7 ('A)",
+            "timestamp": "2024-11-20 11:58:58.768813+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:58:06.625492+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T11:58:58.768813+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/04 DBU MA_Middle Way School (Madhyamaka)/VOL 7 ('A)",
-            "timestamp": "2024-11-13 01:58:06.625492+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

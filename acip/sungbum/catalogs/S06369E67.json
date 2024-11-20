@@ -1,12 +1,12 @@
 {
     "name": "S06369E67_N'A RO CHOS DRUG GI BRGYUD 'DEBS RGYAS PA_Extensive Petition to the Lamas of the Lineage of the Six Practices of Naropa_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/na ro chos drug_six practices of naropa/bla brgyud_lama lineage trees",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/na ro chos drug_six practices of naropa/bla brgyud_lama lineage trees/s06369e67_n'a ro chos drug gi brgyud 'debs rgyas pa_extensive petition to the lamas of the lineage of the six practices of naropa_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAKGg",
-    "revision_id": "613f6652788328d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/NA RO CHOS DRUG_SIX PRACTICES OF NAROPA/BLA BRGYUD_LAMA LINEAGE TREES",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/na ro chos drug_six practices of naropa/bla brgyud_lama lineage trees/s06369e67_n'a ro chos drug gi brgyud 'debs rgyas pa_extensive petition to the lamas of the lineage of the six practices of naropa_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABczA",
+    "revision_id": "625a4982f02748d294473",
     "content_hash": "510626d5f2262b65cc362f74a57c998eb50dfa18f128c74fa919ef7717cfc9c1",
-    "server_modified": "2024-03-18T21:54:00",
-    "last_sync": "2024-09-09T19:11:04.149039",
+    "server_modified": "2024-10-29 21:51:58",
+    "last_sync": "2024-11-19 21:09:34.805569",
     "size": 4289,
     "meta_text": null,
     "cat_ref": "S06369E67",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "870813191283",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/NA RO CHOS DRUG_SIX PRACTICES OF NAROPA/BLA BRGYUD_LAMA LINEAGE TREES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/NA RO CHOS DRUG/BLA BRGYUD",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/SIX PRACTICES OF NAROPA/LAMA LINEAGE TREES",
+            "_id": "826311643570",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/NA RO CHOS DRUG_SIX PRACTICES OF NAROPA/BLA BRGYUD_LAMA LINEAGE TREES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/NA RO CHOS DRUG/BLA BRGYUD",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/SIX PRACTICES OF NAROPA/LAMA LINEAGE TREES",
             "subject_tibetan": "BLA BRGYUD",
             "subject_english": "LAMA LINEAGE TREES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/na ro chos drug_six practices of naropa/bla brgyud_lama lineage trees",
-            "timestamp": "2024-09-10T02:11:04.174360+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/NA RO CHOS DRUG_SIX PRACTICES OF NAROPA/BLA BRGYUD_LAMA LINEAGE TREES",
+            "timestamp": "2024-11-20 05:09:34.809069+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:09:34.809069+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

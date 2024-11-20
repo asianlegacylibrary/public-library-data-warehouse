@@ -1,12 +1,12 @@
 {
     "name": "S19049E_GZUNGS 'JUG 'KHRUL SPONG NYIN MOR BYED PA'I SNYING PO SOGS_The Core of the Sun which Eliminates all Error-- A Method for Loading Holy Objects_'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS (1648-1721).TXT",
-    "path": "cho ga_rituals/gzungs gzhug_loading holy objects",
-    "download_path": "/sungbum updated 4 26 23 bk/cho ga_rituals/gzungs gzhug_loading holy objects/s19049e_gzungs 'jug 'khrul spong nyin mor byed pa'i snying po sogs_the core of the sun which eliminates all error-- a method for loading holy objects_'jam dbyangs bzhad pa'i rdo rje ngag dbang brtzon 'grus (1648-1721).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAEug",
-    "revision_id": "613f6644849de8d294473",
+    "path": "CHO GA_RITUALS/GZUNGS GZHUG_LOADING HOLY OBJECTS",
+    "download_path": "/sungbum updated 7 30 23 nl/cho ga_rituals/gzungs gzhug_loading holy objects/s19049e_gzungs 'jug 'khrul spong nyin mor byed pa'i snying po sogs_the core of the sun which eliminates all error-- a method for loading holy objects_'jam dbyangs bzhad pa'i rdo rje ngag dbang brtzon 'grus (1648-1721).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABl6A",
+    "revision_id": "625a4afc108448d294473",
     "content_hash": "99327534455cba22b1a10db4b6dc645cdf0ca728edcd2660c72a39baf8b45e7e",
-    "server_modified": "2024-03-18T21:53:45",
-    "last_sync": "2024-09-09T19:05:55.514808",
+    "server_modified": "2024-10-29 21:58:33",
+    "last_sync": "2024-11-19 21:26:15.384484",
     "size": 27699,
     "meta_text": null,
     "cat_ref": "S19049E",
@@ -19,10 +19,10 @@
     "author_simple": "'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS",
     "subject": [
         {
-            "_id": "553085792286",
-            "subject_path": "SUNGBUM_SUNGBUM/CHO GA_RITUALS/GZUNGS GZHUG_LOADING HOLY OBJECTS",
-            "subject_path_tibetan": "SUNGBUM/CHO GA/GZUNGS GZHUG",
-            "subject_path_english": "SUNGBUM/RITUALS/LOADING HOLY OBJECTS",
+            "_id": "232854908175",
+            "subject_path": "GSUNG 'BUM_Sungbum/CHO GA_RITUALS/GZUNGS GZHUG_LOADING HOLY OBJECTS",
+            "subject_path_tibetan": "GSUNG 'BUM/CHO GA/GZUNGS GZHUG",
+            "subject_path_english": "Sungbum/RITUALS/LOADING HOLY OBJECTS",
             "subject_tibetan": "GZUNGS GZHUG",
             "subject_english": "LOADING HOLY OBJECTS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P423"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "cho ga_rituals/gzungs gzhug_loading holy objects",
-            "timestamp": "2024-09-10T02:05:55.520775+00:00"
+            "path": "GSUNG 'BUM_Sungbum/CHO GA_RITUALS/GZUNGS GZHUG_LOADING HOLY OBJECTS",
+            "timestamp": "2024-11-20 05:26:15.390616+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:26:15.390616+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "rtf"
 }

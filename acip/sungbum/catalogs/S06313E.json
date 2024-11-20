@@ -1,12 +1,12 @@
 {
     "name": "S06313E_SMYUNG GNAS KYI CHO GA BSDUS PA'I 'KHRID YIG GRUB BSNYES DPAL MO'I DGONGS RGYAN_'Jewel of the True Thought of the Glorious Lady of Attainments,' being a Book of Instruction on the Brief Ritual of Fasting_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/zhal bcu gcig_eleven-faced one (ekadashamukha)/dbang_empowerment (abhisheka)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/zhal bcu gcig_eleven-faced one (ekadashamukha)/dbang_empowerment (abhisheka)/s06313e_smyung gnas kyi cho ga bsdus pa'i 'khrid yig grub bsnyes dpal mo'i dgongs rgyan_'jewel of the true thought of the glorious lady of attainments,' being a book of instruction on the brief ritual of fasting_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAHaA",
-    "revision_id": "613f66492f1d28d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/ZHAL BCU GCIG_ELEVEN-FACED ONE (EKADASHAMUKHA)/DBANG_EMPOWERMENT (ABHISHEKA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/zhal bcu gcig_eleven-faced one (ekadashamukha)/dbang_empowerment (abhisheka)/s06313e_smyung gnas kyi cho ga bsdus pa'i 'khrid yig grub bsnyes dpal mo'i dgongs rgyan_'jewel of the true thought of the glorious lady of attainments,' being a book of instruction on the brief ritual of fasting_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABVzw",
+    "revision_id": "625a4894c1ff08d294473",
     "content_hash": "8710aa0d1dad0638706fb84df817686c32d06883795515664394ea29a9554b6d",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:08:29.985882",
+    "server_modified": "2024-10-29 21:47:48",
+    "last_sync": "2024-11-19 20:58:06.528367",
     "size": 63503,
     "meta_text": null,
     "cat_ref": "S06313E",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "285879013160",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/ZHAL BCU GCIG_ELEVEN-FACED ONE (EKADASHAMUKHA)/DBANG_EMPOWERMENT (ABHISHEKA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/ZHAL BCU GCIG/DBANG",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/ELEVEN-FACED ONE (EKADASHAMUKHA)/EMPOWERMENT (ABHISHEKA)",
+            "_id": "258562709918",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/ZHAL BCU GCIG_ELEVEN-FACED ONE (EKADASHAMUKHA)/DBANG_EMPOWERMENT (ABHISHEKA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/ZHAL BCU GCIG/DBANG",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/ELEVEN-FACED ONE (EKADASHAMUKHA)/EMPOWERMENT (ABHISHEKA)",
             "subject_tibetan": "DBANG",
             "subject_english": "EMPOWERMENT (ABHISHEKA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/zhal bcu gcig_eleven-faced one (ekadashamukha)/dbang_empowerment (abhisheka)",
-            "timestamp": "2024-09-10T02:08:29.998575+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/ZHAL BCU GCIG_ELEVEN-FACED ONE (EKADASHAMUKHA)/DBANG_EMPOWERMENT (ABHISHEKA)",
+            "timestamp": "2024-11-20 04:58:06.532428+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:58:06.532428+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

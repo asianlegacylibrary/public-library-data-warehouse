@@ -1,12 +1,12 @@
 {
     "name": "S05571E_RJE BTZUN THAMS CAD MKHYEN PA'I GSUNG 'BUM THOR BU LAS MCHOD YAR_A Ritual for Offering the Milk of a Female Yak, from Assorted Writings found in the Collected Works of the Holy and Omniscient One_RGYAL BA DGE 'DUN RGYA MTSO (1476-1542).txt",
-    "path": "nyams len_personal practice/mchod pa_how to make offerings/rgyal ba dge 'dun rgya mtso (1476-1542)",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/mchod pa_how to make offerings/rgyal ba dge 'dun rgya mtso (1476-1542)/s05571e_rje btzun thams cad mkhyen pa'i gsung 'bum thor bu las mchod yar_a ritual for offering the milk of a female yak, from assorted writings found in the collected works of the holy and omniscient one_rgyal ba dge 'dun rgya mtso (1476-1542).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAB5A",
-    "revision_id": "613f663b87d2d8d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/MCHOD PA_HOW TO MAKE OFFERINGS/RGYAL BA DGE 'DUN RGYA MTSO (1476-1542)",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/mchod pa_how to make offerings/rgyal ba dge 'dun rgya mtso (1476-1542)/s05571e_rje btzun thams cad mkhyen pa'i gsung 'bum thor bu las mchod yar_a ritual for offering the milk of a female yak, from assorted writings found in the collected works of the holy and omniscient one_rgyal ba dge 'dun rgya mtso (1476-1542).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABkyg",
+    "revision_id": "625a4adaadbd28d294473",
     "content_hash": "19280c663232bee766274ad24aebe006a4f6fb6a770eb892db04b5ef738f7b19",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:03:04.118896",
+    "server_modified": "2024-10-29 21:57:58",
+    "last_sync": "2024-11-19 21:24:01.597755",
     "size": 5855,
     "meta_text": null,
     "cat_ref": "S05571E",
@@ -19,10 +19,10 @@
     "author_simple": "RGYAL BA DGE 'DUN RGYA MTSO",
     "subject": [
         {
-            "_id": "136131844511",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/MCHOD PA_HOW TO MAKE OFFERINGS/RGYAL BA DGE 'DUN RGYA MTSO (1476-1542)",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/MCHOD PA/RGYAL BA DGE 'DUN RGYA MTSO (1476-1542)",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/HOW TO MAKE OFFERINGS",
+            "_id": "104033263773",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/MCHOD PA_HOW TO MAKE OFFERINGS/RGYAL BA DGE 'DUN RGYA MTSO (1476-1542)",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/MCHOD PA/RGYAL BA DGE 'DUN RGYA MTSO (1476-1542)",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/HOW TO MAKE OFFERINGS",
             "subject_tibetan": "RGYAL BA DGE 'DUN RGYA MTSO (1476-1542)",
             "subject_english": "HOW TO MAKE OFFERINGS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P84"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/mchod pa_how to make offerings/rgyal ba dge 'dun rgya mtso (1476-1542)",
-            "timestamp": "2024-09-10T02:03:04.139410+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/MCHOD PA_HOW TO MAKE OFFERINGS/RGYAL BA DGE 'DUN RGYA MTSO (1476-1542)",
+            "timestamp": "2024-11-20 05:24:01.602044+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:24:01.602044+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

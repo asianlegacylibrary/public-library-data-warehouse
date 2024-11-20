@@ -1,12 +1,12 @@
 {
     "name": "S06370MP4_LAM RIM MCHAN BZHI'I SKOR GYI DRI LAN_Clarification of a Section from the 'Great Book on the Steps of the Path, with Annotations from Four Commentators'_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "lam rim_steps of the path/lam rim chen mo_great book on the steps of the path/'grel pa_commentaries",
-    "download_path": "/sungbum updated 4 26 23 bk/lam rim_steps of the path/lam rim chen mo_great book on the steps of the path/'grel pa_commentaries/s06370mp4_lam rim mchan bzhi'i skor gyi dri lan_clarification of a section from the 'great book on the steps of the path, with annotations from four commentators'_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAGiw",
-    "revision_id": "613f66492f0f58d294473",
+    "path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "download_path": "/sungbum updated 7 30 23 nl/dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)/s06370mp4_lam rim mchan bzhi'i skor gyi dri lan_clarification of a section from the 'great book on the steps of the path, with annotations from four commentators'_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABSZA",
+    "revision_id": "625a480f155ff8d294473",
     "content_hash": "be00251392872fce5edc2846820356c825b3dc7bb5c8471496bca87ae1355631",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:07:39.427320",
+    "server_modified": "2024-10-29 21:45:28",
+    "last_sync": "2024-11-19 20:53:27.802495",
     "size": 2372,
     "meta_text": null,
     "cat_ref": "S06370MP4",
@@ -19,20 +19,20 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "318406488916",
-            "subject_path": "SUNGBUM_SUNGBUM/LAM RIM_STEPS OF THE PATH/LAM RIM CHEN MO_GREAT BOOK ON THE STEPS OF THE PATH/'GREL PA_COMMENTARIES",
-            "subject_path_tibetan": "SUNGBUM/LAM RIM/LAM RIM CHEN MO/'GREL PA",
-            "subject_path_english": "SUNGBUM/STEPS OF THE PATH/GREAT BOOK ON THE STEPS OF THE PATH/COMMENTARIES",
-            "subject_tibetan": "'GREL PA",
-            "subject_english": "COMMENTARIES"
-        },
-        {
-            "_id": "244831615226",
-            "subject_path": "SUNGBUM_SUNGBUM/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_tibetan": "SUNGBUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_english": "SUNGBUM/QUESTIONS AND ANSWERS",
+            "_id": "250883940513",
+            "subject_path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "GSUNG 'BUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "Sungbum/QUESTIONS AND ANSWERS",
             "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
             "subject_english": "QUESTIONS AND ANSWERS"
+        },
+        {
+            "_id": "231647048415",
+            "subject_path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/LAM RIM CHEN MO_GREAT BOOK ON THE STEPS OF THE PATH/'GREL PA_COMMENTARIES",
+            "subject_path_tibetan": "GSUNG 'BUM/LAM RIM/LAM RIM CHEN MO/'GREL PA",
+            "subject_path_english": "Sungbum/STEPS OF THE PATH/GREAT BOOK ON THE STEPS OF THE PATH/COMMENTARIES",
+            "subject_tibetan": "'GREL PA",
+            "subject_english": "COMMENTARIES"
         }
     ],
     "items": [],
@@ -46,15 +46,29 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "lam rim_steps of the path/lam rim chen mo_great book on the steps of the path/'grel pa_commentaries",
-            "timestamp": "2024-09-10T02:07:39.465623+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "timestamp": "2024-11-20 04:54:07.131596+00:00"
         },
         {
-            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
-            "timestamp": "2024-09-10T02:21:49.515018+00:00"
+            "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/LAM RIM CHEN MO_GREAT BOOK ON THE STEPS OF THE PATH/'GREL PA_COMMENTARIES",
+            "timestamp": "2024-11-20 05:17:06.835083+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:54:07.131596+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T05:17:06.835083+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "text"
 }

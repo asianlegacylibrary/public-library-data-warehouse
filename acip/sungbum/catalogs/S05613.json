@@ -1,28 +1,28 @@
 {
     "name": "S05613_GSUNG NGAG RIN PO CHE LAM 'BRAS BU DANG BCAS PA'I 'KHRID KYI ZIN BRIS BSTAN PA RGYAS BYED CES BYA BA LAS BUM DBANG GI RMI LAM MAN GYI ZIN BRIS KHA'U BRAG RDZONG PA'I BZHED PA MA NOR BA_\"An Unmistaken Presentation of the Positions Taken by the +.TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/dbang_empowerment (abhisheka)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/dbang_empowerment (abhisheka)/s05613_gsung ngag rin po che lam 'bras bu dang bcas pa'i 'khrid kyi zin bris bstan pa rgyas byed ces bya ba las bum dbang gi rmi lam man gyi zin bris kha'u brag rdzong pa'i bzhed pa ma nor ba_\"an unmistaken presentation of the positions taken by the +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAObQ",
-    "revision_id": "613f665b610868d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/DBANG_EMPOWERMENT (ABHISHEKA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyi_general treatments/dbang_empowerment (abhisheka)/s05613_gsung ngag rin po che lam 'bras bu dang bcas pa'i 'khrid kyi zin bris bstan pa rgyas byed ces bya ba las bum dbang gi rmi lam man gyi zin bris kha'u brag rdzong pa'i bzhed pa ma nor ba_\"an unmistaken presentation of the positions taken by the +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABZuw",
+    "revision_id": "625a4910338638d294473",
     "content_hash": "7e027d677ab7a3ec84d23fac67296224593d633397ab2ec3fed997f0e5167ea0",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:15:47.179511",
+    "server_modified": "2024-10-29 21:49:58",
+    "last_sync": "2024-11-19 21:04:27.063516",
     "size": 41930,
-    "meta_text": null,
+    "meta_text": "('Teacher from the Fortress of Kau\"-- Notes on the Material Following the Section on Dreams in the Vase Initiation from the Work Entitled, \"Spreading the Teachings,\" which is a Record of Precious Pronouncements Concerning the Path and its Results_RGYAL BA NGAG DBANG BLO BZANG RGYA MTSO (1617-1682)', 'text')",
     "cat_ref": "S05613",
     "work_ref": "W.S05613",
     "title_tib": "GSUNG NGAG RIN PO CHE LAM 'BRAS BU DANG BCAS PA'I 'KHRID KYI ZIN BRIS BSTAN PA RGYAS BYED CES BYA BA LAS BUM DBANG GI RMI LAM MAN GYI ZIN BRIS KHA'U BRAG RDZONG PA'I BZHED PA MA NOR BA",
-    "title_eng": "\"An Unmistaken Presentation of the Positions Taken by the",
+    "title_eng": "\"An Unmistaken Presentation of the Positions Taken by the('Teacher from the Fortress of Kau\"-- Notes on the Material Following the Section on Dreams in the Vase Initiation from the Work Entitled, \"Spreading the Teachings,\" which is a Record of Precious Pronouncements Concerning the Path and its Results",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
-    "author_simple": "",
+    "author_simple": "RGYAL BA NGAG DBANG BLO BZANG RGYA MTSO",
     "subject": [
         {
-            "_id": "695160742026",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/DBANG_EMPOWERMENT (ABHISHEKA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/DBANG",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/EMPOWERMENT (ABHISHEKA)",
+            "_id": "106795540189",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/DBANG_EMPOWERMENT (ABHISHEKA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/DBANG",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/EMPOWERMENT (ABHISHEKA)",
             "subject_tibetan": "DBANG",
             "subject_english": "EMPOWERMENT (ABHISHEKA)"
         }
@@ -30,16 +30,24 @@
     "items": [],
     "author": [
         {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
+            "author_name": "RGYAL BA NGAG DBANG BLO BZANG RGYA MTSO",
+            "author_birth": "1617",
+            "author_death": "1682"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/dbang_empowerment (abhisheka)",
-            "timestamp": "2024-09-10T02:15:47.186281+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/DBANG_EMPOWERMENT (ABHISHEKA)",
+            "timestamp": "2024-11-20 05:04:27.659183+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:04:27.659183+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

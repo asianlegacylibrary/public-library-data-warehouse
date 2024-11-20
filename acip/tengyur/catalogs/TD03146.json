@@ -1,45 +1,53 @@
 {
     "name": "TD03146_BSTOD PA'I PHAN YON (Stutyanuśaṃsā).txt",
-    "path": "TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/VOL 74 (PHU)",
+    "path": "02 RGYUD_Diamond Way (Vajrayāna)/VOL 74 (PHU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/vol 74 (phu)/td03146_bstod pa'i phan yon (stutyanuśaṃsā).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACDMQ",
     "revision_id": "62633dd04a0e18d294473",
     "content_hash": "01675a7455d389f4c9d9165cbafd55cd3f9bb70e9995b05f2c942565e7341ffc",
     "server_modified": "2024-11-06 00:47:33",
-    "last_sync": "2024-11-13 02:00:00.310818+00:00",
+    "last_sync": "2024-11-20 04:01:04.969742",
     "size": 1080,
+    "meta_text": null,
     "cat_ref": "TD03146",
     "work_ref": "W.TD03146",
-    "title_tib": "BSTOD PA'I PHAN YON",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "949406200925",
-            "subject_path": "TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/VOL 74 (PHU)",
-            "subject_path_tibetan": "TENGYUR/RGYUD/74 (PHU)",
-            "subject_path_english": "TENGYUR/Diamond Way (Vajrayāna)/VOL 74 (PHU)",
-            "subject_tibetan": "74 (PHU)",
-            "subject_english": "VOL 74 (PHU)"
+            "_id": "235929610804",
+            "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 74 (PHU)",
+            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/VOL 74 (PHU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)",
+            "subject_tibetan": "VOL 74 (PHU)",
+            "subject_english": "Diamond Way (Vajrayāna)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Stutyanuśaṃsā",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 74 (PHU)",
+            "timestamp": "2024-11-20 12:01:05.033635+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T02:00:00.321612+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T12:01:05.033635+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/VOL 74 (PHU)",
-            "timestamp": "2024-11-13 02:00:00.321612+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

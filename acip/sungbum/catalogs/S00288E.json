@@ -1,28 +1,28 @@
 {
     "name": "S00288E_RJE BTZUN MA 'PHAGS MA SGROL MA'I 'CHI BLU'I CHO GA BYA TSUL 'KHYER BDE NAG 'GROS SU GSAL BAR BKOD PA 'CHI MED SNANG BA GSAR PA'I 'OD STONG DKYIL 'KHOR_'The Brilliant New Star of a Thousand Rays of Deathless Light,' being a Clear and Easily-+.TXT",
-    "path": "rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/srog glud_offering of a ransom to extend life",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/srog glud_offering of a ransom to extend life/s00288e_rje btzun ma 'phags ma sgrol ma'i 'chi blu'i cho ga bya tsul 'khyer bde nag 'gros su gsal bar bkod pa 'chi med snang ba gsar pa'i 'od stong dkyil 'khor_'the brilliant new star of a thousand rays of deathless light,' being a clear and easily-+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAQFQ",
-    "revision_id": "613f665fcd59a8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/SROG GLUD_OFFERING OF A RANSOM TO EXTEND LIFE",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/srog glud_offering of a ransom to extend life/s00288e_rje btzun ma 'phags ma sgrol ma'i 'chi blu'i cho ga bya tsul 'khyer bde nag 'gros su gsal bar bkod pa 'chi med snang ba gsar pa'i 'od stong dkyil 'khor_'the brilliant new star of a thousand rays of deathless light,' being a clear and easily-+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABYmA",
+    "revision_id": "625a48e20191e8d294473",
     "content_hash": "abff006ba63019bff205e6cce22639ef6612c9d928658d45648ee4e5bf54d162",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:17:30.538791",
+    "server_modified": "2024-10-29 21:49:09",
+    "last_sync": "2024-11-19 21:02:43.655500",
     "size": 45159,
-    "meta_text": "Practiced Recitation Text of a Ritual for Cheating Death in the Secret Teachings of the Holy and Realized Lady of Liberation (Tara)_& (&-&)",
+    "meta_text": "('Practiced Recitation Text of a Ritual for Cheating Death in the Secret Teachings of the Holy and Realized Lady of Liberation (Tara)_& (&-&)', 'rtf')",
     "cat_ref": "S00288E",
     "work_ref": "W.S00288E",
     "title_tib": "RJE BTZUN MA 'PHAGS MA SGROL MA'I 'CHI BLU'I CHO GA BYA TSUL 'KHYER BDE NAG 'GROS SU GSAL BAR BKOD PA 'CHI MED SNANG BA GSAR PA'I 'OD STONG DKYIL 'KHOR",
-    "title_eng": "'The Brilliant New Star of a Thousand Rays of Deathless Light,' being a Clear and Easily-Practiced Recitation Text of a Ritual for Cheating Death in the Secret Teachings of the Holy and Realized Lady of Liberation (Tara)",
+    "title_eng": "'The Brilliant New Star of a Thousand Rays of Deathless Light,' being a Clear and Easily-('Practiced Recitation Text of a Ritual for Cheating Death in the Secret Teachings of the Holy and Realized Lady of Liberation (Tara)& (&-&)', 'rtf')",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "",
     "subject": [
         {
-            "_id": "335800813817",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/SROG GLUD_OFFERING OF A RANSOM TO EXTEND LIFE",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SGROL MA/SROG GLUD",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/LADY OF LIBERATION (TARA)/OFFERING OF A RANSOM TO EXTEND LIFE",
+            "_id": "766876294476",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/SROG GLUD_OFFERING OF A RANSOM TO EXTEND LIFE",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SGROL MA/SROG GLUD",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/LADY OF LIBERATION (TARA)/OFFERING OF A RANSOM TO EXTEND LIFE",
             "subject_tibetan": "SROG GLUD",
             "subject_english": "OFFERING OF A RANSOM TO EXTEND LIFE"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/srog glud_offering of a ransom to extend life",
-            "timestamp": "2024-09-10T02:17:30.540103+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/SROG GLUD_OFFERING OF A RANSOM TO EXTEND LIFE",
+            "timestamp": "2024-11-20 05:02:43.661369+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:02:43.661369+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

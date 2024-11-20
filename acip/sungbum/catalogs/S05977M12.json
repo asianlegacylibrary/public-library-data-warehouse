@@ -1,12 +1,12 @@
 {
     "name": "S05977M12_SDOM GSUM PHAR PHYIN BRGYUD PA RNAMS KYI GSOL 'DEBS_A Supplication to the Lamas of the Lineage of the Three Types of Vows, in the Tradition of the Perfections_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662).TXT",
-    "path": "phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/bla brgyud_lineage lamas",
-    "download_path": "/sungbum updated 4 26 23 bk/phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/bla brgyud_lineage lamas/s05977m12_sdom gsum phar phyin brgyud pa rnams kyi gsol 'debs_a supplication to the lamas of the lineage of the three types of vows, in the tradition of the perfections_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAU0g",
-    "revision_id": "613f6668766388d294473",
+    "path": "PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/BLA BRGYUD_LINEAGE LAMAS",
+    "download_path": "/sungbum updated 7 30 23 nl/phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/bla brgyud_lineage lamas/s05977m12_sdom gsum phar phyin brgyud pa rnams kyi gsol 'debs_a supplication to the lamas of the lineage of the three types of vows, in the tradition of the perfections_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABOpQ",
+    "revision_id": "625a4774f53a08d294473",
     "content_hash": "106a8f3a693f6fb604f1b085aee516ffa726d8992acad874804eab3bc61fa5d3",
-    "server_modified": "2024-03-18T21:54:23",
-    "last_sync": "2024-09-09T19:21:54.482069",
+    "server_modified": "2024-10-29 21:42:46",
+    "last_sync": "2024-11-19 20:46:40.109236",
     "size": 2848,
     "meta_text": null,
     "cat_ref": "S05977M12",
@@ -19,10 +19,10 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "231832887838",
-            "subject_path": "SUNGBUM_SUNGBUM/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/BLA BRGYUD_LINEAGE LAMAS",
-            "subject_path_tibetan": "SUNGBUM/PHAR PHYIN/BLA BRGYUD",
-            "subject_path_english": "SUNGBUM/PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/LINEAGE LAMAS",
+            "_id": "224974164452",
+            "subject_path": "GSUNG 'BUM_Sungbum/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/BLA BRGYUD_LINEAGE LAMAS",
+            "subject_path_tibetan": "GSUNG 'BUM/PHAR PHYIN/BLA BRGYUD",
+            "subject_path_english": "Sungbum/PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/LINEAGE LAMAS",
             "subject_tibetan": "BLA BRGYUD",
             "subject_english": "LINEAGE LAMAS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/bla brgyud_lineage lamas",
-            "timestamp": "2024-09-10T02:21:54.484092+00:00"
+            "path": "GSUNG 'BUM_Sungbum/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/BLA BRGYUD_LINEAGE LAMAS",
+            "timestamp": "2024-11-20 04:46:40.113560+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:46:40.113560+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

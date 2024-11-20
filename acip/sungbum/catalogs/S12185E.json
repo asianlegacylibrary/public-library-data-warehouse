@@ -1,12 +1,12 @@
 {
     "name": "S12185E_GSHIN PO RJES 'DZIN GYI CHO GA THAR PA'I LAM STON_Showing the Path to Freedom--A Ritual for Being Taken into the Care of the Lord of Death_PAN CHEN BLA MA SKU PHRENG GNYIS PA BLO BZANG YE SHES (1663-1737).TXT",
-    "path": "rgyud_secret teachings (tantra)/gshin po_lord of death (yamari)/sgrub thabs_ritual for reaching the angel (sadhana)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/gshin po_lord of death (yamari)/sgrub thabs_ritual for reaching the angel (sadhana)/s12185e_gshin po rjes 'dzin gyi cho ga thar pa'i lam ston_showing the path to freedom--a ritual for being taken into the care of the lord of death_pan chen bla ma sku phreng gnyis pa blo bzang ye shes (1663-1737).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAHsA",
-    "revision_id": "613f66492f21a8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/GSHIN PO_LORD OF DEATH (YAMARI)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/gshin po_lord of death (yamari)/sgrub thabs_ritual for reaching the angel (sadhana)/s12185e_gshin po rjes 'dzin gyi cho ga thar pa'i lam ston_showing the path to freedom--a ritual for being taken into the care of the lord of death_pan chen bla ma sku phreng gnyis pa blo bzang ye shes (1663-1737).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABdDA",
+    "revision_id": "625a498861a948d294473",
     "content_hash": "992c40c6e5db0e089ce74f94ad3238acc22697fb6d4927b477df0bccdeaf9dfa",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:08:44.679974",
+    "server_modified": "2024-10-29 21:52:04",
+    "last_sync": "2024-11-19 21:09:53.412024",
     "size": 56571,
     "meta_text": null,
     "cat_ref": "S12185E",
@@ -19,10 +19,10 @@
     "author_simple": "PAn CHEN BLA MA SKU PHRENG GNYIS PA BLO BZANG YE SHES",
     "subject": [
         {
-            "_id": "142806650481",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/GSHIN PO_LORD OF DEATH (YAMARI)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/GSHIN PO/SGRUB THABS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/LORD OF DEATH (YAMARI)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "_id": "315119457702",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSHIN PO_LORD OF DEATH (YAMARI)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/GSHIN PO/SGRUB THABS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/LORD OF DEATH (YAMARI)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
             "subject_tibetan": "SGRUB THABS",
             "subject_english": "RITUAL FOR REACHING THE ANGEL (SADHANA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P106"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/gshin po_lord of death (yamari)/sgrub thabs_ritual for reaching the angel (sadhana)",
-            "timestamp": "2024-09-10T02:08:44.698599+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSHIN PO_LORD OF DEATH (YAMARI)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "timestamp": "2024-11-20 05:09:53.415439+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:09:53.415439+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

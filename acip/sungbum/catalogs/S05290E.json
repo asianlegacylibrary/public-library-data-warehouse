@@ -1,28 +1,28 @@
 {
     "name": "S05290E_RNAM GZHAG RIM PA'I RNAM BSHAD DPAL GSANG BA 'DUS PA'I GNAD KYI DON GSAL BA_The 'Clarification of the Meaning of Crucial Points in the Teachings of the Secret Collection (Guhyasamaja),' being an Explanation of the Proper Steps of the Present +.TXT",
-    "path": "rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/'grel pa_commentaries",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/'grel pa_commentaries/s05290e_rnam gzhag rim pa'i rnam bshad dpal gsang ba 'dus pa'i gnad kyi don gsal ba_the 'clarification of the meaning of crucial points in the teachings of the secret collection (guhyasamaja),' being an explanation of the proper steps of the present +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAARFA",
-    "revision_id": "613f665fcd6998d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/'GREL PA_COMMENTARIES",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/'grel pa_commentaries/s05290e_rnam gzhag rim pa'i rnam bshad dpal gsang ba 'dus pa'i gnad kyi don gsal ba_the 'clarification of the meaning of crucial points in the teachings of the secret collection (guhyasamaja),' being an explanation of the proper steps of the present +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABbfw",
+    "revision_id": "625a4957ab7f78d294473",
     "content_hash": "90235f51573252d108c470b8ecfd60943328641069d3e54438da5da9657aa873",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:18:43.352380",
+    "server_modified": "2024-10-29 21:51:12",
+    "last_sync": "2024-11-19 21:07:27.806251",
     "size": 240130,
-    "meta_text": "ation_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)",
+    "meta_text": "('ation_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)', 'rtf')",
     "cat_ref": "S05290E",
     "work_ref": "W.S05290E",
     "title_tib": "RNAM GZHAG RIM PA'I RNAM BSHAD DPAL GSANG BA 'DUS PA'I GNAD KYI DON GSAL BA",
-    "title_eng": "The 'Clarification of the Meaning of Crucial Points in the Teachings of the Secret Collection (Guhyasamaja),' being an Explanation of the Proper Steps of the Presentation",
+    "title_eng": "The 'Clarification of the Meaning of Crucial Points in the Teachings of the Secret Collection (Guhyasamaja),' being an Explanation of the Proper Steps of the Present('ation",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "369027515595",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/'GREL PA_COMMENTARIES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/GSANG 'DUS/'GREL PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/SECRET COLLECTION (GUHYASAMAJA)/COMMENTARIES",
+            "_id": "304141721314",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/'GREL PA_COMMENTARIES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/GSANG 'DUS/'GREL PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/SECRET COLLECTION (GUHYASAMAJA)/COMMENTARIES",
             "subject_tibetan": "'GREL PA",
             "subject_english": "COMMENTARIES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/'grel pa_commentaries",
-            "timestamp": "2024-09-10T02:18:43.376429+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/'GREL PA_COMMENTARIES",
+            "timestamp": "2024-11-20 05:07:30.284942+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:07:30.284942+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,12 +1,12 @@
 {
     "name": "S0342E-2.TXT",
-    "path": "rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/mchod pa_offering",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/mchod pa_offering/s0342e-2.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAQ9g",
-    "revision_id": "613f665fcd67b8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/MCHOD PA_OFFERING",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/mchod pa_offering/s0342e-2.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABbIQ",
+    "revision_id": "625a49471b6a78d294473",
     "content_hash": "1bf84fdfaebf21ff2fbe2819f6e238014388548be0b3630b105e5ced22287c03",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:18:31.347404",
+    "server_modified": "2024-10-29 21:50:55",
+    "last_sync": "2024-11-19 21:06:51.197143",
     "size": 25788,
     "meta_text": null,
     "cat_ref": "S0342E-2",
@@ -19,10 +19,10 @@
     "author_simple": "",
     "subject": [
         {
-            "_id": "404134493794",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/MCHOD PA_OFFERING",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/GSANG 'DUS/MCHOD PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/SECRET COLLECTION (GUHYASAMAJA)/OFFERING",
+            "_id": "233733652288",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/MCHOD PA_OFFERING",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/GSANG 'DUS/MCHOD PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/SECRET COLLECTION (GUHYASAMAJA)/OFFERING",
             "subject_tibetan": "MCHOD PA",
             "subject_english": "OFFERING"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/mchod pa_offering",
-            "timestamp": "2024-09-10T02:18:31.351533+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/MCHOD PA_OFFERING",
+            "timestamp": "2024-11-20 05:06:53.572614+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:06:53.572614+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

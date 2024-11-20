@@ -1,28 +1,28 @@
 {
     "name": "S12272E_MKHAN CHEN CHOS KYI RGYAL PO'I GSUNG 'BUM LAS DPAL 'KHOR LO BDE MCHOG GI LUS DKYIL GYI BSKYED RIM MKHA' SPYOD LDE MIG_The Key to the Creation-Stage Practice of the Heaven of the Angel, on the Secret World of the Body in the Secret Teachings +.TXT",
-    "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/lus dkyil_secret world of the body",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/lus dkyil_secret world of the body/s12272e_mkhan chen chos kyi rgyal po'i gsung 'bum las dpal 'khor lo bde mchog gi lus dkyil gyi bskyed rim mkha' spyod lde mig_the key to the creation-stage practice of the heaven of the angel, on the secret world of the body in the secret teachings +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAPYA",
-    "revision_id": "613f665b611798d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/LUS DKYIL_SECRET WORLD OF THE BODY",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/lus dkyil_secret world of the body/s12272e_mkhan chen chos kyi rgyal po'i gsung 'bum las dpal 'khor lo bde mchog gi lus dkyil gyi bskyed rim mkha' spyod lde mig_the key to the creation-stage practice of the heaven of the angel, on the secret world of the body in the secret teachings +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABUnA",
+    "revision_id": "625a486ac74f28d294473",
     "content_hash": "a34053b62126604360be4e2d6c155d4c61056625f2560b9d97343f209680c453",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:16:53.047439",
+    "server_modified": "2024-10-29 21:47:04",
+    "last_sync": "2024-11-19 20:55:53.706563",
     "size": 30906,
-    "meta_text": "of the Glorious Wheel of Highest Bliss (Samvara); from the Collected Works of that King of the Dharma, Kenchen_MKHAN CHEN BLO BZANG BSTAN 'DZIN RGYAL MTSAN (1639-@)",
+    "meta_text": "(\"of the Glorious Wheel of Highest Bliss (Samvara); from the Collected Works of that King of the Dharma, Kenchen_MKHAN CHEN BLO BZANG BSTAN 'DZIN RGYAL MTSAN (1639-@)\", 'rtf')",
     "cat_ref": "S12272E",
     "work_ref": "W.S12272E",
     "title_tib": "MKHAN CHEN CHOS KYI RGYAL PO'I GSUNG 'BUM LAS DPAL 'KHOR LO BDE MCHOG GI LUS DKYIL GYI BSKYED RIM MKHA' SPYOD LDE MIG",
-    "title_eng": "The Key to the Creation-Stage Practice of the Heaven of the Angel, on the Secret World of the Body in the Secret Teachingsof the Glorious Wheel of Highest Bliss (Samvara); from the Collected Works of that King of the Dharma, Kenchen",
+    "title_eng": "The Key to the Creation-Stage Practice of the Heaven of the Angel, on the Secret World of the Body in the Secret Teachings(\"of the Glorious Wheel of Highest Bliss (Samvara); from the Collected Works of that King of the Dharma, Kenchen",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "MKHAN CHEN BLO BZANG BSTAN 'DZIN RGYAL MTSAN",
     "subject": [
         {
-            "_id": "936814418873",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/LUS DKYIL_SECRET WORLD OF THE BODY",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/BDE MCHOG/LUS DKYIL",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/SECRET WORLD OF THE BODY",
+            "_id": "934495339853",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/LUS DKYIL_SECRET WORLD OF THE BODY",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/BDE MCHOG/LUS DKYIL",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/SECRET WORLD OF THE BODY",
             "subject_tibetan": "LUS DKYIL",
             "subject_english": "SECRET WORLD OF THE BODY"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P6418"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/lus dkyil_secret world of the body",
-            "timestamp": "2024-09-10T02:16:53.065128+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/LUS DKYIL_SECRET WORLD OF THE BODY",
+            "timestamp": "2024-11-20 04:55:59.793882+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:55:59.793882+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

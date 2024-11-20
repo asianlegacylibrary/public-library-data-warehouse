@@ -1,12 +1,12 @@
 {
     "name": "S12415E_DRIS LAN GYI RIM PA RNAMS PHYOGS GCIG TU BSDEBS PA_A Compilation of Replies to Various Inquiries on Spiritual Topics_SKYABS RJE KHRI BYANG RIN PO CHE BLO BZANG YE SHES BSTAN 'DZIN RGYA MTSO (1901-1981).TXT",
-    "path": "dri lan_questions and answers/skyabs rje khri byang rin po che blo bzang ye shes bstan 'dzin rgya mtso_trijang rinpoche (1901-1981)",
-    "download_path": "/sungbum updated 4 26 23 bk/dri lan_questions and answers/skyabs rje khri byang rin po che blo bzang ye shes bstan 'dzin rgya mtso_trijang rinpoche (1901-1981)/s12415e_dris lan gyi rim pa rnams phyogs gcig tu bsdebs pa_a compilation of replies to various inquiries on spiritual topics_skyabs rje khri byang rin po che blo bzang ye shes bstan 'dzin rgya mtso (1901-1981).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAATTw",
-    "revision_id": "613f6664744728d294473",
+    "path": "DRI LAN_QUESTIONS AND ANSWERS/SKYABS RJE KHRI BYANG RIN PO CHE BLO BZANG YE SHES BSTAN 'DZIN RGYA MTSO_TRIJANG RINPOCHE (1901-1981)",
+    "download_path": "/sungbum updated 7 30 23 nl/dri lan_questions and answers/skyabs rje khri byang rin po che blo bzang ye shes bstan 'dzin rgya mtso_trijang rinpoche (1901-1981)/s12415e_dris lan gyi rim pa rnams phyogs gcig tu bsdebs pa_a compilation of replies to various inquiries on spiritual topics_skyabs rje khri byang rin po che blo bzang ye shes bstan 'dzin rgya mtso (1901-1981).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABTtA",
+    "revision_id": "625a4842bc0b78d294473",
     "content_hash": "ac7a5052ed15050cd5999fea358e596ef1ddf41ee421a69e35d791eb022067aa",
-    "server_modified": "2024-03-18T21:54:19",
-    "last_sync": "2024-09-09T19:21:02.002930",
+    "server_modified": "2024-10-29 21:46:22",
+    "last_sync": "2024-11-19 20:54:18.840799",
     "size": 109098,
     "meta_text": null,
     "cat_ref": "S12415E",
@@ -19,10 +19,10 @@
     "author_simple": "SKYABS RJE KHRI BYANG RIN PO CHE",
     "subject": [
         {
-            "_id": "222315616411",
-            "subject_path": "SUNGBUM_SUNGBUM/DRI LAN_QUESTIONS AND ANSWERS/SKYABS RJE KHRI BYANG RIN PO CHE BLO BZANG YE SHES BSTAN 'DZIN RGYA MTSO_TRIJANG RINPOCHE (1901-1981)",
-            "subject_path_tibetan": "SUNGBUM/DRI LAN/SKYABS RJE KHRI BYANG RIN PO CHE BLO BZANG YE SHES BSTAN 'DZIN RGYA MTSO",
-            "subject_path_english": "SUNGBUM/QUESTIONS AND ANSWERS/TRIJANG RINPOCHE (1901-1981)",
+            "_id": "603915157410",
+            "subject_path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/SKYABS RJE KHRI BYANG RIN PO CHE BLO BZANG YE SHES BSTAN 'DZIN RGYA MTSO_TRIJANG RINPOCHE (1901-1981)",
+            "subject_path_tibetan": "GSUNG 'BUM/DRI LAN/SKYABS RJE KHRI BYANG RIN PO CHE BLO BZANG YE SHES BSTAN 'DZIN RGYA MTSO",
+            "subject_path_english": "Sungbum/QUESTIONS AND ANSWERS/TRIJANG RINPOCHE (1901-1981)",
             "subject_tibetan": "SKYABS RJE KHRI BYANG RIN PO CHE BLO BZANG YE SHES BSTAN 'DZIN RGYA MTSO",
             "subject_english": "TRIJANG RINPOCHE (1901-1981)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P2596"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "dri lan_questions and answers/skyabs rje khri byang rin po che blo bzang ye shes bstan 'dzin rgya mtso_trijang rinpoche (1901-1981)",
-            "timestamp": "2024-09-10T02:21:02.005134+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/SKYABS RJE KHRI BYANG RIN PO CHE BLO BZANG YE SHES BSTAN 'DZIN RGYA MTSO_TRIJANG RINPOCHE (1901-1981)",
+            "timestamp": "2024-11-20 04:54:18.844524+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:54:18.844524+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

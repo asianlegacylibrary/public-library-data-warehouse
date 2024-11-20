@@ -1,12 +1,12 @@
 {
     "name": "S05977E54_PHAG DKAR SHES RAB GSAL BYED SGRUB THABS_A Method for Reaching the White Sow, who Makes all Wisdom Clear_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662).TXT",
-    "path": "rgyud_secret teachings (tantra)/phag dkar shes rab gsal byed_the white sow who makes all wisdom clear (prajnalokakirtya vajravarahi)/sgrub thabs_ritual for reaching the angel (sadhana)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/phag dkar shes rab gsal byed_the white sow who makes all wisdom clear (prajnalokakirtya vajravarahi)/sgrub thabs_ritual for reaching the angel (sadhana)/s05977e54_phag dkar shes rab gsal byed sgrub thabs_a method for reaching the white sow, who makes all wisdom clear_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAIKg",
-    "revision_id": "613f664dc42468d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/PHAG DKAR SHES RAB GSAL BYED_THE WHITE SOW WHO MAKES ALL WISDOM CLEAR (PRAJNALOKAKIRTYA VAJRAVARAHI)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/phag dkar shes rab gsal byed_the white sow who makes all wisdom clear (prajnalokakirtya vajravarahi)/sgrub thabs_ritual for reaching the angel (sadhana)/s05977e54_phag dkar shes rab gsal byed sgrub thabs_a method for reaching the white sow, who makes all wisdom clear_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABWSA",
+    "revision_id": "625a489e4acc28d294473",
     "content_hash": "d7b94b8fe56b514f7b9ac256fde0893c246b2bf4ec2cf14364e20dd57734931b",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:09:09.726920",
+    "server_modified": "2024-10-29 21:47:58",
+    "last_sync": "2024-11-19 20:58:51.459965",
     "size": 4059,
     "meta_text": null,
     "cat_ref": "S05977E54",
@@ -19,10 +19,10 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "283270314814",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/PHAG DKAR SHES RAB GSAL BYED_THE WHITE SOW WHO MAKES ALL WISDOM CLEAR (PRAJNALOKAKIRTYA VAJRAVARAHI)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/PHAG DKAR SHES RAB GSAL BYED/SGRUB THABS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/THE WHITE SOW WHO MAKES ALL WISDOM CLEAR (PRAJNALOKAKIRTYA VAJRAVARAHI)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "_id": "315581569368",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/PHAG DKAR SHES RAB GSAL BYED_THE WHITE SOW WHO MAKES ALL WISDOM CLEAR (PRAJNALOKAKIRTYA VAJRAVARAHI)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/PHAG DKAR SHES RAB GSAL BYED/SGRUB THABS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/THE WHITE SOW WHO MAKES ALL WISDOM CLEAR (PRAJNALOKAKIRTYA VAJRAVARAHI)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
             "subject_tibetan": "SGRUB THABS",
             "subject_english": "RITUAL FOR REACHING THE ANGEL (SADHANA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/phag dkar shes rab gsal byed_the white sow who makes all wisdom clear (prajnalokakirtya vajravarahi)/sgrub thabs_ritual for reaching the angel (sadhana)",
-            "timestamp": "2024-09-10T02:09:09.730272+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/PHAG DKAR SHES RAB GSAL BYED_THE WHITE SOW WHO MAKES ALL WISDOM CLEAR (PRAJNALOKAKIRTYA VAJRAVARAHI)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "timestamp": "2024-11-20 04:58:51.463733+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:58:51.463733+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

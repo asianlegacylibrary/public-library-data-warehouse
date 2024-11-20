@@ -1,45 +1,53 @@
 {
     "name": "TD04104-2_SO SOR THAR PA'I MDO'I GZHUNG 'GREL (Pratimokṣa Sūtra Paddhati).txt",
-    "path": "TENGYUR_TENGYUR/08 'DUL BA_Vowed Morality (Vinaya)/VOL 2 (NU)",
+    "path": "08 'DUL BA_Vowed Morality (Vinaya)/VOL 2 (NU)",
     "download_path": "/tengyur updated 10 31 24 ws/08 'dul ba_vowed morality (vinaya)/vol 2 (nu)/td04104-2_so sor thar pa'i mdo'i gzhung 'grel (pratimokṣa sūtra paddhati).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB2uw",
     "revision_id": "62633b9a7c9648d294473",
     "content_hash": "8b8bf45f002678476df5b7b661ef94d261bdc9486ff8f3630f543a5e30e02418",
     "server_modified": "2024-11-06 00:37:40",
-    "last_sync": "2024-11-13 01:57:55.287224+00:00",
+    "last_sync": "2024-11-20 03:58:46.694333",
     "size": 349506,
+    "meta_text": null,
     "cat_ref": "TD04104-2",
     "work_ref": "W.TD04104-2",
-    "title_tib": "SO SOR THAR PA'I MDO'I GZHUNG 'GREL",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "605261474262",
-            "subject_path": "TENGYUR_TENGYUR/08 'DUL BA_Vowed Morality (Vinaya)/VOL 2 (NU)",
-            "subject_path_tibetan": "TENGYUR/'DUL BA/2 (NU)",
-            "subject_path_english": "TENGYUR/Vowed Morality (Vinaya)/VOL 2 (NU)",
-            "subject_tibetan": "2 (NU)",
-            "subject_english": "VOL 2 (NU)"
+            "_id": "294848325700",
+            "subject_path": "BSTAN 'GYUR_Tengyur/08 'DUL BA_Vowed Morality (Vinaya)/VOL 2 (NU)",
+            "subject_path_tibetan": "BSTAN 'GYUR/08 'DUL BA/VOL 2 (NU)",
+            "subject_path_english": "Tengyur/Vowed Morality (Vinaya)",
+            "subject_tibetan": "VOL 2 (NU)",
+            "subject_english": "Vowed Morality (Vinaya)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Pratimokṣa Sūtra Paddhati",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/08 'DUL BA_Vowed Morality (Vinaya)/VOL 2 (NU)",
+            "timestamp": "2024-11-20 11:58:46.701490+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:57:55.589597+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T11:58:46.701490+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/08 'DUL BA_Vowed Morality (Vinaya)/VOL 2 (NU)",
-            "timestamp": "2024-11-13 01:57:55.589597+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

@@ -1,28 +1,28 @@
 {
     "name": "S00157E_DPAL GSANG BA 'DUS PA'I RAS BRIS DANG BSAM GTAN GYI DKYIL 'KHOR SGRUB MCHOD BYA TSUL GYI CHOG SGRIG DNGOS GRUB CHAR 'BEBS_The 'Shower of Attainments,' a Method of Making Offering for Attainments in the Teachings of the Glorious Secret Collec +.TXT",
-    "path": "rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/dkyil 'khor_secret world (mandala)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/dkyil 'khor_secret world (mandala)/s00157e_dpal gsang ba 'dus pa'i ras bris dang bsam gtan gyi dkyil 'khor sgrub mchod bya tsul gyi chog sgrig dngos grub char 'bebs_the 'shower of attainments,' a method of making offering for attainments in the teachings of the glorious secret collec +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAROQ",
-    "revision_id": "613f665fcd6be8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/DKYIL 'KHOR_SECRET WORLD (MANDALA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/dkyil 'khor_secret world (mandala)/s00157e_dpal gsang ba 'dus pa'i ras bris dang bsam gtan gyi dkyil 'khor sgrub mchod bya tsul gyi chog sgrig dngos grub char 'bebs_the 'shower of attainments,' a method of making offering for attainments in the teachings of the glorious secret collec +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABbZw",
+    "revision_id": "625a4954755b58d294473",
     "content_hash": "e7619032b6b74851dced9450a90a530d427d5bf2af8d057b55cf7313512c848b",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:18:51.146348",
+    "server_modified": "2024-10-29 21:51:09",
+    "last_sync": "2024-11-19 21:07:18.812401",
     "size": 50256,
-    "meta_text": "tion (Guhyasamaja), through the Practice of a Secret World, either Drawn or Visualized_LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN (1642-1714)",
+    "meta_text": "('tion (Guhyasamaja), through the Practice of a Secret World, either Drawn or Visualized_LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN (1642-1714)', 'rtf')",
     "cat_ref": "S00157E",
     "work_ref": "W.S00157E",
     "title_tib": "DPAL GSANG BA 'DUS PA'I RAS BRIS DANG BSAM GTAN GYI DKYIL 'KHOR SGRUB MCHOD BYA TSUL GYI CHOG SGRIG DNGOS GRUB CHAR 'BEBS",
-    "title_eng": "The 'Shower of Attainments,' a Method of Making Offering for Attainments in the Teachings of the Glorious Secret Collection (Guhyasamaja), through the Practice of a Secret World, either Drawn or Visualized",
+    "title_eng": "The 'Shower of Attainments,' a Method of Making Offering for Attainments in the Teachings of the Glorious Secret Collec('tion (Guhyasamaja), through the Practice of a Secret World, either Drawn or Visualized",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN",
     "subject": [
         {
-            "_id": "173540359271",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/DKYIL 'KHOR_SECRET WORLD (MANDALA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/GSANG 'DUS/DKYIL 'KHOR",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/SECRET COLLECTION (GUHYASAMAJA)/SECRET WORLD (MANDALA)",
+            "_id": "945137803798",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/DKYIL 'KHOR_SECRET WORLD (MANDALA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/GSANG 'DUS/DKYIL 'KHOR",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/SECRET COLLECTION (GUHYASAMAJA)/SECRET WORLD (MANDALA)",
             "subject_tibetan": "DKYIL 'KHOR",
             "subject_english": "SECRET WORLD (MANDALA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P209"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/dkyil 'khor_secret world (mandala)",
-            "timestamp": "2024-09-10T02:18:51.157358+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/DKYIL 'KHOR_SECRET WORLD (MANDALA)",
+            "timestamp": "2024-11-20 05:07:22.081079+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:07:22.081079+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

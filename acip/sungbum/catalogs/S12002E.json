@@ -1,28 +1,28 @@
 {
     "name": "S12002E_'PHAGS YUL MKHAS GRUB YONGS KYI BTZUG RGYAN GRUB PA'I SLOB DPON CHEN PO MI TRA DZO KI'I RTOGS PA BRJOD PA ZUNG 'JUG GRUB PA'I GTAM SNYAN_Lovely Words which Bring the Achievement of the Union of the Two--The Life Story of the Great Mitra Joki +.TXT",
-    "path": "rnam thar_biographies/mtsan thog_by person's name/mi tra dzo ki_mitra joki",
-    "download_path": "/sungbum updated 4 26 23 bk/rnam thar_biographies/mtsan thog_by person's name/mi tra dzo ki_mitra joki/s12002e_'phags yul mkhas grub yongs kyi btzug rgyan grub pa'i slob dpon chen po mi tra dzo ki'i rtogs pa brjod pa zung 'jug grub pa'i gtam snyan_lovely words which bring the achievement of the union of the two--the life story of the great mitra joki +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAWhw",
-    "revision_id": "613f666d209a38d294473",
+    "path": "RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/MI TRA DZO KI_MITRA JOKI",
+    "download_path": "/sungbum updated 7 30 23 nl/rnam thar_biographies/mtsan thog_by person's name/mi tra dzo ki_mitra joki/s12002e_'phags yul mkhas grub yongs kyi btzug rgyan grub pa'i slob dpon chen po mi tra dzo ki'i rtogs pa brjod pa zung 'jug grub pa'i gtam snyan_lovely words which bring the achievement of the union of the two--the life story of the great mitra joki +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABf0w",
+    "revision_id": "625a4a0945cb78d294473",
     "content_hash": "1a26052c724e3a31315c868c4148b217d9c9368836773b867a29b1baf7665320",
-    "server_modified": "2024-03-18T21:54:28",
-    "last_sync": "2024-09-09T19:23:44.970864",
+    "server_modified": "2024-10-29 21:54:19",
+    "last_sync": "2024-11-19 21:14:57.678246",
     "size": 6996,
-    "meta_text": ", Master of the Sages, Crowning Jewel of Each and Every Accomplished Saint of the Land of the Realized Ones_DRUNG CHEN SHES RAB RGYA MTSO PRADZNY'A'I MTSAN CAN (1803-1875)",
+    "meta_text": "(\", Master of the Sages, Crowning Jewel of Each and Every Accomplished Saint of the Land of the Realized Ones_DRUNG CHEN SHES RAB RGYA MTSO PRADZNY'A'I MTSAN CAN (1803-1875)\", 'rtf')",
     "cat_ref": "S12002E",
     "work_ref": "W.S12002E",
     "title_tib": "'PHAGS YUL MKHAS GRUB YONGS KYI BTZUG RGYAN GRUB PA'I SLOB DPON CHEN PO MI TRA DZO KI'I RTOGS PA BRJOD PA ZUNG 'JUG GRUB PA'I GTAM SNYAN",
-    "title_eng": "Lovely Words which Bring the Achievement of the Union of the Two--The Life Story of the Great Mitra Joki, Master of the Sages, Crowning Jewel of Each and Every Accomplished Saint of the Land of the Realized Ones",
+    "title_eng": "Lovely Words which Bring the Achievement of the Union of the Two--The Life Story of the Great Mitra Joki(\", Master of the Sages, Crowning Jewel of Each and Every Accomplished Saint of the Land of the Realized Ones",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "DRUNG CHEN SHES RAB RGYA MTSO PRADZNY'A'I MTSAN CAN",
     "subject": [
         {
-            "_id": "245771442155",
-            "subject_path": "SUNGBUM_SUNGBUM/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/MI TRA DZO KI_MITRA JOKI",
-            "subject_path_tibetan": "SUNGBUM/RNAM THAR/MTSAN THOG/MI TRA DZO KI",
-            "subject_path_english": "SUNGBUM/BIOGRAPHIES/BY PERSON'S NAME/MITRA JOKI",
+            "_id": "111967813286",
+            "subject_path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/MI TRA DZO KI_MITRA JOKI",
+            "subject_path_tibetan": "GSUNG 'BUM/RNAM THAR/MTSAN THOG/MI TRA DZO KI",
+            "subject_path_english": "Sungbum/BIOGRAPHIES/BY PERSON'S NAME/MITRA JOKI",
             "subject_tibetan": "MI TRA DZO KI",
             "subject_english": "MITRA JOKI"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P123"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rnam thar_biographies/mtsan thog_by person's name/mi tra dzo ki_mitra joki",
-            "timestamp": "2024-09-10T02:23:44.974042+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/MI TRA DZO KI_MITRA JOKI",
+            "timestamp": "2024-11-20 05:14:57.684015+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:14:57.684015+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

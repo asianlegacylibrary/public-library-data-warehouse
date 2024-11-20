@@ -1,28 +1,28 @@
 {
     "name": "S05577E_ RJE BTZUN THAMS CAD MKHYEN PA'I GSUNG 'BUM THOR BU LAS CHOS SKYONG GI SKOR RNAMS_A Collection of Writings on the Topic of Dharma Protectors, from Assorted Writings found in the Collected Works of the Holy and Omniscient One_RGYAL BA DGE +.txt",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/chos skyong_dharma protectors (dharmapala)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/chos skyong_dharma protectors (dharmapala)/s05577e_ rje btzun thams cad mkhyen pa'i gsung 'bum thor bu las chos skyong gi skor rnams_a collection of writings on the topic of dharma protectors, from assorted writings found in the collected works of the holy and omniscient one_rgyal ba dge +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAN1Q",
-    "revision_id": "613f665b60fee8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/CHOS SKYONG_DHARMA PROTECTORS (DHARMAPALA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyi_general treatments/chos skyong_dharma protectors (dharmapala)/s05577e_ rje btzun thams cad mkhyen pa'i gsung 'bum thor bu las chos skyong gi skor rnams_a collection of writings on the topic of dharma protectors, from assorted writings found in the collected works of the holy and omniscient one_rgyal ba dge +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABY3A",
+    "revision_id": "625a48ec6ad8e8d294473",
     "content_hash": "2c5d737c90dbc6073a64377329934a79f0a9aed9601daa83b8f2161ffdf23370",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:15:13.349418",
+    "server_modified": "2024-10-29 21:49:20",
+    "last_sync": "2024-11-19 21:03:15.078943",
     "size": 223637,
-    "meta_text": "'DUN RGYA MTSO (1476-1542)",
+    "meta_text": "(\"'DUN RGYA MTSO (1476-1542)\", 'text')",
     "cat_ref": "S05577E",
     "work_ref": "W.S05577E",
     "title_tib": "RJE BTZUN THAMS CAD MKHYEN PA'I GSUNG 'BUM THOR BU LAS CHOS SKYONG GI SKOR RNAMS",
-    "title_eng": "RGYAL BA DGE'DUN RGYA MTSO (1476-1542)",
+    "title_eng": "RGYAL BA DGE(\"'DUN RGYA MTSO (1476-1542)\", 'text')",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "",
     "subject": [
         {
-            "_id": "286770260130",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/CHOS SKYONG_DHARMA PROTECTORS (DHARMAPALA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/CHOS SKYONG",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/DHARMA PROTECTORS (DHARMAPALA)",
+            "_id": "328105867222",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/CHOS SKYONG_DHARMA PROTECTORS (DHARMAPALA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/CHOS SKYONG",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/DHARMA PROTECTORS (DHARMAPALA)",
             "subject_tibetan": "CHOS SKYONG",
             "subject_english": "DHARMA PROTECTORS (DHARMAPALA)"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/chos skyong_dharma protectors (dharmapala)",
-            "timestamp": "2024-09-10T02:15:13.353892+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/CHOS SKYONG_DHARMA PROTECTORS (DHARMAPALA)",
+            "timestamp": "2024-11-20 05:03:16.237775+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:03:16.237775+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

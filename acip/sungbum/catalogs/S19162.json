@@ -1,12 +1,12 @@
 {
     "name": "S19162_GZHAN GYI THE TSOM SEL BYED DRIS LAN KYI SKOR.txt",
-    "path": "dri lan_questions and answers/red mda' ba gzhon nu blo gros_rendawa shunnu lodru (1349-1412)",
-    "download_path": "/sungbum updated 4 26 23 bk/dri lan_questions and answers/red mda' ba gzhon nu blo gros_rendawa shunnu lodru (1349-1412)/s19162_gzhan gyi the tsom sel byed dris lan kyi skor.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAUww",
-    "revision_id": "613f6668766298d294473",
+    "path": "DRI LAN_QUESTIONS AND ANSWERS/RED MDA' BA GZHON NU BLO GROS_RENDAWA SHUNNU LODRU (1349-1412)",
+    "download_path": "/sungbum updated 7 30 23 nl/dri lan_questions and answers/red mda' ba gzhon nu blo gros_rendawa shunnu lodru (1349-1412)/s19162_gzhan gyi the tsom sel byed dris lan kyi skor.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABTvQ",
+    "revision_id": "625a4843cd9498d294473",
     "content_hash": "89011d8f4bf74085a8b97b88dd2feaf67f2416f61009eacfe83fce23559d4d35",
-    "server_modified": "2024-03-18T21:54:23",
-    "last_sync": "2024-09-09T19:21:50.910190",
+    "server_modified": "2024-10-29 21:46:23",
+    "last_sync": "2024-11-19 20:54:19.651803",
     "size": 195274,
     "meta_text": null,
     "cat_ref": "S19162",
@@ -19,10 +19,10 @@
     "author_simple": "",
     "subject": [
         {
-            "_id": "849017397652",
-            "subject_path": "SUNGBUM_SUNGBUM/DRI LAN_QUESTIONS AND ANSWERS/RED MDA' BA GZHON NU BLO GROS_RENDAWA SHUNNU LODRU (1349-1412)",
-            "subject_path_tibetan": "SUNGBUM/DRI LAN/RED MDA' BA GZHON NU BLO GROS",
-            "subject_path_english": "SUNGBUM/QUESTIONS AND ANSWERS/RENDAWA SHUNNU LODRU (1349-1412)",
+            "_id": "111346838316",
+            "subject_path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/RED MDA' BA GZHON NU BLO GROS_RENDAWA SHUNNU LODRU (1349-1412)",
+            "subject_path_tibetan": "GSUNG 'BUM/DRI LAN/RED MDA' BA GZHON NU BLO GROS",
+            "subject_path_english": "Sungbum/QUESTIONS AND ANSWERS/RENDAWA SHUNNU LODRU (1349-1412)",
             "subject_tibetan": "RED MDA' BA GZHON NU BLO GROS",
             "subject_english": "RENDAWA SHUNNU LODRU (1349-1412)"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "dri lan_questions and answers/red mda' ba gzhon nu blo gros_rendawa shunnu lodru (1349-1412)",
-            "timestamp": "2024-09-10T02:21:50.912063+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/RED MDA' BA GZHON NU BLO GROS_RENDAWA SHUNNU LODRU (1349-1412)",
+            "timestamp": "2024-11-20 04:54:19.655873+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:54:19.655873+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

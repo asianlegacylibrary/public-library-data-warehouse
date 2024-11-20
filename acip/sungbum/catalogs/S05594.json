@@ -1,12 +1,12 @@
 {
     "name": "S05594_JAM DPAL DBYANGS CHOS KYI RJE DKON MCHOG CHOS 'PHEL GYI RTOGS BRJOD MKHAS PA'I RNA RGYAN_\"Earring for the Wise,\" the Life Story of Gentle Voice Himself, that Lord of the Dharma, Konchog Chupel_RGYAL BA NGAG DBANG BLO BZANG RGYA MTSO (1617-1682).TXT",
-    "path": "rnam thar_biographies/mtsan thog_by person's name/dkon mchog chos 'phel_konchok chupel (1573-1646)",
-    "download_path": "/sungbum updated 4 26 23 bk/rnam thar_biographies/mtsan thog_by person's name/dkon mchog chos 'phel_konchok chupel (1573-1646)/s05594_jam dpal dbyangs chos kyi rje dkon mchog chos 'phel gyi rtogs brjod mkhas pa'i rna rgyan_\"earring for the wise,\" the life story of gentle voice himself, that lord of the dharma, konchog chupel_rgyal ba ngag dbang blo bzang rgya mtso (1617-1682).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAWig",
-    "revision_id": "613f666d209a68d294473",
+    "path": "RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/DKON MCHOG CHOS 'PHEL_KONCHOK CHUPEL (1573-1646)",
+    "download_path": "/sungbum updated 7 30 23 nl/rnam thar_biographies/mtsan thog_by person's name/dkon mchog chos 'phel_konchok chupel (1573-1646)/s05594_jam dpal dbyangs chos kyi rje dkon mchog chos 'phel gyi rtogs brjod mkhas pa'i rna rgyan_\"earring for the wise,\" the life story of gentle voice himself, that lord of the dharma, konchog chupel_rgyal ba ngag dbang blo bzang rgya mtso (1617-1682).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABgXA",
+    "revision_id": "625a4a1c0efd58d294473",
     "content_hash": "38914f29afcf868a5e4a6237396ea0427e5f28185748e2bc89c0b552ff1b1340",
-    "server_modified": "2024-03-18T21:54:28",
-    "last_sync": "2024-09-09T19:23:45.417637",
+    "server_modified": "2024-10-29 21:54:38",
+    "last_sync": "2024-11-19 21:16:12.639574",
     "size": 51778,
     "meta_text": null,
     "cat_ref": "S05594",
@@ -19,10 +19,10 @@
     "author_simple": "RGYAL BA NGAG DBANG BLO BZANG RGYA MTSO",
     "subject": [
         {
-            "_id": "338190126486",
-            "subject_path": "SUNGBUM_SUNGBUM/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/DKON MCHOG CHOS 'PHEL_KONCHOK CHUPEL (1573-1646)",
-            "subject_path_tibetan": "SUNGBUM/RNAM THAR/MTSAN THOG/DKON MCHOG CHOS 'PHEL",
-            "subject_path_english": "SUNGBUM/BIOGRAPHIES/BY PERSON'S NAME/KONCHOK CHUPEL (1573-1646)",
+            "_id": "763586717761",
+            "subject_path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/DKON MCHOG CHOS 'PHEL_KONCHOK CHUPEL (1573-1646)",
+            "subject_path_tibetan": "GSUNG 'BUM/RNAM THAR/MTSAN THOG/DKON MCHOG CHOS 'PHEL",
+            "subject_path_english": "Sungbum/BIOGRAPHIES/BY PERSON'S NAME/KONCHOK CHUPEL (1573-1646)",
             "subject_tibetan": "DKON MCHOG CHOS 'PHEL",
             "subject_english": "KONCHOK CHUPEL (1573-1646)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P37"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rnam thar_biographies/mtsan thog_by person's name/dkon mchog chos 'phel_konchok chupel (1573-1646)",
-            "timestamp": "2024-09-10T02:23:45.421000+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/DKON MCHOG CHOS 'PHEL_KONCHOK CHUPEL (1573-1646)",
+            "timestamp": "2024-11-20 05:16:12.643632+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:16:12.643632+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

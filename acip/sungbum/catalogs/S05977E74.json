@@ -1,12 +1,12 @@
 {
     "name": "S05977E74_MGON DKAR YID BZHIN NOR BU'I SGRUB THABS_A Method for Reaching the White Protector (Sita Mahakala), the Wish-Granting Jewel_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662).TXT",
-    "path": "rgyud_secret teachings (tantra)/mgon dkar_white protector (sita mahakala)/sgrub thabs_ritual for reaching the angel (sadhana)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/mgon dkar_white protector (sita mahakala)/sgrub thabs_ritual for reaching the angel (sadhana)/s05977e74_mgon dkar yid bzhin nor bu'i sgrub thabs_a method for reaching the white protector (sita mahakala), the wish-granting jewel_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAJxQ",
-    "revision_id": "613f664dc43e18d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/MGON DKAR_WHITE PROTECTOR (SITA MAHAKALA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/mgon dkar_white protector (sita mahakala)/sgrub thabs_ritual for reaching the angel (sadhana)/s05977e74_mgon dkar yid bzhin nor bu'i sgrub thabs_a method for reaching the white protector (sita mahakala), the wish-granting jewel_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABWRQ",
+    "revision_id": "625a489e4acbb8d294473",
     "content_hash": "d134fd21f03d1c14587c94a36bbc64b1458daf9796d5bdb821b8787fe4ddb3ff",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:10:49.444513",
+    "server_modified": "2024-10-29 21:47:58",
+    "last_sync": "2024-11-19 20:58:44.507893",
     "size": 6138,
     "meta_text": null,
     "cat_ref": "S05977E74",
@@ -19,10 +19,10 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "337772264097",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/MGON DKAR_WHITE PROTECTOR (SITA MAHAKALA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/MGON DKAR/SGRUB THABS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/WHITE PROTECTOR (SITA MAHAKALA)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "_id": "781985362925",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/MGON DKAR_WHITE PROTECTOR (SITA MAHAKALA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/MGON DKAR/SGRUB THABS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/WHITE PROTECTOR (SITA MAHAKALA)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
             "subject_tibetan": "SGRUB THABS",
             "subject_english": "RITUAL FOR REACHING THE ANGEL (SADHANA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/mgon dkar_white protector (sita mahakala)/sgrub thabs_ritual for reaching the angel (sadhana)",
-            "timestamp": "2024-09-10T02:10:49.458146+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/MGON DKAR_WHITE PROTECTOR (SITA MAHAKALA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "timestamp": "2024-11-20 04:58:44.511588+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:58:44.511588+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

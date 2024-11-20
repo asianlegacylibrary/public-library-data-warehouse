@@ -1,28 +1,28 @@
 {
     "name": "S00923E_YONGS 'DZIN RIN PO CHE YE SHES RGYAL MTSAN NAS BDE LAM GYI KHRID GNANG BA RJE BTZUN DKON MCHOG BSTAN PA'I SGRON ME DPAL BZANG POS ZIN BRIS SU GNANG BA GDUNG SEL BDUD RTZI'I THIGS PA_'Drops of Deathless Nectar that Clear Away the Heat of Pain+.TXT",
-    "path": "lam rim_steps of the path/bde lam_path to bliss/'grel pa_commentaries",
-    "download_path": "/sungbum updated 4 26 23 bk/lam rim_steps of the path/bde lam_path to bliss/'grel pa_commentaries/s00923e_yongs 'dzin rin po che ye shes rgyal mtsan nas bde lam gyi khrid gnang ba rje btzun dkon mchog bstan pa'i sgron me dpal bzang pos zin bris su gnang ba gdung sel bdud rtzi'i thigs pa_'drops of deathless nectar that clear away the heat of pain+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAGtg",
-    "revision_id": "613f66492f1208d294473",
+    "path": "LAM RIM_STEPS OF THE PATH/BDE LAM_PATH TO BLISS/'GREL PA_COMMENTARIES",
+    "download_path": "/sungbum updated 7 30 23 nl/lam rim_steps of the path/bde lam_path to bliss/'grel pa_commentaries/s00923e_yongs 'dzin rin po che ye shes rgyal mtsan nas bde lam gyi khrid gnang ba rje btzun dkon mchog bstan pa'i sgron me dpal bzang pos zin bris su gnang ba gdung sel bdud rtzi'i thigs pa_'drops of deathless nectar that clear away the heat of pain+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABhOQ",
+    "revision_id": "625a4a56f485f8d294473",
     "content_hash": "564d187845651f1cada4a718f5e3936cf32f143f81aa3828b01fb173d45b9eb9",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:07:50.389362",
+    "server_modified": "2024-10-29 21:55:40",
+    "last_sync": "2024-11-19 21:17:29.699319",
     "size": 187922,
-    "meta_text": ",’ being Notes to a Teaching on the ‘Path of Ease’ Granted by the Precious Tutor, Yeshe Gyeltsen, and Recorded by that Good and Glorious One, the Venerable Konchok Tenpay Drunme_GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME (1762-1823)",
+    "meta_text": "(\",’ being Notes to a Teaching on the ‘Path of Ease’ Granted by the Precious Tutor, Yeshe Gyeltsen, and Recorded by that Good and Glorious One, the Venerable Konchok Tenpay Drunme_GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME (1762-1823)\", 'rtf')",
     "cat_ref": "S00923E",
     "work_ref": "W.S00923E",
     "title_tib": "YONGS 'DZIN RIN PO CHE YE SHES RGYAL MTSAN NAS BDE LAM GYI KHRID GNANG BA RJE BTZUN DKON MCHOG BSTAN PA'I SGRON ME DPAL BZANG POS ZIN BRIS SU GNANG BA GDUNG SEL BDUD RTZI'I THIGS PA",
-    "title_eng": "'Drops of Deathless Nectar that Clear Away the Heat of Pain,’ being Notes to a Teaching on the ‘Path of Ease’ Granted by the Precious Tutor, Yeshe Gyeltsen, and Recorded by that Good and Glorious One, the Venerable Konchok Tenpay Drunme",
+    "title_eng": "'Drops of Deathless Nectar that Clear Away the Heat of Pain(\",’ being Notes to a Teaching on the ‘Path of Ease’ Granted by the Precious Tutor, Yeshe Gyeltsen, and Recorded by that Good and Glorious One, the Venerable Konchok Tenpay Drunme",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME",
     "subject": [
         {
-            "_id": "203959631203",
-            "subject_path": "SUNGBUM_SUNGBUM/LAM RIM_STEPS OF THE PATH/BDE LAM_PATH TO BLISS/'GREL PA_COMMENTARIES",
-            "subject_path_tibetan": "SUNGBUM/LAM RIM/BDE LAM/'GREL PA",
-            "subject_path_english": "SUNGBUM/STEPS OF THE PATH/PATH TO BLISS/COMMENTARIES",
+            "_id": "226221466161",
+            "subject_path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/BDE LAM_PATH TO BLISS/'GREL PA_COMMENTARIES",
+            "subject_path_tibetan": "GSUNG 'BUM/LAM RIM/BDE LAM/'GREL PA",
+            "subject_path_english": "Sungbum/STEPS OF THE PATH/PATH TO BLISS/COMMENTARIES",
             "subject_tibetan": "'GREL PA",
             "subject_english": "COMMENTARIES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P298"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "lam rim_steps of the path/bde lam_path to bliss/'grel pa_commentaries",
-            "timestamp": "2024-09-10T02:07:50.429057+00:00"
+            "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/BDE LAM_PATH TO BLISS/'GREL PA_COMMENTARIES",
+            "timestamp": "2024-11-20 05:17:34.026789+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:17:34.026789+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

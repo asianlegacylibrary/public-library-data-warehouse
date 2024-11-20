@@ -1,28 +1,28 @@
 {
     "name": "S05569E_RJE THAMS CAD MKHYEN PA'I GSUNG 'BUM THOR BU LAS SGROL MA PHYAG 'TSAL NYER GCIG GI RNAM BSHAD_An Explanation of \"The 21 Prostrations to the Lady of Liberation (Tara),\" from Assorted Writings found in the Collected Works of the Omniscient Lor +.txt",
-    "path": "rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/'grel pa_commentaries",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/'grel pa_commentaries/s05569e_rje thams cad mkhyen pa'i gsung 'bum thor bu las sgrol ma phyag 'tsal nyer gcig gi rnam bshad_an explanation of \"the 21 prostrations to the lady of liberation (tara),\" from assorted writings found in the collected works of the omniscient lor +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAQRQ",
-    "revision_id": "613f665fcd5ca8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/'GREL PA_COMMENTARIES",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/'grel pa_commentaries/s05569e_rje thams cad mkhyen pa'i gsung 'bum thor bu las sgrol ma phyag 'tsal nyer gcig gi rnam bshad_an explanation of \"the 21 prostrations to the lady of liberation (tara),\" from assorted writings found in the collected works of the omniscient lor +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABYkQ",
+    "revision_id": "625a48e2019148d294473",
     "content_hash": "10a89e3e83b04242d406990aca22ecd933ba278a754184d7f21d20d4075f66e8",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:17:44.566134",
+    "server_modified": "2024-10-29 21:49:09",
+    "last_sync": "2024-11-19 21:02:38.129415",
     "size": 12808,
-    "meta_text": "d_RGYAL BA DGE 'DUN RGYA MTSO (1476-1542)",
+    "meta_text": "(\"d_RGYAL BA DGE 'DUN RGYA MTSO (1476-1542)\", 'text')",
     "cat_ref": "S05569E",
     "work_ref": "W.S05569E",
     "title_tib": "RJE THAMS CAD MKHYEN PA'I GSUNG 'BUM THOR BU LAS SGROL MA PHYAG 'TSAL NYER GCIG GI RNAM BSHAD",
-    "title_eng": "An Explanation of \"The 21 Prostrations to the Lady of Liberation (Tara),\" from Assorted Writings found in the Collected Works of the Omniscient Lord",
+    "title_eng": "An Explanation of \"The 21 Prostrations to the Lady of Liberation (Tara),\" from Assorted Writings found in the Collected Works of the Omniscient Lor(\"d",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "RGYAL BA DGE 'DUN RGYA MTSO",
     "subject": [
         {
-            "_id": "226936351181",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/'GREL PA_COMMENTARIES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SGROL MA/'GREL PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/LADY OF LIBERATION (TARA)/COMMENTARIES",
+            "_id": "163178366564",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/'GREL PA_COMMENTARIES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SGROL MA/'GREL PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/LADY OF LIBERATION (TARA)/COMMENTARIES",
             "subject_tibetan": "'GREL PA",
             "subject_english": "COMMENTARIES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P84"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/'grel pa_commentaries",
-            "timestamp": "2024-09-10T02:17:44.569773+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/'GREL PA_COMMENTARIES",
+            "timestamp": "2024-11-20 05:02:38.136628+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:02:38.136628+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

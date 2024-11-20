@@ -1,12 +1,12 @@
 {
     "name": "S06398M_GSUM PA MA NING GI RTAGS DBYANGS MTHA' CAN LA RNAM DBYE'I 'JUG TSUL BSHAD PA_The Third Section, being an Explanation of the Declensions of Neuter Words with Final Vowels_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "gsum rtags_grammar",
-    "download_path": "/sungbum updated 4 26 23 bk/gsum rtags_grammar/s06398m_gsum pa ma ning gi rtags dbyangs mtha' can la rnam dbye'i 'jug tsul bshad pa_the third section, being an explanation of the declensions of neuter words with final vowels_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAAFg",
-    "revision_id": "613f663b87b5f8d294473",
+    "path": "GSUM RTAGS_GRAMMAR",
+    "download_path": "/sungbum updated 7 30 23 nl/gsum rtags_grammar/s06398m_gsum pa ma ning gi rtags dbyangs mtha' can la rnam dbye'i 'jug tsul bshad pa_the third section, being an explanation of the declensions of neuter words with final vowels_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABOnA",
+    "revision_id": "625a4773864238d294473",
     "content_hash": "6507189fd4af6bd29c330fdfe4b5ec2be8d1a501f05e229058a003e372b68b80",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:01:05.006755",
+    "server_modified": "2024-10-29 21:42:45",
+    "last_sync": "2024-11-19 20:46:30.665606",
     "size": 1492,
     "meta_text": null,
     "cat_ref": "S06398M",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "278127590787",
-            "subject_path": "SUNGBUM_SUNGBUM/GSUM RTAGS_GRAMMAR",
-            "subject_path_tibetan": "SUNGBUM/GSUM RTAGS",
-            "subject_path_english": "SUNGBUM/GRAMMAR",
+            "_id": "289751550091",
+            "subject_path": "GSUNG 'BUM_Sungbum/GSUM RTAGS_GRAMMAR",
+            "subject_path_tibetan": "GSUNG 'BUM/GSUM RTAGS",
+            "subject_path_english": "Sungbum/GRAMMAR",
             "subject_tibetan": "GSUM RTAGS",
             "subject_english": "GRAMMAR"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "gsum rtags_grammar",
-            "timestamp": "2024-09-10T02:01:05.023840+00:00"
+            "path": "GSUNG 'BUM_Sungbum/GSUM RTAGS_GRAMMAR",
+            "timestamp": "2024-11-20 04:46:30.678483+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:46:30.678483+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

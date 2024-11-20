@@ -1,12 +1,12 @@
 {
     "name": "S05977E_PAn CHEN THAMS CAD MKHYEN PA CHEN PO'I GSUNG THOR BU BA PHYOGS GCIG TU BSDEBS PA RNAMS_A Compilation of Scattered Works by the Panchen Lama, the Great All-Knowing One_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662).TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/'grel pa_general commentaries/lobsang chukyi gyeltsen_blo bzang chos kyi rgyal mtsan (1565-1662)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/'grel pa_general commentaries/lobsang chukyi gyeltsen_blo bzang chos kyi rgyal mtsan (1565-1662)/s05977e_pan chen thams cad mkhyen pa chen po'i gsung thor bu ba phyogs gcig tu bsdebs pa rnams_a compilation of scattered works by the panchen lama, the great all-knowing one_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAANVg",
-    "revision_id": "613f6656dee278d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/'GREL PA_GENERAL COMMENTARIES/LOBSANG CHUKYI GYELTSEN_BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyi_general treatments/'grel pa_general commentaries/lobsang chukyi gyeltsen_blo bzang chos kyi rgyal mtsan (1565-1662)/s05977e_pan chen thams cad mkhyen pa chen po'i gsung thor bu ba phyogs gcig tu bsdebs pa rnams_a compilation of scattered works by the panchen lama, the great all-knowing one_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABacA",
+    "revision_id": "625a492e12a3b8d294473",
     "content_hash": "fcf1ec3931cac1c2bd0142e6bc396b3e161e7f469e94396a612c915dcf0d5d70",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:14:46.381622",
+    "server_modified": "2024-10-29 21:50:29",
+    "last_sync": "2024-11-19 21:05:30.012096",
     "size": 803225,
     "meta_text": null,
     "cat_ref": "S05977E",
@@ -19,10 +19,10 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "244992416591",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/'GREL PA_GENERAL COMMENTARIES/LOBSANG CHUKYI GYELTSEN_BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/'GREL PA/LOBSANG CHUKYI GYELTSEN",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/GENERAL COMMENTARIES/BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)",
+            "_id": "151054523595",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/'GREL PA_GENERAL COMMENTARIES/LOBSANG CHUKYI GYELTSEN_BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/'GREL PA/LOBSANG CHUKYI GYELTSEN",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/GENERAL COMMENTARIES/BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)",
             "subject_tibetan": "LOBSANG CHUKYI GYELTSEN",
             "subject_english": "BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/'grel pa_general commentaries/lobsang chukyi gyeltsen_blo bzang chos kyi rgyal mtsan (1565-1662)",
-            "timestamp": "2024-09-10T02:14:46.383509+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/'GREL PA_GENERAL COMMENTARIES/LOBSANG CHUKYI GYELTSEN_BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)",
+            "timestamp": "2024-11-20 05:05:30.017965+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:05:30.017965+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

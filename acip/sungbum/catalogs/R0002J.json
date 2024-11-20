@@ -1,12 +1,12 @@
 {
     "name": "R0002J.TXT",
-    "path": "rnam thar_biographies/rnam thar sna tsogs_compilations of biographies/tsig mdzod chen mo_the great dictionary",
-    "download_path": "/sungbum updated 4 26 23 bk/rnam thar_biographies/rnam thar sna tsogs_compilations of biographies/tsig mdzod chen mo_the great dictionary/r0002j.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAVzA",
-    "revision_id": "613f666d208e88d294473",
+    "path": "RNAM THAR_BIOGRAPHIES/RNAM THAR SNA TSOGS_COMPILATIONS OF BIOGRAPHIES/TSIG MDZOD CHEN MO_THE GREAT DICTIONARY",
+    "download_path": "/sungbum updated 7 30 23 nl/rnam thar_biographies/rnam thar sna tsogs_compilations of biographies/tsig mdzod chen mo_the great dictionary/r0002j.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABgqA",
+    "revision_id": "625a4a31573e98d294473",
     "content_hash": "3ef0faf9595dea8acd8114aa5214e0be2221a9f2c226552f8dce99431e2efa17",
-    "server_modified": "2024-03-18T21:54:28",
-    "last_sync": "2024-09-09T19:23:03.327677",
+    "server_modified": "2024-10-29 21:55:01",
+    "last_sync": "2024-11-19 21:16:45.145691",
     "size": 110186,
     "meta_text": null,
     "cat_ref": "R0002J",
@@ -19,10 +19,10 @@
     "author_simple": "",
     "subject": [
         {
-            "_id": "165878677558",
-            "subject_path": "SUNGBUM_SUNGBUM/RNAM THAR_BIOGRAPHIES/RNAM THAR SNA TSOGS_COMPILATIONS OF BIOGRAPHIES/TSIG MDZOD CHEN MO_THE GREAT DICTIONARY",
-            "subject_path_tibetan": "SUNGBUM/RNAM THAR/RNAM THAR SNA TSOGS/TSIG MDZOD CHEN MO",
-            "subject_path_english": "SUNGBUM/BIOGRAPHIES/COMPILATIONS OF BIOGRAPHIES/THE GREAT DICTIONARY",
+            "_id": "391526194138",
+            "subject_path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/RNAM THAR SNA TSOGS_COMPILATIONS OF BIOGRAPHIES/TSIG MDZOD CHEN MO_THE GREAT DICTIONARY",
+            "subject_path_tibetan": "GSUNG 'BUM/RNAM THAR/RNAM THAR SNA TSOGS/TSIG MDZOD CHEN MO",
+            "subject_path_english": "Sungbum/BIOGRAPHIES/COMPILATIONS OF BIOGRAPHIES/THE GREAT DICTIONARY",
             "subject_tibetan": "TSIG MDZOD CHEN MO",
             "subject_english": "THE GREAT DICTIONARY"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rnam thar_biographies/rnam thar sna tsogs_compilations of biographies/tsig mdzod chen mo_the great dictionary",
-            "timestamp": "2024-09-10T02:23:03.377270+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/RNAM THAR SNA TSOGS_COMPILATIONS OF BIOGRAPHIES/TSIG MDZOD CHEN MO_THE GREAT DICTIONARY",
+            "timestamp": "2024-11-20 05:16:45.195282+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:16:45.195282+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,14 +1,14 @@
 {
     "name": "S12133E_DPAL LDAN BLA MA DAM PA KUN SPANGS CHEN PO NGAG DBANG BLO BZANG DPAL BZANG PO'I RNAM PAR THAR PA DAD PA'I MYU GU_Faith Sprouting Forth--The Life Story of the Glorious Lama, the Great and Holy Renunciate, Ngawang Lobsang Pel Sangpo_'JAM DBYAN +.TXT",
-    "path": "rnam thar_biographies/mtsan thog_by person's name/ngag dbang blo bzang dpal bzang po_ngawang lobsang pel sangpo",
-    "download_path": "/sungbum updated 4 26 23 bk/rnam thar_biographies/mtsan thog_by person's name/ngag dbang blo bzang dpal bzang po_ngawang lobsang pel sangpo/s12133e_dpal ldan bla ma dam pa kun spangs chen po ngag dbang blo bzang dpal bzang po'i rnam par thar pa dad pa'i myu gu_faith sprouting forth--the life story of the glorious lama, the great and holy renunciate, ngawang lobsang pel sangpo_'jam dbyan +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAWOg",
-    "revision_id": "613f666d209568d294473",
+    "path": "RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/NGAG DBANG BLO BZANG DPAL BZANG PO_NGAWANG LOBSANG PEL SANGPO",
+    "download_path": "/sungbum updated 7 30 23 nl/rnam thar_biographies/mtsan thog_by person's name/ngag dbang blo bzang dpal bzang po_ngawang lobsang pel sangpo/s12133e_dpal ldan bla ma dam pa kun spangs chen po ngag dbang blo bzang dpal bzang po'i rnam par thar pa dad pa'i myu gu_faith sprouting forth--the life story of the glorious lama, the great and holy renunciate, ngawang lobsang pel sangpo_'jam dbyan +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABgIQ",
+    "revision_id": "625a4a16a530c8d294473",
     "content_hash": "0b52d8d9dcb472fe856e9439a332e1e4e811019108b84eb34ca51601171d66b0",
-    "server_modified": "2024-03-18T21:54:28",
-    "last_sync": "2024-09-09T19:23:25.003294",
+    "server_modified": "2024-10-29 21:54:33",
+    "last_sync": "2024-11-19 21:15:38.257776",
     "size": 40560,
-    "meta_text": "GS BZHAD PA SKU PHRENG GNYIS PA PA DKON MCHOG 'JIGS MED DBANG PO (1728-1791)",
+    "meta_text": "(\"GS BZHAD PA SKU PHRENG GNYIS PA PA DKON MCHOG 'JIGS MED DBANG PO (1728-1791)\", 'rtf')",
     "cat_ref": "S12133E",
     "work_ref": "W.S12133E",
     "title_tib": "DPAL LDAN BLA MA DAM PA KUN SPANGS CHEN PO NGAG DBANG BLO BZANG DPAL BZANG PO'I RNAM PAR THAR PA DAD PA'I MYU GU",
@@ -19,10 +19,10 @@
     "author_simple": "'JAM DBYANGS BZHAD PA SKU PHRENG GNYIS PA PA DKON MCHOG ''JIGS MED DBANG PO",
     "subject": [
         {
-            "_id": "385773878315",
-            "subject_path": "SUNGBUM_SUNGBUM/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/NGAG DBANG BLO BZANG DPAL BZANG PO_NGAWANG LOBSANG PEL SANGPO",
-            "subject_path_tibetan": "SUNGBUM/RNAM THAR/MTSAN THOG/NGAG DBANG BLO BZANG DPAL BZANG PO",
-            "subject_path_english": "SUNGBUM/BIOGRAPHIES/BY PERSON'S NAME/NGAWANG LOBSANG PEL SANGPO",
+            "_id": "157043973001",
+            "subject_path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/NGAG DBANG BLO BZANG DPAL BZANG PO_NGAWANG LOBSANG PEL SANGPO",
+            "subject_path_tibetan": "GSUNG 'BUM/RNAM THAR/MTSAN THOG/NGAG DBANG BLO BZANG DPAL BZANG PO",
+            "subject_path_english": "Sungbum/BIOGRAPHIES/BY PERSON'S NAME/NGAWANG LOBSANG PEL SANGPO",
             "subject_tibetan": "NGAG DBANG BLO BZANG DPAL BZANG PO",
             "subject_english": "NGAWANG LOBSANG PEL SANGPO"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P169"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rnam thar_biographies/mtsan thog_by person's name/ngag dbang blo bzang dpal bzang po_ngawang lobsang pel sangpo",
-            "timestamp": "2024-09-10T02:23:25.005170+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/NGAG DBANG BLO BZANG DPAL BZANG PO_NGAWANG LOBSANG PEL SANGPO",
+            "timestamp": "2024-11-20 05:15:38.263834+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:15:38.263834+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

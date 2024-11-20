@@ -1,28 +1,28 @@
 {
     "name": "S05914E_DPAL RDO RJE 'JIGS BYED DPA' BO GCIG PA'I DKYIL 'KHOR GYI CHO GA BDUD DPUNG 'JOMS PA_ 'Destroying the Armies of Demons,' being a Ritual for the Secret World of the Glorious Frightener of Diamond (Vajra Bhairava) in His Form as a Solitary War +.TXT",
-    "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/sgrub thabs_ritual for reaching the angel (sadhana)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/sgrub thabs_ritual for reaching the angel (sadhana)/s05914e_dpal rdo rje 'jigs byed dpa' bo gcig pa'i dkyil 'khor gyi cho ga bdud dpung 'joms pa_ 'destroying the armies of demons,' being a ritual for the secret world of the glorious frightener of diamond (vajra bhairava) in his form as a solitary war +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAMfg",
-    "revision_id": "613f6656ded4f8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/sgrub thabs_ritual for reaching the angel (sadhana)/s05914e_dpal rdo rje 'jigs byed dpa' bo gcig pa'i dkyil 'khor gyi cho ga bdud dpung 'joms pa_ 'destroying the armies of demons,' being a ritual for the secret world of the glorious frightener of diamond (vajra bhairava) in his form as a solitary war +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABdUw",
+    "revision_id": "625a49908aae18d294473",
     "content_hash": "fc54406258b3c824e65856d5f4d2cfd312069d0e85cfb05ed757abc8daa04c0d",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:13:53.081651",
+    "server_modified": "2024-10-29 21:52:12",
+    "last_sync": "2024-11-19 21:10:35.370320",
     "size": 7429,
-    "meta_text": "rior (Eka Vira)_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)",
+    "meta_text": "('rior (Eka Vira)_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)', 'rtf')",
     "cat_ref": "S05914E",
     "work_ref": "W.S05914E",
     "title_tib": "DPAL RDO RJE 'JIGS BYED DPA' BO GCIG PA'I DKYIL 'KHOR GYI CHO GA BDUD DPUNG 'JOMS PA",
-    "title_eng": "'Destroying the Armies of Demons,' being a Ritual for the Secret World of the Glorious Frightener of Diamond (Vajra Bhairava) in His Form as a Solitary Warrior (Eka Vira)",
+    "title_eng": "'Destroying the Armies of Demons,' being a Ritual for the Secret World of the Glorious Frightener of Diamond (Vajra Bhairava) in His Form as a Solitary War('rior (Eka Vira)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "152108565216",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/'JIGS BYED/SGRUB THABS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "_id": "219185821551",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/'JIGS BYED/SGRUB THABS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
             "subject_tibetan": "SGRUB THABS",
             "subject_english": "RITUAL FOR REACHING THE ANGEL (SADHANA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/sgrub thabs_ritual for reaching the angel (sadhana)",
-            "timestamp": "2024-09-10T02:13:53.104495+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "timestamp": "2024-11-20 05:10:39.237501+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:10:39.237501+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

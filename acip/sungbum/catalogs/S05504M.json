@@ -1,12 +1,12 @@
 {
     "name": "S05504M_MKHAS GRUB RIN PO CHE'I DAM BCA' BCU_The Ten Pledges of Kedrup Rinpoche_MKHAS GRUB RJE DGE LEGS DPAL BZANG PO (1385-1438).TXT",
-    "path": "nyams len_personal practice/spyi_general treatments/mkhas grub rje dge legs dpal bzang po_kedrup je gelek pel sangpo (1385-1438)",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/spyi_general treatments/mkhas grub rje dge legs dpal bzang po_kedrup je gelek pel sangpo (1385-1438)/s05504m_mkhas grub rin po che'i dam bca' bcu_the ten pledges of kedrup rinpoche_mkhas grub rje dge legs dpal bzang po (1385-1438).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAAeA",
-    "revision_id": "613f663b87bc18d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/SPYI_GENERAL TREATMENTS/MKHAS GRUB RJE DGE LEGS DPAL BZANG PO_KEDRUP JE GELEK PEL SANGPO (1385-1438)",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/spyi_general treatments/mkhas grub rje dge legs dpal bzang po_kedrup je gelek pel sangpo (1385-1438)/s05504m_mkhas grub rin po che'i dam bca' bcu_the ten pledges of kedrup rinpoche_mkhas grub rje dge legs dpal bzang po (1385-1438).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABkLQ",
+    "revision_id": "625a4ac6f45828d294473",
     "content_hash": "87f5c6955f4cc06ac25f4238d571d6cc16506c9b16628fc9bc9c25b069e8e3c2",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:01:30.222998",
+    "server_modified": "2024-10-29 21:57:38",
+    "last_sync": "2024-11-19 21:22:52.024148",
     "size": 7575,
     "meta_text": null,
     "cat_ref": "S05504M",
@@ -19,10 +19,10 @@
     "author_simple": "MKHAS GRUB RJE DGE LEGS DPAL BZANG PO",
     "subject": [
         {
-            "_id": "786791309623",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/SPYI_GENERAL TREATMENTS/MKHAS GRUB RJE DGE LEGS DPAL BZANG PO_KEDRUP JE GELEK PEL SANGPO (1385-1438)",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/SPYI/MKHAS GRUB RJE DGE LEGS DPAL BZANG PO",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/GENERAL TREATMENTS/KEDRUP JE GELEK PEL SANGPO (1385-1438)",
+            "_id": "391736400614",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SPYI_GENERAL TREATMENTS/MKHAS GRUB RJE DGE LEGS DPAL BZANG PO_KEDRUP JE GELEK PEL SANGPO (1385-1438)",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/SPYI/MKHAS GRUB RJE DGE LEGS DPAL BZANG PO",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/GENERAL TREATMENTS/KEDRUP JE GELEK PEL SANGPO (1385-1438)",
             "subject_tibetan": "MKHAS GRUB RJE DGE LEGS DPAL BZANG PO",
             "subject_english": "KEDRUP JE GELEK PEL SANGPO (1385-1438)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P55"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/spyi_general treatments/mkhas grub rje dge legs dpal bzang po_kedrup je gelek pel sangpo (1385-1438)",
-            "timestamp": "2024-09-10T02:01:30.229121+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SPYI_GENERAL TREATMENTS/MKHAS GRUB RJE DGE LEGS DPAL BZANG PO_KEDRUP JE GELEK PEL SANGPO (1385-1438)",
+            "timestamp": "2024-11-20 05:22:52.029021+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:22:52.029021+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

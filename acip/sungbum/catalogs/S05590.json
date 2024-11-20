@@ -1,14 +1,14 @@
 {
     "name": "S05590_RJE BTZUN THAMS CAD MKHYEN PA BSOD NAMS RGYA MTSO'I RNAM THAR DNGOS GRUB RGYA MTSO'I SHING RTA_A Chariot for Crossing the Ocean of Attainments, a Biography of the Venerable All-Knowing Sonam Gyatso_RGYAL BA NGAG DBANG BLO BZANG RGYA MTSO (1617+.TXT",
-    "path": "rnam thar_biographies/mtsan thog_by person's name/rgyal ba bsod nams rgya mtso_gyalwa sunam gyatso (1543-1588)",
-    "download_path": "/sungbum updated 4 26 23 bk/rnam thar_biographies/mtsan thog_by person's name/rgyal ba bsod nams rgya mtso_gyalwa sunam gyatso (1543-1588)/s05590_rje btzun thams cad mkhyen pa bsod nams rgya mtso'i rnam thar dngos grub rgya mtso'i shing rta_a chariot for crossing the ocean of attainments, a biography of the venerable all-knowing sonam gyatso_rgyal ba ngag dbang blo bzang rgya mtso (1617+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAWlQ",
-    "revision_id": "613f666d209b18d294473",
+    "path": "RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/RGYAL BA BSOD NAMS RGYA MTSO_Gyalwa Sunam Gyatso (1543-1588)",
+    "download_path": "/sungbum updated 7 30 23 nl/rnam thar_biographies/mtsan thog_by person's name/rgyal ba bsod nams rgya mtso_gyalwa sunam gyatso (1543-1588)/s05590_rje btzun thams cad mkhyen pa bsod nams rgya mtso'i rnam thar dngos grub rgya mtso'i shing rta_a chariot for crossing the ocean of attainments, a biography of the venerable all-knowing sonam gyatso_rgyal ba ngag dbang blo bzang rgya mtso (1617+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABgPQ",
+    "revision_id": "625a4a199104d8d294473",
     "content_hash": "2cc1165644d64eea5d6b3e2441ca956a837a6d534d5fb0470c2f35ade16e757f",
-    "server_modified": "2024-03-18T21:54:28",
-    "last_sync": "2024-09-09T19:23:48.622447",
+    "server_modified": "2024-10-29 21:54:36",
+    "last_sync": "2024-11-19 21:15:57.926698",
     "size": 330940,
-    "meta_text": null,
+    "meta_text": "('-1682)', 'text')",
     "cat_ref": "S05590",
     "work_ref": "W.S05590",
     "title_tib": "RJE BTZUN THAMS CAD MKHYEN PA BSOD NAMS RGYA MTSO'I RNAM THAR DNGOS GRUB RGYA MTSO'I SHING RTA",
@@ -19,12 +19,12 @@
     "author_simple": "RGYAL BA NGAG DBANG BLO BZANG RGYA MTSO",
     "subject": [
         {
-            "_id": "328967187580",
-            "subject_path": "SUNGBUM_SUNGBUM/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/RGYAL BA BSOD NAMS RGYA MTSO_GYALWA SUNAM GYATSO (1543-1588)",
-            "subject_path_tibetan": "SUNGBUM/RNAM THAR/MTSAN THOG/RGYAL BA BSOD NAMS RGYA MTSO",
-            "subject_path_english": "SUNGBUM/BIOGRAPHIES/BY PERSON'S NAME/GYALWA SUNAM GYATSO (1543-1588)",
+            "_id": "133125369934",
+            "subject_path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/RGYAL BA BSOD NAMS RGYA MTSO_Gyalwa Sunam Gyatso (1543-1588)",
+            "subject_path_tibetan": "GSUNG 'BUM/RNAM THAR/MTSAN THOG/RGYAL BA BSOD NAMS RGYA MTSO",
+            "subject_path_english": "Sungbum/BIOGRAPHIES/BY PERSON'S NAME/Gyalwa Sunam Gyatso (1543-1588)",
             "subject_tibetan": "RGYAL BA BSOD NAMS RGYA MTSO",
-            "subject_english": "GYALWA SUNAM GYATSO (1543-1588)"
+            "subject_english": "Gyalwa Sunam Gyatso (1543-1588)"
         }
     ],
     "items": [],
@@ -32,17 +32,25 @@
         {
             "author_name": "RGYAL BA NGAG DBANG BLO BZANG RGYA MTSO",
             "author_birth": null,
-            "author_death": null,
+            "author_death": "1682",
             "bdrc_id": "bdr:P37",
             "normalized_name": "RGYAL BA NGAG DBANG BLO BZANG RGYA MTSO",
             "bdrc_url": "http://purl.bdrc.io/resource/P37"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rnam thar_biographies/mtsan thog_by person's name/rgyal ba bsod nams rgya mtso_gyalwa sunam gyatso (1543-1588)",
-            "timestamp": "2024-09-10T02:23:48.627036+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/RGYAL BA BSOD NAMS RGYA MTSO_Gyalwa Sunam Gyatso (1543-1588)",
+            "timestamp": "2024-11-20 05:15:57.931590+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:15:57.931590+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

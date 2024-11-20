@@ -1,28 +1,28 @@
 {
     "name": "S00280E_SGROL MA TZITTA MA nI'I SNYING ZHUGS KYI BYIN RLABS BYA TSUL GYI ZIN THO_Notes on How to Perform the Practice of Receiving a Blessing through Having the Lady of Liberation (Tara) in Her Form as a Wish-Giving Jewel (Chintamani) Sit in Your He+.TXT",
-    "path": "rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/brtan bzhugs_ritual for the long life of a lama",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/brtan bzhugs_ritual for the long life of a lama/s00280e_sgrol ma tzitta ma ni'i snying zhugs kyi byin rlabs bya tsul gyi zin tho_notes on how to perform the practice of receiving a blessing through having the lady of liberation (tara) in her form as a wish-giving jewel (chintamani) sit in your he+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAQYw",
-    "revision_id": "613f665fcd5e88d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/BRTAN BZHUGS_RITUAL FOR THE LONG LIFE OF A LAMA",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/brtan bzhugs_ritual for the long life of a lama/s00280e_sgrol ma tzitta ma ni'i snying zhugs kyi byin rlabs bya tsul gyi zin tho_notes on how to perform the practice of receiving a blessing through having the lady of liberation (tara) in her form as a wish-giving jewel (chintamani) sit in your he+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABYdw",
+    "revision_id": "625a48e04579c8d294473",
     "content_hash": "666a6982bd163f587613fafab19600d1914953b475ba466888802ccbd57dea9e",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:17:54.112963",
+    "server_modified": "2024-10-29 21:49:07",
+    "last_sync": "2024-11-19 21:02:28.784559",
     "size": 6644,
-    "meta_text": "art_SKYABS RJE KHRI BYANG RIN PO CHE (1901-1981)",
+    "meta_text": "('art_SKYABS RJE KHRI BYANG RIN PO CHE (1901-1981)', 'rtf')",
     "cat_ref": "S00280E",
     "work_ref": "W.S00280E",
     "title_tib": "SGROL MA TZITTA MA nI'I SNYING ZHUGS KYI BYIN RLABS BYA TSUL GYI ZIN THO",
-    "title_eng": "Notes on How to Perform the Practice of Receiving a Blessing through Having the Lady of Liberation (Tara) in Her Form as a Wish-Giving Jewel (Chintamani) Sit in Your Heart",
+    "title_eng": "Notes on How to Perform the Practice of Receiving a Blessing through Having the Lady of Liberation (Tara) in Her Form as a Wish-Giving Jewel (Chintamani) Sit in Your He('art",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "SKYABS RJE KHRI BYANG RIN PO CHE",
     "subject": [
         {
-            "_id": "150264942470",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/BRTAN BZHUGS_RITUAL FOR THE LONG LIFE OF A LAMA",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SGROL MA/BRTAN BZHUGS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/LADY OF LIBERATION (TARA)/RITUAL FOR THE LONG LIFE OF A LAMA",
+            "_id": "231261151454",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/BRTAN BZHUGS_RITUAL FOR THE LONG LIFE OF A LAMA",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SGROL MA/BRTAN BZHUGS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/LADY OF LIBERATION (TARA)/RITUAL FOR THE LONG LIFE OF A LAMA",
             "subject_tibetan": "BRTAN BZHUGS",
             "subject_english": "RITUAL FOR THE LONG LIFE OF A LAMA"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P2596"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/brtan bzhugs_ritual for the long life of a lama",
-            "timestamp": "2024-09-10T02:17:54.114745+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/BRTAN BZHUGS_RITUAL FOR THE LONG LIFE OF A LAMA",
+            "timestamp": "2024-11-20 05:02:28.790090+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:02:28.790090+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

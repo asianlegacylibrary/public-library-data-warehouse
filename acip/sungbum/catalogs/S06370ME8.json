@@ -1,12 +1,12 @@
 {
     "name": "S06370ME8_GSER GLING PA'I LTA BA'I SKOR_Note on Which Philosophical View was Adhered to by Serlingpa_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "dbu ma_middle-way philosophy (madhyamika prasangika school)/dri lan_questions and answers/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)",
-    "download_path": "/sungbum updated 4 26 23 bk/dbu ma_middle-way philosophy (madhyamika prasangika school)/dri lan_questions and answers/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)/s06370me8_gser gling pa'i lta ba'i skor_note on which philosophical view was adhered to by serlingpa_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAEOg",
-    "revision_id": "613f66448495e8d294473",
+    "path": "DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
+    "download_path": "/sungbum updated 7 30 23 nl/dbu ma_middle-way philosophy (madhyamika prasangika school)/dri lan_questions and answers/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)/s06370me8_gser gling pa'i lta ba'i skor_note on which philosophical view was adhered to by serlingpa_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABRbQ",
+    "revision_id": "625a47e69f08f8d294473",
     "content_hash": "18c11cb850580f1ee56dbe43fa82637ec919503e1ea04bda811c0bd74d34bf87",
-    "server_modified": "2024-03-18T21:53:45",
-    "last_sync": "2024-09-09T19:05:31.892597",
+    "server_modified": "2024-10-29 21:44:46",
+    "last_sync": "2024-11-19 20:51:48.078043",
     "size": 197,
     "meta_text": null,
     "cat_ref": "S06370ME8",
@@ -19,18 +19,18 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "942552512631",
-            "subject_path": "SUNGBUM_SUNGBUM/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
-            "subject_path_tibetan": "SUNGBUM/DBU MA/DRI LAN/DNGUL CHU DHARMA BHADRA",
-            "subject_path_english": "SUNGBUM/MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/QUESTIONS AND ANSWERS/NGULCHU DHARMA BHADRA (1772-1851)",
+            "_id": "147992079726",
+            "subject_path": "GSUNG 'BUM_Sungbum/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "GSUNG 'BUM/DBU MA/DRI LAN/DNGUL CHU DHARMA BHADRA",
+            "subject_path_english": "Sungbum/MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/QUESTIONS AND ANSWERS/NGULCHU DHARMA BHADRA (1772-1851)",
             "subject_tibetan": "DNGUL CHU DHARMA BHADRA",
             "subject_english": "NGULCHU DHARMA BHADRA (1772-1851)"
         },
         {
-            "_id": "244831615226",
-            "subject_path": "SUNGBUM_SUNGBUM/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_tibetan": "SUNGBUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_english": "SUNGBUM/QUESTIONS AND ANSWERS",
+            "_id": "250883940513",
+            "subject_path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "GSUNG 'BUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "Sungbum/QUESTIONS AND ANSWERS",
             "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
             "subject_english": "QUESTIONS AND ANSWERS"
         }
@@ -46,15 +46,29 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "dbu ma_middle-way philosophy (madhyamika prasangika school)/dri lan_questions and answers/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)",
-            "timestamp": "2024-09-10T02:05:31.907663+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
+            "timestamp": "2024-11-20 04:51:50.926519+00:00"
         },
         {
-            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
-            "timestamp": "2024-09-10T02:21:49.619978+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "timestamp": "2024-11-20 04:54:07.135582+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:51:50.926519+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T04:54:07.135582+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "text"
 }

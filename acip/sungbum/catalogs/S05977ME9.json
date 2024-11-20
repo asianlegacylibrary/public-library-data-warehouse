@@ -1,12 +1,12 @@
 {
     "name": "S05977ME9_KLU YI RGYAL MTSAN LA GNANG BA'I ZHAL GDAMS_Words of Advice Granted to Luyi Gyeltsen_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662).TXT",
-    "path": "nyams len_personal practice/bslab bya_personal advices/pan chen blo bzang chos kyi rgyal mtsan_panchen lobsang chukyi gyeltsen (1565-1662)",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/bslab bya_personal advices/pan chen blo bzang chos kyi rgyal mtsan_panchen lobsang chukyi gyeltsen (1565-1662)/s05977me9_klu yi rgyal mtsan la gnang ba'i zhal gdams_words of advice granted to luyi gyeltsen_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAABBg",
-    "revision_id": "613f663b87c4f8d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/bslab bya_personal advices/pan chen blo bzang chos kyi rgyal mtsan_panchen lobsang chukyi gyeltsen (1565-1662)/s05977me9_klu yi rgyal mtsan la gnang ba'i zhal gdams_words of advice granted to luyi gyeltsen_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABizw",
+    "revision_id": "625a4a985a0978d294473",
     "content_hash": "574f4a9b0036de5c5f4763c5ce41d8998611f9292f826e016059e7beea86cbc1",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:02:06.592908",
+    "server_modified": "2024-10-29 21:56:49",
+    "last_sync": "2024-11-19 21:20:07.369536",
     "size": 1370,
     "meta_text": null,
     "cat_ref": "S05977ME9",
@@ -19,11 +19,11 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "150608414166",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/PAN CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/BSLAB BYA/PAN CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/PERSONAL ADVICES/PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
-            "subject_tibetan": "PAN CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
+            "_id": "285289936275",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/BSLAB BYA/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/PERSONAL ADVICES/PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+            "subject_tibetan": "PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
             "subject_english": "PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)"
         }
     ],
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/bslab bya_personal advices/pan chen blo bzang chos kyi rgyal mtsan_panchen lobsang chukyi gyeltsen (1565-1662)",
-            "timestamp": "2024-09-10T02:02:06.653282+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+            "timestamp": "2024-11-20 05:20:08.876917+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:20:08.876917+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

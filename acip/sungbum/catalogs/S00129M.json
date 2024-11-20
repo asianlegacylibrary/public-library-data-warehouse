@@ -1,12 +1,12 @@
 {
     "name": "S00129M_SKYABS 'GRO'I KHRID YIG_Treatise on the Practice of Going for Refuge_LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN (1642-1714).TXT",
-    "path": "lam rim_steps of the path/skyabs 'gro_explanations of the practice of going for refuge",
-    "download_path": "/sungbum updated 4 26 23 bk/lam rim_steps of the path/skyabs 'gro_explanations of the practice of going for refuge/s00129m_skyabs 'gro'i khrid yig_treatise on the practice of going for refuge_lcang skya ngag dbang blo bzang chos ldan (1642-1714).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAGRw",
-    "revision_id": "613f66492f0b18d294473",
+    "path": "LAM RIM_STEPS OF THE PATH/SKYABS 'GRO_EXPLANATIONS OF THE PRACTICE OF GOING FOR REFUGE",
+    "download_path": "/sungbum updated 7 30 23 nl/lam rim_steps of the path/skyabs 'gro_explanations of the practice of going for refuge/s00129m_skyabs 'gro'i khrid yig_treatise on the practice of going for refuge_lcang skya ngag dbang blo bzang chos ldan (1642-1714).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABhfg",
+    "revision_id": "625a4a60963b48d294473",
     "content_hash": "679bc95c8a737ad34b3b9d0f8c7fc4872f271f8bde6b08c0600858d861a8ea5c",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:07:24.830284",
+    "server_modified": "2024-10-29 21:55:50",
+    "last_sync": "2024-11-19 21:17:58.135427",
     "size": 20033,
     "meta_text": null,
     "cat_ref": "S00129M",
@@ -19,10 +19,10 @@
     "author_simple": "LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN",
     "subject": [
         {
-            "_id": "160305448185",
-            "subject_path": "SUNGBUM_SUNGBUM/LAM RIM_STEPS OF THE PATH/SKYABS 'GRO_EXPLANATIONS OF THE PRACTICE OF GOING FOR REFUGE",
-            "subject_path_tibetan": "SUNGBUM/LAM RIM/SKYABS 'GRO",
-            "subject_path_english": "SUNGBUM/STEPS OF THE PATH/EXPLANATIONS OF THE PRACTICE OF GOING FOR REFUGE",
+            "_id": "173813853445",
+            "subject_path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/SKYABS 'GRO_EXPLANATIONS OF THE PRACTICE OF GOING FOR REFUGE",
+            "subject_path_tibetan": "GSUNG 'BUM/LAM RIM/SKYABS 'GRO",
+            "subject_path_english": "Sungbum/STEPS OF THE PATH/EXPLANATIONS OF THE PRACTICE OF GOING FOR REFUGE",
             "subject_tibetan": "SKYABS 'GRO",
             "subject_english": "EXPLANATIONS OF THE PRACTICE OF GOING FOR REFUGE"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P209"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "lam rim_steps of the path/skyabs 'gro_explanations of the practice of going for refuge",
-            "timestamp": "2024-09-10T02:07:24.867344+00:00"
+            "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/SKYABS 'GRO_EXPLANATIONS OF THE PRACTICE OF GOING FOR REFUGE",
+            "timestamp": "2024-11-20 05:17:58.937425+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:17:58.937425+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

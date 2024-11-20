@@ -1,14 +1,14 @@
 {
     "name": "S05904E_BCOM LDAN 'DAS DPAL 'KHOR LO BDE MCHOG L'U AI PA'I LUGS KYI BSKYED RIM_An Explanation of the Stage of Creation in the Practice of the Conqueror, the Glorious Highest Bliss of the Spheres (Chakrasamvara), according to the System of Luipa_PAn +.TXT",
-    "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/bskyed rim_creation stage (utpatti krama)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/bskyed rim_creation stage (utpatti krama)/s05904e_bcom ldan 'das dpal 'khor lo bde mchog l'u ai pa'i lugs kyi bskyed rim_an explanation of the stage of creation in the practice of the conqueror, the glorious highest bliss of the spheres (chakrasamvara), according to the system of luipa_pan +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAPGA",
-    "revision_id": "613f665b611318d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/BSKYED RIM_CREATION STAGE (UTPATTI KRAMA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/bskyed rim_creation stage (utpatti krama)/s05904e_bcom ldan 'das dpal 'khor lo bde mchog l'u ai pa'i lugs kyi bskyed rim_an explanation of the stage of creation in the practice of the conqueror, the glorious highest bliss of the spheres (chakrasamvara), according to the system of luipa_pan +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABVCA",
+    "revision_id": "625a487a8a3dd8d294473",
     "content_hash": "56a92f5da10fdceeba845800bfbdb19f613d8415346c6a2ece8967d1f1c229a9",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:16:27.560640",
+    "server_modified": "2024-10-29 21:47:21",
+    "last_sync": "2024-11-19 20:56:43.985133",
     "size": 104203,
-    "meta_text": "CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)",
+    "meta_text": "('CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)', 'rtf')",
     "cat_ref": "S05904E",
     "work_ref": "W.S05904E",
     "title_tib": "BCOM LDAN 'DAS DPAL 'KHOR LO BDE MCHOG L'U AI PA'I LUGS KYI BSKYED RIM",
@@ -19,10 +19,10 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "740387058301",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/BSKYED RIM_CREATION STAGE (UTPATTI KRAMA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/BDE MCHOG/BSKYED RIM",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/CREATION STAGE (UTPATTI KRAMA)",
+            "_id": "289053843006",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/BSKYED RIM_CREATION STAGE (UTPATTI KRAMA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/BDE MCHOG/BSKYED RIM",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/CREATION STAGE (UTPATTI KRAMA)",
             "subject_tibetan": "BSKYED RIM",
             "subject_english": "CREATION STAGE (UTPATTI KRAMA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/bskyed rim_creation stage (utpatti krama)",
-            "timestamp": "2024-09-10T02:16:27.572743+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/BSKYED RIM_CREATION STAGE (UTPATTI KRAMA)",
+            "timestamp": "2024-11-20 04:56:45.218930+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:56:45.218930+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

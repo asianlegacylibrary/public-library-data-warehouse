@@ -1,12 +1,12 @@
 {
     "name": "S05502E_@_@_MKHAS GRUB RJE DGE LEGS DPAL BZANG PO (1385-1438).TXT",
-    "path": "rgyud_secret teachings (tantra)/'jam dpal mtsan brjod_chanting the names of gentle voice (manjushri nama sangiti)/'grel pa_commentaries",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/'jam dpal mtsan brjod_chanting the names of gentle voice (manjushri nama sangiti)/'grel pa_commentaries/s05502e_@_@_mkhas grub rje dge legs dpal bzang po (1385-1438).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAHlA",
-    "revision_id": "613f66492f1fe8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/'JAM DPAL MTSAN BRJOD_CHANTING THE NAMES OF GENTLE VOICE (MANJUSHRI NAMA SANGITI)/'GREL PA_COMMENTARIES",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/'jam dpal mtsan brjod_chanting the names of gentle voice (manjushri nama sangiti)/'grel pa_commentaries/s05502e_@_@_mkhas grub rje dge legs dpal bzang po (1385-1438).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABXSw",
+    "revision_id": "625a48bc0a4768d294473",
     "content_hash": "f474812eab920be1618b0081ac28ecaf09cbcdc6889a32df2fe35901eb32098e",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:08:38.442702",
+    "server_modified": "2024-10-29 21:48:29",
+    "last_sync": "2024-11-19 21:00:28.854728",
     "size": 159527,
     "meta_text": null,
     "cat_ref": "S05502E",
@@ -19,10 +19,10 @@
     "author_simple": "MKHAS GRUB RJE DGE LEGS DPAL BZANG PO",
     "subject": [
         {
-            "_id": "203742209224",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/'JAM DPAL MTSAN BRJOD_CHANTING THE NAMES OF GENTLE VOICE (MANJUSHRI NAMA SANGITI)/'GREL PA_COMMENTARIES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/'JAM DPAL MTSAN BRJOD/'GREL PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/CHANTING THE NAMES OF GENTLE VOICE (MANJUSHRI NAMA SANGITI)/COMMENTARIES",
+            "_id": "816973859907",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JAM DPAL MTSAN BRJOD_CHANTING THE NAMES OF GENTLE VOICE (MANJUSHRI NAMA SANGITI)/'GREL PA_COMMENTARIES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/'JAM DPAL MTSAN BRJOD/'GREL PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/CHANTING THE NAMES OF GENTLE VOICE (MANJUSHRI NAMA SANGITI)/COMMENTARIES",
             "subject_tibetan": "'GREL PA",
             "subject_english": "COMMENTARIES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P55"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/'jam dpal mtsan brjod_chanting the names of gentle voice (manjushri nama sangiti)/'grel pa_commentaries",
-            "timestamp": "2024-09-10T02:08:38.452434+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JAM DPAL MTSAN BRJOD_CHANTING THE NAMES OF GENTLE VOICE (MANJUSHRI NAMA SANGITI)/'GREL PA_COMMENTARIES",
+            "timestamp": "2024-11-20 05:00:28.863270+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:00:28.863270+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

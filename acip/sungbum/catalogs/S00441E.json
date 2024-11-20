@@ -1,12 +1,12 @@
 {
     "name": "S00441E_SPYAN RAS GZIGS KHA SAR P'A nI'I SGRUB THABS 'DOD DGU'I MCHOG SBYIN_'The Practice that Grants You the Million Highest Goals of Your Wishes,' being a Ritual for Reaching Khasarpani, a Form of Loving Eyes (Avalokiteshvara)_@ (@-@).TXT",
-    "path": "rgyud_secret teachings (tantra)/kha sar pa ni_khasarpani (khasarpana)/sgrub thabs_ritual for reaching the angel (sadhana)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/kha sar pa ni_khasarpani (khasarpana)/sgrub thabs_ritual for reaching the angel (sadhana)/s00441e_spyan ras gzigs kha sar p'a ni'i sgrub thabs 'dod dgu'i mchog sbyin_'the practice that grants you the million highest goals of your wishes,' being a ritual for reaching khasarpani, a form of loving eyes (avalokiteshvara)_@ (@-@).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAIWg",
-    "revision_id": "613f664dc42768d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/KHA SAR PA nI_KHASARPANI (KHASARPANA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/kha sar pa ni_khasarpani (khasarpana)/sgrub thabs_ritual for reaching the angel (sadhana)/s00441e_spyan ras gzigs kha sar p'a ni'i sgrub thabs 'dod dgu'i mchog sbyin_'the practice that grants you the million highest goals of your wishes,' being a ritual for reaching khasarpani, a form of loving eyes (avalokiteshvara)_@ (@-@).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABbxw",
+    "revision_id": "625a495f45afd8d294473",
     "content_hash": "2d1a17e9faa1cc8f0fde6750285a30c98c1d23b7970327ed169380960f4487c4",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:09:18.730178",
+    "server_modified": "2024-10-29 21:51:20",
+    "last_sync": "2024-11-19 21:07:46.209725",
     "size": 3861,
     "meta_text": null,
     "cat_ref": "S00441E",
@@ -19,10 +19,10 @@
     "author_simple": "",
     "subject": [
         {
-            "_id": "846470459681",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/KHA SAR PA NI_KHASARPANI (KHASARPANA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/KHA SAR PA NI/SGRUB THABS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/KHASARPANI (KHASARPANA)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "_id": "130200722715",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/KHA SAR PA nI_KHASARPANI (KHASARPANA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/KHA SAR PA nI/SGRUB THABS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/KHASARPANI (KHASARPANA)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
             "subject_tibetan": "SGRUB THABS",
             "subject_english": "RITUAL FOR REACHING THE ANGEL (SADHANA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/kha sar pa ni_khasarpani (khasarpana)/sgrub thabs_ritual for reaching the angel (sadhana)",
-            "timestamp": "2024-09-10T02:09:18.739551+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/KHA SAR PA nI_KHASARPANI (KHASARPANA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "timestamp": "2024-11-20 05:07:46.214449+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:07:46.214449+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

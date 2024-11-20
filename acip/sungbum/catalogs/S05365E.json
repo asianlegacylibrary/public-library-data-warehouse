@@ -1,12 +1,12 @@
 {
     "name": "S05365E_BCOM LDAN 'DAS SME BRTZEGS KYI SGRUB THABS RJES GNANG BA_A Ritual for Reaching the Wrathful Angel Metsek, Granted by Je Tsongkapa Himself_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419).TXT",
-    "path": "rgyud_secret teachings (tantra)/sme brtzegs_metsek/sgrub thabs_ritual for reaching the angel (sadhana)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/sme brtzegs_metsek/sgrub thabs_ritual for reaching the angel (sadhana)/s05365e_bcom ldan 'das sme brtzegs kyi sgrub thabs rjes gnang ba_a ritual for reaching the wrathful angel metsek, granted by je tsongkapa himself_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAP0Q",
-    "revision_id": "613f665fcd5568d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SME BRTZEGS_METSEK/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/sme brtzegs_metsek/sgrub thabs_ritual for reaching the angel (sadhana)/s05365e_bcom ldan 'das sme brtzegs kyi sgrub thabs rjes gnang ba_a ritual for reaching the wrathful angel metsek, granted by je tsongkapa himself_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABVtg",
+    "revision_id": "625a4890b0dff8d294473",
     "content_hash": "087380ce13e0495fd8d3cda9a7092c923e46956bca818d5872cb4ceaf51b6f60",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:17:16.678110",
+    "server_modified": "2024-10-29 21:47:44",
+    "last_sync": "2024-11-19 20:57:56.819815",
     "size": 3644,
     "meta_text": null,
     "cat_ref": "S05365E",
@@ -19,10 +19,10 @@
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "318690261075",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SME BRTZEGS_METSEK/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SME BRTZEGS/SGRUB THABS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/METSEK/RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "_id": "240264659064",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SME BRTZEGS_METSEK/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SME BRTZEGS/SGRUB THABS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/METSEK/RITUAL FOR REACHING THE ANGEL (SADHANA)",
             "subject_tibetan": "SGRUB THABS",
             "subject_english": "RITUAL FOR REACHING THE ANGEL (SADHANA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/sme brtzegs_metsek/sgrub thabs_ritual for reaching the angel (sadhana)",
-            "timestamp": "2024-09-10T02:17:16.681541+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SME BRTZEGS_METSEK/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "timestamp": "2024-11-20 04:57:57.536270+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:57:57.536270+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

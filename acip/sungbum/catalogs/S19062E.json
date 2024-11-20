@@ -1,12 +1,12 @@
 {
     "name": "S19062E_LAM RIM CHE CHUNG GI DRIS LAN NOR BU'I PHRENG BA_A String of Jewels-- Answers to Questions Related to Presentations of Varying Lengths on the Steps of the Path_'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS (1648-1721).TXT",
-    "path": "lam rim_steps of the path/dri lan_questions and answers",
-    "download_path": "/sungbum updated 4 26 23 bk/lam rim_steps of the path/dri lan_questions and answers/s19062e_lam rim che chung gi dris lan nor bu'i phreng ba_a string of jewels-- answers to questions related to presentations of varying lengths on the steps of the path_'jam dbyangs bzhad pa'i rdo rje ngag dbang brtzon 'grus (1648-1721).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAG-w",
-    "revision_id": "613f66492f1658d294473",
+    "path": "DRI LAN_QUESTIONS AND ANSWERS/'JAM DBYANGS BZHAD PA'I RDO RJE (1648-1721)",
+    "download_path": "/sungbum updated 7 30 23 nl/dri lan_questions and answers/'jam dbyangs bzhad pa'i rdo rje (1648-1721)/s19062e_lam rim che chung gi dris lan nor bu'i phreng ba_a string of jewels-- answers to questions related to presentations of varying lengths on the steps of the path_'jam dbyangs bzhad pa'i rdo rje ngag dbang brtzon 'grus (1648-1721).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABTxw",
+    "revision_id": "625a48465ca5b8d294473",
     "content_hash": "c010da55d021fc2a8adeb9e44c80ed4336f3b67e4ab2d5ec3cfd9bbba939049e",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:08:09.065330",
+    "server_modified": "2024-10-29 21:46:26",
+    "last_sync": "2024-11-19 20:54:13.566579",
     "size": 58516,
     "meta_text": null,
     "cat_ref": "S19062E",
@@ -19,19 +19,19 @@
     "author_simple": "'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS",
     "subject": [
         {
-            "_id": "210567637591",
-            "subject_path": "SUNGBUM_SUNGBUM/LAM RIM_STEPS OF THE PATH/DRI LAN_QUESTIONS AND ANSWERS",
-            "subject_path_tibetan": "SUNGBUM/LAM RIM/DRI LAN",
-            "subject_path_english": "SUNGBUM/STEPS OF THE PATH/QUESTIONS AND ANSWERS",
-            "subject_tibetan": "DRI LAN",
+            "_id": "178886377544",
+            "subject_path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/'JAM DBYANGS BZHAD PA'I RDO RJE (1648-1721)",
+            "subject_path_tibetan": "GSUNG 'BUM/DRI LAN/'JAM DBYANGS BZHAD PA'I RDO RJE (1648-1721)",
+            "subject_path_english": "Sungbum/QUESTIONS AND ANSWERS",
+            "subject_tibetan": "'JAM DBYANGS BZHAD PA'I RDO RJE (1648-1721)",
             "subject_english": "QUESTIONS AND ANSWERS"
         },
         {
-            "_id": "309172523686",
-            "subject_path": "SUNGBUM_SUNGBUM/DRI LAN_QUESTIONS AND ANSWERS/'JAM DBYANGS BZHAD PA'I RDO RJE (1648-1721)",
-            "subject_path_tibetan": "SUNGBUM/DRI LAN/'JAM DBYANGS BZHAD PA'I RDO RJE (1648-1721)",
-            "subject_path_english": "SUNGBUM/QUESTIONS AND ANSWERS",
-            "subject_tibetan": "'JAM DBYANGS BZHAD PA'I RDO RJE (1648-1721)",
+            "_id": "224862218803",
+            "subject_path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/DRI LAN_QUESTIONS AND ANSWERS",
+            "subject_path_tibetan": "GSUNG 'BUM/LAM RIM/DRI LAN",
+            "subject_path_english": "Sungbum/STEPS OF THE PATH/QUESTIONS AND ANSWERS",
+            "subject_tibetan": "DRI LAN",
             "subject_english": "QUESTIONS AND ANSWERS"
         }
     ],
@@ -46,15 +46,29 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P423"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "lam rim_steps of the path/dri lan_questions and answers",
-            "timestamp": "2024-09-10T02:08:09.132697+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/'JAM DBYANGS BZHAD PA'I RDO RJE (1648-1721)",
+            "timestamp": "2024-11-20 04:54:14.111780+00:00"
         },
         {
-            "path": "dri lan_questions and answers/'jam dbyangs bzhad pa'i rdo rje (1648-1721)",
-            "timestamp": "2024-09-10T02:21:05.223404+00:00"
+            "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/DRI LAN_QUESTIONS AND ANSWERS",
+            "timestamp": "2024-11-20 05:17:46.889635+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:54:14.111780+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T05:17:46.889635+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "rtf"
 }

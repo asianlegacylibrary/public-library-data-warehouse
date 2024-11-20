@@ -1,12 +1,12 @@
 {
     "name": "S05885M_G-YUNG STON RI KHROD PA'I RTOGS PA BRJOD PA NGO MTSAR RGYA MTSO'I RBA RLABS KYI RANG SGRA_'A Spontaneous Song of the Waves of the Sea,' being the Wondrous Life Story of Yungtun Ritrupa_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662).TXT",
-    "path": "rnam thar_biographies/mtsan thog_by person's name/g-yung ston ri khrod pa_yungtun ritrupa",
-    "download_path": "/sungbum updated 4 26 23 bk/rnam thar_biographies/mtsan thog_by person's name/g-yung ston ri khrod pa_yungtun ritrupa/s05885m_g-yung ston ri khrod pa'i rtogs pa brjod pa ngo mtsar rgya mtso'i rba rlabs kyi rang sgra_'a spontaneous song of the waves of the sea,' being the wondrous life story of yungtun ritrupa_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAWWg",
-    "revision_id": "613f666d209768d294473",
+    "path": "RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/G-YUNG STON RI KHROD PA_YUNGTUN RITRUPA",
+    "download_path": "/sungbum updated 7 30 23 nl/rnam thar_biographies/mtsan thog_by person's name/g-yung ston ri khrod pa_yungtun ritrupa/s05885m_g-yung ston ri khrod pa'i rtogs pa brjod pa ngo mtsar rgya mtso'i rba rlabs kyi rang sgra_'a spontaneous song of the waves of the sea,' being the wondrous life story of yungtun ritrupa_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABgYg",
+    "revision_id": "625a4a1c0efdc8d294473",
     "content_hash": "12c8395b6425624bbefb84b2f3e47beee2adf1a690c7751ede47274203156fd7",
-    "server_modified": "2024-03-18T21:54:28",
-    "last_sync": "2024-09-09T19:23:33.644302",
+    "server_modified": "2024-10-29 21:54:38",
+    "last_sync": "2024-11-19 21:16:13.371113",
     "size": 13685,
     "meta_text": null,
     "cat_ref": "S05885M",
@@ -19,10 +19,10 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "158376153932",
-            "subject_path": "SUNGBUM_SUNGBUM/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/G-YUNG STON RI KHROD PA_YUNGTUN RITRUPA",
-            "subject_path_tibetan": "SUNGBUM/RNAM THAR/MTSAN THOG/G-YUNG STON RI KHROD PA",
-            "subject_path_english": "SUNGBUM/BIOGRAPHIES/BY PERSON'S NAME/YUNGTUN RITRUPA",
+            "_id": "166398353943",
+            "subject_path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/G-YUNG STON RI KHROD PA_YUNGTUN RITRUPA",
+            "subject_path_tibetan": "GSUNG 'BUM/RNAM THAR/MTSAN THOG/G-YUNG STON RI KHROD PA",
+            "subject_path_english": "Sungbum/BIOGRAPHIES/BY PERSON'S NAME/YUNGTUN RITRUPA",
             "subject_tibetan": "G-YUNG STON RI KHROD PA",
             "subject_english": "YUNGTUN RITRUPA"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rnam thar_biographies/mtsan thog_by person's name/g-yung ston ri khrod pa_yungtun ritrupa",
-            "timestamp": "2024-09-10T02:23:33.645906+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/G-YUNG STON RI KHROD PA_YUNGTUN RITRUPA",
+            "timestamp": "2024-11-20 05:16:13.374811+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:16:13.374811+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

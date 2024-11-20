@@ -1,12 +1,12 @@
 {
     "name": "S00185M_BLO SBYONG NYI MA'I 'OD ZER_Mental Training entitled 'Rays of the Sun'_HOR STON NAM MKHA' DPAL (@-@).TXT",
-    "path": "blo sbyong_developing the good heart/blo sbyong nyi ma'i 'od zer_mental training entitled 'rays of the sun'/root text",
-    "download_path": "/sungbum updated 4 26 23 bk/blo sbyong_developing the good heart/blo sbyong nyi ma'i 'od zer_mental training entitled 'rays of the sun'/root text/s00185m_blo sbyong nyi ma'i 'od zer_mental training entitled 'rays of the sun'_hor ston nam mkha' dpal (@-@).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAATIg",
-    "revision_id": "613f6664744458d294473",
+    "path": "BLO SBYONG_DEVELOPING THE GOOD HEART/BLO SBYONG NYI MA'I 'OD ZER_MENTAL TRAINING ENTITLED 'RAYS OF THE SUN'/ROOT TEXT",
+    "download_path": "/sungbum updated 7 30 23 nl/blo sbyong_developing the good heart/blo sbyong nyi ma'i 'od zer_mental training entitled 'rays of the sun'/root text/s00185m_blo sbyong nyi ma'i 'od zer_mental training entitled 'rays of the sun'_hor ston nam mkha' dpal (@-@).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABllQ",
+    "revision_id": "625a4aefaec318d294473",
     "content_hash": "3b0d1738107547e66e91128e80de4d66325418c2ca7a81081999635022855c75",
-    "server_modified": "2024-03-18T21:54:19",
-    "last_sync": "2024-09-09T19:20:52.319835",
+    "server_modified": "2024-10-29 21:58:20",
+    "last_sync": "2024-11-19 21:25:37.424480",
     "size": 183507,
     "meta_text": null,
     "cat_ref": "S00185M",
@@ -19,10 +19,10 @@
     "author_simple": "HOR STON NAM MKHA' DPAL",
     "subject": [
         {
-            "_id": "171574626309",
-            "subject_path": "SUNGBUM_SUNGBUM/BLO SBYONG_DEVELOPING THE GOOD HEART/BLO SBYONG NYI MA'I 'OD ZER_MENTAL TRAINING ENTITLED 'RAYS OF THE SUN'/ROOT TEXT",
-            "subject_path_tibetan": "SUNGBUM/BLO SBYONG/BLO SBYONG NYI MA'I 'OD ZER/ROOT TEXT",
-            "subject_path_english": "SUNGBUM/DEVELOPING THE GOOD HEART/MENTAL TRAINING ENTITLED 'RAYS OF THE SUN'",
+            "_id": "437308595411",
+            "subject_path": "GSUNG 'BUM_Sungbum/BLO SBYONG_DEVELOPING THE GOOD HEART/BLO SBYONG NYI MA'I 'OD ZER_MENTAL TRAINING ENTITLED 'RAYS OF THE SUN'/ROOT TEXT",
+            "subject_path_tibetan": "GSUNG 'BUM/BLO SBYONG/BLO SBYONG NYI MA'I 'OD ZER/ROOT TEXT",
+            "subject_path_english": "Sungbum/DEVELOPING THE GOOD HEART/MENTAL TRAINING ENTITLED 'RAYS OF THE SUN'",
             "subject_tibetan": "ROOT TEXT",
             "subject_english": "MENTAL TRAINING ENTITLED 'RAYS OF THE SUN'"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P3495"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "blo sbyong_developing the good heart/blo sbyong nyi ma'i 'od zer_mental training entitled 'rays of the sun'/root text",
-            "timestamp": "2024-09-10T02:20:52.321831+00:00"
+            "path": "GSUNG 'BUM_Sungbum/BLO SBYONG_DEVELOPING THE GOOD HEART/BLO SBYONG NYI MA'I 'OD ZER_MENTAL TRAINING ENTITLED 'RAYS OF THE SUN'/ROOT TEXT",
+            "timestamp": "2024-11-20 05:25:37.428998+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:25:37.428998+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,28 +1,28 @@
 {
     "name": "S06368M1_BYANG CHUB LAM GYI RIM PA'I DMAR 'KHRID THAMS CAD MKHYEN PAR BGROD PA'I BDE LAM GYI SA BCAD MDOR BSDUS_Brief Outline of the 'Dissection' Presentation of the Steps of the Path to Buddhahood entitled 'Easy Path for Traveling to the State of O+.TXT",
-    "path": "lam rim_steps of the path/bde lam_path to bliss/sa bcad_outlines",
-    "download_path": "/sungbum updated 4 26 23 bk/lam rim_steps of the path/bde lam_path to bliss/sa bcad_outlines/s06368m1_byang chub lam gyi rim pa'i dmar 'khrid thams cad mkhyen par bgrod pa'i bde lam gyi sa bcad mdor bsdus_brief outline of the 'dissection' presentation of the steps of the path to buddhahood entitled 'easy path for traveling to the state of o+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAGxg",
-    "revision_id": "613f66492f1308d294473",
+    "path": "LAM RIM_STEPS OF THE PATH/BDE LAM_PATH TO BLISS/SA BCAD_OUTLINES",
+    "download_path": "/sungbum updated 7 30 23 nl/lam rim_steps of the path/bde lam_path to bliss/sa bcad_outlines/s06368m1_byang chub lam gyi rim pa'i dmar 'khrid thams cad mkhyen par bgrod pa'i bde lam gyi sa bcad mdor bsdus_brief outline of the 'dissection' presentation of the steps of the path to buddhahood entitled 'easy path for traveling to the state of o+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABhKw",
+    "revision_id": "625a4a55746a98d294473",
     "content_hash": "c2630c4e92cf5acbda5bc91a2058b3f83e5ca768a5a0e5d544567569181e9ebf",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:07:52.371807",
+    "server_modified": "2024-10-29 21:55:39",
+    "last_sync": "2024-11-19 21:17:27.582621",
     "size": 3857,
-    "meta_text": "mniscience’_DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "meta_text": "('mniscience’_DNGUL CHU DHARMA BHADRA (1772-1851)', 'rtf')",
     "cat_ref": "S06368M1",
     "work_ref": "W.S06368M1",
     "title_tib": "BYANG CHUB LAM GYI RIM PA'I DMAR 'KHRID THAMS CAD MKHYEN PAR BGROD PA'I BDE LAM GYI SA BCAD MDOR BSDUS",
-    "title_eng": "Brief Outline of the 'Dissection' Presentation of the Steps of the Path to Buddhahood entitled 'Easy Path for Traveling to the State of Omniscience’",
+    "title_eng": "Brief Outline of the 'Dissection' Presentation of the Steps of the Path to Buddhahood entitled 'Easy Path for Traveling to the State of O('mniscience’",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "318390265346",
-            "subject_path": "SUNGBUM_SUNGBUM/LAM RIM_STEPS OF THE PATH/BDE LAM_PATH TO BLISS/SA BCAD_OUTLINES",
-            "subject_path_tibetan": "SUNGBUM/LAM RIM/BDE LAM/SA BCAD",
-            "subject_path_english": "SUNGBUM/STEPS OF THE PATH/PATH TO BLISS/OUTLINES",
+            "_id": "596673292252",
+            "subject_path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/BDE LAM_PATH TO BLISS/SA BCAD_OUTLINES",
+            "subject_path_tibetan": "GSUNG 'BUM/LAM RIM/BDE LAM/SA BCAD",
+            "subject_path_english": "Sungbum/STEPS OF THE PATH/PATH TO BLISS/OUTLINES",
             "subject_tibetan": "SA BCAD",
             "subject_english": "OUTLINES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "lam rim_steps of the path/bde lam_path to bliss/sa bcad_outlines",
-            "timestamp": "2024-09-10T02:07:52.380343+00:00"
+            "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/BDE LAM_PATH TO BLISS/SA BCAD_OUTLINES",
+            "timestamp": "2024-11-20 05:17:27.588395+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:17:27.588395+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

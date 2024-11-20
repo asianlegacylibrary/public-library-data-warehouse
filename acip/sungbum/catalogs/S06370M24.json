@@ -1,12 +1,12 @@
 {
     "name": "S06370M24_ZHI GNAS DANG LHAG MTHONG SKOR GYI DRI LAN_Answer to a Question concerning the Practice of Meditative Quietude and the Extraordinary Vision of Emptiness_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "lam rim_steps of the path/dri lan_questions and answers",
-    "download_path": "/sungbum updated 4 26 23 bk/lam rim_steps of the path/dri lan_questions and answers/s06370m24_zhi gnas dang lhag mthong skor gyi dri lan_answer to a question concerning the practice of meditative quietude and the extraordinary vision of emptiness_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAG9Q",
-    "revision_id": "613f66492f15f8d294473",
+    "path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "download_path": "/sungbum updated 7 30 23 nl/dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)/s06370m24_zhi gnas dang lhag mthong skor gyi dri lan_answer to a question concerning the practice of meditative quietude and the extraordinary vision of emptiness_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABToQ",
+    "revision_id": "625a484063a8c8d294473",
     "content_hash": "925b039d3d363758250770efee3f26fa07939b3374be2fc453e416e988b4c02e",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:08:09.016902",
+    "server_modified": "2024-10-29 21:46:20",
+    "last_sync": "2024-11-19 20:54:07.114507",
     "size": 582,
     "meta_text": null,
     "cat_ref": "S06370M24",
@@ -19,19 +19,19 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "210567637591",
-            "subject_path": "SUNGBUM_SUNGBUM/LAM RIM_STEPS OF THE PATH/DRI LAN_QUESTIONS AND ANSWERS",
-            "subject_path_tibetan": "SUNGBUM/LAM RIM/DRI LAN",
-            "subject_path_english": "SUNGBUM/STEPS OF THE PATH/QUESTIONS AND ANSWERS",
-            "subject_tibetan": "DRI LAN",
+            "_id": "250883940513",
+            "subject_path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "GSUNG 'BUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "Sungbum/QUESTIONS AND ANSWERS",
+            "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
             "subject_english": "QUESTIONS AND ANSWERS"
         },
         {
-            "_id": "244831615226",
-            "subject_path": "SUNGBUM_SUNGBUM/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_tibetan": "SUNGBUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_english": "SUNGBUM/QUESTIONS AND ANSWERS",
-            "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "_id": "224862218803",
+            "subject_path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/DRI LAN_QUESTIONS AND ANSWERS",
+            "subject_path_tibetan": "GSUNG 'BUM/LAM RIM/DRI LAN",
+            "subject_path_english": "Sungbum/STEPS OF THE PATH/QUESTIONS AND ANSWERS",
+            "subject_tibetan": "DRI LAN",
             "subject_english": "QUESTIONS AND ANSWERS"
         }
     ],
@@ -46,15 +46,29 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "lam rim_steps of the path/dri lan_questions and answers",
-            "timestamp": "2024-09-10T02:08:09.129015+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "timestamp": "2024-11-20 04:54:07.142256+00:00"
         },
         {
-            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
-            "timestamp": "2024-09-10T02:21:49.535294+00:00"
+            "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/DRI LAN_QUESTIONS AND ANSWERS",
+            "timestamp": "2024-11-20 05:17:46.889682+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:54:07.142256+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T05:17:46.889682+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "text"
 }

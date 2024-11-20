@@ -1,12 +1,12 @@
 {
     "name": "S12061E_ GSO BA RIG PA'I MAN NGAG SBYOR BA BRGYA PA'I MCHAN_Footnotes on a Thousand Concoctions--Words of Advice on the Art of Healing_BU STON RIN CHEN GRUB (1290-1364).TXT",
-    "path": "sman_medicine/spyi_general treatments",
-    "download_path": "/sungbum updated 4 26 23 bk/sman_medicine/spyi_general treatments/s12061e_ gso ba rig pa'i man ngag sbyor ba brgya pa'i mchan_footnotes on a thousand concoctions--words of advice on the art of healing_bu ston rin chen grub (1290-1364).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAXEg",
-    "revision_id": "613f666d20a2e8d294473",
+    "path": "SMAN_MEDICINE/SPYI_GENERAL TREATMENTS",
+    "download_path": "/sungbum updated 7 30 23 nl/sman_medicine/spyi_general treatments/s12061e_ gso ba rig pa'i man ngag sbyor ba brgya pa'i mchan_footnotes on a thousand concoctions--words of advice on the art of healing_bu ston rin chen grub (1290-1364).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABSJw",
+    "revision_id": "625a48080c3af8d294473",
     "content_hash": "142a4205c03a55f92eb7faeb4ba9330be86feaf5261364bdbf7d33ce74ca7eb9",
-    "server_modified": "2024-03-18T21:54:28",
-    "last_sync": "2024-09-09T19:24:26.246037",
+    "server_modified": "2024-10-29 21:45:21",
+    "last_sync": "2024-11-19 20:53:18.644119",
     "size": 34348,
     "meta_text": null,
     "cat_ref": "S12061E",
@@ -19,10 +19,10 @@
     "author_simple": "BU STON RIN CHEN GRUB",
     "subject": [
         {
-            "_id": "110389102539",
-            "subject_path": "SUNGBUM_SUNGBUM/SMAN_MEDICINE/SPYI_GENERAL TREATMENTS",
-            "subject_path_tibetan": "SUNGBUM/SMAN/SPYI",
-            "subject_path_english": "SUNGBUM/MEDICINE/GENERAL TREATMENTS",
+            "_id": "217782930332",
+            "subject_path": "GSUNG 'BUM_Sungbum/SMAN_MEDICINE/SPYI_GENERAL TREATMENTS",
+            "subject_path_tibetan": "GSUNG 'BUM/SMAN/SPYI",
+            "subject_path_english": "Sungbum/MEDICINE/GENERAL TREATMENTS",
             "subject_tibetan": "SPYI",
             "subject_english": "GENERAL TREATMENTS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P155"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "sman_medicine/spyi_general treatments",
-            "timestamp": "2024-09-10T02:24:26.267841+00:00"
+            "path": "GSUNG 'BUM_Sungbum/SMAN_MEDICINE/SPYI_GENERAL TREATMENTS",
+            "timestamp": "2024-11-20 04:53:19.720464+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:53:19.720464+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

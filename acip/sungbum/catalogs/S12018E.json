@@ -1,12 +1,12 @@
 {
     "name": "S12018E_BLO BZANG DPAL LDAN MA'I GSOL 'DEBS_A Supplication Beginning with the Words 'Lobsang Pelden'_PAn CHEN SKU PHRENG BZHI PA BSTAN PA'I NYI MA (1782-1853).TXT",
-    "path": "nyams len_personal practice/gsol 'debs_prayers of supplication/pan chen sku phreng bzhi pa bstan pa'i nyi ma_panchen kutreng shipa tenpay nyima (1782-1853)",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/gsol 'debs_prayers of supplication/pan chen sku phreng bzhi pa bstan pa'i nyi ma_panchen kutreng shipa tenpay nyima (1782-1853)/s12018e_blo bzang dpal ldan ma'i gsol 'debs_a supplication beginning with the words 'lobsang pelden'_pan chen sku phreng bzhi pa bstan pa'i nyi ma (1782-1853).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAByg",
-    "revision_id": "613f663b87d138d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/GSOL 'DEBS_PRAYERS OF SUPPLICATION/PAn CHEN SKU PHRENG BZHI PA BSTAN PA'I NYI MA_PANCHEN KUTRENG SHIPA TENPAY NYIMA (1782-1853)",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/gsol 'debs_prayers of supplication/pan chen sku phreng bzhi pa bstan pa'i nyi ma_panchen kutreng shipa tenpay nyima (1782-1853)/s12018e_blo bzang dpal ldan ma'i gsol 'debs_a supplication beginning with the words 'lobsang pelden'_pan chen sku phreng bzhi pa bstan pa'i nyi ma (1782-1853).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABjJg",
+    "revision_id": "625a4aa1840678d294473",
     "content_hash": "be086969e4ecbd06184e179ac0e326e1a28937ec919a5cfe4d0d5d288bf72473",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:02:41.598894",
+    "server_modified": "2024-10-29 21:56:58",
+    "last_sync": "2024-11-19 21:20:46.421369",
     "size": 3965,
     "meta_text": null,
     "cat_ref": "S12018E",
@@ -19,11 +19,11 @@
     "author_simple": "PAn CHEN SKU PHRENG BZHI PA BSTAN PA'I NYI MA",
     "subject": [
         {
-            "_id": "154728985617",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/GSOL 'DEBS_PRAYERS OF SUPPLICATION/PAN CHEN SKU PHRENG BZHI PA BSTAN PA'I NYI MA_PANCHEN KUTRENG SHIPA TENPAY NYIMA (1782-1853)",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/GSOL 'DEBS/PAN CHEN SKU PHRENG BZHI PA BSTAN PA'I NYI MA",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/PRAYERS OF SUPPLICATION/PANCHEN KUTRENG SHIPA TENPAY NYIMA (1782-1853)",
-            "subject_tibetan": "PAN CHEN SKU PHRENG BZHI PA BSTAN PA'I NYI MA",
+            "_id": "117198378417",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/GSOL 'DEBS_PRAYERS OF SUPPLICATION/PAn CHEN SKU PHRENG BZHI PA BSTAN PA'I NYI MA_PANCHEN KUTRENG SHIPA TENPAY NYIMA (1782-1853)",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/GSOL 'DEBS/PAn CHEN SKU PHRENG BZHI PA BSTAN PA'I NYI MA",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/PRAYERS OF SUPPLICATION/PANCHEN KUTRENG SHIPA TENPAY NYIMA (1782-1853)",
+            "subject_tibetan": "PAn CHEN SKU PHRENG BZHI PA BSTAN PA'I NYI MA",
             "subject_english": "PANCHEN KUTRENG SHIPA TENPAY NYIMA (1782-1853)"
         }
     ],
@@ -38,15 +38,29 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P285"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/gsol 'debs_prayers of supplication/pan chen sku phreng bzhi pa bstan pa'i nyi ma_panchen kutreng shipa tenpay nyima (1782-1853)",
-            "timestamp": "2024-09-10T02:02:41.601825+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/GSOL 'DEBS_PRAYERS OF SUPPLICATION/PAn CHEN SKU PHRENG BZHI PA BSTAN PA'I NYI MA_PANCHEN KUTRENG SHIPA TENPAY NYIMA (1782-1853)",
+            "timestamp": "2024-11-20 05:20:46.426297+00:00"
         },
         {
-            "path": "nyams len_personal practice/gsol 'debs_prayers of supplication/pan chen sku phreng bzhi pa bstan pa'i nyi ma_panchen kutreng shipa tenpay nyima (1782-1853)",
-            "timestamp": "2024-09-10T02:02:58.069817+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/GSOL 'DEBS_PRAYERS OF SUPPLICATION/PAn CHEN SKU PHRENG BZHI PA BSTAN PA'I NYI MA_PANCHEN KUTRENG SHIPA TENPAY NYIMA (1782-1853)",
+            "timestamp": "2024-11-20 05:21:15.474497+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:20:46.426297+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T05:21:15.474497+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "text"
 }

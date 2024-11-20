@@ -1,12 +1,12 @@
 {
     "name": "S06370E2_BDE MCHOG SGRUB THABS BDE CHEN 'BYUNG GNAS SKOR GYI DRI LAN_Responses to Questions on the Ritual for Reaching the Angel of Highest Bliss (Sambara) entitled 'Source of Great Bliss'_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/sgrub thabs_ritual for reaching the angel (sadhana)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/sgrub thabs_ritual for reaching the angel (sadhana)/s06370e2_bde mchog sgrub thabs bde chen 'byung gnas skor gyi dri lan_responses to questions on the ritual for reaching the angel of highest bliss (sambara) entitled 'source of great bliss'_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAO_w",
-    "revision_id": "613f665b611188d294473",
+    "path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "download_path": "/sungbum updated 7 30 23 nl/dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)/s06370e2_bde mchog sgrub thabs bde chen 'byung gnas skor gyi dri lan_responses to questions on the ritual for reaching the angel of highest bliss (sambara) entitled 'source of great bliss'_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABTFw",
+    "revision_id": "625a482adfb508d294473",
     "content_hash": "32a8960ff2c5a3f7d7292a904c83fe78ce66e626fdcb4a29fca355fcea307415",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:16:24.251184",
+    "server_modified": "2024-10-29 21:45:57",
+    "last_sync": "2024-11-19 20:53:48.865942",
     "size": 2348,
     "meta_text": null,
     "cat_ref": "S06370E2",
@@ -19,20 +19,20 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "250473272738",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/BDE MCHOG/SGRUB THABS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "subject_tibetan": "SGRUB THABS",
-            "subject_english": "RITUAL FOR REACHING THE ANGEL (SADHANA)"
-        },
-        {
-            "_id": "244831615226",
-            "subject_path": "SUNGBUM_SUNGBUM/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_tibetan": "SUNGBUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_english": "SUNGBUM/QUESTIONS AND ANSWERS",
+            "_id": "250883940513",
+            "subject_path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "GSUNG 'BUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "Sungbum/QUESTIONS AND ANSWERS",
             "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
             "subject_english": "QUESTIONS AND ANSWERS"
+        },
+        {
+            "_id": "162847641065",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/BDE MCHOG/SGRUB THABS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "subject_tibetan": "SGRUB THABS",
+            "subject_english": "RITUAL FOR REACHING THE ANGEL (SADHANA)"
         }
     ],
     "items": [],
@@ -46,15 +46,29 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/sgrub thabs_ritual for reaching the angel (sadhana)",
-            "timestamp": "2024-09-10T02:16:24.274008+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "timestamp": "2024-11-20 04:54:07.137407+00:00"
         },
         {
-            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
-            "timestamp": "2024-09-10T02:21:49.472907+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "timestamp": "2024-11-20 04:55:39.058800+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:54:07.137407+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T04:55:39.058800+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "text"
 }

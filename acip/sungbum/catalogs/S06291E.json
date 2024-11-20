@@ -1,12 +1,12 @@
 {
     "name": "S06291E_ RJE BTZUN N'A RO MKHA' SPYOD MA'I BSNYEN YIG GNAD KYI LDE MIG_The 'Key for Crucial Points,' being a Book of Instructions for a Retreat in the Secret Teachings of the Holy Diamond Angel (Vajrayogini)_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/rdo rje rnal 'byor ma_angel of diamond (vajrayogini)/bsnyen pa_retreat instructions",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/rdo rje rnal 'byor ma_angel of diamond (vajrayogini)/bsnyen pa_retreat instructions/s06291e_ rje btzun n'a ro mkha' spyod ma'i bsnyen yig gnad kyi lde mig_the 'key for crucial points,' being a book of instructions for a retreat in the secret teachings of the holy diamond angel (vajrayogini)_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAJVQ",
-    "revision_id": "613f664dc43718d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAL 'BYOR MA_ANGEL OF DIAMOND (VAJRAYOGINI)/BSNYEN PA_RETREAT INSTRUCTIONS",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/rdo rje rnal 'byor ma_angel of diamond (vajrayogini)/bsnyen pa_retreat instructions/s06291e_ rje btzun n'a ro mkha' spyod ma'i bsnyen yig gnad kyi lde mig_the 'key for crucial points,' being a book of instructions for a retreat in the secret teachings of the holy diamond angel (vajrayogini)_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABb7g",
+    "revision_id": "625a4963c10c88d294473",
     "content_hash": "50192e75cd0d0211abb5b814a87e6d09b2ebaecfc2abbe84178452140dc85a56",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:10:24.036629",
+    "server_modified": "2024-10-29 21:51:25",
+    "last_sync": "2024-11-19 21:08:01.368119",
     "size": 13207,
     "meta_text": null,
     "cat_ref": "S06291E",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "295050187401",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAL 'BYOR MA_ANGEL OF DIAMOND (VAJRAYOGINI)/BSNYEN PA_RETREAT INSTRUCTIONS",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/RDO RJE RNAL 'BYOR MA/BSNYEN PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/ANGEL OF DIAMOND (VAJRAYOGINI)/RETREAT INSTRUCTIONS",
+            "_id": "293608707903",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAL 'BYOR MA_ANGEL OF DIAMOND (VAJRAYOGINI)/BSNYEN PA_RETREAT INSTRUCTIONS",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/RDO RJE RNAL 'BYOR MA/BSNYEN PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/ANGEL OF DIAMOND (VAJRAYOGINI)/RETREAT INSTRUCTIONS",
             "subject_tibetan": "BSNYEN PA",
             "subject_english": "RETREAT INSTRUCTIONS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/rdo rje rnal 'byor ma_angel of diamond (vajrayogini)/bsnyen pa_retreat instructions",
-            "timestamp": "2024-09-10T02:10:24.054358+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAL 'BYOR MA_ANGEL OF DIAMOND (VAJRAYOGINI)/BSNYEN PA_RETREAT INSTRUCTIONS",
+            "timestamp": "2024-11-20 05:08:04.178949+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:08:04.178949+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

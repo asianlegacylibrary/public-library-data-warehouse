@@ -1,12 +1,12 @@
 {
     "name": "S00403M_BLO SBYONG TSOGS BSHAD MA_Instructions for Developing the Good Heart entitled 'A Teaching to the Assembly'_@ (@-@).TXT",
-    "path": "blo sbyong_developing the good heart/blo sbyong tsogs bshad ma_instructions for developing the good heart entitled 'a teaching to the assembly'",
-    "download_path": "/sungbum updated 4 26 23 bk/blo sbyong_developing the good heart/blo sbyong tsogs bshad ma_instructions for developing the good heart entitled 'a teaching to the assembly'/s00403m_blo sbyong tsogs bshad ma_instructions for developing the good heart entitled 'a teaching to the assembly'_@ (@-@).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAS7w",
-    "revision_id": "613f6664744128d294473",
+    "path": "BLO SBYONG_DEVELOPING THE GOOD HEART/BLO SBYONG TSOGS BSHAD MA_INSTRUCTIONS FOR DEVELOPING THE GOOD HEART ENTITLED 'A TEACHING TO THE ASSEMBLY'",
+    "download_path": "/sungbum updated 7 30 23 nl/blo sbyong_developing the good heart/blo sbyong tsogs bshad ma_instructions for developing the good heart entitled 'a teaching to the assembly'/s00403m_blo sbyong tsogs bshad ma_instructions for developing the good heart entitled 'a teaching to the assembly'_@ (@-@).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABllg",
+    "revision_id": "625a4aefaec338d294473",
     "content_hash": "642a93d1b15e8814a706838d830c5a67f21dc00ab92fb58952a5c4323de18a15",
-    "server_modified": "2024-03-18T21:54:19",
-    "last_sync": "2024-09-09T19:20:39.214577",
+    "server_modified": "2024-10-29 21:58:20",
+    "last_sync": "2024-11-19 21:25:38.466154",
     "size": 166577,
     "meta_text": null,
     "cat_ref": "S00403M",
@@ -19,10 +19,10 @@
     "author_simple": "",
     "subject": [
         {
-            "_id": "283557141701",
-            "subject_path": "SUNGBUM_SUNGBUM/BLO SBYONG_DEVELOPING THE GOOD HEART/BLO SBYONG TSOGS BSHAD MA_INSTRUCTIONS FOR DEVELOPING THE GOOD HEART ENTITLED 'A TEACHING TO THE ASSEMBLY'",
-            "subject_path_tibetan": "SUNGBUM/BLO SBYONG/BLO SBYONG TSOGS BSHAD MA",
-            "subject_path_english": "SUNGBUM/DEVELOPING THE GOOD HEART/INSTRUCTIONS FOR DEVELOPING THE GOOD HEART ENTITLED 'A TEACHING TO THE ASSEMBLY'",
+            "_id": "114877621275",
+            "subject_path": "GSUNG 'BUM_Sungbum/BLO SBYONG_DEVELOPING THE GOOD HEART/BLO SBYONG TSOGS BSHAD MA_INSTRUCTIONS FOR DEVELOPING THE GOOD HEART ENTITLED 'A TEACHING TO THE ASSEMBLY'",
+            "subject_path_tibetan": "GSUNG 'BUM/BLO SBYONG/BLO SBYONG TSOGS BSHAD MA",
+            "subject_path_english": "Sungbum/DEVELOPING THE GOOD HEART/INSTRUCTIONS FOR DEVELOPING THE GOOD HEART ENTITLED 'A TEACHING TO THE ASSEMBLY'",
             "subject_tibetan": "BLO SBYONG TSOGS BSHAD MA",
             "subject_english": "INSTRUCTIONS FOR DEVELOPING THE GOOD HEART ENTITLED 'A TEACHING TO THE ASSEMBLY'"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "blo sbyong_developing the good heart/blo sbyong tsogs bshad ma_instructions for developing the good heart entitled 'a teaching to the assembly'",
-            "timestamp": "2024-09-10T02:20:39.217582+00:00"
+            "path": "GSUNG 'BUM_Sungbum/BLO SBYONG_DEVELOPING THE GOOD HEART/BLO SBYONG TSOGS BSHAD MA_INSTRUCTIONS FOR DEVELOPING THE GOOD HEART ENTITLED 'A TEACHING TO THE ASSEMBLY'",
+            "timestamp": "2024-11-20 05:25:38.470802+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:25:38.470802+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

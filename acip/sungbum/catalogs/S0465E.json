@@ -1,12 +1,12 @@
 {
     "name": "S0465E.TXT",
-    "path": "phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/yang dag mtha'_the ultimate end",
-    "download_path": "/sungbum updated 4 26 23 bk/phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/yang dag mtha'_the ultimate end/s0465e.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAU0A",
-    "revision_id": "613f6668766368d294473",
+    "path": "PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/YANG DAG MTHA'_THE ULTIMATE END",
+    "download_path": "/sungbum updated 7 30 23 nl/phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/yang dag mtha'_the ultimate end/s0465e.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABPhg",
+    "revision_id": "625a479d84ca58d294473",
     "content_hash": "c56786e1e81ea51df244b7a6d991191d793011384d6effd46ada2fc6a81abd02",
-    "server_modified": "2024-03-18T21:54:23",
-    "last_sync": "2024-09-09T19:21:54.187662",
+    "server_modified": "2024-10-29 21:43:29",
+    "last_sync": "2024-11-19 20:48:16.101673",
     "size": 77345,
     "meta_text": null,
     "cat_ref": "S0465E",
@@ -19,10 +19,10 @@
     "author_simple": "",
     "subject": [
         {
-            "_id": "173996250237",
-            "subject_path": "SUNGBUM_SUNGBUM/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/YANG DAG MTHA'_THE ULTIMATE END",
-            "subject_path_tibetan": "SUNGBUM/PHAR PHYIN/YANG DAG MTHA'",
-            "subject_path_english": "SUNGBUM/PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/THE ULTIMATE END",
+            "_id": "590729183737",
+            "subject_path": "GSUNG 'BUM_Sungbum/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/YANG DAG MTHA'_THE ULTIMATE END",
+            "subject_path_tibetan": "GSUNG 'BUM/PHAR PHYIN/YANG DAG MTHA'",
+            "subject_path_english": "Sungbum/PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/THE ULTIMATE END",
             "subject_tibetan": "YANG DAG MTHA'",
             "subject_english": "THE ULTIMATE END"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/yang dag mtha'_the ultimate end",
-            "timestamp": "2024-09-10T02:21:54.189218+00:00"
+            "path": "GSUNG 'BUM_Sungbum/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/YANG DAG MTHA'_THE ULTIMATE END",
+            "timestamp": "2024-11-20 04:48:16.105676+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:48:16.105676+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

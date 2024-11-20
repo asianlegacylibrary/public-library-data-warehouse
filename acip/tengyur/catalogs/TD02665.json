@@ -1,45 +1,53 @@
 {
     "name": "TD02665_RNAM PAR SNANG MDZAD KYI SGRUB PA'I THABS KYI CHO GA (Vairocana Sādhanopāyikā).txt",
-    "path": "TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/03 SPYOD PA'I RGYUD_Secret Class of Activity (Charya Tantra)/VOL 69 (TU)",
+    "path": "02 RGYUD_Diamond Way (Vajrayāna)/03 SPYOD PA'I RGYUD_Secret Class of Activity (Charya Tantra)/VOL 69 (TU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/03 spyod pa'i rgyud_secret class of activity (charya tantra)/vol 69 (tu)/td02665_rnam par snang mdzad kyi sgrub pa'i thabs kyi cho ga (vairocana sādhanopāyikā).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACA-g",
     "revision_id": "62633d7aa76ba8d294473",
     "content_hash": "ee64438dcf66d5283f3541c46d13693eeaa38a126769ad7b482ed6aea5357aff",
     "server_modified": "2024-11-06 00:46:03",
-    "last_sync": "2024-11-13 01:59:42.129359+00:00",
+    "last_sync": "2024-11-20 04:00:47.517121",
     "size": 26749,
+    "meta_text": null,
     "cat_ref": "TD02665",
     "work_ref": "W.TD02665",
-    "title_tib": "RNAM PAR SNANG MDZAD KYI SGRUB PA'I THABS KYI CHO GA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "245198025039",
-            "subject_path": "TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/03 SPYOD PA'I RGYUD_Secret Class of Activity (Charya Tantra)/VOL 69 (TU)",
-            "subject_path_tibetan": "TENGYUR/RGYUD/SPYOD PA'I RGYUD/69 (TU)",
-            "subject_path_english": "TENGYUR/Diamond Way (Vajrayāna)/Secret Class of Activity (Charya Tantra)/VOL 69 (TU)",
-            "subject_tibetan": "69 (TU)",
-            "subject_english": "VOL 69 (TU)"
+            "_id": "170552906821",
+            "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/03 SPYOD PA'I RGYUD_Secret Class of Activity (Charya Tantra)/VOL 69 (TU)",
+            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/03 SPYOD PA'I RGYUD/VOL 69 (TU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Secret Class of Activity (Charya Tantra)",
+            "subject_tibetan": "VOL 69 (TU)",
+            "subject_english": "Secret Class of Activity (Charya Tantra)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Vairocana Sādhanopāyikā",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/03 SPYOD PA'I RGYUD_Secret Class of Activity (Charya Tantra)/VOL 69 (TU)",
+            "timestamp": "2024-11-20 12:00:47.532844+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:59:42.392018+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T12:00:47.532844+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/03 SPYOD PA'I RGYUD_Secret Class of Activity (Charya Tantra)/VOL 69 (TU)",
-            "timestamp": "2024-11-13 01:59:42.392018+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

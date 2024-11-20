@@ -1,12 +1,12 @@
 {
     "name": "S06363E4_SGROL MA'I 'PHO BA_Ritual for Transference in the Teachings of the Lady of Liberation (Tara)_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/'pho ba_transferring consciousness",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/'pho ba_transferring consciousness/s06363e4_sgrol ma'i 'pho ba_ritual for transference in the teachings of the lady of liberation (tara)_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAQZg",
-    "revision_id": "613f665fcd5eb8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/'PHO BA_TRANSFERRING CONSCIOUSNESS",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/'pho ba_transferring consciousness/s06363e4_sgrol ma'i 'pho ba_ritual for transference in the teachings of the lady of liberation (tara)_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABYkg",
+    "revision_id": "625a48e2019168d294473",
     "content_hash": "e7ecee98227ecf38e8f494480b1b591dcdfdb75c7b92242999cb191943bff454",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:17:54.412398",
+    "server_modified": "2024-10-29 21:49:09",
+    "last_sync": "2024-11-19 21:02:39.116828",
     "size": 2258,
     "meta_text": null,
     "cat_ref": "S06363E4",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "240928721124",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/'PHO BA_TRANSFERRING CONSCIOUSNESS",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SGROL MA/'PHO BA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/LADY OF LIBERATION (TARA)/TRANSFERRING CONSCIOUSNESS",
+            "_id": "221948056678",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/'PHO BA_TRANSFERRING CONSCIOUSNESS",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SGROL MA/'PHO BA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/LADY OF LIBERATION (TARA)/TRANSFERRING CONSCIOUSNESS",
             "subject_tibetan": "'PHO BA",
             "subject_english": "TRANSFERRING CONSCIOUSNESS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/'pho ba_transferring consciousness",
-            "timestamp": "2024-09-10T02:17:54.415434+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/'PHO BA_TRANSFERRING CONSCIOUSNESS",
+            "timestamp": "2024-11-20 05:02:39.122650+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:02:39.122650+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

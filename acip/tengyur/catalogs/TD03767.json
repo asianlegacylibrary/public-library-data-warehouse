@@ -1,45 +1,53 @@
 {
     "name": "TD03767_MAndALA GYI CHO GA (Maṇḍala Vidhi).txt",
-    "path": "TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/VOL 78 (TSU)",
+    "path": "02 RGYUD_Diamond Way (Vajrayāna)/VOL 78 (TSU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/vol 78 (tsu)/td03767_mandala gyi cho ga (maṇḍala vidhi).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB44w",
     "revision_id": "62633c0d779998d294473",
     "content_hash": "e20e25279bb28f4bf51759e65939b583df99112dbd96a3f05ebb62ab093dc3cf",
     "server_modified": "2024-11-06 00:39:40",
-    "last_sync": "2024-11-13 01:58:32.432703+00:00",
+    "last_sync": "2024-11-20 03:59:31.725895",
     "size": 1808,
+    "meta_text": null,
     "cat_ref": "TD03767",
     "work_ref": "W.TD03767",
-    "title_tib": "MAndALA GYI CHO GA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "415438233803",
-            "subject_path": "TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/VOL 78 (TSU)",
-            "subject_path_tibetan": "TENGYUR/RGYUD/78 (TSU)",
-            "subject_path_english": "TENGYUR/Diamond Way (Vajrayāna)/VOL 78 (TSU)",
-            "subject_tibetan": "78 (TSU)",
-            "subject_english": "VOL 78 (TSU)"
+            "_id": "869790939477",
+            "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 78 (TSU)",
+            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/VOL 78 (TSU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)",
+            "subject_tibetan": "VOL 78 (TSU)",
+            "subject_english": "Diamond Way (Vajrayāna)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Maṇḍala Vidhi",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 78 (TSU)",
+            "timestamp": "2024-11-20 11:59:31.751045+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:58:32.439358+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T11:59:31.751045+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/VOL 78 (TSU)",
-            "timestamp": "2024-11-13 01:58:32.439358+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

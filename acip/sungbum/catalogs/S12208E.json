@@ -1,14 +1,14 @@
 {
     "name": "S12208E_BCOM LDAN 'DAS MA GDUGS DKAR MO CAN GYI SGRUB THABS DNGOS GRUB BDUD RTZI'I BUM BZANG_The Exquisite Vase for the Nectar of Spiritual Attainments--A Ritual for Reaching the Lady of Conquest, the White Parasol (Sitapatra)_PAN CHEN BLA MA SKU PH +.TXT",
-    "path": "rgyud_secret teachings (tantra)/gdugs dkar_white parasol (sitapatra)/sgrub thabs_ritual for reaching the angel (sadhana)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/gdugs dkar_white parasol (sitapatra)/sgrub thabs_ritual for reaching the angel (sadhana)/s12208e_bcom ldan 'das ma gdugs dkar mo can gyi sgrub thabs dngos grub bdud rtzi'i bum bzang_the exquisite vase for the nectar of spiritual attainments--a ritual for reaching the lady of conquest, the white parasol (sitapatra)_pan chen bla ma sku ph +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAARZw",
-    "revision_id": "613f665fcd6ec8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/GDUGS DKAR_WHITE PARASOL (SITAPATRA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/gdugs dkar_white parasol (sitapatra)/sgrub thabs_ritual for reaching the angel (sadhana)/s12208e_bcom ldan 'das ma gdugs dkar mo can gyi sgrub thabs dngos grub bdud rtzi'i bum bzang_the exquisite vase for the nectar of spiritual attainments--a ritual for reaching the lady of conquest, the white parasol (sitapatra)_pan chen bla ma sku ph +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABcUg",
+    "revision_id": "625a4975519a28d294473",
     "content_hash": "0f62bdcb9f4f565818f4b4c2d62b625547f463da4dca197b642a8576673c5459",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:19:02.777257",
+    "server_modified": "2024-10-29 21:51:44",
+    "last_sync": "2024-11-19 21:08:44.015178",
     "size": 69769,
-    "meta_text": "RENG GSUM PA DPAL LDAN YE SHES (1738-1780)",
+    "meta_text": "('RENG GSUM PA DPAL LDAN YE SHES (1738-1780)', 'rtf')",
     "cat_ref": "S12208E",
     "work_ref": "W.S12208E",
     "title_tib": "BCOM LDAN 'DAS MA GDUGS DKAR MO CAN GYI SGRUB THABS DNGOS GRUB BDUD RTZI'I BUM BZANG",
@@ -19,10 +19,10 @@
     "author_simple": "PAn CHEN BLA MA SKU PHRENG GSUM PA DPAL LDAN YE SHES",
     "subject": [
         {
-            "_id": "339993913528",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/GDUGS DKAR_WHITE PARASOL (SITAPATRA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/GDUGS DKAR/SGRUB THABS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/WHITE PARASOL (SITAPATRA)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "_id": "178283919337",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GDUGS DKAR_WHITE PARASOL (SITAPATRA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/GDUGS DKAR/SGRUB THABS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/WHITE PARASOL (SITAPATRA)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
             "subject_tibetan": "SGRUB THABS",
             "subject_english": "RITUAL FOR REACHING THE ANGEL (SADHANA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P168"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/gdugs dkar_white parasol (sitapatra)/sgrub thabs_ritual for reaching the angel (sadhana)",
-            "timestamp": "2024-09-10T02:19:02.780047+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GDUGS DKAR_WHITE PARASOL (SITAPATRA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "timestamp": "2024-11-20 05:08:44.626435+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:08:44.626435+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

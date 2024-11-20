@@ -1,14 +1,14 @@
 {
     "name": "S05343E_DPAL 'KHOR LO SDOM PA LA BRTEN PA'I RDZOGS PA'I RIM PA'I ZIN BRIS_Notes on the Practice of the Stage of Completion, by relying on the Secret Teaching of the Glorious Union of the Spheres (Chakrasamvara)_RJE TZONG KHA PA BLO BZANG GRAGS PA (1 +.TXT",
-    "path": "rgyud_secret teachings (tantra)/'khor lo sdom pa_union of the spheres (chakrasanvara)/rdzogs rim_completion stage (sampanna krama)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/'khor lo sdom pa_union of the spheres (chakrasanvara)/rdzogs rim_completion stage (sampanna krama)/s05343e_dpal 'khor lo sdom pa la brten pa'i rdzogs pa'i rim pa'i zin bris_notes on the practice of the stage of completion, by relying on the secret teaching of the glorious union of the spheres (chakrasamvara)_rje tzong kha pa blo bzang grags pa (1 +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAKfw",
-    "revision_id": "613f6652788978d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/'KHOR LO SDOM PA_UNION OF THE SPHERES (CHAKRASANVARA)/RDZOGS RIM_COMPLETION STAGE (SAMPANNA KRAMA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/'khor lo sdom pa_union of the spheres (chakrasanvara)/rdzogs rim_completion stage (sampanna krama)/s05343e_dpal 'khor lo sdom pa la brten pa'i rdzogs pa'i rim pa'i zin bris_notes on the practice of the stage of completion, by relying on the secret teaching of the glorious union of the spheres (chakrasamvara)_rje tzong kha pa blo bzang grags pa (1 +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABXIw",
+    "revision_id": "625a48b6d66938d294473",
     "content_hash": "0b21cb47e33649157b665bb102c103fed97155b243a7f03c2e8957c838a6c5e0",
-    "server_modified": "2024-03-18T21:54:00",
-    "last_sync": "2024-09-09T19:11:33.136652",
+    "server_modified": "2024-10-29 21:48:24",
+    "last_sync": "2024-11-19 21:00:11.270938",
     "size": 32794,
-    "meta_text": "357-1419)",
+    "meta_text": "('357-1419)', 'rtf')",
     "cat_ref": "S05343E",
     "work_ref": "W.S05343E",
     "title_tib": "DPAL 'KHOR LO SDOM PA LA BRTEN PA'I RDZOGS PA'I RIM PA'I ZIN BRIS",
@@ -19,10 +19,10 @@
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "179433902762",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/'KHOR LO SDOM PA_UNION OF THE SPHERES (CHAKRASANVARA)/RDZOGS RIM_COMPLETION STAGE (SAMPANNA KRAMA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/'KHOR LO SDOM PA/RDZOGS RIM",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/UNION OF THE SPHERES (CHAKRASANVARA)/COMPLETION STAGE (SAMPANNA KRAMA)",
+            "_id": "772099464344",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'KHOR LO SDOM PA_UNION OF THE SPHERES (CHAKRASANVARA)/RDZOGS RIM_COMPLETION STAGE (SAMPANNA KRAMA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/'KHOR LO SDOM PA/RDZOGS RIM",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/UNION OF THE SPHERES (CHAKRASANVARA)/COMPLETION STAGE (SAMPANNA KRAMA)",
             "subject_tibetan": "RDZOGS RIM",
             "subject_english": "COMPLETION STAGE (SAMPANNA KRAMA)"
         }
@@ -31,18 +31,26 @@
     "author": [
         {
             "author_name": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
-            "author_birth": "1357",
-            "author_death": "1419",
+            "author_birth": null,
+            "author_death": null,
             "bdrc_id": "bdr:P64",
             "normalized_name": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/'khor lo sdom pa_union of the spheres (chakrasanvara)/rdzogs rim_completion stage (sampanna krama)",
-            "timestamp": "2024-09-10T02:11:33.154457+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'KHOR LO SDOM PA_UNION OF THE SPHERES (CHAKRASANVARA)/RDZOGS RIM_COMPLETION STAGE (SAMPANNA KRAMA)",
+            "timestamp": "2024-11-20 05:00:11.276551+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:00:11.276551+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

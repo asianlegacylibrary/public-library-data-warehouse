@@ -1,12 +1,12 @@
 {
     "name": "S12213E_CHOS SKYONG RNAMS SGRUB SKOR BSKANG BA BSKUL DANG BCAS PA_Works on Reaching the Dharma Protectors, along with Rites of Fulfillment and Commanding_PAN CHEN BLA MA SKU PHRENG GSUM PA DPAL LDAN YE SHES (1738-1780).TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/chos skyong_dharma protectors (dharmapala)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/chos skyong_dharma protectors (dharmapala)/s12213e_chos skyong rnams sgrub skor bskang ba bskul dang bcas pa_works on reaching the dharma protectors, along with rites of fulfillment and commanding_pan chen bla ma sku phreng gsum pa dpal ldan ye shes (1738-1780).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAN0g",
-    "revision_id": "613f665b60feb8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/CHOS SKYONG_DHARMA PROTECTORS (DHARMAPALA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyi_general treatments/chos skyong_dharma protectors (dharmapala)/s12213e_chos skyong rnams sgrub skor bskang ba bskul dang bcas pa_works on reaching the dharma protectors, along with rites of fulfillment and commanding_pan chen bla ma sku phreng gsum pa dpal ldan ye shes (1738-1780).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABY6g",
+    "revision_id": "625a48ee29a568d294473",
     "content_hash": "935023f1ddda99c8ea095668475517ad94c2d6f4e69ce53c7a1c364a5aa4078d",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:15:13.346485",
+    "server_modified": "2024-10-29 21:49:22",
+    "last_sync": "2024-11-19 21:03:16.233421",
     "size": 21766,
     "meta_text": null,
     "cat_ref": "S12213E",
@@ -19,10 +19,10 @@
     "author_simple": "PAn CHEN BLA MA SKU PHRENG GSUM PA DPAL LDAN YE SHES",
     "subject": [
         {
-            "_id": "286770260130",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/CHOS SKYONG_DHARMA PROTECTORS (DHARMAPALA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/CHOS SKYONG",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/DHARMA PROTECTORS (DHARMAPALA)",
+            "_id": "328105867222",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/CHOS SKYONG_DHARMA PROTECTORS (DHARMAPALA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/CHOS SKYONG",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/DHARMA PROTECTORS (DHARMAPALA)",
             "subject_tibetan": "CHOS SKYONG",
             "subject_english": "DHARMA PROTECTORS (DHARMAPALA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P168"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/chos skyong_dharma protectors (dharmapala)",
-            "timestamp": "2024-09-10T02:15:13.352614+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/CHOS SKYONG_DHARMA PROTECTORS (DHARMAPALA)",
+            "timestamp": "2024-11-20 05:03:16.238759+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:03:16.238759+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,12 +1,12 @@
 {
     "name": "S12060E_BDE BAR GSHEGS PA'I BSTAN PA'I GSAL BYED CHOS KYI 'BYUNG GNAS GSUNG RAB RIN PO CHE'I MDZOD_The Treasure Chest of Jewels-- A History of Buddhism which Illuminates the Teachings of Those Gone to Bliss_BU STON RIN CHEN GRUB (1290-1364).TXT",
-    "path": "chos 'byung_religious histories/bu ston chos 'byung_history of buddhism by buton rinpoche",
-    "download_path": "/sungbum updated 4 26 23 bk/chos 'byung_religious histories/bu ston chos 'byung_history of buddhism by buton rinpoche/s12060e_bde bar gshegs pa'i bstan pa'i gsal byed chos kyi 'byung gnas gsung rab rin po che'i mdzod_the treasure chest of jewels-- a history of buddhism which illuminates the teachings of those gone to bliss_bu ston rin chen grub (1290-1364).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAR5A",
-    "revision_id": "613f6664743078d294473",
+    "path": "CHOS 'BYUNG_RELIGIOUS HISTORIES/BU STON CHOS 'BYUNG_HISTORY OF BUDDHISM BY BUTON RINPOCHE",
+    "download_path": "/sungbum updated 7 30 23 nl/chos 'byung_religious histories/bu ston chos 'byung_history of buddhism by buton rinpoche/s12060e_bde bar gshegs pa'i bstan pa'i gsal byed chos kyi 'byung gnas gsung rab rin po che'i mdzod_the treasure chest of jewels-- a history of buddhism which illuminates the teachings of those gone to bliss_bu ston rin chen grub (1290-1364).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABT3A",
+    "revision_id": "625a484ed08c98d294473",
     "content_hash": "af1f0b9a9edd7b2905f4c707dea025d993ace382fe37bfe3f8563710af93efb7",
-    "server_modified": "2024-03-18T21:54:19",
-    "last_sync": "2024-09-09T19:19:32.344436",
+    "server_modified": "2024-10-29 21:46:35",
+    "last_sync": "2024-11-19 20:54:33.614507",
     "size": 721997,
     "meta_text": null,
     "cat_ref": "S12060E",
@@ -19,10 +19,10 @@
     "author_simple": "BU STON RIN CHEN GRUB",
     "subject": [
         {
-            "_id": "871224923197",
-            "subject_path": "SUNGBUM_SUNGBUM/CHOS 'BYUNG_RELIGIOUS HISTORIES/BU STON CHOS 'BYUNG_HISTORY OF BUDDHISM BY BUTON RINPOCHE",
-            "subject_path_tibetan": "SUNGBUM/CHOS 'BYUNG/BU STON CHOS 'BYUNG",
-            "subject_path_english": "SUNGBUM/RELIGIOUS HISTORIES/HISTORY OF BUDDHISM BY BUTON RINPOCHE",
+            "_id": "110741903013",
+            "subject_path": "GSUNG 'BUM_Sungbum/CHOS 'BYUNG_RELIGIOUS HISTORIES/BU STON CHOS 'BYUNG_HISTORY OF BUDDHISM BY BUTON RINPOCHE",
+            "subject_path_tibetan": "GSUNG 'BUM/CHOS 'BYUNG/BU STON CHOS 'BYUNG",
+            "subject_path_english": "Sungbum/RELIGIOUS HISTORIES/HISTORY OF BUDDHISM BY BUTON RINPOCHE",
             "subject_tibetan": "BU STON CHOS 'BYUNG",
             "subject_english": "HISTORY OF BUDDHISM BY BUTON RINPOCHE"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P155"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "chos 'byung_religious histories/bu ston chos 'byung_history of buddhism by buton rinpoche",
-            "timestamp": "2024-09-10T02:19:32.347613+00:00"
+            "path": "GSUNG 'BUM_Sungbum/CHOS 'BYUNG_RELIGIOUS HISTORIES/BU STON CHOS 'BYUNG_HISTORY OF BUDDHISM BY BUTON RINPOCHE",
+            "timestamp": "2024-11-20 04:54:33.618150+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:54:33.618150+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

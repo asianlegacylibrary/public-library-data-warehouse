@@ -1,12 +1,12 @@
 {
     "name": "S06370E70_RNAL 'BYOR MA'I LUS DKYIL SKOR GYI DRI LAN_Response to Questions on the Practice of the Secret World of the Body in the Teachings of the Holy Angel (Vajrayogini)_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/rdo rje rnal 'byor ma_angel of diamond (vajrayogini)/lus dkyil_secret world of the body",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/rdo rje rnal 'byor ma_angel of diamond (vajrayogini)/lus dkyil_secret world of the body/s06370e70_rnal 'byor ma'i lus dkyil skor gyi dri lan_response to questions on the practice of the secret world of the body in the teachings of the holy angel (vajrayogini)_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAI_A",
-    "revision_id": "613f664dc43188d294473",
+    "path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "download_path": "/sungbum updated 7 30 23 nl/dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)/s06370e70_rnal 'byor ma'i lus dkyil skor gyi dri lan_response to questions on the practice of the secret world of the body in the teachings of the holy angel (vajrayogini)_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABTWw",
+    "revision_id": "625a48358e27f8d294473",
     "content_hash": "cab046bdfed517a39a98aca7f0526aa48695455f528d31fce9a069da5d2f8ed8",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:10:00.581272",
+    "server_modified": "2024-10-29 21:46:08",
+    "last_sync": "2024-11-19 20:53:56.588133",
     "size": 1059,
     "meta_text": null,
     "cat_ref": "S06370E70",
@@ -19,20 +19,20 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "168430861329",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAL 'BYOR MA_ANGEL OF DIAMOND (VAJRAYOGINI)/LUS DKYIL_SECRET WORLD OF THE BODY",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/RDO RJE RNAL 'BYOR MA/LUS DKYIL",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/ANGEL OF DIAMOND (VAJRAYOGINI)/SECRET WORLD OF THE BODY",
-            "subject_tibetan": "LUS DKYIL",
-            "subject_english": "SECRET WORLD OF THE BODY"
-        },
-        {
-            "_id": "244831615226",
-            "subject_path": "SUNGBUM_SUNGBUM/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_tibetan": "SUNGBUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_english": "SUNGBUM/QUESTIONS AND ANSWERS",
+            "_id": "250883940513",
+            "subject_path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "GSUNG 'BUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "Sungbum/QUESTIONS AND ANSWERS",
             "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
             "subject_english": "QUESTIONS AND ANSWERS"
+        },
+        {
+            "_id": "162929522813",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAL 'BYOR MA_ANGEL OF DIAMOND (VAJRAYOGINI)/LUS DKYIL_SECRET WORLD OF THE BODY",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/RDO RJE RNAL 'BYOR MA/LUS DKYIL",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/ANGEL OF DIAMOND (VAJRAYOGINI)/SECRET WORLD OF THE BODY",
+            "subject_tibetan": "LUS DKYIL",
+            "subject_english": "SECRET WORLD OF THE BODY"
         }
     ],
     "items": [],
@@ -46,15 +46,29 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/rdo rje rnal 'byor ma_angel of diamond (vajrayogini)/lus dkyil_secret world of the body",
-            "timestamp": "2024-09-10T02:10:00.613463+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "timestamp": "2024-11-20 04:54:07.139927+00:00"
         },
         {
-            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
-            "timestamp": "2024-09-10T02:21:49.586864+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAL 'BYOR MA_ANGEL OF DIAMOND (VAJRAYOGINI)/LUS DKYIL_SECRET WORLD OF THE BODY",
+            "timestamp": "2024-11-20 05:08:06.389910+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:54:07.139927+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T05:08:06.389910+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,12 +1,12 @@
 {
     "name": "S00095E_RTZA RLUNG THIG LE'I RNAM BZHAG_A Presentation of the Channels, Winds, and Drops_LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN (1642-1714).TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/sdom pa_secret vows (samaya)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/sdom pa_secret vows (samaya)/s00095e_rtza rlung thig le'i rnam bzhag_a presentation of the channels, winds, and drops_lcang skya ngag dbang blo bzang chos ldan (1642-1714).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAOrQ",
-    "revision_id": "613f665b610c68d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SDOM PA_SECRET VOWS (SAMAYA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyi_general treatments/sdom pa_secret vows (samaya)/s00095e_rtza rlung thig le'i rnam bzhag_a presentation of the channels, winds, and drops_lcang skya ngag dbang blo bzang chos ldan (1642-1714).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABZJQ",
+    "revision_id": "625a48f6e70228d294473",
     "content_hash": "cc5f980624fc29071a28ae01635afc028b279e4dd2e6e9c63ede3732cf2e8627",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:15:59.204434",
+    "server_modified": "2024-10-29 21:49:31",
+    "last_sync": "2024-11-19 21:03:41.669524",
     "size": 41347,
     "meta_text": null,
     "cat_ref": "S00095E",
@@ -19,10 +19,10 @@
     "author_simple": "LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN",
     "subject": [
         {
-            "_id": "789206632990",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SDOM PA_SECRET VOWS (SAMAYA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/SDOM PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/SECRET VOWS (SAMAYA)",
+            "_id": "101717976416",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SDOM PA_SECRET VOWS (SAMAYA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/SDOM PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/SECRET VOWS (SAMAYA)",
             "subject_tibetan": "SDOM PA",
             "subject_english": "SECRET VOWS (SAMAYA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P209"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/sdom pa_secret vows (samaya)",
-            "timestamp": "2024-09-10T02:15:59.223192+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SDOM PA_SECRET VOWS (SAMAYA)",
+            "timestamp": "2024-11-20 05:03:42.883141+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:03:42.883141+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

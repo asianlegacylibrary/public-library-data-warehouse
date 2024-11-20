@@ -1,12 +1,12 @@
 {
     "name": "S05928E_JAM DKAR GYI SGRUB THABS SHES RAB MCHOG SBYIN_A 'Gift of Highest Wisdom,' being a Ritual for Reaching Gentle Voice in His White Form (Sita Manjughosha)_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662).TXT",
-    "path": "rgyud_secret teachings (tantra)/'jam dbyangs dkar po_white gentle voice (sita manjughosha)/sgrub thabs_ritual for reaching the angel (sadhana)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/'jam dbyangs dkar po_white gentle voice (sita manjughosha)/sgrub thabs_ritual for reaching the angel (sadhana)/s05928e_jam dkar gyi sgrub thabs shes rab mchog sbyin_a 'gift of highest wisdom,' being a ritual for reaching gentle voice in his white form (sita manjughosha)_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAPyA",
-    "revision_id": "613f665fcd54d8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/'JAM DBYANGS DKAR PO_WHITE GENTLE VOICE (SITA MANJUGHOSHA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/'jam dbyangs dkar po_white gentle voice (sita manjughosha)/sgrub thabs_ritual for reaching the angel (sadhana)/s05928e_jam dkar gyi sgrub thabs shes rab mchog sbyin_a 'gift of highest wisdom,' being a ritual for reaching gentle voice in his white form (sita manjughosha)_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABa9Q",
+    "revision_id": "625a4941642208d294473",
     "content_hash": "7326340dd5673c7e9b5583e28a97151f71ceb10f2d47465fe3867fdb35f01fd9",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:17:14.697154",
+    "server_modified": "2024-10-29 21:50:49",
+    "last_sync": "2024-11-19 21:06:29.971126",
     "size": 25420,
     "meta_text": null,
     "cat_ref": "S05928E",
@@ -19,10 +19,10 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "103982253884",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/'JAM DBYANGS DKAR PO_WHITE GENTLE VOICE (SITA MANJUGHOSHA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/'JAM DBYANGS DKAR PO/SGRUB THABS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/WHITE GENTLE VOICE (SITA MANJUGHOSHA)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "_id": "210472900070",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JAM DBYANGS DKAR PO_WHITE GENTLE VOICE (SITA MANJUGHOSHA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/'JAM DBYANGS DKAR PO/SGRUB THABS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/WHITE GENTLE VOICE (SITA MANJUGHOSHA)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
             "subject_tibetan": "SGRUB THABS",
             "subject_english": "RITUAL FOR REACHING THE ANGEL (SADHANA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/'jam dbyangs dkar po_white gentle voice (sita manjughosha)/sgrub thabs_ritual for reaching the angel (sadhana)",
-            "timestamp": "2024-09-10T02:17:14.698615+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JAM DBYANGS DKAR PO_WHITE GENTLE VOICE (SITA MANJUGHOSHA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "timestamp": "2024-11-20 05:06:29.974869+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:06:29.974869+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,28 +1,28 @@
 {
     "name": "S00295E_DAM CAN CHOS KYI RGYAL PO PHYI SGRUB LA BRTEN NAS GTOR CHEN DRUG CU PA'I RNAM BZHAG RDO RJE GNAM LCAGS 'BAR BA'I PHRENG BA_'The String of Blazing Diamond Steel from the Sky,' being an Explanation of the Practice of the Sixty-Fold Torma Cake, +.TXT",
-    "path": "rgyud_secret teachings (tantra)/drug cu pa_offering of the sixty (shashtitama)/mchod pa_offering",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/drug cu pa_offering of the sixty (shashtitama)/mchod pa_offering/s00295e_dam can chos kyi rgyal po phyi sgrub la brten nas gtor chen drug cu pa'i rnam bzhag rdo rje gnam lcags 'bar ba'i phreng ba_'the string of blazing diamond steel from the sky,' being an explanation of the practice of the sixty-fold torma cake, +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAI9Q",
-    "revision_id": "613f664dc43118d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/DRUG CU PA_OFFERING OF THE SIXTY (SHASHTITAMA)/MCHOD PA_OFFERING",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/drug cu pa_offering of the sixty (shashtitama)/mchod pa_offering/s00295e_dam can chos kyi rgyal po phyi sgrub la brten nas gtor chen drug cu pa'i rnam bzhag rdo rje gnam lcags 'bar ba'i phreng ba_'the string of blazing diamond steel from the sky,' being an explanation of the practice of the sixty-fold torma cake, +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABXdQ",
+    "revision_id": "625a48bffd5d98d294473",
     "content_hash": "d7268063c6601fbc4002eedbfa92bd906b63c9ac699ea847f1ed7c204cdbda2a",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:09:58.263320",
+    "server_modified": "2024-10-29 21:48:33",
+    "last_sync": "2024-11-19 21:00:44.079824",
     "size": 51151,
-    "meta_text": "in the Outer Practice for Reaching the King of the Dharma (Dharmaraja), a Protector Acting under Pledge_& (&-&)",
+    "meta_text": "('in the Outer Practice for Reaching the King of the Dharma (Dharmaraja), a Protector Acting under Pledge_& (&-&)', 'rtf')",
     "cat_ref": "S00295E",
     "work_ref": "W.S00295E",
     "title_tib": "DAM CAN CHOS KYI RGYAL PO PHYI SGRUB LA BRTEN NAS GTOR CHEN DRUG CU PA'I RNAM BZHAG RDO RJE GNAM LCAGS 'BAR BA'I PHRENG BA",
-    "title_eng": "'The String of Blazing Diamond Steel from the Sky,' being an Explanation of the Practice of the Sixty-Fold Torma Cake,in the Outer Practice for Reaching the King of the Dharma (Dharmaraja), a Protector Acting under Pledge",
+    "title_eng": "'The String of Blazing Diamond Steel from the Sky,' being an Explanation of the Practice of the Sixty-Fold Torma Cake,('in the Outer Practice for Reaching the King of the Dharma (Dharmaraja), a Protector Acting under Pledge& (&-&)', 'rtf')",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "",
     "subject": [
         {
-            "_id": "310664355975",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/DRUG CU PA_OFFERING OF THE SIXTY (SHASHTITAMA)/MCHOD PA_OFFERING",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/DRUG CU PA/MCHOD PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/OFFERING OF THE SIXTY (SHASHTITAMA)/OFFERING",
+            "_id": "590525354577",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DRUG CU PA_OFFERING OF THE SIXTY (SHASHTITAMA)/MCHOD PA_OFFERING",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/DRUG CU PA/MCHOD PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/OFFERING OF THE SIXTY (SHASHTITAMA)/OFFERING",
             "subject_tibetan": "MCHOD PA",
             "subject_english": "OFFERING"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/drug cu pa_offering of the sixty (shashtitama)/mchod pa_offering",
-            "timestamp": "2024-09-10T02:09:58.267284+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DRUG CU PA_OFFERING OF THE SIXTY (SHASHTITAMA)/MCHOD PA_OFFERING",
+            "timestamp": "2024-11-20 05:00:44.085244+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:00:44.085244+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

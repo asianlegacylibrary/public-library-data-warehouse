@@ -1,12 +1,12 @@
 {
     "name": "S00037N_RVA STOD BSDUS GRVA'I GLENG BRJOD, BOD SKAD_Tibetan Introduction to Rato Logic Primer_ RVA STOD SKYONG BLA SPRUL MING NGAG DBANG BLO BZANG (@-@).TXT",
-    "path": "tsad ma_study of accurate perception (sautrantika school)/bsdus grva_collected topics of logic/spyi_general treatments/rva stod bsdus grva_the collected topics of logic from ratu monastery/'grel pa_commentary",
-    "download_path": "/sungbum updated 4 26 23 bk/tsad ma_study of accurate perception (sautrantika school)/bsdus grva_collected topics of logic/spyi_general treatments/rva stod bsdus grva_the collected topics of logic from ratu monastery/'grel pa_commentary/s00037n_rva stod bsdus grva'i gleng brjod, bod skad_tibetan introduction to rato logic primer_ rva stod skyong bla sprul ming ngag dbang blo bzang (@-@).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAF-Q",
-    "revision_id": "613f66492f0638d294473",
+    "path": "TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/BSDUS GRVA_COLLECTED TOPICS OF LOGIC/SPYI_GENERAL TREATMENTS/RVA STOD BSDUS GRVA_THE COLLECTED TOPICS OF LOGIC FROM RATU MONASTERY/'GREL PA_COMMENTARY",
+    "download_path": "/sungbum updated 7 30 23 nl/tsad ma_study of accurate perception (sautrantika school)/bsdus grva_collected topics of logic/spyi_general treatments/rva stod bsdus grva_the collected topics of logic from ratu monastery/'grel pa_commentary/s00037n_rva stod bsdus grva'i gleng brjod, bod skad_tibetan introduction to rato logic primer_ rva stod skyong bla sprul ming ngag dbang blo bzang (@-@).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABQFg",
+    "revision_id": "625a47b5c8f018d294473",
     "content_hash": "1ff97660d91d0c4cb48bf552cfabef688d4c20825463afbc78130bc274d8dc16",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:07:07.298297",
+    "server_modified": "2024-10-29 21:43:54",
+    "last_sync": "2024-11-19 20:49:12.020414",
     "size": 6075,
     "meta_text": null,
     "cat_ref": "S00037N",
@@ -19,10 +19,10 @@
     "author_simple": "RVA STOD SKYONG BLA SPRUL MING NGAG DBANG BLO BZANG",
     "subject": [
         {
-            "_id": "329402659533",
-            "subject_path": "SUNGBUM_SUNGBUM/TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/BSDUS GRVA_COLLECTED TOPICS OF LOGIC/SPYI_GENERAL TREATMENTS/RVA STOD BSDUS GRVA_THE COLLECTED TOPICS OF LOGIC FROM RATU MONASTERY/'GREL PA_COMMENTARY",
-            "subject_path_tibetan": "SUNGBUM/TSAD MA/BSDUS GRVA/SPYI/RVA STOD BSDUS GRVA/'GREL PA",
-            "subject_path_english": "SUNGBUM/STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/COLLECTED TOPICS OF LOGIC/GENERAL TREATMENTS/THE COLLECTED TOPICS OF LOGIC FROM RATU MONASTERY/COMMENTARY",
+            "_id": "273353275842",
+            "subject_path": "GSUNG 'BUM_Sungbum/TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/BSDUS GRVA_COLLECTED TOPICS OF LOGIC/SPYI_GENERAL TREATMENTS/RVA STOD BSDUS GRVA_THE COLLECTED TOPICS OF LOGIC FROM RATU MONASTERY/'GREL PA_COMMENTARY",
+            "subject_path_tibetan": "GSUNG 'BUM/TSAD MA/BSDUS GRVA/SPYI/RVA STOD BSDUS GRVA/'GREL PA",
+            "subject_path_english": "Sungbum/STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/COLLECTED TOPICS OF LOGIC/GENERAL TREATMENTS/THE COLLECTED TOPICS OF LOGIC FROM RATU MONASTERY/COMMENTARY",
             "subject_tibetan": "'GREL PA",
             "subject_english": "COMMENTARY"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "tsad ma_study of accurate perception (sautrantika school)/bsdus grva_collected topics of logic/spyi_general treatments/rva stod bsdus grva_the collected topics of logic from ratu monastery/'grel pa_commentary",
-            "timestamp": "2024-09-10T02:07:07.311223+00:00"
+            "path": "GSUNG 'BUM_Sungbum/TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/BSDUS GRVA_COLLECTED TOPICS OF LOGIC/SPYI_GENERAL TREATMENTS/RVA STOD BSDUS GRVA_THE COLLECTED TOPICS OF LOGIC FROM RATU MONASTERY/'GREL PA_COMMENTARY",
+            "timestamp": "2024-11-20 04:49:12.671650+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:49:12.671650+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

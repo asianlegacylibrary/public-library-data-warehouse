@@ -1,12 +1,12 @@
 {
     "name": "S00405M_RTEN 'BREL SNYING PO'I KHRID YIG_A Treatise on the Essence of Dependence_'JU MI PHAM RGYA MTSO (1846-1912).TXT",
-    "path": "blo sbyong_developing the good heart/rten 'brel snying po'i khrid yig_a treatise on the essence of dependence (1846-1912)",
-    "download_path": "/sungbum updated 4 26 23 bk/blo sbyong_developing the good heart/rten 'brel snying po'i khrid yig_a treatise on the essence of dependence (1846-1912)/s00405m_rten 'brel snying po'i khrid yig_a treatise on the essence of dependence_'ju mi pham rgya mtso (1846-1912).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAATBg",
-    "revision_id": "613f6664744298d294473",
+    "path": "BLO SBYONG_DEVELOPING THE GOOD HEART/RTEN 'BREL SNYING PO'I KHRID YIG_A TREATISE ON THE ESSENCE OF DEPENDENCE (1846-1912)",
+    "download_path": "/sungbum updated 7 30 23 nl/blo sbyong_developing the good heart/rten 'brel snying po'i khrid yig_a treatise on the essence of dependence (1846-1912)/s00405m_rten 'brel snying po'i khrid yig_a treatise on the essence of dependence_'ju mi pham rgya mtso (1846-1912).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABlXQ",
+    "revision_id": "625a4ae993a508d294473",
     "content_hash": "8f8a0fc6b3ae220becefdb3f4073d033b294b144b38b909130b165b99e5fdcc3",
-    "server_modified": "2024-03-18T21:54:19",
-    "last_sync": "2024-09-09T19:20:43.076682",
+    "server_modified": "2024-10-29 21:58:14",
+    "last_sync": "2024-11-19 21:25:05.447477",
     "size": 10670,
     "meta_text": null,
     "cat_ref": "S00405M",
@@ -19,10 +19,10 @@
     "author_simple": "JU MI PHAM RGYA MTSO",
     "subject": [
         {
-            "_id": "117365072935",
-            "subject_path": "SUNGBUM_SUNGBUM/BLO SBYONG_DEVELOPING THE GOOD HEART/RTEN 'BREL SNYING PO'I KHRID YIG_A TREATISE ON THE ESSENCE OF DEPENDENCE (1846-1912)",
-            "subject_path_tibetan": "SUNGBUM/BLO SBYONG/RTEN 'BREL SNYING PO'I KHRID YIG",
-            "subject_path_english": "SUNGBUM/DEVELOPING THE GOOD HEART/A TREATISE ON THE ESSENCE OF DEPENDENCE (1846-1912)",
+            "_id": "256069948534",
+            "subject_path": "GSUNG 'BUM_Sungbum/BLO SBYONG_DEVELOPING THE GOOD HEART/RTEN 'BREL SNYING PO'I KHRID YIG_A TREATISE ON THE ESSENCE OF DEPENDENCE (1846-1912)",
+            "subject_path_tibetan": "GSUNG 'BUM/BLO SBYONG/RTEN 'BREL SNYING PO'I KHRID YIG",
+            "subject_path_english": "Sungbum/DEVELOPING THE GOOD HEART/A TREATISE ON THE ESSENCE OF DEPENDENCE (1846-1912)",
             "subject_tibetan": "RTEN 'BREL SNYING PO'I KHRID YIG",
             "subject_english": "A TREATISE ON THE ESSENCE OF DEPENDENCE (1846-1912)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P252"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "blo sbyong_developing the good heart/rten 'brel snying po'i khrid yig_a treatise on the essence of dependence (1846-1912)",
-            "timestamp": "2024-09-10T02:20:43.078799+00:00"
+            "path": "GSUNG 'BUM_Sungbum/BLO SBYONG_DEVELOPING THE GOOD HEART/RTEN 'BREL SNYING PO'I KHRID YIG_A TREATISE ON THE ESSENCE OF DEPENDENCE (1846-1912)",
+            "timestamp": "2024-11-20 05:25:05.451346+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:25:05.451346+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,12 +1,12 @@
 {
     "name": "S12147E_DUS LAS 'DAS PA'I SEMS CAN RNAMS LA PHAN THABS BYA TSUL TSE 'DAS YAR 'DREN_Guiding the Deceased to a Higher Place-- Instructions on How to Help those whose Lives have Passed_CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN (1806-@).TXT",
-    "path": "cho ga_rituals/byang chog_ritual of purification for the dead",
-    "download_path": "/sungbum updated 4 26 23 bk/cho ga_rituals/byang chog_ritual of purification for the dead/s12147e_dus las 'das pa'i sems can rnams la phan thabs bya tsul tse 'das yar 'dren_guiding the deceased to a higher place-- instructions on how to help those whose lives have passed_chos rje khal kha ngag dbang dpal ldan (1806-@).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAEfA",
-    "revision_id": "613f6644849a08d294473",
+    "path": "CHO GA_RITUALS/BYANG CHOG_RITUAL OF PURIFICATION FOR THE DEAD",
+    "download_path": "/sungbum updated 7 30 23 nl/cho ga_rituals/byang chog_ritual of purification for the dead/s12147e_dus las 'das pa'i sems can rnams la phan thabs bya tsul tse 'das yar 'dren_guiding the deceased to a higher place-- instructions on how to help those whose lives have passed_chos rje khal kha ngag dbang dpal ldan (1806-@).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABl5Q",
+    "revision_id": "625a4afc1083f8d294473",
     "content_hash": "6a68f92e9c570366343dbec4e14d779766c4c1d751a7ee083e72618d305d6948",
-    "server_modified": "2024-03-18T21:53:45",
-    "last_sync": "2024-09-09T19:05:43.780461",
+    "server_modified": "2024-10-29 21:58:33",
+    "last_sync": "2024-11-19 21:26:14.614066",
     "size": 12241,
     "meta_text": null,
     "cat_ref": "S12147E",
@@ -19,10 +19,10 @@
     "author_simple": "CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN",
     "subject": [
         {
-            "_id": "718835972109",
-            "subject_path": "SUNGBUM_SUNGBUM/CHO GA_RITUALS/BYANG CHOG_RITUAL OF PURIFICATION FOR THE DEAD",
-            "subject_path_tibetan": "SUNGBUM/CHO GA/BYANG CHOG",
-            "subject_path_english": "SUNGBUM/RITUALS/RITUAL OF PURIFICATION FOR THE DEAD",
+            "_id": "789950862786",
+            "subject_path": "GSUNG 'BUM_Sungbum/CHO GA_RITUALS/BYANG CHOG_RITUAL OF PURIFICATION FOR THE DEAD",
+            "subject_path_tibetan": "GSUNG 'BUM/CHO GA/BYANG CHOG",
+            "subject_path_english": "Sungbum/RITUALS/RITUAL OF PURIFICATION FOR THE DEAD",
             "subject_tibetan": "BYANG CHOG",
             "subject_english": "RITUAL OF PURIFICATION FOR THE DEAD"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P272"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "cho ga_rituals/byang chog_ritual of purification for the dead",
-            "timestamp": "2024-09-10T02:05:43.790862+00:00"
+            "path": "GSUNG 'BUM_Sungbum/CHO GA_RITUALS/BYANG CHOG_RITUAL OF PURIFICATION FOR THE DEAD",
+            "timestamp": "2024-11-20 05:26:14.619152+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:26:14.619152+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

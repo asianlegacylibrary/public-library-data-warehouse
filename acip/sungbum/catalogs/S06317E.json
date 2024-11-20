@@ -1,12 +1,12 @@
 {
     "name": "S06317E_SGROL MA MAndALA BZHI PA'I CHO GA MDOR BSDUS_A Brief Ritual for the Practice of the Four Secret Worlds of the Lady of Liberation (Tara)_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/mandal bzhi_ritual of the four secret worlds",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/mandal bzhi_ritual of the four secret worlds/s06317e_sgrol ma mandala bzhi pa'i cho ga mdor bsdus_a brief ritual for the practice of the four secret worlds of the lady of liberation (tara)_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAQIQ",
-    "revision_id": "613f665fcd5a68d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/MAndAL BZHI_RITUAL OF THE FOUR SECRET WORLDS",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/mandal bzhi_ritual of the four secret worlds/s06317e_sgrol ma mandala bzhi pa'i cho ga mdor bsdus_a brief ritual for the practice of the four secret worlds of the lady of liberation (tara)_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABYbg",
+    "revision_id": "625a48dcdbaef8d294473",
     "content_hash": "0ea800c4a9c12877052ad0fab1cffe6456eab9238ecb10f0399a74d463c53967",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:17:34.298062",
+    "server_modified": "2024-10-29 21:49:04",
+    "last_sync": "2024-11-19 21:02:21.069893",
     "size": 7819,
     "meta_text": null,
     "cat_ref": "S06317E",
@@ -19,11 +19,11 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "308948108358",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/MANDAL BZHI_RITUAL OF THE FOUR SECRET WORLDS",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SGROL MA/MANDAL BZHI",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/LADY OF LIBERATION (TARA)/RITUAL OF THE FOUR SECRET WORLDS",
-            "subject_tibetan": "MANDAL BZHI",
+            "_id": "218864984208",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/MAndAL BZHI_RITUAL OF THE FOUR SECRET WORLDS",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SGROL MA/MAndAL BZHI",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/LADY OF LIBERATION (TARA)/RITUAL OF THE FOUR SECRET WORLDS",
+            "subject_tibetan": "MAndAL BZHI",
             "subject_english": "RITUAL OF THE FOUR SECRET WORLDS"
         }
     ],
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/mandal bzhi_ritual of the four secret worlds",
-            "timestamp": "2024-09-10T02:17:34.304156+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/MAndAL BZHI_RITUAL OF THE FOUR SECRET WORLDS",
+            "timestamp": "2024-11-20 05:02:21.077647+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:02:21.077647+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

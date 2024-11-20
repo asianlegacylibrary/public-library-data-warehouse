@@ -1,28 +1,28 @@
 {
     "name": "S05574E_JE BTZUN THAMS CAD MKHYEN PA'I GSUNG 'BUM THOR BU LAS DKAR CHAG SNYAN DNGAGS RNAMS_A Collection of Poetry Associated with the Contents of Offering Shrines, from Assorted Writings found in the Collected Works of the Holy and Omniscient One_+.txt",
-    "path": "lha bzo_fine arts/mchod rten_stupas/gzung gzhug_installation of the contents of stupas",
-    "download_path": "/sungbum updated 4 26 23 bk/lha bzo_fine arts/mchod rten_stupas/gzung gzhug_installation of the contents of stupas/s05574e_je btzun thams cad mkhyen pa'i gsung 'bum thor bu las dkar chag snyan dngags rnams_a collection of poetry associated with the contents of offering shrines, from assorted writings found in the collected works of the holy and omniscient one_+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAASqQ",
-    "revision_id": "613f6664743cc8d294473",
+    "path": "LHA BZO_FINE ARTS/MCHOD RTEN_STUPAS/GZUNG GZHUG_INSTALLATION OF THE CONTENTS OF STUPAS",
+    "download_path": "/sungbum updated 7 30 23 nl/lha bzo_fine arts/mchod rten_stupas/gzung gzhug_installation of the contents of stupas/s05574e_je btzun thams cad mkhyen pa'i gsung 'bum thor bu las dkar chag snyan dngags rnams_a collection of poetry associated with the contents of offering shrines, from assorted writings found in the collected works of the holy and omniscient one_+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABRAQ",
+    "revision_id": "625a47d22c2a98d294473",
     "content_hash": "6c4be56c3979c0c19d1274763bc623777965225951573981644eb93a8c8066d0",
-    "server_modified": "2024-03-18T21:54:19",
-    "last_sync": "2024-09-09T19:20:22.764203",
+    "server_modified": "2024-10-29 21:44:24",
+    "last_sync": "2024-11-19 20:51:09.269002",
     "size": 83837,
-    "meta_text": "RGYAL BA DGE 'DUN RGYA MTSO (1476-1542)",
+    "meta_text": "(\"RGYAL BA DGE 'DUN RGYA MTSO (1476-1542)\", 'text')",
     "cat_ref": "S05574E",
     "work_ref": "W.S05574E",
     "title_tib": "JE BTZUN THAMS CAD MKHYEN PA'I GSUNG 'BUM THOR BU LAS DKAR CHAG SNYAN DNGAGS RNAMS",
-    "title_eng": "RGYAL BA DGE 'DUN RGYA MTSO (1476-1542)",
+    "title_eng": "(\"RGYAL BA DGE 'DUN RGYA MTSO (1476-1542)\", 'text')",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "",
     "subject": [
         {
-            "_id": "311768842350",
-            "subject_path": "SUNGBUM_SUNGBUM/LHA BZO_FINE ARTS/MCHOD RTEN_STUPAS/GZUNG GZHUG_INSTALLATION OF THE CONTENTS OF STUPAS",
-            "subject_path_tibetan": "SUNGBUM/LHA BZO/MCHOD RTEN/GZUNG GZHUG",
-            "subject_path_english": "SUNGBUM/FINE ARTS/STUPAS/INSTALLATION OF THE CONTENTS OF STUPAS",
+            "_id": "215722002423",
+            "subject_path": "GSUNG 'BUM_Sungbum/LHA BZO_FINE ARTS/MCHOD RTEN_STUPAS/GZUNG GZHUG_INSTALLATION OF THE CONTENTS OF STUPAS",
+            "subject_path_tibetan": "GSUNG 'BUM/LHA BZO/MCHOD RTEN/GZUNG GZHUG",
+            "subject_path_english": "Sungbum/FINE ARTS/STUPAS/INSTALLATION OF THE CONTENTS OF STUPAS",
             "subject_tibetan": "GZUNG GZHUG",
             "subject_english": "INSTALLATION OF THE CONTENTS OF STUPAS"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "lha bzo_fine arts/mchod rten_stupas/gzung gzhug_installation of the contents of stupas",
-            "timestamp": "2024-09-10T02:20:22.774695+00:00"
+            "path": "GSUNG 'BUM_Sungbum/LHA BZO_FINE ARTS/MCHOD RTEN_STUPAS/GZUNG GZHUG_INSTALLATION OF THE CONTENTS OF STUPAS",
+            "timestamp": "2024-11-20 04:51:09.900155+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:51:09.900155+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

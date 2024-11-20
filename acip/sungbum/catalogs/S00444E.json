@@ -1,12 +1,12 @@
 {
     "name": "S00444E_LAS BYANG RGYUN KHYER LAS BZHI LHUN GRUB_'Accomplishing the Four Actions, in a Spontaneous Way,' being a Regular Practice for Invoking the Sacred Activities of the Angels_@ (@-@).TXT",
-    "path": "rgyud_secret teachings (tantra)/rta mgrin_horse throat (hayagriva)/las byang_rite of sacred work",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/rta mgrin_horse throat (hayagriva)/las byang_rite of sacred work/s00444e_las byang rgyun khyer las bzhi lhun grub_'accomplishing the four actions, in a spontaneous way,' being a regular practice for invoking the sacred activities of the angels_@ (@-@).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAALtA",
-    "revision_id": "613f6652789cc8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/RTA MGRIN_HORSE THROAT (HAYAGRIVA)/LAS BYANG_RITE OF SACRED WORK",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/rta mgrin_horse throat (hayagriva)/las byang_rite of sacred work/s00444e_las byang rgyun khyer las bzhi lhun grub_'accomplishing the four actions, in a spontaneous way,' being a regular practice for invoking the sacred activities of the angels_@ (@-@).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABVWA",
+    "revision_id": "625a4884ceb008d294473",
     "content_hash": "39d9d12b5442be89d0e0278ffed405a152c22bfba46783da7b00d9466d24bfe1",
-    "server_modified": "2024-03-18T21:54:00",
-    "last_sync": "2024-09-09T19:12:52.325394",
+    "server_modified": "2024-10-29 21:47:31",
+    "last_sync": "2024-11-19 20:57:19.377152",
     "size": 15114,
     "meta_text": null,
     "cat_ref": "S00444E",
@@ -19,10 +19,10 @@
     "author_simple": "",
     "subject": [
         {
-            "_id": "203799749402",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/RTA MGRIN_HORSE THROAT (HAYAGRIVA)/LAS BYANG_RITE OF SACRED WORK",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/RTA MGRIN/LAS BYANG",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/HORSE THROAT (HAYAGRIVA)/RITE OF SACRED WORK",
+            "_id": "615950222765",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RTA MGRIN_HORSE THROAT (HAYAGRIVA)/LAS BYANG_RITE OF SACRED WORK",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/RTA MGRIN/LAS BYANG",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/HORSE THROAT (HAYAGRIVA)/RITE OF SACRED WORK",
             "subject_tibetan": "LAS BYANG",
             "subject_english": "RITE OF SACRED WORK"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/rta mgrin_horse throat (hayagriva)/las byang_rite of sacred work",
-            "timestamp": "2024-09-10T02:12:52.331023+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RTA MGRIN_HORSE THROAT (HAYAGRIVA)/LAS BYANG_RITE OF SACRED WORK",
+            "timestamp": "2024-11-20 04:57:19.381253+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:57:19.381253+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

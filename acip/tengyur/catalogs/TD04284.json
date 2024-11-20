@@ -1,45 +1,53 @@
 {
     "name": "TD04284_KA L'A PA'I 'GREL PA NYUNG NGU LAS SLOB MA LA PHAN PA ZHES BYA BA (Kalāpa Laghu Vṛtti Śiṣyahitā Nāma).txt",
-    "path": "TENGYUR_TENGYUR/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 2 (LE)",
+    "path": "12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 2 (LE)",
     "download_path": "/tengyur updated 10 31 24 ws/12 sgra mdo_study of sanskrit language (śabda)/vol 2 (le)/td04284_ka l'a pa'i 'grel pa nyung ngu las slob ma la phan pa zhes bya ba (kalāpa laghu vṛtti śiṣyahitā nāma).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACD7A",
     "revision_id": "62633e034d8768d294473",
     "content_hash": "26a0029da1cba03d0614cae50a53aede7aa11e38330f1750eedd51136b195e36",
     "server_modified": "2024-11-06 00:48:27",
-    "last_sync": "2024-11-13 02:00:16.140675+00:00",
+    "last_sync": "2024-11-20 04:01:18.791325",
     "size": 129149,
+    "meta_text": null,
     "cat_ref": "TD04284",
     "work_ref": "W.TD04284",
-    "title_tib": "KA L'A PA'I 'GREL PA NYUNG NGU LAS SLOB MA LA PHAN PA ZHES BYA BA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "131756914689",
-            "subject_path": "TENGYUR_TENGYUR/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 2 (LE)",
-            "subject_path_tibetan": "TENGYUR/SGRA MDO/2 (LE)",
-            "subject_path_english": "TENGYUR/Study of Sanskrit Language (Śabda)/VOL 2 (LE)",
-            "subject_tibetan": "2 (LE)",
-            "subject_english": "VOL 2 (LE)"
+            "_id": "325968936698",
+            "subject_path": "BSTAN 'GYUR_Tengyur/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 2 (LE)",
+            "subject_path_tibetan": "BSTAN 'GYUR/12 SGRA MDO/VOL 2 (LE)",
+            "subject_path_english": "Tengyur/Study of Sanskrit Language (Śabda)",
+            "subject_tibetan": "VOL 2 (LE)",
+            "subject_english": "Study of Sanskrit Language (Śabda)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Kalāpa Laghu Vṛtti Śiṣyahitā Nāma",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 2 (LE)",
+            "timestamp": "2024-11-20 12:01:18.799466+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T02:00:16.141974+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T12:01:18.799466+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 2 (LE)",
-            "timestamp": "2024-11-13 02:00:16.141974+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

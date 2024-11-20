@@ -1,12 +1,12 @@
 {
     "name": "S00232E_NAD PA'I DON DU SROG GLUD GTONG TSUL MDOR BSDUS SROG GLUD GTONG TSUL_Brief Description of a Ritual for Offering a Torma Effigy on behalf of a Sick Person_SKYABS RJE KHRI BYANG RIN PO CHE (1901-1981).TXT",
-    "path": "rgyud_secret teachings (tantra)/rta mgrin_horse throat (hayagriva)/srog glud_offering of a ransom to extend life",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/rta mgrin_horse throat (hayagriva)/srog glud_offering of a ransom to extend life/s00232e_nad pa'i don du srog glud gtong tsul mdor bsdus srog glud gtong tsul_brief description of a ritual for offering a torma effigy on behalf of a sick person_skyabs rje khri byang rin po che (1901-1981).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAALsg",
-    "revision_id": "613f6652789ca8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/RTA MGRIN_HORSE THROAT (HAYAGRIVA)/SROG GLUD_OFFERING OF A RANSOM TO EXTEND LIFE",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/rta mgrin_horse throat (hayagriva)/srog glud_offering of a ransom to extend life/s00232e_nad pa'i don du srog glud gtong tsul mdor bsdus srog glud gtong tsul_brief description of a ritual for offering a torma effigy on behalf of a sick person_skyabs rje khri byang rin po che (1901-1981).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABVYw",
+    "revision_id": "625a4885fb5598d294473",
     "content_hash": "b641ced848a020468d6824f0d8b95fcc0fd6c7a11731e2e922c93716ce8a13fe",
-    "server_modified": "2024-03-18T21:54:00",
-    "last_sync": "2024-09-09T19:12:52.005781",
+    "server_modified": "2024-10-29 21:47:33",
+    "last_sync": "2024-11-19 20:57:23.781046",
     "size": 4070,
     "meta_text": null,
     "cat_ref": "S00232E",
@@ -19,10 +19,10 @@
     "author_simple": "SKYABS RJE KHRI BYANG RIN PO CHE",
     "subject": [
         {
-            "_id": "266476495810",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/RTA MGRIN_HORSE THROAT (HAYAGRIVA)/SROG GLUD_OFFERING OF A RANSOM TO EXTEND LIFE",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/RTA MGRIN/SROG GLUD",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/HORSE THROAT (HAYAGRIVA)/OFFERING OF A RANSOM TO EXTEND LIFE",
+            "_id": "222343274872",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RTA MGRIN_HORSE THROAT (HAYAGRIVA)/SROG GLUD_OFFERING OF A RANSOM TO EXTEND LIFE",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/RTA MGRIN/SROG GLUD",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/HORSE THROAT (HAYAGRIVA)/OFFERING OF A RANSOM TO EXTEND LIFE",
             "subject_tibetan": "SROG GLUD",
             "subject_english": "OFFERING OF A RANSOM TO EXTEND LIFE"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P2596"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/rta mgrin_horse throat (hayagriva)/srog glud_offering of a ransom to extend life",
-            "timestamp": "2024-09-10T02:12:52.012997+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RTA MGRIN_HORSE THROAT (HAYAGRIVA)/SROG GLUD_OFFERING OF A RANSOM TO EXTEND LIFE",
+            "timestamp": "2024-11-20 04:57:23.786370+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:57:23.786370+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

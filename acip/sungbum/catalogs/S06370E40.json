@@ -1,12 +1,12 @@
 {
     "name": "S06370E40_'BYUNG BZHI GTOR MA'I TSE JI LTAR GLUD PA'I SKOR GYI DRI LAN_Response to a Question on How to do the Pouring when Making the Offering of a Torma Cake for Purifying the Four Elements_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/gtor ma_offering cake (bali)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/gtor ma_offering cake (bali)/s06370e40_'byung bzhi gtor ma'i tse ji ltar glud pa'i skor gyi dri lan_response to a question on how to do the pouring when making the offering of a torma cake for purifying the four elements_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAANpg",
-    "revision_id": "613f6656dee778d294473",
+    "path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "download_path": "/sungbum updated 7 30 23 nl/dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)/s06370e40_'byung bzhi gtor ma'i tse ji ltar glud pa'i skor gyi dri lan_response to a question on how to do the pouring when making the offering of a torma cake for purifying the four elements_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABTYQ",
+    "revision_id": "625a483680f608d294473",
     "content_hash": "aea8d3639de7edd87f6e4070bfe93841ac0eb420122ef50249a20857244df2fb",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:15:07.750588",
+    "server_modified": "2024-10-29 21:46:09",
+    "last_sync": "2024-11-19 20:53:57.184615",
     "size": 586,
     "meta_text": null,
     "cat_ref": "S06370E40",
@@ -19,20 +19,20 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "543190042798",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/GTOR MA_OFFERING CAKE (BALI)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/GTOR MA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/OFFERING CAKE (BALI)",
-            "subject_tibetan": "GTOR MA",
-            "subject_english": "OFFERING CAKE (BALI)"
-        },
-        {
-            "_id": "244831615226",
-            "subject_path": "SUNGBUM_SUNGBUM/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_tibetan": "SUNGBUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_english": "SUNGBUM/QUESTIONS AND ANSWERS",
+            "_id": "250883940513",
+            "subject_path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "GSUNG 'BUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "Sungbum/QUESTIONS AND ANSWERS",
             "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
             "subject_english": "QUESTIONS AND ANSWERS"
+        },
+        {
+            "_id": "102816338586",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/GTOR MA_OFFERING CAKE (BALI)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/GTOR MA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/OFFERING CAKE (BALI)",
+            "subject_tibetan": "GTOR MA",
+            "subject_english": "OFFERING CAKE (BALI)"
         }
     ],
     "items": [],
@@ -46,15 +46,29 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/gtor ma_offering cake (bali)",
-            "timestamp": "2024-09-10T02:15:07.800953+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "timestamp": "2024-11-20 04:54:07.140094+00:00"
         },
         {
-            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
-            "timestamp": "2024-09-10T02:21:49.583881+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/GTOR MA_OFFERING CAKE (BALI)",
+            "timestamp": "2024-11-20 05:04:02.186066+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:54:07.140094+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T05:04:02.186066+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "text"
 }

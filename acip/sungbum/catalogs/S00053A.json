@@ -1,12 +1,12 @@
 {
     "name": "S00053A_SPYI BSHAGS_General Confession_@ (@-@).TXT",
-    "path": "nyams len_personal practice/bshags pa_confession/author unknown",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/bshags pa_confession/author unknown/s00053a_spyi bshags_general confession_@ (@-@).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAA0w",
-    "revision_id": "613f663b87c1c8d294473",
+    "path": "'DUL BA_VOWED MORALITY (VINAYA)/SPYI BSHAGS_GENERAL CONFESSION",
+    "download_path": "/sungbum updated 7 30 23 nl/'dul ba_vowed morality (vinaya)/spyi bshags_general confession/s00053a_spyi bshags_general confession_@ (@-@).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABfFA",
+    "revision_id": "625a49de2708a8d294473",
     "content_hash": "8d2d902c31bdb1fbb32fa534207371678c63fb824ef8b243b17109485a32ced9",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:01:50.965537",
+    "server_modified": "2024-10-29 21:53:33",
+    "last_sync": "2024-11-19 21:13:40.877958",
     "size": 3044,
     "meta_text": null,
     "cat_ref": "S00053A",
@@ -19,20 +19,20 @@
     "author_simple": "",
     "subject": [
         {
-            "_id": "163112776788",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/BSHAGS PA_CONFESSION/AUTHOR UNKNOWN",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/BSHAGS PA/AUTHOR UNKNOWN",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/CONFESSION",
-            "subject_tibetan": "AUTHOR UNKNOWN",
-            "subject_english": "CONFESSION"
-        },
-        {
-            "_id": "139714720322",
-            "subject_path": "SUNGBUM_SUNGBUM/'DUL BA_VOWED MORALITY (VINAYA)/SPYI BSHAGS_GENERAL CONFESSION",
-            "subject_path_tibetan": "SUNGBUM/'DUL BA/SPYI BSHAGS",
-            "subject_path_english": "SUNGBUM/VOWED MORALITY (VINAYA)/GENERAL CONFESSION",
+            "_id": "330798610284",
+            "subject_path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/SPYI BSHAGS_GENERAL CONFESSION",
+            "subject_path_tibetan": "GSUNG 'BUM/'DUL BA/SPYI BSHAGS",
+            "subject_path_english": "Sungbum/VOWED MORALITY (VINAYA)/GENERAL CONFESSION",
             "subject_tibetan": "SPYI BSHAGS",
             "subject_english": "GENERAL CONFESSION"
+        },
+        {
+            "_id": "181975501194",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BSHAGS PA_CONFESSION/AUTHOR UNKNOWN",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/BSHAGS PA/AUTHOR UNKNOWN",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/CONFESSION",
+            "subject_tibetan": "AUTHOR UNKNOWN",
+            "subject_english": "CONFESSION"
         }
     ],
     "items": [],
@@ -46,15 +46,29 @@
             "bdrc_url": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/bshags pa_confession/author unknown",
-            "timestamp": "2024-09-10T02:01:50.977733+00:00"
+            "path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/SPYI BSHAGS_GENERAL CONFESSION",
+            "timestamp": "2024-11-20 05:13:40.882211+00:00"
         },
         {
-            "path": "'dul ba_vowed morality (vinaya)/spyi bshags_general confession",
-            "timestamp": "2024-09-10T02:04:51.074178+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BSHAGS PA_CONFESSION/AUTHOR UNKNOWN",
+            "timestamp": "2024-11-20 05:22:17.856889+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:13:40.882211+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T05:22:17.856889+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "text"
 }

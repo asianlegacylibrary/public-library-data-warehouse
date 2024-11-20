@@ -1,14 +1,14 @@
 {
     "name": "S06364E5_MA TI LUGS KYI 'JAM DKAR SHES RAB BLO 'PHEL GYI SGRUB THABS RJES GNANG BYA TSUL_Ritual for the Practice of Reaching, and Granting Permission into, the White Gentle Voice (Manjushri), ncreaser of Wisdom, according to the Tradition of Mati_DN +.TXT",
-    "path": "rgyud_secret teachings (tantra)/'jam dbyangs_gentle voice (manjughosha, manjushri)/sgrub thabs_ritual for reaching the angel (sadhana)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/'jam dbyangs_gentle voice (manjughosha, manjushri)/sgrub thabs_ritual for reaching the angel (sadhana)/s06364e5_ma ti lugs kyi 'jam dkar shes rab blo 'phel gyi sgrub thabs rjes gnang bya tsul_ritual for the practice of reaching, and granting permission into, the white gentle voice (manjushri), ncreaser of wisdom, according to the tradition of mati_dn +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAALcw",
-    "revision_id": "613f66527898b8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/'JAM DBYANGS_GENTLE VOICE (MANJUGHOSHA, MANJUSHRI)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/'jam dbyangs_gentle voice (manjughosha, manjushri)/sgrub thabs_ritual for reaching the angel (sadhana)/s06364e5_ma ti lugs kyi 'jam dkar shes rab blo 'phel gyi sgrub thabs rjes gnang bya tsul_ritual for the practice of reaching, and granting permission into, the white gentle voice (manjushri), ncreaser of wisdom, according to the tradition of mati_dn +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABYIA",
+    "revision_id": "625a48d4c3d458d294473",
     "content_hash": "f056f0be0210f30e061150635e7583702664b1a90f5ea84c1199a7a329518bf3",
-    "server_modified": "2024-03-18T21:54:00",
-    "last_sync": "2024-09-09T19:12:41.551141",
+    "server_modified": "2024-10-29 21:48:55",
+    "last_sync": "2024-11-19 21:01:53.165460",
     "size": 4861,
-    "meta_text": "GUL CHU DHARMA BHADRA (1772-1851)",
+    "meta_text": "('GUL CHU DHARMA BHADRA (1772-1851)', 'rtf')",
     "cat_ref": "S06364E5",
     "work_ref": "W.S06364E5",
     "title_tib": "MA TI LUGS KYI 'JAM DKAR SHES RAB BLO 'PHEL GYI SGRUB THABS RJES GNANG BYA TSUL",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "260910413370",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/'JAM DBYANGS_GENTLE VOICE (MANJUGHOSHA, MANJUSHRI)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/'JAM DBYANGS/SGRUB THABS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENTLE VOICE (MANJUGHOSHA, MANJUSHRI)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "_id": "203129263717",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JAM DBYANGS_GENTLE VOICE (MANJUGHOSHA, MANJUSHRI)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/'JAM DBYANGS/SGRUB THABS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENTLE VOICE (MANJUGHOSHA, MANJUSHRI)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
             "subject_tibetan": "SGRUB THABS",
             "subject_english": "RITUAL FOR REACHING THE ANGEL (SADHANA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/'jam dbyangs_gentle voice (manjughosha, manjushri)/sgrub thabs_ritual for reaching the angel (sadhana)",
-            "timestamp": "2024-09-10T02:12:41.582703+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JAM DBYANGS_GENTLE VOICE (MANJUGHOSHA, MANJUSHRI)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "timestamp": "2024-11-20 05:01:53.850883+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:01:53.850883+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

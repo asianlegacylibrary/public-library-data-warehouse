@@ -1,14 +1,14 @@
 {
     "name": "S12186E_MGON DKAR YID BZHIN NOR BU'I GTOR CHOG DGE LEGS KUN 'BYUNG_The Source of Virtue and Goodness-- A Ritual for the Offering of a Torma Cake to the White Protector, the Wish-Giving Jewel (Chintamani)_PAN CHEN BLA MA SKU PHRENG GNYIS PA BLO BZAN+.TXT",
-    "path": "rgyud_secret teachings (tantra)/yid bzhin 'khor lo_wish-giving wheel (chintamani chakra)/gtor ma_offering cake (bali)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/yid bzhin 'khor lo_wish-giving wheel (chintamani chakra)/gtor ma_offering cake (bali)/s12186e_mgon dkar yid bzhin nor bu'i gtor chog dge legs kun 'byung_the source of virtue and goodness-- a ritual for the offering of a torma cake to the white protector, the wish-giving jewel (chintamani)_pan chen bla ma sku phreng gnyis pa blo bzan+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAKzg",
-    "revision_id": "613f6652788e68d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/YID BZHIN 'KHOR LO_WISH-GIVING WHEEL (CHINTAMANI CHAKRA)/GTOR MA_OFFERING CAKE (BALI)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/yid bzhin 'khor lo_wish-giving wheel (chintamani chakra)/gtor ma_offering cake (bali)/s12186e_mgon dkar yid bzhin nor bu'i gtor chog dge legs kun 'byung_the source of virtue and goodness-- a ritual for the offering of a torma cake to the white protector, the wish-giving jewel (chintamani)_pan chen bla ma sku phreng gnyis pa blo bzan+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABc7Q",
+    "revision_id": "625a4986142c58d294473",
     "content_hash": "778a1687556813e8d485aa38ae42dc60e1f7fb2cc0bc30189d6dd7d4a176c553",
-    "server_modified": "2024-03-18T21:54:00",
-    "last_sync": "2024-09-09T19:11:57.135890",
+    "server_modified": "2024-10-29 21:52:01",
+    "last_sync": "2024-11-19 21:09:40.845830",
     "size": 20118,
-    "meta_text": "G YE SHES (1663-1737)",
+    "meta_text": "('G YE SHES (1663-1737)', 'rtf')",
     "cat_ref": "S12186E",
     "work_ref": "W.S12186E",
     "title_tib": "MGON DKAR YID BZHIN NOR BU'I GTOR CHOG DGE LEGS KUN 'BYUNG",
@@ -19,10 +19,10 @@
     "author_simple": "PAn CHEN BLA MA SKU PHRENG GNYIS PA BLO BZANG YE SHES",
     "subject": [
         {
-            "_id": "252552194676",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/YID BZHIN 'KHOR LO_WISH-GIVING WHEEL (CHINTAMANI CHAKRA)/GTOR MA_OFFERING CAKE (BALI)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/YID BZHIN 'KHOR LO/GTOR MA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/WISH-GIVING WHEEL (CHINTAMANI CHAKRA)/OFFERING CAKE (BALI)",
+            "_id": "688926365105",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/YID BZHIN 'KHOR LO_WISH-GIVING WHEEL (CHINTAMANI CHAKRA)/GTOR MA_OFFERING CAKE (BALI)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/YID BZHIN 'KHOR LO/GTOR MA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/WISH-GIVING WHEEL (CHINTAMANI CHAKRA)/OFFERING CAKE (BALI)",
             "subject_tibetan": "GTOR MA",
             "subject_english": "OFFERING CAKE (BALI)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P106"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/yid bzhin 'khor lo_wish-giving wheel (chintamani chakra)/gtor ma_offering cake (bali)",
-            "timestamp": "2024-09-10T02:11:57.145052+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/YID BZHIN 'KHOR LO_WISH-GIVING WHEEL (CHINTAMANI CHAKRA)/GTOR MA_OFFERING CAKE (BALI)",
+            "timestamp": "2024-11-20 05:09:40.850659+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:09:40.850659+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

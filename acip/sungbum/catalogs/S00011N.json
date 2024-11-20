@@ -1,12 +1,12 @@
 {
     "name": "S00011N_DRANG NGES RNAM 'BYED KYI MTHA' DPYOD_Dialectic Analysis of the Art of Interpretation_MKHAS GRUB BSTAN PA DAR RGYAS (1493-1568).TXT",
-    "path": "drang nges_art of interpretation/mkhas grub bstan pa dar rgyas_kedrup tenpa dargye (1493-1568)",
-    "download_path": "/sungbum updated 4 26 23 bk/drang nges_art of interpretation/mkhas grub bstan pa dar rgyas_kedrup tenpa dargye (1493-1568)/s00011n_drang nges rnam 'byed kyi mtha' dpyod_dialectic analysis of the art of interpretation_mkhas grub bstan pa dar rgyas (1493-1568).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAANw",
-    "revision_id": "613f663b87b808d294473",
+    "path": "DRANG NGES_ART OF INTERPRETATION/MKHAS GRUB BSTAN PA DAR RGYAS_KEDRUP TENPA DARGYE (1493-1568)",
+    "download_path": "/sungbum updated 7 30 23 nl/drang nges_art of interpretation/mkhas grub bstan pa dar rgyas_kedrup tenpa dargye (1493-1568)/s00011n_drang nges rnam 'byed kyi mtha' dpyod_dialectic analysis of the art of interpretation_mkhas grub bstan pa dar rgyas (1493-1568).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABSEw",
+    "revision_id": "625a480680a778d294473",
     "content_hash": "568a19bdca7f037b4a0a53f0749c09010c9599f319a0df556307aed08203f1c2",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:01:13.153466",
+    "server_modified": "2024-10-29 21:45:19",
+    "last_sync": "2024-11-19 20:53:08.895175",
     "size": 139303,
     "meta_text": null,
     "cat_ref": "S00011N",
@@ -19,10 +19,10 @@
     "author_simple": "MKHAS GRUB BSTAN PA DAR RGYAS",
     "subject": [
         {
-            "_id": "114390507511",
-            "subject_path": "SUNGBUM_SUNGBUM/DRANG NGES_ART OF INTERPRETATION/MKHAS GRUB BSTAN PA DAR RGYAS_KEDRUP TENPA DARGYE (1493-1568)",
-            "subject_path_tibetan": "SUNGBUM/DRANG NGES/MKHAS GRUB BSTAN PA DAR RGYAS",
-            "subject_path_english": "SUNGBUM/ART OF INTERPRETATION/KEDRUP TENPA DARGYE (1493-1568)",
+            "_id": "134850967033",
+            "subject_path": "GSUNG 'BUM_Sungbum/DRANG NGES_ART OF INTERPRETATION/MKHAS GRUB BSTAN PA DAR RGYAS_KEDRUP TENPA DARGYE (1493-1568)",
+            "subject_path_tibetan": "GSUNG 'BUM/DRANG NGES/MKHAS GRUB BSTAN PA DAR RGYAS",
+            "subject_path_english": "Sungbum/ART OF INTERPRETATION/KEDRUP TENPA DARGYE (1493-1568)",
             "subject_tibetan": "MKHAS GRUB BSTAN PA DAR RGYAS",
             "subject_english": "KEDRUP TENPA DARGYE (1493-1568)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P996"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "drang nges_art of interpretation/mkhas grub bstan pa dar rgyas_kedrup tenpa dargye (1493-1568)",
-            "timestamp": "2024-09-10T02:01:13.158033+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DRANG NGES_ART OF INTERPRETATION/MKHAS GRUB BSTAN PA DAR RGYAS_KEDRUP TENPA DARGYE (1493-1568)",
+            "timestamp": "2024-11-20 04:53:08.899036+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:53:08.899036+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

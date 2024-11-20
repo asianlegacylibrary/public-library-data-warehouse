@@ -1,28 +1,28 @@
 {
     "name": "S00560E_BLA MCHOD BDE STONG DBYER MED MA DANG 'BREL BA'I MKHA' 'GRO BRTAN BZHUGS 'BUL TSUL GYI ZIN BRIS_Notes to a Teaching on How to Perform a Ritual of Requesting a Holy Angel to Live a Long Life, in Conjunction with a Performance of the Offering +.TXT",
-    "path": "rgyud_secret teachings (tantra)/bla ma mchod pa_offering to lamas/'grel pa_commentaries",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/bla ma mchod pa_offering to lamas/'grel pa_commentaries/s00560e_bla mchod bde stong dbyer med ma dang 'brel ba'i mkha' 'gro brtan bzhugs 'bul tsul gyi zin bris_notes to a teaching on how to perform a ritual of requesting a holy angel to live a long life, in conjunction with a performance of the offering +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAL9A",
-    "revision_id": "613f6656decc58d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/BLA MA MCHOD PA_OFFERING TO LAMAS/'GREL PA_COMMENTARIES",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/bla ma mchod pa_offering to lamas/'grel pa_commentaries/s00560e_bla mchod bde stong dbyer med ma dang 'brel ba'i mkha' 'gro brtan bzhugs 'bul tsul gyi zin bris_notes to a teaching on how to perform a ritual of requesting a holy angel to live a long life, in conjunction with a performance of the offering +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABedA",
+    "revision_id": "625a49be6795e8d294473",
     "content_hash": "83b7c8a4eed0358df3f96c22accf14e03d33983f1e585f136646fc8aeeb16fce",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:13:09.536265",
+    "server_modified": "2024-10-29 21:53:00",
+    "last_sync": "2024-11-19 21:12:30.190009",
     "size": 1642,
-    "meta_text": "to Lamas entitled ‘Indivisible Bliss and Voidness’_CHE SHOS RIN PO CHE BLO BZANG BYANG CHUB BSTAN PA'I SGRON ME (1861-1933@)",
+    "meta_text": "(\"to Lamas entitled ‘Indivisible Bliss and Voidness’_CHE SHOS RIN PO CHE BLO BZANG BYANG CHUB BSTAN PA'I SGRON ME (1861-1933@)\", 'rtf')",
     "cat_ref": "S00560E",
     "work_ref": "W.S00560E",
     "title_tib": "BLA MCHOD BDE STONG DBYER MED MA DANG 'BREL BA'I MKHA' 'GRO BRTAN BZHUGS 'BUL TSUL GYI ZIN BRIS",
-    "title_eng": "Notes to a Teaching on How to Perform a Ritual of Requesting a Holy Angel to Live a Long Life, in Conjunction with a Performance of the Offeringto Lamas entitled ‘Indivisible Bliss and Voidness’",
+    "title_eng": "Notes to a Teaching on How to Perform a Ritual of Requesting a Holy Angel to Live a Long Life, in Conjunction with a Performance of the Offering(\"to Lamas entitled ‘Indivisible Bliss and Voidness’",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "CHE SHOS RIN PO CHE BLO BZANG BYANG CHUB BSTAN PA'I SGRON ME",
     "subject": [
         {
-            "_id": "256619765336",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/BLA MA MCHOD PA_OFFERING TO LAMAS/'GREL PA_COMMENTARIES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/BLA MA MCHOD PA/'GREL PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/OFFERING TO LAMAS/COMMENTARIES",
+            "_id": "192397078472",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BLA MA MCHOD PA_OFFERING TO LAMAS/'GREL PA_COMMENTARIES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/BLA MA MCHOD PA/'GREL PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/OFFERING TO LAMAS/COMMENTARIES",
             "subject_tibetan": "'GREL PA",
             "subject_english": "COMMENTARIES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P238"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/bla ma mchod pa_offering to lamas/'grel pa_commentaries",
-            "timestamp": "2024-09-10T02:13:09.588291+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BLA MA MCHOD PA_OFFERING TO LAMAS/'GREL PA_COMMENTARIES",
+            "timestamp": "2024-11-20 05:12:31.481150+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:12:31.481150+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

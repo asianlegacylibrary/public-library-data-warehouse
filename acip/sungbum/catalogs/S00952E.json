@@ -1,28 +1,28 @@
 {
     "name": "S00952E_MKHAS BTZUN BZANG PO'I BDAG NYID SGO MANG MKHAN RIN PO CHE BLO BZANG CHOS DAR BA'I ZHAL SNGA NAS KYI RTOGS PA BRJOD PA GZUR GNAS MKHAS PA'I DGA' STON_'Entertainment for the Unbiased Wise,' being an Account of the Spiritual Life of that Embo +.TXT",
-    "path": "rnam thar_biographies/mtsan thog_by person's name/blo bzang chos dar_lobsang chudar",
-    "download_path": "/sungbum updated 4 26 23 bk/rnam thar_biographies/mtsan thog_by person's name/blo bzang chos dar_lobsang chudar/s00952e_mkhas btzun bzang po'i bdag nyid sgo mang mkhan rin po che blo bzang chos dar ba'i zhal snga nas kyi rtogs pa brjod pa gzur gnas mkhas pa'i dga' ston_'entertainment for the unbiased wise,' being an account of the spiritual life of that embo +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAWrg",
-    "revision_id": "613f666d209ca8d294473",
+    "path": "RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/BLO BZANG CHOS DAR_LOBSANG CHUDAR",
+    "download_path": "/sungbum updated 7 30 23 nl/rnam thar_biographies/mtsan thog_by person's name/blo bzang chos dar_lobsang chudar/s00952e_mkhas btzun bzang po'i bdag nyid sgo mang mkhan rin po che blo bzang chos dar ba'i zhal snga nas kyi rtogs pa brjod pa gzur gnas mkhas pa'i dga' ston_'entertainment for the unbiased wise,' being an account of the spiritual life of that embo +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABgWw",
+    "revision_id": "625a4a1c0efd38d294473",
     "content_hash": "bda3141ee2893a954a7ef455443ad59b088e4f4f838daf8bca58a1692df5f9e3",
-    "server_modified": "2024-03-18T21:54:28",
-    "last_sync": "2024-09-09T19:23:55.547490",
+    "server_modified": "2024-10-29 21:54:38",
+    "last_sync": "2024-11-19 21:16:11.863301",
     "size": 130201,
-    "meta_text": "diment of Wisdom, Purity, and Excellence, His Eminence Lobsang Chudar, the Precious Abbot of Gomang College_GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME (1762-1823)",
+    "meta_text": "(\"diment of Wisdom, Purity, and Excellence, His Eminence Lobsang Chudar, the Precious Abbot of Gomang College_GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME (1762-1823)\", 'rtf')",
     "cat_ref": "S00952E",
     "work_ref": "W.S00952E",
     "title_tib": "MKHAS BTZUN BZANG PO'I BDAG NYID SGO MANG MKHAN RIN PO CHE BLO BZANG CHOS DAR BA'I ZHAL SNGA NAS KYI RTOGS PA BRJOD PA GZUR GNAS MKHAS PA'I DGA' STON",
-    "title_eng": "'Entertainment for the Unbiased Wise,' being an Account of the Spiritual Life of that Embodiment of Wisdom, Purity, and Excellence, His Eminence Lobsang Chudar, the Precious Abbot of Gomang College",
+    "title_eng": "'Entertainment for the Unbiased Wise,' being an Account of the Spiritual Life of that Embo(\"diment of Wisdom, Purity, and Excellence, His Eminence Lobsang Chudar, the Precious Abbot of Gomang College",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME",
     "subject": [
         {
-            "_id": "136765718308",
-            "subject_path": "SUNGBUM_SUNGBUM/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/BLO BZANG CHOS DAR_LOBSANG CHUDAR",
-            "subject_path_tibetan": "SUNGBUM/RNAM THAR/MTSAN THOG/BLO BZANG CHOS DAR",
-            "subject_path_english": "SUNGBUM/BIOGRAPHIES/BY PERSON'S NAME/LOBSANG CHUDAR",
+            "_id": "186689297782",
+            "subject_path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/BLO BZANG CHOS DAR_LOBSANG CHUDAR",
+            "subject_path_tibetan": "GSUNG 'BUM/RNAM THAR/MTSAN THOG/BLO BZANG CHOS DAR",
+            "subject_path_english": "Sungbum/BIOGRAPHIES/BY PERSON'S NAME/LOBSANG CHUDAR",
             "subject_tibetan": "BLO BZANG CHOS DAR",
             "subject_english": "LOBSANG CHUDAR"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P298"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rnam thar_biographies/mtsan thog_by person's name/blo bzang chos dar_lobsang chudar",
-            "timestamp": "2024-09-10T02:23:55.554100+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/BLO BZANG CHOS DAR_LOBSANG CHUDAR",
+            "timestamp": "2024-11-20 05:16:11.868547+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:16:11.868547+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

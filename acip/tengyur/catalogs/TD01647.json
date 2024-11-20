@@ -1,45 +1,53 @@
 {
     "name": "TD01647_RO BSREG PA'I SGRUB THABS KYI CHO GA (Śmaśāna Saṃskāra Sādhana Vidhi).txt",
-    "path": "TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/05 SGYU 'PHRUL CHEN MO_The Great Illusion (Mahāmāyā)/VOL 24 (YA)",
+    "path": "02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/05 SGYU 'PHRUL CHEN MO_The Great Illusion (Mahāmāyā)/VOL 24 (YA)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/01 rnal 'byor bla med_unsurpassed practice (anuttara yoga)/05 sgyu 'phrul chen mo_the great illusion (mahāmāyā)/vol 24 (ya)/td01647_ro bsreg pa'i sgrub thabs kyi cho ga (śmaśāna saṃskāra sādhana vidhi).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB-kg",
     "revision_id": "62633d117b9e88d294473",
     "content_hash": "e9564db3f972a8c18d55311068b118ff85105611d15f068618c3f4946aa6199e",
     "server_modified": "2024-11-06 00:44:13",
-    "last_sync": "2024-11-13 01:59:34.457383+00:00",
+    "last_sync": "2024-11-20 04:00:39.123117",
     "size": 10289,
+    "meta_text": null,
     "cat_ref": "TD01647",
     "work_ref": "W.TD01647",
-    "title_tib": "RO BSREG PA'I SGRUB THABS KYI CHO GA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "309633634535",
-            "subject_path": "TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/05 SGYU 'PHRUL CHEN MO_The Great Illusion (Mahāmāyā)/VOL 24 (YA)",
-            "subject_path_tibetan": "TENGYUR/RGYUD/RNAL 'BYOR BLA MED/SGYU 'PHRUL CHEN MO/24 (YA)",
-            "subject_path_english": "TENGYUR/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/The Great Illusion (Mahāmāyā)/VOL 24 (YA)",
-            "subject_tibetan": "24 (YA)",
-            "subject_english": "VOL 24 (YA)"
+            "_id": "231557071939",
+            "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/05 SGYU 'PHRUL CHEN MO_The Great Illusion (Mahāmāyā)/VOL 24 (YA)",
+            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/01 RNAL 'BYOR BLA MED/05 SGYU 'PHRUL CHEN MO/VOL 24 (YA)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/The Great Illusion (Mahāmāyā)",
+            "subject_tibetan": "VOL 24 (YA)",
+            "subject_english": "The Great Illusion (Mahāmāyā)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Śmaśāna Saṃskāra Sādhana Vidhi",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/05 SGYU 'PHRUL CHEN MO_The Great Illusion (Mahāmāyā)/VOL 24 (YA)",
+            "timestamp": "2024-11-20 12:00:39.142700+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:59:34.463061+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T12:00:39.142700+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/05 SGYU 'PHRUL CHEN MO_The Great Illusion (Mahāmāyā)/VOL 24 (YA)",
-            "timestamp": "2024-11-13 01:59:34.463061+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

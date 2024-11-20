@@ -1,12 +1,12 @@
 {
     "name": "S00397M_BLO SBYONG 'CHI KHA MA'I MAN NGAG_Instructions for Developing the Good Heart consisting of Private Advices to be_Followed at the Moment of Your Death_KHAM LUNG PA (1232-@).TXT",
-    "path": "blo sbyong_developing the good heart/blo sbyong 'chi kha ma_a practice of the good heart at the moment of death",
-    "download_path": "/sungbum updated 4 26 23 bk/blo sbyong_developing the good heart/blo sbyong 'chi kha ma_a practice of the good heart at the moment of death/s00397m_blo sbyong 'chi kha ma'i man ngag_instructions for developing the good heart consisting of private advices to be_followed at the moment of your death_kham lung pa (1232-@).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAATPw",
-    "revision_id": "613f6664744628d294473",
+    "path": "BLO SBYONG_DEVELOPING THE GOOD HEART/BLO SBYONG 'CHI KHA MA_A PRACTICE OF THE GOOD HEART AT THE MOMENT OF DEATH",
+    "download_path": "/sungbum updated 7 30 23 nl/blo sbyong_developing the good heart/blo sbyong 'chi kha ma_a practice of the good heart at the moment of death/s00397m_blo sbyong 'chi kha ma'i man ngag_instructions for developing the good heart consisting of private advices to be_followed at the moment of your death_kham lung pa (1232-@).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABljg",
+    "revision_id": "625a4aefaec268d294473",
     "content_hash": "7a1ead3889664711bf4c265207b6eb87e0ad67a761be8f649197b7a6eb8afe54",
-    "server_modified": "2024-03-18T21:54:19",
-    "last_sync": "2024-09-09T19:20:59.554429",
+    "server_modified": "2024-10-29 21:58:20",
+    "last_sync": "2024-11-19 21:25:30.763692",
     "size": 5992,
     "meta_text": null,
     "cat_ref": "S00397M",
@@ -19,10 +19,10 @@
     "author_simple": "",
     "subject": [
         {
-            "_id": "163766190600",
-            "subject_path": "SUNGBUM_SUNGBUM/BLO SBYONG_DEVELOPING THE GOOD HEART/BLO SBYONG 'CHI KHA MA_A PRACTICE OF THE GOOD HEART AT THE MOMENT OF DEATH",
-            "subject_path_tibetan": "SUNGBUM/BLO SBYONG/BLO SBYONG 'CHI KHA MA",
-            "subject_path_english": "SUNGBUM/DEVELOPING THE GOOD HEART/A PRACTICE OF THE GOOD HEART AT THE MOMENT OF DEATH",
+            "_id": "201063451449",
+            "subject_path": "GSUNG 'BUM_Sungbum/BLO SBYONG_DEVELOPING THE GOOD HEART/BLO SBYONG 'CHI KHA MA_A PRACTICE OF THE GOOD HEART AT THE MOMENT OF DEATH",
+            "subject_path_tibetan": "GSUNG 'BUM/BLO SBYONG/BLO SBYONG 'CHI KHA MA",
+            "subject_path_english": "Sungbum/DEVELOPING THE GOOD HEART/A PRACTICE OF THE GOOD HEART AT THE MOMENT OF DEATH",
             "subject_tibetan": "BLO SBYONG 'CHI KHA MA",
             "subject_english": "A PRACTICE OF THE GOOD HEART AT THE MOMENT OF DEATH"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "blo sbyong_developing the good heart/blo sbyong 'chi kha ma_a practice of the good heart at the moment of death",
-            "timestamp": "2024-09-10T02:20:59.557849+00:00"
+            "path": "GSUNG 'BUM_Sungbum/BLO SBYONG_DEVELOPING THE GOOD HEART/BLO SBYONG 'CHI KHA MA_A PRACTICE OF THE GOOD HEART AT THE MOMENT OF DEATH",
+            "timestamp": "2024-11-20 05:25:30.767836+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:25:30.767836+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

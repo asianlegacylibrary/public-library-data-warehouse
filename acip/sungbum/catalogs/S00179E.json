@@ -1,12 +1,12 @@
 {
     "name": "S00179E_TSOGS MCHOD KUN BZANG MCHOD SPRIN_Method of Making the Assembly of Offerings, entitled 'The Cloud of Excellent Offerings'_LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN (1642-1714).TXT",
-    "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/tsogs_circle of gathering (ganachakra)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/tsogs_circle of gathering (ganachakra)/s00179e_tsogs mchod kun bzang mchod sprin_method of making the assembly of offerings, entitled 'the cloud of excellent offerings'_lcang skya ngag dbang blo bzang chos ldan (1642-1714).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAO7g",
-    "revision_id": "613f665b611078d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/TSOGS_CIRCLE OF GATHERING (GANACHAKRA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/tsogs_circle of gathering (ganachakra)/s00179e_tsogs mchod kun bzang mchod sprin_method of making the assembly of offerings, entitled 'the cloud of excellent offerings'_lcang skya ngag dbang blo bzang chos ldan (1642-1714).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABUtA",
+    "revision_id": "625a486eeef368d294473",
     "content_hash": "6d19c520fd7cec7138077053d58a23922ea9919886059aec10d49506ca1e3172",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:16:15.065096",
+    "server_modified": "2024-10-29 21:47:08",
+    "last_sync": "2024-11-19 20:56:05.412663",
     "size": 21010,
     "meta_text": null,
     "cat_ref": "S00179E",
@@ -19,10 +19,10 @@
     "author_simple": "LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN",
     "subject": [
         {
-            "_id": "761926401509",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/TSOGS_CIRCLE OF GATHERING (GANACHAKRA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/BDE MCHOG/TSOGS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/CIRCLE OF GATHERING (GANACHAKRA)",
+            "_id": "384770496094",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/TSOGS_CIRCLE OF GATHERING (GANACHAKRA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/BDE MCHOG/TSOGS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/CIRCLE OF GATHERING (GANACHAKRA)",
             "subject_tibetan": "TSOGS",
             "subject_english": "CIRCLE OF GATHERING (GANACHAKRA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P209"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/tsogs_circle of gathering (ganachakra)",
-            "timestamp": "2024-09-10T02:16:15.070527+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/TSOGS_CIRCLE OF GATHERING (GANACHAKRA)",
+            "timestamp": "2024-11-20 04:56:06.874866+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:56:06.874866+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,12 +1,12 @@
 {
     "name": "S19021E_'JAM DBYANGS BZHAD PA'I RDO RJES MDZAD PA'I DRANG NGES RNAM 'BYED KYI ZIN BRIS_Notes by Jamyang Shepay Dorje on Distinguishing between the Literal and the Figurative_'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS (1648-1721).TXT",
-    "path": "drang nges_art of interpretation/'jam dbyangs bzhad pa ngag dbang brtzon 'grus_jamyang shepa ngawang tsundru (1648-1721)",
-    "download_path": "/sungbum updated 4 26 23 bk/drang nges_art of interpretation/'jam dbyangs bzhad pa ngag dbang brtzon 'grus_jamyang shepa ngawang tsundru (1648-1721)/s19021e_'jam dbyangs bzhad pa'i rdo rjes mdzad pa'i drang nges rnam 'byed kyi zin bris_notes by jamyang shepay dorje on distinguishing between the literal and the figurative_'jam dbyangs bzhad pa'i rdo rje ngag dbang brtzon 'grus (1648-1721).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAAHw",
-    "revision_id": "613f663b87b688d294473",
+    "path": "DRANG NGES_ART OF INTERPRETATION/'JAM DBYANGS BZHAD PA NGAG DBANG BRTZON 'GRUS_JAMYANG SHEPA NGAWANG TSUNDRU (1648-1721)",
+    "download_path": "/sungbum updated 7 30 23 nl/drang nges_art of interpretation/'jam dbyangs bzhad pa ngag dbang brtzon 'grus_jamyang shepa ngawang tsundru (1648-1721)/s19021e_'jam dbyangs bzhad pa'i rdo rjes mdzad pa'i drang nges rnam 'byed kyi zin bris_notes by jamyang shepay dorje on distinguishing between the literal and the figurative_'jam dbyangs bzhad pa'i rdo rje ngag dbang brtzon 'grus (1648-1721).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABSAg",
+    "revision_id": "625a4804fecd88d294473",
     "content_hash": "1a0475a4ad7bcfad9d8837eb3f092538e5f80743adb8d010610b49a896dfa013",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:01:06.096945",
+    "server_modified": "2024-10-29 21:45:17",
+    "last_sync": "2024-11-19 20:53:02.153073",
     "size": 56274,
     "meta_text": null,
     "cat_ref": "S19021E",
@@ -19,10 +19,10 @@
     "author_simple": "'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS",
     "subject": [
         {
-            "_id": "148617424859",
-            "subject_path": "SUNGBUM_SUNGBUM/DRANG NGES_ART OF INTERPRETATION/'JAM DBYANGS BZHAD PA NGAG DBANG BRTZON 'GRUS_JAMYANG SHEPA NGAWANG TSUNDRU (1648-1721)",
-            "subject_path_tibetan": "SUNGBUM/DRANG NGES/'JAM DBYANGS BZHAD PA NGAG DBANG BRTZON 'GRUS",
-            "subject_path_english": "SUNGBUM/ART OF INTERPRETATION/JAMYANG SHEPA NGAWANG TSUNDRU (1648-1721)",
+            "_id": "257798139101",
+            "subject_path": "GSUNG 'BUM_Sungbum/DRANG NGES_ART OF INTERPRETATION/'JAM DBYANGS BZHAD PA NGAG DBANG BRTZON 'GRUS_JAMYANG SHEPA NGAWANG TSUNDRU (1648-1721)",
+            "subject_path_tibetan": "GSUNG 'BUM/DRANG NGES/'JAM DBYANGS BZHAD PA NGAG DBANG BRTZON 'GRUS",
+            "subject_path_english": "Sungbum/ART OF INTERPRETATION/JAMYANG SHEPA NGAWANG TSUNDRU (1648-1721)",
             "subject_tibetan": "'JAM DBYANGS BZHAD PA NGAG DBANG BRTZON 'GRUS",
             "subject_english": "JAMYANG SHEPA NGAWANG TSUNDRU (1648-1721)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P423"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "drang nges_art of interpretation/'jam dbyangs bzhad pa ngag dbang brtzon 'grus_jamyang shepa ngawang tsundru (1648-1721)",
-            "timestamp": "2024-09-10T02:01:06.106529+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DRANG NGES_ART OF INTERPRETATION/'JAM DBYANGS BZHAD PA NGAG DBANG BRTZON 'GRUS_JAMYANG SHEPA NGAWANG TSUNDRU (1648-1721)",
+            "timestamp": "2024-11-20 04:53:02.941194+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:53:02.941194+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "rtf"
 }

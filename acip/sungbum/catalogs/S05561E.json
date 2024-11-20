@@ -1,14 +1,14 @@
 {
     "name": "S05561E_RJE BTZUN THAMS CAD MKHYEN PA'I GSUNG 'BUM THOR BU LAS GNAS BRTAN PHYAG MCHOD_A Ritual of Obeisance and Offering to the Sixteen Elders, from Assorted Writings found in the Collected Works of the Holy and Omniscient One_RGYAL BA DGE 'DUN RGYA +.txt",
-    "path": "rgyud_secret teachings (tantra)/gnas brtan bcu drug_sixteen elders/phyag mchod_offerings and prostrations",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/gnas brtan bcu drug_sixteen elders/phyag mchod_offerings and prostrations/s05561e_rje btzun thams cad mkhyen pa'i gsung 'bum thor bu las gnas brtan phyag mchod_a ritual of obeisance and offering to the sixteen elders, from assorted writings found in the collected works of the holy and omniscient one_rgyal ba dge 'dun rgya +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAPtA",
-    "revision_id": "613f665fcd5398d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/GNAS BRTAN BCU DRUG_SIXTEEN ELDERS/PHYAG MCHOD_OFFERINGS AND PROSTRATIONS",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/gnas brtan bcu drug_sixteen elders/phyag mchod_offerings and prostrations/s05561e_rje btzun thams cad mkhyen pa'i gsung 'bum thor bu las gnas brtan phyag mchod_a ritual of obeisance and offering to the sixteen elders, from assorted writings found in the collected works of the holy and omniscient one_rgyal ba dge 'dun rgya +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABc3A",
+    "revision_id": "625a4986142a58d294473",
     "content_hash": "256dd027e19c7b65a38df81350084cdd2bc5bde2cce6b144b2341a6c97d545df",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:17:09.920640",
+    "server_modified": "2024-10-29 21:52:01",
+    "last_sync": "2024-11-19 21:09:47.238622",
     "size": 12031,
-    "meta_text": null,
+    "meta_text": "('MTSO (1476-1542)', 'text')",
     "cat_ref": "S05561E",
     "work_ref": "W.S05561E",
     "title_tib": "RJE BTZUN THAMS CAD MKHYEN PA'I GSUNG 'BUM THOR BU LAS GNAS BRTAN PHYAG MCHOD",
@@ -19,10 +19,10 @@
     "author_simple": "RGYAL BA DGE 'DUN RGYA MTSO",
     "subject": [
         {
-            "_id": "297805412558",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/GNAS BRTAN BCU DRUG_SIXTEEN ELDERS/PHYAG MCHOD_OFFERINGS AND PROSTRATIONS",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/GNAS BRTAN BCU DRUG/PHYAG MCHOD",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/SIXTEEN ELDERS/OFFERINGS AND PROSTRATIONS",
+            "_id": "301230715782",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GNAS BRTAN BCU DRUG_SIXTEEN ELDERS/PHYAG MCHOD_OFFERINGS AND PROSTRATIONS",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/GNAS BRTAN BCU DRUG/PHYAG MCHOD",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/SIXTEEN ELDERS/OFFERINGS AND PROSTRATIONS",
             "subject_tibetan": "PHYAG MCHOD",
             "subject_english": "OFFERINGS AND PROSTRATIONS"
         }
@@ -31,18 +31,26 @@
     "author": [
         {
             "author_name": "RGYAL BA DGE 'DUN RGYA MTSO",
-            "author_birth": null,
-            "author_death": null,
+            "author_birth": "1476",
+            "author_death": "1542",
             "bdrc_id": "bdr:P84",
             "normalized_name": "RGYAL BA DGE 'DUN RGYA MTSO",
             "bdrc_url": "http://purl.bdrc.io/resource/P84"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/gnas brtan bcu drug_sixteen elders/phyag mchod_offerings and prostrations",
-            "timestamp": "2024-09-10T02:17:09.922939+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GNAS BRTAN BCU DRUG_SIXTEEN ELDERS/PHYAG MCHOD_OFFERINGS AND PROSTRATIONS",
+            "timestamp": "2024-11-20 05:09:47.248254+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:09:47.248254+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

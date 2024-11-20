@@ -1,14 +1,14 @@
 {
     "name": "S00148M_THOG MTHA' BAR DU DGE BA'I SMON LAM GYI DGONGS DON GSAL BAR BYED PA LEGS BSHAD SGRON ME_The 'Lamp of Fine Explanation,' being an Illumination of the True Thought of 'The Prayer for Goodness at the Beginning , the Middle, and End'_LCANG SKYA +.TXT",
-    "path": "nyams len_personal practice/smon lam_making prayers/lcang skya ngag dbang blo bzang chos ldan_changkya ngawang lobsang chunden (1642-1714)",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/smon lam_making prayers/lcang skya ngag dbang blo bzang chos ldan_changkya ngawang lobsang chunden (1642-1714)/s00148m_thog mtha' bar du dge ba'i smon lam gyi dgongs don gsal bar byed pa legs bshad sgron me_the 'lamp of fine explanation,' being an illumination of the true thought of 'the prayer for goodness at the beginning , the middle, and end'_lcang skya +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAACNw",
-    "revision_id": "613f663ffc72a8d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN_CHANGKYA NGAWANG LOBSANG CHUNDEN (1642-1714)",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/smon lam_making prayers/lcang skya ngag dbang blo bzang chos ldan_changkya ngawang lobsang chunden (1642-1714)/s00148m_thog mtha' bar du dge ba'i smon lam gyi dgongs don gsal bar byed pa legs bshad sgron me_the 'lamp of fine explanation,' being an illumination of the true thought of 'the prayer for goodness at the beginning , the middle, and end'_lcang skya +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABkXQ",
+    "revision_id": "625a4ace8bb188d294473",
     "content_hash": "7a8b7624d8829ebd55fba4c4112ac31a4b65da36629e4647cef0dc64c621b9b3",
-    "server_modified": "2024-03-18T21:53:40",
-    "last_sync": "2024-09-09T19:03:26.362991",
+    "server_modified": "2024-10-29 21:57:46",
+    "last_sync": "2024-11-19 21:23:15.845416",
     "size": 20026,
-    "meta_text": "NGAG DBANG BLO BZANG CHOS LDAN (1642-1714)",
+    "meta_text": "('NGAG DBANG BLO BZANG CHOS LDAN (1642-1714)', 'rtf')",
     "cat_ref": "S00148M",
     "work_ref": "W.S00148M",
     "title_tib": "THOG MTHA' BAR DU DGE BA'I SMON LAM GYI DGONGS DON GSAL BAR BYED PA LEGS BSHAD SGRON ME",
@@ -19,10 +19,10 @@
     "author_simple": "LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN",
     "subject": [
         {
-            "_id": "186311844006",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN_CHANGKYA NGAWANG LOBSANG CHUNDEN (1642-1714)",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/SMON LAM/LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/MAKING PRAYERS/CHANGKYA NGAWANG LOBSANG CHUNDEN (1642-1714)",
+            "_id": "517101284995",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN_CHANGKYA NGAWANG LOBSANG CHUNDEN (1642-1714)",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/SMON LAM/LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/MAKING PRAYERS/CHANGKYA NGAWANG LOBSANG CHUNDEN (1642-1714)",
             "subject_tibetan": "LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN",
             "subject_english": "CHANGKYA NGAWANG LOBSANG CHUNDEN (1642-1714)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P209"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/smon lam_making prayers/lcang skya ngag dbang blo bzang chos ldan_changkya ngawang lobsang chunden (1642-1714)",
-            "timestamp": "2024-09-10T02:03:26.380392+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN_CHANGKYA NGAWANG LOBSANG CHUNDEN (1642-1714)",
+            "timestamp": "2024-11-20 05:23:15.851380+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:23:15.851380+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

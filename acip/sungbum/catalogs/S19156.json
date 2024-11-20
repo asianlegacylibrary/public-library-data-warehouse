@@ -1,12 +1,12 @@
 {
     "name": "S19156_DBU MA RTZA BA'I 'GREL PA 'THAD PA'I SNANG BA.txt",
-    "path": "dbu ma_middle-way philosophy (madhyamika prasangika school)/rtza ba shes rab gyi 'grel pa_commentaries on the root text called \"wisdom\" (mulaprajna)/red mda' ba gzhon nu blo gros (1349-1412)",
-    "download_path": "/sungbum updated 4 26 23 bk/dbu ma_middle-way philosophy (madhyamika prasangika school)/rtza ba shes rab gyi 'grel pa_commentaries on the root text called \"wisdom\" (mulaprajna)/red mda' ba gzhon nu blo gros (1349-1412)/s19156_dbu ma rtza ba'i 'grel pa 'thad pa'i snang ba.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAEaw",
-    "revision_id": "613f66448498f8d294473",
+    "path": "DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/RTZA BA SHES RAB GYI 'GREL PA_COMMENTARIES ON THE ROOT TEXT CALLED \"WISDOM\" (MULAPRAJNA)/RED MDA' BA GZHON NU BLO GROS (1349-1412)",
+    "download_path": "/sungbum updated 7 30 23 nl/dbu ma_middle-way philosophy (madhyamika prasangika school)/rtza ba shes rab gyi 'grel pa_commentaries on the root text called \"wisdom\" (mulaprajna)/red mda' ba gzhon nu blo gros (1349-1412)/s19156_dbu ma rtza ba'i 'grel pa 'thad pa'i snang ba.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABRmQ",
+    "revision_id": "625a47ef3973d8d294473",
     "content_hash": "759ccb366ee9c9e11bd1ff0523493c3ef58029afa8624ba5cb5bbf26cb0e6100",
-    "server_modified": "2024-03-18T21:53:45",
-    "last_sync": "2024-09-09T19:05:40.255318",
+    "server_modified": "2024-10-29 21:44:55",
+    "last_sync": "2024-11-19 20:52:01.360154",
     "size": 484615,
     "meta_text": null,
     "cat_ref": "S19156",
@@ -19,10 +19,10 @@
     "author_simple": "",
     "subject": [
         {
-            "_id": "823942020683",
-            "subject_path": "SUNGBUM_SUNGBUM/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/RTZA BA SHES RAB GYI 'GREL PA_COMMENTARIES ON THE ROOT TEXT CALLED \"WISDOM\" (MULAPRAJNA)/RED MDA' BA GZHON NU BLO GROS (1349-1412)",
-            "subject_path_tibetan": "SUNGBUM/DBU MA/RTZA BA SHES RAB GYI 'GREL PA/RED MDA' BA GZHON NU BLO GROS (1349-1412)",
-            "subject_path_english": "SUNGBUM/MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/COMMENTARIES ON THE ROOT TEXT CALLED \"WISDOM\" (MULAPRAJNA)",
+            "_id": "224635659308",
+            "subject_path": "GSUNG 'BUM_Sungbum/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/RTZA BA SHES RAB GYI 'GREL PA_COMMENTARIES ON THE ROOT TEXT CALLED \"WISDOM\" (MULAPRAJNA)/RED MDA' BA GZHON NU BLO GROS (1349-1412)",
+            "subject_path_tibetan": "GSUNG 'BUM/DBU MA/RTZA BA SHES RAB GYI 'GREL PA/RED MDA' BA GZHON NU BLO GROS (1349-1412)",
+            "subject_path_english": "Sungbum/MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/COMMENTARIES ON THE ROOT TEXT CALLED \"WISDOM\" (MULAPRAJNA)",
             "subject_tibetan": "RED MDA' BA GZHON NU BLO GROS (1349-1412)",
             "subject_english": "COMMENTARIES ON THE ROOT TEXT CALLED \"WISDOM\" (MULAPRAJNA)"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "dbu ma_middle-way philosophy (madhyamika prasangika school)/rtza ba shes rab gyi 'grel pa_commentaries on the root text called \"wisdom\" (mulaprajna)/red mda' ba gzhon nu blo gros (1349-1412)",
-            "timestamp": "2024-09-10T02:05:40.260814+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/RTZA BA SHES RAB GYI 'GREL PA_COMMENTARIES ON THE ROOT TEXT CALLED \"WISDOM\" (MULAPRAJNA)/RED MDA' BA GZHON NU BLO GROS (1349-1412)",
+            "timestamp": "2024-11-20 04:52:01.364601+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:52:01.364601+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

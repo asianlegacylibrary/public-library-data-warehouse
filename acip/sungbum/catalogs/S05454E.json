@@ -1,12 +1,12 @@
 {
     "name": "S05454E_BSTAN BCOS TSAD MA RNAM NGES KYI t'IK CHEN DGONGS PA RAB GSAL GYI SMAD CHA_The Second Part of \"Illumination of the True Thought,\" the Great Commentary on the Classical Commentary Entitled \"Ascertaining Accurate Perception\"_RGYAL TSAB RJE DAR M.TXT",
-    "path": "tsad ma_study of accurate perception (sautrantika school)/tsad ma rnam nges (pramāṇa viniścaya)_ascertaining accurate perception",
-    "download_path": "/sungbum updated 4 26 23 bk/tsad ma_study of accurate perception (sautrantika school)/tsad ma rnam nges (pramāṇa viniścaya)_ascertaining accurate perception/s05454e_bstan bcos tsad ma rnam nges kyi t'ik chen dgongs pa rab gsal gyi smad cha_the second part of \"illumination of the true thought,\" the great commentary on the classical commentary entitled \"ascertaining accurate perception\"_rgyal tsab rje dar m.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAFiA",
-    "revision_id": "613f664484aac8d294473",
+    "path": "TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/TSAD MA RNAM NGES (Pramāṇa Viniścaya)_ASCERTAINING ACCURATE PERCEPTION",
+    "download_path": "/sungbum updated 7 30 23 nl/tsad ma_study of accurate perception (sautrantika school)/tsad ma rnam nges (pramāṇa viniścaya)_ascertaining accurate perception/s05454e_bstan bcos tsad ma rnam nges kyi t'ik chen dgongs pa rab gsal gyi smad cha_the second part of \"illumination of the true thought,\" the great commentary on the classical commentary entitled \"ascertaining accurate perception\"_rgyal tsab rje dar m.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABQYg",
+    "revision_id": "625a47c04d1c78d294473",
     "content_hash": "fc14d6213e09d78d6bbc61f84fd25a0ec5b3ad4f6cbfe757b6991cf7ba57a987",
-    "server_modified": "2024-03-18T21:53:45",
-    "last_sync": "2024-09-09T19:06:39.003584",
+    "server_modified": "2024-10-29 21:44:05",
+    "last_sync": "2024-11-19 20:49:44.031496",
     "size": 725194,
     "meta_text": null,
     "cat_ref": "S05454E",
@@ -19,11 +19,11 @@
     "author_simple": "RGYAL TSAB DAR MA RIN CHEN",
     "subject": [
         {
-            "_id": "256676613026",
-            "subject_path": "SUNGBUM_SUNGBUM/TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/TSAD MA RNAM NGES (PRAMĀṆA VINIŚCAYA)_ASCERTAINING ACCURATE PERCEPTION",
-            "subject_path_tibetan": "SUNGBUM/TSAD MA/TSAD MA RNAM NGES (PRAMĀṆA VINIŚCAYA)",
-            "subject_path_english": "SUNGBUM/STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/ASCERTAINING ACCURATE PERCEPTION",
-            "subject_tibetan": "TSAD MA RNAM NGES (PRAMĀṆA VINIŚCAYA)",
+            "_id": "105560484548",
+            "subject_path": "GSUNG 'BUM_Sungbum/TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/TSAD MA RNAM NGES (Pramāṇa Viniścaya)_ASCERTAINING ACCURATE PERCEPTION",
+            "subject_path_tibetan": "GSUNG 'BUM/TSAD MA/TSAD MA RNAM NGES (Pramāṇa Viniścaya)",
+            "subject_path_english": "Sungbum/STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/ASCERTAINING ACCURATE PERCEPTION",
+            "subject_tibetan": "TSAD MA RNAM NGES (Pramāṇa Viniścaya)",
             "subject_english": "ASCERTAINING ACCURATE PERCEPTION"
         }
     ],
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P65"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "tsad ma_study of accurate perception (sautrantika school)/tsad ma rnam nges (pramāṇa viniścaya)_ascertaining accurate perception",
-            "timestamp": "2024-09-10T02:06:39.018600+00:00"
+            "path": "GSUNG 'BUM_Sungbum/TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/TSAD MA RNAM NGES (Pramāṇa Viniścaya)_ASCERTAINING ACCURATE PERCEPTION",
+            "timestamp": "2024-11-20 04:49:44.038005+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:49:44.038005+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

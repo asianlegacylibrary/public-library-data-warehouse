@@ -1,12 +1,12 @@
 {
     "name": "S06370MG9_ZAB 'KHRID ZHU BA'I LAN_Response to a Request for Teaching_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
-    "download_path": "/sungbum updated 4 26 23 bk/dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)/s06370mg9_zab 'khrid zhu ba'i lan_response to a request for teaching_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAUjQ",
-    "revision_id": "613f6668765f38d294473",
+    "path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "download_path": "/sungbum updated 7 30 23 nl/dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)/s06370mg9_zab 'khrid zhu ba'i lan_response to a request for teaching_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABTTg",
+    "revision_id": "625a48329e3c58d294473",
     "content_hash": "8f877f6b3fcd77ed1603ac49405ec2a0ab2e8563966492a685b3c7e66a3b1b5f",
-    "server_modified": "2024-03-18T21:54:23",
-    "last_sync": "2024-09-09T19:21:49.401166",
+    "server_modified": "2024-10-29 21:46:05",
+    "last_sync": "2024-11-19 20:53:54.013696",
     "size": 414,
     "meta_text": null,
     "cat_ref": "S06370MG9",
@@ -19,18 +19,18 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "244831615226",
-            "subject_path": "SUNGBUM_SUNGBUM/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_tibetan": "SUNGBUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_english": "SUNGBUM/QUESTIONS AND ANSWERS",
+            "_id": "250883940513",
+            "subject_path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "GSUNG 'BUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "Sungbum/QUESTIONS AND ANSWERS",
             "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
             "subject_english": "QUESTIONS AND ANSWERS"
         },
         {
-            "_id": "258788113524",
-            "subject_path": "SUNGBUM_SUNGBUM/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
-            "subject_path_tibetan": "SUNGBUM/RNAM THAR/MTSAN THOG/DNGUL CHU DHARMA BHADRA",
-            "subject_path_english": "SUNGBUM/BIOGRAPHIES/BY PERSON'S NAME/NGULCHU DHARMA BHADRA (1772-1851)",
+            "_id": "334443335207",
+            "subject_path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "GSUNG 'BUM/RNAM THAR/MTSAN THOG/DNGUL CHU DHARMA BHADRA",
+            "subject_path_english": "Sungbum/BIOGRAPHIES/BY PERSON'S NAME/NGULCHU DHARMA BHADRA (1772-1851)",
             "subject_tibetan": "DNGUL CHU DHARMA BHADRA",
             "subject_english": "NGULCHU DHARMA BHADRA (1772-1851)"
         }
@@ -46,15 +46,29 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
-            "timestamp": "2024-09-10T02:21:49.618090+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "timestamp": "2024-11-20 04:54:07.139402+00:00"
         },
         {
-            "path": "rnam thar_biographies/mtsan thog_by person's name/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)",
-            "timestamp": "2024-09-10T02:23:50.034315+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
+            "timestamp": "2024-11-20 05:15:49.402897+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:54:07.139402+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T05:15:49.402897+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "text"
 }

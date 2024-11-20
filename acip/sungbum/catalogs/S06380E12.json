@@ -1,12 +1,12 @@
 {
     "name": "S06380E12_BSTAN SKYONG RDO RJE DRAG RGYAL MA LA MCHOD GTOR 'BUL TSUL_Method of Making a Torma-Cake Offering to the Guardian of the Teachings known as the Woman of Victory, the Fierce One of Diamond_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/rdo rje drag_fierce one of diamond (vajrachanda)/gtor ma_offering cake (bali)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/rdo rje drag_fierce one of diamond (vajrachanda)/gtor ma_offering cake (bali)/s06380e12_bstan skyong rdo rje drag rgyal ma la mchod gtor 'bul tsul_method of making a torma-cake offering to the guardian of the teachings known as the woman of victory, the fierce one of diamond_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAJnA",
-    "revision_id": "613f664dc43b88d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE DRAG_FIERCE ONE OF DIAMOND (VAJRACHANDA)/GTOR MA_OFFERING CAKE (BALI)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/rdo rje drag_fierce one of diamond (vajrachanda)/gtor ma_offering cake (bali)/s06380e12_bstan skyong rdo rje drag rgyal ma la mchod gtor 'bul tsul_method of making a torma-cake offering to the guardian of the teachings known as the woman of victory, the fierce one of diamond_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABX5A",
+    "revision_id": "625a48ced0ca18d294473",
     "content_hash": "5d76076a3452eb98b68792ce516823e72550522dde9728131b5c0c28c0d407f0",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:10:39.474974",
+    "server_modified": "2024-10-29 21:48:49",
+    "last_sync": "2024-11-19 21:01:40.817654",
     "size": 3223,
     "meta_text": null,
     "cat_ref": "S06380E12",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "862467259436",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE DRAG_FIERCE ONE OF DIAMOND (VAJRACHANDA)/GTOR MA_OFFERING CAKE (BALI)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/RDO RJE DRAG/GTOR MA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/FIERCE ONE OF DIAMOND (VAJRACHANDA)/OFFERING CAKE (BALI)",
+            "_id": "155283143337",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE DRAG_FIERCE ONE OF DIAMOND (VAJRACHANDA)/GTOR MA_OFFERING CAKE (BALI)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/RDO RJE DRAG/GTOR MA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/FIERCE ONE OF DIAMOND (VAJRACHANDA)/OFFERING CAKE (BALI)",
             "subject_tibetan": "GTOR MA",
             "subject_english": "OFFERING CAKE (BALI)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/rdo rje drag_fierce one of diamond (vajrachanda)/gtor ma_offering cake (bali)",
-            "timestamp": "2024-09-10T02:10:39.490191+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE DRAG_FIERCE ONE OF DIAMOND (VAJRACHANDA)/GTOR MA_OFFERING CAKE (BALI)",
+            "timestamp": "2024-11-20 05:01:40.822168+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:01:40.822168+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

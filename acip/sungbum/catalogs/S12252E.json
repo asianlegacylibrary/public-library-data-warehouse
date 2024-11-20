@@ -1,28 +1,28 @@
 {
     "name": "S12252E_RGYUD GRVA RI KHROD SGRUB KHANG GSUM GYI NANG RTEN DU MA'I LO RGYUS DAD PA'I PADMO BZHAD PA'I 'OD STONG_A Thousand Rays of Light that Open the Lotus of Faith-- The Story of a Great Many Shrines inside the Three of the Tantric College; the H +.TXT",
-    "path": "nyams len_personal practice/mchod rten sogs kyi dkar chag_catalogs of the contents of stupas and other holy objects",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/mchod rten sogs kyi dkar chag_catalogs of the contents of stupas and other holy objects/s12252e_rgyud grva ri khrod sgrub khang gsum gyi nang rten du ma'i lo rgyus dad pa'i padmo bzhad pa'i 'od stong_a thousand rays of light that open the lotus of faith-- the story of a great many shrines inside the three of the tantric college; the h +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAB2A",
-    "revision_id": "613f663b87d218d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/MCHOD RTEN SOGS KYI DKAR CHAG_CATALOGS OF THE CONTENTS OF STUPAS AND OTHER HOLY OBJECTS",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/mchod rten sogs kyi dkar chag_catalogs of the contents of stupas and other holy objects/s12252e_rgyud grva ri khrod sgrub khang gsum gyi nang rten du ma'i lo rgyus dad pa'i padmo bzhad pa'i 'od stong_a thousand rays of light that open the lotus of faith-- the story of a great many shrines inside the three of the tantric college; the h +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABk6Q",
+    "revision_id": "625a4add702c38d294473",
     "content_hash": "d04f8d893a1992407e8b17a7c9d48ddcd824a451a42ab84657c681c8c6fe69ed",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:03:01.519046",
+    "server_modified": "2024-10-29 21:58:01",
+    "last_sync": "2024-11-19 21:24:09.855039",
     "size": 86811,
-    "meta_text": "ermitage; and the Meditation Huts_RJE BTZUN BLO BZANG RTA DBYANGS (1867-1937)",
+    "meta_text": "('ermitage; and the Meditation Huts_RJE BTZUN BLO BZANG RTA DBYANGS (1867-1937)', 'rtf')",
     "cat_ref": "S12252E",
     "work_ref": "W.S12252E",
     "title_tib": "RGYUD GRVA RI KHROD SGRUB KHANG GSUM GYI NANG RTEN DU MA'I LO RGYUS DAD PA'I PADMO BZHAD PA'I 'OD STONG",
-    "title_eng": "A Thousand Rays of Light that Open the Lotus of Faith-- The Story of a Great Many Shrines inside the Three of the Tantric College; the Hermitage; and the Meditation Huts",
+    "title_eng": "A Thousand Rays of Light that Open the Lotus of Faith-- The Story of a Great Many Shrines inside the Three of the Tantric College; the H('ermitage; and the Meditation Huts",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "RJE BTZUN BLO BZANG RTA DBYANGS",
     "subject": [
         {
-            "_id": "118006205888",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/MCHOD RTEN SOGS KYI DKAR CHAG_CATALOGS OF THE CONTENTS OF STUPAS AND OTHER HOLY OBJECTS",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/MCHOD RTEN SOGS KYI DKAR CHAG",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/CATALOGS OF THE CONTENTS OF STUPAS AND OTHER HOLY OBJECTS",
+            "_id": "113396248353",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/MCHOD RTEN SOGS KYI DKAR CHAG_CATALOGS OF THE CONTENTS OF STUPAS AND OTHER HOLY OBJECTS",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/MCHOD RTEN SOGS KYI DKAR CHAG",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/CATALOGS OF THE CONTENTS OF STUPAS AND OTHER HOLY OBJECTS",
             "subject_tibetan": "MCHOD RTEN SOGS KYI DKAR CHAG",
             "subject_english": "CATALOGS OF THE CONTENTS OF STUPAS AND OTHER HOLY OBJECTS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P1638"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/mchod rten sogs kyi dkar chag_catalogs of the contents of stupas and other holy objects",
-            "timestamp": "2024-09-10T02:03:01.545712+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/MCHOD RTEN SOGS KYI DKAR CHAG_CATALOGS OF THE CONTENTS OF STUPAS AND OTHER HOLY OBJECTS",
+            "timestamp": "2024-11-20 05:24:09.861874+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:24:09.861874+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

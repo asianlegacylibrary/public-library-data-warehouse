@@ -1,12 +1,12 @@
 {
     "name": "S06308E_BKA' GDAMS THIG LE BCU DRUG GI BSTOD GZUNGS MDOR BSDUS BYA TSUL_A Brief Ritual for the Praise in Secret Words, in the Teaching of the Sixteen Drops of the Kadampas_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/thig le bcu drug_sixteen drops/bstod pa_songs of praise (stotra)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/thig le bcu drug_sixteen drops/bstod pa_songs of praise (stotra)/s06308e_bka' gdams thig le bcu drug gi bstod gzungs mdor bsdus bya tsul_a brief ritual for the praise in secret words, in the teaching of the sixteen drops of the kadampas_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAP1A",
-    "revision_id": "613f665fcd5598d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/THIG LE BCU DRUG_SIXTEEN DROPS/BSTOD PA_SONGS OF PRAISE (STOTRA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/thig le bcu drug_sixteen drops/bstod pa_songs of praise (stotra)/s06308e_bka' gdams thig le bcu drug gi bstod gzungs mdor bsdus bya tsul_a brief ritual for the praise in secret words, in the teaching of the sixteen drops of the kadampas_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABaiw",
+    "revision_id": "625a492e12a5e8d294473",
     "content_hash": "e16d4bea3944c4dc0797d2e576f41cf355d87a1ad13cd5ee23f8f89d76b199ff",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:17:17.127442",
+    "server_modified": "2024-10-29 21:50:29",
+    "last_sync": "2024-11-19 21:06:18.995577",
     "size": 4591,
     "meta_text": null,
     "cat_ref": "S06308E",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "897961987695",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/THIG LE BCU DRUG_SIXTEEN DROPS/BSTOD PA_SONGS OF PRAISE (STOTRA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/THIG LE BCU DRUG/BSTOD PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/SIXTEEN DROPS/SONGS OF PRAISE (STOTRA)",
+            "_id": "188612868773",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/THIG LE BCU DRUG_SIXTEEN DROPS/BSTOD PA_SONGS OF PRAISE (STOTRA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/THIG LE BCU DRUG/BSTOD PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/SIXTEEN DROPS/SONGS OF PRAISE (STOTRA)",
             "subject_tibetan": "BSTOD PA",
             "subject_english": "SONGS OF PRAISE (STOTRA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/thig le bcu drug_sixteen drops/bstod pa_songs of praise (stotra)",
-            "timestamp": "2024-09-10T02:17:17.130320+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/THIG LE BCU DRUG_SIXTEEN DROPS/BSTOD PA_SONGS OF PRAISE (STOTRA)",
+            "timestamp": "2024-11-20 05:06:18.999664+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:06:18.999664+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,12 +1,12 @@
 {
     "name": "S05977M38_STON PA'I CHO 'PHRUL GYI MDZAD PA LA BSTOD PA_Words in Praise of the Miracles Wrought by the Teacher_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662).TXT",
-    "path": "bstod pa_eulogies (stotra)/to be identified",
-    "download_path": "/sungbum updated 4 26 23 bk/bstod pa_eulogies (stotra)/to be identified/s05977m38_ston pa'i cho 'phrul gyi mdzad pa la bstod pa_words in praise of the miracles wrought by the teacher_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAFQw",
-    "revision_id": "613f664484a678d294473",
+    "path": "BSTOD PA_EULOGIES (STOTRA)/TO BE IDENTIFIED",
+    "download_path": "/sungbum updated 7 30 23 nl/bstod pa_eulogies (stotra)/to be identified/s05977m38_ston pa'i cho 'phrul gyi mdzad pa la bstod pa_words in praise of the miracles wrought by the teacher_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABQfQ",
+    "revision_id": "625a47c2fe23e8d294473",
     "content_hash": "65fd61fd047d3412f138e8c7331f4bebe3d18b0ece0cf4616a1b831d950fb717",
-    "server_modified": "2024-03-18T21:53:45",
-    "last_sync": "2024-09-09T19:06:23.598506",
+    "server_modified": "2024-10-29 21:44:08",
+    "last_sync": "2024-11-19 20:49:58.807416",
     "size": 4434,
     "meta_text": null,
     "cat_ref": "S05977M38",
@@ -19,10 +19,10 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "152386107902",
-            "subject_path": "SUNGBUM_SUNGBUM/BSTOD PA_EULOGIES (STOTRA)/TO BE IDENTIFIED",
-            "subject_path_tibetan": "SUNGBUM/BSTOD PA/TO BE IDENTIFIED",
-            "subject_path_english": "SUNGBUM/EULOGIES (STOTRA)",
+            "_id": "110331015698",
+            "subject_path": "GSUNG 'BUM_Sungbum/BSTOD PA_EULOGIES (STOTRA)/TO BE IDENTIFIED",
+            "subject_path_tibetan": "GSUNG 'BUM/BSTOD PA/TO BE IDENTIFIED",
+            "subject_path_english": "Sungbum/EULOGIES (STOTRA)",
             "subject_tibetan": "TO BE IDENTIFIED",
             "subject_english": "EULOGIES (STOTRA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "bstod pa_eulogies (stotra)/to be identified",
-            "timestamp": "2024-09-10T02:06:23.607853+00:00"
+            "path": "GSUNG 'BUM_Sungbum/BSTOD PA_EULOGIES (STOTRA)/TO BE IDENTIFIED",
+            "timestamp": "2024-11-20 04:49:59.753244+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:49:59.753244+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

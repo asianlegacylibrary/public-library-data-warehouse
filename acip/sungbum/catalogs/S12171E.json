@@ -1,14 +1,14 @@
 {
     "name": "S12171E_LAM GYI GTZO BO RNAM GSUM GYI RNAM BSHAD GSUNG RAB KUN GYI GNAD BSDUS PA LEGS BSHAD SNYING PO_The Essence of Eloquence-- An Explanation of the 'Three Principal Paths' which Captures the Crucial Points of All Scripture_PAN CHEN BLA MA SKU PHR+.TXT",
-    "path": "lam rim_steps of the path/lam gtzo rnam gsum_the three principal paths/'grel pa_commentaries",
-    "download_path": "/sungbum updated 4 26 23 bk/lam rim_steps of the path/lam gtzo rnam gsum_the three principal paths/'grel pa_commentaries/s12171e_lam gyi gtzo bo rnam gsum gyi rnam bshad gsung rab kun gyi gnad bsdus pa legs bshad snying po_the essence of eloquence-- an explanation of the 'three principal paths' which captures the crucial points of all scripture_pan chen bla ma sku phr+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAHHA",
-    "revision_id": "613f66492f1868d294473",
+    "path": "LAM RIM_STEPS OF THE PATH/LAM GTZO RNAM GSUM_THE THREE PRINCIPAL PATHS/'GREL PA_COMMENTARIES",
+    "download_path": "/sungbum updated 7 30 23 nl/lam rim_steps of the path/lam gtzo rnam gsum_the three principal paths/'grel pa_commentaries/s12171e_lam gyi gtzo bo rnam gsum gyi rnam bshad gsung rab kun gyi gnad bsdus pa legs bshad snying po_the essence of eloquence-- an explanation of the 'three principal paths' which captures the crucial points of all scripture_pan chen bla ma sku phr+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABh4g",
+    "revision_id": "625a4a74f303c8d294473",
     "content_hash": "5939c034377061d010d220f6fcb6d7683f8503cfb40ce452c2dd9750bcf2eae6",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:08:14.314525",
+    "server_modified": "2024-10-29 21:56:12",
+    "last_sync": "2024-11-19 21:18:38.633145",
     "size": 165233,
-    "meta_text": "ENG GNYIS PA BLO BZANG YE SHES (1663-1737)",
+    "meta_text": "('ENG GNYIS PA BLO BZANG YE SHES (1663-1737)', 'rtf')",
     "cat_ref": "S12171E",
     "work_ref": "W.S12171E",
     "title_tib": "LAM GYI GTZO BO RNAM GSUM GYI RNAM BSHAD GSUNG RAB KUN GYI GNAD BSDUS PA LEGS BSHAD SNYING PO",
@@ -19,10 +19,10 @@
     "author_simple": "PAn CHEN BLA MA SKU PHRENG GNYIS PA BLO BZANG YE SHES",
     "subject": [
         {
-            "_id": "201489212720",
-            "subject_path": "SUNGBUM_SUNGBUM/LAM RIM_STEPS OF THE PATH/LAM GTZO RNAM GSUM_THE THREE PRINCIPAL PATHS/'GREL PA_COMMENTARIES",
-            "subject_path_tibetan": "SUNGBUM/LAM RIM/LAM GTZO RNAM GSUM/'GREL PA",
-            "subject_path_english": "SUNGBUM/STEPS OF THE PATH/THE THREE PRINCIPAL PATHS/COMMENTARIES",
+            "_id": "272221214828",
+            "subject_path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/LAM GTZO RNAM GSUM_THE THREE PRINCIPAL PATHS/'GREL PA_COMMENTARIES",
+            "subject_path_tibetan": "GSUNG 'BUM/LAM RIM/LAM GTZO RNAM GSUM/'GREL PA",
+            "subject_path_english": "Sungbum/STEPS OF THE PATH/THE THREE PRINCIPAL PATHS/COMMENTARIES",
             "subject_tibetan": "'GREL PA",
             "subject_english": "COMMENTARIES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P106"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "lam rim_steps of the path/lam gtzo rnam gsum_the three principal paths/'grel pa_commentaries",
-            "timestamp": "2024-09-10T02:08:14.378728+00:00"
+            "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/LAM GTZO RNAM GSUM_THE THREE PRINCIPAL PATHS/'GREL PA_COMMENTARIES",
+            "timestamp": "2024-11-20 05:18:39.275897+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:18:39.275897+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

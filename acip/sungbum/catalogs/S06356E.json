@@ -1,28 +1,28 @@
 {
     "name": "S06356E_'BYUNG BZHI GTOR MA'I BSHAD 'KHRID LEGS BSHAD GSANG BA'I DGA' STON MTHONG BA 'DZUM SHOR_The 'Excellent Explanation, a Secret Entertainment to Bring Smiles of Enjoyment to All who Behold It,' being an Instruction on How to Present the Torma-C+.TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/gtor ma_offering cake (bali)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/gtor ma_offering cake (bali)/s06356e_'byung bzhi gtor ma'i bshad 'khrid legs bshad gsang ba'i dga' ston mthong ba 'dzum shor_the 'excellent explanation, a secret entertainment to bring smiles of enjoyment to all who behold it,' being an instruction on how to present the torma-c+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAANrQ",
-    "revision_id": "613f6656dee7e8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/GTOR MA_OFFERING CAKE (BALI)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyi_general treatments/gtor ma_offering cake (bali)/s06356e_'byung bzhi gtor ma'i bshad 'khrid legs bshad gsang ba'i dga' ston mthong ba 'dzum shor_the 'excellent explanation, a secret entertainment to bring smiles of enjoyment to all who behold it,' being an instruction on how to present the torma-c+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABZVA",
+    "revision_id": "625a4901e3f328d294473",
     "content_hash": "4f8241f35388dac0d8110a9524216ce5657b7aa92a69c609b01d617aab9ffd66",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:15:07.760390",
+    "server_modified": "2024-10-29 21:49:43",
+    "last_sync": "2024-11-19 21:03:52.416157",
     "size": 30386,
-    "meta_text": "ake Offering to Restore the Four Elements_DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "meta_text": "('ake Offering to Restore the Four Elements_DNGUL CHU DHARMA BHADRA (1772-1851)', 'rtf')",
     "cat_ref": "S06356E",
     "work_ref": "W.S06356E",
     "title_tib": "'BYUNG BZHI GTOR MA'I BSHAD 'KHRID LEGS BSHAD GSANG BA'I DGA' STON MTHONG BA 'DZUM SHOR",
-    "title_eng": "The 'Excellent Explanation, a Secret Entertainment to Bring Smiles of Enjoyment to All who Behold It,' being an Instruction on How to Present the Torma-Cake Offering to Restore the Four Elements",
+    "title_eng": "The 'Excellent Explanation, a Secret Entertainment to Bring Smiles of Enjoyment to All who Behold It,' being an Instruction on How to Present the Torma-C('ake Offering to Restore the Four Elements",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "543190042798",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/GTOR MA_OFFERING CAKE (BALI)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/GTOR MA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/OFFERING CAKE (BALI)",
+            "_id": "102816338586",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/GTOR MA_OFFERING CAKE (BALI)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/GTOR MA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/OFFERING CAKE (BALI)",
             "subject_tibetan": "GTOR MA",
             "subject_english": "OFFERING CAKE (BALI)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/gtor ma_offering cake (bali)",
-            "timestamp": "2024-09-10T02:15:07.802774+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/GTOR MA_OFFERING CAKE (BALI)",
+            "timestamp": "2024-11-20 05:04:02.184578+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:04:02.184578+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

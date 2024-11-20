@@ -1,12 +1,12 @@
 {
     "name": "S05541E_CHOS RGYAL YAB YUM GYI BSKANG GSO BSTOD BSKUL DANG BCAS PA_Ritual of Fulfillment and Restoration for the Father and Mother in the Practice of the King of All Things, along with Praise and Supplication_RGYAL BA DGE 'DUN GRUB (1391-1474).txt",
-    "path": "rgyud_secret teachings (tantra)/chos rgyal_king of all things (dharmaraja)/bskang gso_ritual of fulfillment and restoration",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/chos rgyal_king of all things (dharmaraja)/bskang gso_ritual of fulfillment and restoration/s05541e_chos rgyal yab yum gyi bskang gso bstod bskul dang bcas pa_ritual of fulfillment and restoration for the father and mother in the practice of the king of all things, along with praise and supplication_rgyal ba dge 'dun grub (1391-1474).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAKZg",
-    "revision_id": "613f66527887e8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/CHOS RGYAL_KING OF ALL THINGS (DHARMARAJA)/BSKANG GSO_RITUAL OF FULFILLMENT AND RESTORATION",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/chos rgyal_king of all things (dharmaraja)/bskang gso_ritual of fulfillment and restoration/s05541e_chos rgyal yab yum gyi bskang gso bstod bskul dang bcas pa_ritual of fulfillment and restoration for the father and mother in the practice of the king of all things, along with praise and supplication_rgyal ba dge 'dun grub (1391-1474).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABdFw",
+    "revision_id": "625a498aa5cf88d294473",
     "content_hash": "4af12cb6c22e0d3e0dacc40c274b2fb0be5bd5defaec809021dffecac512985e",
-    "server_modified": "2024-03-18T21:54:00",
-    "last_sync": "2024-09-09T19:11:22.670137",
+    "server_modified": "2024-10-29 21:52:06",
+    "last_sync": "2024-11-19 21:10:06.760982",
     "size": 20464,
     "meta_text": null,
     "cat_ref": "S05541E",
@@ -19,10 +19,10 @@
     "author_simple": "RGYAL BA DGE 'DUN GRUB",
     "subject": [
         {
-            "_id": "132662089389",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/CHOS RGYAL_KING OF ALL THINGS (DHARMARAJA)/BSKANG GSO_RITUAL OF FULFILLMENT AND RESTORATION",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/CHOS RGYAL/BSKANG GSO",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/KING OF ALL THINGS (DHARMARAJA)/RITUAL OF FULFILLMENT AND RESTORATION",
+            "_id": "317127167424",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/CHOS RGYAL_KING OF ALL THINGS (DHARMARAJA)/BSKANG GSO_RITUAL OF FULFILLMENT AND RESTORATION",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/CHOS RGYAL/BSKANG GSO",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/KING OF ALL THINGS (DHARMARAJA)/RITUAL OF FULFILLMENT AND RESTORATION",
             "subject_tibetan": "BSKANG GSO",
             "subject_english": "RITUAL OF FULFILLMENT AND RESTORATION"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P80"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/chos rgyal_king of all things (dharmaraja)/bskang gso_ritual of fulfillment and restoration",
-            "timestamp": "2024-09-10T02:11:22.676174+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/CHOS RGYAL_KING OF ALL THINGS (DHARMARAJA)/BSKANG GSO_RITUAL OF FULFILLMENT AND RESTORATION",
+            "timestamp": "2024-11-20 05:10:06.765675+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:10:06.765675+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

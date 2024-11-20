@@ -1,12 +1,12 @@
 {
     "name": "S00413M_JO BO'I BLO SBYONG DON BDUN MA_Seven Points of Instruction for Developing the Good Heart, as Taught by Lord Atisha_DPAL MAR ME MDZAD YE SHES (AA T'I SHA) (982-1052).TXT",
-    "path": "blo sbyong_developing the good heart/blo sbyong jo bo'i blo sbyong don bdun ma_lord atisha's seven-point practice for developing the good heart",
-    "download_path": "/sungbum updated 4 26 23 bk/blo sbyong_developing the good heart/blo sbyong jo bo'i blo sbyong don bdun ma_lord atisha's seven-point practice for developing the good heart/s00413m_jo bo'i blo sbyong don bdun ma_seven points of instruction for developing the good heart, as taught by lord atisha_dpal mar me mdzad ye shes (aa t'i sha) (982-1052).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAATTA",
-    "revision_id": "613f66647446f8d294473",
+    "path": "BLO SBYONG_DEVELOPING THE GOOD HEART/BLO SBYONG JO BO'I BLO SBYONG DON BDUN MA_LORD ATISHA'S SEVEN-POINT PRACTICE FOR DEVELOPING THE GOOD HEART",
+    "download_path": "/sungbum updated 7 30 23 nl/blo sbyong_developing the good heart/blo sbyong jo bo'i blo sbyong don bdun ma_lord atisha's seven-point practice for developing the good heart/s00413m_jo bo'i blo sbyong don bdun ma_seven points of instruction for developing the good heart, as taught by lord atisha_dpal mar me mdzad ye shes (aa t'i sha) (982-1052).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABlFw",
+    "revision_id": "625a4ae2f8fc48d294473",
     "content_hash": "77d0f1aff09c08e693bea01a1f5908fc3d03dcff9a9e7f5a073ad271fbb2b99a",
-    "server_modified": "2024-03-18T21:54:19",
-    "last_sync": "2024-09-09T19:21:01.673121",
+    "server_modified": "2024-10-29 21:58:07",
+    "last_sync": "2024-11-19 21:24:30.702326",
     "size": 17132,
     "meta_text": null,
     "cat_ref": "S00413M",
@@ -19,10 +19,10 @@
     "author_simple": "DPAL MAR ME MDZAD YE SHES",
     "subject": [
         {
-            "_id": "824360582611",
-            "subject_path": "SUNGBUM_SUNGBUM/BLO SBYONG_DEVELOPING THE GOOD HEART/BLO SBYONG JO BO'I BLO SBYONG DON BDUN MA_LORD ATISHA'S SEVEN-POINT PRACTICE FOR DEVELOPING THE GOOD HEART",
-            "subject_path_tibetan": "SUNGBUM/BLO SBYONG/BLO SBYONG JO BO'I BLO SBYONG DON BDUN MA",
-            "subject_path_english": "SUNGBUM/DEVELOPING THE GOOD HEART/LORD ATISHA'S SEVEN-POINT PRACTICE FOR DEVELOPING THE GOOD HEART",
+            "_id": "138254350983",
+            "subject_path": "GSUNG 'BUM_Sungbum/BLO SBYONG_DEVELOPING THE GOOD HEART/BLO SBYONG JO BO'I BLO SBYONG DON BDUN MA_LORD ATISHA'S SEVEN-POINT PRACTICE FOR DEVELOPING THE GOOD HEART",
+            "subject_path_tibetan": "GSUNG 'BUM/BLO SBYONG/BLO SBYONG JO BO'I BLO SBYONG DON BDUN MA",
+            "subject_path_english": "Sungbum/DEVELOPING THE GOOD HEART/LORD ATISHA'S SEVEN-POINT PRACTICE FOR DEVELOPING THE GOOD HEART",
             "subject_tibetan": "BLO SBYONG JO BO'I BLO SBYONG DON BDUN MA",
             "subject_english": "LORD ATISHA'S SEVEN-POINT PRACTICE FOR DEVELOPING THE GOOD HEART"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P3379"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "blo sbyong_developing the good heart/blo sbyong jo bo'i blo sbyong don bdun ma_lord atisha's seven-point practice for developing the good heart",
-            "timestamp": "2024-09-10T02:21:01.676113+00:00"
+            "path": "GSUNG 'BUM_Sungbum/BLO SBYONG_DEVELOPING THE GOOD HEART/BLO SBYONG JO BO'I BLO SBYONG DON BDUN MA_LORD ATISHA'S SEVEN-POINT PRACTICE FOR DEVELOPING THE GOOD HEART",
+            "timestamp": "2024-11-20 05:24:30.707418+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:24:30.707418+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

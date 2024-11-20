@@ -1,14 +1,14 @@
 {
     "name": "S00175E_YE SHES KYI MGON PO PHYAG DRUG PA'I BSGOM BZLAS NYAMS SU BLANG BDE BA_Convenient Method for Performing the Meditation and Recitation in the Teaching of the Six-Armed One, the Protector of Wisdom_LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN (16 +.TXT",
-    "path": "rgyud_secret teachings (tantra)/mgon po_the protector (mahakala)/bsgom bzlas_meditation and recitation upon the angel",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/mgon po_the protector (mahakala)/bsgom bzlas_meditation and recitation upon the angel/s00175e_ye shes kyi mgon po phyag drug pa'i bsgom bzlas nyams su blang bde ba_convenient method for performing the meditation and recitation in the teaching of the six-armed one, the protector of wisdom_lcang skya ngag dbang blo bzang chos ldan (16 +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAIfw",
-    "revision_id": "613f664dc429b8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/MGON PO_THE PROTECTOR (MAHAKALA)/BSGOM BZLAS_MEDITATION AND RECITATION UPON THE ANGEL",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/mgon po_the protector (mahakala)/bsgom bzlas_meditation and recitation upon the angel/s00175e_ye shes kyi mgon po phyag drug pa'i bsgom bzlas nyams su blang bde ba_convenient method for performing the meditation and recitation in the teaching of the six-armed one, the protector of wisdom_lcang skya ngag dbang blo bzang chos ldan (16 +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABULQ",
+    "revision_id": "625a485ea9ad48d294473",
     "content_hash": "db0c07b476b6b7bee06e3b00cc1356db52e276b010a0bf66db6c46a4afcec249",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:09:27.899176",
+    "server_modified": "2024-10-29 21:46:51",
+    "last_sync": "2024-11-19 20:55:03.169783",
     "size": 8415,
-    "meta_text": "42-1714)",
+    "meta_text": "('42-1714)', 'rtf')",
     "cat_ref": "S00175E",
     "work_ref": "W.S00175E",
     "title_tib": "YE SHES KYI MGON PO PHYAG DRUG PA'I BSGOM BZLAS NYAMS SU BLANG BDE BA",
@@ -19,10 +19,10 @@
     "author_simple": "LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN",
     "subject": [
         {
-            "_id": "211876955215",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/MGON PO_THE PROTECTOR (MAHAKALA)/BSGOM BZLAS_MEDITATION AND RECITATION UPON THE ANGEL",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/MGON PO/BSGOM BZLAS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/THE PROTECTOR (MAHAKALA)/MEDITATION AND RECITATION UPON THE ANGEL",
+            "_id": "227683876804",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/MGON PO_THE PROTECTOR (MAHAKALA)/BSGOM BZLAS_MEDITATION AND RECITATION UPON THE ANGEL",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/MGON PO/BSGOM BZLAS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/THE PROTECTOR (MAHAKALA)/MEDITATION AND RECITATION UPON THE ANGEL",
             "subject_tibetan": "BSGOM BZLAS",
             "subject_english": "MEDITATION AND RECITATION UPON THE ANGEL"
         }
@@ -31,18 +31,26 @@
     "author": [
         {
             "author_name": "LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN",
-            "author_birth": "1642",
-            "author_death": "1714",
+            "author_birth": null,
+            "author_death": null,
             "bdrc_id": "bdr:P209",
             "normalized_name": "LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN",
             "bdrc_url": "http://purl.bdrc.io/resource/P209"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/mgon po_the protector (mahakala)/bsgom bzlas_meditation and recitation upon the angel",
-            "timestamp": "2024-09-10T02:09:27.908014+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/MGON PO_THE PROTECTOR (MAHAKALA)/BSGOM BZLAS_MEDITATION AND RECITATION UPON THE ANGEL",
+            "timestamp": "2024-11-20 04:55:03.176011+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:55:03.176011+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,14 +1,14 @@
 {
     "name": "S00213M_DGA' LDAN BYANG RTZE THOS BSAM NOR GLING GRVA TSANG GI CHOS SPYOD BSKAL BZANG MGRIN RGYAN_'A Necklace for the Fortunate,' being the Collection of Liturgical Texts for Ganden Jangtse Monastery, a Jewel Island of Learning and Contemplation_SN+.TXT",
-    "path": "cho ga_rituals/chos spyod_monastic prayer books/dga' ldan byang rtze_ganden jangtse",
-    "download_path": "/sungbum updated 4 26 23 bk/cho ga_rituals/chos spyod_monastic prayer books/dga' ldan byang rtze_ganden jangtse/s00213m_dga' ldan byang rtze thos bsam nor gling grva tsang gi chos spyod bskal bzang mgrin rgyan_'a necklace for the fortunate,' being the collection of liturgical texts for ganden jangtse monastery, a jewel island of learning and contemplation_sn+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAEkQ",
-    "revision_id": "613f6644849b58d294473",
+    "path": "CHO GA_RITUALS/CHOS SPYOD_MONASTIC PRAYER BOOKS/DGA' LDAN BYANG RTZE_GANDEN JANGTSE",
+    "download_path": "/sungbum updated 7 30 23 nl/cho ga_rituals/chos spyod_monastic prayer books/dga' ldan byang rtze_ganden jangtse/s00213m_dga' ldan byang rtze thos bsam nor gling grva tsang gi chos spyod bskal bzang mgrin rgyan_'a necklace for the fortunate,' being the collection of liturgical texts for ganden jangtse monastery, a jewel island of learning and contemplation_sn+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABl1Q",
+    "revision_id": "625a4af9e1e0c8d294473",
     "content_hash": "58370abe19d412b96c739579e8f98ae15abeaf834bd2cd90600b7441bfba47c9",
-    "server_modified": "2024-03-18T21:53:45",
-    "last_sync": "2024-09-09T19:05:48.468146",
+    "server_modified": "2024-10-29 21:58:31",
+    "last_sync": "2024-11-19 21:26:06.942077",
     "size": 195967,
-    "meta_text": "A TSOGS",
+    "meta_text": "('A TSOGS', 'rtf')",
     "cat_ref": "S00213M",
     "work_ref": "W.S00213M",
     "title_tib": "DGA' LDAN BYANG RTZE THOS BSAM NOR GLING GRVA TSANG GI CHOS SPYOD BSKAL BZANG MGRIN RGYAN",
@@ -16,13 +16,13 @@
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
-    "author_simple": "SNA TSOGS",
+    "author_simple": "SN('A TSOGS', 'rtf')",
     "subject": [
         {
-            "_id": "284464490434",
-            "subject_path": "SUNGBUM_SUNGBUM/CHO GA_RITUALS/CHOS SPYOD_MONASTIC PRAYER BOOKS/DGA' LDAN BYANG RTZE_GANDEN JANGTSE",
-            "subject_path_tibetan": "SUNGBUM/CHO GA/CHOS SPYOD/DGA' LDAN BYANG RTZE",
-            "subject_path_english": "SUNGBUM/RITUALS/MONASTIC PRAYER BOOKS/GANDEN JANGTSE",
+            "_id": "246650156136",
+            "subject_path": "GSUNG 'BUM_Sungbum/CHO GA_RITUALS/CHOS SPYOD_MONASTIC PRAYER BOOKS/DGA' LDAN BYANG RTZE_GANDEN JANGTSE",
+            "subject_path_tibetan": "GSUNG 'BUM/CHO GA/CHOS SPYOD/DGA' LDAN BYANG RTZE",
+            "subject_path_english": "Sungbum/RITUALS/MONASTIC PRAYER BOOKS/GANDEN JANGTSE",
             "subject_tibetan": "DGA' LDAN BYANG RTZE",
             "subject_english": "GANDEN JANGTSE"
         }
@@ -30,16 +30,24 @@
     "items": [],
     "author": [
         {
-            "author_name": "SNA TSOGS",
+            "author_name": "SN('A TSOGS', 'rtf')",
             "author_birth": null,
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "cho ga_rituals/chos spyod_monastic prayer books/dga' ldan byang rtze_ganden jangtse",
-            "timestamp": "2024-09-10T02:05:48.476509+00:00"
+            "path": "GSUNG 'BUM_Sungbum/CHO GA_RITUALS/CHOS SPYOD_MONASTIC PRAYER BOOKS/DGA' LDAN BYANG RTZE_GANDEN JANGTSE",
+            "timestamp": "2024-11-20 05:26:06.949140+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:26:06.949140+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

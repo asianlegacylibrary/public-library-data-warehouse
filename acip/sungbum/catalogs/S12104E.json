@@ -1,12 +1,12 @@
 {
     "name": "S12104E_DPAL GSANG BA 'DUS PA'I DBANG GI ZIN BRIS_Notes on an Empowerment into the Glorious Secret Collection (Guhya Samaja)_DZE SMAD RIN PO CHE BLO BZANG DPAL LDAN BSTAN 'DZIN YAR RGYAS (1927-1996).TXT",
-    "path": "rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/dbang_empowerment (abhisheka)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/dbang_empowerment (abhisheka)/s12104e_dpal gsang ba 'dus pa'i dbang gi zin bris_notes on an empowerment into the glorious secret collection (guhya samaja)_dze smad rin po che blo bzang dpal ldan bstan 'dzin yar rgyas (1927-1996).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAQwQ",
-    "revision_id": "613f665fcd6468d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/DBANG_EMPOWERMENT (ABHISHEKA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/dbang_empowerment (abhisheka)/s12104e_dpal gsang ba 'dus pa'i dbang gi zin bris_notes on an empowerment into the glorious secret collection (guhya samaja)_dze smad rin po che blo bzang dpal ldan bstan 'dzin yar rgyas (1927-1996).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABbZQ",
+    "revision_id": "625a4954755b28d294473",
     "content_hash": "aab2001b60a1bd183a90bb9174c9d2ce1dd9d0fc76c7b51926182d7e3f6dafc1",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:18:18.569305",
+    "server_modified": "2024-10-29 21:51:09",
+    "last_sync": "2024-11-19 21:07:16.913184",
     "size": 3316,
     "meta_text": null,
     "cat_ref": "S12104E",
@@ -19,10 +19,10 @@
     "author_simple": "DZE SMAD RIN PO CHE BLO BZANG DPAL LDAN BSTAN 'DZIN YAR RGYAS",
     "subject": [
         {
-            "_id": "230711289891",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/DBANG_EMPOWERMENT (ABHISHEKA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/GSANG 'DUS/DBANG",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/SECRET COLLECTION (GUHYASAMAJA)/EMPOWERMENT (ABHISHEKA)",
+            "_id": "216916520488",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/DBANG_EMPOWERMENT (ABHISHEKA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/GSANG 'DUS/DBANG",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/SECRET COLLECTION (GUHYASAMAJA)/EMPOWERMENT (ABHISHEKA)",
             "subject_tibetan": "DBANG",
             "subject_english": "EMPOWERMENT (ABHISHEKA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P2425"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/dbang_empowerment (abhisheka)",
-            "timestamp": "2024-09-10T02:18:18.570671+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/DBANG_EMPOWERMENT (ABHISHEKA)",
+            "timestamp": "2024-11-20 05:07:16.921028+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:07:16.921028+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

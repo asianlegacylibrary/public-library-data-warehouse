@@ -1,45 +1,53 @@
 {
     "name": "TD03987_SANGS RGYAS RJES SU DRAN PA'I RGYA CHER 'GREL PA (Buddhānusmṛti Vṛtti (Ṭīkā)).txt",
-    "path": "TENGYUR_TENGYUR/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 1 (NGI)",
+    "path": "05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 1 (NGI)",
     "download_path": "/tengyur updated 10 31 24 ws/05 mdo 'grel_commentaries to sutras (sūtra vṛtti)/vol 1 (ngi)/td03987_sangs rgyas rjes su dran pa'i rgya cher 'grel pa (buddhānusmṛti vṛtti (ṭīkā)).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB1jg",
     "revision_id": "62633b2d7f0878d294473",
     "content_hash": "6119d08d8b9f25a21cf7805fdc3c8ed40f0e7330afaa479de861c3ade411a1f1",
     "server_modified": "2024-11-06 00:35:45",
-    "last_sync": "2024-11-13 01:57:14.684298+00:00",
+    "last_sync": "2024-11-20 03:58:03.787832",
     "size": 33124,
+    "meta_text": null,
     "cat_ref": "TD03987",
     "work_ref": "W.TD03987",
-    "title_tib": "SANGS RGYAS RJES SU DRAN PA'I RGYA CHER 'GREL PA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "307332048375",
-            "subject_path": "TENGYUR_TENGYUR/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 1 (NGI)",
-            "subject_path_tibetan": "TENGYUR/MDO 'GREL/1 (NGI)",
-            "subject_path_english": "TENGYUR/Commentaries to Sutras (Sūtra Vṛtti)/VOL 1 (NGI)",
-            "subject_tibetan": "1 (NGI)",
-            "subject_english": "VOL 1 (NGI)"
+            "_id": "274593978959",
+            "subject_path": "BSTAN 'GYUR_Tengyur/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 1 (NGI)",
+            "subject_path_tibetan": "BSTAN 'GYUR/05 MDO 'GREL/VOL 1 (NGI)",
+            "subject_path_english": "Tengyur/Commentaries to Sutras (Sūtra Vṛtti)",
+            "subject_tibetan": "VOL 1 (NGI)",
+            "subject_english": "Commentaries to Sutras (Sūtra Vṛtti)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Buddhānusmṛti Vṛtti (Ṭīkā)",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 1 (NGI)",
+            "timestamp": "2024-11-20 11:58:03.806342+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:57:14.689574+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T11:58:03.806342+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 1 (NGI)",
-            "timestamp": "2024-11-13 01:57:14.689574+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

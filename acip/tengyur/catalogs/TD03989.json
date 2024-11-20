@@ -1,45 +1,53 @@
 {
     "name": "TD03989_'PHAGS PA SGO DRUG PA'I GZUNGS KYI RNAM PAR BSHAD PA (Ārya Ṣaṇmuhka Dhāraṇī Vyākhyāna).txt",
-    "path": "TENGYUR_TENGYUR/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 1 (NGI)",
+    "path": "05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 1 (NGI)",
     "download_path": "/tengyur updated 10 31 24 ws/05 mdo 'grel_commentaries to sutras (sūtra vṛtti)/vol 1 (ngi)/td03989_'phags pa sgo drug pa'i gzungs kyi rnam par bshad pa (ārya ṣaṇmuhka dhāraṇī vyākhyāna).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB1kA",
     "revision_id": "62633b2eb869e8d294473",
     "content_hash": "4cb1cc167a0af0868ac3c6a7b5f4e63156bfbe53c9cdd1488b10c9221c1e46cc",
     "server_modified": "2024-11-06 00:35:47",
-    "last_sync": "2024-11-13 01:57:14.684824+00:00",
+    "last_sync": "2024-11-20 03:58:03.792284",
     "size": 4753,
+    "meta_text": null,
     "cat_ref": "TD03989",
     "work_ref": "W.TD03989",
-    "title_tib": "'PHAGS PA SGO DRUG PA'I GZUNGS KYI RNAM PAR BSHAD PA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "307332048375",
-            "subject_path": "TENGYUR_TENGYUR/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 1 (NGI)",
-            "subject_path_tibetan": "TENGYUR/MDO 'GREL/1 (NGI)",
-            "subject_path_english": "TENGYUR/Commentaries to Sutras (Sūtra Vṛtti)/VOL 1 (NGI)",
-            "subject_tibetan": "1 (NGI)",
-            "subject_english": "VOL 1 (NGI)"
+            "_id": "274593978959",
+            "subject_path": "BSTAN 'GYUR_Tengyur/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 1 (NGI)",
+            "subject_path_tibetan": "BSTAN 'GYUR/05 MDO 'GREL/VOL 1 (NGI)",
+            "subject_path_english": "Tengyur/Commentaries to Sutras (Sūtra Vṛtti)",
+            "subject_tibetan": "VOL 1 (NGI)",
+            "subject_english": "Commentaries to Sutras (Sūtra Vṛtti)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Ārya Ṣaṇmuhka Dhāraṇī Vyākhyāna",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 1 (NGI)",
+            "timestamp": "2024-11-20 11:58:03.806423+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:57:14.689961+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T11:58:03.806423+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 1 (NGI)",
-            "timestamp": "2024-11-13 01:57:14.689961+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

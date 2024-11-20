@@ -1,28 +1,28 @@
 {
     "name": "S05535E_SGROL MA PHYAG 'TSAL NYER GCIG GI t'IKKA RIN PO CHE'I PHRENG BA DANG SGROL LJANG SGRUB THABS_The String of Precious Jewels--A Commentary to \"Prostrations to 21 Taras\"; Along with a Ritual for Reaching the Lady of Liberation in Her Emerald For+.txt",
-    "path": "rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/sgrub thabs_ritual for reaching the angel (sadhana)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/sgrub thabs_ritual for reaching the angel (sadhana)/s05535e_sgrol ma phyag 'tsal nyer gcig gi t'ikka rin po che'i phreng ba dang sgrol ljang sgrub thabs_the string of precious jewels--a commentary to \"prostrations to 21 taras\"; along with a ritual for reaching the lady of liberation in her emerald for+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAQMQ",
-    "revision_id": "613f665fcd5b68d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/sgrub thabs_ritual for reaching the angel (sadhana)/s05535e_sgrol ma phyag 'tsal nyer gcig gi t'ikka rin po che'i phreng ba dang sgrol ljang sgrub thabs_the string of precious jewels--a commentary to \"prostrations to 21 taras\"; along with a ritual for reaching the lady of liberation in her emerald for+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABYWQ",
+    "revision_id": "625a48da959378d294473",
     "content_hash": "8387e82b714aa8d2536449a7a055ed2abfe981db32ae35761b4bc296bb1c101e",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:17:42.819915",
+    "server_modified": "2024-10-29 21:49:01",
+    "last_sync": "2024-11-19 21:02:15.267477",
     "size": 23101,
-    "meta_text": null,
+    "meta_text": "(\"m_RGYAL BA DGE 'DUN GRUB (1391-1474)\", 'text')",
     "cat_ref": "S05535E",
     "work_ref": "W.S05535E",
     "title_tib": "SGROL MA PHYAG 'TSAL NYER GCIG GI t'IKKA RIN PO CHE'I PHRENG BA DANG SGROL LJANG SGRUB THABS",
-    "title_eng": "The String of Precious Jewels--A Commentary to \"Prostrations to 21 Taras\"; Along with a Ritual for Reaching the Lady of Liberation in Her Emerald For",
+    "title_eng": "The String of Precious Jewels--A Commentary to \"Prostrations to 21 Taras\"; Along with a Ritual for Reaching the Lady of Liberation in Her Emerald For(\"m",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
-    "author_simple": "",
+    "author_simple": "RGYAL BA DGE 'DUN GRUB",
     "subject": [
         {
-            "_id": "120364075893",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SGROL MA/SGRUB THABS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/LADY OF LIBERATION (TARA)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "_id": "185833050875",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SGROL MA/SGRUB THABS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/LADY OF LIBERATION (TARA)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
             "subject_tibetan": "SGRUB THABS",
             "subject_english": "RITUAL FOR REACHING THE ANGEL (SADHANA)"
         }
@@ -30,16 +30,24 @@
     "items": [],
     "author": [
         {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
+            "author_name": "RGYAL BA DGE 'DUN GRUB",
+            "author_birth": "1391",
+            "author_death": "1474"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/sgrub thabs_ritual for reaching the angel (sadhana)",
-            "timestamp": "2024-09-10T02:17:42.839968+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "timestamp": "2024-11-20 05:02:16.626782+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:02:16.626782+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

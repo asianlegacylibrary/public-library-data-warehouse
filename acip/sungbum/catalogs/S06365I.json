@@ -1,12 +1,12 @@
 {
     "name": "S06365I_BSLAB BYA RJES 'DZIN GYI RIM PA_Words of Advice, and a Prayer to Be Taken into Their Holy Care_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "nyams len_personal practice/bslab bya_personal advices/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/bslab bya_personal advices/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)/s06365i_bslab bya rjes 'dzin gyi rim pa_words of advice, and a prayer to be taken into their holy care_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAABZg",
-    "revision_id": "613f663b87caf8d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/bslab bya_personal advices/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)/s06365i_bslab bya rjes 'dzin gyi rim pa_words of advice, and a prayer to be taken into their holy care_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABi7w",
+    "revision_id": "625a4a9c69cce8d294473",
     "content_hash": "de3c825c8c5af02359f0b32a97d0eef7e7792d0d7dad58af270e8508f8731088",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:02:19.408659",
+    "server_modified": "2024-10-29 21:56:53",
+    "last_sync": "2024-11-19 21:20:16.019992",
     "size": 22474,
     "meta_text": null,
     "cat_ref": "S06365I",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "188935530971",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/BSLAB BYA/DNGUL CHU DHARMA BHADRA",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/PERSONAL ADVICES/NGULCHU DHARMA BHADRA (1772-1851)",
+            "_id": "359344872104",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/BSLAB BYA/DNGUL CHU DHARMA BHADRA",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/PERSONAL ADVICES/NGULCHU DHARMA BHADRA (1772-1851)",
             "subject_tibetan": "DNGUL CHU DHARMA BHADRA",
             "subject_english": "NGULCHU DHARMA BHADRA (1772-1851)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/bslab bya_personal advices/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)",
-            "timestamp": "2024-09-10T02:02:19.416795+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
+            "timestamp": "2024-11-20 05:20:16.025220+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:20:16.025220+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

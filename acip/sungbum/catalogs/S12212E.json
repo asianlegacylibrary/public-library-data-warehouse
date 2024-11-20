@@ -1,28 +1,28 @@
 {
     "name": "S12212E_GRUB PA'I GNAS CHEN PO SHAMBHA LA'I RNAM BSHAD 'PHAGS YUL GYI RTOGS BRJOD DANG BCAS PA NGO MTSAR BYE BA'I 'BYUNG GNAS_The Wellspring of a Thousand Wonders-- A Description of that Great Land of Spiritual Attainment, Shambhala, along with Acco+.TXT",
-    "path": "rgyud_secret teachings (tantra)/sham bha la_shambala (shambala)/chos 'byung_religous history",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/sham bha la_shambala (shambala)/chos 'byung_religous history/s12212e_grub pa'i gnas chen po shambha la'i rnam bshad 'phags yul gyi rtogs brjod dang bcas pa ngo mtsar bye ba'i 'byung gnas_the wellspring of a thousand wonders-- a description of that great land of spiritual attainment, shambhala, along with acco+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAP8g",
-    "revision_id": "613f665fcd5778d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SHAM BHA LA_SHAMBALA (SHAMBALA)/CHOS 'BYUNG_RELIGOUS HISTORY",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/sham bha la_shambala (shambala)/chos 'byung_religous history/s12212e_grub pa'i gnas chen po shambha la'i rnam bshad 'phags yul gyi rtogs brjod dang bcas pa ngo mtsar bye ba'i 'byung gnas_the wellspring of a thousand wonders-- a description of that great land of spiritual attainment, shambhala, along with acco+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABc6g",
+    "revision_id": "625a4986142bf8d294473",
     "content_hash": "5dcf0539053394828167c58174e4891e7cdede0131b46b120c2ada87342511d8",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:17:22.882411",
+    "server_modified": "2024-10-29 21:52:01",
+    "last_sync": "2024-11-19 21:10:02.543062",
     "size": 133777,
-    "meta_text": "unts of Lifetimes in the Land of the Realized Ones_PAN CHEN BLA MA SKU PHRENG GSUM PA DPAL LDAN YE SHES (1738-1780)",
+    "meta_text": "('unts of Lifetimes in the Land of the Realized Ones_PAN CHEN BLA MA SKU PHRENG GSUM PA DPAL LDAN YE SHES (1738-1780)', 'rtf')",
     "cat_ref": "S12212E",
     "work_ref": "W.S12212E",
     "title_tib": "GRUB PA'I GNAS CHEN PO SHAMBHA LA'I RNAM BSHAD 'PHAGS YUL GYI RTOGS BRJOD DANG BCAS PA NGO MTSAR BYE BA'I 'BYUNG GNAS",
-    "title_eng": "The Wellspring of a Thousand Wonders-- A Description of that Great Land of Spiritual Attainment, Shambhala, along with Accounts of Lifetimes in the Land of the Realized Ones",
+    "title_eng": "The Wellspring of a Thousand Wonders-- A Description of that Great Land of Spiritual Attainment, Shambhala, along with Acco('unts of Lifetimes in the Land of the Realized Ones",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "PAn CHEN BLA MA SKU PHRENG GSUM PA DPAL LDAN YE SHES",
     "subject": [
         {
-            "_id": "295396901275",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SHAM BHA LA_SHAMBALA (SHAMBALA)/CHOS 'BYUNG_RELIGOUS HISTORY",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SHAM BHA LA/CHOS 'BYUNG",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/SHAMBALA (SHAMBALA)/RELIGOUS HISTORY",
+            "_id": "117313918889",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SHAM BHA LA_SHAMBALA (SHAMBALA)/CHOS 'BYUNG_RELIGOUS HISTORY",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SHAM BHA LA/CHOS 'BYUNG",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/SHAMBALA (SHAMBALA)/RELIGOUS HISTORY",
             "subject_tibetan": "CHOS 'BYUNG",
             "subject_english": "RELIGOUS HISTORY"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P168"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/sham bha la_shambala (shambala)/chos 'byung_religous history",
-            "timestamp": "2024-09-10T02:17:22.884276+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SHAM BHA LA_SHAMBALA (SHAMBALA)/CHOS 'BYUNG_RELIGOUS HISTORY",
+            "timestamp": "2024-11-20 05:10:02.549127+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:10:02.549127+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

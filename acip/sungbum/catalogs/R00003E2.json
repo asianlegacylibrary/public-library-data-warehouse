@@ -1,12 +1,12 @@
 {
     "name": "R00003E2_SHES BYA'I GTER MDZOD, BAR CHA_THE TREASURE OF KNOWABLE THINGS, VOLUME 2.TXT",
-    "path": "rnam thar_biographies/rnam thar sna tsogs_compilations of biographies/treasure of knowable things",
-    "download_path": "/sungbum updated 4 26 23 bk/rnam thar_biographies/rnam thar sna tsogs_compilations of biographies/treasure of knowable things/r00003e2_shes bya'i gter mdzod, bar cha_the treasure of knowable things, volume 2.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAV8A",
-    "revision_id": "613f666d2090c8d294473",
+    "path": "RNAM THAR_BIOGRAPHIES/RNAM THAR SNA TSOGS_COMPILATIONS OF BIOGRAPHIES/TREASURE OF KNOWABLE THINGS",
+    "download_path": "/sungbum updated 7 30 23 nl/rnam thar_biographies/rnam thar sna tsogs_compilations of biographies/treasure of knowable things/r00003e2_shes bya'i gter mdzod, bar cha_the treasure of knowable things, volume 2.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABg2A",
+    "revision_id": "625a4a495cbcc8d294473",
     "content_hash": "d12cd158e06ae5b73efea728f2c6ca0ea011c4e42576252e8573c584d0e410cb",
-    "server_modified": "2024-03-18T21:54:28",
-    "last_sync": "2024-09-09T19:23:03.707319",
+    "server_modified": "2024-10-29 21:55:26",
+    "last_sync": "2024-11-19 21:16:47.133116",
     "size": 919931,
     "meta_text": null,
     "cat_ref": "R00003E2",
@@ -19,10 +19,10 @@
     "author_simple": "",
     "subject": [
         {
-            "_id": "619721904542",
-            "subject_path": "SUNGBUM_SUNGBUM/RNAM THAR_BIOGRAPHIES/RNAM THAR SNA TSOGS_COMPILATIONS OF BIOGRAPHIES/TREASURE OF KNOWABLE THINGS",
-            "subject_path_tibetan": "SUNGBUM/RNAM THAR/RNAM THAR SNA TSOGS/TREASURE OF KNOWABLE THINGS",
-            "subject_path_english": "SUNGBUM/BIOGRAPHIES/COMPILATIONS OF BIOGRAPHIES",
+            "_id": "219008861839",
+            "subject_path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/RNAM THAR SNA TSOGS_COMPILATIONS OF BIOGRAPHIES/TREASURE OF KNOWABLE THINGS",
+            "subject_path_tibetan": "GSUNG 'BUM/RNAM THAR/RNAM THAR SNA TSOGS/TREASURE OF KNOWABLE THINGS",
+            "subject_path_english": "Sungbum/BIOGRAPHIES/COMPILATIONS OF BIOGRAPHIES",
             "subject_tibetan": "TREASURE OF KNOWABLE THINGS",
             "subject_english": "COMPILATIONS OF BIOGRAPHIES"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rnam thar_biographies/rnam thar sna tsogs_compilations of biographies/treasure of knowable things",
-            "timestamp": "2024-09-10T02:23:03.714002+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/RNAM THAR SNA TSOGS_COMPILATIONS OF BIOGRAPHIES/TREASURE OF KNOWABLE THINGS",
+            "timestamp": "2024-11-20 05:16:47.141870+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:16:47.141870+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

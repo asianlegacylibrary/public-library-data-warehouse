@@ -1,12 +1,12 @@
 {
     "name": "S05275M65_BLA MA DBU MA PA LA MDO KHAMS SU PHUL BA'I CHAB SHOG_Epistle offered to Lama Umapa, residing in the Land of Dokam_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419).TXT",
-    "path": "nyams len_personal practice/spyi_general treatments/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)/la ma dbu ma pa la phul ba'i chab shog_epistle offered to lama umapa",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/spyi_general treatments/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)/la ma dbu ma pa la phul ba'i chab shog_epistle offered to lama umapa/s05275m65_bla ma dbu ma pa la mdo khams su phul ba'i chab shog_epistle offered to lama umapa, residing in the land of dokam_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAAjQ",
-    "revision_id": "613f663b87bd68d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/SPYI_GENERAL TREATMENTS/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)/LA MA DBU MA PA LA PHUL BA'I CHAB SHOG_EPISTLE OFFERED TO LAMA UMAPA",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/spyi_general treatments/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)/la ma dbu ma pa la phul ba'i chab shog_epistle offered to lama umapa/s05275m65_bla ma dbu ma pa la mdo khams su phul ba'i chab shog_epistle offered to lama umapa, residing in the land of dokam_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABkBw",
+    "revision_id": "625a4ac222bfe8d294473",
     "content_hash": "52050226b9a5927d4abfe3f7c6b8656ad28d58bc15a90e59d9d6e4434a11d2cd",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:01:35.338810",
+    "server_modified": "2024-10-29 21:57:33",
+    "last_sync": "2024-11-19 21:22:33.728638",
     "size": 6028,
     "meta_text": null,
     "cat_ref": "S05275M65",
@@ -19,10 +19,10 @@
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "323542692034",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/SPYI_GENERAL TREATMENTS/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)/LA MA DBU MA PA LA PHUL BA'I CHAB SHOG_EPISTLE OFFERED TO LAMA UMAPA",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/SPYI/RJE TZONG KHA PA BLO BZANG GRAGS PA/LA MA DBU MA PA LA PHUL BA'I CHAB SHOG",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/GENERAL TREATMENTS/JE TSONGKAPA LOBSANG DRAKPA (1357-1419)/EPISTLE OFFERED TO LAMA UMAPA",
+            "_id": "556361045903",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SPYI_GENERAL TREATMENTS/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)/LA MA DBU MA PA LA PHUL BA'I CHAB SHOG_EPISTLE OFFERED TO LAMA UMAPA",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/SPYI/RJE TZONG KHA PA BLO BZANG GRAGS PA/LA MA DBU MA PA LA PHUL BA'I CHAB SHOG",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/GENERAL TREATMENTS/JE TSONGKAPA LOBSANG DRAKPA (1357-1419)/EPISTLE OFFERED TO LAMA UMAPA",
             "subject_tibetan": "LA MA DBU MA PA LA PHUL BA'I CHAB SHOG",
             "subject_english": "EPISTLE OFFERED TO LAMA UMAPA"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/spyi_general treatments/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)/la ma dbu ma pa la phul ba'i chab shog_epistle offered to lama umapa",
-            "timestamp": "2024-09-10T02:01:35.345953+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SPYI_GENERAL TREATMENTS/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)/LA MA DBU MA PA LA PHUL BA'I CHAB SHOG_EPISTLE OFFERED TO LAMA UMAPA",
+            "timestamp": "2024-11-20 05:22:33.732606+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:22:33.732606+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

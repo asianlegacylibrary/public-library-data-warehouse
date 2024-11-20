@@ -1,12 +1,12 @@
 {
     "name": "S00917E_RIGS LAM 'PHRUL GYI LDE MIG_A Key for the Machine of Logic_GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME (1762-1823).TXT",
-    "path": "tsad ma_study of accurate perception (sautrantika school)/bsdus grva_collected topics of logic/spyi_general treatments/gung thang dkon mchog bstan pa'i sgron me_gungtang konchok tenpay drunme  (1762-1823)",
-    "download_path": "/sungbum updated 4 26 23 bk/tsad ma_study of accurate perception (sautrantika school)/bsdus grva_collected topics of logic/spyi_general treatments/gung thang dkon mchog bstan pa'i sgron me_gungtang konchok tenpay drunme  (1762-1823)/s00917e_rigs lam 'phrul gyi lde mig_a key for the machine of logic_gung thang dkon mchog bstan pa'i sgron me (1762-1823).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAF9Q",
-    "revision_id": "613f66492f05f8d294473",
+    "path": "TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/BSDUS GRVA_COLLECTED TOPICS OF LOGIC/SPYI_GENERAL TREATMENTS/GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME_GUNGTANG KONCHOK TENPAY DRUNME  (1762-1823)",
+    "download_path": "/sungbum updated 7 30 23 nl/tsad ma_study of accurate perception (sautrantika school)/bsdus grva_collected topics of logic/spyi_general treatments/gung thang dkon mchog bstan pa'i sgron me_gungtang konchok tenpay drunme  (1762-1823)/s00917e_rigs lam 'phrul gyi lde mig_a key for the machine of logic_gung thang dkon mchog bstan pa'i sgron me (1762-1823).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABQFQ",
+    "revision_id": "625a47b5c8efe8d294473",
     "content_hash": "6ac41e6c470f39c1648798c69abe364f9616ea1cba6bb889b9b5fba769f30a3a",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:07:04.978155",
+    "server_modified": "2024-10-29 21:43:54",
+    "last_sync": "2024-11-19 20:49:08.552139",
     "size": 28002,
     "meta_text": null,
     "cat_ref": "S00917E",
@@ -19,10 +19,10 @@
     "author_simple": "GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME",
     "subject": [
         {
-            "_id": "309151102003",
-            "subject_path": "SUNGBUM_SUNGBUM/TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/BSDUS GRVA_COLLECTED TOPICS OF LOGIC/SPYI_GENERAL TREATMENTS/GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME_GUNGTANG KONCHOK TENPAY DRUNME  (1762-1823)",
-            "subject_path_tibetan": "SUNGBUM/TSAD MA/BSDUS GRVA/SPYI/GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME",
-            "subject_path_english": "SUNGBUM/STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/COLLECTED TOPICS OF LOGIC/GENERAL TREATMENTS/GUNGTANG KONCHOK TENPAY DRUNME  (1762-1823)",
+            "_id": "208909180129",
+            "subject_path": "GSUNG 'BUM_Sungbum/TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/BSDUS GRVA_COLLECTED TOPICS OF LOGIC/SPYI_GENERAL TREATMENTS/GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME_GUNGTANG KONCHOK TENPAY DRUNME  (1762-1823)",
+            "subject_path_tibetan": "GSUNG 'BUM/TSAD MA/BSDUS GRVA/SPYI/GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME",
+            "subject_path_english": "Sungbum/STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/COLLECTED TOPICS OF LOGIC/GENERAL TREATMENTS/GUNGTANG KONCHOK TENPAY DRUNME  (1762-1823)",
             "subject_tibetan": "GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME",
             "subject_english": "GUNGTANG KONCHOK TENPAY DRUNME  (1762-1823)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P298"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "tsad ma_study of accurate perception (sautrantika school)/bsdus grva_collected topics of logic/spyi_general treatments/gung thang dkon mchog bstan pa'i sgron me_gungtang konchok tenpay drunme  (1762-1823)",
-            "timestamp": "2024-09-10T02:07:04.996667+00:00"
+            "path": "GSUNG 'BUM_Sungbum/TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/BSDUS GRVA_COLLECTED TOPICS OF LOGIC/SPYI_GENERAL TREATMENTS/GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME_GUNGTANG KONCHOK TENPAY DRUNME  (1762-1823)",
+            "timestamp": "2024-11-20 04:49:08.556080+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:49:08.556080+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

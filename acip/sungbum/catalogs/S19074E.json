@@ -1,12 +1,12 @@
 {
     "name": "S19074E_DRIS LAN TZINTA MAnI'I PHRENG BA_A String of Wish-Giving Jewels-- Questions and Answers_'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS (1648-1721).TXT",
-    "path": "dri lan_questions and answers/'jam dbyangs bzhad pa'i rdo rje (1648-1721)",
-    "download_path": "/sungbum updated 4 26 23 bk/dri lan_questions and answers/'jam dbyangs bzhad pa'i rdo rje (1648-1721)/s19074e_dris lan tzinta mani'i phreng ba_a string of wish-giving jewels-- questions and answers_'jam dbyangs bzhad pa'i rdo rje ngag dbang brtzon 'grus (1648-1721).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAATVQ",
-    "revision_id": "613f6664744788d294473",
+    "path": "DRI LAN_QUESTIONS AND ANSWERS/'JAM DBYANGS BZHAD PA'I RDO RJE (1648-1721)",
+    "download_path": "/sungbum updated 7 30 23 nl/dri lan_questions and answers/'jam dbyangs bzhad pa'i rdo rje (1648-1721)/s19074e_dris lan tzinta mani'i phreng ba_a string of wish-giving jewels-- questions and answers_'jam dbyangs bzhad pa'i rdo rje ngag dbang brtzon 'grus (1648-1721).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABTvA",
+    "revision_id": "625a4843cd9478d294473",
     "content_hash": "4f59ceb331604ee2c018bcbe85a4a95faf3698194983ba32367ee9934241e99e",
-    "server_modified": "2024-03-18T21:54:19",
-    "last_sync": "2024-09-09T19:21:05.204306",
+    "server_modified": "2024-10-29 21:46:23",
+    "last_sync": "2024-11-19 20:54:12.873766",
     "size": 25170,
     "meta_text": null,
     "cat_ref": "S19074E",
@@ -19,10 +19,10 @@
     "author_simple": "'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS",
     "subject": [
         {
-            "_id": "309172523686",
-            "subject_path": "SUNGBUM_SUNGBUM/DRI LAN_QUESTIONS AND ANSWERS/'JAM DBYANGS BZHAD PA'I RDO RJE (1648-1721)",
-            "subject_path_tibetan": "SUNGBUM/DRI LAN/'JAM DBYANGS BZHAD PA'I RDO RJE (1648-1721)",
-            "subject_path_english": "SUNGBUM/QUESTIONS AND ANSWERS",
+            "_id": "178886377544",
+            "subject_path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/'JAM DBYANGS BZHAD PA'I RDO RJE (1648-1721)",
+            "subject_path_tibetan": "GSUNG 'BUM/DRI LAN/'JAM DBYANGS BZHAD PA'I RDO RJE (1648-1721)",
+            "subject_path_english": "Sungbum/QUESTIONS AND ANSWERS",
             "subject_tibetan": "'JAM DBYANGS BZHAD PA'I RDO RJE (1648-1721)",
             "subject_english": "QUESTIONS AND ANSWERS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P423"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "dri lan_questions and answers/'jam dbyangs bzhad pa'i rdo rje (1648-1721)",
-            "timestamp": "2024-09-10T02:21:05.222883+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/'JAM DBYANGS BZHAD PA'I RDO RJE (1648-1721)",
+            "timestamp": "2024-11-20 04:54:14.111207+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:54:14.111207+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "rtf"
 }

@@ -1,28 +1,28 @@
 {
     "name": "S12052E_ DPAL RDO RJE 'JIGS BYED DPA' BO GCIG PA'I SGO NAS BCU CHA'I SBYIN SREG BYA TSUL DNGOS GRUB KUN 'BYUNG_The Wellspring of Every Attainment--Instructions on How to Perform the Fire Offering of Ten Parts in the Secret Teachings of the Glorious +.TXT",
-    "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/sbyin sreg_fire offering (homa)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/sbyin sreg_fire offering (homa)/s12052e_ dpal rdo rje 'jigs byed dpa' bo gcig pa'i sgo nas bcu cha'i sbyin sreg bya tsul dngos grub kun 'byung_the wellspring of every attainment--instructions on how to perform the fire offering of ten parts in the secret teachings of the glorious +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAMFA",
-    "revision_id": "613f6656dece58d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/SBYIN SREG_FIRE OFFERING (HOMA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/sbyin sreg_fire offering (homa)/s12052e_ dpal rdo rje 'jigs byed dpa' bo gcig pa'i sgo nas bcu cha'i sbyin sreg bya tsul dngos grub kun 'byung_the wellspring of every attainment--instructions on how to perform the fire offering of ten parts in the secret teachings of the glorious +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABdrw",
+    "revision_id": "625a49a01a0188d294473",
     "content_hash": "65188d73fbda55849bda68dcbc17b801b884aba838e39ab235aa94d93f99dfb8",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:13:16.908393",
+    "server_modified": "2024-10-29 21:52:28",
+    "last_sync": "2024-11-19 21:11:06.543297",
     "size": 41473,
-    "meta_text": "Diamond Lord of Terror (Vajra Bhairava), in His Form as a Single Warrior_CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS (1740-1810)",
+    "meta_text": "('Diamond Lord of Terror (Vajra Bhairava), in His Form as a Single Warrior_CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS (1740-1810)', 'rtf')",
     "cat_ref": "S12052E",
     "work_ref": "W.S12052E",
     "title_tib": "DPAL RDO RJE 'JIGS BYED DPA' BO GCIG PA'I SGO NAS BCU CHA'I SBYIN SREG BYA TSUL DNGOS GRUB KUN 'BYUNG",
-    "title_eng": "The Wellspring of Every Attainment--Instructions on How to Perform the Fire Offering of Ten Parts in the Secret Teachings of the GloriousDiamond Lord of Terror (Vajra Bhairava), in His Form as a Single Warrior",
+    "title_eng": "The Wellspring of Every Attainment--Instructions on How to Perform the Fire Offering of Ten Parts in the Secret Teachings of the Glorious('Diamond Lord of Terror (Vajra Bhairava), in His Form as a Single Warrior",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS",
     "subject": [
         {
-            "_id": "878584584879",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/SBYIN SREG_FIRE OFFERING (HOMA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/'JIGS BYED/SBYIN SREG",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/FIRE OFFERING (HOMA)",
+            "_id": "253172044199",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/SBYIN SREG_FIRE OFFERING (HOMA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/'JIGS BYED/SBYIN SREG",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/FIRE OFFERING (HOMA)",
             "subject_tibetan": "SBYIN SREG",
             "subject_english": "FIRE OFFERING (HOMA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P4797"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/sbyin sreg_fire offering (homa)",
-            "timestamp": "2024-09-10T02:13:16.933236+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/SBYIN SREG_FIRE OFFERING (HOMA)",
+            "timestamp": "2024-11-20 05:11:08.747695+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:11:08.747695+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

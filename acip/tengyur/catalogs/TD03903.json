@@ -1,45 +1,53 @@
 {
     "name": "TD03903_THUB PA'I DGONGS PA'I RGYAN (Munimatālaṃkāra).txt",
-    "path": "TENGYUR_TENGYUR/04 DBU MA_Middle Way School (Madhyamaka)/VOL 14 (AA)",
+    "path": "04 DBU MA_Middle Way School (Madhyamaka)/VOL 14 (AA)",
     "download_path": "/tengyur updated 10 31 24 ws/04 dbu ma_middle way school (madhyamaka)/vol 14 (aa)/td03903_thub pa'i dgongs pa'i rgyan (munimatālaṃkāra).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB3Fg",
     "revision_id": "62633bb835ec58d294473",
     "content_hash": "573f0b43cebfbd89dcf035ac3eed1ee1a767b7c778c88cba3a3259ee414b3b0d",
     "server_modified": "2024-11-06 00:38:11",
-    "last_sync": "2024-11-13 01:58:05.884665+00:00",
+    "last_sync": "2024-11-20 03:58:57.340932",
     "size": 904848,
+    "meta_text": null,
     "cat_ref": "TD03903",
     "work_ref": "W.TD03903",
-    "title_tib": "THUB PA'I DGONGS PA'I RGYAN",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "107168951342",
-            "subject_path": "TENGYUR_TENGYUR/04 DBU MA_Middle Way School (Madhyamaka)/VOL 14 (AA)",
-            "subject_path_tibetan": "TENGYUR/DBU MA/14 (AA)",
-            "subject_path_english": "TENGYUR/Middle Way School (Madhyamaka)/VOL 14 (AA)",
-            "subject_tibetan": "14 (AA)",
-            "subject_english": "VOL 14 (AA)"
+            "_id": "235565101896",
+            "subject_path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 14 (AA)",
+            "subject_path_tibetan": "BSTAN 'GYUR/04 DBU MA/VOL 14 (AA)",
+            "subject_path_english": "Tengyur/Middle Way School (Madhyamaka)",
+            "subject_tibetan": "VOL 14 (AA)",
+            "subject_english": "Middle Way School (Madhyamaka)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Munimatālaṃkāra",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 14 (AA)",
+            "timestamp": "2024-11-20 11:58:57.343108+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:58:05.887127+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T11:58:57.343108+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/04 DBU MA_Middle Way School (Madhyamaka)/VOL 14 (AA)",
-            "timestamp": "2024-11-13 01:58:05.887127+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

@@ -1,12 +1,12 @@
 {
     "name": "S05301E6_SRUNG 'KHOR GYI GNAD_Crucial Points on the Protection Circle_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419).TXT",
-    "path": "rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/srung 'khor_circle of protection",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/srung 'khor_circle of protection/s05301e6_srung 'khor gyi gnad_crucial points on the protection circle_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAQpw",
-    "revision_id": "613f665fcd62c8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/SRUNG 'KHOR_CIRCLE OF PROTECTION",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/srung 'khor_circle of protection/s05301e6_srung 'khor gyi gnad_crucial points on the protection circle_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABbLQ",
+    "revision_id": "625a49471b6b68d294473",
     "content_hash": "5eb84e978d1e2e181b039ace1a17f52190ab03830d7d1deecf3b9fe89281c46d",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:18:10.991797",
+    "server_modified": "2024-10-29 21:50:55",
+    "last_sync": "2024-11-19 21:06:59.198528",
     "size": 4611,
     "meta_text": null,
     "cat_ref": "S05301E6",
@@ -19,10 +19,10 @@
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "293100070765",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/SRUNG 'KHOR_CIRCLE OF PROTECTION",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/GSANG 'DUS/SRUNG 'KHOR",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/SECRET COLLECTION (GUHYASAMAJA)/CIRCLE OF PROTECTION",
+            "_id": "268784849661",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/SRUNG 'KHOR_CIRCLE OF PROTECTION",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/GSANG 'DUS/SRUNG 'KHOR",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/SECRET COLLECTION (GUHYASAMAJA)/CIRCLE OF PROTECTION",
             "subject_tibetan": "SRUNG 'KHOR",
             "subject_english": "CIRCLE OF PROTECTION"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/srung 'khor_circle of protection",
-            "timestamp": "2024-09-10T02:18:10.993672+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/SRUNG 'KHOR_CIRCLE OF PROTECTION",
+            "timestamp": "2024-11-20 05:06:59.202515+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:06:59.202515+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,45 +1,53 @@
 {
     "name": "TD01657_DPAL SANGS RGYAS THOD PA ZHES BYA BA'I DKYIL 'KHOR GYI CHO GA'I RIM PA GSAL BA ZHES BYA BA (Śrī Buddha Kapāla Maṇḍala Vidhi Krama Pradyotana (Nāma)).txt",
-    "path": "TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/07 SANGS RGYAS THOD PA_Skull of the Buddha (Buddha Kāpala)/VOL 25 (RA)",
+    "path": "02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/07 SANGS RGYAS THOD PA_Skull of the Buddha (Buddha Kāpala)/VOL 25 (RA)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/01 rnal 'byor bla med_unsurpassed practice (anuttara yoga)/07 sangs rgyas thod pa_skull of the buddha (buddha kāpala)/vol 25 (ra)/td01657_dpal sangs rgyas thod pa zhes bya ba'i dkyil 'khor gyi cho ga'i rim pa gsal ba zhes bya ba (śrī buddha kapāla maṇḍala vidhi krama pradyotana (nāma)).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB-Eg",
     "revision_id": "62633cfaffd1d8d294473",
     "content_hash": "449e7979f211fda973f90e25fa5c2a288e847a0d5e8fba711b279af7cfbdeb27",
     "server_modified": "2024-11-06 00:43:49",
-    "last_sync": "2024-11-13 01:59:30.817330+00:00",
+    "last_sync": "2024-11-20 04:00:35.227849",
     "size": 50485,
+    "meta_text": null,
     "cat_ref": "TD01657",
     "work_ref": "W.TD01657",
-    "title_tib": "DPAL SANGS RGYAS THOD PA ZHES BYA BA'I DKYIL 'KHOR GYI CHO GA'I RIM PA GSAL BA ZHES BYA BA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "139006548050",
-            "subject_path": "TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/07 SANGS RGYAS THOD PA_Skull of the Buddha (Buddha Kāpala)/VOL 25 (RA)",
-            "subject_path_tibetan": "TENGYUR/RGYUD/RNAL 'BYOR BLA MED/SANGS RGYAS THOD PA/25 (RA)",
-            "subject_path_english": "TENGYUR/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Skull of the Buddha (Buddha Kāpala)/VOL 25 (RA)",
-            "subject_tibetan": "25 (RA)",
-            "subject_english": "VOL 25 (RA)"
+            "_id": "331139795859",
+            "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/07 SANGS RGYAS THOD PA_Skull of the Buddha (Buddha Kāpala)/VOL 25 (RA)",
+            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/01 RNAL 'BYOR BLA MED/07 SANGS RGYAS THOD PA/VOL 25 (RA)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Skull of the Buddha (Buddha Kāpala)",
+            "subject_tibetan": "VOL 25 (RA)",
+            "subject_english": "Skull of the Buddha (Buddha Kāpala)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Śrī Buddha Kapāla Maṇḍala Vidhi Krama Pradyotana (Nāma)",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/07 SANGS RGYAS THOD PA_Skull of the Buddha (Buddha Kāpala)/VOL 25 (RA)",
+            "timestamp": "2024-11-20 12:00:35.231994+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:59:30.820125+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T12:00:35.231994+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/07 SANGS RGYAS THOD PA_Skull of the Buddha (Buddha Kāpala)/VOL 25 (RA)",
-            "timestamp": "2024-11-13 01:59:30.820125+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

@@ -1,28 +1,28 @@
 {
     "name": "S12111E_DBANG BSKUR CHOG RGYA BOD KYI MKHAS PA SO SO'I PHYAG BZHES DANG BZHED PA MI 'DRA BA RNAMS GSAL BAR BYED PA_An Illumination of the Positions of Various Indian and Tibetan Sages upon Rituals for Secret Empowerment, including an Examination of +.TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/dbang_empowerment (abhisheka)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/dbang_empowerment (abhisheka)/s12111e_dbang bskur chog rgya bod kyi mkhas pa so so'i phyag bzhes dang bzhed pa mi 'dra ba rnams gsal bar byed pa_an illumination of the positions of various indian and tibetan sages upon rituals for secret empowerment, including an examination of +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAOZQ",
-    "revision_id": "613f665b6107e8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/DBANG_EMPOWERMENT (ABHISHEKA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyi_general treatments/dbang_empowerment (abhisheka)/s12111e_dbang bskur chog rgya bod kyi mkhas pa so so'i phyag bzhes dang bzhed pa mi 'dra ba rnams gsal bar byed pa_an illumination of the positions of various indian and tibetan sages upon rituals for secret empowerment, including an examination of +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABZvQ",
+    "revision_id": "625a4910338658d294473",
     "content_hash": "3a3268e596c23171a8d65f08303cdf23945fe483cf655b1d321f547bc9748839",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:15:47.168578",
+    "server_modified": "2024-10-29 21:49:58",
+    "last_sync": "2024-11-19 21:04:27.652338",
     "size": 85056,
-    "meta_text": "their Differences_DZE SMAD RIN PO CHE BLO BZANG DPAL LDAN BSTAN 'DZIN YAR RGYAS (1927-1996)",
+    "meta_text": "(\"their Differences_DZE SMAD RIN PO CHE BLO BZANG DPAL LDAN BSTAN 'DZIN YAR RGYAS (1927-1996)\", 'rtf')",
     "cat_ref": "S12111E",
     "work_ref": "W.S12111E",
     "title_tib": "DBANG BSKUR CHOG RGYA BOD KYI MKHAS PA SO SO'I PHYAG BZHES DANG BZHED PA MI 'DRA BA RNAMS GSAL BAR BYED PA",
-    "title_eng": "An Illumination of the Positions of Various Indian and Tibetan Sages upon Rituals for Secret Empowerment, including an Examination oftheir Differences",
+    "title_eng": "An Illumination of the Positions of Various Indian and Tibetan Sages upon Rituals for Secret Empowerment, including an Examination of(\"their Differences",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "DZE SMAD RIN PO CHE BLO BZANG DPAL LDAN BSTAN 'DZIN YAR RGYAS",
     "subject": [
         {
-            "_id": "695160742026",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/DBANG_EMPOWERMENT (ABHISHEKA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/DBANG",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/EMPOWERMENT (ABHISHEKA)",
+            "_id": "106795540189",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/DBANG_EMPOWERMENT (ABHISHEKA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/DBANG",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/EMPOWERMENT (ABHISHEKA)",
             "subject_tibetan": "DBANG",
             "subject_english": "EMPOWERMENT (ABHISHEKA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P2425"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/dbang_empowerment (abhisheka)",
-            "timestamp": "2024-09-10T02:15:47.181859+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/DBANG_EMPOWERMENT (ABHISHEKA)",
+            "timestamp": "2024-11-20 05:04:27.659356+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:04:27.659356+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

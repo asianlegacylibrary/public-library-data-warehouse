@@ -1,12 +1,12 @@
 {
     "name": "S05331E_RDO RJE MKHA' 'GRO'I 'GREL PA'I ZIN BRIS SOGS_Notes on the Commentary to the Secret Practice of the Angel of Diamond_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419).TXT",
-    "path": "rgyud_secret teachings (tantra)/rdo rje rnal 'byor ma_angel of diamond (vajrayogini)/'grel pa_commentaries",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/rdo rje rnal 'byor ma_angel of diamond (vajrayogini)/'grel pa_commentaries/s05331e_rdo rje mkha' 'gro'i 'grel pa'i zin bris sogs_notes on the commentary to the secret practice of the angel of diamond_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAJDw",
-    "revision_id": "613f664dc432b8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAL 'BYOR MA_ANGEL OF DIAMOND (VAJRAYOGINI)/'GREL PA_COMMENTARIES",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/rdo rje rnal 'byor ma_angel of diamond (vajrayogini)/'grel pa_commentaries/s05331e_rdo rje mkha' 'gro'i 'grel pa'i zin bris sogs_notes on the commentary to the secret practice of the angel of diamond_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABcQw",
+    "revision_id": "625a49731a4898d294473",
     "content_hash": "f8d9d9031e6bb0099ac8ab9b949df73c29a58f51b21a4348f0ca7eea3fa8d6e1",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:10:03.989519",
+    "server_modified": "2024-10-29 21:51:41",
+    "last_sync": "2024-11-19 21:08:36.272660",
     "size": 4776,
     "meta_text": null,
     "cat_ref": "S05331E",
@@ -19,10 +19,10 @@
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "236332774099",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAL 'BYOR MA_ANGEL OF DIAMOND (VAJRAYOGINI)/'GREL PA_COMMENTARIES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/RDO RJE RNAL 'BYOR MA/'GREL PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/ANGEL OF DIAMOND (VAJRAYOGINI)/COMMENTARIES",
+            "_id": "306156564498",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAL 'BYOR MA_ANGEL OF DIAMOND (VAJRAYOGINI)/'GREL PA_COMMENTARIES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/RDO RJE RNAL 'BYOR MA/'GREL PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/ANGEL OF DIAMOND (VAJRAYOGINI)/COMMENTARIES",
             "subject_tibetan": "'GREL PA",
             "subject_english": "COMMENTARIES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/rdo rje rnal 'byor ma_angel of diamond (vajrayogini)/'grel pa_commentaries",
-            "timestamp": "2024-09-10T02:10:03.999674+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAL 'BYOR MA_ANGEL OF DIAMOND (VAJRAYOGINI)/'GREL PA_COMMENTARIES",
+            "timestamp": "2024-11-20 05:08:37.004973+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:08:37.004973+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

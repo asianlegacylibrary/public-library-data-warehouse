@@ -1,12 +1,12 @@
 {
     "name": "S06370EA6_DRIL BU'I LUS TSAD SKOR GYI DRI LAN_Response to a Question on the Proper Dimensions of a Ritual Bell_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/rdor dril_diamond and bell instruments",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/rdor dril_diamond and bell instruments/s06370ea6_dril bu'i lus tsad skor gyi dri lan_response to a question on the proper dimensions of a ritual bell_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAN2Q",
-    "revision_id": "613f665b60ff28d294473",
+    "path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "download_path": "/sungbum updated 7 30 23 nl/dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)/s06370ea6_dril bu'i lus tsad skor gyi dri lan_response to a question on the proper dimensions of a ritual bell_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABTQg",
+    "revision_id": "625a4831729128d294473",
     "content_hash": "e7f8146b4ba6da9bdb48455bc48aa085337eb26179f8eaa73d74c8f6e26bd806",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:15:13.664580",
+    "server_modified": "2024-10-29 21:46:04",
+    "last_sync": "2024-11-19 20:53:53.306691",
     "size": 675,
     "meta_text": null,
     "cat_ref": "S06370EA6",
@@ -19,20 +19,20 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "236279260950",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/RDOR DRIL_DIAMOND AND BELL INSTRUMENTS",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/RDOR DRIL",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/DIAMOND AND BELL INSTRUMENTS",
-            "subject_tibetan": "RDOR DRIL",
-            "subject_english": "DIAMOND AND BELL INSTRUMENTS"
-        },
-        {
-            "_id": "244831615226",
-            "subject_path": "SUNGBUM_SUNGBUM/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_tibetan": "SUNGBUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_english": "SUNGBUM/QUESTIONS AND ANSWERS",
+            "_id": "250883940513",
+            "subject_path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "GSUNG 'BUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "Sungbum/QUESTIONS AND ANSWERS",
             "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
             "subject_english": "QUESTIONS AND ANSWERS"
+        },
+        {
+            "_id": "157992767926",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/RDOR DRIL_DIAMOND AND BELL INSTRUMENTS",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/RDOR DRIL",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/DIAMOND AND BELL INSTRUMENTS",
+            "subject_tibetan": "RDOR DRIL",
+            "subject_english": "DIAMOND AND BELL INSTRUMENTS"
         }
     ],
     "items": [],
@@ -46,15 +46,29 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/rdor dril_diamond and bell instruments",
-            "timestamp": "2024-09-10T02:15:13.681130+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "timestamp": "2024-11-20 04:54:07.138965+00:00"
         },
         {
-            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
-            "timestamp": "2024-09-10T02:21:49.529899+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/RDOR DRIL_DIAMOND AND BELL INSTRUMENTS",
+            "timestamp": "2024-11-20 05:04:55.381728+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:54:07.138965+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T05:04:55.381728+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "text"
 }

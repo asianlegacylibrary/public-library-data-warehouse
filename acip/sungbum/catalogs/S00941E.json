@@ -1,12 +1,12 @@
 {
     "name": "S00941E_BLA MGON DBYER MED KYI RNAL 'BYOR_A Lama Practice Where Your Root Lama and the Protector (Mahakala) are Inseparable_GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME (1762-1823).TXT",
-    "path": "rgyud_secret teachings (tantra)/mgon po_the protector (mahakala)/bla ma'i rnal 'byor_lama practice (guru yoga)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/mgon po_the protector (mahakala)/bla ma'i rnal 'byor_lama practice (guru yoga)/s00941e_bla mgon dbyer med kyi rnal 'byor_a lama practice where your root lama and the protector (mahakala) are inseparable_gung thang dkon mchog bstan pa'i sgron me (1762-1823).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAIkQ",
-    "revision_id": "613f664dc42ad8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/MGON PO_THE PROTECTOR (MAHAKALA)/BLA MA'I RNAL 'BYOR_LAMA PRACTICE (GURU YOGA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/mgon po_the protector (mahakala)/bla ma'i rnal 'byor_lama practice (guru yoga)/s00941e_bla mgon dbyer med kyi rnal 'byor_a lama practice where your root lama and the protector (mahakala) are inseparable_gung thang dkon mchog bstan pa'i sgron me (1762-1823).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABUGg",
+    "revision_id": "625a485be2eb28d294473",
     "content_hash": "6946a0e84078cc38eeba5ee165806633a10305dddb1952ea155a502bfd3f2244",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:09:31.000028",
+    "server_modified": "2024-10-29 21:46:48",
+    "last_sync": "2024-11-19 20:54:58.359929",
     "size": 6691,
     "meta_text": null,
     "cat_ref": "S00941E",
@@ -19,10 +19,10 @@
     "author_simple": "GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME",
     "subject": [
         {
-            "_id": "232825084526",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/MGON PO_THE PROTECTOR (MAHAKALA)/BLA MA'I RNAL 'BYOR_LAMA PRACTICE (GURU YOGA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/MGON PO/BLA MA'I RNAL 'BYOR",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/THE PROTECTOR (MAHAKALA)/LAMA PRACTICE (GURU YOGA)",
+            "_id": "326037877356",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/MGON PO_THE PROTECTOR (MAHAKALA)/BLA MA'I RNAL 'BYOR_LAMA PRACTICE (GURU YOGA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/MGON PO/BLA MA'I RNAL 'BYOR",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/THE PROTECTOR (MAHAKALA)/LAMA PRACTICE (GURU YOGA)",
             "subject_tibetan": "BLA MA'I RNAL 'BYOR",
             "subject_english": "LAMA PRACTICE (GURU YOGA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P298"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/mgon po_the protector (mahakala)/bla ma'i rnal 'byor_lama practice (guru yoga)",
-            "timestamp": "2024-09-10T02:09:31.007176+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/MGON PO_THE PROTECTOR (MAHAKALA)/BLA MA'I RNAL 'BYOR_LAMA PRACTICE (GURU YOGA)",
+            "timestamp": "2024-11-20 04:54:58.369845+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:54:58.369845+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

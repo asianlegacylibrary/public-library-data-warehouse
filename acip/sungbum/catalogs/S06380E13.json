@@ -1,12 +1,12 @@
 {
     "name": "S06380E13_RDO RJE RAB BRTAN MA LA GSOL 'DEBS_Supplication to the Angel 'Solid Diamond'_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/rdo rje rab brtan ma_lady of solid diamond/bla brgyud_lama lineage trees",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/rdo rje rab brtan ma_lady of solid diamond/bla brgyud_lama lineage trees/s06380e13_rdo rje rab brtan ma la gsol 'debs_supplication to the angel 'solid diamond'_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAK2g",
-    "revision_id": "613f6652788f28d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RAB BRTAN MA_LADY OF SOLID DIAMOND/BLA BRGYUD_LAMA LINEAGE TREES",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/rdo rje rab brtan ma_lady of solid diamond/bla brgyud_lama lineage trees/s06380e13_rdo rje rab brtan ma la gsol 'debs_supplication to the angel 'solid diamond'_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABV5g",
+    "revision_id": "625a489773caa8d294473",
     "content_hash": "9000c2f2786501aefd7919c253a433677ae1a2acf2ad5a1ca8457b7269baea1f",
-    "server_modified": "2024-03-18T21:54:00",
-    "last_sync": "2024-09-09T19:11:59.360495",
+    "server_modified": "2024-10-29 21:47:51",
+    "last_sync": "2024-11-19 20:58:18.339639",
     "size": 647,
     "meta_text": null,
     "cat_ref": "S06380E13",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "179851720841",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RAB BRTAN MA_LADY OF SOLID DIAMOND/BLA BRGYUD_LAMA LINEAGE TREES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/RDO RJE RAB BRTAN MA/BLA BRGYUD",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/LADY OF SOLID DIAMOND/LAMA LINEAGE TREES",
+            "_id": "221150477780",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RAB BRTAN MA_LADY OF SOLID DIAMOND/BLA BRGYUD_LAMA LINEAGE TREES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/RDO RJE RAB BRTAN MA/BLA BRGYUD",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/LADY OF SOLID DIAMOND/LAMA LINEAGE TREES",
             "subject_tibetan": "BLA BRGYUD",
             "subject_english": "LAMA LINEAGE TREES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/rdo rje rab brtan ma_lady of solid diamond/bla brgyud_lama lineage trees",
-            "timestamp": "2024-09-10T02:11:59.365208+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RAB BRTAN MA_LADY OF SOLID DIAMOND/BLA BRGYUD_LAMA LINEAGE TREES",
+            "timestamp": "2024-11-20 04:58:18.344269+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:58:18.344269+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

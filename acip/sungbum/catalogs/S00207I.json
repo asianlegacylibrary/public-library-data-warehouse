@@ -1,28 +1,28 @@
 {
     "name": "S00207I_CHOS SDE CHEN PO RNAMS SU GSUNG PA'I CHOS SPYOD KYI RIM PA DANG SER SMAD THOS BSAM NOR GLING GRVA TSANG GI THUN MONG MA YIN PA'I NYE MKHO CHOS SPYOD BCAS_A Compendium of Liturgical Texts Utilized at the Various Major Monasteries, along with +.TXT",
-    "path": "cho ga_rituals/chos spyod_monastic prayer books/se ra smad_sera mey monastery",
-    "download_path": "/sungbum updated 4 26 23 bk/cho ga_rituals/chos spyod_monastic prayer books/se ra smad_sera mey monastery/s00207i_chos sde chen po rnams su gsung pa'i chos spyod kyi rim pa dang ser smad thos bsam nor gling grva tsang gi thun mong ma yin pa'i nye mkho chos spyod bcas_a compendium of liturgical texts utilized at the various major monasteries, along with +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAEjw",
-    "revision_id": "613f6644849b38d294473",
+    "path": "CHO GA_RITUALS/CHOS SPYOD_MONASTIC PRAYER BOOKS/SE RA SMAD_SERA MEY MONASTERY",
+    "download_path": "/sungbum updated 7 30 23 nl/cho ga_rituals/chos spyod_monastic prayer books/se ra smad_sera mey monastery/s00207i_chos sde chen po rnams su gsung pa'i chos spyod kyi rim pa dang ser smad thos bsam nor gling grva tsang gi thun mong ma yin pa'i nye mkho chos spyod bcas_a compendium of liturgical texts utilized at the various major monasteries, along with +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABl5w",
+    "revision_id": "625a4afc108428d294473",
     "content_hash": "2550041f82b79d3367b63a182326b44a27ba7e00707f3c37be9ac539fc586543",
-    "server_modified": "2024-03-18T21:53:45",
-    "last_sync": "2024-09-09T19:05:47.556723",
+    "server_modified": "2024-10-29 21:58:33",
+    "last_sync": "2024-11-19 21:26:08.842343",
     "size": 621110,
-    "meta_text": "Liturgical Works which are Unique to Sera Mey Monastery and Needed for Use by Its Members_SNA TSOGS",
+    "meta_text": "('Liturgical Works which are Unique to Sera Mey Monastery and Needed for Use by Its Members_SNA TSOGS', 'rtf')",
     "cat_ref": "S00207I",
     "work_ref": "W.S00207I",
     "title_tib": "CHOS SDE CHEN PO RNAMS SU GSUNG PA'I CHOS SPYOD KYI RIM PA DANG SER SMAD THOS BSAM NOR GLING GRVA TSANG GI THUN MONG MA YIN PA'I NYE MKHO CHOS SPYOD BCAS",
-    "title_eng": "A Compendium of Liturgical Texts Utilized at the Various Major Monasteries, along withLiturgical Works which are Unique to Sera Mey Monastery and Needed for Use by Its Members",
+    "title_eng": "A Compendium of Liturgical Texts Utilized at the Various Major Monasteries, along with('Liturgical Works which are Unique to Sera Mey Monastery and Needed for Use by Its MembersSNA TSOGS', 'rtf')",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
-    "author_simple": "SNA TSOGS",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "204190593546",
-            "subject_path": "SUNGBUM_SUNGBUM/CHO GA_RITUALS/CHOS SPYOD_MONASTIC PRAYER BOOKS/SE RA SMAD_SERA MEY MONASTERY",
-            "subject_path_tibetan": "SUNGBUM/CHO GA/CHOS SPYOD/SE RA SMAD",
-            "subject_path_english": "SUNGBUM/RITUALS/MONASTIC PRAYER BOOKS/SERA MEY MONASTERY",
+            "_id": "170743390617",
+            "subject_path": "GSUNG 'BUM_Sungbum/CHO GA_RITUALS/CHOS SPYOD_MONASTIC PRAYER BOOKS/SE RA SMAD_SERA MEY MONASTERY",
+            "subject_path_tibetan": "GSUNG 'BUM/CHO GA/CHOS SPYOD/SE RA SMAD",
+            "subject_path_english": "Sungbum/RITUALS/MONASTIC PRAYER BOOKS/SERA MEY MONASTERY",
             "subject_tibetan": "SE RA SMAD",
             "subject_english": "SERA MEY MONASTERY"
         }
@@ -30,16 +30,24 @@
     "items": [],
     "author": [
         {
-            "author_name": "SNA TSOGS",
+            "author_name": "",
             "author_birth": null,
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "cho ga_rituals/chos spyod_monastic prayer books/se ra smad_sera mey monastery",
-            "timestamp": "2024-09-10T02:05:47.566114+00:00"
+            "path": "GSUNG 'BUM_Sungbum/CHO GA_RITUALS/CHOS SPYOD_MONASTIC PRAYER BOOKS/SE RA SMAD_SERA MEY MONASTERY",
+            "timestamp": "2024-11-20 05:26:08.846262+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:26:08.846262+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

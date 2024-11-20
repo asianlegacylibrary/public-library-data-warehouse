@@ -1,12 +1,12 @@
 {
     "name": "S06370MJ7_RGYUN PAR BLANG DOR PHYIN CI LOG TU SPYAD PA'I 'BRAS BU SOGS SKOR GYI DRI LAN_Response to Questions on Such Subjects as the Consequences of a Continual Failure to Observe the Laws of Right and Wrong_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "lam rim_steps of the path/dri lan_questions and answers",
-    "download_path": "/sungbum updated 4 26 23 bk/lam rim_steps of the path/dri lan_questions and answers/s06370mj7_rgyun par blang dor phyin ci log tu spyad pa'i 'bras bu sogs skor gyi dri lan_response to questions on such subjects as the consequences of a continual failure to observe the laws of right and wrong_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAHDA",
-    "revision_id": "613f66492f1768d294473",
+    "path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "download_path": "/sungbum updated 7 30 23 nl/dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)/s06370mj7_rgyun par blang dor phyin ci log tu spyad pa'i 'bras bu sogs skor gyi dri lan_response to questions on such subjects as the consequences of a continual failure to observe the laws of right and wrong_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABTjQ",
+    "revision_id": "625a483d215e18d294473",
     "content_hash": "800602eedb0e1e2f44b13ef289be731714d7040e44e901f8fb9949d709816d03",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:08:09.119977",
+    "server_modified": "2024-10-29 21:46:16",
+    "last_sync": "2024-11-19 20:54:01.659464",
     "size": 447,
     "meta_text": null,
     "cat_ref": "S06370MJ7",
@@ -19,19 +19,19 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "210567637591",
-            "subject_path": "SUNGBUM_SUNGBUM/LAM RIM_STEPS OF THE PATH/DRI LAN_QUESTIONS AND ANSWERS",
-            "subject_path_tibetan": "SUNGBUM/LAM RIM/DRI LAN",
-            "subject_path_english": "SUNGBUM/STEPS OF THE PATH/QUESTIONS AND ANSWERS",
-            "subject_tibetan": "DRI LAN",
+            "_id": "250883940513",
+            "subject_path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "GSUNG 'BUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "Sungbum/QUESTIONS AND ANSWERS",
+            "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
             "subject_english": "QUESTIONS AND ANSWERS"
         },
         {
-            "_id": "244831615226",
-            "subject_path": "SUNGBUM_SUNGBUM/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_tibetan": "SUNGBUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_english": "SUNGBUM/QUESTIONS AND ANSWERS",
-            "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "_id": "224862218803",
+            "subject_path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/DRI LAN_QUESTIONS AND ANSWERS",
+            "subject_path_tibetan": "GSUNG 'BUM/LAM RIM/DRI LAN",
+            "subject_path_english": "Sungbum/STEPS OF THE PATH/QUESTIONS AND ANSWERS",
+            "subject_tibetan": "DRI LAN",
             "subject_english": "QUESTIONS AND ANSWERS"
         }
     ],
@@ -46,15 +46,29 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "lam rim_steps of the path/dri lan_questions and answers",
-            "timestamp": "2024-09-10T02:08:09.137973+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "timestamp": "2024-11-20 04:54:07.141538+00:00"
         },
         {
-            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
-            "timestamp": "2024-09-10T02:21:49.624500+00:00"
+            "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/DRI LAN_QUESTIONS AND ANSWERS",
+            "timestamp": "2024-11-20 05:17:46.889588+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:54:07.141538+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T05:17:46.889588+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "text"
 }

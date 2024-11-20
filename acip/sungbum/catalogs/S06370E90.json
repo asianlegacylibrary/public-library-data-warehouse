@@ -1,14 +1,14 @@
 {
     "name": "S06370E90_RGYUD SDE BZHI JI LTAR YIN PA DANG, LHA GANG DANG GANG RGYUD SDE GANG DANG GANG YIN LA DRI LAN_Response to a Question concerning How the Four Groups of the Secret Teachings are Defined, and Which Angels Belong to Which Group_DNGUL CHU DHAR+.TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/rgyud sde bzhi_four classes of the secret teachings",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/rgyud sde bzhi_four classes of the secret teachings/s06370e90_rgyud sde bzhi ji ltar yin pa dang, lha gang dang gang rgyud sde gang dang gang yin la dri lan_response to a question concerning how the four groups of the secret teachings are defined, and which angels belong to which group_dngul chu dhar+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAORA",
-    "revision_id": "613f665b6105d8d294473",
+    "path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "download_path": "/sungbum updated 7 30 23 nl/dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)/s06370e90_rgyud sde bzhi ji ltar yin pa dang, lha gang dang gang rgyud sde gang dang gang yin la dri lan_response to a question concerning how the four groups of the secret teachings are defined, and which angels belong to which group_dngul chu dhar+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABSHw",
+    "revision_id": "625a48080c3a28d294473",
     "content_hash": "050f51d9567547792a4fe0a9a1f8bb321684dd2fb5217fa76399202a4b404bc2",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:15:38.344255",
+    "server_modified": "2024-10-29 21:45:21",
+    "last_sync": "2024-11-19 20:53:22.828251",
     "size": 566,
-    "meta_text": "MA BHADRA (1772-1851)",
+    "meta_text": "('MA BHADRA (1772-1851)', 'rtf')",
     "cat_ref": "S06370E90",
     "work_ref": "W.S06370E90",
     "title_tib": "RGYUD SDE BZHI JI LTAR YIN PA DANG, LHA GANG DANG GANG RGYUD SDE GANG DANG GANG YIN LA DRI LAN",
@@ -19,20 +19,20 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "220040042143",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/RGYUD SDE BZHI_FOUR CLASSES OF THE SECRET TEACHINGS",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/RGYUD SDE BZHI",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/FOUR CLASSES OF THE SECRET TEACHINGS",
-            "subject_tibetan": "RGYUD SDE BZHI",
-            "subject_english": "FOUR CLASSES OF THE SECRET TEACHINGS"
-        },
-        {
-            "_id": "244831615226",
-            "subject_path": "SUNGBUM_SUNGBUM/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_tibetan": "SUNGBUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_english": "SUNGBUM/QUESTIONS AND ANSWERS",
+            "_id": "250883940513",
+            "subject_path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "GSUNG 'BUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "Sungbum/QUESTIONS AND ANSWERS",
             "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
             "subject_english": "QUESTIONS AND ANSWERS"
+        },
+        {
+            "_id": "252627356292",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/RGYUD SDE BZHI_FOUR CLASSES OF THE SECRET TEACHINGS",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/RGYUD SDE BZHI",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/FOUR CLASSES OF THE SECRET TEACHINGS",
+            "subject_tibetan": "RGYUD SDE BZHI",
+            "subject_english": "FOUR CLASSES OF THE SECRET TEACHINGS"
         }
     ],
     "items": [],
@@ -46,15 +46,29 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/rgyud sde bzhi_four classes of the secret teachings",
-            "timestamp": "2024-09-10T02:15:38.347318+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "timestamp": "2024-11-20 04:54:07.129226+00:00"
         },
         {
-            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
-            "timestamp": "2024-09-10T02:21:49.567388+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/RGYUD SDE BZHI_FOUR CLASSES OF THE SECRET TEACHINGS",
+            "timestamp": "2024-11-20 05:04:17.411354+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:54:07.129226+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T05:04:17.411354+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "text"
 }

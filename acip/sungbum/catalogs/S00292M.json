@@ -1,28 +1,28 @@
 {
     "name": "S00292M_DPAL LDAN STOD RGYUD GRVA TSANG GI PHYAG BZHES LTAR GSANG 'DUS DANG, BDE MCHOG GI CHO GA DANG 'BREL BAR RAB GNAS DGE LEGS CHAR 'BEBS BYA TSUL_Instructions for Performing the Rite of Consecration known as 'The Shower of a Sea of Virtue and Go+.TXT",
-    "path": "cho ga_rituals/rab gnas_consecration rituals",
-    "download_path": "/sungbum updated 4 26 23 bk/cho ga_rituals/rab gnas_consecration rituals/s00292m_dpal ldan stod rgyud grva tsang gi phyag bzhes ltar gsang 'dus dang, bde mchog gi cho ga dang 'brel bar rab gnas dge legs char 'bebs bya tsul_instructions for performing the rite of consecration known as 'the shower of a sea of virtue and go+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAEsQ",
-    "revision_id": "613f6644849d58d294473",
+    "path": "CHO GA_RITUALS/RAB GNAS_CONSECRATION RITUALS",
+    "download_path": "/sungbum updated 7 30 23 nl/cho ga_rituals/rab gnas_consecration rituals/s00292m_dpal ldan stod rgyud grva tsang gi phyag bzhes ltar gsang 'dus dang, bde mchog gi cho ga dang 'brel bar rab gnas dge legs char 'bebs bya tsul_instructions for performing the rite of consecration known as 'the shower of a sea of virtue and go+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABlww",
+    "revision_id": "625a4af65acfc8d294473",
     "content_hash": "218a475dec75e41539a6ced9b96b86b7e31c5fce24cfee93fbd2029320ce393a",
-    "server_modified": "2024-03-18T21:53:45",
-    "last_sync": "2024-09-09T19:05:55.175543",
+    "server_modified": "2024-10-29 21:58:27",
+    "last_sync": "2024-11-19 21:26:00.887971",
     "size": 70292,
-    "meta_text": "odness,’ related to Rituals of the Secret Collection (Guhyasamaja) and Highest Bliss (Sambara), according to the Custom of the Glorious Gyutu Tantric College_@ (@-@)",
+    "meta_text": "('odness,’ related to Rituals of the Secret Collection (Guhyasamaja) and Highest Bliss (Sambara), according to the Custom of the Glorious Gyutu Tantric College_@ (@-@)', 'rtf')",
     "cat_ref": "S00292M",
     "work_ref": "W.S00292M",
     "title_tib": "DPAL LDAN STOD RGYUD GRVA TSANG GI PHYAG BZHES LTAR GSANG 'DUS DANG, BDE MCHOG GI CHO GA DANG 'BREL BAR RAB GNAS DGE LEGS CHAR 'BEBS BYA TSUL",
-    "title_eng": "Instructions for Performing the Rite of Consecration known as 'The Shower of a Sea of Virtue and Goodness,’ related to Rituals of the Secret Collection (Guhyasamaja) and Highest Bliss (Sambara), according to the Custom of the Glorious Gyutu Tantric College",
+    "title_eng": "Instructions for Performing the Rite of Consecration known as 'The Shower of a Sea of Virtue and Go('odness,’ related to Rituals of the Secret Collection (Guhyasamaja) and Highest Bliss (Sambara), according to the Custom of the Glorious Gyutu Tantric College@ (@-@)', 'rtf')",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "",
     "subject": [
         {
-            "_id": "882668806207",
-            "subject_path": "SUNGBUM_SUNGBUM/CHO GA_RITUALS/RAB GNAS_CONSECRATION RITUALS",
-            "subject_path_tibetan": "SUNGBUM/CHO GA/RAB GNAS",
-            "subject_path_english": "SUNGBUM/RITUALS/CONSECRATION RITUALS",
+            "_id": "333726750752",
+            "subject_path": "GSUNG 'BUM_Sungbum/CHO GA_RITUALS/RAB GNAS_CONSECRATION RITUALS",
+            "subject_path_tibetan": "GSUNG 'BUM/CHO GA/RAB GNAS",
+            "subject_path_english": "Sungbum/RITUALS/CONSECRATION RITUALS",
             "subject_tibetan": "RAB GNAS",
             "subject_english": "CONSECRATION RITUALS"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "cho ga_rituals/rab gnas_consecration rituals",
-            "timestamp": "2024-09-10T02:05:55.217976+00:00"
+            "path": "GSUNG 'BUM_Sungbum/CHO GA_RITUALS/RAB GNAS_CONSECRATION RITUALS",
+            "timestamp": "2024-11-20 05:26:03.316358+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:26:03.316358+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

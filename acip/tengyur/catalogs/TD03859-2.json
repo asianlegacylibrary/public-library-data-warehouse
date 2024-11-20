@@ -1,45 +1,53 @@
 {
     "name": "TD03859-2_SHES RAB SGRON MA RGYA CHER 'GREL PA (Prajñā Pradīpa Ṭīkā).txt",
-    "path": "TENGYUR_TENGYUR/04 DBU MA_Middle Way School (Madhyamaka)/VOL 5 (ZHA)",
+    "path": "04 DBU MA_Middle Way School (Madhyamaka)/VOL 5 (ZHA)",
     "download_path": "/tengyur updated 10 31 24 ws/04 dbu ma_middle way school (madhyamaka)/vol 5 (zha)/td03859-2_shes rab sgron ma rgya cher 'grel pa (prajñā pradīpa ṭīkā).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB3rQ",
     "revision_id": "62633bd2013228d294473",
     "content_hash": "487b26e3b36e6f940286866773b591b9049ecb3e0decb304f3efd61874b08425",
     "server_modified": "2024-11-06 00:38:38",
-    "last_sync": "2024-11-13 01:58:14.515740+00:00",
+    "last_sync": "2024-11-20 03:59:07.830298",
     "size": 1403128,
+    "meta_text": null,
     "cat_ref": "TD03859-2",
     "work_ref": "W.TD03859-2",
-    "title_tib": "SHES RAB SGRON MA RGYA CHER 'GREL PA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "188267877919",
-            "subject_path": "TENGYUR_TENGYUR/04 DBU MA_Middle Way School (Madhyamaka)/VOL 5 (ZHA)",
-            "subject_path_tibetan": "TENGYUR/DBU MA/5 (ZHA)",
-            "subject_path_english": "TENGYUR/Middle Way School (Madhyamaka)/VOL 5 (ZHA)",
-            "subject_tibetan": "5 (ZHA)",
-            "subject_english": "VOL 5 (ZHA)"
+            "_id": "292017444035",
+            "subject_path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 5 (ZHA)",
+            "subject_path_tibetan": "BSTAN 'GYUR/04 DBU MA/VOL 5 (ZHA)",
+            "subject_path_english": "Tengyur/Middle Way School (Madhyamaka)",
+            "subject_tibetan": "VOL 5 (ZHA)",
+            "subject_english": "Middle Way School (Madhyamaka)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Prajñā Pradīpa Ṭīkā",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 5 (ZHA)",
+            "timestamp": "2024-11-20 11:59:07.835222+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:58:14.783564+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T11:59:07.835222+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/04 DBU MA_Middle Way School (Madhyamaka)/VOL 5 (ZHA)",
-            "timestamp": "2024-11-13 01:58:14.783564+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

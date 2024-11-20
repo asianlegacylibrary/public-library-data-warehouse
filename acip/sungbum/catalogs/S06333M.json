@@ -1,28 +1,28 @@
 {
     "name": "S06333M_BYANG CHUB LAM GYI RIM PA'I DMAR KHRID THAMS CAD MKHYEN PAR 'GROD PA'I BDE LAM GYI LHAN THABS NAG 'GROS SU BKOD PA_A Supplement to the 'Dissection' Presentation of the Steps of the Path to Enlightenment entitled 'The Path of Ease for Traveli+.TXT",
-    "path": "lam rim_steps of the path/bde lam_path to bliss/lhan thabs_rituals",
-    "download_path": "/sungbum updated 4 26 23 bk/lam rim_steps of the path/bde lam_path to bliss/lhan thabs_rituals/s06333m_byang chub lam gyi rim pa'i dmar khrid thams cad mkhyen par 'grod pa'i bde lam gyi lhan thabs nag 'gros su bkod pa_a supplement to the 'dissection' presentation of the steps of the path to enlightenment entitled 'the path of ease for traveli+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAGyw",
-    "revision_id": "613f66492f1358d294473",
+    "path": "LAM RIM_STEPS OF THE PATH/BDE LAM_PATH TO BLISS/LHAN THABS_RITUALS",
+    "download_path": "/sungbum updated 7 30 23 nl/lam rim_steps of the path/bde lam_path to bliss/lhan thabs_rituals/s06333m_byang chub lam gyi rim pa'i dmar khrid thams cad mkhyen par 'grod pa'i bde lam gyi lhan thabs nag 'gros su bkod pa_a supplement to the 'dissection' presentation of the steps of the path to enlightenment entitled 'the path of ease for traveli+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABhJw",
+    "revision_id": "625a4a55746a38d294473",
     "content_hash": "c8e1b559e104f2b41d6b9c813259e5a4a3d5ceed1bdd3a74b2a904d2c57e0361",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:07:54.220058",
+    "server_modified": "2024-10-29 21:55:39",
+    "last_sync": "2024-11-19 21:17:23.834938",
     "size": 11268,
-    "meta_text": "ng to the State of All-Knowing,’ arranged for Recitation_DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "meta_text": "('ng to the State of All-Knowing,’ arranged for Recitation_DNGUL CHU DHARMA BHADRA (1772-1851)', 'rtf')",
     "cat_ref": "S06333M",
     "work_ref": "W.S06333M",
     "title_tib": "BYANG CHUB LAM GYI RIM PA'I DMAR KHRID THAMS CAD MKHYEN PAR 'GROD PA'I BDE LAM GYI LHAN THABS NAG 'GROS SU BKOD PA",
-    "title_eng": "A Supplement to the 'Dissection' Presentation of the Steps of the Path to Enlightenment entitled 'The Path of Ease for Traveling to the State of All-Knowing,’ arranged for Recitation",
+    "title_eng": "A Supplement to the 'Dissection' Presentation of the Steps of the Path to Enlightenment entitled 'The Path of Ease for Traveli('ng to the State of All-Knowing,’ arranged for Recitation",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "202396200939",
-            "subject_path": "SUNGBUM_SUNGBUM/LAM RIM_STEPS OF THE PATH/BDE LAM_PATH TO BLISS/LHAN THABS_RITUALS",
-            "subject_path_tibetan": "SUNGBUM/LAM RIM/BDE LAM/LHAN THABS",
-            "subject_path_english": "SUNGBUM/STEPS OF THE PATH/PATH TO BLISS/RITUALS",
+            "_id": "148530876529",
+            "subject_path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/BDE LAM_PATH TO BLISS/LHAN THABS_RITUALS",
+            "subject_path_tibetan": "GSUNG 'BUM/LAM RIM/BDE LAM/LHAN THABS",
+            "subject_path_english": "Sungbum/STEPS OF THE PATH/PATH TO BLISS/RITUALS",
             "subject_tibetan": "LHAN THABS",
             "subject_english": "RITUALS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "lam rim_steps of the path/bde lam_path to bliss/lhan thabs_rituals",
-            "timestamp": "2024-09-10T02:07:54.231081+00:00"
+            "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/BDE LAM_PATH TO BLISS/LHAN THABS_RITUALS",
+            "timestamp": "2024-11-20 05:17:23.841949+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:17:23.841949+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

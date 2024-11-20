@@ -1,14 +1,14 @@
 {
     "name": "S00261A_'DUS BA'I BSKYED RIM GYI RNAM BSHAD GNAD DON KUN GSAL 'DUS PA'I BSKYED RIM_'A Clarification of All the Major Points,' being an Explanation of the Creation Stage in the Teaching of the Secret Collection (Guhyasamaja)_CO NE BLA MA GRAGS PA BSH +.TXT",
-    "path": "rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/bskyed rim_creation stage (utpatti krama)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/bskyed rim_creation stage (utpatti krama)/s00261a_'dus ba'i bskyed rim gyi rnam bshad gnad don kun gsal 'dus pa'i bskyed rim_'a clarification of all the major points,' being an explanation of the creation stage in the teaching of the secret collection (guhyasamaja)_co ne bla ma grags pa bsh +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAARRA",
-    "revision_id": "613f665fcd6c98d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/BSKYED RIM_CREATION STAGE (UTPATTI KRAMA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/bskyed rim_creation stage (utpatti krama)/s00261a_'dus ba'i bskyed rim gyi rnam bshad gnad don kun gsal 'dus pa'i bskyed rim_'a clarification of all the major points,' being an explanation of the creation stage in the teaching of the secret collection (guhyasamaja)_co ne bla ma grags pa bsh +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABbvA",
+    "revision_id": "625a495bdc2898d294473",
     "content_hash": "54587e9f1f58afa2f6c31cc21d76a2a55e27028809dfdc62d9200458b2cbb9f3",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:18:57.877837",
+    "server_modified": "2024-10-29 21:51:17",
+    "last_sync": "2024-11-19 21:07:41.969113",
     "size": 116119,
-    "meta_text": "AD SGRUB (1675-1748)",
+    "meta_text": "('AD SGRUB (1675-1748)', 'rtf')",
     "cat_ref": "S00261A",
     "work_ref": "W.S00261A",
     "title_tib": "'DUS BA'I BSKYED RIM GYI RNAM BSHAD GNAD DON KUN GSAL 'DUS PA'I BSKYED RIM",
@@ -19,10 +19,10 @@
     "author_simple": "CO NE BLA MA GRAGS PA BSHAD SGRUB",
     "subject": [
         {
-            "_id": "232991814885",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/BSKYED RIM_CREATION STAGE (UTPATTI KRAMA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/GSANG 'DUS/BSKYED RIM",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/SECRET COLLECTION (GUHYASAMAJA)/CREATION STAGE (UTPATTI KRAMA)",
+            "_id": "924960933709",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/BSKYED RIM_CREATION STAGE (UTPATTI KRAMA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/GSANG 'DUS/BSKYED RIM",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/SECRET COLLECTION (GUHYASAMAJA)/CREATION STAGE (UTPATTI KRAMA)",
             "subject_tibetan": "BSKYED RIM",
             "subject_english": "CREATION STAGE (UTPATTI KRAMA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P1629"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/bskyed rim_creation stage (utpatti krama)",
-            "timestamp": "2024-09-10T02:18:57.896921+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/BSKYED RIM_CREATION STAGE (UTPATTI KRAMA)",
+            "timestamp": "2024-11-20 05:07:45.500410+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:07:45.500410+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

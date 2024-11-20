@@ -1,28 +1,28 @@
 {
     "name": "S00345E_RJE BTZUN RDO RJE RNAL 'BYOR MA N'A RO MKHA' SPYOD DBANG MO'I DKYIL 'KHOR GYI CHO GA BDE CHEN DGA' STON_'A Festival of Great Bliss,' being a Ritual for Entering the Secret World of the Holy Angel of Diamond (Vajrayogini), the Queen of Naropa+.TXT",
-    "path": "rgyud_secret teachings (tantra)/rdo rje rnal 'byor ma_angel of diamond (vajrayogini)/dkyil 'khor_secret world (mandala)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/rdo rje rnal 'byor ma_angel of diamond (vajrayogini)/dkyil 'khor_secret world (mandala)/s00345e_rje btzun rdo rje rnal 'byor ma n'a ro mkha' spyod dbang mo'i dkyil 'khor gyi cho ga bde chen dga' ston_'a festival of great bliss,' being a ritual for entering the secret world of the holy angel of diamond (vajrayogini), the queen of naropa+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAJIg",
-    "revision_id": "613f664dc433e8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAL 'BYOR MA_ANGEL OF DIAMOND (VAJRAYOGINI)/DKYIL 'KHOR_SECRET WORLD (MANDALA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/rdo rje rnal 'byor ma_angel of diamond (vajrayogini)/dkyil 'khor_secret world (mandala)/s00345e_rje btzun rdo rje rnal 'byor ma n'a ro mkha' spyod dbang mo'i dkyil 'khor gyi cho ga bde chen dga' ston_'a festival of great bliss,' being a ritual for entering the secret world of the holy angel of diamond (vajrayogini), the queen of naropa+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABcHA",
+    "revision_id": "625a496d77e378d294473",
     "content_hash": "65ccf9bcd008d76307409aa69a2080c6e17cd1bfe8791df18d363698333c3739",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:10:09.607822",
+    "server_modified": "2024-10-29 21:51:35",
+    "last_sync": "2024-11-19 21:08:20.570715",
     "size": 88438,
-    "meta_text": "'s Heaven of the Sky_SKYABS RJE PHA BONG KHA PA BDE CHEN SNYING PO (1878-1941)",
+    "meta_text": "(\"'s Heaven of the Sky_SKYABS RJE PHA BONG KHA PA BDE CHEN SNYING PO (1878-1941)\", 'rtf')",
     "cat_ref": "S00345E",
     "work_ref": "W.S00345E",
     "title_tib": "RJE BTZUN RDO RJE RNAL 'BYOR MA N'A RO MKHA' SPYOD DBANG MO'I DKYIL 'KHOR GYI CHO GA BDE CHEN DGA' STON",
-    "title_eng": "'A Festival of Great Bliss,' being a Ritual for Entering the Secret World of the Holy Angel of Diamond (Vajrayogini), the Queen of Naropa's Heaven of the Sky",
+    "title_eng": "'A Festival of Great Bliss,' being a Ritual for Entering the Secret World of the Holy Angel of Diamond (Vajrayogini), the Queen of Naropa(\"'s Heaven of the Sky",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "SKYABS RJE PHA BONG KHA PA BDE CHEN SNYING PO",
     "subject": [
         {
-            "_id": "906416714101",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAL 'BYOR MA_ANGEL OF DIAMOND (VAJRAYOGINI)/DKYIL 'KHOR_SECRET WORLD (MANDALA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/RDO RJE RNAL 'BYOR MA/DKYIL 'KHOR",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/ANGEL OF DIAMOND (VAJRAYOGINI)/SECRET WORLD (MANDALA)",
+            "_id": "254585941512",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAL 'BYOR MA_ANGEL OF DIAMOND (VAJRAYOGINI)/DKYIL 'KHOR_SECRET WORLD (MANDALA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/RDO RJE RNAL 'BYOR MA/DKYIL 'KHOR",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/ANGEL OF DIAMOND (VAJRAYOGINI)/SECRET WORLD (MANDALA)",
             "subject_tibetan": "DKYIL 'KHOR",
             "subject_english": "SECRET WORLD (MANDALA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P230"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/rdo rje rnal 'byor ma_angel of diamond (vajrayogini)/dkyil 'khor_secret world (mandala)",
-            "timestamp": "2024-09-10T02:10:09.615145+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAL 'BYOR MA_ANGEL OF DIAMOND (VAJRAYOGINI)/DKYIL 'KHOR_SECRET WORLD (MANDALA)",
+            "timestamp": "2024-11-20 05:08:20.579583+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:08:20.579583+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

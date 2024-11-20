@@ -1,45 +1,53 @@
 {
     "name": "TD01327_DPAL RDO RJE SGROL MA'I SGRUB THABS (Śrī Vajra Tārā Sādhana).txt",
-    "path": "TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/01 KYE RDO RJE_Lo Diamond (Hevajra)/03 RDO RJE GUR_Diamond Canopy (Vajra Pañjara)/VOL 9 (TA)",
+    "path": "02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/01 KYE RDO RJE_Lo Diamond (Hevajra)/03 RDO RJE GUR_Diamond Canopy (Vajra Pañjara)/VOL 9 (TA)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/01 rnal 'byor bla med_unsurpassed practice (anuttara yoga)/01 kye rdo rje_lo diamond (hevajra)/03 rdo rje gur_diamond canopy (vajra pañjara)/vol 9 (ta)/td01327_dpal rdo rje sgrol ma'i sgrub thabs (śrī vajra tārā sādhana).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB87Q",
     "revision_id": "62633cc4b53f08d294473",
     "content_hash": "e48fdb368975b602f0abc72ef0337e2dac2a1d3bf7f55f124a2589e17f1c3d4e",
     "server_modified": "2024-11-06 00:42:52",
-    "last_sync": "2024-11-13 01:59:18.513106+00:00",
+    "last_sync": "2024-11-20 04:00:18.651379",
     "size": 4727,
+    "meta_text": null,
     "cat_ref": "TD01327",
     "work_ref": "W.TD01327",
-    "title_tib": "DPAL RDO RJE SGROL MA'I SGRUB THABS",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "234759485128",
-            "subject_path": "TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/01 KYE RDO RJE_Lo Diamond (Hevajra)/03 RDO RJE GUR_Diamond Canopy (Vajra Pañjara)/VOL 9 (TA)",
-            "subject_path_tibetan": "TENGYUR/RGYUD/RNAL 'BYOR BLA MED/KYE RDO RJE/RDO RJE GUR/9 (TA)",
-            "subject_path_english": "TENGYUR/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Lo Diamond (Hevajra)/Diamond Canopy (Vajra Pañjara)/VOL 9 (TA)",
-            "subject_tibetan": "9 (TA)",
-            "subject_english": "VOL 9 (TA)"
+            "_id": "182214268303",
+            "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/01 KYE RDO RJE_Lo Diamond (Hevajra)/03 RDO RJE GUR_Diamond Canopy (Vajra Pañjara)/VOL 9 (TA)",
+            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/01 RNAL 'BYOR BLA MED/01 KYE RDO RJE/03 RDO RJE GUR/VOL 9 (TA)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Lo Diamond (Hevajra)/Diamond Canopy (Vajra Pañjara)",
+            "subject_tibetan": "VOL 9 (TA)",
+            "subject_english": "Diamond Canopy (Vajra Pañjara)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Śrī Vajra Tārā Sādhana",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/01 KYE RDO RJE_Lo Diamond (Hevajra)/03 RDO RJE GUR_Diamond Canopy (Vajra Pañjara)/VOL 9 (TA)",
+            "timestamp": "2024-11-20 12:00:18.662791+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:59:18.514748+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T12:00:18.662791+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/01 KYE RDO RJE_Lo Diamond (Hevajra)/03 RDO RJE GUR_Diamond Canopy (Vajra Pañjara)/VOL 9 (TA)",
-            "timestamp": "2024-11-13 01:59:18.514748+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

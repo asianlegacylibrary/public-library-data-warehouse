@@ -1,12 +1,12 @@
 {
     "name": "S05301E21_SHIN TU GCES PA'I GDAMS NGAG ZAB MO ZHAL BZHES RNAMS ZHIB TU BSHAD PA_Personal Philosophical Positions_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419).TXT",
-    "path": "rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/bsre ba_practice of mixing",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/bsre ba_practice of mixing/s05301e21_shin tu gces pa'i gdams ngag zab mo zhal bzhes rnams zhib tu bshad pa_personal philosophical positions_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAQmQ",
-    "revision_id": "613f665fcd61e8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/BSRE BA_PRACTICE OF MIXING",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/bsre ba_practice of mixing/s05301e21_shin tu gces pa'i gdams ngag zab mo zhal bzhes rnams zhib tu bshad pa_personal philosophical positions_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABa_A",
+    "revision_id": "625a49416422c8d294473",
     "content_hash": "b77f210e85648dc256228edd996707a5929df00df3822740a84f4f2ab0212bbf",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:18:06.399185",
+    "server_modified": "2024-10-29 21:50:49",
+    "last_sync": "2024-11-19 21:06:35.056674",
     "size": 25903,
     "meta_text": null,
     "cat_ref": "S05301E21",
@@ -19,10 +19,10 @@
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "107294386828",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/BSRE BA_PRACTICE OF MIXING",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/GSANG 'DUS/BSRE BA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/SECRET COLLECTION (GUHYASAMAJA)/PRACTICE OF MIXING",
+            "_id": "934459727602",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/BSRE BA_PRACTICE OF MIXING",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/GSANG 'DUS/BSRE BA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/SECRET COLLECTION (GUHYASAMAJA)/PRACTICE OF MIXING",
             "subject_tibetan": "BSRE BA",
             "subject_english": "PRACTICE OF MIXING"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/bsre ba_practice of mixing",
-            "timestamp": "2024-09-10T02:18:06.406655+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/BSRE BA_PRACTICE OF MIXING",
+            "timestamp": "2024-11-20 05:06:35.067767+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:06:35.067767+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

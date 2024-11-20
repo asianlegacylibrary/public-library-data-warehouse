@@ -1,12 +1,12 @@
 {
     "name": "S06377E4_BHYO--BDUN MA'I SNGAGS DON 'GYUR BYAS PA'I TSUL_Meaning of the Mantra of the Seven 'Jo' in the Practice of the Woman of the Spell against War (Kali Devi)_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/hla mo_the goddess (devi)/sngags_secret words (mantra)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/hla mo_the goddess (devi)/sngags_secret words (mantra)/s06377e4_bhyo--bdun ma'i sngags don 'gyur byas pa'i tsul_meaning of the mantra of the seven 'jo' in the practice of the woman of the spell against war (kali devi)_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAKEg",
-    "revision_id": "613f66527882a8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/HLA MO_THE GODDESS (DEVI)/SNGAGS_SECRET WORDS (MANTRA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/hla mo_the goddess (devi)/sngags_secret words (mantra)/s06377e4_bhyo--bdun ma'i sngags don 'gyur byas pa'i tsul_meaning of the mantra of the seven 'jo' in the practice of the woman of the spell against war (kali devi)_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABWyQ",
+    "revision_id": "625a48ac215ed8d294473",
     "content_hash": "d387b05ebf88ac08106f68ae36304a63ee47479ed7a9adecdb185034ac1e3a91",
-    "server_modified": "2024-03-18T21:54:00",
-    "last_sync": "2024-09-09T19:11:03.116977",
+    "server_modified": "2024-10-29 21:48:13",
+    "last_sync": "2024-11-19 20:59:36.083618",
     "size": 204,
     "meta_text": null,
     "cat_ref": "S06377E4",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "307110072534",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/HLA MO_THE GODDESS (DEVI)/SNGAGS_SECRET WORDS (MANTRA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/HLA MO/SNGAGS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/THE GODDESS (DEVI)/SECRET WORDS (MANTRA)",
+            "_id": "140314894009",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/HLA MO_THE GODDESS (DEVI)/SNGAGS_SECRET WORDS (MANTRA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/HLA MO/SNGAGS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/THE GODDESS (DEVI)/SECRET WORDS (MANTRA)",
             "subject_tibetan": "SNGAGS",
             "subject_english": "SECRET WORDS (MANTRA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/hla mo_the goddess (devi)/sngags_secret words (mantra)",
-            "timestamp": "2024-09-10T02:11:03.125215+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/HLA MO_THE GODDESS (DEVI)/SNGAGS_SECRET WORDS (MANTRA)",
+            "timestamp": "2024-11-20 04:59:36.088615+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:59:36.088615+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

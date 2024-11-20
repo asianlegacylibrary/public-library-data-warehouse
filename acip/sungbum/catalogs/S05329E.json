@@ -1,14 +1,14 @@
 {
     "name": "S05329E_DRIL BU RIM LNGA'I KHRID YIG RJE'I GSUNG BZHIN SEMS DPA' CHEN POS MDZAD PA_A Book of Instruction on the Five Steps of Ghantapada, written by the Great Bodhisattva in accordance with the Teachings of Je Tsongkapa_RJE TZONG KHA PA BLO BZANG GR +.TXT",
-    "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/rim lnga_five stages (panchakrama)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/rim lnga_five stages (panchakrama)/s05329e_dril bu rim lnga'i khrid yig rje'i gsung bzhin sems dpa' chen pos mdzad pa_a book of instruction on the five steps of ghantapada, written by the great bodhisattva in accordance with the teachings of je tsongkapa_rje tzong kha pa blo bzang gr +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAPKg",
-    "revision_id": "613f665b611438d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/RIM LNGA_FIVE STAGES (PANCHAKRAMA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/rim lnga_five stages (panchakrama)/s05329e_dril bu rim lnga'i khrid yig rje'i gsung bzhin sems dpa' chen pos mdzad pa_a book of instruction on the five steps of ghantapada, written by the great bodhisattva in accordance with the teachings of je tsongkapa_rje tzong kha pa blo bzang gr +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABUxQ",
+    "revision_id": "625a487042f218d294473",
     "content_hash": "0b8baae08b2ad40904d45bfa8ed7a1d9cad69e774c2423789b0596c2011cbe73",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:16:31.515835",
+    "server_modified": "2024-10-29 21:47:10",
+    "last_sync": "2024-11-19 20:56:04.152323",
     "size": 30243,
-    "meta_text": "AGS PA (1357-1419)",
+    "meta_text": "('AGS PA (1357-1419)', 'rtf')",
     "cat_ref": "S05329E",
     "work_ref": "W.S05329E",
     "title_tib": "DRIL BU RIM LNGA'I KHRID YIG RJE'I GSUNG BZHIN SEMS DPA' CHEN POS MDZAD PA",
@@ -19,10 +19,10 @@
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "354345029746",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/RIM LNGA_FIVE STAGES (PANCHAKRAMA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/BDE MCHOG/RIM LNGA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/FIVE STAGES (PANCHAKRAMA)",
+            "_id": "308148067708",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/RIM LNGA_FIVE STAGES (PANCHAKRAMA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/BDE MCHOG/RIM LNGA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/FIVE STAGES (PANCHAKRAMA)",
             "subject_tibetan": "RIM LNGA",
             "subject_english": "FIVE STAGES (PANCHAKRAMA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/rim lnga_five stages (panchakrama)",
-            "timestamp": "2024-09-10T02:16:31.519018+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/RIM LNGA_FIVE STAGES (PANCHAKRAMA)",
+            "timestamp": "2024-11-20 04:56:04.158032+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:56:04.158032+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

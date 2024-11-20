@@ -1,12 +1,12 @@
 {
     "name": "S05275M58_RANG GI RTOGS PA BRJOD PA MDO TZAM DU BSHAD PA_A Brief Account of My Own Spiritual Life_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419).TXT",
-    "path": "nyams len_personal practice/spyi_general treatments/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)/'dun legs ma_fine intentions",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/spyi_general treatments/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)/'dun legs ma_fine intentions/s05275m58_rang gi rtogs pa brjod pa mdo tzam du bshad pa_a brief account of my own spiritual life_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAApg",
-    "revision_id": "613f663b87bef8d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/SPYI_GENERAL TREATMENTS/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)/'DUN LEGS MA_FINE INTENTIONS",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/spyi_general treatments/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)/'dun legs ma_fine intentions/s05275m58_rang gi rtogs pa brjod pa mdo tzam du bshad pa_a brief account of my own spiritual life_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABj_A",
+    "revision_id": "625a4ac0c45fa8d294473",
     "content_hash": "416c0ecb3a26133033ec9d5518d2a634489f5a34878e9e6e57f833c8527299e5",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:01:41.350191",
+    "server_modified": "2024-10-29 21:57:31",
+    "last_sync": "2024-11-19 21:22:26.022012",
     "size": 8614,
     "meta_text": null,
     "cat_ref": "S05275M58",
@@ -19,10 +19,10 @@
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "836015571036",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/SPYI_GENERAL TREATMENTS/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)/'DUN LEGS MA_FINE INTENTIONS",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/SPYI/RJE TZONG KHA PA BLO BZANG GRAGS PA/'DUN LEGS MA",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/GENERAL TREATMENTS/JE TSONGKAPA LOBSANG DRAKPA (1357-1419)/FINE INTENTIONS",
+            "_id": "177808449506",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SPYI_GENERAL TREATMENTS/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)/'DUN LEGS MA_FINE INTENTIONS",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/SPYI/RJE TZONG KHA PA BLO BZANG GRAGS PA/'DUN LEGS MA",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/GENERAL TREATMENTS/JE TSONGKAPA LOBSANG DRAKPA (1357-1419)/FINE INTENTIONS",
             "subject_tibetan": "'DUN LEGS MA",
             "subject_english": "FINE INTENTIONS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/spyi_general treatments/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)/'dun legs ma_fine intentions",
-            "timestamp": "2024-09-10T02:01:41.361613+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SPYI_GENERAL TREATMENTS/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)/'DUN LEGS MA_FINE INTENTIONS",
+            "timestamp": "2024-11-20 05:22:26.030048+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:22:26.030048+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

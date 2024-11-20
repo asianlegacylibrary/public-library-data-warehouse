@@ -1,12 +1,12 @@
 {
     "name": "S05358E_'PHO KHRID KYI RTZA TSIG BRTAG PA BRGYAD PA'I RAB TU BYED PA GSUM PA_The Root Text for the Instructions on Transference-- the Third Division of the Eighth Section_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419).TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/'pho ba_transferring consciousness",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/'pho ba_transferring consciousness/s05358e_'pho khrid kyi rtza tsig brtag pa brgyad pa'i rab tu byed pa gsum pa_the root text for the instructions on transference-- the third division of the eighth section_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAOKQ",
-    "revision_id": "613f665b610428d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/'PHO BA_TRANSFERRING CONSCIOUSNESS",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyi_general treatments/'pho ba_transferring consciousness/s05358e_'pho khrid kyi rtza tsig brtag pa brgyad pa'i rab tu byed pa gsum pa_the root text for the instructions on transference-- the third division of the eighth section_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABaNQ",
+    "revision_id": "625a4920b9f4f8d294473",
     "content_hash": "01c231289ca2cc4efbc15ba3def0a78bd6576d084f6527db89340560fd54a8e3",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:15:30.697101",
+    "server_modified": "2024-10-29 21:50:15",
+    "last_sync": "2024-11-19 21:05:11.708966",
     "size": 6814,
     "meta_text": null,
     "cat_ref": "S05358E",
@@ -19,10 +19,10 @@
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "222072253393",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/'PHO BA_TRANSFERRING CONSCIOUSNESS",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/'PHO BA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/TRANSFERRING CONSCIOUSNESS",
+            "_id": "204681786270",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/'PHO BA_TRANSFERRING CONSCIOUSNESS",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/'PHO BA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/TRANSFERRING CONSCIOUSNESS",
             "subject_tibetan": "'PHO BA",
             "subject_english": "TRANSFERRING CONSCIOUSNESS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/'pho ba_transferring consciousness",
-            "timestamp": "2024-09-10T02:15:30.709815+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/'PHO BA_TRANSFERRING CONSCIOUSNESS",
+            "timestamp": "2024-11-20 05:05:13.082145+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:05:13.082145+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

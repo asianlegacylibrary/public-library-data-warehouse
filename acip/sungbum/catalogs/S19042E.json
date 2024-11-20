@@ -1,12 +1,12 @@
 {
     "name": "S19042E_GCOD KYI GDAMS PA GDAN THOG GCIG TU DRIL NAS NYAMS SU LEN TSUL_Advices on the Practice of Termination, Explaining How to Accomplish It in a Single Sitting_'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS (1648-1721).TXT",
-    "path": "rgyud_secret teachings (tantra)/ma gcig lab sgron_machik labdrun/gcod_termination",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/ma gcig lab sgron_machik labdrun/gcod_termination/s19042e_gcod kyi gdams pa gdan thog gcig tu dril nas nyams su len tsul_advices on the practice of termination, explaining how to accomplish it in a single sitting_'jam dbyangs bzhad pa'i rdo rje ngag dbang brtzon 'grus (1648-1721).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAHhg",
-    "revision_id": "613f66492f1f08d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/GCOD_TERMINATION",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyi_general treatments/gcod_termination/s19042e_gcod kyi gdams pa gdan thog gcig tu dril nas nyams su len tsul_advices on the practice of termination, explaining how to accomplish it in a single sitting_'jam dbyangs bzhad pa'i rdo rje ngag dbang brtzon 'grus (1648-1721).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABaCQ",
+    "revision_id": "625a4919a03c28d294473",
     "content_hash": "279516a3da8823ba331919e6b2286e70203db3efe5f43cd57dba798493962029",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:08:35.726606",
+    "server_modified": "2024-10-29 21:50:07",
+    "last_sync": "2024-11-19 21:04:58.242759",
     "size": 5296,
     "meta_text": null,
     "cat_ref": "S19042E",
@@ -19,18 +19,18 @@
     "author_simple": "'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS",
     "subject": [
         {
-            "_id": "831612929877",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/MA GCIG LAB SGRON_MACHIK LABDRUN/GCOD_TERMINATION",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/MA GCIG LAB SGRON/GCOD",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/MACHIK LABDRUN/TERMINATION",
+            "_id": "175797458871",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/GCOD_TERMINATION",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/GCOD",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/TERMINATION",
             "subject_tibetan": "GCOD",
             "subject_english": "TERMINATION"
         },
         {
-            "_id": "280048529832",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/GCOD_TERMINATION",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/GCOD",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/TERMINATION",
+            "_id": "110357946947",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/MA GCIG LAB SGRON_MACHIK LABDRUN/GCOD_TERMINATION",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/MA GCIG LAB SGRON/GCOD",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/MACHIK LABDRUN/TERMINATION",
             "subject_tibetan": "GCOD",
             "subject_english": "TERMINATION"
         }
@@ -46,15 +46,29 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P423"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/ma gcig lab sgron_machik labdrun/gcod_termination",
-            "timestamp": "2024-09-10T02:08:35.737827+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/GCOD_TERMINATION",
+            "timestamp": "2024-11-20 05:04:58.250125+00:00"
         },
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/gcod_termination",
-            "timestamp": "2024-09-10T02:15:25.133783+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/MA GCIG LAB SGRON_MACHIK LABDRUN/GCOD_TERMINATION",
+            "timestamp": "2024-11-20 05:09:56.437226+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:04:58.250125+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T05:09:56.437226+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "rtf"
 }

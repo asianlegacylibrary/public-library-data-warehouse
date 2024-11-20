@@ -1,12 +1,12 @@
 {
     "name": "S06827I_RJE BTZUN PA'I DON BDUN CU_A Commentary on the Seventy Topics by the Holy One_SE RA RJE BTZUN CHOS KYI RGYAL MTSAN (1469-1546).TXT",
-    "path": "phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/don bdun cu_the 70 topics",
-    "download_path": "/sungbum updated 4 26 23 bk/phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/don bdun cu_the 70 topics/s06827i_rje btzun pa'i don bdun cu_a commentary on the seventy topics by the holy one_se ra rje btzun chos kyi rgyal mtsan (1469-1546).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAVuw",
-    "revision_id": "613f666d208d78d294473",
+    "path": "PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/DON BDUN CU_THE 70 TOPICS",
+    "download_path": "/sungbum updated 7 30 23 nl/phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/don bdun cu_the 70 topics/s06827i_rje btzun pa'i don bdun cu_a commentary on the seventy topics by the holy one_se ra rje btzun chos kyi rgyal mtsan (1469-1546).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABPog",
+    "revision_id": "625a47a005a2e8d294473",
     "content_hash": "fd772f0ca29f4f6e078b93215b9728a2da7e6430712ea4c026df2efe6b45eab0",
-    "server_modified": "2024-03-18T21:54:28",
-    "last_sync": "2024-09-09T19:22:59.240172",
+    "server_modified": "2024-10-29 21:43:31",
+    "last_sync": "2024-11-19 20:48:19.856563",
     "size": 54527,
     "meta_text": null,
     "cat_ref": "S06827I",
@@ -19,10 +19,10 @@
     "author_simple": "SE RA RJE BTZUN CHOS KYI RGYAL MTSAN",
     "subject": [
         {
-            "_id": "708408090558",
-            "subject_path": "SUNGBUM_SUNGBUM/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/DON BDUN CU_THE 70 TOPICS",
-            "subject_path_tibetan": "SUNGBUM/PHAR PHYIN/DON BDUN CU",
-            "subject_path_english": "SUNGBUM/PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/THE 70 TOPICS",
+            "_id": "162959700860",
+            "subject_path": "GSUNG 'BUM_Sungbum/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/DON BDUN CU_THE 70 TOPICS",
+            "subject_path_tibetan": "GSUNG 'BUM/PHAR PHYIN/DON BDUN CU",
+            "subject_path_english": "Sungbum/PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/THE 70 TOPICS",
             "subject_tibetan": "DON BDUN CU",
             "subject_english": "THE 70 TOPICS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P477"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/don bdun cu_the 70 topics",
-            "timestamp": "2024-09-10T02:22:59.244684+00:00"
+            "path": "GSUNG 'BUM_Sungbum/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/DON BDUN CU_THE 70 TOPICS",
+            "timestamp": "2024-11-20 04:48:19.861390+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:48:19.861390+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

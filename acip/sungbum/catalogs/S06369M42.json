@@ -1,12 +1,12 @@
 {
     "name": "S06369M42_SHEL DKAR LEGS BSHAD GLING GI MKHAN RIN PO CHE'I GSOL 'DEBS MTSAN SNGAGS_Petition to the Precious Abbot of Shelkar Lekshe Ling, as a Praise incorporating the Words of His Name_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "nyams len_personal practice/gsol 'debs_prayers of supplication/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/gsol 'debs_prayers of supplication/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)/s06369m42_shel dkar legs bshad gling gi mkhan rin po che'i gsol 'debs mtsan sngags_petition to the precious abbot of shelkar lekshe ling, as a praise incorporating the words of his name_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAABtA",
-    "revision_id": "613f663b87cfd8d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/GSOL 'DEBS_PRAYERS OF SUPPLICATION/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/gsol 'debs_prayers of supplication/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)/s06369m42_shel dkar legs bshad gling gi mkhan rin po che'i gsol 'debs mtsan sngags_petition to the precious abbot of shelkar lekshe ling, as a praise incorporating the words of his name_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABjbA",
+    "revision_id": "625a4aad080198d294473",
     "content_hash": "97cbda0db9de8105f3189349c43416eda08fda75c4e05409720c9e9c77074d3a",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:02:37.762841",
+    "server_modified": "2024-10-29 21:57:10",
+    "last_sync": "2024-11-19 21:20:57.429679",
     "size": 401,
     "meta_text": null,
     "cat_ref": "S06369M42",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "141668225097",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/GSOL 'DEBS_PRAYERS OF SUPPLICATION/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/GSOL 'DEBS/DNGUL CHU DHARMA BHADRA",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/PRAYERS OF SUPPLICATION/NGULCHU DHARMA BHADRA (1772-1851)",
+            "_id": "734195250227",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/GSOL 'DEBS_PRAYERS OF SUPPLICATION/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/GSOL 'DEBS/DNGUL CHU DHARMA BHADRA",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/PRAYERS OF SUPPLICATION/NGULCHU DHARMA BHADRA (1772-1851)",
             "subject_tibetan": "DNGUL CHU DHARMA BHADRA",
             "subject_english": "NGULCHU DHARMA BHADRA (1772-1851)"
         }
@@ -38,15 +38,29 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/gsol 'debs_prayers of supplication/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)",
-            "timestamp": "2024-09-10T02:02:37.785004+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/GSOL 'DEBS_PRAYERS OF SUPPLICATION/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
+            "timestamp": "2024-11-20 05:20:57.432250+00:00"
         },
         {
-            "path": "nyams len_personal practice/gsol 'debs_prayers of supplication/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)",
-            "timestamp": "2024-09-10T02:02:58.066068+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/GSOL 'DEBS_PRAYERS OF SUPPLICATION/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
+            "timestamp": "2024-11-20 05:21:15.479191+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:20:57.432250+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T05:21:15.479191+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "text"
 }

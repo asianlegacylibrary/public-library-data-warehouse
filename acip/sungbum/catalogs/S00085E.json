@@ -1,14 +1,14 @@
 {
     "name": "S00085E_ DPAL RDO RJE 'JIGS BYED KYI RDZOGS RIM RNAL 'BYOR BZHI'I DMAR KHRID_Practical Instruction on the Four Practices of the Completion Stage in the Teaching of the Glorious Frightener of Diamond (Vajra Bhairava)_LCANG SKYA NGAG DBANG BLO BZANG C +.TXT",
-    "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/rdzogs rim_completion stage (sampanna krama)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/rdzogs rim_completion stage (sampanna krama)/s00085e_ dpal rdo rje 'jigs byed kyi rdzogs rim rnal 'byor bzhi'i dmar khrid_practical instruction on the four practices of the completion stage in the teaching of the glorious frightener of diamond (vajra bhairava)_lcang skya ngag dbang blo bzang c +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAMRw",
-    "revision_id": "613f6656ded188d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/RDZOGS RIM_COMPLETION STAGE (SAMPANNA KRAMA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/rdzogs rim_completion stage (sampanna krama)/s00085e_ dpal rdo rje 'jigs byed kyi rdzogs rim rnal 'byor bzhi'i dmar khrid_practical instruction on the four practices of the completion stage in the teaching of the glorious frightener of diamond (vajra bhairava)_lcang skya ngag dbang blo bzang c +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABdoQ",
+    "revision_id": "625a49a01a0098d294473",
     "content_hash": "47be9d0e96cdee94dc62e4e0b56ab0b93638cf2f2e7901d0aefcf553bdeaca32",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:13:33.545645",
+    "server_modified": "2024-10-29 21:52:28",
+    "last_sync": "2024-11-19 21:11:01.806706",
     "size": 14927,
-    "meta_text": "HOS LDAN (1642-1714)",
+    "meta_text": "('HOS LDAN (1642-1714)', 'rtf')",
     "cat_ref": "S00085E",
     "work_ref": "W.S00085E",
     "title_tib": "DPAL RDO RJE 'JIGS BYED KYI RDZOGS RIM RNAL 'BYOR BZHI'I DMAR KHRID",
@@ -19,10 +19,10 @@
     "author_simple": "LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN",
     "subject": [
         {
-            "_id": "443540478688",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/RDZOGS RIM_COMPLETION STAGE (SAMPANNA KRAMA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/'JIGS BYED/RDZOGS RIM",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/COMPLETION STAGE (SAMPANNA KRAMA)",
+            "_id": "761429647915",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/RDZOGS RIM_COMPLETION STAGE (SAMPANNA KRAMA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/'JIGS BYED/RDZOGS RIM",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/COMPLETION STAGE (SAMPANNA KRAMA)",
             "subject_tibetan": "RDZOGS RIM",
             "subject_english": "COMPLETION STAGE (SAMPANNA KRAMA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P209"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/rdzogs rim_completion stage (sampanna krama)",
-            "timestamp": "2024-09-10T02:13:33.560901+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/RDZOGS RIM_COMPLETION STAGE (SAMPANNA KRAMA)",
+            "timestamp": "2024-11-20 05:11:02.448462+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:11:02.448462+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,12 +1,12 @@
 {
     "name": "SE5525M_DAM PA'I CHOS MNGON PA'I MDZOD KYI RNAM PAR BSHAD PA THAR LAM GSAL BYED_ 'Illumination of the Path to Freedom,' being an Explanation of the Holy Treasure House of Higher Knowledge_RGYAL BA DGE 'DUN GRUB (1391-1474).TXT",
-    "path": "mngon pa_higher knowledge (abhidharma) (vaibhashika school)/rgyal ba dge 'dun grub_gyalwa gendun drup (1391-1474)",
-    "download_path": "/sungbum updated 4 26 23 bk/mngon pa_higher knowledge (abhidharma) (vaibhashika school)/rgyal ba dge 'dun grub_gyalwa gendun drup (1391-1474)/se5525m_dam pa'i chos mngon pa'i mdzod kyi rnam par bshad pa thar lam gsal byed_ 'illumination of the path to freedom,' being an explanation of the holy treasure house of higher knowledge_rgyal ba dge 'dun grub (1391-1474).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAXMg",
-    "revision_id": "613f666d20a4e8d294473",
+    "path": "MNGON PA_HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)/RGYAL BA DGE 'DUN GRUB_GYALWA GENDUN DRUP (1391-1474)",
+    "download_path": "/sungbum updated 7 30 23 nl/mngon pa_higher knowledge (abhidharma) (vaibhashika school)/rgyal ba dge 'dun grub_gyalwa gendun drup (1391-1474)/se5525m_dam pa'i chos mngon pa'i mdzod kyi rnam par bshad pa thar lam gsal byed_ 'illumination of the path to freedom,' being an explanation of the holy treasure house of higher knowledge_rgyal ba dge 'dun grub (1391-1474).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABmTw",
+    "revision_id": "625a4b1348ab68d294473",
     "content_hash": "18f2b2c39230bcc2cdd42a2682241a896835cfeecc49cc59d75d893d484646bc",
-    "server_modified": "2024-03-18T21:54:28",
-    "last_sync": "2024-09-09T19:24:31.302878",
+    "server_modified": "2024-10-29 21:58:58",
+    "last_sync": "2024-11-19 21:26:46.468921",
     "size": 641900,
     "meta_text": null,
     "cat_ref": "SE5525M",
@@ -19,10 +19,10 @@
     "author_simple": "RGYAL BA DGE 'DUN GRUB",
     "subject": [
         {
-            "_id": "214277895880",
-            "subject_path": "SUNGBUM_SUNGBUM/MNGON PA_HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)/RGYAL BA DGE 'DUN GRUB_GYALWA GENDUN DRUP (1391-1474)",
-            "subject_path_tibetan": "SUNGBUM/MNGON PA/RGYAL BA DGE 'DUN GRUB",
-            "subject_path_english": "SUNGBUM/HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)/GYALWA GENDUN DRUP (1391-1474)",
+            "_id": "288135013809",
+            "subject_path": "GSUNG 'BUM_Sungbum/MNGON PA_HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)/RGYAL BA DGE 'DUN GRUB_GYALWA GENDUN DRUP (1391-1474)",
+            "subject_path_tibetan": "GSUNG 'BUM/MNGON PA/RGYAL BA DGE 'DUN GRUB",
+            "subject_path_english": "Sungbum/HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)/GYALWA GENDUN DRUP (1391-1474)",
             "subject_tibetan": "RGYAL BA DGE 'DUN GRUB",
             "subject_english": "GYALWA GENDUN DRUP (1391-1474)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P80"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "mngon pa_higher knowledge (abhidharma) (vaibhashika school)/rgyal ba dge 'dun grub_gyalwa gendun drup (1391-1474)",
-            "timestamp": "2024-09-10T02:24:31.313791+00:00"
+            "path": "GSUNG 'BUM_Sungbum/MNGON PA_HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)/RGYAL BA DGE 'DUN GRUB_GYALWA GENDUN DRUP (1391-1474)",
+            "timestamp": "2024-11-20 05:26:46.475605+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:26:46.475605+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

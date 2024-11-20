@@ -1,45 +1,53 @@
 {
     "name": "TD03166_'JIG RTEN DBANG PHYUG DMAR PO'I SGRUB THABS ZHES BYA BA (Rakta Lokeśvara Sādhana (Nāma)).txt",
-    "path": "TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/VOL 74 (PHU)",
+    "path": "02 RGYUD_Diamond Way (Vajrayāna)/VOL 74 (PHU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/vol 74 (phu)/td03166_'jig rten dbang phyug dmar po'i sgrub thabs zhes bya ba (rakta lokeśvara sādhana (nāma)).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACDTQ",
     "revision_id": "62633dd51a66a8d294473",
     "content_hash": "fd39e984d83aa73265071e252e8591877a044e904a125cb192f13892b88f22c3",
     "server_modified": "2024-11-06 00:47:38",
-    "last_sync": "2024-11-13 02:00:00.314950+00:00",
+    "last_sync": "2024-11-20 04:01:04.998651",
     "size": 1517,
+    "meta_text": null,
     "cat_ref": "TD03166",
     "work_ref": "W.TD03166",
-    "title_tib": "'JIG RTEN DBANG PHYUG DMAR PO'I SGRUB THABS ZHES BYA BA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "949406200925",
-            "subject_path": "TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/VOL 74 (PHU)",
-            "subject_path_tibetan": "TENGYUR/RGYUD/74 (PHU)",
-            "subject_path_english": "TENGYUR/Diamond Way (Vajrayāna)/VOL 74 (PHU)",
-            "subject_tibetan": "74 (PHU)",
-            "subject_english": "VOL 74 (PHU)"
+            "_id": "235929610804",
+            "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 74 (PHU)",
+            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/VOL 74 (PHU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)",
+            "subject_tibetan": "VOL 74 (PHU)",
+            "subject_english": "Diamond Way (Vajrayāna)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Rakta Lokeśvara Sādhana (Nāma)",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 74 (PHU)",
+            "timestamp": "2024-11-20 12:01:05.034370+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T02:00:00.323515+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T12:01:05.034370+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/VOL 74 (PHU)",
-            "timestamp": "2024-11-13 02:00:00.323515+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

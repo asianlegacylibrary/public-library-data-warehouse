@@ -1,12 +1,12 @@
 {
     "name": "S00003EP_'JIGS BYED BDAG 'JUG GI CHA GCIG_Excerpt from the Ritual for Bringing Oneself into the Secret World of the Frightener (Bhairava)_@ (@-@).TXT",
-    "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/bdag 'jug_self initiation",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/bdag 'jug_self initiation/s00003ep_'jigs byed bdag 'jug gi cha gcig_excerpt from the ritual for bringing oneself into the secret world of the frightener (bhairava)_@ (@-@).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAM1A",
-    "revision_id": "613f6656deda58d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/BDAG 'JUG_SELF INITIATION",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/bdag 'jug_self initiation/s00003ep_'jigs byed bdag 'jug gi cha gcig_excerpt from the ritual for bringing oneself into the secret world of the frightener (bhairava)_@ (@-@).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABdxQ",
+    "revision_id": "625a49a669af28d294473",
     "content_hash": "a8dec9adebd9d5a1ec65c021e59fe4c534a90257854603ae2e0f5db490dfda60",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:14:12.783094",
+    "server_modified": "2024-10-29 21:52:35",
+    "last_sync": "2024-11-19 21:11:19.323781",
     "size": 3973,
     "meta_text": null,
     "cat_ref": "S00003EP",
@@ -19,10 +19,10 @@
     "author_simple": "",
     "subject": [
         {
-            "_id": "865642831971",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/BDAG 'JUG_SELF INITIATION",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/'JIGS BYED/BDAG 'JUG",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/SELF INITIATION",
+            "_id": "131669945689",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/BDAG 'JUG_SELF INITIATION",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/'JIGS BYED/BDAG 'JUG",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/SELF INITIATION",
             "subject_tibetan": "BDAG 'JUG",
             "subject_english": "SELF INITIATION"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/bdag 'jug_self initiation",
-            "timestamp": "2024-09-10T02:14:12.796834+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/BDAG 'JUG_SELF INITIATION",
+            "timestamp": "2024-11-20 05:11:20.200103+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:11:20.200103+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

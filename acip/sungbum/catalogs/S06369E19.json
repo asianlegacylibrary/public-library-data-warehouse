@@ -1,14 +1,14 @@
 {
     "name": "S06369E19_ TSE SGRUB 'CHI MED RDO RJE'I SROG SHING GI, RDO RJE 'CHANG DBANG 'KHON STON CHOS KYI RJES, ZHES PA'I MJUG TU GSOL 'DEBS KHA SKONG_Addendum to a Supplication to the Lamas of the Lineage of a Practice for Achieving Long Life_DNGUL CHU DHARM+.TXT",
-    "path": "rgyud_secret teachings (tantra)/rta mgrin_horse throat (hayagriva)/tse sgrub_ritual for long life",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/rta mgrin_horse throat (hayagriva)/tse sgrub_ritual for long life/s06369e19_ tse sgrub 'chi med rdo rje'i srog shing gi, rdo rje 'chang dbang 'khon ston chos kyi rjes, zhes pa'i mjug tu gsol 'debs kha skong_addendum to a supplication to the lamas of the lineage of a practice for achieving long life_dngul chu dharm+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAALrw",
-    "revision_id": "613f6652789c78d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/RTA MGRIN_HORSE THROAT (HAYAGRIVA)/TSE SGRUB_RITUAL FOR LONG LIFE",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/rta mgrin_horse throat (hayagriva)/tse sgrub_ritual for long life/s06369e19_ tse sgrub 'chi med rdo rje'i srog shing gi, rdo rje 'chang dbang 'khon ston chos kyi rjes, zhes pa'i mjug tu gsol 'debs kha skong_addendum to a supplication to the lamas of the lineage of a practice for achieving long life_dngul chu dharm+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABVUg",
+    "revision_id": "625a4883909e38d294473",
     "content_hash": "fa2ae534a01d28a3f92be595437a18c83328373a17a9b0160e80bd90880f4486",
-    "server_modified": "2024-03-18T21:54:00",
-    "last_sync": "2024-09-09T19:12:51.680792",
+    "server_modified": "2024-10-29 21:47:30",
+    "last_sync": "2024-11-19 20:57:14.264089",
     "size": 993,
-    "meta_text": "A BHADRA (1772-1851)",
+    "meta_text": "('A BHADRA (1772-1851)', 'rtf')",
     "cat_ref": "S06369E19",
     "work_ref": "W.S06369E19",
     "title_tib": "TSE SGRUB 'CHI MED RDO RJE'I SROG SHING GI, RDO RJE 'CHANG DBANG 'KHON STON CHOS KYI RJES, ZHES PA'I MJUG TU GSOL 'DEBS KHA SKONG",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "188734008711",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/RTA MGRIN_HORSE THROAT (HAYAGRIVA)/TSE SGRUB_RITUAL FOR LONG LIFE",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/RTA MGRIN/TSE SGRUB",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/HORSE THROAT (HAYAGRIVA)/RITUAL FOR LONG LIFE",
+            "_id": "264936090366",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RTA MGRIN_HORSE THROAT (HAYAGRIVA)/TSE SGRUB_RITUAL FOR LONG LIFE",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/RTA MGRIN/TSE SGRUB",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/HORSE THROAT (HAYAGRIVA)/RITUAL FOR LONG LIFE",
             "subject_tibetan": "TSE SGRUB",
             "subject_english": "RITUAL FOR LONG LIFE"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/rta mgrin_horse throat (hayagriva)/tse sgrub_ritual for long life",
-            "timestamp": "2024-09-10T02:12:51.690176+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RTA MGRIN_HORSE THROAT (HAYAGRIVA)/TSE SGRUB_RITUAL FOR LONG LIFE",
+            "timestamp": "2024-11-20 04:57:14.270444+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:57:14.270444+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

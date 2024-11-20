@@ -1,12 +1,12 @@
 {
     "name": "S00392M_ZAS LA BRTEN PA'I BLO SBYONG_Instructions for Using Meals as an Opportunity for Developing the Good Heart_KHAM LUNG PA (1232-@).TXT",
-    "path": "blo sbyong_developing the good heart/zas la brten pa'i blo sbyong_instructions for using meals as an opportunity for developing the good heart (1232-?)",
-    "download_path": "/sungbum updated 4 26 23 bk/blo sbyong_developing the good heart/zas la brten pa'i blo sbyong_instructions for using meals as an opportunity for developing the good heart (1232-?)/s00392m_zas la brten pa'i blo sbyong_instructions for using meals as an opportunity for developing the good heart_kham lung pa (1232-@).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAATEw",
-    "revision_id": "613f6664744368d294473",
+    "path": "BLO SBYONG_DEVELOPING THE GOOD HEART/ZAS LA BRTEN PA'I BLO SBYONG_INSTRUCTIONS FOR USING MEALS AS AN OPPORTUNITY FOR DEVELOPING THE GOOD HEART (1232-?)",
+    "download_path": "/sungbum updated 7 30 23 nl/blo sbyong_developing the good heart/zas la brten pa'i blo sbyong_instructions for using meals as an opportunity for developing the good heart (1232-?)/s00392m_zas la brten pa'i blo sbyong_instructions for using meals as an opportunity for developing the good heart_kham lung pa (1232-@).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABlOg",
+    "revision_id": "625a4ae6594b68d294473",
     "content_hash": "b879d86100372aa51b02e021898c9af0455b636c20696e7ded55eb001e0f01b2",
-    "server_modified": "2024-03-18T21:54:19",
-    "last_sync": "2024-09-09T19:20:46.152512",
+    "server_modified": "2024-10-29 21:58:11",
+    "last_sync": "2024-11-19 21:24:53.402067",
     "size": 2947,
     "meta_text": null,
     "cat_ref": "S00392M",
@@ -19,10 +19,10 @@
     "author_simple": "KHAM LUNG PA",
     "subject": [
         {
-            "_id": "225875895133",
-            "subject_path": "SUNGBUM_SUNGBUM/BLO SBYONG_DEVELOPING THE GOOD HEART/ZAS LA BRTEN PA'I BLO SBYONG_INSTRUCTIONS FOR USING MEALS AS AN OPPORTUNITY FOR DEVELOPING THE GOOD HEART (1232-?)",
-            "subject_path_tibetan": "SUNGBUM/BLO SBYONG/ZAS LA BRTEN PA'I BLO SBYONG",
-            "subject_path_english": "SUNGBUM/DEVELOPING THE GOOD HEART/INSTRUCTIONS FOR USING MEALS AS AN OPPORTUNITY FOR DEVELOPING THE GOOD HEART (1232-?)",
+            "_id": "311941504087",
+            "subject_path": "GSUNG 'BUM_Sungbum/BLO SBYONG_DEVELOPING THE GOOD HEART/ZAS LA BRTEN PA'I BLO SBYONG_INSTRUCTIONS FOR USING MEALS AS AN OPPORTUNITY FOR DEVELOPING THE GOOD HEART (1232-?)",
+            "subject_path_tibetan": "GSUNG 'BUM/BLO SBYONG/ZAS LA BRTEN PA'I BLO SBYONG",
+            "subject_path_english": "Sungbum/DEVELOPING THE GOOD HEART/INSTRUCTIONS FOR USING MEALS AS AN OPPORTUNITY FOR DEVELOPING THE GOOD HEART (1232-?)",
             "subject_tibetan": "ZAS LA BRTEN PA'I BLO SBYONG",
             "subject_english": "INSTRUCTIONS FOR USING MEALS AS AN OPPORTUNITY FOR DEVELOPING THE GOOD HEART (1232-?)"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "blo sbyong_developing the good heart/zas la brten pa'i blo sbyong_instructions for using meals as an opportunity for developing the good heart (1232-?)",
-            "timestamp": "2024-09-10T02:20:46.154132+00:00"
+            "path": "GSUNG 'BUM_Sungbum/BLO SBYONG_DEVELOPING THE GOOD HEART/ZAS LA BRTEN PA'I BLO SBYONG_INSTRUCTIONS FOR USING MEALS AS AN OPPORTUNITY FOR DEVELOPING THE GOOD HEART (1232-?)",
+            "timestamp": "2024-11-20 05:24:53.411034+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:24:53.411034+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

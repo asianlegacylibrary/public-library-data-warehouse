@@ -1,12 +1,12 @@
 {
     "name": "S05275M60_BLA NA MED PA'I RIN PO CHE GSUM GYI GTAM GYI SBYOR BA_Words of Advice on the Unsurpassed, Precious Three_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419).TXT",
-    "path": "nyams len_personal practice/spyi_general treatments/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)/rin po che gsum_three precious practices",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/spyi_general treatments/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)/rin po che gsum_three precious practices/s05275m60_bla na med pa'i rin po che gsum gyi gtam gyi sbyor ba_words of advice on the unsurpassed, precious three_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAAoA",
-    "revision_id": "613f663b87be98d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/SPYI_GENERAL TREATMENTS/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)/RIN PO CHE GSUM_THREE PRECIOUS PRACTICES",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/spyi_general treatments/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)/rin po che gsum_three precious practices/s05275m60_bla na med pa'i rin po che gsum gyi gtam gyi sbyor ba_words of advice on the unsurpassed, precious three_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABkFQ",
+    "revision_id": "625a4ac348f738d294473",
     "content_hash": "e09b8d47f6f7296b6128a711a99de923860d9a7f97a34dc84fcf9f096d3c0b0c",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:01:40.080679",
+    "server_modified": "2024-10-29 21:57:34",
+    "last_sync": "2024-11-19 21:22:38.211266",
     "size": 5250,
     "meta_text": null,
     "cat_ref": "S05275M60",
@@ -19,10 +19,10 @@
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "153281500927",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/SPYI_GENERAL TREATMENTS/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)/RIN PO CHE GSUM_THREE PRECIOUS PRACTICES",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/SPYI/RJE TZONG KHA PA BLO BZANG GRAGS PA/RIN PO CHE GSUM",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/GENERAL TREATMENTS/JE TSONGKAPA LOBSANG DRAKPA (1357-1419)/THREE PRECIOUS PRACTICES",
+            "_id": "295503646250",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SPYI_GENERAL TREATMENTS/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)/RIN PO CHE GSUM_THREE PRECIOUS PRACTICES",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/SPYI/RJE TZONG KHA PA BLO BZANG GRAGS PA/RIN PO CHE GSUM",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/GENERAL TREATMENTS/JE TSONGKAPA LOBSANG DRAKPA (1357-1419)/THREE PRECIOUS PRACTICES",
             "subject_tibetan": "RIN PO CHE GSUM",
             "subject_english": "THREE PRECIOUS PRACTICES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/spyi_general treatments/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)/rin po che gsum_three precious practices",
-            "timestamp": "2024-09-10T02:01:40.088782+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SPYI_GENERAL TREATMENTS/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)/RIN PO CHE GSUM_THREE PRECIOUS PRACTICES",
+            "timestamp": "2024-11-20 05:22:38.215193+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:22:38.215193+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

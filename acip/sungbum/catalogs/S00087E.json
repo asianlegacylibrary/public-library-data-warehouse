@@ -1,12 +1,12 @@
 {
     "name": "S00087E_DPAL N'A RO CHOS DRUG LAS GTUM MO'I DMIGS RIM_Steps of the Practice of Inner Heat, from the Six Practices of Naropa_LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN (1642-1714).TXT",
-    "path": "rgyud_secret teachings (tantra)/na ro chos drug_six practices of naropa/gtum mo_practices for inner fire",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/na ro chos drug_six practices of naropa/gtum mo_practices for inner fire/s00087e_dpal n'a ro chos drug las gtum mo'i dmigs rim_steps of the practice of inner heat, from the six practices of naropa_lcang skya ngag dbang blo bzang chos ldan (1642-1714).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAKHw",
-    "revision_id": "613f6652788378d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/NA RO CHOS DRUG_SIX PRACTICES OF NAROPA/GTUM MO_PRACTICES FOR INNER FIRE",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/na ro chos drug_six practices of naropa/gtum mo_practices for inner fire/s00087e_dpal n'a ro chos drug las gtum mo'i dmigs rim_steps of the practice of inner heat, from the six practices of naropa_lcang skya ngag dbang blo bzang chos ldan (1642-1714).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABcww",
+    "revision_id": "625a4980f75d28d294473",
     "content_hash": "a9f00dd228bab6a0ca297fd8a72647287e54c09de05dfa39fdd65afe7c04ade5",
-    "server_modified": "2024-03-18T21:54:00",
-    "last_sync": "2024-09-09T19:11:04.814605",
+    "server_modified": "2024-10-29 21:51:56",
+    "last_sync": "2024-11-19 21:09:32.741276",
     "size": 23377,
     "meta_text": null,
     "cat_ref": "S00087E",
@@ -19,10 +19,10 @@
     "author_simple": "LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN",
     "subject": [
         {
-            "_id": "135994918480",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/NA RO CHOS DRUG_SIX PRACTICES OF NAROPA/GTUM MO_PRACTICES FOR INNER FIRE",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/NA RO CHOS DRUG/GTUM MO",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/SIX PRACTICES OF NAROPA/PRACTICES FOR INNER FIRE",
+            "_id": "915336719830",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/NA RO CHOS DRUG_SIX PRACTICES OF NAROPA/GTUM MO_PRACTICES FOR INNER FIRE",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/NA RO CHOS DRUG/GTUM MO",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/SIX PRACTICES OF NAROPA/PRACTICES FOR INNER FIRE",
             "subject_tibetan": "GTUM MO",
             "subject_english": "PRACTICES FOR INNER FIRE"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P209"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/na ro chos drug_six practices of naropa/gtum mo_practices for inner fire",
-            "timestamp": "2024-09-10T02:11:04.822654+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/NA RO CHOS DRUG_SIX PRACTICES OF NAROPA/GTUM MO_PRACTICES FOR INNER FIRE",
+            "timestamp": "2024-11-20 05:09:32.747219+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:09:32.747219+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

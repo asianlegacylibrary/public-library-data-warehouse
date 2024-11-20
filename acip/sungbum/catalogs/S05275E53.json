@@ -1,14 +1,14 @@
 {
     "name": "S05275E53_GSHIN RJE CHOS KYI RGYAL PO LA NANG SGRUB KYI TSUL DU BSTOD PA BDUD DPUNG RNAM PAR 'THAG PA_ 'Crushing the Legions of Demons to Powder,' a Praise of the King of All Things, the Lord of Death, by Way of Inner Attainment_RJE TZONG KHA PA BLO +.TXT",
-    "path": "rgyud_secret teachings (tantra)/chos rgyal_king of all things (dharmaraja)/bstod pa_songs of praise (stotra)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/chos rgyal_king of all things (dharmaraja)/bstod pa_songs of praise (stotra)/s05275e53_gshin rje chos kyi rgyal po la nang sgrub kyi tsul du bstod pa bdud dpung rnam par 'thag pa_ 'crushing the legions of demons to powder,' a praise of the king of all things, the lord of death, by way of inner attainment_rje tzong kha pa blo +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAKXw",
-    "revision_id": "613f6652788778d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/CHOS RGYAL_KING OF ALL THINGS (DHARMARAJA)/BSTOD PA_SONGS OF PRAISE (STOTRA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/chos rgyal_king of all things (dharmaraja)/bstod pa_songs of praise (stotra)/s05275e53_gshin rje chos kyi rgyal po la nang sgrub kyi tsul du bstod pa bdud dpung rnam par 'thag pa_ 'crushing the legions of demons to powder,' a praise of the king of all things, the lord of death, by way of inner attainment_rje tzong kha pa blo +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABdBA",
+    "revision_id": "625a498861a888d294473",
     "content_hash": "50b6791e29d6c21b752e3966e44a1d65d7476a733b5c3806f80a95054c376391",
-    "server_modified": "2024-03-18T21:54:00",
-    "last_sync": "2024-09-09T19:11:19.667052",
+    "server_modified": "2024-10-29 21:52:04",
+    "last_sync": "2024-11-19 21:10:06.022898",
     "size": 2966,
-    "meta_text": "BZANG GRAGS PA (1357-1419)",
+    "meta_text": "('BZANG GRAGS PA (1357-1419)', 'rtf')",
     "cat_ref": "S05275E53",
     "work_ref": "W.S05275E53",
     "title_tib": "GSHIN RJE CHOS KYI RGYAL PO LA NANG SGRUB KYI TSUL DU BSTOD PA BDUD DPUNG RNAM PAR 'THAG PA",
@@ -19,10 +19,10 @@
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "975365991060",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/CHOS RGYAL_KING OF ALL THINGS (DHARMARAJA)/BSTOD PA_SONGS OF PRAISE (STOTRA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/CHOS RGYAL/BSTOD PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/KING OF ALL THINGS (DHARMARAJA)/SONGS OF PRAISE (STOTRA)",
+            "_id": "166119382717",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/CHOS RGYAL_KING OF ALL THINGS (DHARMARAJA)/BSTOD PA_SONGS OF PRAISE (STOTRA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/CHOS RGYAL/BSTOD PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/KING OF ALL THINGS (DHARMARAJA)/SONGS OF PRAISE (STOTRA)",
             "subject_tibetan": "BSTOD PA",
             "subject_english": "SONGS OF PRAISE (STOTRA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/chos rgyal_king of all things (dharmaraja)/bstod pa_songs of praise (stotra)",
-            "timestamp": "2024-09-10T02:11:19.677190+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/CHOS RGYAL_KING OF ALL THINGS (DHARMARAJA)/BSTOD PA_SONGS OF PRAISE (STOTRA)",
+            "timestamp": "2024-11-20 05:10:06.027053+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:10:06.027053+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

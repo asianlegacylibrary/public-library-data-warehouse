@@ -1,12 +1,12 @@
 {
     "name": "S05274I_'DUL BA MDO RTZA BA'I ZIN BRIS_Notes on 'The Root Text of the Summary of Buddhist Discipline'_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419).TXT",
-    "path": "'dul ba_vowed morality (vinaya)/spyi_general presentations/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)/'dul ba'i zin bris_notes on the vinaya",
-    "download_path": "/sungbum updated 4 26 23 bk/'dul ba_vowed morality (vinaya)/spyi_general presentations/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)/'dul ba'i zin bris_notes on the vinaya/s05274i_'dul ba mdo rtza ba'i zin bris_notes on 'the root text of the summary of buddhist discipline'_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAADGA",
-    "revision_id": "613f663ffc80b8d294473",
+    "path": "'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)/'DUL BA'I ZIN BRIS_NOTES ON THE VINAYA",
+    "download_path": "/sungbum updated 7 30 23 nl/'dul ba_vowed morality (vinaya)/spyi_general presentations/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)/'dul ba'i zin bris_notes on the vinaya/s05274i_'dul ba mdo rtza ba'i zin bris_notes on 'the root text of the summary of buddhist discipline'_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABeqw",
+    "revision_id": "625a49c3f40ef8d294473",
     "content_hash": "a6688b09924c9ef523aad0a64cee7e3454c346793740056e1fca5e5af6d1954c",
-    "server_modified": "2024-03-18T21:53:40",
-    "last_sync": "2024-09-09T19:04:24.170878",
+    "server_modified": "2024-10-29 21:53:06",
+    "last_sync": "2024-11-19 21:12:54.751873",
     "size": 293474,
     "meta_text": null,
     "cat_ref": "S05274I",
@@ -19,10 +19,10 @@
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "260413647597",
-            "subject_path": "SUNGBUM_SUNGBUM/'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)/'DUL BA'I ZIN BRIS_NOTES ON THE VINAYA",
-            "subject_path_tibetan": "SUNGBUM/'DUL BA/SPYI/RJE TZONG KHA PA BLO BZANG GRAGS PA/'DUL BA'I ZIN BRIS",
-            "subject_path_english": "SUNGBUM/VOWED MORALITY (VINAYA)/GENERAL PRESENTATIONS/JE TSONGKAPA LOBSANG DRAKPA (1357-1419)/NOTES ON THE VINAYA",
+            "_id": "137722788709",
+            "subject_path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)/'DUL BA'I ZIN BRIS_NOTES ON THE VINAYA",
+            "subject_path_tibetan": "GSUNG 'BUM/'DUL BA/SPYI/RJE TZONG KHA PA BLO BZANG GRAGS PA/'DUL BA'I ZIN BRIS",
+            "subject_path_english": "Sungbum/VOWED MORALITY (VINAYA)/GENERAL PRESENTATIONS/JE TSONGKAPA LOBSANG DRAKPA (1357-1419)/NOTES ON THE VINAYA",
             "subject_tibetan": "'DUL BA'I ZIN BRIS",
             "subject_english": "NOTES ON THE VINAYA"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "'dul ba_vowed morality (vinaya)/spyi_general presentations/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)/'dul ba'i zin bris_notes on the vinaya",
-            "timestamp": "2024-09-10T02:04:24.178679+00:00"
+            "path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)/'DUL BA'I ZIN BRIS_NOTES ON THE VINAYA",
+            "timestamp": "2024-11-20 05:12:54.756089+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:12:54.756089+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

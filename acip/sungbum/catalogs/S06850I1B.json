@@ -1,28 +1,28 @@
 {
     "name": "S06850I1B_'DUL BA MDO RTZA'I RNAM BSHAD NYI MA'I 'OD ZER LEGS BSHAD LUNG GI RGYA MTSO, STOD CHA'I CHA GNYIS PA_Part B of Volume One of 'The Light of the Sun,' an Ocean of the Word of Fine Commentary, in Explanation of the Root Summary on Buddhist Di+.TXT",
-    "path": "'dul ba_vowed morality (vinaya)/spyi_general presentations/mtso sna ba shes rab bzang po_tsonawa sherab sangpo",
-    "download_path": "/sungbum updated 4 26 23 bk/'dul ba_vowed morality (vinaya)/spyi_general presentations/mtso sna ba shes rab bzang po_tsonawa sherab sangpo/s06850i1b_'dul ba mdo rtza'i rnam bshad nyi ma'i 'od zer legs bshad lung gi rgya mtso, stod cha'i cha gnyis pa_part b of volume one of 'the light of the sun,' an ocean of the word of fine commentary, in explanation of the root summary on buddhist di+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAADcA",
-    "revision_id": "613f663ffc8638d294473",
+    "path": "'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/MTSO SNA BA SHES RAB BZANG PO_TSONAWA SHERAB SANGPO",
+    "download_path": "/sungbum updated 7 30 23 nl/'dul ba_vowed morality (vinaya)/spyi_general presentations/mtso sna ba shes rab bzang po_tsonawa sherab sangpo/s06850i1b_'dul ba mdo rtza'i rnam bshad nyi ma'i 'od zer legs bshad lung gi rgya mtso, stod cha'i cha gnyis pa_part b of volume one of 'the light of the sun,' an ocean of the word of fine commentary, in explanation of the root summary on buddhist di+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABe1g",
+    "revision_id": "625a49cbe9d0c8d294473",
     "content_hash": "45b9ece44cd5cf7605876862d67b8c446480a265292389a940f5c1f22e31bd95",
-    "server_modified": "2024-03-18T21:53:40",
-    "last_sync": "2024-09-09T19:04:46.823901",
+    "server_modified": "2024-10-29 21:53:14",
+    "last_sync": "2024-11-19 21:13:11.575609",
     "size": 891360,
-    "meta_text": "scipline_MTSO SNA BA SHES RAB BZANG PO (c.1200)",
+    "meta_text": "('scipline_MTSO SNA BA SHES RAB BZANG PO (c.1200)', 'text')",
     "cat_ref": "S06850I1B",
     "work_ref": "W.S06850I1B",
     "title_tib": "'DUL BA MDO RTZA'I RNAM BSHAD NYI MA'I 'OD ZER LEGS BSHAD LUNG GI RGYA MTSO, STOD CHA'I CHA GNYIS PA",
-    "title_eng": "Part B of Volume One of 'The Light of the Sun,' an Ocean of the Word of Fine Commentary, in Explanation of the Root Summary on Buddhist Discipline",
+    "title_eng": "Part B of Volume One of 'The Light of the Sun,' an Ocean of the Word of Fine Commentary, in Explanation of the Root Summary on Buddhist Di('scipline",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "MTSO SNA BA SHES RAB BZANG PO",
     "subject": [
         {
-            "_id": "180698414397",
-            "subject_path": "SUNGBUM_SUNGBUM/'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/MTSO SNA BA SHES RAB BZANG PO_TSONAWA SHERAB SANGPO",
-            "subject_path_tibetan": "SUNGBUM/'DUL BA/SPYI/MTSO SNA BA SHES RAB BZANG PO",
-            "subject_path_english": "SUNGBUM/VOWED MORALITY (VINAYA)/GENERAL PRESENTATIONS/TSONAWA SHERAB SANGPO",
+            "_id": "922433561687",
+            "subject_path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/MTSO SNA BA SHES RAB BZANG PO_TSONAWA SHERAB SANGPO",
+            "subject_path_tibetan": "GSUNG 'BUM/'DUL BA/SPYI/MTSO SNA BA SHES RAB BZANG PO",
+            "subject_path_english": "Sungbum/VOWED MORALITY (VINAYA)/GENERAL PRESENTATIONS/TSONAWA SHERAB SANGPO",
             "subject_tibetan": "MTSO SNA BA SHES RAB BZANG PO",
             "subject_english": "TSONAWA SHERAB SANGPO"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P1500"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "'dul ba_vowed morality (vinaya)/spyi_general presentations/mtso sna ba shes rab bzang po_tsonawa sherab sangpo",
-            "timestamp": "2024-09-10T02:04:46.851276+00:00"
+            "path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/MTSO SNA BA SHES RAB BZANG PO_TSONAWA SHERAB SANGPO",
+            "timestamp": "2024-11-20 05:13:14.284083+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:13:14.284083+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

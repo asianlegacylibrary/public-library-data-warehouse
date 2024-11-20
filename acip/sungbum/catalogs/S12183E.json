@@ -1,12 +1,12 @@
 {
     "name": "S12183E_TSE SGRUB 'CHI MED BDUD RTZI'I CHU RGYUN_A River of the Nectar of Deathlessness-- A Ritual for Attaining Long Life_PAN CHEN BLA MA SKU PHRENG GNYIS PA BLO BZANG YE SHES (1663-1737).TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/tse sgrub_ritual for long life",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/tse sgrub_ritual for long life/s12183e_tse sgrub 'chi med bdud rtzi'i chu rgyun_a river of the nectar of deathlessness-- a ritual for attaining long life_pan chen bla ma sku phreng gnyis pa blo bzang ye shes (1663-1737).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAOHA",
-    "revision_id": "613f665b610358d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/TSE SGRUB_RITUAL FOR LONG LIFE",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyi_general treatments/tse sgrub_ritual for long life/s12183e_tse sgrub 'chi med bdud rtzi'i chu rgyun_a river of the nectar of deathlessness-- a ritual for attaining long life_pan chen bla ma sku phreng gnyis pa blo bzang ye shes (1663-1737).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABY1Q",
+    "revision_id": "625a48eb098b08d294473",
     "content_hash": "f3f447a33909a2e76a35ad3841ba7f493ad6424cee3d5df387f68b0c5853df8f",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:15:26.847752",
+    "server_modified": "2024-10-29 21:49:19",
+    "last_sync": "2024-11-19 21:03:10.752971",
     "size": 5548,
     "meta_text": null,
     "cat_ref": "S12183E",
@@ -19,10 +19,10 @@
     "author_simple": "PAn CHEN BLA MA SKU PHRENG GNYIS PA BLO BZANG YE SHES",
     "subject": [
         {
-            "_id": "171868651682",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/TSE SGRUB_RITUAL FOR LONG LIFE",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/TSE SGRUB",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/RITUAL FOR LONG LIFE",
+            "_id": "323947312757",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/TSE SGRUB_RITUAL FOR LONG LIFE",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/TSE SGRUB",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/RITUAL FOR LONG LIFE",
             "subject_tibetan": "TSE SGRUB",
             "subject_english": "RITUAL FOR LONG LIFE"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P106"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/tse sgrub_ritual for long life",
-            "timestamp": "2024-09-10T02:15:26.853609+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/TSE SGRUB_RITUAL FOR LONG LIFE",
+            "timestamp": "2024-11-20 05:03:11.958516+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:03:11.958516+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

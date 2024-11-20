@@ -1,45 +1,53 @@
 {
     "name": "TD04170_RTZOD PA'I DUS KYI GTAM (Kali Yuga Parikathā).txt",
-    "path": "TENGYUR_TENGYUR/10 SPRING YIG_Epistles (Lekha)/VOL 1 (GE-2)",
+    "path": "10 SPRING YIG_Epistles (Lekha)/VOL 1 (GE-2)",
     "download_path": "/tengyur updated 10 31 24 ws/10 spring yig_epistles (lekha)/vol 1 (ge-2)/td04170_rtzod pa'i dus kyi gtam (kali yuga parikathā).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB15A",
     "revision_id": "62633b41d16b98d294473",
     "content_hash": "c0e3a692d37e42e91e8715aa7bf4c5d9c81c732801531892fd6a1fab8070bd1e",
     "server_modified": "2024-11-06 00:36:07",
-    "last_sync": "2024-11-13 01:57:22.533502+00:00",
+    "last_sync": "2024-11-20 03:58:13.114785",
     "size": 4258,
+    "meta_text": null,
     "cat_ref": "TD04170",
     "work_ref": "W.TD04170",
-    "title_tib": "RTZOD PA'I DUS KYI GTAM",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "258483267887",
-            "subject_path": "TENGYUR_TENGYUR/10 SPRING YIG_Epistles (Lekha)/VOL 1 (GE-2)",
-            "subject_path_tibetan": "TENGYUR/SPRING YIG/1 (GE-2)",
-            "subject_path_english": "TENGYUR/Epistles (Lekha)/VOL 1 (GE-2)",
-            "subject_tibetan": "1 (GE-2)",
-            "subject_english": "VOL 1 (GE-2)"
+            "_id": "185433284541",
+            "subject_path": "BSTAN 'GYUR_Tengyur/10 SPRING YIG_Epistles (Lekha)/VOL 1 (GE-2)",
+            "subject_path_tibetan": "BSTAN 'GYUR/10 SPRING YIG/VOL 1 (GE-2)",
+            "subject_path_english": "Tengyur/Epistles (Lekha)",
+            "subject_tibetan": "VOL 1 (GE-2)",
+            "subject_english": "Epistles (Lekha)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Kali Yuga Parikathā",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/10 SPRING YIG_Epistles (Lekha)/VOL 1 (GE-2)",
+            "timestamp": "2024-11-20 11:58:13.132355+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:57:22.537540+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T11:58:13.132355+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/10 SPRING YIG_Epistles (Lekha)/VOL 1 (GE-2)",
-            "timestamp": "2024-11-13 01:57:22.537540+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

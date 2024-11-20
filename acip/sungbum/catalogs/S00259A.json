@@ -1,28 +1,28 @@
 {
     "name": "S00259A_GRUB CHEN L'U HI PA'I LUGS KYI RDZOGS RIM RNAL 'BYOR CHEN PO'I RNAM BSHAD DNGOS GRUB SNYE MA'I GNAD DON SNYING PO GSAL BAR BYED PA'I SGRON ME_'A Lamp which Illuminates the Very Heart of All the Essential Points in the 'Harvest of Attainment  +.TXT",
-    "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/'grel pa_commentaries",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/'grel pa_commentaries/s00259a_grub chen l'u hi pa'i lugs kyi rdzogs rim rnal 'byor chen po'i rnam bshad dngos grub snye ma'i gnad don snying po gsal bar byed pa'i sgron me_'a lamp which illuminates the very heart of all the essential points in the 'harvest of attainment  +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAPjQ",
-    "revision_id": "613f665b611a68d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/'GREL PA_COMMENTARIES",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/'grel pa_commentaries/s00259a_grub chen l'u hi pa'i lugs kyi rdzogs rim rnal 'byor chen po'i rnam bshad dngos grub snye ma'i gnad don snying po gsal bar byed pa'i sgron me_'a lamp which illuminates the very heart of all the essential points in the 'harvest of attainment  +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABU_g",
+    "revision_id": "625a48799e1558d294473",
     "content_hash": "784143e41011bcdd87a232dd005b551b3d8b57e33422e148905b00325c057838",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:17:00.910416",
+    "server_modified": "2024-10-29 21:47:20",
+    "last_sync": "2024-11-19 20:56:37.244460",
     "size": 138749,
-    "meta_text": "s’,’ being an Explanation of that Great and Deep Practice, the Stage of Completion according to the System of the Great Adept, Luipa_CO NE BLA MA GRAGS PA BSHAD SGRUB (1675-1748)",
+    "meta_text": "('s’,’ being an Explanation of that Great and Deep Practice, the Stage of Completion according to the System of the Great Adept, Luipa_CO NE BLA MA GRAGS PA BSHAD SGRUB (1675-1748)', 'rtf')",
     "cat_ref": "S00259A",
     "work_ref": "W.S00259A",
     "title_tib": "GRUB CHEN L'U HI PA'I LUGS KYI RDZOGS RIM RNAL 'BYOR CHEN PO'I RNAM BSHAD DNGOS GRUB SNYE MA'I GNAD DON SNYING PO GSAL BAR BYED PA'I SGRON ME",
-    "title_eng": "'A Lamp which Illuminates the Very Heart of All the Essential Points in the 'Harvest of Attainments’,’ being an Explanation of that Great and Deep Practice, the Stage of Completion according to the System of the Great Adept, Luipa",
+    "title_eng": "'A Lamp which Illuminates the Very Heart of All the Essential Points in the 'Harvest of Attainment('s’,’ being an Explanation of that Great and Deep Practice, the Stage of Completion according to the System of the Great Adept, Luipa",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "CO NE BLA MA GRAGS PA BSHAD SGRUB",
     "subject": [
         {
-            "_id": "301465295578",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/'GREL PA_COMMENTARIES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/BDE MCHOG/'GREL PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/COMMENTARIES",
+            "_id": "179027483793",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/'GREL PA_COMMENTARIES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/BDE MCHOG/'GREL PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/COMMENTARIES",
             "subject_tibetan": "'GREL PA",
             "subject_english": "COMMENTARIES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P1629"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/'grel pa_commentaries",
-            "timestamp": "2024-09-10T02:17:00.918204+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/'GREL PA_COMMENTARIES",
+            "timestamp": "2024-11-20 04:56:37.892387+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:56:37.892387+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

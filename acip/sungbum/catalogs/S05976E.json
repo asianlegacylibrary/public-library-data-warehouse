@@ -1,28 +1,28 @@
 {
     "name": "S05976E_DGE SLONG CHOS SMRA BA BLO BZANG CHOS KYI RGYAL MTSAN GYI NGAG THOR BU BA PHYOGS GCIG TU BSGRIGS PA LAS 'BYUNG BZHI GTOR MA CHAB GTOR SU R'U PA BCAS_The Section of Making the Offering of Torma Cakes to Restore the Four Elements, Offerings o+.TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/gtor ma_offering cake (bali)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/gtor ma_offering cake (bali)/s05976e_dge slong chos smra ba blo bzang chos kyi rgyal mtsan gyi ngag thor bu ba phyogs gcig tu bsgrigs pa las 'byung bzhi gtor ma chab gtor su r'u pa bcas_the section of making the offering of torma cakes to restore the four elements, offerings o+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAANqg",
-    "revision_id": "613f6656dee7b8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/GTOR MA_OFFERING CAKE (BALI)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyi_general treatments/gtor ma_offering cake (bali)/s05976e_dge slong chos smra ba blo bzang chos kyi rgyal mtsan gyi ngag thor bu ba phyogs gcig tu bsgrigs pa las 'byung bzhi gtor ma chab gtor su r'u pa bcas_the section of making the offering of torma cakes to restore the four elements, offerings o+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABZag",
+    "revision_id": "625a4907008ab8d294473",
     "content_hash": "0c3394472f0116036a1b1ed3f16c21a967f496060c4b30b82ecf576fda404cbc",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:15:07.755948",
+    "server_modified": "2024-10-29 21:49:48",
+    "last_sync": "2024-11-19 21:03:58.999476",
     "size": 11541,
-    "meta_text": "f Sacred Liquids, and Surupa Offerings, from a Compilation of Scattered Works of the Buddhist Monk and Dharma Teacher, Lobsang Chukyi Gyeltsen_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)",
+    "meta_text": "('f Sacred Liquids, and Surupa Offerings, from a Compilation of Scattered Works of the Buddhist Monk and Dharma Teacher, Lobsang Chukyi Gyeltsen_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)', 'rtf')",
     "cat_ref": "S05976E",
     "work_ref": "W.S05976E",
     "title_tib": "DGE SLONG CHOS SMRA BA BLO BZANG CHOS KYI RGYAL MTSAN GYI NGAG THOR BU BA PHYOGS GCIG TU BSGRIGS PA LAS 'BYUNG BZHI GTOR MA CHAB GTOR SU R'U PA BCAS",
-    "title_eng": "The Section of Making the Offering of Torma Cakes to Restore the Four Elements, Offerings of Sacred Liquids, and Surupa Offerings, from a Compilation of Scattered Works of the Buddhist Monk and Dharma Teacher, Lobsang Chukyi Gyeltsen",
+    "title_eng": "The Section of Making the Offering of Torma Cakes to Restore the Four Elements, Offerings o('f Sacred Liquids, and Surupa Offerings, from a Compilation of Scattered Works of the Buddhist Monk and Dharma Teacher, Lobsang Chukyi Gyeltsen",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "543190042798",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/GTOR MA_OFFERING CAKE (BALI)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/GTOR MA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/OFFERING CAKE (BALI)",
+            "_id": "102816338586",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/GTOR MA_OFFERING CAKE (BALI)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/GTOR MA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/OFFERING CAKE (BALI)",
             "subject_tibetan": "GTOR MA",
             "subject_english": "OFFERING CAKE (BALI)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/gtor ma_offering cake (bali)",
-            "timestamp": "2024-09-10T02:15:07.801786+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/GTOR MA_OFFERING CAKE (BALI)",
+            "timestamp": "2024-11-20 05:04:02.185712+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:04:02.185712+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

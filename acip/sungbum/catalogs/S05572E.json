@@ -1,14 +1,14 @@
 {
     "name": "S05572E_RJE BTZUN THAMS CAD MKHYEN PA'I GSUNG 'BUM THOR BU LAS JA MCHOD RTZA 'GREL_The Root Text and Commentary for the Offering of Tea, from Assorted Writings found in the Collected Works of the Holy and Omniscient One_RGYAL BA DGE 'DUN RGYA MTSO +.txt",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/ja mchod_tea offering",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/ja mchod_tea offering/s05572e_rje btzun thams cad mkhyen pa'i gsung 'bum thor bu las ja mchod rtza 'grel_the root text and commentary for the offering of tea, from assorted writings found in the collected works of the holy and omniscient one_rgyal ba dge 'dun rgya mtso +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAOVA",
-    "revision_id": "613f665b6106d8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/JA MCHOD_TEA OFFERING",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyi_general treatments/ja mchod_tea offering/s05572e_rje btzun thams cad mkhyen pa'i gsung 'bum thor bu las ja mchod rtza 'grel_the root text and commentary for the offering of tea, from assorted writings found in the collected works of the holy and omniscient one_rgyal ba dge 'dun rgya mtso +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABZNg",
+    "revision_id": "625a48fca5e568d294473",
     "content_hash": "3716ef19dd00128a4da01cff2eadab1f084bc02b6bb71a65f38e613cbcd9097d",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:15:42.509238",
+    "server_modified": "2024-10-29 21:49:37",
+    "last_sync": "2024-11-19 21:03:44.956926",
     "size": 2421,
-    "meta_text": "(1476-1542)",
+    "meta_text": "('(1476-1542)', 'text')",
     "cat_ref": "S05572E",
     "work_ref": "W.S05572E",
     "title_tib": "RJE BTZUN THAMS CAD MKHYEN PA'I GSUNG 'BUM THOR BU LAS JA MCHOD RTZA 'GREL",
@@ -19,10 +19,10 @@
     "author_simple": "RGYAL BA DGE 'DUN RGYA MTSO",
     "subject": [
         {
-            "_id": "506766566079",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/JA MCHOD_TEA OFFERING",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/JA MCHOD",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/TEA OFFERING",
+            "_id": "840692462687",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/JA MCHOD_TEA OFFERING",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/JA MCHOD",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/TEA OFFERING",
             "subject_tibetan": "JA MCHOD",
             "subject_english": "TEA OFFERING"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P84"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/ja mchod_tea offering",
-            "timestamp": "2024-09-10T02:15:42.514755+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/JA MCHOD_TEA OFFERING",
+            "timestamp": "2024-11-20 05:03:45.692590+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:03:45.692590+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

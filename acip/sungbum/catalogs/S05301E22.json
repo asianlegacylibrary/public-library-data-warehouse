@@ -1,12 +1,12 @@
 {
     "name": "S05301E22_RGYUD SDE BLA NA MED PA'I ZAB PA'I GNAD MTHAR THUG PA BSRE BA'I MAN NGAG GI GNAD ZHIB PAR GZHAN DU BRJOD PA_Additional, Detailed Account of Crucial Points in the Instructions on Mixing, which is the Ultimate Crucial and Profound Point in t +.TXT",
-    "path": "rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/bsre ba_practice of mixing",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/bsre ba_practice of mixing/s05301e22_rgyud sde bla na med pa'i zab pa'i gnad mthar thug pa bsre ba'i man ngag gi gnad zhib par gzhan du brjod pa_additional, detailed account of crucial points in the instructions on mixing, which is the ultimate crucial and profound point in t +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAQlA",
-    "revision_id": "613f665fcd6198d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/BSRE BA_PRACTICE OF MIXING",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/bsre ba_practice of mixing/s05301e22_rgyud sde bla na med pa'i zab pa'i gnad mthar thug pa bsre ba'i man ngag gi gnad zhib par gzhan du brjod pa_additional, detailed account of crucial points in the instructions on mixing, which is the ultimate crucial and profound point in t +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABa_Q",
+    "revision_id": "625a49416422d8d294473",
     "content_hash": "da9426941a237331ede75c51cb1afc1ab6f4d41270f9cbb4276f4c3583eb70e5",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:18:06.386826",
+    "server_modified": "2024-10-29 21:50:49",
+    "last_sync": "2024-11-19 21:06:35.060094",
     "size": 11482,
     "meta_text": null,
     "cat_ref": "S05301E22",
@@ -19,10 +19,10 @@
     "author_simple": "",
     "subject": [
         {
-            "_id": "107294386828",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/BSRE BA_PRACTICE OF MIXING",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/GSANG 'DUS/BSRE BA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/SECRET COLLECTION (GUHYASAMAJA)/PRACTICE OF MIXING",
+            "_id": "934459727602",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/BSRE BA_PRACTICE OF MIXING",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/GSANG 'DUS/BSRE BA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/SECRET COLLECTION (GUHYASAMAJA)/PRACTICE OF MIXING",
             "subject_tibetan": "BSRE BA",
             "subject_english": "PRACTICE OF MIXING"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/bsre ba_practice of mixing",
-            "timestamp": "2024-09-10T02:18:06.401945+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/BSRE BA_PRACTICE OF MIXING",
+            "timestamp": "2024-11-20 05:06:35.067824+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:06:35.067824+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

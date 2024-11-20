@@ -1,12 +1,12 @@
 {
     "name": "S05977E76_MGON PO BYA ROG MTSAN CAN LA BSTOD PA_Words in Praise of the Protector (Mahakala), the One whose Name is 'Crow'_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662).TXT",
-    "path": "rgyud_secret teachings (tantra)/bya rog_raven (kaka)/bstod pa_songs of praise (stotra)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/bya rog_raven (kaka)/bstod pa_songs of praise (stotra)/s05977e76_mgon po bya rog mtsan can la bstod pa_words in praise of the protector (mahakala), the one whose name is 'crow'_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAIFQ",
-    "revision_id": "613f664dc42318d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/BYA ROG_RAVEN (KAKA)/BSTOD PA_SONGS OF PRAISE (STOTRA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/bya rog_raven (kaka)/bstod pa_songs of praise (stotra)/s05977e76_mgon po bya rog mtsan can la bstod pa_words in praise of the protector (mahakala), the one whose name is 'crow'_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABcYA",
+    "revision_id": "625a49797088c8d294473",
     "content_hash": "20271268e769a12caf57953c50a6b05410d2ad5e7a99bf06bf82181f7fb0359e",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:09:05.179903",
+    "server_modified": "2024-10-29 21:51:48",
+    "last_sync": "2024-11-19 21:08:49.836661",
     "size": 2086,
     "meta_text": null,
     "cat_ref": "S05977E76",
@@ -19,10 +19,10 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "124440286512",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/BYA ROG_RAVEN (KAKA)/BSTOD PA_SONGS OF PRAISE (STOTRA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/BYA ROG/BSTOD PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/RAVEN (KAKA)/SONGS OF PRAISE (STOTRA)",
+            "_id": "274665485342",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BYA ROG_RAVEN (KAKA)/BSTOD PA_SONGS OF PRAISE (STOTRA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/BYA ROG/BSTOD PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/RAVEN (KAKA)/SONGS OF PRAISE (STOTRA)",
             "subject_tibetan": "BSTOD PA",
             "subject_english": "SONGS OF PRAISE (STOTRA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/bya rog_raven (kaka)/bstod pa_songs of praise (stotra)",
-            "timestamp": "2024-09-10T02:09:05.187819+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BYA ROG_RAVEN (KAKA)/BSTOD PA_SONGS OF PRAISE (STOTRA)",
+            "timestamp": "2024-11-20 05:08:49.841596+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:08:49.841596+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

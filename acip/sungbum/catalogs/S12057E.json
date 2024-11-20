@@ -1,12 +1,12 @@
 {
     "name": "S12057E_RAB GNAS KYI CHO GA DNGOS GRUB KUN 'BYUNG_The Source of All Attainments-- A Ritual of Consecration_CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS (1740-1810).TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/rab gnas_consecration (supratishtha)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/rab gnas_consecration (supratishtha)/s12057e_rab gnas kyi cho ga dngos grub kun 'byung_the source of all attainments-- a ritual of consecration_cha har dge bshes blo bzang tsul khrims (1740-1810).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAN5w",
-    "revision_id": "613f665b610008d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/RAB GNAS_CONSECRATION (SUPRATISHTHA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyi_general treatments/rab gnas_consecration (supratishtha)/s12057e_rab gnas kyi cho ga dngos grub kun 'byung_the source of all attainments-- a ritual of consecration_cha har dge bshes blo bzang tsul khrims (1740-1810).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABZ4g",
+    "revision_id": "625a4914ee32b8d294473",
     "content_hash": "95cbf79254544239a75d18bb66e890bdab3b5ea9178b43dd93c131f415235cf1",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:15:19.316736",
+    "server_modified": "2024-10-29 21:50:02",
+    "last_sync": "2024-11-19 21:04:42.907246",
     "size": 6695,
     "meta_text": null,
     "cat_ref": "S12057E",
@@ -19,10 +19,10 @@
     "author_simple": "CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS",
     "subject": [
         {
-            "_id": "219846535334",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/RAB GNAS_CONSECRATION (SUPRATISHTHA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/RAB GNAS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/CONSECRATION (SUPRATISHTHA)",
+            "_id": "129630635153",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/RAB GNAS_CONSECRATION (SUPRATISHTHA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/RAB GNAS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/CONSECRATION (SUPRATISHTHA)",
             "subject_tibetan": "RAB GNAS",
             "subject_english": "CONSECRATION (SUPRATISHTHA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P4797"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/rab gnas_consecration (supratishtha)",
-            "timestamp": "2024-09-10T02:15:19.336433+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/RAB GNAS_CONSECRATION (SUPRATISHTHA)",
+            "timestamp": "2024-11-20 05:04:44.219578+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:04:44.219578+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,28 +1,28 @@
 {
     "name": "S05275M99_DAD PA DANG GTONG PA'I YON TAN DANG LDAN PA DPON YIG RIN CHEN RGYAL POS, ,RGYANG RING PO NAS BSKUL BA'I DON DU SBYAR BA_Worked Composed at the Behest, from Afar, of an Official named Rinchen Gyalpo, a Person Possessed of the Virtues of Fai+.TXT",
-    "path": "nyams len_personal practice/bslab bya_personal advices/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/bslab bya_personal advices/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)/s05275m99_dad pa dang gtong pa'i yon tan dang ldan pa dpon yig rin chen rgyal pos, ,rgyang ring po nas bskul ba'i don du sbyar ba_worked composed at the behest, from afar, of an official named rinchen gyalpo, a person possessed of the virtues of fai+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAABQw",
-    "revision_id": "613f663b87c8c8d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/bslab bya_personal advices/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)/s05275m99_dad pa dang gtong pa'i yon tan dang ldan pa dpon yig rin chen rgyal pos, ,rgyang ring po nas bskul ba'i don du sbyar ba_worked composed at the behest, from afar, of an official named rinchen gyalpo, a person possessed of the virtues of fai+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABilA",
+    "revision_id": "625a4a8dd47048d294473",
     "content_hash": "313bb40fa526908f02379a693a351580d9346483a659bfddb59c6a9be9ad05e0",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:02:18.855931",
+    "server_modified": "2024-10-29 21:56:38",
+    "last_sync": "2024-11-19 21:19:53.660290",
     "size": 6543,
-    "meta_text": "th and Generosity_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)",
+    "meta_text": "('th and Generosity_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)', 'rtf')",
     "cat_ref": "S05275M99",
     "work_ref": "W.S05275M99",
     "title_tib": "DAD PA DANG GTONG PA'I YON TAN DANG LDAN PA DPON YIG RIN CHEN RGYAL POS, ,RGYANG RING PO NAS BSKUL BA'I DON DU SBYAR BA",
-    "title_eng": "Worked Composed at the Behest, from Afar, of an Official named Rinchen Gyalpo, a Person Possessed of the Virtues of Faith and Generosity",
+    "title_eng": "Worked Composed at the Behest, from Afar, of an Official named Rinchen Gyalpo, a Person Possessed of the Virtues of Fai('th and Generosity",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "144145609860",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/BSLAB BYA/RJE TZONG KHA PA BLO BZANG GRAGS PA",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/PERSONAL ADVICES/JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
+            "_id": "229343495359",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/BSLAB BYA/RJE TZONG KHA PA BLO BZANG GRAGS PA",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/PERSONAL ADVICES/JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
             "subject_tibetan": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
             "subject_english": "JE TSONGKAPA LOBSANG DRAKPA (1357-1419)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/bslab bya_personal advices/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)",
-            "timestamp": "2024-09-10T02:02:18.905463+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
+            "timestamp": "2024-11-20 05:19:54.511411+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:19:54.511411+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

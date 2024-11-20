@@ -1,14 +1,14 @@
 {
     "name": "S06860M_BYANG RTZE GRVA TSANG GI BRTZI BZHAGS TU GNANG BA'I RTAGS RIGS BRJOD DON BSAL BA'I ME LONG_The 'Clear Mirror,' being the Text of the Book of Reasoning used for the Regular Oral Examinations of the Jangtse College of Ganden Tibetan Monastery_ +.TXT",
-    "path": "tsad ma_study of accurate perception (sautrantika school)/bsdus grva_collected topics of logic/rtags rigs_formal logic",
-    "download_path": "/sungbum updated 4 26 23 bk/tsad ma_study of accurate perception (sautrantika school)/bsdus grva_collected topics of logic/rtags rigs_formal logic/s06860m_byang rtze grva tsang gi brtzi bzhags tu gnang ba'i rtags rigs brjod don bsal ba'i me long_the 'clear mirror,' being the text of the book of reasoning used for the regular oral examinations of the jangtse college of ganden tibetan monastery_ +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAGBQ",
-    "revision_id": "613f66492f06f8d294473",
+    "path": "TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/BSDUS GRVA_COLLECTED TOPICS OF LOGIC/RTAGS RIGS_FORMAL LOGIC",
+    "download_path": "/sungbum updated 7 30 23 nl/tsad ma_study of accurate perception (sautrantika school)/bsdus grva_collected topics of logic/rtags rigs_formal logic/s06860m_byang rtze grva tsang gi brtzi bzhags tu gnang ba'i rtags rigs brjod don bsal ba'i me long_the 'clear mirror,' being the text of the book of reasoning used for the regular oral examinations of the jangtse college of ganden tibetan monastery_ +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABQEw",
+    "revision_id": "625a47b5c8ef98d294473",
     "content_hash": "d11e55e3413f760c724ab812e382ea87f5e98eb39e4823ae77643c50c149d134",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:07:10.692230",
+    "server_modified": "2024-10-29 21:43:54",
+    "last_sync": "2024-11-19 20:49:03.324127",
     "size": 130712,
-    "meta_text": "BYANG RTZE THOS BSAM GLING GI BLA THOG BCO BRGYAD PA BLO BZANG BSTAN PA (&-&)",
+    "meta_text": "('BYANG RTZE THOS BSAM GLING GI BLA THOG BCO BRGYAD PA BLO BZANG BSTAN PA (&-&)', 'rtf')",
     "cat_ref": "S06860M",
     "work_ref": "W.S06860M",
     "title_tib": "BYANG RTZE GRVA TSANG GI BRTZI BZHAGS TU GNANG BA'I RTAGS RIGS BRJOD DON BSAL BA'I ME LONG",
@@ -16,13 +16,13 @@
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
-    "author_simple": "BYANG RTZE THOS BSAM GLING GI BLA THOG BCO BRGYAD PA BLO BZANG BSTAN PA",
+    "author_simple": "('BYANG RTZE THOS BSAM GLING GI BLA THOG BCO BRGYAD PA BLO BZANG BSTAN PA",
     "subject": [
         {
-            "_id": "280912124319",
-            "subject_path": "SUNGBUM_SUNGBUM/TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/BSDUS GRVA_COLLECTED TOPICS OF LOGIC/RTAGS RIGS_FORMAL LOGIC",
-            "subject_path_tibetan": "SUNGBUM/TSAD MA/BSDUS GRVA/RTAGS RIGS",
-            "subject_path_english": "SUNGBUM/STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/COLLECTED TOPICS OF LOGIC/FORMAL LOGIC",
+            "_id": "173588355784",
+            "subject_path": "GSUNG 'BUM_Sungbum/TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/BSDUS GRVA_COLLECTED TOPICS OF LOGIC/RTAGS RIGS_FORMAL LOGIC",
+            "subject_path_tibetan": "GSUNG 'BUM/TSAD MA/BSDUS GRVA/RTAGS RIGS",
+            "subject_path_english": "Sungbum/STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/COLLECTED TOPICS OF LOGIC/FORMAL LOGIC",
             "subject_tibetan": "RTAGS RIGS",
             "subject_english": "FORMAL LOGIC"
         }
@@ -30,16 +30,24 @@
     "items": [],
     "author": [
         {
-            "author_name": "BYANG RTZE THOS BSAM GLING GI BLA THOG BCO BRGYAD PA BLO BZANG BSTAN PA",
+            "author_name": "('BYANG RTZE THOS BSAM GLING GI BLA THOG BCO BRGYAD PA BLO BZANG BSTAN PA",
             "author_birth": null,
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "tsad ma_study of accurate perception (sautrantika school)/bsdus grva_collected topics of logic/rtags rigs_formal logic",
-            "timestamp": "2024-09-10T02:07:10.712421+00:00"
+            "path": "GSUNG 'BUM_Sungbum/TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/BSDUS GRVA_COLLECTED TOPICS OF LOGIC/RTAGS RIGS_FORMAL LOGIC",
+            "timestamp": "2024-11-20 04:49:03.330279+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:49:03.330279+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,12 +1,12 @@
 {
     "name": "S05977E87_DPAL GYI LHA MO LA MCHOD 'PHRIN TSIG NYUNG DON RGYAS_A Cloud of Offerings to the Glorious Goddess (Kalidevi), in Few Words, with Great Meaning_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662).TXT",
-    "path": "rgyud_secret teachings (tantra)/hla mo_the goddess (devi)/gtor ma_offering cake (bali)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/hla mo_the goddess (devi)/gtor ma_offering cake (bali)/s05977e87_dpal gyi lha mo la mchod 'phrin tsig nyung don rgyas_a cloud of offerings to the glorious goddess (kalidevi), in few words, with great meaning_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAKDg",
-    "revision_id": "613f6652788268d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/HLA MO_THE GODDESS (DEVI)/GTOR MA_OFFERING CAKE (BALI)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/hla mo_the goddess (devi)/gtor ma_offering cake (bali)/s05977e87_dpal gyi lha mo la mchod 'phrin tsig nyung don rgyas_a cloud of offerings to the glorious goddess (kalidevi), in few words, with great meaning_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABWxg",
+    "revision_id": "625a48ac215e98d294473",
     "content_hash": "bf05966b78b2323538d686c565bded9493ca2a1a68ac7018b030a5d1b1e9ff4a",
-    "server_modified": "2024-03-18T21:54:00",
-    "last_sync": "2024-09-09T19:11:02.237191",
+    "server_modified": "2024-10-29 21:48:13",
+    "last_sync": "2024-11-19 20:59:35.311056",
     "size": 2056,
     "meta_text": null,
     "cat_ref": "S05977E87",
@@ -19,10 +19,10 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "224761943169",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/HLA MO_THE GODDESS (DEVI)/GTOR MA_OFFERING CAKE (BALI)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/HLA MO/GTOR MA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/THE GODDESS (DEVI)/OFFERING CAKE (BALI)",
+            "_id": "235449906433",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/HLA MO_THE GODDESS (DEVI)/GTOR MA_OFFERING CAKE (BALI)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/HLA MO/GTOR MA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/THE GODDESS (DEVI)/OFFERING CAKE (BALI)",
             "subject_tibetan": "GTOR MA",
             "subject_english": "OFFERING CAKE (BALI)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/hla mo_the goddess (devi)/gtor ma_offering cake (bali)",
-            "timestamp": "2024-09-10T02:11:02.251345+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/HLA MO_THE GODDESS (DEVI)/GTOR MA_OFFERING CAKE (BALI)",
+            "timestamp": "2024-11-20 04:59:35.323593+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:59:35.323593+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

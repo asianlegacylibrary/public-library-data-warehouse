@@ -1,12 +1,12 @@
 {
     "name": "SP06954_CHOS MNGON PA MDZOD KYI TSIG LE'UR BYAS PA'I 'GREL PA MNGON  PA'I RGYAN.txt",
-    "path": "mngon pa_higher knowledge (abhidharma) (vaibhashika school)/mchims 'jam pa'i dbyangs_chim jampay yang (1280-@)",
-    "download_path": "/sungbum updated 4 26 23 bk/mngon pa_higher knowledge (abhidharma) (vaibhashika school)/mchims 'jam pa'i dbyangs_chim jampay yang (1280-@)/sp06954_chos mngon pa mdzod kyi tsig le'ur byas pa'i 'grel pa mngon  pa'i rgyan.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAXKw",
-    "revision_id": "613f666d20a478d294473",
+    "path": "MNGON PA_HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)/MCHIMS 'JAM PA'I DBYANGS_CHIM JAMPAY YANG (1280-@)",
+    "download_path": "/sungbum updated 7 30 23 nl/mngon pa_higher knowledge (abhidharma) (vaibhashika school)/mchims 'jam pa'i dbyangs_chim jampay yang (1280-@)/sp06954_chos mngon pa mdzod kyi tsig le'ur byas pa'i 'grel pa mngon  pa'i rgyan.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABmLA",
+    "revision_id": "625a4b0bff8d58d294473",
     "content_hash": "7fb8ed75160d8309d2e85b1a2bcbca3f5a7bccc4279c44c550e204d6035ae90a",
-    "server_modified": "2024-03-18T21:54:28",
-    "last_sync": "2024-09-09T19:24:30.622206",
+    "server_modified": "2024-10-29 21:58:50",
+    "last_sync": "2024-11-19 21:26:27.587028",
     "size": 1890185,
     "meta_text": null,
     "cat_ref": "SP06954",
@@ -19,10 +19,10 @@
     "author_simple": "",
     "subject": [
         {
-            "_id": "149350901886",
-            "subject_path": "SUNGBUM_SUNGBUM/MNGON PA_HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)/MCHIMS 'JAM PA'I DBYANGS_CHIM JAMPAY YANG (1280-@)",
-            "subject_path_tibetan": "SUNGBUM/MNGON PA/MCHIMS 'JAM PA'I DBYANGS",
-            "subject_path_english": "SUNGBUM/HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)/CHIM JAMPAY YANG (1280-@)",
+            "_id": "750719714024",
+            "subject_path": "GSUNG 'BUM_Sungbum/MNGON PA_HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)/MCHIMS 'JAM PA'I DBYANGS_CHIM JAMPAY YANG (1280-@)",
+            "subject_path_tibetan": "GSUNG 'BUM/MNGON PA/MCHIMS 'JAM PA'I DBYANGS",
+            "subject_path_english": "Sungbum/HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)/CHIM JAMPAY YANG (1280-@)",
             "subject_tibetan": "MCHIMS 'JAM PA'I DBYANGS",
             "subject_english": "CHIM JAMPAY YANG (1280-@)"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "mngon pa_higher knowledge (abhidharma) (vaibhashika school)/mchims 'jam pa'i dbyangs_chim jampay yang (1280-@)",
-            "timestamp": "2024-09-10T02:24:30.633110+00:00"
+            "path": "GSUNG 'BUM_Sungbum/MNGON PA_HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)/MCHIMS 'JAM PA'I DBYANGS_CHIM JAMPAY YANG (1280-@)",
+            "timestamp": "2024-11-20 05:26:27.590887+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:26:27.590887+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

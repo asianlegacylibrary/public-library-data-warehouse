@@ -1,12 +1,12 @@
 {
     "name": "S06370EK9_BDE MCHOG SKABS RDZAS DANG PO LNGA G-YON SKOR DANG, PHYI MA G-YAS SKOR BYED PA'I RGYU MTSAN_Response to a Question on Why, in the Practice of Highest Bliss (Sambara), the First Five Substances Go Around to the Left, and the Latter Five Go  +.TXT",
-    "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/sgrub thabs_ritual for reaching the angel (sadhana)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/sgrub thabs_ritual for reaching the angel (sadhana)/s06370ek9_bde mchog skabs rdzas dang po lnga g-yon skor dang, phyi ma g-yas skor byed pa'i rgyu mtsan_response to a question on why, in the practice of highest bliss (sambara), the first five substances go around to the left, and the latter five go  +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAPCw",
-    "revision_id": "613f665b611248d294473",
+    "path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "download_path": "/sungbum updated 7 30 23 nl/dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)/s06370ek9_bde mchog skabs rdzas dang po lnga g-yon skor dang, phyi ma g-yas skor byed pa'i rgyu mtsan_response to a question on why, in the practice of highest bliss (sambara), the first five substances go around to the left, and the latter five go  +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABSjw",
+    "revision_id": "625a48147222b8d294473",
     "content_hash": "507852ef2fe6fc091eef611f55e24da93e342a8bcab266fed34d7d56729339cf",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:16:24.266264",
+    "server_modified": "2024-10-29 21:45:34",
+    "last_sync": "2024-11-19 20:53:31.049973",
     "size": 409,
     "meta_text": null,
     "cat_ref": "S06370EK9",
@@ -19,20 +19,20 @@
     "author_simple": "",
     "subject": [
         {
-            "_id": "250473272738",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/BDE MCHOG/SGRUB THABS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "subject_tibetan": "SGRUB THABS",
-            "subject_english": "RITUAL FOR REACHING THE ANGEL (SADHANA)"
-        },
-        {
-            "_id": "244831615226",
-            "subject_path": "SUNGBUM_SUNGBUM/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_tibetan": "SUNGBUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_english": "SUNGBUM/QUESTIONS AND ANSWERS",
+            "_id": "250883940513",
+            "subject_path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "GSUNG 'BUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "Sungbum/QUESTIONS AND ANSWERS",
             "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
             "subject_english": "QUESTIONS AND ANSWERS"
+        },
+        {
+            "_id": "162847641065",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/BDE MCHOG/SGRUB THABS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "subject_tibetan": "SGRUB THABS",
+            "subject_english": "RITUAL FOR REACHING THE ANGEL (SADHANA)"
         }
     ],
     "items": [],
@@ -43,15 +43,29 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/sgrub thabs_ritual for reaching the angel (sadhana)",
-            "timestamp": "2024-09-10T02:16:24.277858+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "timestamp": "2024-11-20 04:54:07.132979+00:00"
         },
         {
-            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
-            "timestamp": "2024-09-10T02:21:49.583243+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "timestamp": "2024-11-20 04:55:39.058489+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:54:07.132979+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T04:55:39.058489+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "text"
 }

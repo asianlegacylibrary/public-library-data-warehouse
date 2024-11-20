@@ -1,28 +1,28 @@
 {
     "name": "S05275M71_ BYANG CHUB SEMS DPA' SEMS DPA' CHEN PO GRAGS PA BYANG CHUB DPAL BZANG PO'I RTOGS PA BRJOD PA'I SNYAN DNGAGS BYIN RLABS KYI LHUN PO_The 'Universal Mountain of Blessings,' being Verses of Poetry describing the Holy Life of the Great Bodhisa+.TXT",
-    "path": "rnam thar_biographies/mtsan thog_by person's name/grags pa byang chub dpal bzang po_drakpa jangchub pel sangpo",
-    "download_path": "/sungbum updated 4 26 23 bk/rnam thar_biographies/mtsan thog_by person's name/grags pa byang chub dpal bzang po_drakpa jangchub pel sangpo/s05275m71_ byang chub sems dpa' sems dpa' chen po grags pa byang chub dpal bzang po'i rtogs pa brjod pa'i snyan dngags byin rlabs kyi lhun po_the 'universal mountain of blessings,' being verses of poetry describing the holy life of the great bodhisa+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAWEg",
-    "revision_id": "613f666d2092e8d294473",
+    "path": "RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/GRAGS PA BYANG CHUB DPAL BZANG PO_DRAKPA JANGCHUB PEL SANGPO",
+    "download_path": "/sungbum updated 7 30 23 nl/rnam thar_biographies/mtsan thog_by person's name/grags pa byang chub dpal bzang po_drakpa jangchub pel sangpo/s05275m71_ byang chub sems dpa' sems dpa' chen po grags pa byang chub dpal bzang po'i rtogs pa brjod pa'i snyan dngags byin rlabs kyi lhun po_the 'universal mountain of blessings,' being verses of poetry describing the holy life of the great bodhisa+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABfig",
+    "revision_id": "625a49f9cd76d8d294473",
     "content_hash": "30d8c1e103d8362cf09129975ab9bc5349a87c978dbbec1b2bc3ff8d16697883",
-    "server_modified": "2024-03-18T21:54:28",
-    "last_sync": "2024-09-09T19:23:12.539767",
+    "server_modified": "2024-10-29 21:54:02",
+    "last_sync": "2024-11-19 21:14:23.629956",
     "size": 57213,
-    "meta_text": "ttva, the Good and Glorious Drakpa Jangchub_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)",
+    "meta_text": "('ttva, the Good and Glorious Drakpa Jangchub_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)', 'rtf')",
     "cat_ref": "S05275M71",
     "work_ref": "W.S05275M71",
     "title_tib": "BYANG CHUB SEMS DPA' SEMS DPA' CHEN PO GRAGS PA BYANG CHUB DPAL BZANG PO'I RTOGS PA BRJOD PA'I SNYAN DNGAGS BYIN RLABS KYI LHUN PO",
-    "title_eng": "The 'Universal Mountain of Blessings,' being Verses of Poetry describing the Holy Life of the Great Bodhisattva, the Good and Glorious Drakpa Jangchub",
+    "title_eng": "The 'Universal Mountain of Blessings,' being Verses of Poetry describing the Holy Life of the Great Bodhisa('ttva, the Good and Glorious Drakpa Jangchub",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "118889315442",
-            "subject_path": "SUNGBUM_SUNGBUM/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/GRAGS PA BYANG CHUB DPAL BZANG PO_DRAKPA JANGCHUB PEL SANGPO",
-            "subject_path_tibetan": "SUNGBUM/RNAM THAR/MTSAN THOG/GRAGS PA BYANG CHUB DPAL BZANG PO",
-            "subject_path_english": "SUNGBUM/BIOGRAPHIES/BY PERSON'S NAME/DRAKPA JANGCHUB PEL SANGPO",
+            "_id": "177401334598",
+            "subject_path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/GRAGS PA BYANG CHUB DPAL BZANG PO_DRAKPA JANGCHUB PEL SANGPO",
+            "subject_path_tibetan": "GSUNG 'BUM/RNAM THAR/MTSAN THOG/GRAGS PA BYANG CHUB DPAL BZANG PO",
+            "subject_path_english": "Sungbum/BIOGRAPHIES/BY PERSON'S NAME/DRAKPA JANGCHUB PEL SANGPO",
             "subject_tibetan": "GRAGS PA BYANG CHUB DPAL BZANG PO",
             "subject_english": "DRAKPA JANGCHUB PEL SANGPO"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rnam thar_biographies/mtsan thog_by person's name/grags pa byang chub dpal bzang po_drakpa jangchub pel sangpo",
-            "timestamp": "2024-09-10T02:23:12.541795+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/GRAGS PA BYANG CHUB DPAL BZANG PO_DRAKPA JANGCHUB PEL SANGPO",
+            "timestamp": "2024-11-20 05:14:23.635636+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:14:23.635636+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

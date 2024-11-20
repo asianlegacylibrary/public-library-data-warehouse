@@ -1,12 +1,12 @@
 {
     "name": "S00539E_SNAR THANG BRGYA RTZA'I ZIN BRIS_Notes to a Teaching on the Nartang Pantheon_CHE SHOS RIN PO CHE BLO BZANG BYANG CHUB BSTAN PA'I SGRON ME (1861-1933@).TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/bya rgyud_action class of tantra (kriya tantra)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/bya rgyud_action class of tantra (kriya tantra)/s00539e_snar thang brgya rtza'i zin bris_notes to a teaching on the nartang pantheon_che shos rin po che blo bzang byang chub bstan pa'i sgron me (1861-1933@).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAANAQ",
-    "revision_id": "613f6656dedd28d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BYA RGYUD_ACTION CLASS OF TANTRA (KRIYA TANTRA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyi_general treatments/bya rgyud_action class of tantra (kriya tantra)/s00539e_snar thang brgya rtza'i zin bris_notes to a teaching on the nartang pantheon_che shos rin po che blo bzang byang chub bstan pa'i sgron me (1861-1933@).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABZBA",
+    "revision_id": "625a48f2af6ae8d294473",
     "content_hash": "1292eff9effa2125395ff9b5b5e0d78552694f5b1ec877e4cdd9dd3053c7fc35",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:14:24.482819",
+    "server_modified": "2024-10-29 21:49:27",
+    "last_sync": "2024-11-19 21:03:29.724385",
     "size": 11681,
     "meta_text": null,
     "cat_ref": "S00539E",
@@ -19,10 +19,10 @@
     "author_simple": "CHE SHOS RIN PO CHE BLO BZANG BYANG CHUB BSTAN PA'I SGRON ME",
     "subject": [
         {
-            "_id": "317992377563",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BYA RGYUD_ACTION CLASS OF TANTRA (KRIYA TANTRA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/BYA RGYUD",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/ACTION CLASS OF TANTRA (KRIYA TANTRA)",
+            "_id": "117081596324",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BYA RGYUD_ACTION CLASS OF TANTRA (KRIYA TANTRA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/BYA RGYUD",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/ACTION CLASS OF TANTRA (KRIYA TANTRA)",
             "subject_tibetan": "BYA RGYUD",
             "subject_english": "ACTION CLASS OF TANTRA (KRIYA TANTRA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P238"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/bya rgyud_action class of tantra (kriya tantra)",
-            "timestamp": "2024-09-10T02:14:24.497788+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BYA RGYUD_ACTION CLASS OF TANTRA (KRIYA TANTRA)",
+            "timestamp": "2024-11-20 05:03:30.921755+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:03:30.921755+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

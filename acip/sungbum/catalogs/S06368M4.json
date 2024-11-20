@@ -1,12 +1,12 @@
 {
     "name": "S06368M4_RTEN 'BREL BSTOD PA'I SA BCAD_Outline of 'The Praise of Dependent Origination'_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "dbu ma_middle-way philosophy (madhyamika prasangika school)/rten 'brel_dependent origination/rten 'brel bstod pa_praise of dependent origination/'grel pa_commentaries",
-    "download_path": "/sungbum updated 4 26 23 bk/dbu ma_middle-way philosophy (madhyamika prasangika school)/rten 'brel_dependent origination/rten 'brel bstod pa_praise of dependent origination/'grel pa_commentaries/s06368m4_rten 'brel bstod pa'i sa bcad_outline of 'the praise of dependent origination'_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAADxw",
-    "revision_id": "613f663ffc8ba8d294473",
+    "path": "DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/RTEN 'BREL_DEPENDENT ORIGINATION/RTEN 'BREL BSTOD PA_PRAISE OF DEPENDENT ORIGINATION/'GREL PA_COMMENTARIES",
+    "download_path": "/sungbum updated 7 30 23 nl/dbu ma_middle-way philosophy (madhyamika prasangika school)/rten 'brel_dependent origination/rten 'brel bstod pa_praise of dependent origination/'grel pa_commentaries/s06368m4_rten 'brel bstod pa'i sa bcad_outline of 'the praise of dependent origination'_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABRNg",
+    "revision_id": "625a47de6a2b38d294473",
     "content_hash": "8044b924f64a668b1a61176e338f78d8b32fed72a94fb70afd8556e1166cfe87",
-    "server_modified": "2024-03-18T21:53:40",
-    "last_sync": "2024-09-09T19:05:03.703883",
+    "server_modified": "2024-10-29 21:44:37",
+    "last_sync": "2024-11-19 20:51:30.039166",
     "size": 6671,
     "meta_text": null,
     "cat_ref": "S06368M4",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "166837222848",
-            "subject_path": "SUNGBUM_SUNGBUM/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/RTEN 'BREL_DEPENDENT ORIGINATION/RTEN 'BREL BSTOD PA_PRAISE OF DEPENDENT ORIGINATION/'GREL PA_COMMENTARIES",
-            "subject_path_tibetan": "SUNGBUM/DBU MA/RTEN 'BREL/RTEN 'BREL BSTOD PA/'GREL PA",
-            "subject_path_english": "SUNGBUM/MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/DEPENDENT ORIGINATION/PRAISE OF DEPENDENT ORIGINATION/COMMENTARIES",
+            "_id": "363200517931",
+            "subject_path": "GSUNG 'BUM_Sungbum/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/RTEN 'BREL_DEPENDENT ORIGINATION/RTEN 'BREL BSTOD PA_PRAISE OF DEPENDENT ORIGINATION/'GREL PA_COMMENTARIES",
+            "subject_path_tibetan": "GSUNG 'BUM/DBU MA/RTEN 'BREL/RTEN 'BREL BSTOD PA/'GREL PA",
+            "subject_path_english": "Sungbum/MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/DEPENDENT ORIGINATION/PRAISE OF DEPENDENT ORIGINATION/COMMENTARIES",
             "subject_tibetan": "'GREL PA",
             "subject_english": "COMMENTARIES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "dbu ma_middle-way philosophy (madhyamika prasangika school)/rten 'brel_dependent origination/rten 'brel bstod pa_praise of dependent origination/'grel pa_commentaries",
-            "timestamp": "2024-09-10T02:05:03.720098+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/RTEN 'BREL_DEPENDENT ORIGINATION/RTEN 'BREL BSTOD PA_PRAISE OF DEPENDENT ORIGINATION/'GREL PA_COMMENTARIES",
+            "timestamp": "2024-11-20 04:51:30.044724+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:51:30.044724+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,12 +1,12 @@
 {
     "name": "S19097E.rtf",
-    "path": "phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/spyi_general commentaries/'jam dbyangs bzhad pa'i rdo rje ngag dbang brtzon 'grus_jamyang shepay dorje ngawang tsundru (1648-1721)",
-    "download_path": "/sungbum updated 4 26 23 bk/phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/spyi_general commentaries/'jam dbyangs bzhad pa'i rdo rje ngag dbang brtzon 'grus_jamyang shepay dorje ngawang tsundru (1648-1721)/s19097e.rtf",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAVSw",
-    "revision_id": "613f6668766b18d294473",
+    "path": "PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/SPYI_GENERAL COMMENTARIES/'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS_JAMYANG SHEPAY DORJE NGAWANG TSUNDRU (1648-1721)",
+    "download_path": "/sungbum updated 7 30 23 nl/phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/spyi_general commentaries/'jam dbyangs bzhad pa'i rdo rje ngag dbang brtzon 'grus_jamyang shepay dorje ngawang tsundru (1648-1721)/s19097e.rtf",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABO5w",
+    "revision_id": "625a4781689a78d294473",
     "content_hash": "e183b68cfd9d7f988958fe4885cc57c6d785430587739f552b1e78fae162ffb1",
-    "server_modified": "2024-03-18T21:54:23",
-    "last_sync": "2024-09-09T19:22:29.521551",
+    "server_modified": "2024-10-29 21:42:59",
+    "last_sync": "2024-11-19 20:47:01.651053",
     "size": 176266,
     "meta_text": null,
     "cat_ref": "S19097E",
@@ -19,10 +19,10 @@
     "author_simple": "",
     "subject": [
         {
-            "_id": "121469208737",
-            "subject_path": "SUNGBUM_SUNGBUM/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/SPYI_GENERAL COMMENTARIES/'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS_JAMYANG SHEPAY DORJE NGAWANG TSUNDRU (1648-1721)",
-            "subject_path_tibetan": "SUNGBUM/PHAR PHYIN/SPYI/'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS",
-            "subject_path_english": "SUNGBUM/PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/GENERAL COMMENTARIES/JAMYANG SHEPAY DORJE NGAWANG TSUNDRU (1648-1721)",
+            "_id": "546792964752",
+            "subject_path": "GSUNG 'BUM_Sungbum/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/SPYI_GENERAL COMMENTARIES/'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS_JAMYANG SHEPAY DORJE NGAWANG TSUNDRU (1648-1721)",
+            "subject_path_tibetan": "GSUNG 'BUM/PHAR PHYIN/SPYI/'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS",
+            "subject_path_english": "Sungbum/PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/GENERAL COMMENTARIES/JAMYANG SHEPAY DORJE NGAWANG TSUNDRU (1648-1721)",
             "subject_tibetan": "'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS",
             "subject_english": "JAMYANG SHEPAY DORJE NGAWANG TSUNDRU (1648-1721)"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/spyi_general commentaries/'jam dbyangs bzhad pa'i rdo rje ngag dbang brtzon 'grus_jamyang shepay dorje ngawang tsundru (1648-1721)",
-            "timestamp": "2024-09-10T02:22:29.528200+00:00"
+            "path": "GSUNG 'BUM_Sungbum/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/SPYI_GENERAL COMMENTARIES/'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS_JAMYANG SHEPAY DORJE NGAWANG TSUNDRU (1648-1721)",
+            "timestamp": "2024-11-20 04:47:02.383711+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:47:02.383711+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "rtf"
 }

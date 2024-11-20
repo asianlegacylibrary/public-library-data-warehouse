@@ -1,12 +1,12 @@
 {
     "name": "S06309E_THIG LE BCU DRUG GI BSGOM BZLAS SNYING POR DRIL BA_An Essential Summary of the Practice of Meditation and Recitation in the Teachings on the Sixteen Drops of the Kadampa_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/thig le bcu drug_sixteen drops/bsgom bzlas_meditation and recitation upon the angel",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/thig le bcu drug_sixteen drops/bsgom bzlas_meditation and recitation upon the angel/s06309e_thig le bcu drug gi bsgom bzlas snying por dril ba_an essential summary of the practice of meditation and recitation in the teachings on the sixteen drops of the kadampa_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAP2A",
-    "revision_id": "613f665fcd55d8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/THIG LE BCU DRUG_SIXTEEN DROPS/BSGOM BZLAS_MEDITATION AND RECITATION UPON THE ANGEL",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/thig le bcu drug_sixteen drops/bsgom bzlas_meditation and recitation upon the angel/s06309e_thig le bcu drug gi bsgom bzlas snying por dril ba_an essential summary of the practice of meditation and recitation in the teachings on the sixteen drops of the kadampa_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABaig",
+    "revision_id": "625a492e12a5c8d294473",
     "content_hash": "5c359b66545d974290f58707dc9e6f13ae5048bec3b83fc89ac215c053807f27",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:17:17.738723",
+    "server_modified": "2024-10-29 21:50:29",
+    "last_sync": "2024-11-19 21:06:17.499223",
     "size": 2883,
     "meta_text": null,
     "cat_ref": "S06309E",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "399042737053",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/THIG LE BCU DRUG_SIXTEEN DROPS/BSGOM BZLAS_MEDITATION AND RECITATION UPON THE ANGEL",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/THIG LE BCU DRUG/BSGOM BZLAS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/SIXTEEN DROPS/MEDITATION AND RECITATION UPON THE ANGEL",
+            "_id": "791585055597",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/THIG LE BCU DRUG_SIXTEEN DROPS/BSGOM BZLAS_MEDITATION AND RECITATION UPON THE ANGEL",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/THIG LE BCU DRUG/BSGOM BZLAS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/SIXTEEN DROPS/MEDITATION AND RECITATION UPON THE ANGEL",
             "subject_tibetan": "BSGOM BZLAS",
             "subject_english": "MEDITATION AND RECITATION UPON THE ANGEL"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/thig le bcu drug_sixteen drops/bsgom bzlas_meditation and recitation upon the angel",
-            "timestamp": "2024-09-10T02:17:17.740172+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/THIG LE BCU DRUG_SIXTEEN DROPS/BSGOM BZLAS_MEDITATION AND RECITATION UPON THE ANGEL",
+            "timestamp": "2024-11-20 05:06:17.503756+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:06:17.503756+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

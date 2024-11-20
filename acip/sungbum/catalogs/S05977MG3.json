@@ -1,12 +1,12 @@
 {
     "name": "S05977MG3_SMAN BLA'I CHO GA'I MJUG TU BYA BA'I SHIS BRJOD_Words of Benediction to be Recited at the End of the Ritual of the Medicine Buddha (Bhaisajyaguru)_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662).TXT",
-    "path": "nyams len_personal practice/shis brjod_methods for performing prayers of auspiciousness",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/shis brjod_methods for performing prayers of auspiciousness/s05977mg3_sman bla'i cho ga'i mjug tu bya ba'i shis brjod_words of benediction to be recited at the end of the ritual of the medicine buddha (bhaisajyaguru)_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAAWA",
-    "revision_id": "613f663b87ba18d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/SHIS BRJOD_METHODS FOR PERFORMING PRAYERS OF AUSPICIOUSNESS",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/shis brjod_methods for performing prayers of auspiciousness/s05977mg3_sman bla'i cho ga'i mjug tu bya ba'i shis brjod_words of benediction to be recited at the end of the ritual of the medicine buddha (bhaisajyaguru)_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABkMA",
+    "revision_id": "625a4ac842b8c8d294473",
     "content_hash": "74a6af919cfc07c911130845a6544128cd6cd16bf6e0cf11a3e1fe6a587f5a8f",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:01:22.505480",
+    "server_modified": "2024-10-29 21:57:39",
+    "last_sync": "2024-11-19 21:22:53.732590",
     "size": 2725,
     "meta_text": null,
     "cat_ref": "S05977MG3",
@@ -19,10 +19,10 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "132633866545",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/SHIS BRJOD_METHODS FOR PERFORMING PRAYERS OF AUSPICIOUSNESS",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/SHIS BRJOD",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/METHODS FOR PERFORMING PRAYERS OF AUSPICIOUSNESS",
+            "_id": "247024994067",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SHIS BRJOD_METHODS FOR PERFORMING PRAYERS OF AUSPICIOUSNESS",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/SHIS BRJOD",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/METHODS FOR PERFORMING PRAYERS OF AUSPICIOUSNESS",
             "subject_tibetan": "SHIS BRJOD",
             "subject_english": "METHODS FOR PERFORMING PRAYERS OF AUSPICIOUSNESS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/shis brjod_methods for performing prayers of auspiciousness",
-            "timestamp": "2024-09-10T02:01:22.518476+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SHIS BRJOD_METHODS FOR PERFORMING PRAYERS OF AUSPICIOUSNESS",
+            "timestamp": "2024-11-20 05:22:54.400246+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:22:54.400246+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

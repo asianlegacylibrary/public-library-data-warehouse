@@ -1,12 +1,12 @@
 {
     "name": "S12074E_ZLOG CHEN GYI GTOR MA BZO TSUL_How to Make Torma Cakes for the Great Ritual of Banishing Demons_CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS (1740-1810).TXT",
-    "path": "rgyud_secret teachings (tantra)/gdugs dkar_white parasol (sitapatra)/bzlog pa_repelling evil spirits",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/gdugs dkar_white parasol (sitapatra)/bzlog pa_repelling evil spirits/s12074e_zlog chen gyi gtor ma bzo tsul_how to make torma cakes for the great ritual of banishing demons_cha har dge bshes blo bzang tsul khrims (1740-1810).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAARWw",
-    "revision_id": "613f665fcd6e08d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/GDUGS DKAR_WHITE PARASOL (SITAPATRA)/BZLOG PA_REPELLING EVIL SPIRITS",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/gdugs dkar_white parasol (sitapatra)/bzlog pa_repelling evil spirits/s12074e_zlog chen gyi gtor ma bzo tsul_how to make torma cakes for the great ritual of banishing demons_cha har dge bshes blo bzang tsul khrims (1740-1810).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABcVw",
+    "revision_id": "625a4977d4a858d294473",
     "content_hash": "950c6f8ad3ffc1b719cfe136609e2681049612508549f03ea615f72b89e0e1be",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:18:59.164039",
+    "server_modified": "2024-10-29 21:51:46",
+    "last_sync": "2024-11-19 21:08:41.108193",
     "size": 9598,
     "meta_text": null,
     "cat_ref": "S12074E",
@@ -19,18 +19,18 @@
     "author_simple": "CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS",
     "subject": [
         {
-            "_id": "250199874599",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/GDUGS DKAR_WHITE PARASOL (SITAPATRA)/BZLOG PA_REPELLING EVIL SPIRITS",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/GDUGS DKAR/BZLOG PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/WHITE PARASOL (SITAPATRA)/REPELLING EVIL SPIRITS",
+            "_id": "228696829894",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GDUGS DKAR_WHITE PARASOL (SITAPATRA)/BZLOG PA_REPELLING EVIL SPIRITS",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/GDUGS DKAR/BZLOG PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/WHITE PARASOL (SITAPATRA)/REPELLING EVIL SPIRITS",
             "subject_tibetan": "BZLOG PA",
             "subject_english": "REPELLING EVIL SPIRITS"
         },
         {
-            "_id": "162744951886",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/GDUGS DKAR_WHITE PARASOL (SITAPATRA)/GTOR MA_OFFERING CAKE (BALI)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/GDUGS DKAR/GTOR MA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/WHITE PARASOL (SITAPATRA)/OFFERING CAKE (BALI)",
+            "_id": "233295247524",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GDUGS DKAR_WHITE PARASOL (SITAPATRA)/GTOR MA_OFFERING CAKE (BALI)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/GDUGS DKAR/GTOR MA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/WHITE PARASOL (SITAPATRA)/OFFERING CAKE (BALI)",
             "subject_tibetan": "GTOR MA",
             "subject_english": "OFFERING CAKE (BALI)"
         }
@@ -46,15 +46,29 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P4797"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/gdugs dkar_white parasol (sitapatra)/bzlog pa_repelling evil spirits",
-            "timestamp": "2024-09-10T02:18:59.169130+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GDUGS DKAR_WHITE PARASOL (SITAPATRA)/BZLOG PA_REPELLING EVIL SPIRITS",
+            "timestamp": "2024-11-20 05:08:41.111152+00:00"
         },
         {
-            "path": "rgyud_secret teachings (tantra)/gdugs dkar_white parasol (sitapatra)/gtor ma_offering cake (bali)",
-            "timestamp": "2024-09-10T02:19:00.424800+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GDUGS DKAR_WHITE PARASOL (SITAPATRA)/GTOR MA_OFFERING CAKE (BALI)",
+            "timestamp": "2024-11-20 05:08:47.321123+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:08:41.111152+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T05:08:47.321123+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "text"
 }

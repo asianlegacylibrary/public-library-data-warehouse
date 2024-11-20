@@ -1,28 +1,28 @@
 {
     "name": "S12267E_MKHAN CHEN CHOS KYI RGYAL PO'I GSUNG 'BUM LAS SNYING PO DON GSUM GYI 'KHRID YIG BYAMS MGON PHO NYA_Messenger of the Protector, Loving One-- A Teaching on the Three Essential Practices from the Collected Works of that King of the Dharma, Kench+.TXT",
-    "path": "rgyud_secret teachings (tantra)/snying po don gsum_three essential practices/'grel pa_commentaries",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/snying po don gsum_three essential practices/'grel pa_commentaries/s12267e_mkhan chen chos kyi rgyal po'i gsung 'bum las snying po don gsum gyi 'khrid yig byams mgon pho nya_messenger of the protector, loving one-- a teaching on the three essential practices from the collected works of that king of the dharma, kench+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAQCQ",
-    "revision_id": "613f665fcd58e8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SNYING PO DON GSUM_THREE ESSENTIAL PRACTICES/'GREL PA_COMMENTARIES",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/snying po don gsum_three essential practices/'grel pa_commentaries/s12267e_mkhan chen chos kyi rgyal po'i gsung 'bum las snying po don gsum gyi 'khrid yig byams mgon pho nya_messenger of the protector, loving one-- a teaching on the three essential practices from the collected works of that king of the dharma, kench+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABVGw",
+    "revision_id": "625a487e17ef48d294473",
     "content_hash": "a3a3588e2ec1895e4cdbeea27c4e510059a92f73b1588d5aaf5211461e152a81",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:17:28.522770",
+    "server_modified": "2024-10-29 21:47:24",
+    "last_sync": "2024-11-19 20:56:51.498199",
     "size": 32912,
-    "meta_text": "en_MKHAN CHEN BLO BZANG BSTAN 'DZIN RGYAL MTSAN (1639-@)",
+    "meta_text": "(\"en_MKHAN CHEN BLO BZANG BSTAN 'DZIN RGYAL MTSAN (1639-@)\", 'rtf')",
     "cat_ref": "S12267E",
     "work_ref": "W.S12267E",
     "title_tib": "MKHAN CHEN CHOS KYI RGYAL PO'I GSUNG 'BUM LAS SNYING PO DON GSUM GYI 'KHRID YIG BYAMS MGON PHO NYA",
-    "title_eng": "Messenger of the Protector, Loving One-- A Teaching on the Three Essential Practices from the Collected Works of that King of the Dharma, Kenchen",
+    "title_eng": "Messenger of the Protector, Loving One-- A Teaching on the Three Essential Practices from the Collected Works of that King of the Dharma, Kench(\"en",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "MKHAN CHEN BLO BZANG BSTAN 'DZIN RGYAL MTSAN",
     "subject": [
         {
-            "_id": "173472557069",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SNYING PO DON GSUM_THREE ESSENTIAL PRACTICES/'GREL PA_COMMENTARIES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SNYING PO DON GSUM/'GREL PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/THREE ESSENTIAL PRACTICES/COMMENTARIES",
+            "_id": "331108718593",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SNYING PO DON GSUM_THREE ESSENTIAL PRACTICES/'GREL PA_COMMENTARIES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SNYING PO DON GSUM/'GREL PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/THREE ESSENTIAL PRACTICES/COMMENTARIES",
             "subject_tibetan": "'GREL PA",
             "subject_english": "COMMENTARIES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P6418"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/snying po don gsum_three essential practices/'grel pa_commentaries",
-            "timestamp": "2024-09-10T02:17:28.527680+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SNYING PO DON GSUM_THREE ESSENTIAL PRACTICES/'GREL PA_COMMENTARIES",
+            "timestamp": "2024-11-20 04:56:51.503192+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:56:51.503192+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

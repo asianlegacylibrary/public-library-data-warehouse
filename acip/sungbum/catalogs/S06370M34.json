@@ -1,12 +1,12 @@
 {
     "name": "S06370M34_'DUL BA'I LTUNG BA SOGS KYI MING SKOR DRI LAN_Response to a Question concerning the Literal Meanings of the Names (such as 'Downfall') used to Describe Various Failures in One's Practice of the Discipline_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "'dul ba_vowed morality (vinaya)/spyi_general presentations/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)",
-    "download_path": "/sungbum updated 4 26 23 bk/'dul ba_vowed morality (vinaya)/spyi_general presentations/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)/s06370m34_'dul ba'i ltung ba sogs kyi ming skor dri lan_response to a question concerning the literal meanings of the names (such as 'downfall') used to describe various failures in one's practice of the discipline_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAADMA",
-    "revision_id": "613f663ffc8238d294473",
+    "path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "download_path": "/sungbum updated 7 30 23 nl/dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)/s06370m34_'dul ba'i ltung ba sogs kyi ming skor dri lan_response to a question concerning the literal meanings of the names (such as 'downfall') used to describe various failures in one's practice of the discipline_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABSkQ",
+    "revision_id": "625a48147222d8d294473",
     "content_hash": "ec73007975e34339fd3dfe8150948063725299b0ab54566b19969a6fc9ccecc3",
-    "server_modified": "2024-03-18T21:53:40",
-    "last_sync": "2024-09-09T19:04:35.926223",
+    "server_modified": "2024-10-29 21:45:34",
+    "last_sync": "2024-11-19 20:53:31.054180",
     "size": 1345,
     "meta_text": null,
     "cat_ref": "S06370M34",
@@ -19,20 +19,20 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "261519637094",
-            "subject_path": "SUNGBUM_SUNGBUM/'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
-            "subject_path_tibetan": "SUNGBUM/'DUL BA/SPYI/DNGUL CHU DHARMA BHADRA",
-            "subject_path_english": "SUNGBUM/VOWED MORALITY (VINAYA)/GENERAL PRESENTATIONS/NGULCHU DHARMA BHADRA (1772-1851)",
-            "subject_tibetan": "DNGUL CHU DHARMA BHADRA",
-            "subject_english": "NGULCHU DHARMA BHADRA (1772-1851)"
-        },
-        {
-            "_id": "244831615226",
-            "subject_path": "SUNGBUM_SUNGBUM/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_tibetan": "SUNGBUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_english": "SUNGBUM/QUESTIONS AND ANSWERS",
+            "_id": "250883940513",
+            "subject_path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "GSUNG 'BUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "Sungbum/QUESTIONS AND ANSWERS",
             "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
             "subject_english": "QUESTIONS AND ANSWERS"
+        },
+        {
+            "_id": "238119207026",
+            "subject_path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "GSUNG 'BUM/'DUL BA/SPYI/DNGUL CHU DHARMA BHADRA",
+            "subject_path_english": "Sungbum/VOWED MORALITY (VINAYA)/GENERAL PRESENTATIONS/NGULCHU DHARMA BHADRA (1772-1851)",
+            "subject_tibetan": "DNGUL CHU DHARMA BHADRA",
+            "subject_english": "NGULCHU DHARMA BHADRA (1772-1851)"
         }
     ],
     "items": [],
@@ -46,15 +46,29 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "'dul ba_vowed morality (vinaya)/spyi_general presentations/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)",
-            "timestamp": "2024-09-10T02:04:35.985466+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "timestamp": "2024-11-20 04:54:07.133077+00:00"
         },
         {
-            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
-            "timestamp": "2024-09-10T02:21:49.584457+00:00"
+            "path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
+            "timestamp": "2024-11-20 05:13:38.740324+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:54:07.133077+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T05:13:38.740324+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "text"
 }

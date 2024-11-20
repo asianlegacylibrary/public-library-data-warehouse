@@ -1,12 +1,12 @@
 {
     "name": "S05977M45_'DOD GSOL SMON TSIG BLO RGYAL MA_'Lobsang, all the Victors,' being a Prayer and a Supplication for Reaching All Goals_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662).TXT",
-    "path": "nyams len_personal practice/gsol 'debs_prayers of supplication/pan chen blo bzang chos kyi rgyal mtsan_panchen lobsang chukyi gyeltsen (1565-1662)",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/gsol 'debs_prayers of supplication/pan chen blo bzang chos kyi rgyal mtsan_panchen lobsang chukyi gyeltsen (1565-1662)/s05977m45_'dod gsol smon tsig blo rgyal ma_'lobsang, all the victors,' being a prayer and a supplication for reaching all goals_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAABmA",
-    "revision_id": "613f663b87ce18d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/GSOL 'DEBS_PRAYERS OF SUPPLICATION/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/gsol 'debs_prayers of supplication/pan chen blo bzang chos kyi rgyal mtsan_panchen lobsang chukyi gyeltsen (1565-1662)/s05977m45_'dod gsol smon tsig blo rgyal ma_'lobsang, all the victors,' being a prayer and a supplication for reaching all goals_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABjMg",
+    "revision_id": "625a4aa2a752c8d294473",
     "content_hash": "6b8ea0bae24e8b26f189998b26b35a95d820dd9ca24e9818b3632c21e6244115",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:02:33.232821",
+    "server_modified": "2024-10-29 21:57:00",
+    "last_sync": "2024-11-19 21:20:41.164669",
     "size": 754,
     "meta_text": null,
     "cat_ref": "S05977M45",
@@ -19,11 +19,11 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "324691226983",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/GSOL 'DEBS_PRAYERS OF SUPPLICATION/PAN CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/GSOL 'DEBS/PAN CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/PRAYERS OF SUPPLICATION/PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
-            "subject_tibetan": "PAN CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
+            "_id": "214108173379",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/GSOL 'DEBS_PRAYERS OF SUPPLICATION/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/GSOL 'DEBS/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/PRAYERS OF SUPPLICATION/PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+            "subject_tibetan": "PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
             "subject_english": "PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)"
         }
     ],
@@ -38,15 +38,29 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/gsol 'debs_prayers of supplication/pan chen blo bzang chos kyi rgyal mtsan_panchen lobsang chukyi gyeltsen (1565-1662)",
-            "timestamp": "2024-09-10T02:02:33.252039+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/GSOL 'DEBS_PRAYERS OF SUPPLICATION/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+            "timestamp": "2024-11-20 05:20:45.657848+00:00"
         },
         {
-            "path": "nyams len_personal practice/gsol 'debs_prayers of supplication/pan chen blo bzang chos kyi rgyal mtsan_panchen lobsang chukyi gyeltsen (1565-1662)",
-            "timestamp": "2024-09-10T02:02:58.060893+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/GSOL 'DEBS_PRAYERS OF SUPPLICATION/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+            "timestamp": "2024-11-20 05:21:15.474927+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:20:45.657848+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T05:21:15.474927+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "text"
 }

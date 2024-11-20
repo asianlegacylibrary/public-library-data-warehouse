@@ -1,14 +1,14 @@
 {
     "name": "S12324E_CHOS SDE CHEN PO DGE 'PHEL DGA' LDAN CHOS MDZOD GLING GI SMON LAM CHEN MO'I BCA' YIG RAB GSAL NOR BU'I ME LONG_The Crystal Mirror of Clarity--A Constitution for the Great Prayer Festival at the Great Monastery of Gepel Ganden Chundzu Ling_LC+.TXT",
-    "path": "bca' yig_official documents/dge 'phel gling_gepel ling monastery",
-    "download_path": "/sungbum updated 4 26 23 bk/bca' yig_official documents/dge 'phel gling_gepel ling monastery/s12324e_chos sde chen po dge 'phel dga' ldan chos mdzod gling gi smon lam chen mo'i bca' yig rab gsal nor bu'i me long_the crystal mirror of clarity--a constitution for the great prayer festival at the great monastery of gepel ganden chundzu ling_lc+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAE0A",
-    "revision_id": "613f6644849f48d294473",
+    "path": "BCA' YIG_OFFICIAL DOCUMENTS/DGE 'PHEL GLING_GEPEL LING MONASTERY",
+    "download_path": "/sungbum updated 7 30 23 nl/bca' yig_official documents/dge 'phel gling_gepel ling monastery/s12324e_chos sde chen po dge 'phel dga' ldan chos mdzod gling gi smon lam chen mo'i bca' yig rab gsal nor bu'i me long_the crystal mirror of clarity--a constitution for the great prayer festival at the great monastery of gepel ganden chundzu ling_lc+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABlCQ",
+    "revision_id": "625a4ae01a0428d294473",
     "content_hash": "4be2379b40df45963f5ee27e1dd6141274029a57e387a2b17c3e115889fa470b",
-    "server_modified": "2024-03-18T21:53:45",
-    "last_sync": "2024-09-09T19:06:01.364424",
+    "server_modified": "2024-10-29 21:58:04",
+    "last_sync": "2024-11-19 21:24:22.171949",
     "size": 39456,
-    "meta_text": "ANG LUNG AARYA PAndI TA NGAG DBANG BLO BZANG BSTAN PA'I RGYAL MTSAN (1770-1845)",
+    "meta_text": "(\"ANG LUNG AARYA PAndI TA NGAG DBANG BLO BZANG BSTAN PA'I RGYAL MTSAN (1770-1845)\", 'rtf')",
     "cat_ref": "S12324E",
     "work_ref": "W.S12324E",
     "title_tib": "CHOS SDE CHEN PO DGE 'PHEL DGA' LDAN CHOS MDZOD GLING GI SMON LAM CHEN MO'I BCA' YIG RAB GSAL NOR BU'I ME LONG",
@@ -19,10 +19,10 @@
     "author_simple": "LCANG LUNG AARYA PAnDI TA NGAG DBANG BLO BZANG BSTAN PA'I RGYAL MTSAN",
     "subject": [
         {
-            "_id": "245403897639",
-            "subject_path": "SUNGBUM_SUNGBUM/BCA' YIG_OFFICIAL DOCUMENTS/DGE 'PHEL GLING_GEPEL LING MONASTERY",
-            "subject_path_tibetan": "SUNGBUM/BCA' YIG/DGE 'PHEL GLING",
-            "subject_path_english": "SUNGBUM/OFFICIAL DOCUMENTS/GEPEL LING MONASTERY",
+            "_id": "101552876928",
+            "subject_path": "GSUNG 'BUM_Sungbum/BCA' YIG_OFFICIAL DOCUMENTS/DGE 'PHEL GLING_GEPEL LING MONASTERY",
+            "subject_path_tibetan": "GSUNG 'BUM/BCA' YIG/DGE 'PHEL GLING",
+            "subject_path_english": "Sungbum/OFFICIAL DOCUMENTS/GEPEL LING MONASTERY",
             "subject_tibetan": "DGE 'PHEL GLING",
             "subject_english": "GEPEL LING MONASTERY"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P290"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "bca' yig_official documents/dge 'phel gling_gepel ling monastery",
-            "timestamp": "2024-09-10T02:06:01.373353+00:00"
+            "path": "GSUNG 'BUM_Sungbum/BCA' YIG_OFFICIAL DOCUMENTS/DGE 'PHEL GLING_GEPEL LING MONASTERY",
+            "timestamp": "2024-11-20 05:24:22.179048+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:24:22.179048+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

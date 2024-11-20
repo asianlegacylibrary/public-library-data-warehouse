@@ -1,45 +1,53 @@
 {
     "name": "TD01203_DPAL YE SHES THIG LE'I DKA' 'GREL GSANG BA'I DE KHO NA NYID CES BYA BA (Śrī Jñāna Tilaka Pañjikā Guhya Tattva (Nāma)).txt",
-    "path": "TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/01 KYE RDO RJE_Lo Diamond (Hevajra)/01 YAB SKOR_Father Texts (Pitṛ)/VOL 7 (JA)",
+    "path": "02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/01 KYE RDO RJE_Lo Diamond (Hevajra)/01 YAB SKOR_Father Texts (Pitṛ)/VOL 7 (JA)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/01 rnal 'byor bla med_unsurpassed practice (anuttara yoga)/01 kye rdo rje_lo diamond (hevajra)/01 yab skor_father texts (pitṛ)/vol 7 (ja)/td01203_dpal ye shes thig le'i dka' 'grel gsang ba'i de kho na nyid ces bya ba (śrī jñāna tilaka pañjikā guhya tattva (nāma)).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB9IA",
     "revision_id": "62633cd1f68248d294473",
     "content_hash": "2adee2e381cf3f4cb75e6753e67f112ee986d620a7d7b4e9a3d052c10e1d76fb",
     "server_modified": "2024-11-06 00:43:06",
-    "last_sync": "2024-11-13 01:59:21.914836+00:00",
+    "last_sync": "2024-11-20 04:00:23.995403",
     "size": 240559,
+    "meta_text": null,
     "cat_ref": "TD01203",
     "work_ref": "W.TD01203",
-    "title_tib": "DPAL YE SHES THIG LE'I DKA' 'GREL GSANG BA'I DE KHO NA NYID CES BYA BA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "524887362273",
-            "subject_path": "TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/01 KYE RDO RJE_Lo Diamond (Hevajra)/01 YAB SKOR_Father Texts (Pitṛ)/VOL 7 (JA)",
-            "subject_path_tibetan": "TENGYUR/RGYUD/RNAL 'BYOR BLA MED/KYE RDO RJE/YAB SKOR/7 (JA)",
-            "subject_path_english": "TENGYUR/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Lo Diamond (Hevajra)/Father Texts (Pitṛ)/VOL 7 (JA)",
-            "subject_tibetan": "7 (JA)",
-            "subject_english": "VOL 7 (JA)"
+            "_id": "256210633824",
+            "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/01 KYE RDO RJE_Lo Diamond (Hevajra)/01 YAB SKOR_Father Texts (Pitṛ)/VOL 7 (JA)",
+            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/01 RNAL 'BYOR BLA MED/01 KYE RDO RJE/01 YAB SKOR/VOL 7 (JA)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Lo Diamond (Hevajra)/Father Texts (Pitṛ)",
+            "subject_tibetan": "VOL 7 (JA)",
+            "subject_english": "Father Texts (Pitṛ)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Śrī Jñāna Tilaka Pañjikā Guhya Tattva (Nāma)",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/01 KYE RDO RJE_Lo Diamond (Hevajra)/01 YAB SKOR_Father Texts (Pitṛ)/VOL 7 (JA)",
+            "timestamp": "2024-11-20 12:00:24.000246+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:59:21.918268+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T12:00:24.000246+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/01 KYE RDO RJE_Lo Diamond (Hevajra)/01 YAB SKOR_Father Texts (Pitṛ)/VOL 7 (JA)",
-            "timestamp": "2024-11-13 01:59:21.918268+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

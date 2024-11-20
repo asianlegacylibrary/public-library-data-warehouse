@@ -1,28 +1,28 @@
 {
     "name": "S05921E_BCOM LDAN 'DAS KUN RIG GI CHO GA RGYUD DON GSAL BA'I SNYING PO BSDUS PA YID BZHIN GYI NOR BU_The 'Wish-Giving Jewel, the Abbreviated Essence which Elucidates the Meaning of the Secret Books,' being a Ritual for the Practice of the Conqueror, +.TXT",
-    "path": "rgyud_secret teachings (tantra)/kun rig_the all-knowing (sarvavid)/sgrub thabs_ritual for reaching the angel (sadhana)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/kun rig_the all-knowing (sarvavid)/sgrub thabs_ritual for reaching the angel (sadhana)/s05921e_bcom ldan 'das kun rig gi cho ga rgyud don gsal ba'i snying po bsdus pa yid bzhin gyi nor bu_the 'wish-giving jewel, the abbreviated essence which elucidates the meaning of the secret books,' being a ritual for the practice of the conqueror, +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAJqA",
-    "revision_id": "613f664dc43c48d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/KUN RIG_THE ALL-KNOWING (SARVAVID)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/kun rig_the all-knowing (sarvavid)/sgrub thabs_ritual for reaching the angel (sadhana)/s05921e_bcom ldan 'das kun rig gi cho ga rgyud don gsal ba'i snying po bsdus pa yid bzhin gyi nor bu_the 'wish-giving jewel, the abbreviated essence which elucidates the meaning of the secret books,' being a ritual for the practice of the conqueror, +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABa5Q",
+    "revision_id": "625a493e7cf928d294473",
     "content_hash": "652df3127d252ea83375ec1fe2c1b5b7a6ca7b1183581fe1602012b20400a3f1",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:10:42.820304",
+    "server_modified": "2024-10-29 21:50:46",
+    "last_sync": "2024-11-19 21:06:22.566937",
     "size": 97207,
-    "meta_text": "the All-Knowing One (Sarvavid)_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)",
+    "meta_text": "('the All-Knowing One (Sarvavid)_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)', 'rtf')",
     "cat_ref": "S05921E",
     "work_ref": "W.S05921E",
     "title_tib": "BCOM LDAN 'DAS KUN RIG GI CHO GA RGYUD DON GSAL BA'I SNYING PO BSDUS PA YID BZHIN GYI NOR BU",
-    "title_eng": "The 'Wish-Giving Jewel, the Abbreviated Essence which Elucidates the Meaning of the Secret Books,' being a Ritual for the Practice of the Conqueror,the All-Knowing One (Sarvavid)",
+    "title_eng": "The 'Wish-Giving Jewel, the Abbreviated Essence which Elucidates the Meaning of the Secret Books,' being a Ritual for the Practice of the Conqueror,('the All-Knowing One (Sarvavid)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "320049523649",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/KUN RIG_THE ALL-KNOWING (SARVAVID)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/KUN RIG/SGRUB THABS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/THE ALL-KNOWING (SARVAVID)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "_id": "203152533548",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/KUN RIG_THE ALL-KNOWING (SARVAVID)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/KUN RIG/SGRUB THABS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/THE ALL-KNOWING (SARVAVID)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
             "subject_tibetan": "SGRUB THABS",
             "subject_english": "RITUAL FOR REACHING THE ANGEL (SADHANA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/kun rig_the all-knowing (sarvavid)/sgrub thabs_ritual for reaching the angel (sadhana)",
-            "timestamp": "2024-09-10T02:10:42.824360+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/KUN RIG_THE ALL-KNOWING (SARVAVID)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "timestamp": "2024-11-20 05:06:22.577749+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:06:22.577749+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

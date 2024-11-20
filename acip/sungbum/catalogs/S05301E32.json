@@ -1,12 +1,12 @@
 {
     "name": "S05301E32_MA RGYUD KYI RDZOGS RIM DPYID THIG_The 'Drop of Spring,' on the Stage of Completion in the Secret Teachings of the Mother_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419).TXT",
-    "path": "rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/rdzogs rim_completion stage (sampanna krama)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/rdzogs rim_completion stage (sampanna krama)/s05301e32_ma rgyud kyi rdzogs rim dpyid thig_the 'drop of spring,' on the stage of completion in the secret teachings of the mother_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAQ3A",
-    "revision_id": "613f665fcd6618d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/RDZOGS RIM_COMPLETION STAGE (SAMPANNA KRAMA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/rdzogs rim_completion stage (sampanna krama)/s05301e32_ma rgyud kyi rdzogs rim dpyid thig_the 'drop of spring,' on the stage of completion in the secret teachings of the mother_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABbVg",
+    "revision_id": "625a494b13caf8d294473",
     "content_hash": "6f99f3ef6e5254b4629f82e4692dabdee1afb093ca58ddc162236e44c5af8940",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:18:28.920790",
+    "server_modified": "2024-10-29 21:50:59",
+    "last_sync": "2024-11-19 21:07:06.762431",
     "size": 53566,
     "meta_text": null,
     "cat_ref": "S05301E32",
@@ -19,10 +19,10 @@
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "147042180578",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/RDZOGS RIM_COMPLETION STAGE (SAMPANNA KRAMA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/GSANG 'DUS/RDZOGS RIM",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/SECRET COLLECTION (GUHYASAMAJA)/COMPLETION STAGE (SAMPANNA KRAMA)",
+            "_id": "319166415055",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/RDZOGS RIM_COMPLETION STAGE (SAMPANNA KRAMA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/GSANG 'DUS/RDZOGS RIM",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/SECRET COLLECTION (GUHYASAMAJA)/COMPLETION STAGE (SAMPANNA KRAMA)",
             "subject_tibetan": "RDZOGS RIM",
             "subject_english": "COMPLETION STAGE (SAMPANNA KRAMA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/rdzogs rim_completion stage (sampanna krama)",
-            "timestamp": "2024-09-10T02:18:28.946316+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/RDZOGS RIM_COMPLETION STAGE (SAMPANNA KRAMA)",
+            "timestamp": "2024-11-20 05:07:08.660914+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:07:08.660914+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

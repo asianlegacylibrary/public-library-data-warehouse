@@ -1,12 +1,12 @@
 {
     "name": "S06380E15_GUR MGON GYI MNGA' GSOL_Ritual for the Installment of the Protector of the Tent_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/gur mgon_protector of the tent (panjaranatha)/mnga' gsol_rite of enthronement",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/gur mgon_protector of the tent (panjaranatha)/mnga' gsol_rite of enthronement/s06380e15_gur mgon gyi mnga' gsol_ritual for the installment of the protector of the tent_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAIcA",
-    "revision_id": "613f664dc428c8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/GUR MGON_PROTECTOR OF THE TENT (PANJARANATHA)/MNGA' GSOL_RITE OF ENTHRONEMENT",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/gur mgon_protector of the tent (panjaranatha)/mnga' gsol_rite of enthronement/s06380e15_gur mgon gyi mnga' gsol_ritual for the installment of the protector of the tent_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABYnw",
+    "revision_id": "625a48e36df018d294473",
     "content_hash": "0adc99a3e8a0ef26ff425620a6cf83042df0042d6c8cb5662bb6024883d08787",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:09:22.891056",
+    "server_modified": "2024-10-29 21:49:11",
+    "last_sync": "2024-11-19 21:02:45.707610",
     "size": 1138,
     "meta_text": null,
     "cat_ref": "S06380E15",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "180229165959",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/GUR MGON_PROTECTOR OF THE TENT (PANJARANATHA)/MNGA' GSOL_RITE OF ENTHRONEMENT",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/GUR MGON/MNGA' GSOL",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/PROTECTOR OF THE TENT (PANJARANATHA)/RITE OF ENTHRONEMENT",
+            "_id": "249660820268",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GUR MGON_PROTECTOR OF THE TENT (PANJARANATHA)/MNGA' GSOL_RITE OF ENTHRONEMENT",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/GUR MGON/MNGA' GSOL",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/PROTECTOR OF THE TENT (PANJARANATHA)/RITE OF ENTHRONEMENT",
             "subject_tibetan": "MNGA' GSOL",
             "subject_english": "RITE OF ENTHRONEMENT"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/gur mgon_protector of the tent (panjaranatha)/mnga' gsol_rite of enthronement",
-            "timestamp": "2024-09-10T02:09:22.910242+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GUR MGON_PROTECTOR OF THE TENT (PANJARANATHA)/MNGA' GSOL_RITE OF ENTHRONEMENT",
+            "timestamp": "2024-11-20 05:02:45.711666+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:02:45.711666+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

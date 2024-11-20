@@ -1,14 +1,14 @@
 {
     "name": "S05313E_RJE'I ZHAL GYI GDAMS PA RIM GNYIS SGOM TSUL STHA BI RA S'A DHU BHA DRAS ZIN BRIS SU BKOD PA_The 'Method for Practicing the Two Stages,' Advices Imparted by Je Tsongkapa and Taken Down by the Stavira Sadhu Bhadra_RJE TZONG KHA PA BLO BZANG GR+.TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/rim gnyis_two stages",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/rim gnyis_two stages/s05313e_rje'i zhal gyi gdams pa rim gnyis sgom tsul stha bi ra s'a dhu bha dras zin bris su bkod pa_the 'method for practicing the two stages,' advices imparted by je tsongkapa and taken down by the stavira sadhu bhadra_rje tzong kha pa blo bzang gr+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAANzQ",
-    "revision_id": "613f665b60fe68d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/RIM GNYIS_TWO STAGES",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyi_general treatments/rim gnyis_two stages/s05313e_rje'i zhal gyi gdams pa rim gnyis sgom tsul stha bi ra s'a dhu bha dras zin bris su bkod pa_the 'method for practicing the two stages,' advices imparted by je tsongkapa and taken down by the stavira sadhu bhadra_rje tzong kha pa blo bzang gr+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABagg",
+    "revision_id": "625a492e12a4f8d294473",
     "content_hash": "5d2454eb6b9287b04b7efea88fb5642b9b188ac2039471bf6f1152a784ea8154",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:15:10.408670",
+    "server_modified": "2024-10-29 21:50:29",
+    "last_sync": "2024-11-19 21:05:36.186720",
     "size": 35701,
-    "meta_text": "AGS PA (1357-1419)",
+    "meta_text": "('AGS PA (1357-1419)', 'rtf')",
     "cat_ref": "S05313E",
     "work_ref": "W.S05313E",
     "title_tib": "RJE'I ZHAL GYI GDAMS PA RIM GNYIS SGOM TSUL STHA BI RA S'A DHU BHA DRAS ZIN BRIS SU BKOD PA",
@@ -19,10 +19,10 @@
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "284539238199",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/RIM GNYIS_TWO STAGES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/RIM GNYIS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/TWO STAGES",
+            "_id": "152245062991",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/RIM GNYIS_TWO STAGES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/RIM GNYIS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/TWO STAGES",
             "subject_tibetan": "RIM GNYIS",
             "subject_english": "TWO STAGES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/rim gnyis_two stages",
-            "timestamp": "2024-09-10T02:15:10.412658+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/RIM GNYIS_TWO STAGES",
+            "timestamp": "2024-11-20 05:05:36.191761+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:05:36.191761+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

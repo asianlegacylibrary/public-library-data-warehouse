@@ -1,45 +1,53 @@
 {
     "name": "TD03574_RIGS BYED MA'I MAN NGAG GI RIM PA (Kurukullyupadeśa Krama).txt",
-    "path": "TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
+    "path": "02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/vol 76 (mu)/td03574_rigs byed ma'i man ngag gi rim pa (kurukullyupadeśa krama).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACALQ",
     "revision_id": "62633d55754f78d294473",
     "content_hash": "b6cbf1440321812af152476dc6886f91a6a492cc02431fa9ff672b1fbfe90408",
     "server_modified": "2024-11-06 00:45:24",
-    "last_sync": "2024-11-13 01:59:40.241636+00:00",
+    "last_sync": "2024-11-20 04:00:45.155963",
     "size": 2335,
+    "meta_text": null,
     "cat_ref": "TD03574",
     "work_ref": "W.TD03574",
-    "title_tib": "RIGS BYED MA'I MAN NGAG GI RIM PA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "151684361557",
-            "subject_path": "TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
-            "subject_path_tibetan": "TENGYUR/RGYUD/76 (MU)",
-            "subject_path_english": "TENGYUR/Diamond Way (Vajrayāna)/VOL 76 (MU)",
-            "subject_tibetan": "76 (MU)",
-            "subject_english": "VOL 76 (MU)"
+            "_id": "121782366104",
+            "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
+            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/VOL 76 (MU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)",
+            "subject_tibetan": "VOL 76 (MU)",
+            "subject_english": "Diamond Way (Vajrayāna)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Kurukullyupadeśa Krama",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
+            "timestamp": "2024-11-20 12:00:45.256077+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:59:40.258539+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T12:00:45.256077+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
-            "timestamp": "2024-11-13 01:59:40.258539+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

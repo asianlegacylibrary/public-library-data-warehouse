@@ -1,12 +1,12 @@
 {
     "name": "S19159_RJE BTZUN CHEN PO RED MDA' BA'I GSUNG 'BUM THOR BU BA  LAS TSIGS BCAD KYI TSOGS 'GA'.txt",
-    "path": "snyan ngag_classical poetry/red mda' ba gzhon nu blo gros_rendawa shunnu lodru (1349-1412)",
-    "download_path": "/sungbum updated 4 26 23 bk/snyan ngag_classical poetry/red mda' ba gzhon nu blo gros_rendawa shunnu lodru (1349-1412)/s19159_rje btzun chen po red mda' ba'i gsung 'bum thor bu ba  las tsigs bcad kyi tsogs 'ga'.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAADrA",
-    "revision_id": "613f663ffc89f8d294473",
+    "path": "SNYAN NGAG_CLASSICAL POETRY/RED MDA' BA GZHON NU BLO GROS_RENDAWA SHUNNU LODRU (1349-1412)",
+    "download_path": "/sungbum updated 7 30 23 nl/snyan ngag_classical poetry/red mda' ba gzhon nu blo gros_rendawa shunnu lodru (1349-1412)/s19159_rje btzun chen po red mda' ba'i gsung 'bum thor bu ba  las tsigs bcad kyi tsogs 'ga'.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABOSQ",
+    "revision_id": "625a476b20e768d294473",
     "content_hash": "d09e6754be62ec72af0a44bbba2bcb5e8dd19868c98433c3c53b20486f6f84d4",
-    "server_modified": "2024-03-18T21:53:40",
-    "last_sync": "2024-09-09T19:04:58.581218",
+    "server_modified": "2024-10-29 21:42:36",
+    "last_sync": "2024-11-19 20:45:52.817352",
     "size": 19676,
     "meta_text": null,
     "cat_ref": "S19159",
@@ -19,10 +19,10 @@
     "author_simple": "",
     "subject": [
         {
-            "_id": "160156755141",
-            "subject_path": "SUNGBUM_SUNGBUM/SNYAN NGAG_CLASSICAL POETRY/RED MDA' BA GZHON NU BLO GROS_RENDAWA SHUNNU LODRU (1349-1412)",
-            "subject_path_tibetan": "SUNGBUM/SNYAN NGAG/RED MDA' BA GZHON NU BLO GROS",
-            "subject_path_english": "SUNGBUM/CLASSICAL POETRY/RENDAWA SHUNNU LODRU (1349-1412)",
+            "_id": "298393323002",
+            "subject_path": "GSUNG 'BUM_Sungbum/SNYAN NGAG_CLASSICAL POETRY/RED MDA' BA GZHON NU BLO GROS_RENDAWA SHUNNU LODRU (1349-1412)",
+            "subject_path_tibetan": "GSUNG 'BUM/SNYAN NGAG/RED MDA' BA GZHON NU BLO GROS",
+            "subject_path_english": "Sungbum/CLASSICAL POETRY/RENDAWA SHUNNU LODRU (1349-1412)",
             "subject_tibetan": "RED MDA' BA GZHON NU BLO GROS",
             "subject_english": "RENDAWA SHUNNU LODRU (1349-1412)"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "snyan ngag_classical poetry/red mda' ba gzhon nu blo gros_rendawa shunnu lodru (1349-1412)",
-            "timestamp": "2024-09-10T02:04:58.586475+00:00"
+            "path": "GSUNG 'BUM_Sungbum/SNYAN NGAG_CLASSICAL POETRY/RED MDA' BA GZHON NU BLO GROS_RENDAWA SHUNNU LODRU (1349-1412)",
+            "timestamp": "2024-11-20 04:45:52.822049+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:45:52.822049+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

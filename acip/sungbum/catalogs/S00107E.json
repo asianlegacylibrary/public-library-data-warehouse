@@ -1,12 +1,12 @@
 {
     "name": "S00107E_RDO RJE MKHA' 'GRO'I SBYIN SREG_Fire Offering in the Practice of the Angel of Diamond (Vajrayogini)_LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN (1642-1714).TXT",
-    "path": "rgyud_secret teachings (tantra)/rdo rje rnal 'byor ma_angel of diamond (vajrayogini)/sbyin sreg_fire offering (homa)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/rdo rje rnal 'byor ma_angel of diamond (vajrayogini)/sbyin sreg_fire offering (homa)/s00107e_rdo rje mkha' 'gro'i sbyin sreg_fire offering in the practice of the angel of diamond (vajrayogini)_lcang skya ngag dbang blo bzang chos ldan (1642-1714).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAJcA",
-    "revision_id": "613f664dc438c8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAL 'BYOR MA_ANGEL OF DIAMOND (VAJRAYOGINI)/SBYIN SREG_FIRE OFFERING (HOMA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/rdo rje rnal 'byor ma_angel of diamond (vajrayogini)/sbyin sreg_fire offering (homa)/s00107e_rdo rje mkha' 'gro'i sbyin sreg_fire offering in the practice of the angel of diamond (vajrayogini)_lcang skya ngag dbang blo bzang chos ldan (1642-1714).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABcCA",
+    "revision_id": "625a49682f0e98d294473",
     "content_hash": "28d7e329be9c8985598327290db056ba34ac693b727180e72f048c8e733d4e27",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:10:30.291599",
+    "server_modified": "2024-10-29 21:51:30",
+    "last_sync": "2024-11-19 21:08:10.210304",
     "size": 3862,
     "meta_text": null,
     "cat_ref": "S00107E",
@@ -19,10 +19,10 @@
     "author_simple": "LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN",
     "subject": [
         {
-            "_id": "312188174195",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAL 'BYOR MA_ANGEL OF DIAMOND (VAJRAYOGINI)/SBYIN SREG_FIRE OFFERING (HOMA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/RDO RJE RNAL 'BYOR MA/SBYIN SREG",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/ANGEL OF DIAMOND (VAJRAYOGINI)/FIRE OFFERING (HOMA)",
+            "_id": "521444897705",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAL 'BYOR MA_ANGEL OF DIAMOND (VAJRAYOGINI)/SBYIN SREG_FIRE OFFERING (HOMA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/RDO RJE RNAL 'BYOR MA/SBYIN SREG",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/ANGEL OF DIAMOND (VAJRAYOGINI)/FIRE OFFERING (HOMA)",
             "subject_tibetan": "SBYIN SREG",
             "subject_english": "FIRE OFFERING (HOMA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P209"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/rdo rje rnal 'byor ma_angel of diamond (vajrayogini)/sbyin sreg_fire offering (homa)",
-            "timestamp": "2024-09-10T02:10:30.300219+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAL 'BYOR MA_ANGEL OF DIAMOND (VAJRAYOGINI)/SBYIN SREG_FIRE OFFERING (HOMA)",
+            "timestamp": "2024-11-20 05:08:14.285525+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:08:14.285525+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

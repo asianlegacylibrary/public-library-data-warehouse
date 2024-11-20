@@ -1,45 +1,53 @@
 {
     "name": "TD04005_BYANG CHUB KYI LTUNG BA BSHAGS PA'I 'GREL PA (Bodhyāpatti Deśanā Vṛtti).txt",
-    "path": "TENGYUR_TENGYUR/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 4 (JI)",
+    "path": "05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 4 (JI)",
     "download_path": "/tengyur updated 10 31 24 ws/05 mdo 'grel_commentaries to sutras (sūtra vṛtti)/vol 4 (ji)/td04005_byang chub kyi ltung ba bshags pa'i 'grel pa (bodhyāpatti deśanā vṛtti).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB1nw",
     "revision_id": "62633b32f505b8d294473",
     "content_hash": "1c41f9f5ad5c8bc2fd598dda75949f4e2ea131cbc18313bc25a76ca56c19c4b9",
     "server_modified": "2024-11-06 00:35:51",
-    "last_sync": "2024-11-13 01:57:17.566630+00:00",
+    "last_sync": "2024-11-20 03:58:06.712378",
     "size": 37049,
+    "meta_text": null,
     "cat_ref": "TD04005",
     "work_ref": "W.TD04005",
-    "title_tib": "BYANG CHUB KYI LTUNG BA BSHAGS PA'I 'GREL PA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "200687246822",
-            "subject_path": "TENGYUR_TENGYUR/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 4 (JI)",
-            "subject_path_tibetan": "TENGYUR/MDO 'GREL/4 (JI)",
-            "subject_path_english": "TENGYUR/Commentaries to Sutras (Sūtra Vṛtti)/VOL 4 (JI)",
-            "subject_tibetan": "4 (JI)",
-            "subject_english": "VOL 4 (JI)"
+            "_id": "164592281565",
+            "subject_path": "BSTAN 'GYUR_Tengyur/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 4 (JI)",
+            "subject_path_tibetan": "BSTAN 'GYUR/05 MDO 'GREL/VOL 4 (JI)",
+            "subject_path_english": "Tengyur/Commentaries to Sutras (Sūtra Vṛtti)",
+            "subject_tibetan": "VOL 4 (JI)",
+            "subject_english": "Commentaries to Sutras (Sūtra Vṛtti)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Bodhyāpatti Deśanā Vṛtti",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 4 (JI)",
+            "timestamp": "2024-11-20 11:58:06.729693+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:57:17.570967+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T11:58:06.729693+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 4 (JI)",
-            "timestamp": "2024-11-13 01:57:17.570967+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

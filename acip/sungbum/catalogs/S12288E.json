@@ -1,14 +1,14 @@
 {
     "name": "S12288E_DGA' LDAN THEG CHEN BSHAD SGRUB GLING GI BCA' YIG CHEN MO'I ZUR 'DEBS DRAN GSO'I BRJED BYANG_A List of Items to Remember--An Addendum to the Great Constitution of the Monastery of Ganden Tekchen Shedrup Ling_LCANG LUNG AARYA PAndI TA NGAG DB+.TXT",
-    "path": "bca' yig_official documents/dga' ldan_ganden monastery",
-    "download_path": "/sungbum updated 4 26 23 bk/bca' yig_official documents/dga' ldan_ganden monastery/s12288e_dga' ldan theg chen bshad sgrub gling gi bca' yig chen mo'i zur 'debs dran gso'i brjed byang_a list of items to remember--an addendum to the great constitution of the monastery of ganden tekchen shedrup ling_lcang lung aarya pandi ta ngag db+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAEvw",
-    "revision_id": "613f6644849e38d294473",
+    "path": "BCA' YIG_OFFICIAL DOCUMENTS/DGA' LDAN_GANDEN MONASTERY",
+    "download_path": "/sungbum updated 7 30 23 nl/bca' yig_official documents/dga' ldan_ganden monastery/s12288e_dga' ldan theg chen bshad sgrub gling gi bca' yig chen mo'i zur 'debs dran gso'i brjed byang_a list of items to remember--an addendum to the great constitution of the monastery of ganden tekchen shedrup ling_lcang lung aarya pandi ta ngag db+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABk8w",
+    "revision_id": "625a4adeebe708d294473",
     "content_hash": "7d656419a87f9c0525d219b9e247ae1351a60648f774df59ae479e6d3cc7aa7c",
-    "server_modified": "2024-03-18T21:53:45",
-    "last_sync": "2024-09-09T19:05:57.750883",
+    "server_modified": "2024-10-29 21:58:03",
+    "last_sync": "2024-11-19 21:24:18.168616",
     "size": 65626,
-    "meta_text": "ANG BLO BZANG BSTAN PA'I RGYAL MTSAN (1770-1845)",
+    "meta_text": "(\"ANG BLO BZANG BSTAN PA'I RGYAL MTSAN (1770-1845)\", 'rtf')",
     "cat_ref": "S12288E",
     "work_ref": "W.S12288E",
     "title_tib": "DGA' LDAN THEG CHEN BSHAD SGRUB GLING GI BCA' YIG CHEN MO'I ZUR 'DEBS DRAN GSO'I BRJED BYANG",
@@ -19,10 +19,10 @@
     "author_simple": "LCANG LUNG AARYA PAnDI TA NGAG DBANG BLO BZANG BSTAN PA'I RGYAL MTSAN",
     "subject": [
         {
-            "_id": "240136892049",
-            "subject_path": "SUNGBUM_SUNGBUM/BCA' YIG_OFFICIAL DOCUMENTS/DGA' LDAN_GANDEN MONASTERY",
-            "subject_path_tibetan": "SUNGBUM/BCA' YIG/DGA' LDAN",
-            "subject_path_english": "SUNGBUM/OFFICIAL DOCUMENTS/GANDEN MONASTERY",
+            "_id": "222733604952",
+            "subject_path": "GSUNG 'BUM_Sungbum/BCA' YIG_OFFICIAL DOCUMENTS/DGA' LDAN_GANDEN MONASTERY",
+            "subject_path_tibetan": "GSUNG 'BUM/BCA' YIG/DGA' LDAN",
+            "subject_path_english": "Sungbum/OFFICIAL DOCUMENTS/GANDEN MONASTERY",
             "subject_tibetan": "DGA' LDAN",
             "subject_english": "GANDEN MONASTERY"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P290"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "bca' yig_official documents/dga' ldan_ganden monastery",
-            "timestamp": "2024-09-10T02:05:57.780538+00:00"
+            "path": "GSUNG 'BUM_Sungbum/BCA' YIG_OFFICIAL DOCUMENTS/DGA' LDAN_GANDEN MONASTERY",
+            "timestamp": "2024-11-20 05:24:18.854518+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:24:18.854518+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

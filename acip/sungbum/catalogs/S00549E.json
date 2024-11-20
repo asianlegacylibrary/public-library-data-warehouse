@@ -1,12 +1,12 @@
 {
     "name": "S00549E_ZHI KHRO SBRAG SGRUB KYI ZIN BRIS_Notes to a Teaching on Reaching Gentle Voice (Manjushri), in His Combined Peaceful and Wrathful Forms_CHE SHOS RIN PO CHE BLO BZANG BYANG CHUB BSTAN PA'I SGRON ME (1861-1933@).TXT",
-    "path": "rgyud_secret teachings (tantra)/'jam dbyangs_gentle voice (manjughosha, manjushri)/sgrub thabs_ritual for reaching the angel (sadhana)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/'jam dbyangs_gentle voice (manjughosha, manjushri)/sgrub thabs_ritual for reaching the angel (sadhana)/s00549e_zhi khro sbrag sgrub kyi zin bris_notes to a teaching on reaching gentle voice (manjushri), in his combined peaceful and wrathful forms_che shos rin po che blo bzang byang chub bstan pa'i sgron me (1861-1933@).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAALeg",
-    "revision_id": "613f6652789928d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/'JAM DBYANGS_GENTLE VOICE (MANJUGHOSHA, MANJUSHRI)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/'jam dbyangs_gentle voice (manjughosha, manjushri)/sgrub thabs_ritual for reaching the angel (sadhana)/s00549e_zhi khro sbrag sgrub kyi zin bris_notes to a teaching on reaching gentle voice (manjushri), in his combined peaceful and wrathful forms_che shos rin po che blo bzang byang chub bstan pa'i sgron me (1861-1933@).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABYCQ",
+    "revision_id": "625a48d2212248d294473",
     "content_hash": "1c7d72d975d48c34fe3c6ed4d5bf8f5ad28a63a392ad5cf6ebafa3149a540d59",
-    "server_modified": "2024-03-18T21:54:00",
-    "last_sync": "2024-09-09T19:12:41.568667",
+    "server_modified": "2024-10-29 21:48:52",
+    "last_sync": "2024-11-19 21:01:45.653242",
     "size": 13969,
     "meta_text": null,
     "cat_ref": "S00549E",
@@ -19,10 +19,10 @@
     "author_simple": "CHE SHOS RIN PO CHE BLO BZANG BYANG CHUB BSTAN PA'I SGRON ME",
     "subject": [
         {
-            "_id": "260910413370",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/'JAM DBYANGS_GENTLE VOICE (MANJUGHOSHA, MANJUSHRI)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/'JAM DBYANGS/SGRUB THABS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENTLE VOICE (MANJUGHOSHA, MANJUSHRI)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "_id": "203129263717",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JAM DBYANGS_GENTLE VOICE (MANJUGHOSHA, MANJUSHRI)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/'JAM DBYANGS/SGRUB THABS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENTLE VOICE (MANJUGHOSHA, MANJUSHRI)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
             "subject_tibetan": "SGRUB THABS",
             "subject_english": "RITUAL FOR REACHING THE ANGEL (SADHANA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P238"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/'jam dbyangs_gentle voice (manjughosha, manjushri)/sgrub thabs_ritual for reaching the angel (sadhana)",
-            "timestamp": "2024-09-10T02:12:41.584396+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JAM DBYANGS_GENTLE VOICE (MANJUGHOSHA, MANJUSHRI)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "timestamp": "2024-11-20 05:01:53.849419+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:01:53.849419+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

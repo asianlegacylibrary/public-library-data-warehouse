@@ -1,12 +1,12 @@
 {
     "name": "S12072E_GDUGS DKAR MO CAN GYI GZUNGS MCHOG GRUB MA 'DON TSUL_How to Recite the Incantation of the White Parasol (Sitapatra) called 'Highest Attainment'_CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS (1740-1810).TXT",
-    "path": "rgyud_secret teachings (tantra)/gdugs dkar_white parasol (sitapatra)/sngags_secret words (mantra)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/gdugs dkar_white parasol (sitapatra)/sngags_secret words (mantra)/s12072e_gdugs dkar mo can gyi gzungs mchog grub ma 'don tsul_how to recite the incantation of the white parasol (sitapatra) called 'highest attainment'_cha har dge bshes blo bzang tsul khrims (1740-1810).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAARWQ",
-    "revision_id": "613f665fcd6de8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/GDUGS DKAR_WHITE PARASOL (SITAPATRA)/SNGAGS_SECRET WORDS (MANTRA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/gdugs dkar_white parasol (sitapatra)/sngags_secret words (mantra)/s12072e_gdugs dkar mo can gyi gzungs mchog grub ma 'don tsul_how to recite the incantation of the white parasol (sitapatra) called 'highest attainment'_cha har dge bshes blo bzang tsul khrims (1740-1810).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABcXA",
+    "revision_id": "625a4977d4a8d8d294473",
     "content_hash": "e05d3885192d742e7b110ca8298818c4e1a25911c75dd129d19afb513d733348",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:18:58.832421",
+    "server_modified": "2024-10-29 21:51:46",
+    "last_sync": "2024-11-19 21:08:49.060340",
     "size": 7853,
     "meta_text": null,
     "cat_ref": "S12072E",
@@ -19,10 +19,10 @@
     "author_simple": "CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS",
     "subject": [
         {
-            "_id": "597302278290",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/GDUGS DKAR_WHITE PARASOL (SITAPATRA)/SNGAGS_SECRET WORDS (MANTRA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/GDUGS DKAR/SNGAGS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/WHITE PARASOL (SITAPATRA)/SECRET WORDS (MANTRA)",
+            "_id": "139746802985",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GDUGS DKAR_WHITE PARASOL (SITAPATRA)/SNGAGS_SECRET WORDS (MANTRA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/GDUGS DKAR/SNGAGS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/WHITE PARASOL (SITAPATRA)/SECRET WORDS (MANTRA)",
             "subject_tibetan": "SNGAGS",
             "subject_english": "SECRET WORDS (MANTRA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P4797"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/gdugs dkar_white parasol (sitapatra)/sngags_secret words (mantra)",
-            "timestamp": "2024-09-10T02:18:58.836484+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GDUGS DKAR_WHITE PARASOL (SITAPATRA)/SNGAGS_SECRET WORDS (MANTRA)",
+            "timestamp": "2024-11-20 05:08:49.064182+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:08:49.064182+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

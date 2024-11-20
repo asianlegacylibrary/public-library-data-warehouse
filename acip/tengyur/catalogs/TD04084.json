@@ -1,45 +1,53 @@
 {
     "name": "TD04084_CHOS RNAM PAR NGES PA ZHES BYA BA'I RAB TU BYED PA (Dharma Viniścaya Nāma Prakaraṇa).txt",
-    "path": "TENGYUR_TENGYUR/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 16 (HI)",
+    "path": "06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 16 (HI)",
     "download_path": "/tengyur updated 10 31 24 ws/06 sems tzam_mind only school (cittamātra)/vol 16 (hi)/td04084_chos rnam par nges pa zhes bya ba'i rab tu byed pa (dharma viniścaya nāma prakaraṇa).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACDqg",
     "revision_id": "62633debc3ff08d294473",
     "content_hash": "bffa5368fcbce6665eaa08ec1f9a0e537536116755d90fb2d1d767766bdd0196",
     "server_modified": "2024-11-06 00:48:02",
-    "last_sync": "2024-11-13 02:00:04.379936+00:00",
+    "last_sync": "2024-11-20 04:01:08.988562",
     "size": 21078,
+    "meta_text": null,
     "cat_ref": "TD04084",
     "work_ref": "W.TD04084",
-    "title_tib": "CHOS RNAM PAR NGES PA ZHES BYA BA'I RAB TU BYED PA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "216714981128",
-            "subject_path": "TENGYUR_TENGYUR/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 16 (HI)",
-            "subject_path_tibetan": "TENGYUR/SEMS TZAM/16 (HI)",
-            "subject_path_english": "TENGYUR/Mind Only School (Cittamātra)/VOL 16 (HI)",
-            "subject_tibetan": "16 (HI)",
-            "subject_english": "VOL 16 (HI)"
+            "_id": "233087936475",
+            "subject_path": "BSTAN 'GYUR_Tengyur/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 16 (HI)",
+            "subject_path_tibetan": "BSTAN 'GYUR/06 SEMS TZAM/VOL 16 (HI)",
+            "subject_path_english": "Tengyur/Mind Only School (Cittamātra)",
+            "subject_tibetan": "VOL 16 (HI)",
+            "subject_english": "Mind Only School (Cittamātra)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Dharma Viniścaya Nāma Prakaraṇa",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 16 (HI)",
+            "timestamp": "2024-11-20 12:01:08.992312+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T02:00:04.384513+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T12:01:08.992312+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 16 (HI)",
-            "timestamp": "2024-11-13 02:00:04.384513+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

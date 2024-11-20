@@ -1,12 +1,12 @@
 {
     "name": "S06370MJ6_GNYEN BSHES LA CHAGS ZHEN GYI GNYEN PO BSTEN THABS_An Antidote that One can Apply for Preventing Improper Attachment to One's Spiritual Guide_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "nyams len_personal practice/spyi_general treatments/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/spyi_general treatments/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)/s06370mj6_gnyen bshes la chags zhen gyi gnyen po bsten thabs_an antidote that one can apply for preventing improper attachment to one's spiritual guide_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAAqw",
-    "revision_id": "613f663b87bf48d294473",
+    "path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "download_path": "/sungbum updated 7 30 23 nl/dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)/s06370mj6_gnyen bshes la chags zhen gyi gnyen po bsten thabs_an antidote that one can apply for preventing improper attachment to one's spiritual guide_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABSvQ",
+    "revision_id": "625a481c9e97c8d294473",
     "content_hash": "d95acfe9a9864c58fb9be6f07a5a9b4f7cd95ecc423198d805a1d00b99cb120b",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:01:41.693942",
+    "server_modified": "2024-10-29 21:45:42",
+    "last_sync": "2024-11-19 20:53:39.339461",
     "size": 2246,
     "meta_text": null,
     "cat_ref": "S06370MJ6",
@@ -19,20 +19,20 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "285143644227",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/SPYI_GENERAL TREATMENTS/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/SPYI/DNGUL CHU DHARMA BHADRA",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/GENERAL TREATMENTS/NGULCHU DHARMA BHADRA (1772-1851)",
-            "subject_tibetan": "DNGUL CHU DHARMA BHADRA",
-            "subject_english": "NGULCHU DHARMA BHADRA (1772-1851)"
-        },
-        {
-            "_id": "244831615226",
-            "subject_path": "SUNGBUM_SUNGBUM/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_tibetan": "SUNGBUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_english": "SUNGBUM/QUESTIONS AND ANSWERS",
+            "_id": "250883940513",
+            "subject_path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "GSUNG 'BUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "Sungbum/QUESTIONS AND ANSWERS",
             "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
             "subject_english": "QUESTIONS AND ANSWERS"
+        },
+        {
+            "_id": "903877602999",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SPYI_GENERAL TREATMENTS/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/SPYI/DNGUL CHU DHARMA BHADRA",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/GENERAL TREATMENTS/NGULCHU DHARMA BHADRA (1772-1851)",
+            "subject_tibetan": "DNGUL CHU DHARMA BHADRA",
+            "subject_english": "NGULCHU DHARMA BHADRA (1772-1851)"
         }
     ],
     "items": [],
@@ -46,15 +46,29 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/spyi_general treatments/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)",
-            "timestamp": "2024-09-10T02:01:41.719006+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "timestamp": "2024-11-20 04:54:07.134787+00:00"
         },
         {
-            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
-            "timestamp": "2024-09-10T02:21:49.625889+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SPYI_GENERAL TREATMENTS/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
+            "timestamp": "2024-11-20 05:22:46.420711+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:54:07.134787+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T05:22:46.420711+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,12 +1,12 @@
 {
     "name": "S13003.txt",
-    "path": "nyams len_personal practice/gsol 'debs_prayers of supplication",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/gsol 'debs_prayers of supplication/s13003.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAABpg",
-    "revision_id": "613f663b87cef8d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/GSOL 'DEBS_PRAYERS OF SUPPLICATION",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/gsol 'debs_prayers of supplication/s13003.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABjYw",
+    "revision_id": "625a4aab0f3098d294473",
     "content_hash": "4518ce44b5010ba15b3290cf8259cd7a8d67c557faf435029cbb17b0d85eb242",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:02:58.023452",
+    "server_modified": "2024-10-29 21:57:08",
+    "last_sync": "2024-11-19 21:21:14.685954",
     "size": 459711,
     "meta_text": null,
     "cat_ref": "S13003",
@@ -19,10 +19,10 @@
     "author_simple": "",
     "subject": [
         {
-            "_id": "287100934619",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/GSOL 'DEBS_PRAYERS OF SUPPLICATION",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/GSOL 'DEBS",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/PRAYERS OF SUPPLICATION",
+            "_id": "902561744466",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/GSOL 'DEBS_PRAYERS OF SUPPLICATION",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/GSOL 'DEBS",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/PRAYERS OF SUPPLICATION",
             "subject_tibetan": "GSOL 'DEBS",
             "subject_english": "PRAYERS OF SUPPLICATION"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/gsol 'debs_prayers of supplication",
-            "timestamp": "2024-09-10T02:02:58.063907+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/GSOL 'DEBS_PRAYERS OF SUPPLICATION",
+            "timestamp": "2024-11-20 05:21:15.478546+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:21:15.478546+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

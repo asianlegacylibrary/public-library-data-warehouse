@@ -1,12 +1,12 @@
 {
     "name": "S06370EJ1_YA MA R'A DZ'A'I SDE BRGYAD KYI SKOR GYI DRI LAN_Response to a Question concerning the Eight Groups of the Lord of Death (Yama Raja)_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/gshin po_lord of death (yamari)/rnal 'byor_practices",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/gshin po_lord of death (yamari)/rnal 'byor_practices/s06370ej1_ya ma r'a dz'a'i sde brgyad kyi skor gyi dri lan_response to a question concerning the eight groups of the lord of death (yama raja)_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAHrg",
-    "revision_id": "613f66492f2188d294473",
+    "path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "download_path": "/sungbum updated 7 30 23 nl/dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)/s06370ej1_ya ma r'a dz'a'i sde brgyad kyi skor gyi dri lan_response to a question concerning the eight groups of the lord of death (yama raja)_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABSsg",
+    "revision_id": "625a481b69e1b8d294473",
     "content_hash": "5bd187a32530ae5b689fb02996c738e06fb486483f76276d42e3ada6b7fa26eb",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:08:42.923930",
+    "server_modified": "2024-10-29 21:45:41",
+    "last_sync": "2024-11-19 20:53:37.292627",
     "size": 539,
     "meta_text": null,
     "cat_ref": "S06370EJ1",
@@ -19,20 +19,20 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "505374751281",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/GSHIN PO_LORD OF DEATH (YAMARI)/RNAL 'BYOR_PRACTICES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/GSHIN PO/RNAL 'BYOR",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/LORD OF DEATH (YAMARI)/PRACTICES",
-            "subject_tibetan": "RNAL 'BYOR",
-            "subject_english": "PRACTICES"
-        },
-        {
-            "_id": "244831615226",
-            "subject_path": "SUNGBUM_SUNGBUM/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_tibetan": "SUNGBUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_english": "SUNGBUM/QUESTIONS AND ANSWERS",
+            "_id": "250883940513",
+            "subject_path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "GSUNG 'BUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "Sungbum/QUESTIONS AND ANSWERS",
             "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
             "subject_english": "QUESTIONS AND ANSWERS"
+        },
+        {
+            "_id": "159663261332",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSHIN PO_LORD OF DEATH (YAMARI)/RNAL 'BYOR_PRACTICES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/GSHIN PO/RNAL 'BYOR",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/LORD OF DEATH (YAMARI)/PRACTICES",
+            "subject_tibetan": "RNAL 'BYOR",
+            "subject_english": "PRACTICES"
         }
     ],
     "items": [],
@@ -46,15 +46,29 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/gshin po_lord of death (yamari)/rnal 'byor_practices",
-            "timestamp": "2024-09-10T02:08:42.930160+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "timestamp": "2024-11-20 04:54:07.134245+00:00"
         },
         {
-            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
-            "timestamp": "2024-09-10T02:21:49.587441+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSHIN PO_LORD OF DEATH (YAMARI)/RNAL 'BYOR_PRACTICES",
+            "timestamp": "2024-11-20 05:09:54.172969+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:54:07.134245+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T05:09:54.172969+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "text"
 }

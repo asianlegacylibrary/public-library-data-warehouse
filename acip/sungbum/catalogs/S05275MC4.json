@@ -1,12 +1,12 @@
 {
     "name": "S05275MC4_[Untitled]_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419).TXT",
-    "path": "cho ga_rituals/byang chog_ritual of purification for the dead",
-    "download_path": "/sungbum updated 4 26 23 bk/cho ga_rituals/byang chog_ritual of purification for the dead/s05275mc4_[untitled]_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAEfQ",
-    "revision_id": "613f6644849a18d294473",
+    "path": "CHO GA_RITUALS/BYANG CHOG_RITUAL OF PURIFICATION FOR THE DEAD",
+    "download_path": "/sungbum updated 7 30 23 nl/cho ga_rituals/byang chog_ritual of purification for the dead/s05275mc4_[untitled]_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABl5A",
+    "revision_id": "625a4afc1083e8d294473",
     "content_hash": "f4231bee81a15656ea550fea99cbc3b55e73256f77a33a1c380a26433a75ddf5",
-    "server_modified": "2024-03-18T21:53:45",
-    "last_sync": "2024-09-09T19:05:43.786666",
+    "server_modified": "2024-10-29 21:58:33",
+    "last_sync": "2024-11-19 21:26:14.608115",
     "size": 5218,
     "meta_text": null,
     "cat_ref": "S05275MC4",
@@ -19,10 +19,10 @@
     "author_simple": "",
     "subject": [
         {
-            "_id": "718835972109",
-            "subject_path": "SUNGBUM_SUNGBUM/CHO GA_RITUALS/BYANG CHOG_RITUAL OF PURIFICATION FOR THE DEAD",
-            "subject_path_tibetan": "SUNGBUM/CHO GA/BYANG CHOG",
-            "subject_path_english": "SUNGBUM/RITUALS/RITUAL OF PURIFICATION FOR THE DEAD",
+            "_id": "789950862786",
+            "subject_path": "GSUNG 'BUM_Sungbum/CHO GA_RITUALS/BYANG CHOG_RITUAL OF PURIFICATION FOR THE DEAD",
+            "subject_path_tibetan": "GSUNG 'BUM/CHO GA/BYANG CHOG",
+            "subject_path_english": "Sungbum/RITUALS/RITUAL OF PURIFICATION FOR THE DEAD",
             "subject_tibetan": "BYANG CHOG",
             "subject_english": "RITUAL OF PURIFICATION FOR THE DEAD"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "cho ga_rituals/byang chog_ritual of purification for the dead",
-            "timestamp": "2024-09-10T02:05:43.794814+00:00"
+            "path": "GSUNG 'BUM_Sungbum/CHO GA_RITUALS/BYANG CHOG_RITUAL OF PURIFICATION FOR THE DEAD",
+            "timestamp": "2024-11-20 05:26:14.618544+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:26:14.618544+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

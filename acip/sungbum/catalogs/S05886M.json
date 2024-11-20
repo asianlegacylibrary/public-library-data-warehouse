@@ -1,28 +1,28 @@
 {
     "name": "S05886M_BYANG CHUB SEMS DPA' SEMS DPA' CHEN PO ZHI BA'I LHA'I RTOGS PA BRJOD PA PADMA DKAR PO'I PHRENG BA BYIN RLABS KYI DRI BSUNG 'PHRO BYED_The 'Garland of White Lotuses, Filling the Air with the Sweet Scent of Blessings,' being the Life Story of +.TXT",
-    "path": "rnam thar_biographies/mtsan thog_by person's name/shi ba lha_master shantideva",
-    "download_path": "/sungbum updated 4 26 23 bk/rnam thar_biographies/mtsan thog_by person's name/shi ba lha_master shantideva/s05886m_byang chub sems dpa' sems dpa' chen po zhi ba'i lha'i rtogs pa brjod pa padma dkar po'i phreng ba byin rlabs kyi dri bsung 'phro byed_the 'garland of white lotuses, filling the air with the sweet scent of blessings,' being the life story of +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAW3A",
-    "revision_id": "613f666d209f88d294473",
+    "path": "RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/SHI BA LHA_MASTER SHANTIDEVA",
+    "download_path": "/sungbum updated 7 30 23 nl/rnam thar_biographies/mtsan thog_by person's name/shi ba lha_master shantideva/s05886m_byang chub sems dpa' sems dpa' chen po zhi ba'i lha'i rtogs pa brjod pa padma dkar po'i phreng ba byin rlabs kyi dri bsung 'phro byed_the 'garland of white lotuses, filling the air with the sweet scent of blessings,' being the life story of +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABf9Q",
+    "revision_id": "625a4a0debbf48d294473",
     "content_hash": "21e30084d2f8e95565e152eb1cdf16c897f607d147bac87dc7198df470d20568",
-    "server_modified": "2024-03-18T21:54:28",
-    "last_sync": "2024-09-09T19:24:11.126869",
+    "server_modified": "2024-10-29 21:54:24",
+    "last_sync": "2024-11-19 21:15:10.820712",
     "size": 43798,
-    "meta_text": "that Greater Being, the Bodhisattva Shantideva_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN\n(1565-1662)",
+    "meta_text": "('that Greater Being, the Bodhisattva Shantideva_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN\\n(1565-1662)', 'rtf')",
     "cat_ref": "S05886M",
     "work_ref": "W.S05886M",
     "title_tib": "BYANG CHUB SEMS DPA' SEMS DPA' CHEN PO ZHI BA'I LHA'I RTOGS PA BRJOD PA PADMA DKAR PO'I PHRENG BA BYIN RLABS KYI DRI BSUNG 'PHRO BYED",
-    "title_eng": "The 'Garland of White Lotuses, Filling the Air with the Sweet Scent of Blessings,' being the Life Story ofthat Greater Being, the Bodhisattva Shantideva",
+    "title_eng": "The 'Garland of White Lotuses, Filling the Air with the Sweet Scent of Blessings,' being the Life Story of('that Greater Being, the Bodhisattva Shantideva",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "144995198236",
-            "subject_path": "SUNGBUM_SUNGBUM/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/SHI BA LHA_MASTER SHANTIDEVA",
-            "subject_path_tibetan": "SUNGBUM/RNAM THAR/MTSAN THOG/SHI BA LHA",
-            "subject_path_english": "SUNGBUM/BIOGRAPHIES/BY PERSON'S NAME/MASTER SHANTIDEVA",
+            "_id": "224547150913",
+            "subject_path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/SHI BA LHA_MASTER SHANTIDEVA",
+            "subject_path_tibetan": "GSUNG 'BUM/RNAM THAR/MTSAN THOG/SHI BA LHA",
+            "subject_path_english": "Sungbum/BIOGRAPHIES/BY PERSON'S NAME/MASTER SHANTIDEVA",
             "subject_tibetan": "SHI BA LHA",
             "subject_english": "MASTER SHANTIDEVA"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rnam thar_biographies/mtsan thog_by person's name/shi ba lha_master shantideva",
-            "timestamp": "2024-09-10T02:24:11.133531+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/SHI BA LHA_MASTER SHANTIDEVA",
+            "timestamp": "2024-11-20 05:15:10.824496+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:15:10.824496+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

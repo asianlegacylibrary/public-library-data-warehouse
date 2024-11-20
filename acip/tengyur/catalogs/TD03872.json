@@ -1,45 +1,53 @@
 {
     "name": "TD03872_BYANG CHUB KYI SPYOD PA LA 'JUG PA'I DKA' 'GREL (Bodhi Caryāvatāra Pañjikā).txt",
-    "path": "TENGYUR_TENGYUR/04 DBU MA_Middle Way School (Madhyamaka)/VOL 10 (LA)",
+    "path": "04 DBU MA_Middle Way School (Madhyamaka)/VOL 10 (LA)",
     "download_path": "/tengyur updated 10 31 24 ws/04 dbu ma_middle way school (madhyamaka)/vol 10 (la)/td03872_byang chub kyi spyod pa la 'jug pa'i dka' 'grel (bodhi caryāvatāra pañjikā).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB3Vw",
     "revision_id": "62633bc7112848d294473",
     "content_hash": "e5ab16d8112b3868f3b3227dd83ad39fa884c2ac11c0bb7df0ca58ac39b5a5a3",
     "server_modified": "2024-11-06 00:38:26",
-    "last_sync": "2024-11-13 01:58:11.942783+00:00",
+    "last_sync": "2024-11-20 03:59:04.976313",
     "size": 956961,
+    "meta_text": null,
     "cat_ref": "TD03872",
     "work_ref": "W.TD03872",
-    "title_tib": "BYANG CHUB KYI SPYOD PA LA 'JUG PA'I DKA' 'GREL",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "920769709080",
-            "subject_path": "TENGYUR_TENGYUR/04 DBU MA_Middle Way School (Madhyamaka)/VOL 10 (LA)",
-            "subject_path_tibetan": "TENGYUR/DBU MA/10 (LA)",
-            "subject_path_english": "TENGYUR/Middle Way School (Madhyamaka)/VOL 10 (LA)",
-            "subject_tibetan": "10 (LA)",
-            "subject_english": "VOL 10 (LA)"
+            "_id": "201979460682",
+            "subject_path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 10 (LA)",
+            "subject_path_tibetan": "BSTAN 'GYUR/04 DBU MA/VOL 10 (LA)",
+            "subject_path_english": "Tengyur/Middle Way School (Madhyamaka)",
+            "subject_tibetan": "VOL 10 (LA)",
+            "subject_english": "Middle Way School (Madhyamaka)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Bodhi Caryāvatāra Pañjikā",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 10 (LA)",
+            "timestamp": "2024-11-20 11:59:04.979825+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:58:11.945097+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T11:59:04.979825+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/04 DBU MA_Middle Way School (Madhyamaka)/VOL 10 (LA)",
-            "timestamp": "2024-11-13 01:58:11.945097+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

@@ -1,45 +1,53 @@
 {
     "name": "TD01656_'BYUNG PO THAMS CAD KYI GTOR MA'I CHO GA (Sarva Bhūta Bali Vidhi).txt",
-    "path": "TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/07 SANGS RGYAS THOD PA_Skull of the Buddha (Buddha Kāpala)/VOL 25 (RA)",
+    "path": "02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/07 SANGS RGYAS THOD PA_Skull of the Buddha (Buddha Kāpala)/VOL 25 (RA)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/01 rnal 'byor bla med_unsurpassed practice (anuttara yoga)/07 sangs rgyas thod pa_skull of the buddha (buddha kāpala)/vol 25 (ra)/td01656_'byung po thams cad kyi gtor ma'i cho ga (sarva bhūta bali vidhi).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB-EQ",
     "revision_id": "62633cfaffd1c8d294473",
     "content_hash": "979ed92be2c53aa928ac8bca5f0782797113188d168382f7bb06efbf7bc80564",
     "server_modified": "2024-11-06 00:43:49",
-    "last_sync": "2024-11-13 01:59:30.817025+00:00",
+    "last_sync": "2024-11-20 04:00:35.226017",
     "size": 3686,
+    "meta_text": null,
     "cat_ref": "TD01656",
     "work_ref": "W.TD01656",
-    "title_tib": "'BYUNG PO THAMS CAD KYI GTOR MA'I CHO GA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "139006548050",
-            "subject_path": "TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/07 SANGS RGYAS THOD PA_Skull of the Buddha (Buddha Kāpala)/VOL 25 (RA)",
-            "subject_path_tibetan": "TENGYUR/RGYUD/RNAL 'BYOR BLA MED/SANGS RGYAS THOD PA/25 (RA)",
-            "subject_path_english": "TENGYUR/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Skull of the Buddha (Buddha Kāpala)/VOL 25 (RA)",
-            "subject_tibetan": "25 (RA)",
-            "subject_english": "VOL 25 (RA)"
+            "_id": "331139795859",
+            "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/07 SANGS RGYAS THOD PA_Skull of the Buddha (Buddha Kāpala)/VOL 25 (RA)",
+            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/01 RNAL 'BYOR BLA MED/07 SANGS RGYAS THOD PA/VOL 25 (RA)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Skull of the Buddha (Buddha Kāpala)",
+            "subject_tibetan": "VOL 25 (RA)",
+            "subject_english": "Skull of the Buddha (Buddha Kāpala)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Sarva Bhūta Bali Vidhi",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/07 SANGS RGYAS THOD PA_Skull of the Buddha (Buddha Kāpala)/VOL 25 (RA)",
+            "timestamp": "2024-11-20 12:00:35.231943+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:59:30.819921+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T12:00:35.231943+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/07 SANGS RGYAS THOD PA_Skull of the Buddha (Buddha Kāpala)/VOL 25 (RA)",
-            "timestamp": "2024-11-13 01:59:30.819921+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

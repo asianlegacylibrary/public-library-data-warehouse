@@ -1,12 +1,12 @@
 {
     "name": "S06379E_DPAL LDAN TSOGS KYI BDAG PO'I GTOR 'BUL GYI DON BSHAD PA_Explanation of the Meaning of the Offering of Torma Cakes to the Glorious Lord of the Feast (Gana Pati)_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/tsogs bdag_lord of the gathering (ganapati)/gtor ma_offering cake (bali)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/tsogs bdag_lord of the gathering (ganapati)/gtor ma_offering cake (bali)/s06379e_dpal ldan tsogs kyi bdag po'i gtor 'bul gyi don bshad pa_explanation of the meaning of the offering of torma cakes to the glorious lord of the feast (gana pati)_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAJ2Q",
-    "revision_id": "613f6652787f18d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/TSOGS BDAG_LORD OF THE GATHERING (GANAPATI)/GTOR MA_OFFERING CAKE (BALI)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/tsogs bdag_lord of the gathering (ganapati)/gtor ma_offering cake (bali)/s06379e_dpal ldan tsogs kyi bdag po'i gtor 'bul gyi don bshad pa_explanation of the meaning of the offering of torma cakes to the glorious lord of the feast (gana pati)_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABVaw",
+    "revision_id": "625a488768e4b8d294473",
     "content_hash": "3dc8a8dabd63ba89293a11a3ccef4a78b6c509171c826a26fffc3e02400a9210",
-    "server_modified": "2024-03-18T21:54:00",
-    "last_sync": "2024-09-09T19:10:52.174203",
+    "server_modified": "2024-10-29 21:47:34",
+    "last_sync": "2024-11-19 20:57:26.763715",
     "size": 6842,
     "meta_text": null,
     "cat_ref": "S06379E",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "182598009745",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/TSOGS BDAG_LORD OF THE GATHERING (GANAPATI)/GTOR MA_OFFERING CAKE (BALI)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/TSOGS BDAG/GTOR MA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/LORD OF THE GATHERING (GANAPATI)/OFFERING CAKE (BALI)",
+            "_id": "723006017430",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/TSOGS BDAG_LORD OF THE GATHERING (GANAPATI)/GTOR MA_OFFERING CAKE (BALI)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/TSOGS BDAG/GTOR MA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/LORD OF THE GATHERING (GANAPATI)/OFFERING CAKE (BALI)",
             "subject_tibetan": "GTOR MA",
             "subject_english": "OFFERING CAKE (BALI)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/tsogs bdag_lord of the gathering (ganapati)/gtor ma_offering cake (bali)",
-            "timestamp": "2024-09-10T02:10:52.187039+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/TSOGS BDAG_LORD OF THE GATHERING (GANAPATI)/GTOR MA_OFFERING CAKE (BALI)",
+            "timestamp": "2024-11-20 04:57:26.768529+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:57:26.768529+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

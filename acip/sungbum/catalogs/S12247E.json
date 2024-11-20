@@ -1,14 +1,14 @@
 {
     "name": "S12247E_DPAL DUS KYI 'KHOR LO'I BSNYEN YIG GI BRJED THO RDO RJE'I PHRENG RGYAN_A Jewel for the String of Diamonds--A List of Things to Remember for a Secret Retreat in the Teachings of the Glorious Wheel of Time (Kalachakra)_RJE BTZUN BLO BZANG RTA +.TXT",
-    "path": "rgyud_secret teachings (tantra)/dus 'khor_wheel of time (kalachakra)/bsnyen pa_retreat instructions",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/dus 'khor_wheel of time (kalachakra)/bsnyen pa_retreat instructions/s12247e_dpal dus kyi 'khor lo'i bsnyen yig gi brjed tho rdo rje'i phreng rgyan_a jewel for the string of diamonds--a list of things to remember for a secret retreat in the teachings of the glorious wheel of time (kalachakra)_rje btzun blo bzang rta +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAIow",
-    "revision_id": "613f664dc42bf8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/BSNYEN PA_RETREAT INSTRUCTIONS",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/dus 'khor_wheel of time (kalachakra)/bsnyen pa_retreat instructions/s12247e_dpal dus kyi 'khor lo'i bsnyen yig gi brjed tho rdo rje'i phreng rgyan_a jewel for the string of diamonds--a list of things to remember for a secret retreat in the teachings of the glorious wheel of time (kalachakra)_rje btzun blo bzang rta +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABapA",
+    "revision_id": "625a4931ddf4e8d294473",
     "content_hash": "1b00777f3d139b2d2fc4524611bc1de8272a6838008ce981e9709b64554f97c1",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:09:36.235156",
+    "server_modified": "2024-10-29 21:50:33",
+    "last_sync": "2024-11-19 21:05:48.845848",
     "size": 5881,
-    "meta_text": "DBYANGS (1867-1937)",
+    "meta_text": "('DBYANGS (1867-1937)', 'rtf')",
     "cat_ref": "S12247E",
     "work_ref": "W.S12247E",
     "title_tib": "DPAL DUS KYI 'KHOR LO'I BSNYEN YIG GI BRJED THO RDO RJE'I PHRENG RGYAN",
@@ -19,10 +19,10 @@
     "author_simple": "RJE BTZUN BLO BZANG RTA DBYANGS",
     "subject": [
         {
-            "_id": "115739948630",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/BSNYEN PA_RETREAT INSTRUCTIONS",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/DUS 'KHOR/BSNYEN PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/WHEEL OF TIME (KALACHAKRA)/RETREAT INSTRUCTIONS",
+            "_id": "298332125840",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/BSNYEN PA_RETREAT INSTRUCTIONS",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/DUS 'KHOR/BSNYEN PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/WHEEL OF TIME (KALACHAKRA)/RETREAT INSTRUCTIONS",
             "subject_tibetan": "BSNYEN PA",
             "subject_english": "RETREAT INSTRUCTIONS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P1638"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/dus 'khor_wheel of time (kalachakra)/bsnyen pa_retreat instructions",
-            "timestamp": "2024-09-10T02:09:36.241940+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/BSNYEN PA_RETREAT INSTRUCTIONS",
+            "timestamp": "2024-11-20 05:05:48.850377+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:05:48.850377+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,12 +1,12 @@
 {
     "name": "S12172E_SNYING PO DON GSUM GYI KHRID YIG THAMS CAD MKHYEN PAR BGROD PA'I NYE LAM_A Shortcut for Travelling to Omniscience-- Instructions on the Three Essential Practices_PAN CHEN BLA MA SKU PHRENG GNYIS PA BLO BZANG YE SHES (1663-1737).TXT",
-    "path": "rgyud_secret teachings (tantra)/snying po don gsum_three essential practices/rnal 'byor_practices",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/snying po don gsum_three essential practices/rnal 'byor_practices/s12172e_snying po don gsum gyi khrid yig thams cad mkhyen par bgrod pa'i nye lam_a shortcut for travelling to omniscience-- instructions on the three essential practices_pan chen bla ma sku phreng gnyis pa blo bzang ye shes (1663-1737).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAQDg",
-    "revision_id": "613f665fcd5938d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SNYING PO DON GSUM_THREE ESSENTIAL PRACTICES/RNAL 'BYOR_PRACTICES",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/snying po don gsum_three essential practices/rnal 'byor_practices/s12172e_snying po don gsum gyi khrid yig thams cad mkhyen par bgrod pa'i nye lam_a shortcut for travelling to omniscience-- instructions on the three essential practices_pan chen bla ma sku phreng gnyis pa blo bzang ye shes (1663-1737).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABVIg",
+    "revision_id": "625a487e17efd8d294473",
     "content_hash": "bcc5ba5fa6fd1d97f39bd791c78380639c5e6a5c26d157e541a4427084e0b50e",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:17:28.986723",
+    "server_modified": "2024-10-29 21:47:24",
+    "last_sync": "2024-11-19 20:56:53.459529",
     "size": 98502,
     "meta_text": null,
     "cat_ref": "S12172E",
@@ -19,10 +19,10 @@
     "author_simple": "PAn CHEN BLA MA SKU PHRENG GNYIS PA BLO BZANG YE SHES",
     "subject": [
         {
-            "_id": "342507464639",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SNYING PO DON GSUM_THREE ESSENTIAL PRACTICES/RNAL 'BYOR_PRACTICES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SNYING PO DON GSUM/RNAL 'BYOR",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/THREE ESSENTIAL PRACTICES/PRACTICES",
+            "_id": "327275441043",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SNYING PO DON GSUM_THREE ESSENTIAL PRACTICES/RNAL 'BYOR_PRACTICES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SNYING PO DON GSUM/RNAL 'BYOR",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/THREE ESSENTIAL PRACTICES/PRACTICES",
             "subject_tibetan": "RNAL 'BYOR",
             "subject_english": "PRACTICES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P106"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/snying po don gsum_three essential practices/rnal 'byor_practices",
-            "timestamp": "2024-09-10T02:17:28.995784+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SNYING PO DON GSUM_THREE ESSENTIAL PRACTICES/RNAL 'BYOR_PRACTICES",
+            "timestamp": "2024-11-20 04:56:53.462943+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:56:53.462943+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,12 +1,12 @@
 {
     "name": "S06368E16_CHOS DRUG 'KHRID YIG YID CHES GSUM LDAN GYI SA BCAD_Outline to the Book of Instruction on the Six Practices of Naropa entitled 'The Three Faiths'_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/na ro chos drug_six practices of naropa/'grel pa_commentaries",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/na ro chos drug_six practices of naropa/'grel pa_commentaries/s06368e16_chos drug 'khrid yig yid ches gsum ldan gyi sa bcad_outline to the book of instruction on the six practices of naropa entitled 'the three faiths'_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAKJQ",
-    "revision_id": "613f66527883d8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/NA RO CHOS DRUG_SIX PRACTICES OF NAROPA/'GREL PA_COMMENTARIES",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/na ro chos drug_six practices of naropa/'grel pa_commentaries/s06368e16_chos drug 'khrid yig yid ches gsum ldan gyi sa bcad_outline to the book of instruction on the six practices of naropa entitled 'the three faiths'_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABcyg",
+    "revision_id": "625a4982f02718d294473",
     "content_hash": "563a1a9c87d323ab24edf79bbec70a8372a9a13e4ca4cc1138ee6fc6a746c1f0",
-    "server_modified": "2024-03-18T21:54:00",
-    "last_sync": "2024-09-09T19:11:07.669449",
+    "server_modified": "2024-10-29 21:51:58",
+    "last_sync": "2024-11-19 21:09:31.857252",
     "size": 6499,
     "meta_text": null,
     "cat_ref": "S06368E16",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "135323875572",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/NA RO CHOS DRUG_SIX PRACTICES OF NAROPA/'GREL PA_COMMENTARIES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/NA RO CHOS DRUG/'GREL PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/SIX PRACTICES OF NAROPA/COMMENTARIES",
+            "_id": "311761277996",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/NA RO CHOS DRUG_SIX PRACTICES OF NAROPA/'GREL PA_COMMENTARIES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/NA RO CHOS DRUG/'GREL PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/SIX PRACTICES OF NAROPA/COMMENTARIES",
             "subject_tibetan": "'GREL PA",
             "subject_english": "COMMENTARIES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/na ro chos drug_six practices of naropa/'grel pa_commentaries",
-            "timestamp": "2024-09-10T02:11:07.694643+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/NA RO CHOS DRUG_SIX PRACTICES OF NAROPA/'GREL PA_COMMENTARIES",
+            "timestamp": "2024-11-20 05:09:31.861370+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:09:31.861370+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

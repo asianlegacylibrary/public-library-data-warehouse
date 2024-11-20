@@ -1,12 +1,12 @@
 {
     "name": "S05936E_KHRO BO SME BA BRTZEGS PA'I SGRUB THABS BDUD RTZI'I CHU RGYUN_The 'River of Deathless Nectar,' a Method for Reaching the Wrathful One, the Fierce Protector Metsek (Babhur Kumkuta)_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662).TXT",
-    "path": "rgyud_secret teachings (tantra)/sme brtzegs_metsek/sgrub thabs_ritual for reaching the angel (sadhana)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/sme brtzegs_metsek/sgrub thabs_ritual for reaching the angel (sadhana)/s05936e_khro bo sme ba brtzegs pa'i sgrub thabs bdud rtzi'i chu rgyun_the 'river of deathless nectar,' a method for reaching the wrathful one, the fierce protector metsek (babhur kumkuta)_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAPzg",
-    "revision_id": "613f665fcd5538d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SME BRTZEGS_METSEK/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/sme brtzegs_metsek/sgrub thabs_ritual for reaching the angel (sadhana)/s05936e_khro bo sme ba brtzegs pa'i sgrub thabs bdud rtzi'i chu rgyun_the 'river of deathless nectar,' a method for reaching the wrathful one, the fierce protector metsek (babhur kumkuta)_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABVtw",
+    "revision_id": "625a4890b0e008d294473",
     "content_hash": "4c41e99d3f8ac69880336fe62fd5e354aa49596a88def7a7a19bd601f4e1bbf2",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:17:16.674444",
+    "server_modified": "2024-10-29 21:47:44",
+    "last_sync": "2024-11-19 20:57:56.825041",
     "size": 14551,
     "meta_text": null,
     "cat_ref": "S05936E",
@@ -19,10 +19,10 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "318690261075",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SME BRTZEGS_METSEK/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SME BRTZEGS/SGRUB THABS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/METSEK/RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "_id": "240264659064",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SME BRTZEGS_METSEK/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SME BRTZEGS/SGRUB THABS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/METSEK/RITUAL FOR REACHING THE ANGEL (SADHANA)",
             "subject_tibetan": "SGRUB THABS",
             "subject_english": "RITUAL FOR REACHING THE ANGEL (SADHANA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/sme brtzegs_metsek/sgrub thabs_ritual for reaching the angel (sadhana)",
-            "timestamp": "2024-09-10T02:17:16.680030+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SME BRTZEGS_METSEK/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "timestamp": "2024-11-20 04:57:57.536734+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:57:57.536734+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

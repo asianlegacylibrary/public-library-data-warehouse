@@ -1,28 +1,28 @@
 {
     "name": "S05287E_DPAL GSANG BA 'DUS PA MI BSKYOD RDO RJE'I DKYIL 'KHOR GYI CHO GA DBANG GI DON GYI DE NYID RAB TU GSAL BA_The 'Total Illumination of the Very Nature of the Empowerment,' being a Ritual for the Secret World of the Unshakeable Diamond (Akshobhy +.TXT",
-    "path": "rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/dkyil 'khor_secret world (mandala)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/dkyil 'khor_secret world (mandala)/s05287e_dpal gsang ba 'dus pa mi bskyod rdo rje'i dkyil 'khor gyi cho ga dbang gi don gyi de nyid rab tu gsal ba_the 'total illumination of the very nature of the empowerment,' being a ritual for the secret world of the unshakeable diamond (akshobhy +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAARPg",
-    "revision_id": "613f665fcd6c38d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/DKYIL 'KHOR_SECRET WORLD (MANDALA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/dkyil 'khor_secret world (mandala)/s05287e_dpal gsang ba 'dus pa mi bskyod rdo rje'i dkyil 'khor gyi cho ga dbang gi don gyi de nyid rab tu gsal ba_the 'total illumination of the very nature of the empowerment,' being a ritual for the secret world of the unshakeable diamond (akshobhy +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABblg",
+    "revision_id": "625a4957ab8118d294473",
     "content_hash": "8578e1c7068cbe5d892de3c5297fa627e317dc7583bd18938b1908cc18cfa1d8",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:18:51.151098",
+    "server_modified": "2024-10-29 21:51:12",
+    "last_sync": "2024-11-19 21:07:21.414190",
     "size": 196759,
-    "meta_text": "avajra), the Secret Collection (Guhyasamaja)_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)",
+    "meta_text": "('avajra), the Secret Collection (Guhyasamaja)_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)', 'rtf')",
     "cat_ref": "S05287E",
     "work_ref": "W.S05287E",
     "title_tib": "DPAL GSANG BA 'DUS PA MI BSKYOD RDO RJE'I DKYIL 'KHOR GYI CHO GA DBANG GI DON GYI DE NYID RAB TU GSAL BA",
-    "title_eng": "The 'Total Illumination of the Very Nature of the Empowerment,' being a Ritual for the Secret World of the Unshakeable Diamond (Akshobhyavajra), the Secret Collection (Guhyasamaja)",
+    "title_eng": "The 'Total Illumination of the Very Nature of the Empowerment,' being a Ritual for the Secret World of the Unshakeable Diamond (Akshobhy('avajra), the Secret Collection (Guhyasamaja)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "173540359271",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/DKYIL 'KHOR_SECRET WORLD (MANDALA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/GSANG 'DUS/DKYIL 'KHOR",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/SECRET COLLECTION (GUHYASAMAJA)/SECRET WORLD (MANDALA)",
+            "_id": "945137803798",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/DKYIL 'KHOR_SECRET WORLD (MANDALA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/GSANG 'DUS/DKYIL 'KHOR",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/SECRET COLLECTION (GUHYASAMAJA)/SECRET WORLD (MANDALA)",
             "subject_tibetan": "DKYIL 'KHOR",
             "subject_english": "SECRET WORLD (MANDALA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/dkyil 'khor_secret world (mandala)",
-            "timestamp": "2024-09-10T02:18:51.159873+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/DKYIL 'KHOR_SECRET WORLD (MANDALA)",
+            "timestamp": "2024-11-20 05:07:22.082053+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:07:22.082053+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

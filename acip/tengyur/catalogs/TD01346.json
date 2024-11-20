@@ -1,45 +1,53 @@
 {
     "name": "TD01346_MCHOG GI DANG PO'I SANGS RGYAS LAS PHYUNG BA RGYUD KYI RGYAL PO DPAL DUS KYI 'KHOR [DD] LO ZHES BYA BA (Paramādi Buddhoddhṛta Śrī Kālacakra Nāma Tantrarāja).txt",
-    "path": "TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/02 DUS KYI 'KHOR LO_Wheel of Time (Kālacakra)/01 BSKYED RIM_Creation Stage (Utpatti Krama)/VOL 10 (THA)",
+    "path": "02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/02 DUS KYI 'KHOR LO_Wheel of Time (Kālacakra)/01 BSKYED RIM_Creation Stage (Utpatti Krama)/VOL 10 (THA)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/01 rnal 'byor bla med_unsurpassed practice (anuttara yoga)/02 dus kyi 'khor lo_wheel of time (kālacakra)/01 bskyed rim_creation stage (utpatti krama)/vol 10 (tha)/td01346_mchog gi dang po'i sangs rgyas las phyung ba rgyud kyi rgyal po dpal dus kyi 'khor [dd] lo zhes bya ba (paramādi buddhoddhṛta śrī kālacakra nāma tantrarāja).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB8tA",
     "revision_id": "62633cbad2e1c8d294473",
     "content_hash": "af312467cfde3b6b8f6afd96663f419fb3aeb76e2ed5c632137923ef04a013ba",
     "server_modified": "2024-11-06 00:42:42",
-    "last_sync": "2024-11-13 01:59:14.426784+00:00",
+    "last_sync": "2024-11-20 04:00:14.364301",
     "size": 413838,
+    "meta_text": null,
     "cat_ref": "TD01346",
     "work_ref": "W.TD01346",
-    "title_tib": "MCHOG GI DANG PO'I SANGS RGYAS LAS PHYUNG BA RGYUD KYI RGYAL PO DPAL DUS KYI 'KHOR [DD] LO ZHES BYA BA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "454120965671",
-            "subject_path": "TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/02 DUS KYI 'KHOR LO_Wheel of Time (Kālacakra)/01 BSKYED RIM_Creation Stage (Utpatti Krama)/VOL 10 (THA)",
-            "subject_path_tibetan": "TENGYUR/RGYUD/RNAL 'BYOR BLA MED/DUS KYI 'KHOR LO/BSKYED RIM/10 (THA)",
-            "subject_path_english": "TENGYUR/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Wheel of Time (Kālacakra)/Creation Stage (Utpatti Krama)/VOL 10 (THA)",
-            "subject_tibetan": "10 (THA)",
-            "subject_english": "VOL 10 (THA)"
+            "_id": "288556076692",
+            "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/02 DUS KYI 'KHOR LO_Wheel of Time (Kālacakra)/01 BSKYED RIM_Creation Stage (Utpatti Krama)/VOL 10 (THA)",
+            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/01 RNAL 'BYOR BLA MED/02 DUS KYI 'KHOR LO/01 BSKYED RIM/VOL 10 (THA)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Wheel of Time (Kālacakra)/Creation Stage (Utpatti Krama)",
+            "subject_tibetan": "VOL 10 (THA)",
+            "subject_english": "Creation Stage (Utpatti Krama)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Paramādi Buddhoddhṛta Śrī Kālacakra Nāma Tantrarāja",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/02 DUS KYI 'KHOR LO_Wheel of Time (Kālacakra)/01 BSKYED RIM_Creation Stage (Utpatti Krama)/VOL 10 (THA)",
+            "timestamp": "2024-11-20 12:00:14.371684+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:59:14.736344+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T12:00:14.371684+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/02 DUS KYI 'KHOR LO_Wheel of Time (Kālacakra)/01 BSKYED RIM_Creation Stage (Utpatti Krama)/VOL 10 (THA)",
-            "timestamp": "2024-11-13 01:59:14.736344+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

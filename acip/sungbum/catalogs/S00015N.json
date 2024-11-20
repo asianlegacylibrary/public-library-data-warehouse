@@ -1,12 +1,12 @@
 {
     "name": "S00015N_RTEN 'BREL GYI MTHA' DPYOD_A Dialectic Analysis of Dependent Origination_MKHAS GRUB BSTAN PA DAR RGYAS (1493-1568).TXT",
-    "path": "phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/rten 'brel_dependent origination/mkhas grub bstan pa dar rgyas_kedrup tenpa dargye (1493-1568)/mtha' dpyod_dialectic analysis",
-    "download_path": "/sungbum updated 4 26 23 bk/phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/rten 'brel_dependent origination/mkhas grub bstan pa dar rgyas_kedrup tenpa dargye (1493-1568)/mtha' dpyod_dialectic analysis/s00015n_rten 'brel gyi mtha' dpyod_a dialectic analysis of dependent origination_mkhas grub bstan pa dar rgyas (1493-1568).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAVqQ",
-    "revision_id": "613f666d208c58d294473",
+    "path": "PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/RTEN 'BREL_DEPENDENT ORIGINATION/MKHAS GRUB BSTAN PA DAR RGYAS_KEDRUP TENPA DARGYE (1493-1568)/MTHA' DPYOD_DIALECTIC ANALYSIS",
+    "download_path": "/sungbum updated 7 30 23 nl/phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/rten 'brel_dependent origination/mkhas grub bstan pa dar rgyas_kedrup tenpa dargye (1493-1568)/mtha' dpyod_dialectic analysis/s00015n_rten 'brel gyi mtha' dpyod_a dialectic analysis of dependent origination_mkhas grub bstan pa dar rgyas (1493-1568).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABOrA",
+    "revision_id": "625a4774f53ab8d294473",
     "content_hash": "0fdd34740ec698220dcf39b3a60e4350c8fdb93e1cccb9a50c41785eecee0595",
-    "server_modified": "2024-03-18T21:54:28",
-    "last_sync": "2024-09-09T19:22:54.437584",
+    "server_modified": "2024-10-29 21:42:46",
+    "last_sync": "2024-11-19 20:46:35.835169",
     "size": 95790,
     "meta_text": null,
     "cat_ref": "S00015N",
@@ -19,10 +19,10 @@
     "author_simple": "MKHAS GRUB BSTAN PA DAR RGYAS",
     "subject": [
         {
-            "_id": "306357081568",
-            "subject_path": "SUNGBUM_SUNGBUM/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/RTEN 'BREL_DEPENDENT ORIGINATION/MKHAS GRUB BSTAN PA DAR RGYAS_KEDRUP TENPA DARGYE (1493-1568)/MTHA' DPYOD_DIALECTIC ANALYSIS",
-            "subject_path_tibetan": "SUNGBUM/PHAR PHYIN/RTEN 'BREL/MKHAS GRUB BSTAN PA DAR RGYAS/MTHA' DPYOD",
-            "subject_path_english": "SUNGBUM/PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/DEPENDENT ORIGINATION/KEDRUP TENPA DARGYE (1493-1568)/DIALECTIC ANALYSIS",
+            "_id": "496292551328",
+            "subject_path": "GSUNG 'BUM_Sungbum/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/RTEN 'BREL_DEPENDENT ORIGINATION/MKHAS GRUB BSTAN PA DAR RGYAS_KEDRUP TENPA DARGYE (1493-1568)/MTHA' DPYOD_DIALECTIC ANALYSIS",
+            "subject_path_tibetan": "GSUNG 'BUM/PHAR PHYIN/RTEN 'BREL/MKHAS GRUB BSTAN PA DAR RGYAS/MTHA' DPYOD",
+            "subject_path_english": "Sungbum/PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/DEPENDENT ORIGINATION/KEDRUP TENPA DARGYE (1493-1568)/DIALECTIC ANALYSIS",
             "subject_tibetan": "MTHA' DPYOD",
             "subject_english": "DIALECTIC ANALYSIS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P996"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/rten 'brel_dependent origination/mkhas grub bstan pa dar rgyas_kedrup tenpa dargye (1493-1568)/mtha' dpyod_dialectic analysis",
-            "timestamp": "2024-09-10T02:22:54.439695+00:00"
+            "path": "GSUNG 'BUM_Sungbum/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/RTEN 'BREL_DEPENDENT ORIGINATION/MKHAS GRUB BSTAN PA DAR RGYAS_KEDRUP TENPA DARGYE (1493-1568)/MTHA' DPYOD_DIALECTIC ANALYSIS",
+            "timestamp": "2024-11-20 04:46:35.839122+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:46:35.839122+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

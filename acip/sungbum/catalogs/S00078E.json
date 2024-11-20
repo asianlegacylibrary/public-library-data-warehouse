@@ -1,14 +1,14 @@
 {
     "name": "S00078E_DPAL GSANG BA 'DUS PA'I RIM PA DANG PO'I GNAD DON GSAL BYED NYI MA'I 'OD ZER_The 'Rays of the Sun,' Illuminating Essential Points on the Creation Stage in the Practice of the Glorious Secret Collection (Guhyasamaja)_LCANG SKYA NGAG DBANG BLO +.TXT",
-    "path": "rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/bskyed rim_creation stage (utpatti krama)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/bskyed rim_creation stage (utpatti krama)/s00078e_dpal gsang ba 'dus pa'i rim pa dang po'i gnad don gsal byed nyi ma'i 'od zer_the 'rays of the sun,' illuminating essential points on the creation stage in the practice of the glorious secret collection (guhyasamaja)_lcang skya ngag dbang blo +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAARUA",
-    "revision_id": "613f665fcd6d58d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/BSKYED RIM_CREATION STAGE (UTPATTI KRAMA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/bskyed rim_creation stage (utpatti krama)/s00078e_dpal gsang ba 'dus pa'i rim pa dang po'i gnad don gsal byed nyi ma'i 'od zer_the 'rays of the sun,' illuminating essential points on the creation stage in the practice of the glorious secret collection (guhyasamaja)_lcang skya ngag dbang blo +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABbwA",
+    "revision_id": "625a495ddcc548d294473",
     "content_hash": "00cc02463804858adec25a4444e1fa720aca476be1e6994b4093beae708209ab",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:18:57.888247",
+    "server_modified": "2024-10-29 21:51:19",
+    "last_sync": "2024-11-19 21:07:44.062163",
     "size": 16076,
-    "meta_text": "BZANG CHOS LDAN (1642-1714)",
+    "meta_text": "('BZANG CHOS LDAN (1642-1714)', 'rtf')",
     "cat_ref": "S00078E",
     "work_ref": "W.S00078E",
     "title_tib": "DPAL GSANG BA 'DUS PA'I RIM PA DANG PO'I GNAD DON GSAL BYED NYI MA'I 'OD ZER",
@@ -19,10 +19,10 @@
     "author_simple": "LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN",
     "subject": [
         {
-            "_id": "232991814885",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/BSKYED RIM_CREATION STAGE (UTPATTI KRAMA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/GSANG 'DUS/BSKYED RIM",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/SECRET COLLECTION (GUHYASAMAJA)/CREATION STAGE (UTPATTI KRAMA)",
+            "_id": "924960933709",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/BSKYED RIM_CREATION STAGE (UTPATTI KRAMA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/GSANG 'DUS/BSKYED RIM",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/SECRET COLLECTION (GUHYASAMAJA)/CREATION STAGE (UTPATTI KRAMA)",
             "subject_tibetan": "BSKYED RIM",
             "subject_english": "CREATION STAGE (UTPATTI KRAMA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P209"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/bskyed rim_creation stage (utpatti krama)",
-            "timestamp": "2024-09-10T02:18:57.900614+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/BSKYED RIM_CREATION STAGE (UTPATTI KRAMA)",
+            "timestamp": "2024-11-20 05:07:45.500695+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:07:45.500695+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

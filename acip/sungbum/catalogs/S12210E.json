@@ -1,12 +1,12 @@
 {
     "name": "S12210E_LHA MO RDO RJE G-YU SGRON MA'I GTOR CHOG_A Ritual for the Offering of a Torma Cake to the Goddess named 'The Diamond Lamp of Turquoise'_PAN CHEN BLA MA SKU PHRENG GSUM PA DPAL LDAN YE SHES (1738-1780).TXT",
-    "path": "rgyud_secret teachings (tantra)/rdo rje g-yu sgron ma_diamond lamp of turquoise/gtor ma_offering cake (bali)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/rdo rje g-yu sgron ma_diamond lamp of turquoise/gtor ma_offering cake (bali)/s12210e_lha mo rdo rje g-yu sgron ma'i gtor chog_a ritual for the offering of a torma cake to the goddess named 'the diamond lamp of turquoise'_pan chen bla ma sku phreng gsum pa dpal ldan ye shes (1738-1780).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAIEg",
-    "revision_id": "613f664dc422e8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE G-YU SGRON MA_DIAMOND LAMP OF TURQUOISE/GTOR MA_OFFERING CAKE (BALI)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/rdo rje g-yu sgron ma_diamond lamp of turquoise/gtor ma_offering cake (bali)/s12210e_lha mo rdo rje g-yu sgron ma'i gtor chog_a ritual for the offering of a torma cake to the goddess named 'the diamond lamp of turquoise'_pan chen bla ma sku phreng gsum pa dpal ldan ye shes (1738-1780).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABV5Q",
+    "revision_id": "625a489773ca78d294473",
     "content_hash": "92665af8693113fe9d74e23556bb06d026da1921933d264e2b1ab3c5c071e54d",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:09:04.834799",
+    "server_modified": "2024-10-29 21:47:51",
+    "last_sync": "2024-11-19 20:58:17.527596",
     "size": 18277,
     "meta_text": null,
     "cat_ref": "S12210E",
@@ -19,10 +19,10 @@
     "author_simple": "PAn CHEN BLA MA SKU PHRENG GSUM PA DPAL LDAN YE SHES",
     "subject": [
         {
-            "_id": "301594468909",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE G-YU SGRON MA_DIAMOND LAMP OF TURQUOISE/GTOR MA_OFFERING CAKE (BALI)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/RDO RJE G-YU SGRON MA/GTOR MA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/DIAMOND LAMP OF TURQUOISE/OFFERING CAKE (BALI)",
+            "_id": "267852957721",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE G-YU SGRON MA_DIAMOND LAMP OF TURQUOISE/GTOR MA_OFFERING CAKE (BALI)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/RDO RJE G-YU SGRON MA/GTOR MA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/DIAMOND LAMP OF TURQUOISE/OFFERING CAKE (BALI)",
             "subject_tibetan": "GTOR MA",
             "subject_english": "OFFERING CAKE (BALI)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P168"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/rdo rje g-yu sgron ma_diamond lamp of turquoise/gtor ma_offering cake (bali)",
-            "timestamp": "2024-09-10T02:09:04.843973+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE G-YU SGRON MA_DIAMOND LAMP OF TURQUOISE/GTOR MA_OFFERING CAKE (BALI)",
+            "timestamp": "2024-11-20 04:58:17.535412+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:58:17.535412+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

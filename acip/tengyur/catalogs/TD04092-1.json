@@ -1,45 +1,53 @@
 {
     "name": "TD04092-1_CHOS MNGON PA'I MDZOD KYI 'GREL BSHAD_ (Abhidharma Koṣa Ṣaṭīkā).txt",
-    "path": "TENGYUR_TENGYUR/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 4 (GU)",
+    "path": "07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 4 (GU)",
     "download_path": "/tengyur updated 10 31 24 ws/07 mngon pa_higher knowledge school (abhidharma)/vol 4 (gu)/td04092-1_chos mngon pa'i mdzod kyi 'grel bshad_ (abhidharma koṣa ṣaṭīkā).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB2dQ",
     "revision_id": "62633b7ff4ede8d294473",
     "content_hash": "16e96590c8aa4be7acddebd4527433feb9138469b2b3f5f4150954181ef86b5c",
     "server_modified": "2024-11-06 00:37:12",
-    "last_sync": "2024-11-13 01:57:43.268953+00:00",
+    "last_sync": "2024-11-20 03:58:34.014064",
     "size": 1275001,
+    "meta_text": null,
     "cat_ref": "TD04092-1",
     "work_ref": "W.TD04092-1",
     "title_tib": "CHOS MNGON PA'I MDZOD KYI 'GREL BSHAD",
-    "title_eng": "",
+    "title_eng": "(Abhidharma Koṣa Ṣaṭīkā)",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "194259386092",
-            "subject_path": "TENGYUR_TENGYUR/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 4 (GU)",
-            "subject_path_tibetan": "TENGYUR/MNGON PA/4 (GU)",
-            "subject_path_english": "TENGYUR/Higher Knowledge School (Abhidharma)/VOL 4 (GU)",
-            "subject_tibetan": "4 (GU)",
-            "subject_english": "VOL 4 (GU)"
+            "_id": "102478969178",
+            "subject_path": "BSTAN 'GYUR_Tengyur/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 4 (GU)",
+            "subject_path_tibetan": "BSTAN 'GYUR/07 MNGON PA/VOL 4 (GU)",
+            "subject_path_english": "Tengyur/Higher Knowledge School (Abhidharma)",
+            "subject_tibetan": "VOL 4 (GU)",
+            "subject_english": "Higher Knowledge School (Abhidharma)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Abhidharma Koṣa Ṣaṭīkā",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 4 (GU)",
+            "timestamp": "2024-11-20 11:58:34.017470+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:57:43.521410+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T11:58:34.017470+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 4 (GU)",
-            "timestamp": "2024-11-13 01:57:43.521410+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

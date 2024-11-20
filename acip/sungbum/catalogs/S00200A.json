@@ -1,12 +1,12 @@
 {
     "name": "S00200A_Offering of the Mandala_SER SMAD MKHAN ZUR RIN PO CHE DGE BSHES BLO BZANG MTHAR PHYIN (1921-2004).TXT",
-    "path": "nyams len_personal practice/mandal 'bul tsul_how to make a mandala offering/ser smad mkhan zur rin po che dge bshes blo bzang mthar phyin_sermey kensur rinpoche geshe lobsang tarchin",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/mandal 'bul tsul_how to make a mandala offering/ser smad mkhan zur rin po che dge bshes blo bzang mthar phyin_sermey kensur rinpoche geshe lobsang tarchin/s00200a_offering of the mandala_ser smad mkhan zur rin po che dge bshes blo bzang mthar phyin (1921-2004).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAC5g",
-    "revision_id": "613f663ffc7d98d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/MAndAL 'BUL TSUL_HOW TO MAKE A MANDALA OFFERING/SER SMAD MKHAN ZUR RIN PO CHE DGE BSHES BLO BZANG MTHAR PHYIN_SERMEY KENSUR RINPOCHE GESHE LOBSANG TARCHIN",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/mandal 'bul tsul_how to make a mandala offering/ser smad mkhan zur rin po che dge bshes blo bzang mthar phyin_sermey kensur rinpoche geshe lobsang tarchin/s00200a_offering of the mandala_ser smad mkhan zur rin po che dge bshes blo bzang mthar phyin (1921-2004).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABiTQ",
+    "revision_id": "625a4a846b37c8d294473",
     "content_hash": "f69c591104d4b6a025703c568fa9ebf2d7eb85e1270f3f1982f8f90412d5d685",
-    "server_modified": "2024-03-18T21:53:40",
-    "last_sync": "2024-09-09T19:04:12.671606",
+    "server_modified": "2024-10-29 21:56:28",
+    "last_sync": "2024-11-19 21:19:26.660139",
     "size": 39982,
     "meta_text": null,
     "cat_ref": "S00200A",
@@ -19,10 +19,10 @@
     "author_simple": "",
     "subject": [
         {
-            "_id": "283473860506",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/MANDAL 'BUL TSUL_HOW TO MAKE A MANDALA OFFERING/SER SMAD MKHAN ZUR RIN PO CHE DGE BSHES BLO BZANG MTHAR PHYIN_SERMEY KENSUR RINPOCHE GESHE LOBSANG TARCHIN",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/MANDAL 'BUL TSUL/SER SMAD MKHAN ZUR RIN PO CHE DGE BSHES BLO BZANG MTHAR PHYIN",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/HOW TO MAKE A MANDALA OFFERING/SERMEY KENSUR RINPOCHE GESHE LOBSANG TARCHIN",
+            "_id": "280318877512",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/MAndAL 'BUL TSUL_HOW TO MAKE A MANDALA OFFERING/SER SMAD MKHAN ZUR RIN PO CHE DGE BSHES BLO BZANG MTHAR PHYIN_SERMEY KENSUR RINPOCHE GESHE LOBSANG TARCHIN",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/MAndAL 'BUL TSUL/SER SMAD MKHAN ZUR RIN PO CHE DGE BSHES BLO BZANG MTHAR PHYIN",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/HOW TO MAKE A MANDALA OFFERING/SERMEY KENSUR RINPOCHE GESHE LOBSANG TARCHIN",
             "subject_tibetan": "SER SMAD MKHAN ZUR RIN PO CHE DGE BSHES BLO BZANG MTHAR PHYIN",
             "subject_english": "SERMEY KENSUR RINPOCHE GESHE LOBSANG TARCHIN"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/mandal 'bul tsul_how to make a mandala offering/ser smad mkhan zur rin po che dge bshes blo bzang mthar phyin_sermey kensur rinpoche geshe lobsang tarchin",
-            "timestamp": "2024-09-10T02:04:12.677557+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/MAndAL 'BUL TSUL_HOW TO MAKE A MANDALA OFFERING/SER SMAD MKHAN ZUR RIN PO CHE DGE BSHES BLO BZANG MTHAR PHYIN_SERMEY KENSUR RINPOCHE GESHE LOBSANG TARCHIN",
+            "timestamp": "2024-11-20 05:19:26.665531+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:19:26.665531+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

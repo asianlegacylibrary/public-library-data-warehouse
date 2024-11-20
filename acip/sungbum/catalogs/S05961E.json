@@ -1,12 +1,12 @@
 {
     "name": "S05961E_RGYAL BA BYAMS PA LA BRTEN PA'I 'PHO BA LEGS PA CIG_An Excellent Ritual for Transferring One's Consciousness, based on the Secret Teachings of the Victorious Buddha, Loving One (Maitreya)_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662).TXT",
-    "path": "rgyud_secret teachings (tantra)/byams pa_loving one (maitreya)/'pho ba_transferring consciousness",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/byams pa_loving one (maitreya)/'pho ba_transferring consciousness/s05961e_rgyal ba byams pa la brten pa'i 'pho ba legs pa cig_an excellent ritual for transferring one's consciousness, based on the secret teachings of the victorious buddha, loving one (maitreya)_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAIGw",
-    "revision_id": "613f664dc42378d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/BYAMS PA_LOVING ONE (MAITREYA)/'PHO BA_TRANSFERRING CONSCIOUSNESS",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/byams pa_loving one (maitreya)/'pho ba_transferring consciousness/s05961e_rgyal ba byams pa la brten pa'i 'pho ba legs pa cig_an excellent ritual for transferring one's consciousness, based on the secret teachings of the victorious buddha, loving one (maitreya)_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABcqw",
+    "revision_id": "625a497f774918d294473",
     "content_hash": "d2c44e846da9d1d1b9cd41d04850406f9a855b87d30d22705a5bc27c9945d8c9",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:09:06.703030",
+    "server_modified": "2024-10-29 21:51:54",
+    "last_sync": "2024-11-19 21:09:23.346427",
     "size": 6505,
     "meta_text": null,
     "cat_ref": "S05961E",
@@ -19,10 +19,10 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "666813479167",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/BYAMS PA_LOVING ONE (MAITREYA)/'PHO BA_TRANSFERRING CONSCIOUSNESS",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/BYAMS PA/'PHO BA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/LOVING ONE (MAITREYA)/TRANSFERRING CONSCIOUSNESS",
+            "_id": "198063863217",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BYAMS PA_LOVING ONE (MAITREYA)/'PHO BA_TRANSFERRING CONSCIOUSNESS",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/BYAMS PA/'PHO BA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/LOVING ONE (MAITREYA)/TRANSFERRING CONSCIOUSNESS",
             "subject_tibetan": "'PHO BA",
             "subject_english": "TRANSFERRING CONSCIOUSNESS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/byams pa_loving one (maitreya)/'pho ba_transferring consciousness",
-            "timestamp": "2024-09-10T02:09:06.731354+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BYAMS PA_LOVING ONE (MAITREYA)/'PHO BA_TRANSFERRING CONSCIOUSNESS",
+            "timestamp": "2024-11-20 05:09:23.351247+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:09:23.351247+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,28 +1,28 @@
 {
     "name": "S00329E_'JIGS MDZAD DPA' BO GCIG PA'I BDAG BSKYED CUNG BSDUS TE NYAMS SU LEN TSUL_nstructions for Putting into Practice a Brief Form of the Ritual for Making Oneself the Angel, in the Secret  Teachings of the Frightener (Bhairava), in His Form as a +.TXT",
-    "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/sgrub thabs_ritual for reaching the angel (sadhana)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/sgrub thabs_ritual for reaching the angel (sadhana)/s00329e_'jigs mdzad dpa' bo gcig pa'i bdag bskyed cung bsdus te nyams su len tsul_nstructions for putting into practice a brief form of the ritual for making oneself the angel, in the secret  teachings of the frightener (bhairava), in his form as a +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAMiQ",
-    "revision_id": "613f6656ded5a8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/sgrub thabs_ritual for reaching the angel (sadhana)/s00329e_'jigs mdzad dpa' bo gcig pa'i bdag bskyed cung bsdus te nyams su len tsul_nstructions for putting into practice a brief form of the ritual for making oneself the angel, in the secret  teachings of the frightener (bhairava), in his form as a +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABdRg",
+    "revision_id": "625a49908aad48d294473",
     "content_hash": "ebce347bd913ec995e82eb68bdcac998adb258c8e55d4d615c4e41a13273a9f0",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:13:53.094683",
+    "server_modified": "2024-10-29 21:52:12",
+    "last_sync": "2024-11-19 21:10:30.130688",
     "size": 24526,
-    "meta_text": "Solitary Warrior (Eka Vira)_SKYABS RJE PHA BONG KHA PA BDE CHEN SNYING PO (1878-1941)",
+    "meta_text": "('Solitary Warrior (Eka Vira)_SKYABS RJE PHA BONG KHA PA BDE CHEN SNYING PO (1878-1941)', 'rtf')",
     "cat_ref": "S00329E",
     "work_ref": "W.S00329E",
     "title_tib": "'JIGS MDZAD DPA' BO GCIG PA'I BDAG BSKYED CUNG BSDUS TE NYAMS SU LEN TSUL",
-    "title_eng": "nstructions for Putting into Practice a Brief Form of the Ritual for Making Oneself the Angel, in the Secret  Teachings of the Frightener (Bhairava), in His Form as aSolitary Warrior (Eka Vira)",
+    "title_eng": "nstructions for Putting into Practice a Brief Form of the Ritual for Making Oneself the Angel, in the Secret  Teachings of the Frightener (Bhairava), in His Form as a('Solitary Warrior (Eka Vira)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "SKYABS RJE PHA BONG KHA PA BDE CHEN SNYING PO",
     "subject": [
         {
-            "_id": "152108565216",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/'JIGS BYED/SGRUB THABS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "_id": "219185821551",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/'JIGS BYED/SGRUB THABS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
             "subject_tibetan": "SGRUB THABS",
             "subject_english": "RITUAL FOR REACHING THE ANGEL (SADHANA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P230"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/sgrub thabs_ritual for reaching the angel (sadhana)",
-            "timestamp": "2024-09-10T02:13:53.107130+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "timestamp": "2024-11-20 05:10:39.236535+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:10:39.236535+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

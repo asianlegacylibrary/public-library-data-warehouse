@@ -1,45 +1,53 @@
 {
     "name": "TD03922_PHA ROL TU PHYIN PA'I THEG PA'I BSGOM PA'I RIM PA'I MAN NGAG (Pāramitāyana Bhāvanā Kramopadeśa).txt",
-    "path": "TENGYUR_TENGYUR/04 DBU MA_Middle Way School (Madhyamaka)/VOL 15 (KI)",
+    "path": "04 DBU MA_Middle Way School (Madhyamaka)/VOL 15 (KI)",
     "download_path": "/tengyur updated 10 31 24 ws/04 dbu ma_middle way school (madhyamaka)/vol 15 (ki)/td03922_pha rol tu phyin pa'i theg pa'i bsgom pa'i rim pa'i man ngag (pāramitāyana bhāvanā kramopadeśa).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB3NA",
     "revision_id": "62633bc1676ee8d294473",
     "content_hash": "bf5b11d241f0d8d6867ba70c7bfb8f282215d23a6788bd9277653958467a79c7",
     "server_modified": "2024-11-06 00:38:21",
-    "last_sync": "2024-11-13 01:58:09.661342+00:00",
+    "last_sync": "2024-11-20 03:59:02.401428",
     "size": 19480,
+    "meta_text": null,
     "cat_ref": "TD03922",
     "work_ref": "W.TD03922",
-    "title_tib": "PHA ROL TU PHYIN PA'I THEG PA'I BSGOM PA'I RIM PA'I MAN NGAG",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "173482998053",
-            "subject_path": "TENGYUR_TENGYUR/04 DBU MA_Middle Way School (Madhyamaka)/VOL 15 (KI)",
-            "subject_path_tibetan": "TENGYUR/DBU MA/15 (KI)",
-            "subject_path_english": "TENGYUR/Middle Way School (Madhyamaka)/VOL 15 (KI)",
-            "subject_tibetan": "15 (KI)",
-            "subject_english": "VOL 15 (KI)"
+            "_id": "330936115974",
+            "subject_path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 15 (KI)",
+            "subject_path_tibetan": "BSTAN 'GYUR/04 DBU MA/VOL 15 (KI)",
+            "subject_path_english": "Tengyur/Middle Way School (Madhyamaka)",
+            "subject_tibetan": "VOL 15 (KI)",
+            "subject_english": "Middle Way School (Madhyamaka)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Pāramitāyana Bhāvanā Kramopadeśa",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 15 (KI)",
+            "timestamp": "2024-11-20 11:59:02.430866+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:58:09.667156+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T11:59:02.430866+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/04 DBU MA_Middle Way School (Madhyamaka)/VOL 15 (KI)",
-            "timestamp": "2024-11-13 01:58:09.667156+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

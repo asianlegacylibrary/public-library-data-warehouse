@@ -1,12 +1,12 @@
 {
     "name": "S05888M_MKHYEN RAB DBANG PHYUG GRAGS PA BZANG PO'I RNAM THAR MDOR BSDUS_A Brief Biography of that Lord of Highest Knowledge, Drakpa Sangpo_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662).TXT",
-    "path": "rnam thar_biographies/mtsan thog_by person's name/dbang phyug grags pa bzang po_wangchuk drakpa sangpo",
-    "download_path": "/sungbum updated 4 26 23 bk/rnam thar_biographies/mtsan thog_by person's name/dbang phyug grags pa bzang po_wangchuk drakpa sangpo/s05888m_mkhyen rab dbang phyug grags pa bzang po'i rnam thar mdor bsdus_a brief biography of that lord of highest knowledge, drakpa sangpo_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAXAA",
-    "revision_id": "613f666d20a1c8d294473",
+    "path": "RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/DBANG PHYUG GRAGS PA BZANG PO_WANGCHUK DRAKPA SANGPO",
+    "download_path": "/sungbum updated 7 30 23 nl/rnam thar_biographies/mtsan thog_by person's name/dbang phyug grags pa bzang po_wangchuk drakpa sangpo/s05888m_mkhyen rab dbang phyug grags pa bzang po'i rnam thar mdor bsdus_a brief biography of that lord of highest knowledge, drakpa sangpo_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABgfw",
+    "revision_id": "625a4a2776c6d8d294473",
     "content_hash": "f8ee3d756f074fdc5d75807a5e25b7ea3c5de445c4db939f1a7776e463c080ec",
-    "server_modified": "2024-03-18T21:54:28",
-    "last_sync": "2024-09-09T19:24:21.447088",
+    "server_modified": "2024-10-29 21:54:50",
+    "last_sync": "2024-11-19 21:16:26.666379",
     "size": 13274,
     "meta_text": null,
     "cat_ref": "S05888M",
@@ -19,10 +19,10 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "313836966855",
-            "subject_path": "SUNGBUM_SUNGBUM/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/DBANG PHYUG GRAGS PA BZANG PO_WANGCHUK DRAKPA SANGPO",
-            "subject_path_tibetan": "SUNGBUM/RNAM THAR/MTSAN THOG/DBANG PHYUG GRAGS PA BZANG PO",
-            "subject_path_english": "SUNGBUM/BIOGRAPHIES/BY PERSON'S NAME/WANGCHUK DRAKPA SANGPO",
+            "_id": "260751871290",
+            "subject_path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/DBANG PHYUG GRAGS PA BZANG PO_WANGCHUK DRAKPA SANGPO",
+            "subject_path_tibetan": "GSUNG 'BUM/RNAM THAR/MTSAN THOG/DBANG PHYUG GRAGS PA BZANG PO",
+            "subject_path_english": "Sungbum/BIOGRAPHIES/BY PERSON'S NAME/WANGCHUK DRAKPA SANGPO",
             "subject_tibetan": "DBANG PHYUG GRAGS PA BZANG PO",
             "subject_english": "WANGCHUK DRAKPA SANGPO"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rnam thar_biographies/mtsan thog_by person's name/dbang phyug grags pa bzang po_wangchuk drakpa sangpo",
-            "timestamp": "2024-09-10T02:24:21.454615+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/DBANG PHYUG GRAGS PA BZANG PO_WANGCHUK DRAKPA SANGPO",
+            "timestamp": "2024-11-20 05:16:26.670424+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:16:26.670424+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

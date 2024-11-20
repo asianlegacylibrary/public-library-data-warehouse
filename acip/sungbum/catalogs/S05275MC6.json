@@ -1,12 +1,12 @@
 {
     "name": "S05275MC6_BSTAN PA RIN PO CHE LA GCES SPRAS SU MDZAD PA RNAMS KYI KHRIMS SU BCA' BA CHUNG BA_Rules of Conduct composed for those who Cherish the Precious Teachings_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419).TXT",
-    "path": "'dul ba_vowed morality (vinaya)/bca' khrims _monastic codes",
-    "download_path": "/sungbum updated 4 26 23 bk/'dul ba_vowed morality (vinaya)/bca' khrims _monastic codes/s05275mc6_bstan pa rin po che la gces spras su mdzad pa rnams kyi khrims su bca' ba chung ba_rules of conduct composed for those who cherish the precious teachings_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAC_A",
-    "revision_id": "613f663ffc7ef8d294473",
+    "path": "'DUL BA_VOWED MORALITY (VINAYA)/BCA' KHRIMS _MONASTIC CODES",
+    "download_path": "/sungbum updated 7 30 23 nl/'dul ba_vowed morality (vinaya)/bca' khrims _monastic codes/s05275mc6_bstan pa rin po che la gces spras su mdzad pa rnams kyi khrims su bca' ba chung ba_rules of conduct composed for those who cherish the precious teachings_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABfHQ",
+    "revision_id": "625a49dfd439d8d294473",
     "content_hash": "996df0031898abdeea9aa8574abcff7068153939c5a4179e754be8bcb965cf57",
-    "server_modified": "2024-03-18T21:53:40",
-    "last_sync": "2024-09-09T19:04:17.643371",
+    "server_modified": "2024-10-29 21:53:35",
+    "last_sync": "2024-11-19 21:13:42.765488",
     "size": 6703,
     "meta_text": null,
     "cat_ref": "S05275MC6",
@@ -19,10 +19,10 @@
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "252366934899",
-            "subject_path": "SUNGBUM_SUNGBUM/'DUL BA_VOWED MORALITY (VINAYA)/BCA' KHRIMS _MONASTIC CODES",
-            "subject_path_tibetan": "SUNGBUM/'DUL BA/BCA' KHRIMS ",
-            "subject_path_english": "SUNGBUM/VOWED MORALITY (VINAYA)/MONASTIC CODES",
+            "_id": "182172746169",
+            "subject_path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/BCA' KHRIMS _MONASTIC CODES",
+            "subject_path_tibetan": "GSUNG 'BUM/'DUL BA/BCA' KHRIMS ",
+            "subject_path_english": "Sungbum/VOWED MORALITY (VINAYA)/MONASTIC CODES",
             "subject_tibetan": "BCA' KHRIMS ",
             "subject_english": "MONASTIC CODES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "'dul ba_vowed morality (vinaya)/bca' khrims _monastic codes",
-            "timestamp": "2024-09-10T02:04:17.661380+00:00"
+            "path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/BCA' KHRIMS _MONASTIC CODES",
+            "timestamp": "2024-11-20 05:13:42.770034+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:13:42.770034+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

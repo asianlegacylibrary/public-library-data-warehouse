@@ -1,12 +1,12 @@
 {
     "name": "S05306E_BZHI BRGYA LNGA BCU PA'I SKOR GYI ZIN BRIS GNANG BA_Notes Granted concerning the Ritual for a Secret World entitled 'The Four Hundred and Fifty'_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419).TXT",
-    "path": "rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/dkyil 'khor_secret world (mandala)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/dkyil 'khor_secret world (mandala)/s05306e_bzhi brgya lnga bcu pa'i skor gyi zin bris gnang ba_notes granted concerning the ritual for a secret world entitled 'the four hundred and fifty'_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAARNw",
-    "revision_id": "613f665fcd6bc8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/DKYIL 'KHOR_SECRET WORLD (MANDALA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/dkyil 'khor_secret world (mandala)/s05306e_bzhi brgya lnga bcu pa'i skor gyi zin bris gnang ba_notes granted concerning the ritual for a secret world entitled 'the four hundred and fifty'_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABbmA",
+    "revision_id": "625a4957ab8138d294473",
     "content_hash": "6384b9ac802d13e7a9307a4969b3b274838eba44bad0d1d2e5ed27190d465e71",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:18:51.142460",
+    "server_modified": "2024-10-29 21:51:12",
+    "last_sync": "2024-11-19 21:07:21.422477",
     "size": 14024,
     "meta_text": null,
     "cat_ref": "S05306E",
@@ -19,10 +19,10 @@
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "173540359271",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/DKYIL 'KHOR_SECRET WORLD (MANDALA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/GSANG 'DUS/DKYIL 'KHOR",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/SECRET COLLECTION (GUHYASAMAJA)/SECRET WORLD (MANDALA)",
+            "_id": "945137803798",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/DKYIL 'KHOR_SECRET WORLD (MANDALA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/GSANG 'DUS/DKYIL 'KHOR",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/SECRET COLLECTION (GUHYASAMAJA)/SECRET WORLD (MANDALA)",
             "subject_tibetan": "DKYIL 'KHOR",
             "subject_english": "SECRET WORLD (MANDALA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/dkyil 'khor_secret world (mandala)",
-            "timestamp": "2024-09-10T02:18:51.156123+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/DKYIL 'KHOR_SECRET WORLD (MANDALA)",
+            "timestamp": "2024-11-20 05:07:22.082397+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:07:22.082397+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

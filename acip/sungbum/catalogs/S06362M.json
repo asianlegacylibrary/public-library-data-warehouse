@@ -1,12 +1,12 @@
 {
     "name": "S06362M_'DUL BA'I SKOR KHA SHAS PHYOGS GCIG TU BSGRIGS PA_Collection of Writings on a Number of Points in the Teachings on Discipline_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "'dul ba_vowed morality (vinaya)/spyi_general presentations/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)",
-    "download_path": "/sungbum updated 4 26 23 bk/'dul ba_vowed morality (vinaya)/spyi_general presentations/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)/s06362m_'dul ba'i skor kha shas phyogs gcig tu bsgrigs pa_collection of writings on a number of points in the teachings on discipline_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAADTg",
-    "revision_id": "613f663ffc8418d294473",
+    "path": "'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
+    "download_path": "/sungbum updated 7 30 23 nl/'dul ba_vowed morality (vinaya)/spyi_general presentations/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)/s06362m_'dul ba'i skor kha shas phyogs gcig tu bsgrigs pa_collection of writings on a number of points in the teachings on discipline_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABfDg",
+    "revision_id": "625a49dc8bfa08d294473",
     "content_hash": "cdd63618b378cc44b4bf589511f37747476298bbb3b4cfbcd812a12068d20cad",
-    "server_modified": "2024-03-18T21:53:40",
-    "last_sync": "2024-09-09T19:04:35.977078",
+    "server_modified": "2024-10-29 21:53:32",
+    "last_sync": "2024-11-19 21:13:37.386528",
     "size": 26749,
     "meta_text": null,
     "cat_ref": "S06362M",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "261519637094",
-            "subject_path": "SUNGBUM_SUNGBUM/'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
-            "subject_path_tibetan": "SUNGBUM/'DUL BA/SPYI/DNGUL CHU DHARMA BHADRA",
-            "subject_path_english": "SUNGBUM/VOWED MORALITY (VINAYA)/GENERAL PRESENTATIONS/NGULCHU DHARMA BHADRA (1772-1851)",
+            "_id": "238119207026",
+            "subject_path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "GSUNG 'BUM/'DUL BA/SPYI/DNGUL CHU DHARMA BHADRA",
+            "subject_path_english": "Sungbum/VOWED MORALITY (VINAYA)/GENERAL PRESENTATIONS/NGULCHU DHARMA BHADRA (1772-1851)",
             "subject_tibetan": "DNGUL CHU DHARMA BHADRA",
             "subject_english": "NGULCHU DHARMA BHADRA (1772-1851)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "'dul ba_vowed morality (vinaya)/spyi_general presentations/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)",
-            "timestamp": "2024-09-10T02:04:35.991687+00:00"
+            "path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
+            "timestamp": "2024-11-20 05:13:38.742210+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:13:38.742210+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

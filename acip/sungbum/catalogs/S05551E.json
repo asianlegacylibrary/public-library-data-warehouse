@@ -1,28 +1,28 @@
 {
     "name": "S05551E_RJE BTZUN THAMS CAD MKHYEN PA'I GSUNG 'BUM THOR BU LAS DPAL RDO RJE 'JIGS BYED KYI RIM PA DANG PO'I LAM LA SLOB PA'I TSUL BSKYED RIM GSAL BA'I SGRON ME_The Lamp that Illuminates the Creation Stage--How to Train Oneself in the Path of the Firs+.txt",
-    "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/bskyed rim_creation stage (utpatti krama)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/bskyed rim_creation stage (utpatti krama)/s05551e_rje btzun thams cad mkhyen pa'i gsung 'bum thor bu las dpal rdo rje 'jigs byed kyi rim pa dang po'i lam la slob pa'i tsul bskyed rim gsal ba'i sgron me_the lamp that illuminates the creation stage--how to train oneself in the path of the firs+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAMqQ",
-    "revision_id": "613f6656ded7a8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/BSKYED RIM_CREATION STAGE (UTPATTI KRAMA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/bskyed rim_creation stage (utpatti krama)/s05551e_rje btzun thams cad mkhyen pa'i gsung 'bum thor bu las dpal rdo rje 'jigs byed kyi rim pa dang po'i lam la slob pa'i tsul bskyed rim gsal ba'i sgron me_the lamp that illuminates the creation stage--how to train oneself in the path of the firs+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABeDQ",
+    "revision_id": "625a49b2170b78d294473",
     "content_hash": "afa64d4c7c822788fe684d764981c59ebc66c8172b371e5dd421da5303ec1c00",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:14:00.193996",
+    "server_modified": "2024-10-29 21:52:47",
+    "last_sync": "2024-11-19 21:11:46.821054",
     "size": 79277,
-    "meta_text": null,
+    "meta_text": "(\"t Stage of the Practice of the Glorious Diamond Frightener, from Assorted Writings found in the Collected Works of the Holy and Omniscient One_RGYAL BA DGE 'DUN RGYA MTSO (1476-1542)\", 'text')",
     "cat_ref": "S05551E",
     "work_ref": "W.S05551E",
     "title_tib": "RJE BTZUN THAMS CAD MKHYEN PA'I GSUNG 'BUM THOR BU LAS DPAL RDO RJE 'JIGS BYED KYI RIM PA DANG PO'I LAM LA SLOB PA'I TSUL BSKYED RIM GSAL BA'I SGRON ME",
-    "title_eng": "The Lamp that Illuminates the Creation Stage--How to Train Oneself in the Path of the Firs",
+    "title_eng": "The Lamp that Illuminates the Creation Stage--How to Train Oneself in the Path of the Firs(\"t Stage of the Practice of the Glorious Diamond Frightener, from Assorted Writings found in the Collected Works of the Holy and Omniscient One",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
-    "author_simple": "",
+    "author_simple": "RGYAL BA DGE 'DUN RGYA MTSO",
     "subject": [
         {
-            "_id": "176862413886",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/BSKYED RIM_CREATION STAGE (UTPATTI KRAMA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/'JIGS BYED/BSKYED RIM",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/CREATION STAGE (UTPATTI KRAMA)",
+            "_id": "259229784926",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/BSKYED RIM_CREATION STAGE (UTPATTI KRAMA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/'JIGS BYED/BSKYED RIM",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/CREATION STAGE (UTPATTI KRAMA)",
             "subject_tibetan": "BSKYED RIM",
             "subject_english": "CREATION STAGE (UTPATTI KRAMA)"
         }
@@ -30,16 +30,24 @@
     "items": [],
     "author": [
         {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
+            "author_name": "RGYAL BA DGE 'DUN RGYA MTSO",
+            "author_birth": "1476",
+            "author_death": "1542"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/bskyed rim_creation stage (utpatti krama)",
-            "timestamp": "2024-09-10T02:14:00.199279+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/BSKYED RIM_CREATION STAGE (UTPATTI KRAMA)",
+            "timestamp": "2024-11-20 05:11:49.763260+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:11:49.763260+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

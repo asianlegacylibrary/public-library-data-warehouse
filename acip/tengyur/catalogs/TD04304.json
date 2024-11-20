@@ -1,45 +1,53 @@
 {
     "name": "TD04304_SDEB SBYOR RIN CHEN 'BYUNG GNAS ZHES BYA BA (Candoratnākara).txt",
-    "path": "TENGYUR_TENGYUR/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 4 (SE)",
+    "path": "12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 4 (SE)",
     "download_path": "/tengyur updated 10 31 24 ws/12 sgra mdo_study of sanskrit language (śabda)/vol 4 (se)/td04304_sdeb sbyor rin chen 'byung gnas zhes bya ba (candoratnākara).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACD9w",
     "revision_id": "62633e06050768d294473",
     "content_hash": "43dfe931e12cc834cd3363f3368618834545be3896f6fa477026566a9296dcce",
     "server_modified": "2024-11-06 00:48:29",
-    "last_sync": "2024-11-13 02:00:17.159312+00:00",
+    "last_sync": "2024-11-20 04:01:19.486318",
     "size": 81031,
+    "meta_text": null,
     "cat_ref": "TD04304",
     "work_ref": "W.TD04304",
-    "title_tib": "SDEB SBYOR RIN CHEN 'BYUNG GNAS ZHES BYA BA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "316574165919",
-            "subject_path": "TENGYUR_TENGYUR/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 4 (SE)",
-            "subject_path_tibetan": "TENGYUR/SGRA MDO/4 (SE)",
-            "subject_path_english": "TENGYUR/Study of Sanskrit Language (Śabda)/VOL 4 (SE)",
-            "subject_tibetan": "4 (SE)",
-            "subject_english": "VOL 4 (SE)"
+            "_id": "317736870141",
+            "subject_path": "BSTAN 'GYUR_Tengyur/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 4 (SE)",
+            "subject_path_tibetan": "BSTAN 'GYUR/12 SGRA MDO/VOL 4 (SE)",
+            "subject_path_english": "Tengyur/Study of Sanskrit Language (Śabda)",
+            "subject_tibetan": "VOL 4 (SE)",
+            "subject_english": "Study of Sanskrit Language (Śabda)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Candoratnākara",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 4 (SE)",
+            "timestamp": "2024-11-20 12:01:19.491871+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T02:00:17.162478+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T12:01:19.491871+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 4 (SE)",
-            "timestamp": "2024-11-13 02:00:17.162478+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

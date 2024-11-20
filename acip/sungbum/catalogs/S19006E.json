@@ -1,28 +1,28 @@
 {
     "name": "S19006E_THOG MTHA' BAR DU DGE BA'I DPAL GSANG BA 'DUS PA'I BSNYEN YIG ZUNG 'JUG CHAR 'BEBS DNGOS GRUB KYI RGYA MTSO RDZOGS LDAN SPRIN BZANG 'PHRO BA SKAL BZANG RE BA KUN SKONG_Retreat Instructions of the Glorious Secret Collection (Guhya Samaja) +.TXT",
-    "path": "rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/bsnyen pa_retreat instructions",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/bsnyen pa_retreat instructions/s19006e_thog mtha' bar du dge ba'i dpal gsang ba 'dus pa'i bsnyen yig zung 'jug char 'bebs dngos grub kyi rgya mtso rdzogs ldan sprin bzang 'phro ba skal bzang re ba kun skong_retreat instructions of the glorious secret collection (guhya samaja) +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAARLQ",
-    "revision_id": "613f665fcd6b28d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/BSNYEN PA_RETREAT INSTRUCTIONS",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/bsnyen pa_retreat instructions/s19006e_thog mtha' bar du dge ba'i dpal gsang ba 'dus pa'i bsnyen yig zung 'jug char 'bebs dngos grub kyi rgya mtso rdzogs ldan sprin bzang 'phro ba skal bzang re ba kun skong_retreat instructions of the glorious secret collection (guhya samaja) +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABbNA",
+    "revision_id": "625a4948b67548d294473",
     "content_hash": "c9692b930d696c318a282ef6710a6770705995ee3ecd08a1a3494d5d9b935d2b",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:18:46.189542",
+    "server_modified": "2024-10-29 21:50:57",
+    "last_sync": "2024-11-19 21:06:49.796653",
     "size": 105699,
-    "meta_text": "for a Virtuous Beginning, Middle and End--  Clouds of Completion which Send Down the Rain of the Union of the Two into the Ocean of Attainments, Fulfilling the Hopes of the Fortunate_'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS (1648-1721)",
+    "meta_text": "(\"for a Virtuous Beginning, Middle and End--  Clouds of Completion which Send Down the Rain of the Union of the Two into the Ocean of Attainments, Fulfilling the Hopes of the Fortunate_'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS (1648-1721)\", 'rtf')",
     "cat_ref": "S19006E",
     "work_ref": "W.S19006E",
     "title_tib": "THOG MTHA' BAR DU DGE BA'I DPAL GSANG BA 'DUS PA'I BSNYEN YIG ZUNG 'JUG CHAR 'BEBS DNGOS GRUB KYI RGYA MTSO RDZOGS LDAN SPRIN BZANG 'PHRO BA SKAL BZANG RE BA KUN SKONG",
-    "title_eng": "Retreat Instructions of the Glorious Secret Collection (Guhya Samaja)for a Virtuous Beginning, Middle and End--  Clouds of Completion which Send Down the Rain of the Union of the Two into the Ocean of Attainments, Fulfilling the Hopes of the Fortunate",
+    "title_eng": "Retreat Instructions of the Glorious Secret Collection (Guhya Samaja)(\"for a Virtuous Beginning, Middle and End--  Clouds of Completion which Send Down the Rain of the Union of the Two into the Ocean of Attainments, Fulfilling the Hopes of the Fortunate",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS",
     "subject": [
         {
-            "_id": "121019355216",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/BSNYEN PA_RETREAT INSTRUCTIONS",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/GSANG 'DUS/BSNYEN PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/SECRET COLLECTION (GUHYASAMAJA)/RETREAT INSTRUCTIONS",
+            "_id": "303860706749",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/BSNYEN PA_RETREAT INSTRUCTIONS",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/GSANG 'DUS/BSNYEN PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/SECRET COLLECTION (GUHYASAMAJA)/RETREAT INSTRUCTIONS",
             "subject_tibetan": "BSNYEN PA",
             "subject_english": "RETREAT INSTRUCTIONS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P423"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/bsnyen pa_retreat instructions",
-            "timestamp": "2024-09-10T02:18:46.193384+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/BSNYEN PA_RETREAT INSTRUCTIONS",
+            "timestamp": "2024-11-20 05:06:49.802927+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:06:49.802927+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "rtf"
 }

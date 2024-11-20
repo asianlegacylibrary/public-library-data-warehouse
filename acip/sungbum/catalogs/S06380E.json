@@ -1,28 +1,28 @@
 {
     "name": "S06380E_BLA MA YI DAM CHOS SRUNG GI GTOR 'BUL DANG GSER SKYEMS MCHOD 'PHRIN RNAMS PHYOGS GCIG TU BSGRIGS PA_ Collection of Works on the Sacred Activities of Offering Torma Cakes and the Golden Beverage to the Lamas, Close Angels, and Dharma Protecto+.TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/gtor ma_offering cake (bali)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/gtor ma_offering cake (bali)/s06380e_bla ma yi dam chos srung gi gtor 'bul dang gser skyems mchod 'phrin rnams phyogs gcig tu bsgrigs pa_ collection of works on the sacred activities of offering torma cakes and the golden beverage to the lamas, close angels, and dharma protecto+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAANng",
-    "revision_id": "613f6656dee6f8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/GTOR MA_OFFERING CAKE (BALI)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyi_general treatments/gtor ma_offering cake (bali)/s06380e_bla ma yi dam chos srung gi gtor 'bul dang gser skyems mchod 'phrin rnams phyogs gcig tu bsgrigs pa_ collection of works on the sacred activities of offering torma cakes and the golden beverage to the lamas, close angels, and dharma protecto+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABZZw",
+    "revision_id": "625a4905c50938d294473",
     "content_hash": "f72601a87541690d43e28031230a2057f25cfddfcd0207b9109b760c6c74708f",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:15:07.742737",
+    "server_modified": "2024-10-29 21:49:47",
+    "last_sync": "2024-11-19 21:03:58.393299",
     "size": 49846,
-    "meta_text": "rs_DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "meta_text": "('rs_DNGUL CHU DHARMA BHADRA (1772-1851)', 'rtf')",
     "cat_ref": "S06380E",
     "work_ref": "W.S06380E",
     "title_tib": "BLA MA YI DAM CHOS SRUNG GI GTOR 'BUL DANG GSER SKYEMS MCHOD 'PHRIN RNAMS PHYOGS GCIG TU BSGRIGS PA",
-    "title_eng": "Collection of Works on the Sacred Activities of Offering Torma Cakes and the Golden Beverage to the Lamas, Close Angels, and Dharma Protectors",
+    "title_eng": "Collection of Works on the Sacred Activities of Offering Torma Cakes and the Golden Beverage to the Lamas, Close Angels, and Dharma Protecto('rs",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "543190042798",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/GTOR MA_OFFERING CAKE (BALI)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/GTOR MA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/OFFERING CAKE (BALI)",
+            "_id": "102816338586",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/GTOR MA_OFFERING CAKE (BALI)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/GTOR MA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/OFFERING CAKE (BALI)",
             "subject_tibetan": "GTOR MA",
             "subject_english": "OFFERING CAKE (BALI)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/gtor ma_offering cake (bali)",
-            "timestamp": "2024-09-10T02:15:07.798768+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/GTOR MA_OFFERING CAKE (BALI)",
+            "timestamp": "2024-11-20 05:04:02.185549+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:04:02.185549+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

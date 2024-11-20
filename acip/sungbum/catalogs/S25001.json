@@ -1,12 +1,12 @@
 {
     "name": "S25001_YID DANG KUN GZHI'I RTZA BA'I MCHAN 'GREL_The Golden Key, An Annotated Commentary to the Root Text of Negative Consciousness and Foundation Consciousness_BLO BZANG 'JIGS MED RIG PA'I RAL GRI (c. 1875).txt",
-    "path": "sems tzam_mind-only school (chittamatra)/kun gzhi'i rnam par shes (alaya vijnana)_foundation consciousness/blo bzang 'jig med rig pa'i ral gri (c.1875)",
-    "download_path": "/sungbum updated 4 26 23 bk/sems tzam_mind-only school (chittamatra)/kun gzhi'i rnam par shes (alaya vijnana)_foundation consciousness/blo bzang 'jig med rig pa'i ral gri (c.1875)/s25001_yid dang kun gzhi'i rtza ba'i mchan 'grel_the golden key, an annotated commentary to the root text of negative consciousness and foundation consciousness_blo bzang 'jigs med rig pa'i ral gri (c. 1875).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAXdA",
-    "revision_id": "613f666d20a908d294473",
+    "path": "SEMS TZAM_MIND-ONLY SCHOOL (CHITTAMATRA)/KUN GZHI'I RNAM PAR SHES (ALAYA VIJNANA)_FOUNDATION CONSCIOUSNESS/BLO BZANG 'JIG MED RIG PA'I RAL GRI (c.1875)",
+    "download_path": "/sungbum updated 7 30 23 nl/sems tzam_mind-only school (chittamatra)/kun gzhi'i rnam par shes (alaya vijnana)_foundation consciousness/blo bzang 'jig med rig pa'i ral gri (c.1875)/s25001_yid dang kun gzhi'i rtza ba'i mchan 'grel_the golden key, an annotated commentary to the root text of negative consciousness and foundation consciousness_blo bzang 'jigs med rig pa'i ral gri (c. 1875).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABPtA",
+    "revision_id": "625a47a26a0f58d294473",
     "content_hash": "f59457eb0f39ccae99ca3396e985d07d5229d2121609e136f944865d0ae46a43",
-    "server_modified": "2024-03-18T21:54:28",
-    "last_sync": "2024-09-09T19:24:45.834157",
+    "server_modified": "2024-10-29 21:43:34",
+    "last_sync": "2024-11-19 20:48:25.789844",
     "size": 37215,
     "meta_text": null,
     "cat_ref": "S25001",
@@ -19,11 +19,11 @@
     "author_simple": "BLO BZANG ''JIGS MED RIG PA'I RAL GRI",
     "subject": [
         {
-            "_id": "144312422082",
-            "subject_path": "SUNGBUM_SUNGBUM/SEMS TZAM_MIND-ONLY SCHOOL (CHITTAMATRA)/KUN GZHI'I RNAM PAR SHES (ALAYA VIJNANA)_FOUNDATION CONSCIOUSNESS/BLO BZANG 'JIG MED RIG PA'I RAL GRI (C.1875)",
-            "subject_path_tibetan": "SUNGBUM/SEMS TZAM/KUN GZHI'I RNAM PAR SHES (ALAYA VIJNANA)/BLO BZANG 'JIG MED RIG PA'I RAL GRI (C.1875)",
-            "subject_path_english": "SUNGBUM/MIND-ONLY SCHOOL (CHITTAMATRA)/FOUNDATION CONSCIOUSNESS",
-            "subject_tibetan": "BLO BZANG 'JIG MED RIG PA'I RAL GRI (C.1875)",
+            "_id": "151735649301",
+            "subject_path": "GSUNG 'BUM_Sungbum/SEMS TZAM_MIND-ONLY SCHOOL (CHITTAMATRA)/KUN GZHI'I RNAM PAR SHES (ALAYA VIJNANA)_FOUNDATION CONSCIOUSNESS/BLO BZANG 'JIG MED RIG PA'I RAL GRI (c.1875)",
+            "subject_path_tibetan": "GSUNG 'BUM/SEMS TZAM/KUN GZHI'I RNAM PAR SHES (ALAYA VIJNANA)/BLO BZANG 'JIG MED RIG PA'I RAL GRI (c.1875)",
+            "subject_path_english": "Sungbum/MIND-ONLY SCHOOL (CHITTAMATRA)/FOUNDATION CONSCIOUSNESS",
+            "subject_tibetan": "BLO BZANG 'JIG MED RIG PA'I RAL GRI (c.1875)",
             "subject_english": "FOUNDATION CONSCIOUSNESS"
         }
     ],
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P2968"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "sems tzam_mind-only school (chittamatra)/kun gzhi'i rnam par shes (alaya vijnana)_foundation consciousness/blo bzang 'jig med rig pa'i ral gri (c.1875)",
-            "timestamp": "2024-09-10T02:24:45.841685+00:00"
+            "path": "GSUNG 'BUM_Sungbum/SEMS TZAM_MIND-ONLY SCHOOL (CHITTAMATRA)/KUN GZHI'I RNAM PAR SHES (ALAYA VIJNANA)_FOUNDATION CONSCIOUSNESS/BLO BZANG 'JIG MED RIG PA'I RAL GRI (c.1875)",
+            "timestamp": "2024-11-20 04:48:25.794317+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:48:25.794317+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

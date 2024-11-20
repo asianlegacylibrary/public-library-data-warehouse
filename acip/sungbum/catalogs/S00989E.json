@@ -1,12 +1,12 @@
 {
     "name": "S00989E_DUS TSIGS KYI MCHAN 'GREL DKA' GNAD SGO BRGYA 'BYED PA'I LDE MIG_'The Key for Opening a Million Doors,' being an Annotated Commentary on Difficult Points concerning the Seasons of the Year_CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN (1806-@).TXT",
-    "path": "'dul ba_vowed morality (vinaya)/spyi_general presentations/chos rje khal kha ngag dbang dpal ldan_chuje kalka ngawang pelden (1806-?)",
-    "download_path": "/sungbum updated 4 26 23 bk/'dul ba_vowed morality (vinaya)/spyi_general presentations/chos rje khal kha ngag dbang dpal ldan_chuje kalka ngawang pelden (1806-?)/s00989e_dus tsigs kyi mchan 'grel dka' gnad sgo brgya 'byed pa'i lde mig_'the key for opening a million doors,' being an annotated commentary on difficult points concerning the seasons of the year_chos rje khal kha ngag dbang dpal ldan (1806-@).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAADCA",
-    "revision_id": "613f663ffc7fb8d294473",
+    "path": "'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN_CHUJE KALKA NGAWANG PELDEN (1806-?)",
+    "download_path": "/sungbum updated 7 30 23 nl/'dul ba_vowed morality (vinaya)/spyi_general presentations/chos rje khal kha ngag dbang dpal ldan_chuje kalka ngawang pelden (1806-?)/s00989e_dus tsigs kyi mchan 'grel dka' gnad sgo brgya 'byed pa'i lde mig_'the key for opening a million doors,' being an annotated commentary on difficult points concerning the seasons of the year_chos rje khal kha ngag dbang dpal ldan (1806-@).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABekw",
+    "revision_id": "625a49c0f959d8d294473",
     "content_hash": "fb2fc5cfbaab75a5286fd7883d23bb99d1e815911b697649316c740de45d1cf8",
-    "server_modified": "2024-03-18T21:53:40",
-    "last_sync": "2024-09-09T19:04:20.294233",
+    "server_modified": "2024-10-29 21:53:03",
+    "last_sync": "2024-11-19 21:12:50.942621",
     "size": 91502,
     "meta_text": null,
     "cat_ref": "S00989E",
@@ -19,10 +19,10 @@
     "author_simple": "CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN",
     "subject": [
         {
-            "_id": "101307704455",
-            "subject_path": "SUNGBUM_SUNGBUM/'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN_CHUJE KALKA NGAWANG PELDEN (1806-?)",
-            "subject_path_tibetan": "SUNGBUM/'DUL BA/SPYI/CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN",
-            "subject_path_english": "SUNGBUM/VOWED MORALITY (VINAYA)/GENERAL PRESENTATIONS/CHUJE KALKA NGAWANG PELDEN (1806-?)",
+            "_id": "236653559949",
+            "subject_path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN_CHUJE KALKA NGAWANG PELDEN (1806-?)",
+            "subject_path_tibetan": "GSUNG 'BUM/'DUL BA/SPYI/CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN",
+            "subject_path_english": "Sungbum/VOWED MORALITY (VINAYA)/GENERAL PRESENTATIONS/CHUJE KALKA NGAWANG PELDEN (1806-?)",
             "subject_tibetan": "CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN",
             "subject_english": "CHUJE KALKA NGAWANG PELDEN (1806-?)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P272"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "'dul ba_vowed morality (vinaya)/spyi_general presentations/chos rje khal kha ngag dbang dpal ldan_chuje kalka ngawang pelden (1806-?)",
-            "timestamp": "2024-09-10T02:04:20.303908+00:00"
+            "path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN_CHUJE KALKA NGAWANG PELDEN (1806-?)",
+            "timestamp": "2024-11-20 05:12:50.950718+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:12:50.950718+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

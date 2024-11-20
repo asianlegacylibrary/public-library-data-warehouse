@@ -1,45 +1,53 @@
 {
     "name": "TD04355_GCES PA BSDUS PA'I PHRIN YIG BOD RJE 'BANGS LA BRDZANGS PA (Bhoṭa Svāmidāsapreṣita Lekhasāra Saṃgraha).txt",
-    "path": "TENGYUR_TENGYUR/16 SNA TSOGS_Miscellany (Citritā)/VOL 1 (CO)",
+    "path": "16 SNA TSOGS_Miscellany (Citritā)/VOL 1 (CO)",
     "download_path": "/tengyur updated 10 31 24 ws/16 sna tsogs_miscellany (citritā)/vol 1 (co)/td04355_gces pa bsdus pa'i phrin yig bod rje 'bangs la brdzangs pa (bhoṭa svāmidāsapreṣita lekhasāra saṃgraha).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACEmQ",
     "revision_id": "62633e2b7c9e88d294473",
     "content_hash": "325d2476bea696c2a653614f4be543ec60483d688bb6056f3bb05926151e5516",
     "server_modified": "2024-11-06 00:49:09",
-    "last_sync": "2024-11-13 02:00:23.063548+00:00",
+    "last_sync": "2024-11-20 04:01:25.252769",
     "size": 42079,
+    "meta_text": null,
     "cat_ref": "TD04355",
     "work_ref": "W.TD04355",
-    "title_tib": "GCES PA BSDUS PA'I PHRIN YIG BOD RJE 'BANGS LA BRDZANGS PA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "145887733167",
-            "subject_path": "TENGYUR_TENGYUR/16 SNA TSOGS_Miscellany (Citritā)/VOL 1 (CO)",
-            "subject_path_tibetan": "TENGYUR/SNA TSOGS/1 (CO)",
-            "subject_path_english": "TENGYUR/Miscellany (Citritā)/VOL 1 (CO)",
-            "subject_tibetan": "1 (CO)",
-            "subject_english": "VOL 1 (CO)"
+            "_id": "198634923948",
+            "subject_path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 1 (CO)",
+            "subject_path_tibetan": "BSTAN 'GYUR/16 SNA TSOGS/VOL 1 (CO)",
+            "subject_path_english": "Tengyur/Miscellany (Citritā)",
+            "subject_tibetan": "VOL 1 (CO)",
+            "subject_english": "Miscellany (Citritā)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Bhoṭa Svāmidāsapreṣita Lekhasāra Saṃgraha",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 1 (CO)",
+            "timestamp": "2024-11-20 12:01:25.257443+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T02:00:23.065929+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T12:01:25.257443+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/16 SNA TSOGS_Miscellany (Citritā)/VOL 1 (CO)",
-            "timestamp": "2024-11-13 02:00:23.065929+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

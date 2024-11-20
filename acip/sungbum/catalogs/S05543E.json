@@ -1,12 +1,12 @@
 {
     "name": "S05543E_RJE BTZUN THAMS CAD MKHYEN PA'I GSUNG 'BUM THOR BU LAS RJE NYID KYI RNAM THAR_A Biography of [and by] the Lord Himself, from Assorted Writings found in the Collected Works of the Holy and Omniscient One_RGYAL BA DGE 'DUN RGYA MTSO (1476-1542).txt",
-    "path": "rnam thar_biographies/mtsan thog_by person's name/rgyal ba dge 'dun rgya mtso_his holiness the second dalai lama, gyalwa gendun gyatso (1476-1542)",
-    "download_path": "/sungbum updated 4 26 23 bk/rnam thar_biographies/mtsan thog_by person's name/rgyal ba dge 'dun rgya mtso_his holiness the second dalai lama, gyalwa gendun gyatso (1476-1542)/s05543e_rje btzun thams cad mkhyen pa'i gsung 'bum thor bu las rje nyid kyi rnam thar_a biography of [and by] the lord himself, from assorted writings found in the collected works of the holy and omniscient one_rgyal ba dge 'dun rgya mtso (1476-1542).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAW8A",
-    "revision_id": "613f666d20a0c8d294473",
+    "path": "RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/RGYAL BA DGE 'DUN RGYA MTSO_HIS HOLINESS THE SECOND DALAI LAMA, GYALWA GENDUN GYATSO (1476-1542)",
+    "download_path": "/sungbum updated 7 30 23 nl/rnam thar_biographies/mtsan thog_by person's name/rgyal ba dge 'dun rgya mtso_his holiness the second dalai lama, gyalwa gendun gyatso (1476-1542)/s05543e_rje btzun thams cad mkhyen pa'i gsung 'bum thor bu las rje nyid kyi rnam thar_a biography of [and by] the lord himself, from assorted writings found in the collected works of the holy and omniscient one_rgyal ba dge 'dun rgya mtso (1476-1542).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABgPw",
+    "revision_id": "625a4a19910508d294473",
     "content_hash": "19e1d461a45b0b9142e8e17661b9d1322e4d8f4386cce4efe7053abd74dd09fa",
-    "server_modified": "2024-03-18T21:54:28",
-    "last_sync": "2024-09-09T19:24:16.941551",
+    "server_modified": "2024-10-29 21:54:36",
+    "last_sync": "2024-11-19 21:15:58.635547",
     "size": 103125,
     "meta_text": null,
     "cat_ref": "S05543E",
@@ -19,10 +19,10 @@
     "author_simple": "RGYAL BA DGE 'DUN RGYA MTSO",
     "subject": [
         {
-            "_id": "293455887695",
-            "subject_path": "SUNGBUM_SUNGBUM/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/RGYAL BA DGE 'DUN RGYA MTSO_HIS HOLINESS THE SECOND DALAI LAMA, GYALWA GENDUN GYATSO (1476-1542)",
-            "subject_path_tibetan": "SUNGBUM/RNAM THAR/MTSAN THOG/RGYAL BA DGE 'DUN RGYA MTSO",
-            "subject_path_english": "SUNGBUM/BIOGRAPHIES/BY PERSON'S NAME/HIS HOLINESS THE SECOND DALAI LAMA, GYALWA GENDUN GYATSO (1476-1542)",
+            "_id": "297389720694",
+            "subject_path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/RGYAL BA DGE 'DUN RGYA MTSO_HIS HOLINESS THE SECOND DALAI LAMA, GYALWA GENDUN GYATSO (1476-1542)",
+            "subject_path_tibetan": "GSUNG 'BUM/RNAM THAR/MTSAN THOG/RGYAL BA DGE 'DUN RGYA MTSO",
+            "subject_path_english": "Sungbum/BIOGRAPHIES/BY PERSON'S NAME/HIS HOLINESS THE SECOND DALAI LAMA, GYALWA GENDUN GYATSO (1476-1542)",
             "subject_tibetan": "RGYAL BA DGE 'DUN RGYA MTSO",
             "subject_english": "HIS HOLINESS THE SECOND DALAI LAMA, GYALWA GENDUN GYATSO (1476-1542)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P84"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rnam thar_biographies/mtsan thog_by person's name/rgyal ba dge 'dun rgya mtso_his holiness the second dalai lama, gyalwa gendun gyatso (1476-1542)",
-            "timestamp": "2024-09-10T02:24:16.949248+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/RGYAL BA DGE 'DUN RGYA MTSO_HIS HOLINESS THE SECOND DALAI LAMA, GYALWA GENDUN GYATSO (1476-1542)",
+            "timestamp": "2024-11-20 05:15:58.639298+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:15:58.639298+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

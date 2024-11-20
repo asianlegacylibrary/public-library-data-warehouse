@@ -1,45 +1,53 @@
 {
     "name": "TD04099_CHED DU BRJOD PA'I TSOMS (Udānavarga).txt",
-    "path": "TENGYUR_TENGYUR/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 10 (TU)",
+    "path": "07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 10 (TU)",
     "download_path": "/tengyur updated 10 31 24 ws/07 mngon pa_higher knowledge school (abhidharma)/vol 10 (tu)/td04099_ched du brjod pa'i tsoms (udānavarga).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB2XA",
     "revision_id": "62633b6cc09038d294473",
     "content_hash": "a82c9905d0910e891ac1db4a82791e1fe5b29f03cc5a72f94e7f4ab3e323bf37",
     "server_modified": "2024-11-06 00:36:52",
-    "last_sync": "2024-11-13 01:57:39.140687+00:00",
+    "last_sync": "2024-11-20 03:58:29.309920",
     "size": 157110,
+    "meta_text": null,
     "cat_ref": "TD04099",
     "work_ref": "W.TD04099",
-    "title_tib": "CHED DU BRJOD PA'I TSOMS",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "223273807722",
-            "subject_path": "TENGYUR_TENGYUR/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 10 (TU)",
-            "subject_path_tibetan": "TENGYUR/MNGON PA/10 (TU)",
-            "subject_path_english": "TENGYUR/Higher Knowledge School (Abhidharma)/VOL 10 (TU)",
-            "subject_tibetan": "10 (TU)",
-            "subject_english": "VOL 10 (TU)"
+            "_id": "248942456263",
+            "subject_path": "BSTAN 'GYUR_Tengyur/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 10 (TU)",
+            "subject_path_tibetan": "BSTAN 'GYUR/07 MNGON PA/VOL 10 (TU)",
+            "subject_path_english": "Tengyur/Higher Knowledge School (Abhidharma)",
+            "subject_tibetan": "VOL 10 (TU)",
+            "subject_english": "Higher Knowledge School (Abhidharma)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Udānavarga",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 10 (TU)",
+            "timestamp": "2024-11-20 11:58:29.317152+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:57:39.541871+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T11:58:29.317152+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 10 (TU)",
-            "timestamp": "2024-11-13 01:57:39.541871+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

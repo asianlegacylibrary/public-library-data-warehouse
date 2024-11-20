@@ -1,12 +1,12 @@
 {
     "name": "S19154_RNAM RIG GRUB PA'I RGYAN.txt",
-    "path": "sems tzam_mind-only school (chittamatra)/rnam rig_the world as mind",
-    "download_path": "/sungbum updated 4 26 23 bk/sems tzam_mind-only school (chittamatra)/rnam rig_the world as mind/s19154_rnam rig grub pa'i rgyan.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAXYw",
-    "revision_id": "613f666d20a7f8d294473",
+    "path": "SEMS TZAM_MIND-ONLY SCHOOL (CHITTAMATRA)/RNAM RIG_THE WORLD AS MIND",
+    "download_path": "/sungbum updated 7 30 23 nl/sems tzam_mind-only school (chittamatra)/rnam rig_the world as mind/s19154_rnam rig grub pa'i rgyan.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABPrQ",
+    "revision_id": "625a47a14cc048d294473",
     "content_hash": "43566969d1f5e7bd02488f4b269cd049dbf525880b2351911e2cc836585b67ce",
-    "server_modified": "2024-03-18T21:54:28",
-    "last_sync": "2024-09-09T19:24:41.587817",
+    "server_modified": "2024-10-29 21:43:33",
+    "last_sync": "2024-11-19 20:48:32.943453",
     "size": 49505,
     "meta_text": null,
     "cat_ref": "S19154",
@@ -19,10 +19,10 @@
     "author_simple": "",
     "subject": [
         {
-            "_id": "202802062436",
-            "subject_path": "SUNGBUM_SUNGBUM/SEMS TZAM_MIND-ONLY SCHOOL (CHITTAMATRA)/RNAM RIG_THE WORLD AS MIND",
-            "subject_path_tibetan": "SUNGBUM/SEMS TZAM/RNAM RIG",
-            "subject_path_english": "SUNGBUM/MIND-ONLY SCHOOL (CHITTAMATRA)/THE WORLD AS MIND",
+            "_id": "128534867956",
+            "subject_path": "GSUNG 'BUM_Sungbum/SEMS TZAM_MIND-ONLY SCHOOL (CHITTAMATRA)/RNAM RIG_THE WORLD AS MIND",
+            "subject_path_tibetan": "GSUNG 'BUM/SEMS TZAM/RNAM RIG",
+            "subject_path_english": "Sungbum/MIND-ONLY SCHOOL (CHITTAMATRA)/THE WORLD AS MIND",
             "subject_tibetan": "RNAM RIG",
             "subject_english": "THE WORLD AS MIND"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "sems tzam_mind-only school (chittamatra)/rnam rig_the world as mind",
-            "timestamp": "2024-09-10T02:24:41.591260+00:00"
+            "path": "GSUNG 'BUM_Sungbum/SEMS TZAM_MIND-ONLY SCHOOL (CHITTAMATRA)/RNAM RIG_THE WORLD AS MIND",
+            "timestamp": "2024-11-20 04:48:32.950418+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:48:32.950418+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

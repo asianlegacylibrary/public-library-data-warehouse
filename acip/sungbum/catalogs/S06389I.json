@@ -1,12 +1,12 @@
 {
     "name": "S06389I_BY'A KA RA nA'I RTZA BA SUM CU PA DANG, RTAGS KYI 'JUG PA GNYIS_The Two of the 'Thirty Verses' and 'Application of Sign Letters,' being the Very Root of All Classical Grammar_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "gsum rtags_grammar",
-    "download_path": "/sungbum updated 4 26 23 bk/gsum rtags_grammar/s06389i_by'a ka ra na'i rtza ba sum cu pa dang, rtags kyi 'jug pa gnyis_the two of the 'thirty verses' and 'application of sign letters,' being the very root of all classical grammar_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAACQ",
-    "revision_id": "613f663b87b528d294473",
+    "path": "GSUM RTAGS_GRAMMAR",
+    "download_path": "/sungbum updated 7 30 23 nl/gsum rtags_grammar/s06389i_by'a ka ra na'i rtza ba sum cu pa dang, rtags kyi 'jug pa gnyis_the two of the 'thirty verses' and 'application of sign letters,' being the very root of all classical grammar_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABOjA",
+    "revision_id": "625a4771e57d58d294473",
     "content_hash": "cec41579f73e1080633e9e966be1e4e4e51a67c7325d46efaf092de50aa3c0ef",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:01:04.971511",
+    "server_modified": "2024-10-29 21:42:43",
+    "last_sync": "2024-11-19 20:46:29.905963",
     "size": 7066,
     "meta_text": null,
     "cat_ref": "S06389I",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "278127590787",
-            "subject_path": "SUNGBUM_SUNGBUM/GSUM RTAGS_GRAMMAR",
-            "subject_path_tibetan": "SUNGBUM/GSUM RTAGS",
-            "subject_path_english": "SUNGBUM/GRAMMAR",
+            "_id": "289751550091",
+            "subject_path": "GSUNG 'BUM_Sungbum/GSUM RTAGS_GRAMMAR",
+            "subject_path_tibetan": "GSUNG 'BUM/GSUM RTAGS",
+            "subject_path_english": "Sungbum/GRAMMAR",
             "subject_tibetan": "GSUM RTAGS",
             "subject_english": "GRAMMAR"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "gsum rtags_grammar",
-            "timestamp": "2024-09-10T02:01:05.018869+00:00"
+            "path": "GSUNG 'BUM_Sungbum/GSUM RTAGS_GRAMMAR",
+            "timestamp": "2024-11-20 04:46:30.674355+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:46:30.674355+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

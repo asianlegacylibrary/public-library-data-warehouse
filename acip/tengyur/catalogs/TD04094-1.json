@@ -1,45 +1,53 @@
 {
     "name": "TD04094-1_CHOS MNGON PA'I MDZOD KYI 'GREL BSHAD NYE BAR MKHO BA ZHES BYA BA (Abhidharma Koṣa Ṭīka Upāyikā Nāma) .txt",
-    "path": "TENGYUR_TENGYUR/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 8 (JU)",
+    "path": "07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 8 (JU)",
     "download_path": "/tengyur updated 10 31 24 ws/07 mngon pa_higher knowledge school (abhidharma)/vol 8 (ju)/td04094-1_chos mngon pa'i mdzod kyi 'grel bshad nye bar mkho ba zhes bya ba (abhidharma koṣa ṭīka upāyikā nāma) .txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB2cw",
     "revision_id": "62633b7ece3eb8d294473",
     "content_hash": "0b552b808f2162549d95ff13d83c4f21e09228d973904e6736c33ae557e634e0",
     "server_modified": "2024-11-06 00:37:11",
-    "last_sync": "2024-11-13 01:57:42.659799+00:00",
+    "last_sync": "2024-11-20 03:58:33.400066",
     "size": 1115562,
+    "meta_text": null,
     "cat_ref": "TD04094-1",
     "work_ref": "W.TD04094-1",
-    "title_tib": "CHOS MNGON PA'I MDZOD KYI 'GREL BSHAD NYE BAR MKHO BA ZHES BYA BA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "317812664168",
-            "subject_path": "TENGYUR_TENGYUR/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 8 (JU)",
-            "subject_path_tibetan": "TENGYUR/MNGON PA/8 (JU)",
-            "subject_path_english": "TENGYUR/Higher Knowledge School (Abhidharma)/VOL 8 (JU)",
-            "subject_tibetan": "8 (JU)",
-            "subject_english": "VOL 8 (JU)"
+            "_id": "113542613080",
+            "subject_path": "BSTAN 'GYUR_Tengyur/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 8 (JU)",
+            "subject_path_tibetan": "BSTAN 'GYUR/07 MNGON PA/VOL 8 (JU)",
+            "subject_path_english": "Tengyur/Higher Knowledge School (Abhidharma)",
+            "subject_tibetan": "VOL 8 (JU)",
+            "subject_english": "Higher Knowledge School (Abhidharma)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Abhidharma Koṣa Ṭīka Upāyikā Nāma",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 8 (JU)",
+            "timestamp": "2024-11-20 11:58:33.405091+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:57:42.910252+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T11:58:33.405091+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 8 (JU)",
-            "timestamp": "2024-11-13 01:57:42.910252+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

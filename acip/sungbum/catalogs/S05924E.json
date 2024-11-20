@@ -1,28 +1,28 @@
 {
     "name": "S05924E_RGYUD SDE GNYIS PA'I GTZO BOR GYUR PA'I SNYING RJE CHEN PO'I SNYING PO CAN GYI DKYIL 'KHOR GYI CHO GA NGAG 'DON DU BSGRIGS PA_A Ritual for the Practice of the Secret World called 'The Heart of the Great-Hearted Compassionate One,' according +.TXT",
-    "path": "rgyud_secret teachings (tantra)/snying rje chen po_the one of great compassion (mahakaruna)/dkyil chog_ritual for a secret world (mandala vidhi)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/snying rje chen po_the one of great compassion (mahakaruna)/dkyil chog_ritual for a secret world (mandala vidhi)/s05924e_rgyud sde gnyis pa'i gtzo bor gyur pa'i snying rje chen po'i snying po can gyi dkyil 'khor gyi cho ga ngag 'don du bsgrigs pa_a ritual for the practice of the secret world called 'the heart of the great-hearted compassionate one,' according +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAHpw",
-    "revision_id": "613f66492f2118d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SNYING RJE CHEN PO_THE ONE OF GREAT COMPASSION (MAHAKARUNA)/DKYIL CHOG_RITUAL FOR A SECRET WORLD (MANDALA VIDHI)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/snying rje chen po_the one of great compassion (mahakaruna)/dkyil chog_ritual for a secret world (mandala vidhi)/s05924e_rgyud sde gnyis pa'i gtzo bor gyur pa'i snying rje chen po'i snying po can gyi dkyil 'khor gyi cho ga ngag 'don du bsgrigs pa_a ritual for the practice of the secret world called 'the heart of the great-hearted compassionate one,' according +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABUUA",
+    "revision_id": "625a4862b085c8d294473",
     "content_hash": "df10ce17bfa8595ee336fa7edd0a830da6286a1c869a856d8367755fe4d7af52",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:08:42.309705",
+    "server_modified": "2024-10-29 21:46:56",
+    "last_sync": "2024-11-19 20:55:24.544461",
     "size": 53809,
-    "meta_text": "Primarily to the Second Class of the Secret Teachings, and Arranged for Recitation_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)",
+    "meta_text": "('Primarily to the Second Class of the Secret Teachings, and Arranged for Recitation_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)', 'rtf')",
     "cat_ref": "S05924E",
     "work_ref": "W.S05924E",
     "title_tib": "RGYUD SDE GNYIS PA'I GTZO BOR GYUR PA'I SNYING RJE CHEN PO'I SNYING PO CAN GYI DKYIL 'KHOR GYI CHO GA NGAG 'DON DU BSGRIGS PA",
-    "title_eng": "A Ritual for the Practice of the Secret World called 'The Heart of the Great-Hearted Compassionate One,' accordingPrimarily to the Second Class of the Secret Teachings, and Arranged for Recitation",
+    "title_eng": "A Ritual for the Practice of the Secret World called 'The Heart of the Great-Hearted Compassionate One,' according('Primarily to the Second Class of the Secret Teachings, and Arranged for Recitation",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "282786451674",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SNYING RJE CHEN PO_THE ONE OF GREAT COMPASSION (MAHAKARUNA)/DKYIL CHOG_RITUAL FOR A SECRET WORLD (MANDALA VIDHI)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SNYING RJE CHEN PO/DKYIL CHOG",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/THE ONE OF GREAT COMPASSION (MAHAKARUNA)/RITUAL FOR A SECRET WORLD (MANDALA VIDHI)",
+            "_id": "228433866292",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SNYING RJE CHEN PO_THE ONE OF GREAT COMPASSION (MAHAKARUNA)/DKYIL CHOG_RITUAL FOR A SECRET WORLD (MANDALA VIDHI)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SNYING RJE CHEN PO/DKYIL CHOG",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/THE ONE OF GREAT COMPASSION (MAHAKARUNA)/RITUAL FOR A SECRET WORLD (MANDALA VIDHI)",
             "subject_tibetan": "DKYIL CHOG",
             "subject_english": "RITUAL FOR A SECRET WORLD (MANDALA VIDHI)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/snying rje chen po_the one of great compassion (mahakaruna)/dkyil chog_ritual for a secret world (mandala vidhi)",
-            "timestamp": "2024-09-10T02:08:42.316647+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SNYING RJE CHEN PO_THE ONE OF GREAT COMPASSION (MAHAKARUNA)/DKYIL CHOG_RITUAL FOR A SECRET WORLD (MANDALA VIDHI)",
+            "timestamp": "2024-11-20 04:55:24.549423+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:55:24.549423+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

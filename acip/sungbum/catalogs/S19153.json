@@ -1,12 +1,12 @@
 {
     "name": "S19153_DAM PA'I CHOS MNGON PA KUN LAS BTUS PA'I SNYING PO LEGS BSHAD NOR BU'I PHRENG BA.txt",
-    "path": "mngon pa_higher knowledge (abhidharma) (vaibhashika school)/red mda' ba gzon nu blo gros (1349-1412)",
-    "download_path": "/sungbum updated 4 26 23 bk/mngon pa_higher knowledge (abhidharma) (vaibhashika school)/red mda' ba gzon nu blo gros (1349-1412)/s19153_dam pa'i chos mngon pa kun las btus pa'i snying po legs bshad nor bu'i phreng ba.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAXJw",
-    "revision_id": "613f666d20a438d294473",
+    "path": "MNGON PA_HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)/RED MDA' BA GZON NU BLO GROS (1349-1412)",
+    "download_path": "/sungbum updated 7 30 23 nl/mngon pa_higher knowledge (abhidharma) (vaibhashika school)/red mda' ba gzon nu blo gros (1349-1412)/s19153_dam pa'i chos mngon pa kun las btus pa'i snying po legs bshad nor bu'i phreng ba.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABmEQ",
+    "revision_id": "625a4b04f03208d294473",
     "content_hash": "e8ecdb9c0052c5f5bd8128f07edcfc3cea4722b380196a6054e37ed0ac8f9137",
-    "server_modified": "2024-03-18T21:54:28",
-    "last_sync": "2024-09-09T19:24:30.213131",
+    "server_modified": "2024-10-29 21:58:43",
+    "last_sync": "2024-11-19 21:26:28.293230",
     "size": 120396,
     "meta_text": null,
     "cat_ref": "S19153",
@@ -19,10 +19,10 @@
     "author_simple": "",
     "subject": [
         {
-            "_id": "621260954913",
-            "subject_path": "SUNGBUM_SUNGBUM/MNGON PA_HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)/RED MDA' BA GZON NU BLO GROS (1349-1412)",
-            "subject_path_tibetan": "SUNGBUM/MNGON PA/RED MDA' BA GZON NU BLO GROS (1349-1412)",
-            "subject_path_english": "SUNGBUM/HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)",
+            "_id": "322614867118",
+            "subject_path": "GSUNG 'BUM_Sungbum/MNGON PA_HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)/RED MDA' BA GZON NU BLO GROS (1349-1412)",
+            "subject_path_tibetan": "GSUNG 'BUM/MNGON PA/RED MDA' BA GZON NU BLO GROS (1349-1412)",
+            "subject_path_english": "Sungbum/HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)",
             "subject_tibetan": "RED MDA' BA GZON NU BLO GROS (1349-1412)",
             "subject_english": "HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "mngon pa_higher knowledge (abhidharma) (vaibhashika school)/red mda' ba gzon nu blo gros (1349-1412)",
-            "timestamp": "2024-09-10T02:24:30.214823+00:00"
+            "path": "GSUNG 'BUM_Sungbum/MNGON PA_HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)/RED MDA' BA GZON NU BLO GROS (1349-1412)",
+            "timestamp": "2024-11-20 05:26:28.297735+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:26:28.297735+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

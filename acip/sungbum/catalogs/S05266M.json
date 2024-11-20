@@ -1,12 +1,12 @@
 {
     "name": "S05266M_RJE RIN PO CHES BA SO CHOS RJE LA GCIG BRGYUD KYI TSUL DU GNANG BA'I BLA MA'I RNAL 'BYOR_A Practice of Lama Devotion Granted Privately to Baso Choje by the Precious Lord Tsongkapa_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419).TXT",
-    "path": "nyams len_personal practice/bla ma'i rnal 'byor_practices for honoring ones lama/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/bla ma'i rnal 'byor_practices for honoring ones lama/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)/s05266m_rje rin po ches ba so chos rje la gcig brgyud kyi tsul du gnang ba'i bla ma'i rnal 'byor_a practice of lama devotion granted privately to baso choje by the precious lord tsongkapa_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAACug",
-    "revision_id": "613f663ffc7ad8d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/BLA MA'I RNAL 'BYOR_PRACTICES FOR HONORING ONES LAMA/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/bla ma'i rnal 'byor_practices for honoring ones lama/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)/s05266m_rje rin po ches ba so chos rje la gcig brgyud kyi tsul du gnang ba'i bla ma'i rnal 'byor_a practice of lama devotion granted privately to baso choje by the precious lord tsongkapa_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABjoA",
+    "revision_id": "625a4ab4d23d58d294473",
     "content_hash": "c5dfeac396ec094d59de826ebbfe4536240cfc7eb12b4c07aa17d7ffcdb8b3bf",
-    "server_modified": "2024-03-18T21:53:40",
-    "last_sync": "2024-09-09T19:04:03.983778",
+    "server_modified": "2024-10-29 21:57:19",
+    "last_sync": "2024-11-19 21:21:39.349822",
     "size": 4609,
     "meta_text": null,
     "cat_ref": "S05266M",
@@ -19,10 +19,10 @@
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "163837727458",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/BLA MA'I RNAL 'BYOR_PRACTICES FOR HONORING ONES LAMA/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/BLA MA'I RNAL 'BYOR/RJE TZONG KHA PA BLO BZANG GRAGS PA",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/PRACTICES FOR HONORING ONES LAMA/JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
+            "_id": "206181353991",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BLA MA'I RNAL 'BYOR_PRACTICES FOR HONORING ONES LAMA/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/BLA MA'I RNAL 'BYOR/RJE TZONG KHA PA BLO BZANG GRAGS PA",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/PRACTICES FOR HONORING ONES LAMA/JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
             "subject_tibetan": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
             "subject_english": "JE TSONGKAPA LOBSANG DRAKPA (1357-1419)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/bla ma'i rnal 'byor_practices for honoring ones lama/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)",
-            "timestamp": "2024-09-10T02:04:03.993204+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BLA MA'I RNAL 'BYOR_PRACTICES FOR HONORING ONES LAMA/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
+            "timestamp": "2024-11-20 05:21:39.356469+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:21:39.356469+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

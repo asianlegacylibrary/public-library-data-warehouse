@@ -1,12 +1,12 @@
 {
     "name": "S12258E_ZHAL GDAMS SNYING GI THIG LE_Heartdrop of Spiritual Advice_RJE BTZUN BLO BZANG RTA DBYANGS (1867-1937).TXT",
-    "path": "nyams len_personal practice/bslab bya_personal advices/rje btzun blo bzang rta dbyangs_jetsun lobsang ta yang (1867-1937)",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/bslab bya_personal advices/rje btzun blo bzang rta dbyangs_jetsun lobsang ta yang (1867-1937)/s12258e_zhal gdams snying gi thig le_heartdrop of spiritual advice_rje btzun blo bzang rta dbyangs (1867-1937).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAA7Q",
-    "revision_id": "613f663b87c368d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/RJE BTZUN BLO BZANG RTA DBYANGS_JETSUN LOBSANG TA YANG (1867-1937)",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/bslab bya_personal advices/rje btzun blo bzang rta dbyangs_jetsun lobsang ta yang (1867-1937)/s12258e_zhal gdams snying gi thig le_heartdrop of spiritual advice_rje btzun blo bzang rta dbyangs (1867-1937).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABiqg",
+    "revision_id": "625a4a9220c188d294473",
     "content_hash": "b7ba4e74a15e70548e00d398a54a572d8dfed6a36e076c5c1b8fbe74141c528a",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:01:58.245436",
+    "server_modified": "2024-10-29 21:56:42",
+    "last_sync": "2024-11-19 21:19:58.439754",
     "size": 12382,
     "meta_text": null,
     "cat_ref": "S12258E",
@@ -19,10 +19,10 @@
     "author_simple": "RJE BTZUN BLO BZANG RTA DBYANGS",
     "subject": [
         {
-            "_id": "196763111372",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/RJE BTZUN BLO BZANG RTA DBYANGS_JETSUN LOBSANG TA YANG (1867-1937)",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/BSLAB BYA/RJE BTZUN BLO BZANG RTA DBYANGS",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/PERSONAL ADVICES/JETSUN LOBSANG TA YANG (1867-1937)",
+            "_id": "184181576543",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/RJE BTZUN BLO BZANG RTA DBYANGS_JETSUN LOBSANG TA YANG (1867-1937)",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/BSLAB BYA/RJE BTZUN BLO BZANG RTA DBYANGS",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/PERSONAL ADVICES/JETSUN LOBSANG TA YANG (1867-1937)",
             "subject_tibetan": "RJE BTZUN BLO BZANG RTA DBYANGS",
             "subject_english": "JETSUN LOBSANG TA YANG (1867-1937)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P1638"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/bslab bya_personal advices/rje btzun blo bzang rta dbyangs_jetsun lobsang ta yang (1867-1937)",
-            "timestamp": "2024-09-10T02:01:58.246840+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/RJE BTZUN BLO BZANG RTA DBYANGS_JETSUN LOBSANG TA YANG (1867-1937)",
+            "timestamp": "2024-11-20 05:19:58.443815+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:19:58.443815+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

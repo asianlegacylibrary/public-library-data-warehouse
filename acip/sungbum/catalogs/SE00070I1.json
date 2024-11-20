@@ -1,14 +1,14 @@
 {
     "name": "SE00070I1_BDE BAR GSHEGS PA'I BSTAN PA RIN PO CHE LA 'JUG PA'I LAM GYI RIM PA RNAM PAR BSHAD PA, CHA DANG PO_An Explanation of the Steps to the Path for Entering into the Precious Teachings of Those Who Have Gone to Bliss, Part One_DGE BSHES GRO LUN+.TXT",
-    "path": "lam rim_steps of the path/bstan rim chen mo_great book on the steps of the teaching",
-    "download_path": "/sungbum updated 4 26 23 bk/lam rim_steps of the path/bstan rim chen mo_great book on the steps of the teaching/se00070i1_bde bar gshegs pa'i bstan pa rin po che la 'jug pa'i lam gyi rim pa rnam par bshad pa, cha dang po_an explanation of the steps to the path for entering into the precious teachings of those who have gone to bliss, part one_dge bshes gro lun+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAG2g",
-    "revision_id": "613f66492f1448d294473",
+    "path": "LAM RIM_STEPS OF THE PATH/BSTAN RIM CHEN MO_GREAT BOOK ON THE STEPS OF THE TEACHING",
+    "download_path": "/sungbum updated 7 30 23 nl/lam rim_steps of the path/bstan rim chen mo_great book on the steps of the teaching/se00070i1_bde bar gshegs pa'i bstan pa rin po che la 'jug pa'i lam gyi rim pa rnam par bshad pa, cha dang po_an explanation of the steps to the path for entering into the precious teachings of those who have gone to bliss, part one_dge bshes gro lun+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABh4w",
+    "revision_id": "625a4a76543998d294473",
     "content_hash": "a20a406eb9d4b2940d86b9669fab87cf17fb78249fb7d1a9fefb0a6564618b3d",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:08:00.890443",
+    "server_modified": "2024-10-29 21:56:13",
+    "last_sync": "2024-11-19 21:18:32.465737",
     "size": 1099291,
-    "meta_text": "G PA BLO GROS 'BYUNG GNAS (1100@-@)",
+    "meta_text": "(\"G PA BLO GROS 'BYUNG GNAS (1100@-@)\", 'rtf')",
     "cat_ref": "SE00070I1",
     "work_ref": "W.SE00070I1",
     "title_tib": "BDE BAR GSHEGS PA'I BSTAN PA RIN PO CHE LA 'JUG PA'I LAM GYI RIM PA RNAM PAR BSHAD PA, CHA DANG PO",
@@ -19,10 +19,10 @@
     "author_simple": "DGE BSHES GRO LUNG PA BLO GROS 'BYUNG GNAS",
     "subject": [
         {
-            "_id": "271352739315",
-            "subject_path": "SUNGBUM_SUNGBUM/LAM RIM_STEPS OF THE PATH/BSTAN RIM CHEN MO_GREAT BOOK ON THE STEPS OF THE TEACHING",
-            "subject_path_tibetan": "SUNGBUM/LAM RIM/BSTAN RIM CHEN MO",
-            "subject_path_english": "SUNGBUM/STEPS OF THE PATH/GREAT BOOK ON THE STEPS OF THE TEACHING",
+            "_id": "316850117517",
+            "subject_path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/BSTAN RIM CHEN MO_GREAT BOOK ON THE STEPS OF THE TEACHING",
+            "subject_path_tibetan": "GSUNG 'BUM/LAM RIM/BSTAN RIM CHEN MO",
+            "subject_path_english": "Sungbum/STEPS OF THE PATH/GREAT BOOK ON THE STEPS OF THE TEACHING",
             "subject_tibetan": "BSTAN RIM CHEN MO",
             "subject_english": "GREAT BOOK ON THE STEPS OF THE TEACHING"
         }
@@ -38,15 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P3447"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "lam rim_steps of the path/bstan rim chen mo_great book on the steps of the teaching",
-            "timestamp": "2024-09-10T02:08:00.932718+00:00"
-        },
-        {
-            "path": "lam rim_steps of the path/bstan rim chen mo_great book on the steps of the teaching",
-            "timestamp": "2024-09-10T02:08:00.935716+00:00"
+            "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/BSTAN RIM CHEN MO_GREAT BOOK ON THE STEPS OF THE TEACHING",
+            "timestamp": "2024-11-20 05:18:32.470453+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:18:32.470453+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

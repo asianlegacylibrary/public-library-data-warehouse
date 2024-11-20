@@ -1,12 +1,12 @@
 {
     "name": "S05275M86_TSA KHO BA MKHAN CHEN NGAG DBANG GRAGS PA'I ZHU YIG GI LAN_Epistle sent in Response to a Letter from the Great Abbot of Tsako, Ngawang Drakpa_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419).TXT",
-    "path": "nyams len_personal practice/bslab bya_personal advices/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/bslab bya_personal advices/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)/s05275m86_tsa kho ba mkhan chen ngag dbang grags pa'i zhu yig gi lan_epistle sent in response to a letter from the great abbot of tsako, ngawang drakpa_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAABSA",
-    "revision_id": "613f663b87c918d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/bslab bya_personal advices/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)/s05275m86_tsa kho ba mkhan chen ngag dbang grags pa'i zhu yig gi lan_epistle sent in response to a letter from the great abbot of tsako, ngawang drakpa_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABiiQ",
+    "revision_id": "625a4a8beb3578d294473",
     "content_hash": "4a92bcf5aab173453664a7939f79a228340d7993cb225a0da9b5c736d389f285",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:02:18.870152",
+    "server_modified": "2024-10-29 21:56:36",
+    "last_sync": "2024-11-19 21:19:51.598003",
     "size": 4126,
     "meta_text": null,
     "cat_ref": "S05275M86",
@@ -19,10 +19,10 @@
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "144145609860",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/BSLAB BYA/RJE TZONG KHA PA BLO BZANG GRAGS PA",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/PERSONAL ADVICES/JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
+            "_id": "229343495359",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/BSLAB BYA/RJE TZONG KHA PA BLO BZANG GRAGS PA",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/PERSONAL ADVICES/JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
             "subject_tibetan": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
             "subject_english": "JE TSONGKAPA LOBSANG DRAKPA (1357-1419)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/bslab bya_personal advices/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)",
-            "timestamp": "2024-09-10T02:02:18.906488+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
+            "timestamp": "2024-11-20 05:19:54.510690+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:19:54.510690+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

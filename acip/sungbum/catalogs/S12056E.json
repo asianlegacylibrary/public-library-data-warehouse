@@ -1,12 +1,12 @@
 {
     "name": "S12056E_BDUD RTZI RIL BU SGRUB TSUL_How to Make Nectar Pills_CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS (1740-1810).TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/bdud rtzi_nectar (amirta)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/bdud rtzi_nectar (amirta)/s12056e_bdud rtzi ril bu sgrub tsul_how to make nectar pills_cha har dge bshes blo bzang tsul khrims (1740-1810).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAANew",
-    "revision_id": "613f6656dee4c8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BDUD RTZI_NECTAR (AMIRTA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyi_general treatments/bdud rtzi_nectar (amirta)/s12056e_bdud rtzi ril bu sgrub tsul_how to make nectar pills_cha har dge bshes blo bzang tsul khrims (1740-1810).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABZww",
+    "revision_id": "625a49121d4558d294473",
     "content_hash": "446a620d02d4ac46ca9136644a53a0af7c3d510739dadb7b063b5ff06e9a2e95",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:14:51.269090",
+    "server_modified": "2024-10-29 21:50:00",
+    "last_sync": "2024-11-19 21:04:29.042544",
     "size": 8562,
     "meta_text": null,
     "cat_ref": "S12056E",
@@ -19,10 +19,10 @@
     "author_simple": "CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS",
     "subject": [
         {
-            "_id": "148346227456",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BDUD RTZI_NECTAR (AMIRTA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/BDUD RTZI",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/NECTAR (AMIRTA)",
+            "_id": "201719862685",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BDUD RTZI_NECTAR (AMIRTA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/BDUD RTZI",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/NECTAR (AMIRTA)",
             "subject_tibetan": "BDUD RTZI",
             "subject_english": "NECTAR (AMIRTA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P4797"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/bdud rtzi_nectar (amirta)",
-            "timestamp": "2024-09-10T02:14:51.274961+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BDUD RTZI_NECTAR (AMIRTA)",
+            "timestamp": "2024-11-20 05:04:29.046358+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:04:29.046358+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

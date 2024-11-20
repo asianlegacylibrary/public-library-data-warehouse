@@ -1,12 +1,12 @@
 {
     "name": "S06370M25_SRI ZHU ZHES PA'I DON LA DRI LAN_Answer to a Question concerning the Meaning of the Expression 'Sishu' ('Reverence')_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "tsig mdzod_lexical materials",
-    "download_path": "/sungbum updated 4 26 23 bk/tsig mdzod_lexical materials/s06370m25_sri zhu zhes pa'i don la dri lan_answer to a question concerning the meaning of the expression 'sishu' ('reverence')_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAARoQ",
-    "revision_id": "613f6664742c48d294473",
+    "path": "TSIG MDZOD_LEXICAL MATERIALS",
+    "download_path": "/sungbum updated 7 30 23 nl/tsig mdzod_lexical materials/s06370m25_sri zhu zhes pa'i don la dri lan_answer to a question concerning the meaning of the expression 'sishu' ('reverence')_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABg2g",
+    "revision_id": "625a4a495cbce8d294473",
     "content_hash": "d4a2f5a8c8c5d87a4a94b3de4a024bbadf433841ef4f6173a8ac07c3d164d869",
-    "server_modified": "2024-03-18T21:54:19",
-    "last_sync": "2024-09-09T19:19:14.664848",
+    "server_modified": "2024-10-29 21:55:26",
+    "last_sync": "2024-11-19 21:16:48.252366",
     "size": 111,
     "meta_text": null,
     "cat_ref": "S06370M25",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "986689180498",
-            "subject_path": "SUNGBUM_SUNGBUM/TSIG MDZOD_LEXICAL MATERIALS",
-            "subject_path_tibetan": "SUNGBUM/TSIG MDZOD",
-            "subject_path_english": "SUNGBUM/LEXICAL MATERIALS",
+            "_id": "650013397436",
+            "subject_path": "GSUNG 'BUM_Sungbum/TSIG MDZOD_LEXICAL MATERIALS",
+            "subject_path_tibetan": "GSUNG 'BUM/TSIG MDZOD",
+            "subject_path_english": "Sungbum/LEXICAL MATERIALS",
             "subject_tibetan": "TSIG MDZOD",
             "subject_english": "LEXICAL MATERIALS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "tsig mdzod_lexical materials",
-            "timestamp": "2024-09-10T02:19:14.681656+00:00"
+            "path": "GSUNG 'BUM_Sungbum/TSIG MDZOD_LEXICAL MATERIALS",
+            "timestamp": "2024-11-20 05:16:51.050783+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:16:51.050783+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

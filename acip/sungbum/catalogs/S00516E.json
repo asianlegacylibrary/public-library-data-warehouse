@@ -1,28 +1,28 @@
 {
     "name": "S00516E_DPAL MGON STOBS 'PHROG DBANG PO SER PO RGYAS BYED LHA DGU LA BRTEN PA'I 'DOD DGU DANG DBANG DU BYA BA'I MAN NGAG DGOS 'DOD DBYIG GI CHAR 'BEB_'The One Who Sends Down Upon Us a Rain of the Jewels of Everything We Need and Hope For,' being Adv+.TXT",
-    "path": "rgyud_secret teachings (tantra)/rdo rje gdong bzhi pa_diamond four-faced one (vajrachaturmukha)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/rdo rje gdong bzhi pa_diamond four-faced one (vajrachaturmukha)/s00516e_dpal mgon stobs 'phrog dbang po ser po rgyas byed lha dgu la brten pa'i 'dod dgu dang dbang du bya ba'i man ngag dgos 'dod dbyig gi char 'beb_'the one who sends down upon us a rain of the jewels of everything we need and hope for,' being adv+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAQAA",
-    "revision_id": "613f665fcd5858d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE GDONG BZHI PA_DIAMOND FOUR-FACED ONE (VAJRACHATURMUKHA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/rdo rje gdong bzhi pa_diamond four-faced one (vajrachaturmukha)/s00516e_dpal mgon stobs 'phrog dbang po ser po rgyas byed lha dgu la brten pa'i 'dod dgu dang dbang du bya ba'i man ngag dgos 'dod dbyig gi char 'beb_'the one who sends down upon us a rain of the jewels of everything we need and hope for,' being adv+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABVyQ",
+    "revision_id": "625a4894c1fe88d294473",
     "content_hash": "bd0793921f47c1758ae73f9c64122bb5198783becb37b11f61ba572739940bf1",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:17:26.616195",
+    "server_modified": "2024-10-29 21:47:48",
+    "last_sync": "2024-11-19 20:58:00.815061",
     "size": 58649,
-    "meta_text": "ices for Achieving One's Goals, and Bringing Powerful Beings Under Your Control, through Relying Upon the Nine Angels Who Support the Glorious Protector, the Yellow One of Might, the One Who Rips Away the Power of the Enemy_SKYABS RJE PHA BONG KHA PA BDE CHEN SNYING PO (1878-1941)",
+    "meta_text": "(\"ices for Achieving One's Goals, and Bringing Powerful Beings Under Your Control, through Relying Upon the Nine Angels Who Support the Glorious Protector, the Yellow One of Might, the One Who Rips Away the Power of the Enemy_SKYABS RJE PHA BONG KHA PA BDE CHEN SNYING PO (1878-1941)\", 'rtf')",
     "cat_ref": "S00516E",
     "work_ref": "W.S00516E",
     "title_tib": "DPAL MGON STOBS 'PHROG DBANG PO SER PO RGYAS BYED LHA DGU LA BRTEN PA'I 'DOD DGU DANG DBANG DU BYA BA'I MAN NGAG DGOS 'DOD DBYIG GI CHAR 'BEB",
-    "title_eng": "'The One Who Sends Down Upon Us a Rain of the Jewels of Everything We Need and Hope For,' being Advices for Achieving One's Goals, and Bringing Powerful Beings Under Your Control, through Relying Upon the Nine Angels Who Support the Glorious Protector, the Yellow One of Might, the One Who Rips Away the Power of the Enemy",
+    "title_eng": "'The One Who Sends Down Upon Us a Rain of the Jewels of Everything We Need and Hope For,' being Adv(\"ices for Achieving One's Goals, and Bringing Powerful Beings Under Your Control, through Relying Upon the Nine Angels Who Support the Glorious Protector, the Yellow One of Might, the One Who Rips Away the Power of the Enemy",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "SKYABS RJE PHA BONG KHA PA BDE CHEN SNYING PO",
     "subject": [
         {
-            "_id": "292411976098",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE GDONG BZHI PA_DIAMOND FOUR-FACED ONE (VAJRACHATURMUKHA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/RDO RJE GDONG BZHI PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/DIAMOND FOUR-FACED ONE (VAJRACHATURMUKHA)",
+            "_id": "161626409236",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE GDONG BZHI PA_DIAMOND FOUR-FACED ONE (VAJRACHATURMUKHA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/RDO RJE GDONG BZHI PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/DIAMOND FOUR-FACED ONE (VAJRACHATURMUKHA)",
             "subject_tibetan": "RDO RJE GDONG BZHI PA",
             "subject_english": "DIAMOND FOUR-FACED ONE (VAJRACHATURMUKHA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P230"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/rdo rje gdong bzhi pa_diamond four-faced one (vajrachaturmukha)",
-            "timestamp": "2024-09-10T02:17:26.619519+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE GDONG BZHI PA_DIAMOND FOUR-FACED ONE (VAJRACHATURMUKHA)",
+            "timestamp": "2024-11-20 04:58:01.994644+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:58:01.994644+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

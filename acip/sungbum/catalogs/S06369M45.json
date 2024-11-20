@@ -1,12 +1,12 @@
 {
     "name": "S06369M45_DGON GONG BLA MAS ZHUS PA'I SMON LAM_Prayer composed at the Behest of Gungong Lama_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "nyams len_personal practice/smon lam_making prayers/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/smon lam_making prayers/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)/s06369m45_dgon gong bla mas zhus pa'i smon lam_prayer composed at the behest of gungong lama_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAACUA",
-    "revision_id": "613f663ffc7438d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/smon lam_making prayers/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)/s06369m45_dgon gong bla mas zhus pa'i smon lam_prayer composed at the behest of gungong lama_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABkpw",
+    "revision_id": "625a4ad7fe5448d294473",
     "content_hash": "6714247b09cf6b65cc21cff0801dc761bc4b94e5abc561eae73643d2ffd14793",
-    "server_modified": "2024-03-18T21:53:40",
-    "last_sync": "2024-09-09T19:03:31.356035",
+    "server_modified": "2024-10-29 21:57:55",
+    "last_sync": "2024-11-19 21:23:49.076719",
     "size": 7044,
     "meta_text": null,
     "cat_ref": "S06369M45",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "153876945440",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/SMON LAM/DNGUL CHU DHARMA BHADRA",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/MAKING PRAYERS/NGULCHU DHARMA BHADRA (1772-1851)",
+            "_id": "270355907986",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/SMON LAM/DNGUL CHU DHARMA BHADRA",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/MAKING PRAYERS/NGULCHU DHARMA BHADRA (1772-1851)",
             "subject_tibetan": "DNGUL CHU DHARMA BHADRA",
             "subject_english": "NGULCHU DHARMA BHADRA (1772-1851)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/smon lam_making prayers/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)",
-            "timestamp": "2024-09-10T02:03:31.392927+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
+            "timestamp": "2024-11-20 05:23:49.782409+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:23:49.782409+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,28 +1,28 @@
 {
     "name": "S05828E_BLA MA DANG BCOM LDAN 'DAS DPAL RDO RJE 'JIGS BYED CHEN PO NGO BO DBYER MED DU MOS NAS GSOL BA 'DEBS PA'I RNAL 'BYOR BYA BA'I RIM PA DNGOS GRUB KUN STZOL_'Granting Every Attainment,' being a Description of the Steps to be Taken in the Deep P +.TXT",
-    "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/gsol 'debs_supplication",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/gsol 'debs_supplication/s05828e_bla ma dang bcom ldan 'das dpal rdo rje 'jigs byed chen po ngo bo dbyer med du mos nas gsol ba 'debs pa'i rnal 'byor bya ba'i rim pa dngos grub kun stzol_'granting every attainment,' being a description of the steps to be taken in the deep p +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAMag",
-    "revision_id": "613f6656ded3b8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/GSOL 'DEBS_SUPPLICATION",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/gsol 'debs_supplication/s05828e_bla ma dang bcom ldan 'das dpal rdo rje 'jigs byed chen po ngo bo dbyer med du mos nas gsol ba 'debs pa'i rnal 'byor bya ba'i rim pa dngos grub kun stzol_'granting every attainment,' being a description of the steps to be taken in the deep p +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABdvA",
+    "revision_id": "625a49a2aa6578d294473",
     "content_hash": "c2602fa49b9f20de7ea68176f4deda1d77234f7c6148bcfba2b34c23de968383",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:13:41.795344",
+    "server_modified": "2024-10-29 21:52:31",
+    "last_sync": "2024-11-19 21:11:10.767833",
     "size": 21533,
-    "meta_text": "ractice of Making Supplication to One's Lama, Believing that He or She is Completely Indivisible, in their Very Essence, from the Conqueror, the Glorious Frightener (Bhairava)_RGYAL BA BDUN PA SKAL BZANG RGYA MTSO (1708-1757)",
+    "meta_text": "(\"ractice of Making Supplication to One's Lama, Believing that He or She is Completely Indivisible, in their Very Essence, from the Conqueror, the Glorious Frightener (Bhairava)_RGYAL BA BDUN PA SKAL BZANG RGYA MTSO (1708-1757)\", 'rtf')",
     "cat_ref": "S05828E",
     "work_ref": "W.S05828E",
     "title_tib": "BLA MA DANG BCOM LDAN 'DAS DPAL RDO RJE 'JIGS BYED CHEN PO NGO BO DBYER MED DU MOS NAS GSOL BA 'DEBS PA'I RNAL 'BYOR BYA BA'I RIM PA DNGOS GRUB KUN STZOL",
-    "title_eng": "'Granting Every Attainment,' being a Description of the Steps to be Taken in the Deep Practice of Making Supplication to One's Lama, Believing that He or She is Completely Indivisible, in their Very Essence, from the Conqueror, the Glorious Frightener (Bhairava)",
+    "title_eng": "'Granting Every Attainment,' being a Description of the Steps to be Taken in the Deep P(\"ractice of Making Supplication to One's Lama, Believing that He or She is Completely Indivisible, in their Very Essence, from the Conqueror, the Glorious Frightener (Bhairava)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "RGYAL BA BDUN PA SKAL BZANG RGYA MTSO",
     "subject": [
         {
-            "_id": "261570912400",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/GSOL 'DEBS_SUPPLICATION",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/'JIGS BYED/GSOL 'DEBS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/SUPPLICATION",
+            "_id": "383825208237",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/GSOL 'DEBS_SUPPLICATION",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/'JIGS BYED/GSOL 'DEBS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/SUPPLICATION",
             "subject_tibetan": "GSOL 'DEBS",
             "subject_english": "SUPPLICATION"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P179"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/gsol 'debs_supplication",
-            "timestamp": "2024-09-10T02:13:41.799518+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/GSOL 'DEBS_SUPPLICATION",
+            "timestamp": "2024-11-20 05:11:10.775220+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:11:10.775220+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

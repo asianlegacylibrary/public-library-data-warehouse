@@ -1,12 +1,12 @@
 {
     "name": "S06380E3_'JIGS BYED DANG BDE MCHOG GI GTOR 'BUL MDOR BSDUS_Briefer Method for Making Torma-Cake Offerings to the Frightener (Bhairava) and Highest Bliss (Sambara)_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/gtor ma_offering cake (bali)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/gtor ma_offering cake (bali)/s06380e3_'jigs byed dang bde mchog gi gtor 'bul mdor bsdus_briefer method for making torma-cake offerings to the frightener (bhairava) and highest bliss (sambara)_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAMVw",
-    "revision_id": "613f6656ded288d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/GTOR MA_OFFERING CAKE (BALI)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/gtor ma_offering cake (bali)/s06380e3_'jigs byed dang bde mchog gi gtor 'bul mdor bsdus_briefer method for making torma-cake offerings to the frightener (bhairava) and highest bliss (sambara)_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABdmA",
+    "revision_id": "625a499c9342d8d294473",
     "content_hash": "e380c055143c13ad612f92de4b76bd807bfe528c4513c143e30275c37cd9bf2e",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:13:39.086701",
+    "server_modified": "2024-10-29 21:52:25",
+    "last_sync": "2024-11-19 21:10:57.187316",
     "size": 1194,
     "meta_text": null,
     "cat_ref": "S06380E3",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "176219405544",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/GTOR MA_OFFERING CAKE (BALI)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/'JIGS BYED/GTOR MA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/OFFERING CAKE (BALI)",
+            "_id": "296735924342",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/GTOR MA_OFFERING CAKE (BALI)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/'JIGS BYED/GTOR MA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/OFFERING CAKE (BALI)",
             "subject_tibetan": "GTOR MA",
             "subject_english": "OFFERING CAKE (BALI)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/gtor ma_offering cake (bali)",
-            "timestamp": "2024-09-10T02:13:39.128329+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/GTOR MA_OFFERING CAKE (BALI)",
+            "timestamp": "2024-11-20 05:10:57.837997+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:10:57.837997+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

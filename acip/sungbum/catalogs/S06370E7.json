@@ -1,12 +1,12 @@
 {
     "name": "S06370E7_RAB GNAS MNGA' DBUL GYI SKOR_Notes concerning the 'Offering of Possessions' in the Ceremony of Consecration_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/rab gnas_consecration (supratishtha)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/rab gnas_consecration (supratishtha)/s06370e7_rab gnas mnga' dbul gyi skor_notes concerning the 'offering of possessions' in the ceremony of consecration_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAN7g",
-    "revision_id": "613f665b610078d294473",
+    "path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "download_path": "/sungbum updated 7 30 23 nl/dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)/s06370e7_rab gnas mnga' dbul gyi skor_notes concerning the 'offering of possessions' in the ceremony of consecration_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABTMw",
+    "revision_id": "625a482eea4438d294473",
     "content_hash": "807d4363a10fd9de5f79642c995e7512da60647abb989dc7d23c298070f11fcb",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:15:19.329184",
+    "server_modified": "2024-10-29 21:46:01",
+    "last_sync": "2024-11-19 20:53:51.856500",
     "size": 2091,
     "meta_text": null,
     "cat_ref": "S06370E7",
@@ -19,20 +19,20 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "219846535334",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/RAB GNAS_CONSECRATION (SUPRATISHTHA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/RAB GNAS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/CONSECRATION (SUPRATISHTHA)",
-            "subject_tibetan": "RAB GNAS",
-            "subject_english": "CONSECRATION (SUPRATISHTHA)"
-        },
-        {
-            "_id": "244831615226",
-            "subject_path": "SUNGBUM_SUNGBUM/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_tibetan": "SUNGBUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_english": "SUNGBUM/QUESTIONS AND ANSWERS",
+            "_id": "250883940513",
+            "subject_path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "GSUNG 'BUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "Sungbum/QUESTIONS AND ANSWERS",
             "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
             "subject_english": "QUESTIONS AND ANSWERS"
+        },
+        {
+            "_id": "129630635153",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/RAB GNAS_CONSECRATION (SUPRATISHTHA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/RAB GNAS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/CONSECRATION (SUPRATISHTHA)",
+            "subject_tibetan": "RAB GNAS",
+            "subject_english": "CONSECRATION (SUPRATISHTHA)"
         }
     ],
     "items": [],
@@ -46,15 +46,29 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/rab gnas_consecration (supratishtha)",
-            "timestamp": "2024-09-10T02:15:19.338948+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "timestamp": "2024-11-20 04:54:07.138437+00:00"
         },
         {
-            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
-            "timestamp": "2024-09-10T02:21:49.482762+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/RAB GNAS_CONSECRATION (SUPRATISHTHA)",
+            "timestamp": "2024-11-20 05:04:44.219727+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:54:07.138437+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T05:04:44.219727+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,28 +1,28 @@
 {
     "name": "S00448E_CHOS RGYAL GSANG SGRUB LA BRTEN PA'I GTER SGRUB BYA TSUL YID BZHIN NOR BU'I GTER MDZOD_'The Goldmine of Wishing Jewels,' being instructions on How to Perform the Practice of a Vase of Prosperity through the Secret Attainments of the King of +.TXT",
-    "path": "rgyud_secret teachings (tantra)/chos rgyal_king of all things (dharmaraja)/tse sgrub_ritual for long life",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/chos rgyal_king of all things (dharmaraja)/tse sgrub_ritual for long life/s00448e_chos rgyal gsang sgrub la brten pa'i gter sgrub bya tsul yid bzhin nor bu'i gter mdzod_'the goldmine of wishing jewels,' being instructions on how to perform the practice of a vase of prosperity through the secret attainments of the king of +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAKVQ",
-    "revision_id": "613f66527886d8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/CHOS RGYAL_KING OF ALL THINGS (DHARMARAJA)/TSE SGRUB_RITUAL FOR LONG LIFE",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/chos rgyal_king of all things (dharmaraja)/tse sgrub_ritual for long life/s00448e_chos rgyal gsang sgrub la brten pa'i gter sgrub bya tsul yid bzhin nor bu'i gter mdzod_'the goldmine of wishing jewels,' being instructions on how to perform the practice of a vase of prosperity through the secret attainments of the king of +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABdIQ",
+    "revision_id": "625a498aa5d068d294473",
     "content_hash": "e686391810b68a4fbc80c5b85a1e63f1e647b8282fcc8b8ebeb0a20a17a6428a",
-    "server_modified": "2024-03-18T21:54:00",
-    "last_sync": "2024-09-09T19:11:16.978546",
+    "server_modified": "2024-10-29 21:52:06",
+    "last_sync": "2024-11-19 21:10:14.101051",
     "size": 14365,
-    "meta_text": "the Dharma (Guhyasadhana Dharmaraja)_@ (@-@)",
+    "meta_text": "('the Dharma (Guhyasadhana Dharmaraja)_@ (@-@)', 'rtf')",
     "cat_ref": "S00448E",
     "work_ref": "W.S00448E",
     "title_tib": "CHOS RGYAL GSANG SGRUB LA BRTEN PA'I GTER SGRUB BYA TSUL YID BZHIN NOR BU'I GTER MDZOD",
-    "title_eng": "'The Goldmine of Wishing Jewels,' being instructions on How to Perform the Practice of a Vase of Prosperity through the Secret Attainments of the King ofthe Dharma (Guhyasadhana Dharmaraja)",
+    "title_eng": "'The Goldmine of Wishing Jewels,' being instructions on How to Perform the Practice of a Vase of Prosperity through the Secret Attainments of the King of('the Dharma (Guhyasadhana Dharmaraja)@ (@-@)', 'rtf')",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "",
     "subject": [
         {
-            "_id": "192342309653",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/CHOS RGYAL_KING OF ALL THINGS (DHARMARAJA)/TSE SGRUB_RITUAL FOR LONG LIFE",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/CHOS RGYAL/TSE SGRUB",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/KING OF ALL THINGS (DHARMARAJA)/RITUAL FOR LONG LIFE",
+            "_id": "497527376096",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/CHOS RGYAL_KING OF ALL THINGS (DHARMARAJA)/TSE SGRUB_RITUAL FOR LONG LIFE",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/CHOS RGYAL/TSE SGRUB",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/KING OF ALL THINGS (DHARMARAJA)/RITUAL FOR LONG LIFE",
             "subject_tibetan": "TSE SGRUB",
             "subject_english": "RITUAL FOR LONG LIFE"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/chos rgyal_king of all things (dharmaraja)/tse sgrub_ritual for long life",
-            "timestamp": "2024-09-10T02:11:16.992208+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/CHOS RGYAL_KING OF ALL THINGS (DHARMARAJA)/TSE SGRUB_RITUAL FOR LONG LIFE",
+            "timestamp": "2024-11-20 05:10:14.105699+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:10:14.105699+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

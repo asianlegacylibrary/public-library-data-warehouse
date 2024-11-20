@@ -1,12 +1,12 @@
 {
     "name": "S05963E_DPAL MGON TRAKSHAD LA MCHOD GTOR MDOR BSDUS 'BUL TSUL_A Brief Ritual for Making Offerings of Torma Cakes to the Glorious Protector Trakshe (Raudrantaka)_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662).TXT",
-    "path": "rgyud_secret teachings (tantra)/trakshad_ trakshe (raudrantaka)/gtor ma_offering cake (bali)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/trakshad_ trakshe (raudrantaka)/gtor ma_offering cake (bali)/s05963e_dpal mgon trakshad la mchod gtor mdor bsdus 'bul tsul_a brief ritual for making offerings of torma cakes to the glorious protector trakshe (raudrantaka)_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAARbQ",
-    "revision_id": "613f665fcd6f28d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/TRAKshAD_ TRAKSHE (RAUDRANTAKA)/GTOR MA_OFFERING CAKE (BALI)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/trakshad_ trakshe (raudrantaka)/gtor ma_offering cake (bali)/s05963e_dpal mgon trakshad la mchod gtor mdor bsdus 'bul tsul_a brief ritual for making offerings of torma cakes to the glorious protector trakshe (raudrantaka)_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABc6w",
+    "revision_id": "625a4986142c28d294473",
     "content_hash": "0b9817676d5f3356bfcb8a64ea941997781efd503bfe0d6f584cb07bda1f8cbf",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:19:03.511588",
+    "server_modified": "2024-10-29 21:52:01",
+    "last_sync": "2024-11-19 21:10:03.404113",
     "size": 10646,
     "meta_text": null,
     "cat_ref": "S05963E",
@@ -19,18 +19,18 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "292411111070",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/TRAKSHAD_ TRAKSHE (RAUDRANTAKA)/GTOR MA_OFFERING CAKE (BALI)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/TRAKSHAD/GTOR MA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/ TRAKSHE (RAUDRANTAKA)/OFFERING CAKE (BALI)",
+            "_id": "318755386664",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/TRAKshAD_ TRAKSHE (RAUDRANTAKA)/GTOR MA_OFFERING CAKE (BALI)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/TRAKshAD/GTOR MA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/ TRAKSHE (RAUDRANTAKA)/OFFERING CAKE (BALI)",
             "subject_tibetan": "GTOR MA",
             "subject_english": "OFFERING CAKE (BALI)"
         },
         {
-            "_id": "144083079361",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/TRAKSHAD_ TRAKSHE (RAUDRANTAKA)/MCHOD PA_OFFERING",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/TRAKSHAD/MCHOD PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/ TRAKSHE (RAUDRANTAKA)/OFFERING",
+            "_id": "306888636626",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/TRAKshAD_ TRAKSHE (RAUDRANTAKA)/MCHOD PA_OFFERING",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/TRAKshAD/MCHOD PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/ TRAKSHE (RAUDRANTAKA)/OFFERING",
             "subject_tibetan": "MCHOD PA",
             "subject_english": "OFFERING"
         }
@@ -46,15 +46,29 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/trakshad_ trakshe (raudrantaka)/gtor ma_offering cake (bali)",
-            "timestamp": "2024-09-10T02:19:03.515361+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/TRAKshAD_ TRAKSHE (RAUDRANTAKA)/GTOR MA_OFFERING CAKE (BALI)",
+            "timestamp": "2024-11-20 05:10:03.408106+00:00"
         },
         {
-            "path": "rgyud_secret teachings (tantra)/trakshad_ trakshe (raudrantaka)/mchod pa_offering",
-            "timestamp": "2024-09-10T02:19:03.793787+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/TRAKshAD_ TRAKSHE (RAUDRANTAKA)/MCHOD PA_OFFERING",
+            "timestamp": "2024-11-20 05:10:04.137544+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:10:03.408106+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T05:10:04.137544+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "text"
 }

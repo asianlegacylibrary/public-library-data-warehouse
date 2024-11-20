@@ -1,12 +1,12 @@
 {
     "name": "S05275E25_RGYAL BA RDO RJE RNAM GNON LA PHYAG 'TSAL BA_An Obeisance of the Victorious One, the Diamond Oppressor_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419).TXT",
-    "path": "rgyud_secret teachings (tantra)/rdo rje rnam gnon_diamond oppressor/bstod pa_songs of praise (stotra)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/rdo rje rnam gnon_diamond oppressor/bstod pa_songs of praise (stotra)/s05275e25_rgyal ba rdo rje rnam gnon la phyag 'tsal ba_an obeisance of the victorious one, the diamond oppressor_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAINw",
-    "revision_id": "613f664dc42538d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAM GNON_DIAMOND OPPRESSOR/BSTOD PA_SONGS OF PRAISE (STOTRA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/rdo rje rnam gnon_diamond oppressor/bstod pa_songs of praise (stotra)/s05275e25_rgyal ba rdo rje rnam gnon la phyag 'tsal ba_an obeisance of the victorious one, the diamond oppressor_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABXww",
+    "revision_id": "625a48c8f40658d294473",
     "content_hash": "dc9efa384a3ad4732e1a85c3d372842539aa2b1c1a87f63832664ed6a20df60c",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:09:11.911657",
+    "server_modified": "2024-10-29 21:48:43",
+    "last_sync": "2024-11-19 21:01:24.989153",
     "size": 564,
     "meta_text": null,
     "cat_ref": "S05275E25",
@@ -19,10 +19,10 @@
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "151944287373",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAM GNON_DIAMOND OPPRESSOR/BSTOD PA_SONGS OF PRAISE (STOTRA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/RDO RJE RNAM GNON/BSTOD PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/DIAMOND OPPRESSOR/SONGS OF PRAISE (STOTRA)",
+            "_id": "141612814505",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAM GNON_DIAMOND OPPRESSOR/BSTOD PA_SONGS OF PRAISE (STOTRA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/RDO RJE RNAM GNON/BSTOD PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/DIAMOND OPPRESSOR/SONGS OF PRAISE (STOTRA)",
             "subject_tibetan": "BSTOD PA",
             "subject_english": "SONGS OF PRAISE (STOTRA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/rdo rje rnam gnon_diamond oppressor/bstod pa_songs of praise (stotra)",
-            "timestamp": "2024-09-10T02:09:11.916972+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAM GNON_DIAMOND OPPRESSOR/BSTOD PA_SONGS OF PRAISE (STOTRA)",
+            "timestamp": "2024-11-20 05:01:24.992986+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:01:24.992986+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

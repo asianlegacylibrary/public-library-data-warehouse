@@ -1,12 +1,12 @@
 {
     "name": "S05899M_RJE BTZUN BLA MA'I SGRUB THABS TSIGS BCAD MA_A Practice for Reaching the Holy Lama, set in Verse_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662).TXT",
-    "path": "nyams len_personal practice/bla ma'i rnal 'byor_practices for honoring ones lama/pan chen blo bzang chos kyi rgyal mtsan_panchen lobsang chukyi gyeltsen (1565-1662)",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/bla ma'i rnal 'byor_practices for honoring ones lama/pan chen blo bzang chos kyi rgyal mtsan_panchen lobsang chukyi gyeltsen (1565-1662)/s05899m_rje btzun bla ma'i sgrub thabs tsigs bcad ma_a practice for reaching the holy lama, set in verse_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAACgQ",
-    "revision_id": "613f663ffc7748d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/BLA MA'I RNAL 'BYOR_PRACTICES FOR HONORING ONES LAMA/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/bla ma'i rnal 'byor_practices for honoring ones lama/pan chen blo bzang chos kyi rgyal mtsan_panchen lobsang chukyi gyeltsen (1565-1662)/s05899m_rje btzun bla ma'i sgrub thabs tsigs bcad ma_a practice for reaching the holy lama, set in verse_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABjtw",
+    "revision_id": "625a4ab72fa868d294473",
     "content_hash": "2f480d816033e9c3f42a376a01c254da4ce1102509f58e3131c729fe5028a811",
-    "server_modified": "2024-03-18T21:53:40",
-    "last_sync": "2024-09-09T19:03:40.724978",
+    "server_modified": "2024-10-29 21:57:21",
+    "last_sync": "2024-11-19 21:21:47.687863",
     "size": 8598,
     "meta_text": null,
     "cat_ref": "S05899M",
@@ -19,11 +19,11 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "332597806801",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/BLA MA'I RNAL 'BYOR_PRACTICES FOR HONORING ONES LAMA/PAN CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/BLA MA'I RNAL 'BYOR/PAN CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/PRACTICES FOR HONORING ONES LAMA/PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
-            "subject_tibetan": "PAN CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
+            "_id": "111839038320",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BLA MA'I RNAL 'BYOR_PRACTICES FOR HONORING ONES LAMA/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/BLA MA'I RNAL 'BYOR/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/PRACTICES FOR HONORING ONES LAMA/PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+            "subject_tibetan": "PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
             "subject_english": "PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)"
         }
     ],
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/bla ma'i rnal 'byor_practices for honoring ones lama/pan chen blo bzang chos kyi rgyal mtsan_panchen lobsang chukyi gyeltsen (1565-1662)",
-            "timestamp": "2024-09-10T02:03:40.741782+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BLA MA'I RNAL 'BYOR_PRACTICES FOR HONORING ONES LAMA/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+            "timestamp": "2024-11-20 05:21:47.698804+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:21:47.698804+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,12 +1,12 @@
 {
     "name": "S05540E_MGON PO LEGS LDAN GYI GTOR CHOG_A Ritual for Offering Torma Cakes to The Protector \"Excellence\" (Bhagavan Mahakala)_RGYAL BA DGE 'DUN GRUB (1391-1474).txt",
-    "path": "rgyud_secret teachings (tantra)/mgon po_the protector (mahakala)/gtor ma_offering cake (bali)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/mgon po_the protector (mahakala)/gtor ma_offering cake (bali)/s05540e_mgon po legs ldan gyi gtor chog_a ritual for offering torma cakes to the protector \"excellence\" (bhagavan mahakala)_rgyal ba dge 'dun grub (1391-1474).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAInw",
-    "revision_id": "613f664dc42bb8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/MGON PO_THE PROTECTOR (MAHAKALA)/GTOR MA_OFFERING CAKE (BALI)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/mgon po_the protector (mahakala)/gtor ma_offering cake (bali)/s05540e_mgon po legs ldan gyi gtor chog_a ritual for offering torma cakes to the protector \"excellence\" (bhagavan mahakala)_rgyal ba dge 'dun grub (1391-1474).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABUMw",
+    "revision_id": "625a48600f0fb8d294473",
     "content_hash": "11bb7292b35b72083e2e0a18586f9710b79dee809af8ac76c43c3b54c90810a9",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:09:35.185582",
+    "server_modified": "2024-10-29 21:46:53",
+    "last_sync": "2024-11-19 20:55:05.507529",
     "size": 11736,
     "meta_text": null,
     "cat_ref": "S05540E",
@@ -19,10 +19,10 @@
     "author_simple": "RGYAL BA DGE 'DUN GRUB",
     "subject": [
         {
-            "_id": "205072367480",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/MGON PO_THE PROTECTOR (MAHAKALA)/GTOR MA_OFFERING CAKE (BALI)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/MGON PO/GTOR MA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/THE PROTECTOR (MAHAKALA)/OFFERING CAKE (BALI)",
+            "_id": "388475427730",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/MGON PO_THE PROTECTOR (MAHAKALA)/GTOR MA_OFFERING CAKE (BALI)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/MGON PO/GTOR MA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/THE PROTECTOR (MAHAKALA)/OFFERING CAKE (BALI)",
             "subject_tibetan": "GTOR MA",
             "subject_english": "OFFERING CAKE (BALI)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P80"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/mgon po_the protector (mahakala)/gtor ma_offering cake (bali)",
-            "timestamp": "2024-09-10T02:09:35.193430+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/MGON PO_THE PROTECTOR (MAHAKALA)/GTOR MA_OFFERING CAKE (BALI)",
+            "timestamp": "2024-11-20 04:55:07.808148+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:55:07.808148+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

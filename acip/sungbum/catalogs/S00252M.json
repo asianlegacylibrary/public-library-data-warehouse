@@ -1,12 +1,12 @@
 {
     "name": "S00252M_CHAB SHOG DANG DRIS LAN GYI RIM PA RNAMS PHYOGS GCIG TU BSDEBS PA_An Anthology of Correspondences and Answers to the Questions of Disciples_SKYABS RJE KHRI BYANG RIN PO CHE (1901-1981).TXT",
-    "path": "nyams len_personal practice/bslab bya_personal advices/skyabs rje khri byang rin po che blo bzang ye shes bstan 'dzin rgya mtso_kyabje trijang rinpoche lobsang yeshe tendzin gyatso (1901-1981)",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/bslab bya_personal advices/skyabs rje khri byang rin po che blo bzang ye shes bstan 'dzin rgya mtso_kyabje trijang rinpoche lobsang yeshe tendzin gyatso (1901-1981)/s00252m_chab shog dang dris lan gyi rim pa rnams phyogs gcig tu bsdebs pa_an anthology of correspondences and answers to the questions of disciples_skyabs rje khri byang rin po che (1901-1981).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAA-A",
-    "revision_id": "613f663b87c418d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/SKYABS RJE KHRI BYANG RIN PO CHE BLO BZANG YE SHES BSTAN 'DZIN RGYA MTSO_KYABJE TRIJANG RINPOCHE LOBSANG YESHE TENDZIN GYATSO (1901-1981)",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/bslab bya_personal advices/skyabs rje khri byang rin po che blo bzang ye shes bstan 'dzin rgya mtso_kyabje trijang rinpoche lobsang yeshe tendzin gyatso (1901-1981)/s00252m_chab shog dang dris lan gyi rim pa rnams phyogs gcig tu bsdebs pa_an anthology of correspondences and answers to the questions of disciples_skyabs rje khri byang rin po che (1901-1981).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABi5Q",
+    "revision_id": "625a4a9afaec08d294473",
     "content_hash": "72bb8a06d66dbbcd41a67d87db7cca3eb81ca8980a887fd0815b508c611f8335",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:02:00.776535",
+    "server_modified": "2024-10-29 21:56:51",
+    "last_sync": "2024-11-19 21:20:14.020712",
     "size": 56074,
     "meta_text": null,
     "cat_ref": "S00252M",
@@ -19,10 +19,10 @@
     "author_simple": "SKYABS RJE KHRI BYANG RIN PO CHE",
     "subject": [
         {
-            "_id": "588546941242",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/SKYABS RJE KHRI BYANG RIN PO CHE BLO BZANG YE SHES BSTAN 'DZIN RGYA MTSO_KYABJE TRIJANG RINPOCHE LOBSANG YESHE TENDZIN GYATSO (1901-1981)",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/BSLAB BYA/SKYABS RJE KHRI BYANG RIN PO CHE BLO BZANG YE SHES BSTAN 'DZIN RGYA MTSO",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/PERSONAL ADVICES/KYABJE TRIJANG RINPOCHE LOBSANG YESHE TENDZIN GYATSO (1901-1981)",
+            "_id": "695687943226",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/SKYABS RJE KHRI BYANG RIN PO CHE BLO BZANG YE SHES BSTAN 'DZIN RGYA MTSO_KYABJE TRIJANG RINPOCHE LOBSANG YESHE TENDZIN GYATSO (1901-1981)",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/BSLAB BYA/SKYABS RJE KHRI BYANG RIN PO CHE BLO BZANG YE SHES BSTAN 'DZIN RGYA MTSO",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/PERSONAL ADVICES/KYABJE TRIJANG RINPOCHE LOBSANG YESHE TENDZIN GYATSO (1901-1981)",
             "subject_tibetan": "SKYABS RJE KHRI BYANG RIN PO CHE BLO BZANG YE SHES BSTAN 'DZIN RGYA MTSO",
             "subject_english": "KYABJE TRIJANG RINPOCHE LOBSANG YESHE TENDZIN GYATSO (1901-1981)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P2596"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/bslab bya_personal advices/skyabs rje khri byang rin po che blo bzang ye shes bstan 'dzin rgya mtso_kyabje trijang rinpoche lobsang yeshe tendzin gyatso (1901-1981)",
-            "timestamp": "2024-09-10T02:02:00.791299+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/SKYABS RJE KHRI BYANG RIN PO CHE BLO BZANG YE SHES BSTAN 'DZIN RGYA MTSO_KYABJE TRIJANG RINPOCHE LOBSANG YESHE TENDZIN GYATSO (1901-1981)",
+            "timestamp": "2024-11-20 05:20:14.025400+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:20:14.025400+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

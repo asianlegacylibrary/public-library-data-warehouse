@@ -1,12 +1,12 @@
 {
     "name": "S05349E_MDOR BSDUS DANG PO LA AA TZA LA GARBHAS DON TSAN BDUN DU BYED PA_Seven Topics of the First Short Section, set forth by Achala Garbha_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419).TXT",
-    "path": "rgyud_secret teachings (tantra)/dus 'khor_wheel of time (kalachakra)/'grel pa_commentaries",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/dus 'khor_wheel of time (kalachakra)/'grel pa_commentaries/s05349e_mdor bsdus dang po la aa tza la garbhas don tsan bdun du byed pa_seven topics of the first short section, set forth by achala garbha_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAIxw",
-    "revision_id": "613f664dc42e38d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/'GREL PA_COMMENTARIES",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/dus 'khor_wheel of time (kalachakra)/'grel pa_commentaries/s05349e_mdor bsdus dang po la aa tza la garbhas don tsan bdun du byed pa_seven topics of the first short section, set forth by achala garbha_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABazg",
+    "revision_id": "625a493a603ed8d294473",
     "content_hash": "50cd77d9abcbf158a99d42f66f6414f5e11439ffe8dfda05388210631a11c55f",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:09:48.460351",
+    "server_modified": "2024-10-29 21:50:42",
+    "last_sync": "2024-11-19 21:06:04.039085",
     "size": 3322,
     "meta_text": null,
     "cat_ref": "S05349E",
@@ -19,10 +19,10 @@
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "320233480126",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/'GREL PA_COMMENTARIES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/DUS 'KHOR/'GREL PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/WHEEL OF TIME (KALACHAKRA)/COMMENTARIES",
+            "_id": "224032789210",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/'GREL PA_COMMENTARIES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/DUS 'KHOR/'GREL PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/WHEEL OF TIME (KALACHAKRA)/COMMENTARIES",
             "subject_tibetan": "'GREL PA",
             "subject_english": "COMMENTARIES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/dus 'khor_wheel of time (kalachakra)/'grel pa_commentaries",
-            "timestamp": "2024-09-10T02:09:48.515766+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/'GREL PA_COMMENTARIES",
+            "timestamp": "2024-11-20 05:06:08.038433+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:06:08.038433+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

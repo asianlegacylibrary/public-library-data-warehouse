@@ -1,28 +1,28 @@
 {
     "name": "S05573E_RJE BTZUN THAMS CAD MKHYEN PA'I GSUNG 'BUM THOR BU LAS GRUB MTHA' RGYA MTSOR 'JUG PA'I GRU RDZINGS ZHES BYA BA'I BSTAN BCOS_The Classical Commentary Called, \"A Ship to Sail the Ocean of Philosophical Schools,\" from Assorted Writings found in +.txt",
-    "path": "grub mtha'_comparative philosophy (siddhanta)/his holiness the second dalai lama, rgyal ba dge 'dun rgya mtso (1476-1542)",
-    "download_path": "/sungbum updated 4 26 23 bk/grub mtha'_comparative philosophy (siddhanta)/his holiness the second dalai lama, rgyal ba dge 'dun rgya mtso (1476-1542)/s05573e_rje btzun thams cad mkhyen pa'i gsung 'bum thor bu las grub mtha' rgya mtsor 'jug pa'i gru rdzings zhes bya ba'i bstan bcos_the classical commentary called, \"a ship to sail the ocean of philosophical schools,\" from assorted writings found in +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAASeQ",
-    "revision_id": "613f66647439c8d294473",
+    "path": "GRUB MTHA'_COMPARATIVE PHILOSOPHY (SIDDHANTA)/HIS HOLINESS THE SECOND DALAI LAMA, RGYAL BA DGE 'DUN RGYA MTSO (1476-1542)",
+    "download_path": "/sungbum updated 7 30 23 nl/grub mtha'_comparative philosophy (siddhanta)/his holiness the second dalai lama, rgyal ba dge 'dun rgya mtso (1476-1542)/s05573e_rje btzun thams cad mkhyen pa'i gsung 'bum thor bu las grub mtha' rgya mtsor 'jug pa'i gru rdzings zhes bya ba'i bstan bcos_the classical commentary called, \"a ship to sail the ocean of philosophical schools,\" from assorted writings found in +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABiQA",
+    "revision_id": "625a4a830fc948d294473",
     "content_hash": "2ed90876746af8e76448ca26321977971e25cbe7bebf2570474f96815f4fb183",
-    "server_modified": "2024-03-18T21:54:19",
-    "last_sync": "2024-09-09T19:20:07.708132",
+    "server_modified": "2024-10-29 21:56:26",
+    "last_sync": "2024-11-19 21:19:21.369718",
     "size": 32797,
-    "meta_text": "the Collected Works of the Holy and Omniscient One_RGYAL BA DGE 'DUN RGYA MTSO (1476-1542)",
+    "meta_text": null,
     "cat_ref": "S05573E",
     "work_ref": "W.S05573E",
     "title_tib": "RJE BTZUN THAMS CAD MKHYEN PA'I GSUNG 'BUM THOR BU LAS GRUB MTHA' RGYA MTSOR 'JUG PA'I GRU RDZINGS ZHES BYA BA'I BSTAN BCOS",
-    "title_eng": "The Classical Commentary Called, \"A Ship to Sail the Ocean of Philosophical Schools,\" from Assorted Writings found inthe Collected Works of the Holy and Omniscient One",
+    "title_eng": "The Classical Commentary Called, \"A Ship to Sail the Ocean of Philosophical Schools,\" from Assorted Writings found in",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "RGYAL BA DGE 'DUN RGYA MTSO",
     "subject": [
         {
-            "_id": "280740746037",
-            "subject_path": "SUNGBUM_SUNGBUM/GRUB MTHA'_COMPARATIVE PHILOSOPHY (SIDDHANTA)/HIS HOLINESS THE SECOND DALAI LAMA, RGYAL BA DGE 'DUN RGYA MTSO (1476-1542)",
-            "subject_path_tibetan": "SUNGBUM/GRUB MTHA'/HIS HOLINESS THE SECOND DALAI LAMA, RGYAL BA DGE 'DUN RGYA MTSO (1476-1542)",
-            "subject_path_english": "SUNGBUM/COMPARATIVE PHILOSOPHY (SIDDHANTA)",
+            "_id": "319993528612",
+            "subject_path": "GSUNG 'BUM_Sungbum/GRUB MTHA'_COMPARATIVE PHILOSOPHY (SIDDHANTA)/HIS HOLINESS THE SECOND DALAI LAMA, RGYAL BA DGE 'DUN RGYA MTSO (1476-1542)",
+            "subject_path_tibetan": "GSUNG 'BUM/GRUB MTHA'/HIS HOLINESS THE SECOND DALAI LAMA, RGYAL BA DGE 'DUN RGYA MTSO (1476-1542)",
+            "subject_path_english": "Sungbum/COMPARATIVE PHILOSOPHY (SIDDHANTA)",
             "subject_tibetan": "HIS HOLINESS THE SECOND DALAI LAMA, RGYAL BA DGE 'DUN RGYA MTSO (1476-1542)",
             "subject_english": "COMPARATIVE PHILOSOPHY (SIDDHANTA)"
         }
@@ -31,18 +31,26 @@
     "author": [
         {
             "author_name": "RGYAL BA DGE 'DUN RGYA MTSO",
-            "author_birth": "1476",
-            "author_death": "1542",
+            "author_birth": null,
+            "author_death": null,
             "bdrc_id": "bdr:P84",
             "normalized_name": "RGYAL BA DGE 'DUN RGYA MTSO",
             "bdrc_url": "http://purl.bdrc.io/resource/P84"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "grub mtha'_comparative philosophy (siddhanta)/his holiness the second dalai lama, rgyal ba dge 'dun rgya mtso (1476-1542)",
-            "timestamp": "2024-09-10T02:20:07.710609+00:00"
+            "path": "GSUNG 'BUM_Sungbum/GRUB MTHA'_COMPARATIVE PHILOSOPHY (SIDDHANTA)/HIS HOLINESS THE SECOND DALAI LAMA, RGYAL BA DGE 'DUN RGYA MTSO (1476-1542)",
+            "timestamp": "2024-11-20 05:19:21.374238+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:19:21.374238+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

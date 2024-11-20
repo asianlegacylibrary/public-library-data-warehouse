@@ -1,12 +1,12 @@
 {
     "name": "S00244E_MKHA' 'GRO BRTAN BZHUGS SKABS KYI LHAN THABS MKHA' 'GRO BRTAN BZHUGS_Method for Requesting the Long Life of Eminent Beings through Offerings to Angels_SKYABS RJE KHRI BYANG RIN PO CHE (1901-1981).TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/brtan bzhugs_rituals for a holy being to remain",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/brtan bzhugs_rituals for a holy being to remain/s00244e_mkha' 'gro brtan bzhugs skabs kyi lhan thabs mkha' 'gro brtan bzhugs_method for requesting the long life of eminent beings through offerings to angels_skyabs rje khri byang rin po che (1901-1981).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAANLQ",
-    "revision_id": "613f6656dedfe8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BRTAN BZHUGS_RITUALS FOR A HOLY BEING TO REMAIN",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyi_general treatments/brtan bzhugs_rituals for a holy being to remain/s00244e_mkha' 'gro brtan bzhugs skabs kyi lhan thabs mkha' 'gro brtan bzhugs_method for requesting the long life of eminent beings through offerings to angels_skyabs rje khri byang rin po che (1901-1981).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABZjA",
+    "revision_id": "625a490b7d51e8d294473",
     "content_hash": "d55291ff723c805518881264a9102b321bbd973bfd15e3a79cee7ff63b291e4f",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:14:35.205410",
+    "server_modified": "2024-10-29 21:49:53",
+    "last_sync": "2024-11-19 21:04:09.016925",
     "size": 19021,
     "meta_text": null,
     "cat_ref": "S00244E",
@@ -19,10 +19,10 @@
     "author_simple": "SKYABS RJE KHRI BYANG RIN PO CHE",
     "subject": [
         {
-            "_id": "211646880457",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BRTAN BZHUGS_RITUALS FOR A HOLY BEING TO REMAIN",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/BRTAN BZHUGS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/RITUALS FOR A HOLY BEING TO REMAIN",
+            "_id": "479933706860",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BRTAN BZHUGS_RITUALS FOR A HOLY BEING TO REMAIN",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/BRTAN BZHUGS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/RITUALS FOR A HOLY BEING TO REMAIN",
             "subject_tibetan": "BRTAN BZHUGS",
             "subject_english": "RITUALS FOR A HOLY BEING TO REMAIN"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P2596"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/brtan bzhugs_rituals for a holy being to remain",
-            "timestamp": "2024-09-10T02:14:35.221208+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BRTAN BZHUGS_RITUALS FOR A HOLY BEING TO REMAIN",
+            "timestamp": "2024-11-20 05:04:09.021895+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:04:09.021895+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

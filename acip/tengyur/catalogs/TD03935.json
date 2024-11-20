@@ -1,45 +1,53 @@
 {
     "name": "TD03935_MDO KUN LAS BTUS PA'I BSHAD PA RIN PO CHE SNANG BA'I RGYAN ZHES BYA BA (Sūtra Samuccaya Bhāṣya Ratnalokālaṃkāra (Nāma)).txt",
-    "path": "TENGYUR_TENGYUR/04 DBU MA_Middle Way School (Madhyamaka)/VOL 15 (KI)",
+    "path": "04 DBU MA_Middle Way School (Madhyamaka)/VOL 15 (KI)",
     "download_path": "/tengyur updated 10 31 24 ws/04 dbu ma_middle way school (madhyamaka)/vol 15 (ki)/td03935_mdo kun las btus pa'i bshad pa rin po che snang ba'i rgyan zhes bya ba (sūtra samuccaya bhāṣya ratnalokālaṃkāra (nāma)).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB3PA",
     "revision_id": "62633bc250d308d294473",
     "content_hash": "527e94a388f8f21c2d9f304f8ff659e9b2ebdc16b97b1b137ce5e7415ccb43c9",
     "server_modified": "2024-11-06 00:38:21",
-    "last_sync": "2024-11-13 01:58:09.662641+00:00",
+    "last_sync": "2024-11-20 03:59:02.411713",
     "size": 481983,
+    "meta_text": null,
     "cat_ref": "TD03935",
     "work_ref": "W.TD03935",
-    "title_tib": "MDO KUN LAS BTUS PA'I BSHAD PA RIN PO CHE SNANG BA'I RGYAN ZHES BYA BA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "173482998053",
-            "subject_path": "TENGYUR_TENGYUR/04 DBU MA_Middle Way School (Madhyamaka)/VOL 15 (KI)",
-            "subject_path_tibetan": "TENGYUR/DBU MA/15 (KI)",
-            "subject_path_english": "TENGYUR/Middle Way School (Madhyamaka)/VOL 15 (KI)",
-            "subject_tibetan": "15 (KI)",
-            "subject_english": "VOL 15 (KI)"
+            "_id": "330936115974",
+            "subject_path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 15 (KI)",
+            "subject_path_tibetan": "BSTAN 'GYUR/04 DBU MA/VOL 15 (KI)",
+            "subject_path_english": "Tengyur/Middle Way School (Madhyamaka)",
+            "subject_tibetan": "VOL 15 (KI)",
+            "subject_english": "Middle Way School (Madhyamaka)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Sūtra Samuccaya Bhāṣya Ratnalokālaṃkāra (Nāma)",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 15 (KI)",
+            "timestamp": "2024-11-20 11:59:02.431104+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:58:09.668813+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T11:59:02.431104+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/04 DBU MA_Middle Way School (Madhyamaka)/VOL 15 (KI)",
-            "timestamp": "2024-11-13 01:58:09.668813+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

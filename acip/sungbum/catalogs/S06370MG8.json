@@ -1,12 +1,12 @@
 {
     "name": "S06370MG8_GZHI LAM 'BRAS BU GSUM GYI BSHAD PA GNANG MA THUB PA'I RGYU MTSAN GSAL BA'I DRI LAN_The Humble Declining of a Request to Compose an Explanation of the Concept of 'Basis, Path, and Result'_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
-    "download_path": "/sungbum updated 4 26 23 bk/dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)/s06370mg8_gzhi lam 'bras bu gsum gyi bshad pa gnang ma thub pa'i rgyu mtsan gsal ba'i dri lan_the humble declining of a request to compose an explanation of the concept of 'basis, path, and result'_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAUSA",
-    "revision_id": "613f6668765ae8d294473",
+    "path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "download_path": "/sungbum updated 7 30 23 nl/dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)/s06370mg8_gzhi lam 'bras bu gsum gyi bshad pa gnang ma thub pa'i rgyu mtsan gsal ba'i dri lan_the humble declining of a request to compose an explanation of the concept of 'basis, path, and result'_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABTfg",
+    "revision_id": "625a4839e0d0b8d294473",
     "content_hash": "4bf1b2c74ae32314973e5061b6c488e675e1cff3fd658df778ce090c1e9fd6c6",
-    "server_modified": "2024-03-18T21:54:23",
-    "last_sync": "2024-09-09T19:21:49.308845",
+    "server_modified": "2024-10-29 21:46:13",
+    "last_sync": "2024-11-19 20:53:59.867451",
     "size": 474,
     "meta_text": null,
     "cat_ref": "S06370MG8",
@@ -19,18 +19,18 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "244831615226",
-            "subject_path": "SUNGBUM_SUNGBUM/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_tibetan": "SUNGBUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_english": "SUNGBUM/QUESTIONS AND ANSWERS",
+            "_id": "250883940513",
+            "subject_path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "GSUNG 'BUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "Sungbum/QUESTIONS AND ANSWERS",
             "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
             "subject_english": "QUESTIONS AND ANSWERS"
         },
         {
-            "_id": "258788113524",
-            "subject_path": "SUNGBUM_SUNGBUM/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
-            "subject_path_tibetan": "SUNGBUM/RNAM THAR/MTSAN THOG/DNGUL CHU DHARMA BHADRA",
-            "subject_path_english": "SUNGBUM/BIOGRAPHIES/BY PERSON'S NAME/NGULCHU DHARMA BHADRA (1772-1851)",
+            "_id": "334443335207",
+            "subject_path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "GSUNG 'BUM/RNAM THAR/MTSAN THOG/DNGUL CHU DHARMA BHADRA",
+            "subject_path_english": "Sungbum/BIOGRAPHIES/BY PERSON'S NAME/NGULCHU DHARMA BHADRA (1772-1851)",
             "subject_tibetan": "DNGUL CHU DHARMA BHADRA",
             "subject_english": "NGULCHU DHARMA BHADRA (1772-1851)"
         }
@@ -46,15 +46,29 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
-            "timestamp": "2024-09-10T02:21:49.584994+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "timestamp": "2024-11-20 04:54:07.140980+00:00"
         },
         {
-            "path": "rnam thar_biographies/mtsan thog_by person's name/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)",
-            "timestamp": "2024-09-10T02:23:50.033233+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
+            "timestamp": "2024-11-20 05:15:49.402821+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:54:07.140980+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T05:15:49.402821+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "text"
 }

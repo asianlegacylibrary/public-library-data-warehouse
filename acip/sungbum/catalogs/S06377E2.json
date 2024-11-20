@@ -1,12 +1,12 @@
 {
     "name": "S06377E2_DAM CAN CHOS KYI RGYAL PO PHYI SGRUB KYI RJES GNANG BYA TSUL_Method for Granting Permission into the Practice of Outer Attainment in the Secret Teachings of the King of the Dharma under Pledge_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/chos rgyal_king of all things (dharmaraja)/rjes gnang_rites of permission (anujna)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/chos rgyal_king of all things (dharmaraja)/rjes gnang_rites of permission (anujna)/s06377e2_dam can chos kyi rgyal po phyi sgrub kyi rjes gnang bya tsul_method for granting permission into the practice of outer attainment in the secret teachings of the king of the dharma under pledge_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAKYQ",
-    "revision_id": "613f6652788798d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/CHOS RGYAL_KING OF ALL THINGS (DHARMARAJA)/RJES GNANG_RITES OF PERMISSION (ANUJNA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/chos rgyal_king of all things (dharmaraja)/rjes gnang_rites of permission (anujna)/s06377e2_dam can chos kyi rgyal po phyi sgrub kyi rjes gnang bya tsul_method for granting permission into the practice of outer attainment in the secret teachings of the king of the dharma under pledge_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABdHQ",
+    "revision_id": "625a498aa5d008d294473",
     "content_hash": "76311da60dd025291aacdd6e7f6509b529166ed4dac7abe1cff646f7d63329d7",
-    "server_modified": "2024-03-18T21:54:00",
-    "last_sync": "2024-09-09T19:11:20.457721",
+    "server_modified": "2024-10-29 21:52:06",
+    "last_sync": "2024-11-19 21:10:10.302215",
     "size": 6865,
     "meta_text": null,
     "cat_ref": "S06377E2",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "295670403082",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/CHOS RGYAL_KING OF ALL THINGS (DHARMARAJA)/RJES GNANG_RITES OF PERMISSION (ANUJNA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/CHOS RGYAL/RJES GNANG",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/KING OF ALL THINGS (DHARMARAJA)/RITES OF PERMISSION (ANUJNA)",
+            "_id": "374083820578",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/CHOS RGYAL_KING OF ALL THINGS (DHARMARAJA)/RJES GNANG_RITES OF PERMISSION (ANUJNA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/CHOS RGYAL/RJES GNANG",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/KING OF ALL THINGS (DHARMARAJA)/RITES OF PERMISSION (ANUJNA)",
             "subject_tibetan": "RJES GNANG",
             "subject_english": "RITES OF PERMISSION (ANUJNA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/chos rgyal_king of all things (dharmaraja)/rjes gnang_rites of permission (anujna)",
-            "timestamp": "2024-09-10T02:11:20.463821+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/CHOS RGYAL_KING OF ALL THINGS (DHARMARAJA)/RJES GNANG_RITES OF PERMISSION (ANUJNA)",
+            "timestamp": "2024-11-20 05:10:10.306387+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:10:10.306387+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

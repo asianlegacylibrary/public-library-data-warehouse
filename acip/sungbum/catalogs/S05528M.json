@@ -1,12 +1,12 @@
 {
     "name": "S05528M_TSAD MA'I BSTAN BCOS CHEN PO RIGS PA'I RGYAN_The 'Jewel of Reasoning,' a Major Commentary on Valid Perception_RGYAL BA DGE 'DUN GRUB (1391-1474).TXT",
-    "path": "tsad ma_study of accurate perception (sautrantika school)/tsad ma rnam 'grel (pramana vartika)_a commentary on accurate perception/rgyal ba dge 'dun grub_gyalwa gendun drup",
-    "download_path": "/sungbum updated 4 26 23 bk/tsad ma_study of accurate perception (sautrantika school)/tsad ma rnam 'grel (pramana vartika)_a commentary on accurate perception/rgyal ba dge 'dun grub_gyalwa gendun drup/s05528m_tsad ma'i bstan bcos chen po rigs pa'i rgyan_the 'jewel of reasoning,' a major commentary on valid perception_rgyal ba dge 'dun grub (1391-1474).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAFkg",
-    "revision_id": "613f664484ab68d294473",
+    "path": "TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/TSAD MA RNAM 'GREL (PRAMANA VARTIKA)_A COMMENTARY ON ACCURATE PERCEPTION/RGYAL BA DGE 'DUN GRUB_GYALWA GENDUN DRUP",
+    "download_path": "/sungbum updated 7 30 23 nl/tsad ma_study of accurate perception (sautrantika school)/tsad ma rnam 'grel (pramana vartika)_a commentary on accurate perception/rgyal ba dge 'dun grub_gyalwa gendun drup/s05528m_tsad ma'i bstan bcos chen po rigs pa'i rgyan_the 'jewel of reasoning,' a major commentary on valid perception_rgyal ba dge 'dun grub (1391-1474).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABP3A",
+    "revision_id": "625a47a76cc6b8d294473",
     "content_hash": "21ba00b8c02b0c017065bb0e05cbcd51ec48298a030f721bbfa59497a144045d",
-    "server_modified": "2024-03-18T21:53:45",
-    "last_sync": "2024-09-09T19:06:42.126924",
+    "server_modified": "2024-10-29 21:43:39",
+    "last_sync": "2024-11-19 20:48:43.544611",
     "size": 689441,
     "meta_text": null,
     "cat_ref": "S05528M",
@@ -19,10 +19,10 @@
     "author_simple": "RGYAL BA DGE 'DUN GRUB",
     "subject": [
         {
-            "_id": "854756088271",
-            "subject_path": "SUNGBUM_SUNGBUM/TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/TSAD MA RNAM 'GREL (PRAMANA VARTIKA)_A COMMENTARY ON ACCURATE PERCEPTION/RGYAL BA DGE 'DUN GRUB_GYALWA GENDUN DRUP",
-            "subject_path_tibetan": "SUNGBUM/TSAD MA/TSAD MA RNAM 'GREL (PRAMANA VARTIKA)/RGYAL BA DGE 'DUN GRUB",
-            "subject_path_english": "SUNGBUM/STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/A COMMENTARY ON ACCURATE PERCEPTION/GYALWA GENDUN DRUP",
+            "_id": "920223456617",
+            "subject_path": "GSUNG 'BUM_Sungbum/TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/TSAD MA RNAM 'GREL (PRAMANA VARTIKA)_A COMMENTARY ON ACCURATE PERCEPTION/RGYAL BA DGE 'DUN GRUB_GYALWA GENDUN DRUP",
+            "subject_path_tibetan": "GSUNG 'BUM/TSAD MA/TSAD MA RNAM 'GREL (PRAMANA VARTIKA)/RGYAL BA DGE 'DUN GRUB",
+            "subject_path_english": "Sungbum/STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/A COMMENTARY ON ACCURATE PERCEPTION/GYALWA GENDUN DRUP",
             "subject_tibetan": "RGYAL BA DGE 'DUN GRUB",
             "subject_english": "GYALWA GENDUN DRUP"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P80"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "tsad ma_study of accurate perception (sautrantika school)/tsad ma rnam 'grel (pramana vartika)_a commentary on accurate perception/rgyal ba dge 'dun grub_gyalwa gendun drup",
-            "timestamp": "2024-09-10T02:06:42.148885+00:00"
+            "path": "GSUNG 'BUM_Sungbum/TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/TSAD MA RNAM 'GREL (PRAMANA VARTIKA)_A COMMENTARY ON ACCURATE PERCEPTION/RGYAL BA DGE 'DUN GRUB_GYALWA GENDUN DRUP",
+            "timestamp": "2024-11-20 04:48:43.548568+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:48:43.548568+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,12 +1,12 @@
 {
     "name": "S06370ED0_BDE CHEN ROL MTSO'I BUM RDZAS SMAN LNGA'I SKOR GYI DRI LAN_Response to a Question on the Five Herbs for Vase Pill in the 'Great Bliss Ocean of Sport'_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/bum sgrub_vase creation ritual",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/bum sgrub_vase creation ritual/s06370ed0_bde chen rol mtso'i bum rdzas sman lnga'i skor gyi dri lan_response to a question on the five herbs for vase pill in the 'great bliss ocean of sport'_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAOig",
-    "revision_id": "613f665b610a38d294473",
+    "path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "download_path": "/sungbum updated 7 30 23 nl/dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)/s06370ed0_bde chen rol mtso'i bum rdzas sman lnga'i skor gyi dri lan_response to a question on the five herbs for vase pill in the 'great bliss ocean of sport'_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABSmA",
+    "revision_id": "625a4815d66dc8d294473",
     "content_hash": "27ca5085c6a3505c5abafe97925d0cfdfb80a1c1aa50e14256d554f62ba5b2d9",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:15:52.595188",
+    "server_modified": "2024-10-29 21:45:35",
+    "last_sync": "2024-11-19 20:53:31.804599",
     "size": 260,
     "meta_text": null,
     "cat_ref": "S06370ED0",
@@ -19,20 +19,20 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "119063299810",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BUM SGRUB_VASE CREATION RITUAL",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/BUM SGRUB",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/VASE CREATION RITUAL",
-            "subject_tibetan": "BUM SGRUB",
-            "subject_english": "VASE CREATION RITUAL"
-        },
-        {
-            "_id": "244831615226",
-            "subject_path": "SUNGBUM_SUNGBUM/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_tibetan": "SUNGBUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_english": "SUNGBUM/QUESTIONS AND ANSWERS",
+            "_id": "250883940513",
+            "subject_path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "GSUNG 'BUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "Sungbum/QUESTIONS AND ANSWERS",
             "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
             "subject_english": "QUESTIONS AND ANSWERS"
+        },
+        {
+            "_id": "258131344308",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BUM SGRUB_VASE CREATION RITUAL",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/BUM SGRUB",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/VASE CREATION RITUAL",
+            "subject_tibetan": "BUM SGRUB",
+            "subject_english": "VASE CREATION RITUAL"
         }
     ],
     "items": [],
@@ -46,15 +46,29 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/bum sgrub_vase creation ritual",
-            "timestamp": "2024-09-10T02:15:52.599271+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "timestamp": "2024-11-20 04:54:07.133323+00:00"
         },
         {
-            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
-            "timestamp": "2024-09-10T02:21:49.572200+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BUM SGRUB_VASE CREATION RITUAL",
+            "timestamp": "2024-11-20 05:02:57.808246+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:54:07.133323+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T05:02:57.808246+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "text"
 }

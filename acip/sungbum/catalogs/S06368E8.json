@@ -1,12 +1,12 @@
 {
     "name": "S06368E8_SGROL MA NYER GCIG GI SA BCAD_Outline of the 'Twenty-One of the Lady of Liberation (Tara)'_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/bstod pa_songs of praise (stotra)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/bstod pa_songs of praise (stotra)/s06368e8_sgrol ma nyer gcig gi sa bcad_outline of the 'twenty-one of the lady of liberation (tara)'_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAQHg",
-    "revision_id": "613f665fcd5a38d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/BSTOD PA_SONGS OF PRAISE (STOTRA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/bstod pa_songs of praise (stotra)/s06368e8_sgrol ma nyer gcig gi sa bcad_outline of the 'twenty-one of the lady of liberation (tara)'_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABYTQ",
+    "revision_id": "625a48d95370c8d294473",
     "content_hash": "e6c24e613121796ad75a23a514ff6ee3ad130f599c1179d36736d67428e9421c",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:17:32.479485",
+    "server_modified": "2024-10-29 21:49:00",
+    "last_sync": "2024-11-19 21:02:11.050684",
     "size": 3479,
     "meta_text": null,
     "cat_ref": "S06368E8",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "246570398969",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/BSTOD PA_SONGS OF PRAISE (STOTRA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SGROL MA/BSTOD PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/LADY OF LIBERATION (TARA)/SONGS OF PRAISE (STOTRA)",
+            "_id": "303261266916",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/BSTOD PA_SONGS OF PRAISE (STOTRA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SGROL MA/BSTOD PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/LADY OF LIBERATION (TARA)/SONGS OF PRAISE (STOTRA)",
             "subject_tibetan": "BSTOD PA",
             "subject_english": "SONGS OF PRAISE (STOTRA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/bstod pa_songs of praise (stotra)",
-            "timestamp": "2024-09-10T02:17:32.482037+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/BSTOD PA_SONGS OF PRAISE (STOTRA)",
+            "timestamp": "2024-11-20 05:02:11.054918+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:02:11.054918+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,12 +1,12 @@
 {
     "name": "S05534E_SGROL DKAR THUN MONG MA YIN PA'I RJES GNANG_A Unique Rite of Permission for the Practice of the Lady of Liberation (Tara) in White_RGYAL BA DGE 'DUN GRUB (1391-1474).txt",
-    "path": "rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/rjes gnang_rites of permission (anujna)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/rjes gnang_rites of permission (anujna)/s05534e_sgrol dkar thun mong ma yin pa'i rjes gnang_a unique rite of permission for the practice of the lady of liberation (tara) in white_rgyal ba dge 'dun grub (1391-1474).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAQUg",
-    "revision_id": "613f665fcd5d78d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/RJES GNANG_RITES OF PERMISSION (ANUJNA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/rjes gnang_rites of permission (anujna)/s05534e_sgrol dkar thun mong ma yin pa'i rjes gnang_a unique rite of permission for the practice of the lady of liberation (tara) in white_rgyal ba dge 'dun grub (1391-1474).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABYhQ",
+    "revision_id": "625a48e0457ad8d294473",
     "content_hash": "3509cb36c1e5ae0124cbe5e8025bb8723fd1df44eef3e7d178068d9991c57266",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:17:47.545506",
+    "server_modified": "2024-10-29 21:49:07",
+    "last_sync": "2024-11-19 21:02:33.552164",
     "size": 7165,
     "meta_text": null,
     "cat_ref": "S05534E",
@@ -19,10 +19,10 @@
     "author_simple": "RGYAL BA DGE 'DUN GRUB",
     "subject": [
         {
-            "_id": "897975883105",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/RJES GNANG_RITES OF PERMISSION (ANUJNA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SGROL MA/RJES GNANG",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/LADY OF LIBERATION (TARA)/RITES OF PERMISSION (ANUJNA)",
+            "_id": "206769677984",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/RJES GNANG_RITES OF PERMISSION (ANUJNA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SGROL MA/RJES GNANG",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/LADY OF LIBERATION (TARA)/RITES OF PERMISSION (ANUJNA)",
             "subject_tibetan": "RJES GNANG",
             "subject_english": "RITES OF PERMISSION (ANUJNA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P80"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/rjes gnang_rites of permission (anujna)",
-            "timestamp": "2024-09-10T02:17:47.549389+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/RJES GNANG_RITES OF PERMISSION (ANUJNA)",
+            "timestamp": "2024-11-20 05:02:33.556096+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:02:33.556096+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

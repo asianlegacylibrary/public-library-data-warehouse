@@ -1,12 +1,12 @@
 {
     "name": "S06289E_RJE BTZUN N'A RO MKHA' SPYOD MA'I BLA MA'I RNAL 'BYOR GNAD DON KUN TSANG_Lama-Devotion Ritual for the Practice of the Diamond Queen (Vajrayogini)_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/rdo rje rnal 'byor ma_angel of diamond (vajrayogini)/bla ma'i rnal 'byor_lama practice (guru yoga)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/rdo rje rnal 'byor ma_angel of diamond (vajrayogini)/bla ma'i rnal 'byor_lama practice (guru yoga)/s06289e_rje btzun n'a ro mkha' spyod ma'i bla ma'i rnal 'byor gnad don kun tsang_lama-devotion ritual for the practice of the diamond queen (vajrayogini)_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAJRg",
-    "revision_id": "613f664dc43628d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAL 'BYOR MA_ANGEL OF DIAMOND (VAJRAYOGINI)/BLA MA'I RNAL 'BYOR_LAMA PRACTICE (GURU YOGA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/rdo rje rnal 'byor ma_angel of diamond (vajrayogini)/bla ma'i rnal 'byor_lama practice (guru yoga)/s06289e_rje btzun n'a ro mkha' spyod ma'i bla ma'i rnal 'byor gnad don kun tsang_lama-devotion ritual for the practice of the diamond queen (vajrayogini)_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABbyQ",
+    "revision_id": "625a495f45b028d294473",
     "content_hash": "c75b4f6fcb1d5a726bac0e2eb925698b0df0606918fb6bf896d136c7a98e1b7d",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:10:19.198699",
+    "server_modified": "2024-10-29 21:51:20",
+    "last_sync": "2024-11-19 21:07:47.886714",
     "size": 13812,
     "meta_text": null,
     "cat_ref": "S06289E",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "196320521941",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAL 'BYOR MA_ANGEL OF DIAMOND (VAJRAYOGINI)/BLA MA'I RNAL 'BYOR_LAMA PRACTICE (GURU YOGA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/RDO RJE RNAL 'BYOR MA/BLA MA'I RNAL 'BYOR",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/ANGEL OF DIAMOND (VAJRAYOGINI)/LAMA PRACTICE (GURU YOGA)",
+            "_id": "138306992643",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAL 'BYOR MA_ANGEL OF DIAMOND (VAJRAYOGINI)/BLA MA'I RNAL 'BYOR_LAMA PRACTICE (GURU YOGA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/RDO RJE RNAL 'BYOR MA/BLA MA'I RNAL 'BYOR",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/ANGEL OF DIAMOND (VAJRAYOGINI)/LAMA PRACTICE (GURU YOGA)",
             "subject_tibetan": "BLA MA'I RNAL 'BYOR",
             "subject_english": "LAMA PRACTICE (GURU YOGA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/rdo rje rnal 'byor ma_angel of diamond (vajrayogini)/bla ma'i rnal 'byor_lama practice (guru yoga)",
-            "timestamp": "2024-09-10T02:10:19.246255+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAL 'BYOR MA_ANGEL OF DIAMOND (VAJRAYOGINI)/BLA MA'I RNAL 'BYOR_LAMA PRACTICE (GURU YOGA)",
+            "timestamp": "2024-11-20 05:07:47.891268+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:07:47.891268+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

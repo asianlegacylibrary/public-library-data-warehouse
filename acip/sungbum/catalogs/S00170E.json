@@ -1,12 +1,12 @@
 {
     "name": "S00170E_'JIGS BYED DPA' BO GCIG PA'I MNGON RTOGS MDOR BSDUS_Brief Presentation of the 'Realization' Practice in the Teaching of the Frightener (Bhairava) as a Solitary Warrior (Eka Vira)_LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN (1642-1714).TXT",
-    "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/mngon rtogs_rituals of realization (abhisamaya)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/mngon rtogs_rituals of realization (abhisamaya)/s00170e_'jigs byed dpa' bo gcig pa'i mngon rtogs mdor bsdus_brief presentation of the 'realization' practice in the teaching of the frightener (bhairava) as a solitary warrior (eka vira)_lcang skya ngag dbang blo bzang chos ldan (1642-1714).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAMzQ",
-    "revision_id": "613f6656ded9e8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/MNGON RTOGS_RITUALS OF REALIZATION (ABHISAMAYA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/mngon rtogs_rituals of realization (abhisamaya)/s00170e_'jigs byed dpa' bo gcig pa'i mngon rtogs mdor bsdus_brief presentation of the 'realization' practice in the teaching of the frightener (bhairava) as a solitary warrior (eka vira)_lcang skya ngag dbang blo bzang chos ldan (1642-1714).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABdLg",
+    "revision_id": "625a498e22e348d294473",
     "content_hash": "caf9c93eec2df74d238edaf84efb9064f322522fdc2cc490da215fcbcb70498e",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:14:11.829082",
+    "server_modified": "2024-10-29 21:52:10",
+    "last_sync": "2024-11-19 21:10:24.125402",
     "size": 7807,
     "meta_text": null,
     "cat_ref": "S00170E",
@@ -19,10 +19,10 @@
     "author_simple": "LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN",
     "subject": [
         {
-            "_id": "280040477560",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/MNGON RTOGS_RITUALS OF REALIZATION (ABHISAMAYA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/'JIGS BYED/MNGON RTOGS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/RITUALS OF REALIZATION (ABHISAMAYA)",
+            "_id": "336633370628",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/MNGON RTOGS_RITUALS OF REALIZATION (ABHISAMAYA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/'JIGS BYED/MNGON RTOGS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/RITUALS OF REALIZATION (ABHISAMAYA)",
             "subject_tibetan": "MNGON RTOGS",
             "subject_english": "RITUALS OF REALIZATION (ABHISAMAYA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P209"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/mngon rtogs_rituals of realization (abhisamaya)",
-            "timestamp": "2024-09-10T02:14:11.843300+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/MNGON RTOGS_RITUALS OF REALIZATION (ABHISAMAYA)",
+            "timestamp": "2024-11-20 05:10:25.544862+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:10:25.544862+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

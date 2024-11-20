@@ -1,12 +1,12 @@
 {
     "name": "S12145E_RTZA BA'I BLA MA'I GSOL 'DEBS CHOS KYI RJE NGAG DBANG DPAL LDAN PAS MDZAD PA_A Supplication to the Root Lama composed by that Lord of the Dharma, Ngawang Pelden_CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN (1806-@).TXT",
-    "path": "nyams len_personal practice/gsol 'debs_prayers of supplication/chos rje khal kha ngag dbang dpal ldan _chuje kelka ngawang pelden (1806-?)",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/gsol 'debs_prayers of supplication/chos rje khal kha ngag dbang dpal ldan _chuje kelka ngawang pelden (1806-?)/s12145e_rtza ba'i bla ma'i gsol 'debs chos kyi rje ngag dbang dpal ldan pas mdzad pa_a supplication to the root lama composed by that lord of the dharma, ngawang pelden_chos rje khal kha ngag dbang dpal ldan (1806-@).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAABxA",
-    "revision_id": "613f663b87d0d8d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/GSOL 'DEBS_PRAYERS OF SUPPLICATION/CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN _CHUJE KELKA NGAWANG PELDEN (1806-?)",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/gsol 'debs_prayers of supplication/chos rje khal kha ngag dbang dpal ldan _chuje kelka ngawang pelden (1806-?)/s12145e_rtza ba'i bla ma'i gsol 'debs chos kyi rje ngag dbang dpal ldan pas mdzad pa_a supplication to the root lama composed by that lord of the dharma, ngawang pelden_chos rje khal kha ngag dbang dpal ldan (1806-@).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABjWw",
+    "revision_id": "625a4aaa0f1028d294473",
     "content_hash": "66bb68ae8597d29207f4ef238acfb2f071a29db49bb0ba55623d450513b09df4",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:02:40.896253",
+    "server_modified": "2024-10-29 21:57:07",
+    "last_sync": "2024-11-19 21:20:54.289636",
     "size": 3210,
     "meta_text": null,
     "cat_ref": "S12145E",
@@ -19,10 +19,10 @@
     "author_simple": "CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN",
     "subject": [
         {
-            "_id": "894061769952",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/GSOL 'DEBS_PRAYERS OF SUPPLICATION/CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN _CHUJE KELKA NGAWANG PELDEN (1806-?)",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/GSOL 'DEBS/CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN ",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/PRAYERS OF SUPPLICATION/CHUJE KELKA NGAWANG PELDEN (1806-?)",
+            "_id": "876064640158",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/GSOL 'DEBS_PRAYERS OF SUPPLICATION/CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN _CHUJE KELKA NGAWANG PELDEN (1806-?)",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/GSOL 'DEBS/CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN ",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/PRAYERS OF SUPPLICATION/CHUJE KELKA NGAWANG PELDEN (1806-?)",
             "subject_tibetan": "CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN ",
             "subject_english": "CHUJE KELKA NGAWANG PELDEN (1806-?)"
         }
@@ -38,15 +38,29 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P272"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/gsol 'debs_prayers of supplication/chos rje khal kha ngag dbang dpal ldan _chuje kelka ngawang pelden (1806-?)",
-            "timestamp": "2024-09-10T02:02:40.906554+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/GSOL 'DEBS_PRAYERS OF SUPPLICATION/CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN _CHUJE KELKA NGAWANG PELDEN (1806-?)",
+            "timestamp": "2024-11-20 05:20:54.979998+00:00"
         },
         {
-            "path": "nyams len_personal practice/gsol 'debs_prayers of supplication/chos rje khal kha ngag dbang dpal ldan _chuje kelka ngawang pelden (1806-?)",
-            "timestamp": "2024-09-10T02:02:58.068845+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/GSOL 'DEBS_PRAYERS OF SUPPLICATION/CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN _CHUJE KELKA NGAWANG PELDEN (1806-?)",
+            "timestamp": "2024-11-20 05:21:15.477990+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:20:54.979998+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T05:21:15.477990+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "text"
 }

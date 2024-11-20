@@ -1,45 +1,53 @@
 {
     "name": "TD04130_DGE TSUL GYI BSLAB PA'I GZHI'I MDO (Śrāmaṇera Śikṣa Pada Sūtra).txt",
-    "path": "TENGYUR_TENGYUR/08 'DUL BA_Vowed Morality (Vinaya)/VOL 17 (SU)",
+    "path": "08 'DUL BA_Vowed Morality (Vinaya)/VOL 17 (SU)",
     "download_path": "/tengyur updated 10 31 24 ws/08 'dul ba_vowed morality (vinaya)/vol 17 (su)/td04130_dge tsul gyi bslab pa'i gzhi'i mdo (śrāmaṇera śikṣa pada sūtra).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB2ig",
     "revision_id": "62633b88e83518d294473",
     "content_hash": "cba45e3a9b66395184e34e4e3296f151941a2ba62777d75be536323d525e60d6",
     "server_modified": "2024-11-06 00:37:21",
-    "last_sync": "2024-11-13 01:57:48.587351+00:00",
+    "last_sync": "2024-11-20 03:58:39.326427",
     "size": 50497,
+    "meta_text": null,
     "cat_ref": "TD04130",
     "work_ref": "W.TD04130",
-    "title_tib": "DGE TSUL GYI BSLAB PA'I GZHI'I MDO",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "962331176450",
-            "subject_path": "TENGYUR_TENGYUR/08 'DUL BA_Vowed Morality (Vinaya)/VOL 17 (SU)",
-            "subject_path_tibetan": "TENGYUR/'DUL BA/17 (SU)",
-            "subject_path_english": "TENGYUR/Vowed Morality (Vinaya)/VOL 17 (SU)",
-            "subject_tibetan": "17 (SU)",
-            "subject_english": "VOL 17 (SU)"
+            "_id": "320407306756",
+            "subject_path": "BSTAN 'GYUR_Tengyur/08 'DUL BA_Vowed Morality (Vinaya)/VOL 17 (SU)",
+            "subject_path_tibetan": "BSTAN 'GYUR/08 'DUL BA/VOL 17 (SU)",
+            "subject_path_english": "Tengyur/Vowed Morality (Vinaya)",
+            "subject_tibetan": "VOL 17 (SU)",
+            "subject_english": "Vowed Morality (Vinaya)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Śrāmaṇera Śikṣa Pada Sūtra",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/08 'DUL BA_Vowed Morality (Vinaya)/VOL 17 (SU)",
+            "timestamp": "2024-11-20 11:58:39.361598+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:57:48.593411+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T11:58:39.361598+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/08 'DUL BA_Vowed Morality (Vinaya)/VOL 17 (SU)",
-            "timestamp": "2024-11-13 01:57:48.593411+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

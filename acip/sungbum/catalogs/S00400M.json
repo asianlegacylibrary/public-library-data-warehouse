@@ -1,12 +1,12 @@
 {
     "name": "S00400M_'CHIMS KYI BLO SBYONG_Instructions for Developing the Good Heart composed by the Lama from Chim_MKHAN PO MCHIMS NAM MKHA' GRAGS PA (c. 1175).TXT",
-    "path": "blo sbyong_developing the good heart/'chims kyi blo sbyong_instructions on developing the good heart by a lama from chim",
-    "download_path": "/sungbum updated 4 26 23 bk/blo sbyong_developing the good heart/'chims kyi blo sbyong_instructions on developing the good heart by a lama from chim/s00400m_'chims kyi blo sbyong_instructions for developing the good heart composed by the lama from chim_mkhan po mchims nam mkha' grags pa (c. 1175).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAATHw",
-    "revision_id": "613f6664744428d294473",
+    "path": "BLO SBYONG_DEVELOPING THE GOOD HEART/'CHIMS KYI BLO SBYONG_INSTRUCTIONS ON DEVELOPING THE GOOD HEART BY A LAMA FROM CHIM",
+    "download_path": "/sungbum updated 7 30 23 nl/blo sbyong_developing the good heart/'chims kyi blo sbyong_instructions on developing the good heart by a lama from chim/s00400m_'chims kyi blo sbyong_instructions for developing the good heart composed by the lama from chim_mkhan po mchims nam mkha' grags pa (c. 1175).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABlCg",
+    "revision_id": "625a4ae16b2198d294473",
     "content_hash": "e38e6a3d395579b60df1620baf4a871a23e848ee8c61d557f8db309a49c5617c",
-    "server_modified": "2024-03-18T21:54:19",
-    "last_sync": "2024-09-09T19:20:48.061408",
+    "server_modified": "2024-10-29 21:58:05",
+    "last_sync": "2024-11-19 21:24:25.894453",
     "size": 7640,
     "meta_text": null,
     "cat_ref": "S00400M",
@@ -19,10 +19,10 @@
     "author_simple": "MKHAN PO MCHIMS NAM MKHA' GRAGS PA",
     "subject": [
         {
-            "_id": "286988673937",
-            "subject_path": "SUNGBUM_SUNGBUM/BLO SBYONG_DEVELOPING THE GOOD HEART/'CHIMS KYI BLO SBYONG_INSTRUCTIONS ON DEVELOPING THE GOOD HEART BY A LAMA FROM CHIM",
-            "subject_path_tibetan": "SUNGBUM/BLO SBYONG/'CHIMS KYI BLO SBYONG",
-            "subject_path_english": "SUNGBUM/DEVELOPING THE GOOD HEART/INSTRUCTIONS ON DEVELOPING THE GOOD HEART BY A LAMA FROM CHIM",
+            "_id": "744192081833",
+            "subject_path": "GSUNG 'BUM_Sungbum/BLO SBYONG_DEVELOPING THE GOOD HEART/'CHIMS KYI BLO SBYONG_INSTRUCTIONS ON DEVELOPING THE GOOD HEART BY A LAMA FROM CHIM",
+            "subject_path_tibetan": "GSUNG 'BUM/BLO SBYONG/'CHIMS KYI BLO SBYONG",
+            "subject_path_english": "Sungbum/DEVELOPING THE GOOD HEART/INSTRUCTIONS ON DEVELOPING THE GOOD HEART BY A LAMA FROM CHIM",
             "subject_tibetan": "'CHIMS KYI BLO SBYONG",
             "subject_english": "INSTRUCTIONS ON DEVELOPING THE GOOD HEART BY A LAMA FROM CHIM"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P1060"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "blo sbyong_developing the good heart/'chims kyi blo sbyong_instructions on developing the good heart by a lama from chim",
-            "timestamp": "2024-09-10T02:20:48.063465+00:00"
+            "path": "GSUNG 'BUM_Sungbum/BLO SBYONG_DEVELOPING THE GOOD HEART/'CHIMS KYI BLO SBYONG_INSTRUCTIONS ON DEVELOPING THE GOOD HEART BY A LAMA FROM CHIM",
+            "timestamp": "2024-11-20 05:24:25.900213+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:24:25.900213+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

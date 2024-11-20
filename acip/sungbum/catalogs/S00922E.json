@@ -1,12 +1,12 @@
 {
     "name": "S00922E_LAM RIM BDE LAM GYI BRGYUD 'DEBS_A Supplication to the Lamas of the Lineage of the Teaching on the Steps of the Path to Enlightenment known as the 'Path of Ease'_GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME (1762-1823).TXT",
-    "path": "lam rim_steps of the path/bde lam_path to bliss/gsol 'debs_supplication to the lamas of the lineage",
-    "download_path": "/sungbum updated 4 26 23 bk/lam rim_steps of the path/bde lam_path to bliss/gsol 'debs_supplication to the lamas of the lineage/s00922e_lam rim bde lam gyi brgyud 'debs_a supplication to the lamas of the lineage of the teaching on the steps of the path to enlightenment known as the 'path of ease'_gung thang dkon mchog bstan pa'i sgron me (1762-1823).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAGsQ",
-    "revision_id": "613f66492f11b8d294473",
+    "path": "LAM RIM_STEPS OF THE PATH/BDE LAM_PATH TO BLISS/GSOL 'DEBS_SUPPLICATION TO THE LAMAS OF THE LINEAGE",
+    "download_path": "/sungbum updated 7 30 23 nl/lam rim_steps of the path/bde lam_path to bliss/gsol 'debs_supplication to the lamas of the lineage/s00922e_lam rim bde lam gyi brgyud 'debs_a supplication to the lamas of the lineage of the teaching on the steps of the path to enlightenment known as the 'path of ease'_gung thang dkon mchog bstan pa'i sgron me (1762-1823).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABhQg",
+    "revision_id": "625a4a56f48698d294473",
     "content_hash": "7f09a9465e22b57e06efe06d4dc58d8f885a95a9dfe76386652cdf828481586b",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:07:45.660322",
+    "server_modified": "2024-10-29 21:55:40",
+    "last_sync": "2024-11-19 21:17:34.839486",
     "size": 1315,
     "meta_text": null,
     "cat_ref": "S00922E",
@@ -19,10 +19,10 @@
     "author_simple": "GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME",
     "subject": [
         {
-            "_id": "727171556372",
-            "subject_path": "SUNGBUM_SUNGBUM/LAM RIM_STEPS OF THE PATH/BDE LAM_PATH TO BLISS/GSOL 'DEBS_SUPPLICATION TO THE LAMAS OF THE LINEAGE",
-            "subject_path_tibetan": "SUNGBUM/LAM RIM/BDE LAM/GSOL 'DEBS",
-            "subject_path_english": "SUNGBUM/STEPS OF THE PATH/PATH TO BLISS/SUPPLICATION TO THE LAMAS OF THE LINEAGE",
+            "_id": "316135495968",
+            "subject_path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/BDE LAM_PATH TO BLISS/GSOL 'DEBS_SUPPLICATION TO THE LAMAS OF THE LINEAGE",
+            "subject_path_tibetan": "GSUNG 'BUM/LAM RIM/BDE LAM/GSOL 'DEBS",
+            "subject_path_english": "Sungbum/STEPS OF THE PATH/PATH TO BLISS/SUPPLICATION TO THE LAMAS OF THE LINEAGE",
             "subject_tibetan": "GSOL 'DEBS",
             "subject_english": "SUPPLICATION TO THE LAMAS OF THE LINEAGE"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P298"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "lam rim_steps of the path/bde lam_path to bliss/gsol 'debs_supplication to the lamas of the lineage",
-            "timestamp": "2024-09-10T02:07:45.678121+00:00"
+            "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/BDE LAM_PATH TO BLISS/GSOL 'DEBS_SUPPLICATION TO THE LAMAS OF THE LINEAGE",
+            "timestamp": "2024-11-20 05:17:34.843754+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:17:34.843754+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

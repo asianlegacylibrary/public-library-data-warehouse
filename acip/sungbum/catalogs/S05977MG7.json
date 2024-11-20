@@ -1,12 +1,12 @@
 {
     "name": "S05977MG7_YANG SMON PA'I DON TSIGS BCAD DU BSDEBS PA LEGS LDAN RGYA MTSO MA_The 'Ocean of the Excellent,' being Further Verses of Prayer for the Attainment of Wishes_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662).TXT",
-    "path": "nyams len_personal practice/smon lam_making prayers/pan chen blo bzang chos kyi rgyal mtsan_panchen lobsang chukyi gyeltsen (1565-1662)",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/smon lam_making prayers/pan chen blo bzang chos kyi rgyal mtsan_panchen lobsang chukyi gyeltsen (1565-1662)/s05977mg7_yang smon pa'i don tsigs bcad du bsdebs pa legs ldan rgya mtso ma_the 'ocean of the excellent,' being further verses of prayer for the attainment of wishes_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAACBA",
-    "revision_id": "613f663ffc6f78d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/smon lam_making prayers/pan chen blo bzang chos kyi rgyal mtsan_panchen lobsang chukyi gyeltsen (1565-1662)/s05977mg7_yang smon pa'i don tsigs bcad du bsdebs pa legs ldan rgya mtso ma_the 'ocean of the excellent,' being further verses of prayer for the attainment of wishes_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABkkg",
+    "revision_id": "625a4ad55c9928d294473",
     "content_hash": "4ba5217f5528dda8b48855114e40b476101dcd7a197f513c59b2f77f3564c4bf",
-    "server_modified": "2024-03-18T21:53:40",
-    "last_sync": "2024-09-09T19:03:13.459029",
+    "server_modified": "2024-10-29 21:57:53",
+    "last_sync": "2024-11-19 21:23:34.813053",
     "size": 3671,
     "meta_text": null,
     "cat_ref": "S05977MG7",
@@ -19,11 +19,11 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "129475331094",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/PAN CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/SMON LAM/PAN CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/MAKING PRAYERS/PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
-            "subject_tibetan": "PAN CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
+            "_id": "261817344784",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/SMON LAM/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/MAKING PRAYERS/PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+            "subject_tibetan": "PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
             "subject_english": "PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)"
         }
     ],
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/smon lam_making prayers/pan chen blo bzang chos kyi rgyal mtsan_panchen lobsang chukyi gyeltsen (1565-1662)",
-            "timestamp": "2024-09-10T02:03:13.477090+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+            "timestamp": "2024-11-20 05:23:35.417457+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:23:35.417457+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

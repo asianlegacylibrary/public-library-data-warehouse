@@ -1,45 +1,53 @@
 {
     "name": "TD03856_DBU MA'I SNYING PO'I 'GREL PA RTOG GE 'BAR BA (Madhyamaka Hṛdaya Vṛtti Tarka Jvāla).txt",
-    "path": "TENGYUR_TENGYUR/04 DBU MA_Middle Way School (Madhyamaka)/VOL 3 (DZA)",
+    "path": "04 DBU MA_Middle Way School (Madhyamaka)/VOL 3 (DZA)",
     "download_path": "/tengyur updated 10 31 24 ws/04 dbu ma_middle way school (madhyamaka)/vol 3 (dza)/td03856_dbu ma'i snying po'i 'grel pa rtog ge 'bar ba (madhyamaka hṛdaya vṛtti tarka jvāla).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB3Cw",
     "revision_id": "62633bb4b2c7f8d294473",
     "content_hash": "e27cd3926c48c4031360c278da0050d433b434481db830c7dd1c812d5d70b947",
     "server_modified": "2024-11-06 00:38:07",
-    "last_sync": "2024-11-13 01:58:05.222891+00:00",
+    "last_sync": "2024-11-20 03:58:56.640170",
     "size": 1130313,
+    "meta_text": null,
     "cat_ref": "TD03856",
     "work_ref": "W.TD03856",
-    "title_tib": "DBU MA'I SNYING PO'I 'GREL PA RTOG GE 'BAR BA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "253518543063",
-            "subject_path": "TENGYUR_TENGYUR/04 DBU MA_Middle Way School (Madhyamaka)/VOL 3 (DZA)",
-            "subject_path_tibetan": "TENGYUR/DBU MA/3 (DZA)",
-            "subject_path_english": "TENGYUR/Middle Way School (Madhyamaka)/VOL 3 (DZA)",
-            "subject_tibetan": "3 (DZA)",
-            "subject_english": "VOL 3 (DZA)"
+            "_id": "525140248947",
+            "subject_path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 3 (DZA)",
+            "subject_path_tibetan": "BSTAN 'GYUR/04 DBU MA/VOL 3 (DZA)",
+            "subject_path_english": "Tengyur/Middle Way School (Madhyamaka)",
+            "subject_tibetan": "VOL 3 (DZA)",
+            "subject_english": "Middle Way School (Madhyamaka)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Madhyamaka Hṛdaya Vṛtti Tarka Jvāla",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 3 (DZA)",
+            "timestamp": "2024-11-20 11:58:56.643192+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:58:05.224220+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T11:58:56.643192+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/04 DBU MA_Middle Way School (Madhyamaka)/VOL 3 (DZA)",
-            "timestamp": "2024-11-13 01:58:05.224220+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

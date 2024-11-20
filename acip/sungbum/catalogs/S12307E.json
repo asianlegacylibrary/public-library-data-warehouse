@@ -1,28 +1,28 @@
 {
     "name": "S12307E_DPAL PHYAG NA RDO RJE 'KHOR LO CHEN PO'I DBANG GI SNGON 'GRO'I BSHAD PA LA NYE BAR MKHO BA'I YIG CHUNG_A Brief Text Necessary for Granting the Preliminary Teaching before an Empowerment into the Glorious One, the Holder of the Diamond, the G +.TXT",
-    "path": "rgyud_secret teachings (tantra)/'khor lo chen po_great wheel (mahachakra)/dbang_empowerment (abhisheka)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/'khor lo chen po_great wheel (mahachakra)/dbang_empowerment (abhisheka)/s12307e_dpal phyag na rdo rje 'khor lo chen po'i dbang gi sngon 'gro'i bshad pa la nye bar mkho ba'i yig chung_a brief text necessary for granting the preliminary teaching before an empowerment into the glorious one, the holder of the diamond, the g +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAHng",
-    "revision_id": "613f66492f2088d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/'KHOR LO CHEN PO_GREAT WHEEL (MAHACHAKRA)/DBANG_EMPOWERMENT (ABHISHEKA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/'khor lo chen po_great wheel (mahachakra)/dbang_empowerment (abhisheka)/s12307e_dpal phyag na rdo rje 'khor lo chen po'i dbang gi sngon 'gro'i bshad pa la nye bar mkho ba'i yig chung_a brief text necessary for granting the preliminary teaching before an empowerment into the glorious one, the holder of the diamond, the g +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABX3w",
+    "revision_id": "625a48ced0c978d294473",
     "content_hash": "a118ab330e08c11d74a49e38d39a1404cb08a192c5298c8371575b9574670386",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:08:40.644742",
+    "server_modified": "2024-10-29 21:48:49",
+    "last_sync": "2024-11-19 21:01:37.356638",
     "size": 20195,
-    "meta_text": "reat Wheel (Mahachakra)_LCANG LUNG AARYA PAndI TA NGAG DBANG BLO BZANG BSTAN PA'I RGYAL MTSAN (1770-1845)",
+    "meta_text": "(\"reat Wheel (Mahachakra)_LCANG LUNG AARYA PAndI TA NGAG DBANG BLO BZANG BSTAN PA'I RGYAL MTSAN (1770-1845)\", 'rtf')",
     "cat_ref": "S12307E",
     "work_ref": "W.S12307E",
     "title_tib": "DPAL PHYAG NA RDO RJE 'KHOR LO CHEN PO'I DBANG GI SNGON 'GRO'I BSHAD PA LA NYE BAR MKHO BA'I YIG CHUNG",
-    "title_eng": "A Brief Text Necessary for Granting the Preliminary Teaching before an Empowerment into the Glorious One, the Holder of the Diamond, the Great Wheel (Mahachakra)",
+    "title_eng": "A Brief Text Necessary for Granting the Preliminary Teaching before an Empowerment into the Glorious One, the Holder of the Diamond, the G(\"reat Wheel (Mahachakra)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "LCANG LUNG AARYA PAnDI TA NGAG DBANG BLO BZANG BSTAN PA'I RGYAL MTSAN",
     "subject": [
         {
-            "_id": "177791796985",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/'KHOR LO CHEN PO_GREAT WHEEL (MAHACHAKRA)/DBANG_EMPOWERMENT (ABHISHEKA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/'KHOR LO CHEN PO/DBANG",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GREAT WHEEL (MAHACHAKRA)/EMPOWERMENT (ABHISHEKA)",
+            "_id": "216915758648",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'KHOR LO CHEN PO_GREAT WHEEL (MAHACHAKRA)/DBANG_EMPOWERMENT (ABHISHEKA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/'KHOR LO CHEN PO/DBANG",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GREAT WHEEL (MAHACHAKRA)/EMPOWERMENT (ABHISHEKA)",
             "subject_tibetan": "DBANG",
             "subject_english": "EMPOWERMENT (ABHISHEKA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P290"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/'khor lo chen po_great wheel (mahachakra)/dbang_empowerment (abhisheka)",
-            "timestamp": "2024-09-10T02:08:40.654573+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'KHOR LO CHEN PO_GREAT WHEEL (MAHACHAKRA)/DBANG_EMPOWERMENT (ABHISHEKA)",
+            "timestamp": "2024-11-20 05:01:37.364408+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:01:37.364408+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

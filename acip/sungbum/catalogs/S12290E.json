@@ -1,28 +1,28 @@
 {
     "name": "S12290E_BDAG CAG GI STON PA SNGON BYANG CHUB SEMS DPA' LHA'I DBANG PO BRGYA BYIN BUM PA CAN DU 'KHRUNGS PA'I RTOGS BRJOD KYI 'GREL PA LEGS BSHAD SGRON ME_The Light of Excellent Words-- A commentary upon the Account of the Life of Our Teacher, Lord +.TXT",
-    "path": "mdo 'grel_commentaries to sutras/rtogs brjod (avadana)_accounts of the lives of saints",
-    "download_path": "/sungbum updated 4 26 23 bk/mdo 'grel_commentaries to sutras/rtogs brjod (avadana)_accounts of the lives of saints/s12290e_bdag cag gi ston pa sngon byang chub sems dpa' lha'i dbang po brgya byin bum pa can du 'khrungs pa'i rtogs brjod kyi 'grel pa legs bshad sgron me_the light of excellent words-- a commentary upon the account of the life of our teacher, lord +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAE9Q",
-    "revision_id": "613f664484a198d294473",
+    "path": "MDO 'GREL_COMMENTARIES TO SUTRAS/RTOGS BRJOD (AVADANA)_ACCOUNTS OF THE LIVES OF SAINTS",
+    "download_path": "/sungbum updated 7 30 23 nl/mdo 'grel_commentaries to sutras/rtogs brjod (avadana)_accounts of the lives of saints/s12290e_bdag cag gi ston pa sngon byang chub sems dpa' lha'i dbang po brgya byin bum pa can du 'khrungs pa'i rtogs brjod kyi 'grel pa legs bshad sgron me_the light of excellent words-- a commentary upon the account of the life of our teacher, lord +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABOcQ",
+    "revision_id": "625a476f9abcb8d294473",
     "content_hash": "c86189a318a1b7cdc51d828b5b685f27f1ac826c957bdf49cbadb9c0870ad94b",
-    "server_modified": "2024-03-18T21:53:45",
-    "last_sync": "2024-09-09T19:06:08.944698",
+    "server_modified": "2024-10-29 21:42:41",
+    "last_sync": "2024-11-19 20:46:15.340284",
     "size": 51342,
-    "meta_text": "Buddha, when in Days of Old He Took Birth as the Bodhisattva Lord of the Gods, Destroyer of the Hundred, Keeping a Vase_LCANG LUNG AARYA PAndI TA NGAG DBANG BLO BZANG BSTAN PA'I RGYAL MTSAN (1770-1845)",
+    "meta_text": "(\"Buddha, when in Days of Old He Took Birth as the Bodhisattva Lord of the Gods, Destroyer of the Hundred, Keeping a Vase_LCANG LUNG AARYA PAndI TA NGAG DBANG BLO BZANG BSTAN PA'I RGYAL MTSAN (1770-1845)\", 'rtf')",
     "cat_ref": "S12290E",
     "work_ref": "W.S12290E",
     "title_tib": "BDAG CAG GI STON PA SNGON BYANG CHUB SEMS DPA' LHA'I DBANG PO BRGYA BYIN BUM PA CAN DU 'KHRUNGS PA'I RTOGS BRJOD KYI 'GREL PA LEGS BSHAD SGRON ME",
-    "title_eng": "The Light of Excellent Words-- A commentary upon the Account of the Life of Our Teacher, LordBuddha, when in Days of Old He Took Birth as the Bodhisattva Lord of the Gods, Destroyer of the Hundred, Keeping a Vase",
+    "title_eng": "The Light of Excellent Words-- A commentary upon the Account of the Life of Our Teacher, Lord(\"Buddha, when in Days of Old He Took Birth as the Bodhisattva Lord of the Gods, Destroyer of the Hundred, Keeping a Vase",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "LCANG LUNG AARYA PAnDI TA NGAG DBANG BLO BZANG BSTAN PA'I RGYAL MTSAN",
     "subject": [
         {
-            "_id": "168019896186",
-            "subject_path": "SUNGBUM_SUNGBUM/MDO 'GREL_COMMENTARIES TO SUTRAS/RTOGS BRJOD (AVADANA)_ACCOUNTS OF THE LIVES OF SAINTS",
-            "subject_path_tibetan": "SUNGBUM/MDO 'GREL/RTOGS BRJOD (AVADANA)",
-            "subject_path_english": "SUNGBUM/COMMENTARIES TO SUTRAS/ACCOUNTS OF THE LIVES OF SAINTS",
+            "_id": "810267972074",
+            "subject_path": "GSUNG 'BUM_Sungbum/MDO 'GREL_COMMENTARIES TO SUTRAS/RTOGS BRJOD (AVADANA)_ACCOUNTS OF THE LIVES OF SAINTS",
+            "subject_path_tibetan": "GSUNG 'BUM/MDO 'GREL/RTOGS BRJOD (AVADANA)",
+            "subject_path_english": "Sungbum/COMMENTARIES TO SUTRAS/ACCOUNTS OF THE LIVES OF SAINTS",
             "subject_tibetan": "RTOGS BRJOD (AVADANA)",
             "subject_english": "ACCOUNTS OF THE LIVES OF SAINTS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P290"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "mdo 'grel_commentaries to sutras/rtogs brjod (avadana)_accounts of the lives of saints",
-            "timestamp": "2024-09-10T02:06:08.951476+00:00"
+            "path": "GSUNG 'BUM_Sungbum/MDO 'GREL_COMMENTARIES TO SUTRAS/RTOGS BRJOD (AVADANA)_ACCOUNTS OF THE LIVES OF SAINTS",
+            "timestamp": "2024-11-20 04:46:15.346314+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:46:15.346314+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

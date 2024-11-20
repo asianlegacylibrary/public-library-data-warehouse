@@ -1,14 +1,14 @@
 {
     "name": "S12012E_TSE RABS RJES 'DZIN GYI SMON TSIG 'DOD DON PADMO BZHAD PA'I NYIN BYED_Daymaker, the Sun that Opens the Lotus of Our Every Wish-- A Prayer that the Holy One Takes us after Them in All Our Lives_DRUNG CHEN SHES RAB RGYA MTSO PRADZNY'A'I MTSAN +.TXT",
-    "path": "nyams len_personal practice/smon lam_making prayers/drung chen shes rab rgya mtso pradzny'a'i mtsan can_drungchen sherab gyatso prajnay tsenchen (1803-1875)",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/smon lam_making prayers/drung chen shes rab rgya mtso pradzny'a'i mtsan can_drungchen sherab gyatso prajnay tsenchen (1803-1875)/s12012e_tse rabs rjes 'dzin gyi smon tsig 'dod don padmo bzhad pa'i nyin byed_daymaker, the sun that opens the lotus of our every wish-- a prayer that the holy one takes us after them in all our lives_drung chen shes rab rgya mtso pradzny'a'i mtsan +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAB_A",
-    "revision_id": "613f663ffc6ef8d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/DRUNG CHEN SHES RAB RGYA MTSO PRADZNY'A'I MTSAN CAN_DRUNGCHEN SHERAB GYATSO PRAJNAY TSENCHEN (1803-1875)",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/smon lam_making prayers/drung chen shes rab rgya mtso pradzny'a'i mtsan can_drungchen sherab gyatso prajnay tsenchen (1803-1875)/s12012e_tse rabs rjes 'dzin gyi smon tsig 'dod don padmo bzhad pa'i nyin byed_daymaker, the sun that opens the lotus of our every wish-- a prayer that the holy one takes us after them in all our lives_drung chen shes rab rgya mtso pradzny'a'i mtsan +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABkeQ",
+    "revision_id": "625a4ad29d00a8d294473",
     "content_hash": "693d4014b5d8d7da40827477c0688ada60b8c459f178ff8cc7f5c072fd99920f",
-    "server_modified": "2024-03-18T21:53:40",
-    "last_sync": "2024-09-09T19:03:09.068677",
+    "server_modified": "2024-10-29 21:57:50",
+    "last_sync": "2024-11-19 21:23:30.931433",
     "size": 3574,
-    "meta_text": "CAN (1803-1875)",
+    "meta_text": "('CAN (1803-1875)', 'rtf')",
     "cat_ref": "S12012E",
     "work_ref": "W.S12012E",
     "title_tib": "TSE RABS RJES 'DZIN GYI SMON TSIG 'DOD DON PADMO BZHAD PA'I NYIN BYED",
@@ -19,10 +19,10 @@
     "author_simple": "DRUNG CHEN SHES RAB RGYA MTSO PRADZNY'A'I MTSAN CAN",
     "subject": [
         {
-            "_id": "230973268170",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/DRUNG CHEN SHES RAB RGYA MTSO PRADZNY'A'I MTSAN CAN_DRUNGCHEN SHERAB GYATSO PRAJNAY TSENCHEN (1803-1875)",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/SMON LAM/DRUNG CHEN SHES RAB RGYA MTSO PRADZNY'A'I MTSAN CAN",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/MAKING PRAYERS/DRUNGCHEN SHERAB GYATSO PRAJNAY TSENCHEN (1803-1875)",
+            "_id": "187766712746",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/DRUNG CHEN SHES RAB RGYA MTSO PRADZNY'A'I MTSAN CAN_DRUNGCHEN SHERAB GYATSO PRAJNAY TSENCHEN (1803-1875)",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/SMON LAM/DRUNG CHEN SHES RAB RGYA MTSO PRADZNY'A'I MTSAN CAN",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/MAKING PRAYERS/DRUNGCHEN SHERAB GYATSO PRAJNAY TSENCHEN (1803-1875)",
             "subject_tibetan": "DRUNG CHEN SHES RAB RGYA MTSO PRADZNY'A'I MTSAN CAN",
             "subject_english": "DRUNGCHEN SHERAB GYATSO PRAJNAY TSENCHEN (1803-1875)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P123"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/smon lam_making prayers/drung chen shes rab rgya mtso pradzny'a'i mtsan can_drungchen sherab gyatso prajnay tsenchen (1803-1875)",
-            "timestamp": "2024-09-10T02:03:09.074524+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/DRUNG CHEN SHES RAB RGYA MTSO PRADZNY'A'I MTSAN CAN_DRUNGCHEN SHERAB GYATSO PRAJNAY TSENCHEN (1803-1875)",
+            "timestamp": "2024-11-20 05:23:31.614573+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:23:31.614573+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

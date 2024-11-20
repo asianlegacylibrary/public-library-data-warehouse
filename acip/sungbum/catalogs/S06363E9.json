@@ -1,14 +1,14 @@
 {
     "name": "S06363E9_BCOM LDAN 'DAS RNAM PAR SNANG MDZAD KYI BDAG BSKYED MDOR BSDUS NYAMS SU LEN TSUL_Brief Ritual for the Practice of Making Oneself the Angel, in the Teaching of the Transcendent Victor, Various Appearances (Vairochana)_DNGUL CHU DHARMA BHADRA +.TXT",
-    "path": "rgyud_secret teachings (tantra)/rnam par snang mdzad_appearances (vairochana)/rnal 'byor_practices",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/rnam par snang mdzad_appearances (vairochana)/rnal 'byor_practices/s06363e9_bcom ldan 'das rnam par snang mdzad kyi bdag bskyed mdor bsdus nyams su len tsul_brief ritual for the practice of making oneself the angel, in the teaching of the transcendent victor, various appearances (vairochana)_dngul chu dharma bhadra +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAJsQ",
-    "revision_id": "613f664dc43cd8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/RNAM PAR SNANG MDZAD_APPEARANCES (VAIROCHANA)/RNAL 'BYOR_PRACTICES",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/rnam par snang mdzad_appearances (vairochana)/rnal 'byor_practices/s06363e9_bcom ldan 'das rnam par snang mdzad kyi bdag bskyed mdor bsdus nyams su len tsul_brief ritual for the practice of making oneself the angel, in the teaching of the transcendent victor, various appearances (vairochana)_dngul chu dharma bhadra +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABcmw",
+    "revision_id": "625a497df98e78d294473",
     "content_hash": "9a55dc3241404357b18caac4248e0980a7783f33832ae91382cf60f94cb38910",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:10:44.751920",
+    "server_modified": "2024-10-29 21:51:53",
+    "last_sync": "2024-11-19 21:09:20.622783",
     "size": 3306,
-    "meta_text": "(1772-1851)",
+    "meta_text": "('(1772-1851)', 'rtf')",
     "cat_ref": "S06363E9",
     "work_ref": "W.S06363E9",
     "title_tib": "BCOM LDAN 'DAS RNAM PAR SNANG MDZAD KYI BDAG BSKYED MDOR BSDUS NYAMS SU LEN TSUL",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "256505050088",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/RNAM PAR SNANG MDZAD_APPEARANCES (VAIROCHANA)/RNAL 'BYOR_PRACTICES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/RNAM PAR SNANG MDZAD/RNAL 'BYOR",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/APPEARANCES (VAIROCHANA)/PRACTICES",
+            "_id": "399398356434",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RNAM PAR SNANG MDZAD_APPEARANCES (VAIROCHANA)/RNAL 'BYOR_PRACTICES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/RNAM PAR SNANG MDZAD/RNAL 'BYOR",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/APPEARANCES (VAIROCHANA)/PRACTICES",
             "subject_tibetan": "RNAL 'BYOR",
             "subject_english": "PRACTICES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/rnam par snang mdzad_appearances (vairochana)/rnal 'byor_practices",
-            "timestamp": "2024-09-10T02:10:44.759686+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RNAM PAR SNANG MDZAD_APPEARANCES (VAIROCHANA)/RNAL 'BYOR_PRACTICES",
+            "timestamp": "2024-11-20 05:09:20.628667+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:09:20.628667+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

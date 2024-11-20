@@ -1,12 +1,12 @@
 {
     "name": "S06370M13_BYANG SEMS KYI SDOM PA NYI SHU PA'I SKOR GYI DRI LAN_Responses to Questions about the 'Twenty Verses on the Bodhisattva Vows'_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "lam rim_steps of the path/sdom pa nyi shu pa_the 20 vows/'grel pa_commentaries",
-    "download_path": "/sungbum updated 4 26 23 bk/lam rim_steps of the path/sdom pa nyi shu pa_the 20 vows/'grel pa_commentaries/s06370m13_byang sems kyi sdom pa nyi shu pa'i skor gyi dri lan_responses to questions about the 'twenty verses on the bodhisattva vows'_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAGOA",
-    "revision_id": "613f66492f0a28d294473",
+    "path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "download_path": "/sungbum updated 7 30 23 nl/dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)/s06370m13_byang sems kyi sdom pa nyi shu pa'i skor gyi dri lan_responses to questions about the 'twenty verses on the bodhisattva vows'_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABTVw",
+    "revision_id": "625a483460d5f8d294473",
     "content_hash": "67bc3f468212a8ef2c138c480e785d0a82ec879bd150c45b15091b3ccd6f2168",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:07:22.019512",
+    "server_modified": "2024-10-29 21:46:07",
+    "last_sync": "2024-11-19 20:53:56.576763",
     "size": 3468,
     "meta_text": null,
     "cat_ref": "S06370M13",
@@ -19,20 +19,20 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "120353132522",
-            "subject_path": "SUNGBUM_SUNGBUM/LAM RIM_STEPS OF THE PATH/SDOM PA NYI SHU PA_THE 20 VOWS/'GREL PA_COMMENTARIES",
-            "subject_path_tibetan": "SUNGBUM/LAM RIM/SDOM PA NYI SHU PA/'GREL PA",
-            "subject_path_english": "SUNGBUM/STEPS OF THE PATH/THE 20 VOWS/COMMENTARIES",
-            "subject_tibetan": "'GREL PA",
-            "subject_english": "COMMENTARIES"
-        },
-        {
-            "_id": "244831615226",
-            "subject_path": "SUNGBUM_SUNGBUM/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_tibetan": "SUNGBUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_english": "SUNGBUM/QUESTIONS AND ANSWERS",
+            "_id": "250883940513",
+            "subject_path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "GSUNG 'BUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "Sungbum/QUESTIONS AND ANSWERS",
             "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
             "subject_english": "QUESTIONS AND ANSWERS"
+        },
+        {
+            "_id": "269353901350",
+            "subject_path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/SDOM PA NYI SHU PA_THE 20 VOWS/'GREL PA_COMMENTARIES",
+            "subject_path_tibetan": "GSUNG 'BUM/LAM RIM/SDOM PA NYI SHU PA/'GREL PA",
+            "subject_path_english": "Sungbum/STEPS OF THE PATH/THE 20 VOWS/COMMENTARIES",
+            "subject_tibetan": "'GREL PA",
+            "subject_english": "COMMENTARIES"
         }
     ],
     "items": [],
@@ -46,15 +46,29 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "lam rim_steps of the path/sdom pa nyi shu pa_the 20 vows/'grel pa_commentaries",
-            "timestamp": "2024-09-10T02:07:22.025149+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "timestamp": "2024-11-20 04:54:07.139748+00:00"
         },
         {
-            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
-            "timestamp": "2024-09-10T02:21:49.523405+00:00"
+            "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/SDOM PA NYI SHU PA_THE 20 VOWS/'GREL PA_COMMENTARIES",
+            "timestamp": "2024-11-20 05:17:38.924232+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:54:07.139748+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T05:17:38.924232+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "text"
 }

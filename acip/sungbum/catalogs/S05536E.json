@@ -1,12 +1,12 @@
 {
     "name": "S05536E_DPAL DUS KYI 'KHOR LO'I RIM GNYIS KYI ZIN BRIS MKHAS PA'I YID 'PHROG_Stealing the Hearts of the Wise--Notes on the Two Stages of the Practice in the Glorious Wheel of Time_RGYAL BA DGE 'DUN GRUB (1391-1474).txt",
-    "path": "rgyud_secret teachings (tantra)/dus 'khor_wheel of time (kalachakra)/'grel pa_commentaries",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/dus 'khor_wheel of time (kalachakra)/'grel pa_commentaries/s05536e_dpal dus kyi 'khor lo'i rim gnyis kyi zin bris mkhas pa'i yid 'phrog_stealing the hearts of the wise--notes on the two stages of the practice in the glorious wheel of time_rgyal ba dge 'dun grub (1391-1474).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAIvA",
-    "revision_id": "613f664dc42d88d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/'GREL PA_COMMENTARIES",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/dus 'khor_wheel of time (kalachakra)/'grel pa_commentaries/s05536e_dpal dus kyi 'khor lo'i rim gnyis kyi zin bris mkhas pa'i yid 'phrog_stealing the hearts of the wise--notes on the two stages of the practice in the glorious wheel of time_rgyal ba dge 'dun grub (1391-1474).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABayg",
+    "revision_id": "625a4937e374a8d294473",
     "content_hash": "74f358319ab119352e1a4351077c15040259c8ccb399f37bb1186d37b7739ef6",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:09:48.420107",
+    "server_modified": "2024-10-29 21:50:39",
+    "last_sync": "2024-11-19 21:06:03.283795",
     "size": 47501,
     "meta_text": null,
     "cat_ref": "S05536E",
@@ -19,10 +19,10 @@
     "author_simple": "RGYAL BA DGE 'DUN GRUB",
     "subject": [
         {
-            "_id": "320233480126",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/'GREL PA_COMMENTARIES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/DUS 'KHOR/'GREL PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/WHEEL OF TIME (KALACHAKRA)/COMMENTARIES",
+            "_id": "224032789210",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/'GREL PA_COMMENTARIES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/DUS 'KHOR/'GREL PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/WHEEL OF TIME (KALACHAKRA)/COMMENTARIES",
             "subject_tibetan": "'GREL PA",
             "subject_english": "COMMENTARIES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P80"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/dus 'khor_wheel of time (kalachakra)/'grel pa_commentaries",
-            "timestamp": "2024-09-10T02:09:48.509407+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/'GREL PA_COMMENTARIES",
+            "timestamp": "2024-11-20 05:06:08.038032+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:06:08.038032+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

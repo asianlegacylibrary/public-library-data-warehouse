@@ -1,12 +1,12 @@
 {
     "name": "S12201E_CHAB SHOG GI SKOR RNAMS CHABS GCIG TU BSDEBS PA_A Compilation of Epistles_PAN CHEN BLA MA SKU PHRENG GSUM PA DPAL LDAN YE SHES (1738-1780).TXT",
-    "path": "'phrin yig_epistles/pan chen bla ma sku phreng gsum pa dpal ldan ye shes_panchen lama kutreng sumpa pelden yeshe (1738-1780)",
-    "download_path": "/sungbum updated 4 26 23 bk/'phrin yig_epistles/pan chen bla ma sku phreng gsum pa dpal ldan ye shes_panchen lama kutreng sumpa pelden yeshe (1738-1780)/s12201e_chab shog gi skor rnams chabs gcig tu bsdebs pa_a compilation of epistles_pan chen bla ma sku phreng gsum pa dpal ldan ye shes (1738-1780).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAXiw",
-    "revision_id": "613f666d88e438d294473",
+    "path": "'PHRIN YIG_EPISTLES/PAN CHEN BLA MA SKU PHRENG GSUM PA DPAL LDAN YE SHES_PANCHEN LAMA KUTRENG SUMPA PELDEN YESHE (1738-1780)",
+    "download_path": "/sungbum updated 7 30 23 nl/'phrin yig_epistles/pan chen bla ma sku phreng gsum pa dpal ldan ye shes_panchen lama kutreng sumpa pelden yeshe (1738-1780)/s12201e_chab shog gi skor rnams chabs gcig tu bsdebs pa_a compilation of epistles_pan chen bla ma sku phreng gsum pa dpal ldan ye shes (1738-1780).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABQwg",
+    "revision_id": "625a47caa00678d294473",
     "content_hash": "cb110c430464c19016cb192afa1ecbd2cd48fa1b3424532f295a6e8f12524052",
-    "server_modified": "2024-03-18T21:54:28",
-    "last_sync": "2024-09-09T19:24:51.112009",
+    "server_modified": "2024-10-29 21:44:16",
+    "last_sync": "2024-11-19 20:50:39.372123",
     "size": 12704,
     "meta_text": null,
     "cat_ref": "S12201E",
@@ -19,10 +19,10 @@
     "author_simple": "PAn CHEN BLA MA SKU PHRENG GSUM PA DPAL LDAN YE SHES",
     "subject": [
         {
-            "_id": "330159485595",
-            "subject_path": "SUNGBUM_SUNGBUM/'PHRIN YIG_EPISTLES/PAN CHEN BLA MA SKU PHRENG GSUM PA DPAL LDAN YE SHES_PANCHEN LAMA KUTRENG SUMPA PELDEN YESHE (1738-1780)",
-            "subject_path_tibetan": "SUNGBUM/'PHRIN YIG/PAN CHEN BLA MA SKU PHRENG GSUM PA DPAL LDAN YE SHES",
-            "subject_path_english": "SUNGBUM/EPISTLES/PANCHEN LAMA KUTRENG SUMPA PELDEN YESHE (1738-1780)",
+            "_id": "982409805830",
+            "subject_path": "GSUNG 'BUM_Sungbum/'PHRIN YIG_EPISTLES/PAN CHEN BLA MA SKU PHRENG GSUM PA DPAL LDAN YE SHES_PANCHEN LAMA KUTRENG SUMPA PELDEN YESHE (1738-1780)",
+            "subject_path_tibetan": "GSUNG 'BUM/'PHRIN YIG/PAN CHEN BLA MA SKU PHRENG GSUM PA DPAL LDAN YE SHES",
+            "subject_path_english": "Sungbum/EPISTLES/PANCHEN LAMA KUTRENG SUMPA PELDEN YESHE (1738-1780)",
             "subject_tibetan": "PAN CHEN BLA MA SKU PHRENG GSUM PA DPAL LDAN YE SHES",
             "subject_english": "PANCHEN LAMA KUTRENG SUMPA PELDEN YESHE (1738-1780)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P168"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "'phrin yig_epistles/pan chen bla ma sku phreng gsum pa dpal ldan ye shes_panchen lama kutreng sumpa pelden yeshe (1738-1780)",
-            "timestamp": "2024-09-10T02:24:51.128689+00:00"
+            "path": "GSUNG 'BUM_Sungbum/'PHRIN YIG_EPISTLES/PAN CHEN BLA MA SKU PHRENG GSUM PA DPAL LDAN YE SHES_PANCHEN LAMA KUTRENG SUMPA PELDEN YESHE (1738-1780)",
+            "timestamp": "2024-11-20 04:50:39.379160+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:50:39.379160+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

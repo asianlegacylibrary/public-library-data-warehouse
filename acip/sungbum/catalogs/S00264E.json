@@ -1,14 +1,14 @@
 {
     "name": "S00264E_MGON PO KLU GRUB KYIS MDZAD PA'I RIM PA LNGA'I RNAM PAR BSHAD PA ZUNG 'JUG NOR BU'I BANG MDZOD ZUNG 'JUG NOR BU'I BANG MDZOD_'The Treasure House of Jewels,' being an Explanation of the 'Five Stages' Written by the Protector, Nagarjuna_PAn CH+.TXT",
-    "path": "rgyud_secret teachings (tantra)/rim lnga_five stages (panchakrama)/'grel pa_commentaries",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/rim lnga_five stages (panchakrama)/'grel pa_commentaries/s00264e_mgon po klu grub kyis mdzad pa'i rim pa lnga'i rnam par bshad pa zung 'jug nor bu'i bang mdzod zung 'jug nor bu'i bang mdzod_'the treasure house of jewels,' being an explanation of the 'five stages' written by the protector, nagarjuna_pan ch+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAQcQ",
-    "revision_id": "613f665fcd5f68d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/RIM LNGA_FIVE STAGES (PANCHAKRAMA)/'GREL PA_COMMENTARIES",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/rim lnga_five stages (panchakrama)/'grel pa_commentaries/s00264e_mgon po klu grub kyis mdzad pa'i rim pa lnga'i rnam par bshad pa zung 'jug nor bu'i bang mdzod zung 'jug nor bu'i bang mdzod_'the treasure house of jewels,' being an explanation of the 'five stages' written by the protector, nagarjuna_pan ch+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABW2A",
+    "revision_id": "625a48ada77f08d294473",
     "content_hash": "c3051eade7f380b06b495a5290d982b8aafd4c5ef6ca9af46d254c0e08a1fe10",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:17:56.243131",
+    "server_modified": "2024-10-29 21:48:14",
+    "last_sync": "2024-11-19 20:59:41.113853",
     "size": 211607,
-    "meta_text": "EN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)",
+    "meta_text": "('EN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)', 'rtf')",
     "cat_ref": "S00264E",
     "work_ref": "W.S00264E",
     "title_tib": "MGON PO KLU GRUB KYIS MDZAD PA'I RIM PA LNGA'I RNAM PAR BSHAD PA ZUNG 'JUG NOR BU'I BANG MDZOD ZUNG 'JUG NOR BU'I BANG MDZOD",
@@ -19,10 +19,10 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "892558948819",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/RIM LNGA_FIVE STAGES (PANCHAKRAMA)/'GREL PA_COMMENTARIES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/RIM LNGA/'GREL PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/FIVE STAGES (PANCHAKRAMA)/COMMENTARIES",
+            "_id": "181461335001",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RIM LNGA_FIVE STAGES (PANCHAKRAMA)/'GREL PA_COMMENTARIES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/RIM LNGA/'GREL PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/FIVE STAGES (PANCHAKRAMA)/COMMENTARIES",
             "subject_tibetan": "'GREL PA",
             "subject_english": "COMMENTARIES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/rim lnga_five stages (panchakrama)/'grel pa_commentaries",
-            "timestamp": "2024-09-10T02:17:56.250544+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RIM LNGA_FIVE STAGES (PANCHAKRAMA)/'GREL PA_COMMENTARIES",
+            "timestamp": "2024-11-20 04:59:41.816463+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:59:41.816463+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,28 +1,28 @@
 {
     "name": "S05556E_DPAL 'KHOR LO SDOM PA'I RIM PA DANG PO'I LAM LA SLOB PA'I TSUL GO BDE BAR BRJOD PA 'DOD PA 'JO BA'I SNYING PO_Cream from the Cow that Grants Every Wish--A Description of an Easy Method for Training Oneself in the Path of the First +.txt",
-    "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/bskyed rim_creation stage (utpatti krama)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/bskyed rim_creation stage (utpatti krama)/s05556e_dpal 'khor lo sdom pa'i rim pa dang po'i lam la slob pa'i tsul go bde bar brjod pa 'dod pa 'jo ba'i snying po_cream from the cow that grants every wish--a description of an easy method for training oneself in the path of the first +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAPFA",
-    "revision_id": "613f665b6112d8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/BSKYED RIM_CREATION STAGE (UTPATTI KRAMA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/bskyed rim_creation stage (utpatti krama)/s05556e_dpal 'khor lo sdom pa'i rim pa dang po'i lam la slob pa'i tsul go bde bar brjod pa 'dod pa 'jo ba'i snying po_cream from the cow that grants every wish--a description of an easy method for training oneself in the path of the first +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABVDA",
+    "revision_id": "625a487bdb1ea8d294473",
     "content_hash": "fc62f0b0f2390ace5d595968b45d621494d6862b9498482cbf248fb8818929e0",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:16:27.555525",
+    "server_modified": "2024-10-29 21:47:22",
+    "last_sync": "2024-11-19 20:56:45.206138",
     "size": 163511,
-    "meta_text": null,
+    "meta_text": "(\"Stage of the Glorious Union of the Spheres (Chakrasanvara)_RGYAL BA DGE 'DUN RGYA MTSO (1476-1542)\", 'text')",
     "cat_ref": "S05556E",
     "work_ref": "W.S05556E",
     "title_tib": "DPAL 'KHOR LO SDOM PA'I RIM PA DANG PO'I LAM LA SLOB PA'I TSUL GO BDE BAR BRJOD PA 'DOD PA 'JO BA'I SNYING PO",
-    "title_eng": "Cream from the Cow that Grants Every Wish--A Description of an Easy Method for Training Oneself in the Path of the First",
+    "title_eng": "Cream from the Cow that Grants Every Wish--A Description of an Easy Method for Training Oneself in the Path of the First(\"Stage of the Glorious Union of the Spheres (Chakrasanvara)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
-    "author_simple": "",
+    "author_simple": "RGYAL BA DGE 'DUN RGYA MTSO",
     "subject": [
         {
-            "_id": "740387058301",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/BSKYED RIM_CREATION STAGE (UTPATTI KRAMA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/BDE MCHOG/BSKYED RIM",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/CREATION STAGE (UTPATTI KRAMA)",
+            "_id": "289053843006",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/BSKYED RIM_CREATION STAGE (UTPATTI KRAMA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/BDE MCHOG/BSKYED RIM",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/CREATION STAGE (UTPATTI KRAMA)",
             "subject_tibetan": "BSKYED RIM",
             "subject_english": "CREATION STAGE (UTPATTI KRAMA)"
         }
@@ -30,16 +30,24 @@
     "items": [],
     "author": [
         {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
+            "author_name": "RGYAL BA DGE 'DUN RGYA MTSO",
+            "author_birth": "1476",
+            "author_death": "1542"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/bskyed rim_creation stage (utpatti krama)",
-            "timestamp": "2024-09-10T02:16:27.570800+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/BSKYED RIM_CREATION STAGE (UTPATTI KRAMA)",
+            "timestamp": "2024-11-20 04:56:45.219100+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:56:45.219100+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

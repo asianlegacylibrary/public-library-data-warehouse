@@ -1,12 +1,12 @@
 {
     "name": "S12055E.TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/bum sgrub_vase creation ritual",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/bum sgrub_vase creation ritual/s12055e.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAOiw",
-    "revision_id": "613f665b610a48d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BUM SGRUB_VASE CREATION RITUAL",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyi_general treatments/bum sgrub_vase creation ritual/s12055e.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABYsg",
+    "revision_id": "625a48e59c8478d294473",
     "content_hash": "5c86776031004802b154a3005bc35accfc8b5908f0c4e4a6f2b98d594a7446d9",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:15:52.596645",
+    "server_modified": "2024-10-29 21:49:13",
+    "last_sync": "2024-11-19 21:02:57.119241",
     "size": 15670,
     "meta_text": null,
     "cat_ref": "S12055E",
@@ -19,10 +19,10 @@
     "author_simple": "",
     "subject": [
         {
-            "_id": "119063299810",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BUM SGRUB_VASE CREATION RITUAL",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/BUM SGRUB",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/VASE CREATION RITUAL",
+            "_id": "258131344308",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BUM SGRUB_VASE CREATION RITUAL",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/BUM SGRUB",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/VASE CREATION RITUAL",
             "subject_tibetan": "BUM SGRUB",
             "subject_english": "VASE CREATION RITUAL"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/bum sgrub_vase creation ritual",
-            "timestamp": "2024-09-10T02:15:52.600059+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BUM SGRUB_VASE CREATION RITUAL",
+            "timestamp": "2024-11-20 05:02:57.808910+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:02:57.808910+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

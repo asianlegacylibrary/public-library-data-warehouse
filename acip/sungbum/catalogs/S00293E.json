@@ -1,28 +1,28 @@
 {
     "name": "S00293E_DPAL RDO RJE 'JIGS BYED KYI SGO NAS DRAG PO'I SBYIN SREG BYA TSUL DPAL LDAN SMAD RGYUD GRVA TSANG GI PHYAG BZHES JI LTA BA BZHIN LAG TU BLANG BDE BAR BKOD PA 'JIGS RUNG ME YI 'PHRUL 'KHOR_'A Fantastic Machine of Fire, Terror Itself,' being E +.TXT",
-    "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/sbyin sreg_fire offering (homa)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/sbyin sreg_fire offering (homa)/s00293e_dpal rdo rje 'jigs byed kyi sgo nas drag po'i sbyin sreg bya tsul dpal ldan smad rgyud grva tsang gi phyag bzhes ji lta ba bzhin lag tu blang bde bar bkod pa 'jigs rung me yi 'phrul 'khor_'a fantastic machine of fire, terror itself,' being e +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAMEA",
-    "revision_id": "613f6656dece18d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/SBYIN SREG_FIRE OFFERING (HOMA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/sbyin sreg_fire offering (homa)/s00293e_dpal rdo rje 'jigs byed kyi sgo nas drag po'i sbyin sreg bya tsul dpal ldan smad rgyud grva tsang gi phyag bzhes ji lta ba bzhin lag tu blang bde bar bkod pa 'jigs rung me yi 'phrul 'khor_'a fantastic machine of fire, terror itself,' being e +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABdpw",
+    "revision_id": "625a49a01a0108d294473",
     "content_hash": "cc880fa612c469a10fb3b8c5b72a3da13645c1919cb11c014e658dedfca6e55b",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:13:16.896371",
+    "server_modified": "2024-10-29 21:52:28",
+    "last_sync": "2024-11-19 21:11:05.178406",
     "size": 40948,
-    "meta_text": "asy, Practical Instructions for Performing a Fierce Offering of Fire in the Teachings of the Glorious Diamond Frightener (Vajra Bhairava), according to the Custom of the Glorious Gyume Tantric College_& (&-&)",
+    "meta_text": "('asy, Practical Instructions for Performing a Fierce Offering of Fire in the Teachings of the Glorious Diamond Frightener (Vajra Bhairava), according to the Custom of the Glorious Gyume Tantric College_& (&-&)', 'rtf')",
     "cat_ref": "S00293E",
     "work_ref": "W.S00293E",
     "title_tib": "DPAL RDO RJE 'JIGS BYED KYI SGO NAS DRAG PO'I SBYIN SREG BYA TSUL DPAL LDAN SMAD RGYUD GRVA TSANG GI PHYAG BZHES JI LTA BA BZHIN LAG TU BLANG BDE BAR BKOD PA 'JIGS RUNG ME YI 'PHRUL 'KHOR",
-    "title_eng": "'A Fantastic Machine of Fire, Terror Itself,' being Easy, Practical Instructions for Performing a Fierce Offering of Fire in the Teachings of the Glorious Diamond Frightener (Vajra Bhairava), according to the Custom of the Glorious Gyume Tantric College",
+    "title_eng": "'A Fantastic Machine of Fire, Terror Itself,' being E('asy, Practical Instructions for Performing a Fierce Offering of Fire in the Teachings of the Glorious Diamond Frightener (Vajra Bhairava), according to the Custom of the Glorious Gyume Tantric College& (&-&)', 'rtf')",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "",
     "subject": [
         {
-            "_id": "878584584879",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/SBYIN SREG_FIRE OFFERING (HOMA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/'JIGS BYED/SBYIN SREG",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/FIRE OFFERING (HOMA)",
+            "_id": "253172044199",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/SBYIN SREG_FIRE OFFERING (HOMA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/'JIGS BYED/SBYIN SREG",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/FIRE OFFERING (HOMA)",
             "subject_tibetan": "SBYIN SREG",
             "subject_english": "FIRE OFFERING (HOMA)"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/sbyin sreg_fire offering (homa)",
-            "timestamp": "2024-09-10T02:13:16.930824+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/SBYIN SREG_FIRE OFFERING (HOMA)",
+            "timestamp": "2024-11-20 05:11:08.747173+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:11:08.747173+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

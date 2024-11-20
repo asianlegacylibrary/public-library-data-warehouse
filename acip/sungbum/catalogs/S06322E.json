@@ -1,28 +1,28 @@
 {
     "name": "S06322E_BCOM LDAN 'DAS RDO RJE MI 'KHRUGS RGYAL PO LA BRTEN NAS SDIG PA SBYANG BA'I CHO GA LEGS BSHAD RGYA MTSO'I SNYING PO_The 'Essence of the Ocean of Fine Explanation,' being a Ritual for Purifying Bad Deeds based on the Practice of the Trascend+.TXT",
-    "path": "rgyud_secret teachings (tantra)/rdo rje mi 'khrugs pa_unshakable diamond (akshobyavajra)/rnal 'byor_practices",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/rdo rje mi 'khrugs pa_unshakable diamond (akshobyavajra)/rnal 'byor_practices/s06322e_bcom ldan 'das rdo rje mi 'khrugs rgyal po la brten nas sdig pa sbyang ba'i cho ga legs bshad rgya mtso'i snying po_the 'essence of the ocean of fine explanation,' being a ritual for purifying bad deeds based on the practice of the trascend+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAQig",
-    "revision_id": "613f665fcd60f8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE MI 'KHRUGS PA_UNSHAKABLE DIAMOND (AKSHOBYAVAJRA)/RNAL 'BYOR_PRACTICES",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/rdo rje mi 'khrugs pa_unshakable diamond (akshobyavajra)/rnal 'byor_practices/s06322e_bcom ldan 'das rdo rje mi 'khrugs rgyal po la brten nas sdig pa sbyang ba'i cho ga legs bshad rgya mtso'i snying po_the 'essence of the ocean of fine explanation,' being a ritual for purifying bad deeds based on the practice of the trascend+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABXvw",
+    "revision_id": "625a48c8f405d8d294473",
     "content_hash": "d8cc55788949f09a5ecb5f63a18a1d26657cac18794a596c0b94567a8840bff3",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:18:03.889913",
+    "server_modified": "2024-10-29 21:48:43",
+    "last_sync": "2024-11-19 21:01:20.542865",
     "size": 42933,
-    "meta_text": "ent Buddha, the Immovable One of Diamond (Akshobhyavajra)_DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "meta_text": "('ent Buddha, the Immovable One of Diamond (Akshobhyavajra)_DNGUL CHU DHARMA BHADRA (1772-1851)', 'rtf')",
     "cat_ref": "S06322E",
     "work_ref": "W.S06322E",
     "title_tib": "BCOM LDAN 'DAS RDO RJE MI 'KHRUGS RGYAL PO LA BRTEN NAS SDIG PA SBYANG BA'I CHO GA LEGS BSHAD RGYA MTSO'I SNYING PO",
-    "title_eng": "The 'Essence of the Ocean of Fine Explanation,' being a Ritual for Purifying Bad Deeds based on the Practice of the Trascendent Buddha, the Immovable One of Diamond (Akshobhyavajra)",
+    "title_eng": "The 'Essence of the Ocean of Fine Explanation,' being a Ritual for Purifying Bad Deeds based on the Practice of the Trascend('ent Buddha, the Immovable One of Diamond (Akshobhyavajra)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "203964707529",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE MI 'KHRUGS PA_UNSHAKABLE DIAMOND (AKSHOBYAVAJRA)/RNAL 'BYOR_PRACTICES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/RDO RJE MI 'KHRUGS PA/RNAL 'BYOR",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/UNSHAKABLE DIAMOND (AKSHOBYAVAJRA)/PRACTICES",
+            "_id": "296916928328",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE MI 'KHRUGS PA_UNSHAKABLE DIAMOND (AKSHOBYAVAJRA)/RNAL 'BYOR_PRACTICES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/RDO RJE MI 'KHRUGS PA/RNAL 'BYOR",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/UNSHAKABLE DIAMOND (AKSHOBYAVAJRA)/PRACTICES",
             "subject_tibetan": "RNAL 'BYOR",
             "subject_english": "PRACTICES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/rdo rje mi 'khrugs pa_unshakable diamond (akshobyavajra)/rnal 'byor_practices",
-            "timestamp": "2024-09-10T02:18:03.891414+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE MI 'KHRUGS PA_UNSHAKABLE DIAMOND (AKSHOBYAVAJRA)/RNAL 'BYOR_PRACTICES",
+            "timestamp": "2024-11-20 05:01:20.547462+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:01:20.547462+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

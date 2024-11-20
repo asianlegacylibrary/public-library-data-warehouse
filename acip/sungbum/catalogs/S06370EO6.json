@@ -1,12 +1,12 @@
 {
     "name": "S06370EO6_N'A RO CHOS DRUG RDO RJE'I MGUR SKOR GYI DRI LAN_Response to a Question on the 'Diamond Song' in the Six Practices of Naropa_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/na ro chos drug_six practices of naropa/rnal 'byor_practices",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/na ro chos drug_six practices of naropa/rnal 'byor_practices/s06370eo6_n'a ro chos drug rdo rje'i mgur skor gyi dri lan_response to a question on the 'diamond song' in the six practices of naropa_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAKHQ",
-    "revision_id": "613f6652788358d294473",
+    "path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "download_path": "/sungbum updated 7 30 23 nl/dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)/s06370eo6_n'a ro chos drug rdo rje'i mgur skor gyi dri lan_response to a question on the 'diamond song' in the six practices of naropa_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABSIQ",
+    "revision_id": "625a48080c3a48d294473",
     "content_hash": "e8a5c00d06543e979a38747f39939875b4a680f39ab337010d5e52cbe33355e2",
-    "server_modified": "2024-03-18T21:54:00",
-    "last_sync": "2024-09-09T19:11:04.513864",
+    "server_modified": "2024-10-29 21:45:21",
+    "last_sync": "2024-11-19 20:53:22.838959",
     "size": 1665,
     "meta_text": null,
     "cat_ref": "S06370EO6",
@@ -19,20 +19,20 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "269895805845",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/NA RO CHOS DRUG_SIX PRACTICES OF NAROPA/RNAL 'BYOR_PRACTICES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/NA RO CHOS DRUG/RNAL 'BYOR",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/SIX PRACTICES OF NAROPA/PRACTICES",
-            "subject_tibetan": "RNAL 'BYOR",
-            "subject_english": "PRACTICES"
-        },
-        {
-            "_id": "244831615226",
-            "subject_path": "SUNGBUM_SUNGBUM/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_tibetan": "SUNGBUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_english": "SUNGBUM/QUESTIONS AND ANSWERS",
+            "_id": "250883940513",
+            "subject_path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "GSUNG 'BUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "Sungbum/QUESTIONS AND ANSWERS",
             "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
             "subject_english": "QUESTIONS AND ANSWERS"
+        },
+        {
+            "_id": "434495977968",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/NA RO CHOS DRUG_SIX PRACTICES OF NAROPA/RNAL 'BYOR_PRACTICES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/NA RO CHOS DRUG/RNAL 'BYOR",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/SIX PRACTICES OF NAROPA/PRACTICES",
+            "subject_tibetan": "RNAL 'BYOR",
+            "subject_english": "PRACTICES"
         }
     ],
     "items": [],
@@ -46,15 +46,29 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/na ro chos drug_six practices of naropa/rnal 'byor_practices",
-            "timestamp": "2024-09-10T02:11:04.520332+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "timestamp": "2024-11-20 04:54:07.129498+00:00"
         },
         {
-            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
-            "timestamp": "2024-09-10T02:21:49.596179+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/NA RO CHOS DRUG_SIX PRACTICES OF NAROPA/RNAL 'BYOR_PRACTICES",
+            "timestamp": "2024-11-20 05:09:33.570920+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:54:07.129498+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T05:09:33.570920+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "text"
 }

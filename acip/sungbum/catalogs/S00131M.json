@@ -1,12 +1,12 @@
 {
     "name": "S00131M_BYANG CHUB LAM GYI RIM PA'I DMIGS RIM MDOR BSDUS 'KHYER BDE BA_A Brief and Convenient Summary of the Steps in Meditating upon the Steps of the Path to Enlightenment_LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN (1642-1714).TXT",
-    "path": "lam rim_steps of the path/lam rim dmigs rim_contemplations on the individual steps of the path",
-    "download_path": "/sungbum updated 4 26 23 bk/lam rim_steps of the path/lam rim dmigs rim_contemplations on the individual steps of the path/s00131m_byang chub lam gyi rim pa'i dmigs rim mdor bsdus 'khyer bde ba_a brief and convenient summary of the steps in meditating upon the steps of the path to enlightenment_lcang skya ngag dbang blo bzang chos ldan (1642-1714).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAG6A",
-    "revision_id": "613f66492f1528d294473",
+    "path": "LAM RIM_STEPS OF THE PATH/LAM RIM DMIGS RIM_CONTEMPLATIONS ON THE INDIVIDUAL STEPS OF THE PATH",
+    "download_path": "/sungbum updated 7 30 23 nl/lam rim_steps of the path/lam rim dmigs rim_contemplations on the individual steps of the path/s00131m_byang chub lam gyi rim pa'i dmigs rim mdor bsdus 'khyer bde ba_a brief and convenient summary of the steps in meditating upon the steps of the path to enlightenment_lcang skya ngag dbang blo bzang chos ldan (1642-1714).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABhLw",
+    "revision_id": "625a4a55746b08d294473",
     "content_hash": "9656205993d74743eb0c9dd04a5ea73f2fe219cc12720d265d33366e0c1b8721",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:08:02.472996",
+    "server_modified": "2024-10-29 21:55:39",
+    "last_sync": "2024-11-19 21:17:36.373047",
     "size": 15204,
     "meta_text": null,
     "cat_ref": "S00131M",
@@ -19,10 +19,10 @@
     "author_simple": "LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN",
     "subject": [
         {
-            "_id": "257127222654",
-            "subject_path": "SUNGBUM_SUNGBUM/LAM RIM_STEPS OF THE PATH/LAM RIM DMIGS RIM_CONTEMPLATIONS ON THE INDIVIDUAL STEPS OF THE PATH",
-            "subject_path_tibetan": "SUNGBUM/LAM RIM/LAM RIM DMIGS RIM",
-            "subject_path_english": "SUNGBUM/STEPS OF THE PATH/CONTEMPLATIONS ON THE INDIVIDUAL STEPS OF THE PATH",
+            "_id": "144417747993",
+            "subject_path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/LAM RIM DMIGS RIM_CONTEMPLATIONS ON THE INDIVIDUAL STEPS OF THE PATH",
+            "subject_path_tibetan": "GSUNG 'BUM/LAM RIM/LAM RIM DMIGS RIM",
+            "subject_path_english": "Sungbum/STEPS OF THE PATH/CONTEMPLATIONS ON THE INDIVIDUAL STEPS OF THE PATH",
             "subject_tibetan": "LAM RIM DMIGS RIM",
             "subject_english": "CONTEMPLATIONS ON THE INDIVIDUAL STEPS OF THE PATH"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P209"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "lam rim_steps of the path/lam rim dmigs rim_contemplations on the individual steps of the path",
-            "timestamp": "2024-09-10T02:08:02.478966+00:00"
+            "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/LAM RIM DMIGS RIM_CONTEMPLATIONS ON THE INDIVIDUAL STEPS OF THE PATH",
+            "timestamp": "2024-11-20 05:17:36.376700+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:17:36.376700+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,28 +1,28 @@
 {
     "name": "S05975E_DGE SLONG CHOS SMRA BA BLO BZANG CHOS KYI RGYAL MTSAN GYI NGAG THOR BU BA PHYOGS GCIG TU SGRIGS PA LAS TSA BSUR YID LA 'DOD 'JO_The 'Cow that Gives the Wishes of Your Heart,' being the Section on Tsasur Offerings from a Compilation of Scatte+.TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/tsa bsur_tsasur offerings",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/tsa bsur_tsasur offerings/s05975e_dge slong chos smra ba blo bzang chos kyi rgyal mtsan gyi ngag thor bu ba phyogs gcig tu sgrigs pa las tsa bsur yid la 'dod 'jo_the 'cow that gives the wishes of your heart,' being the section on tsasur offerings from a compilation of scatte+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAN_g",
-    "revision_id": "613f665b610178d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/TSA BSUR_TSASUR OFFERINGS",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyi_general treatments/tsa bsur_tsasur offerings/s05975e_dge slong chos smra ba blo bzang chos kyi rgyal mtsan gyi ngag thor bu ba phyogs gcig tu sgrigs pa las tsa bsur yid la 'dod 'jo_the 'cow that gives the wishes of your heart,' being the section on tsasur offerings from a compilation of scatte+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABY7A",
+    "revision_id": "625a48ee29a598d294473",
     "content_hash": "a20088189a1c82dc9e1a81530fcb2539e27e45e3ce46a4057cbb9bef53d36291",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:15:21.755831",
+    "server_modified": "2024-10-29 21:49:22",
+    "last_sync": "2024-11-19 21:03:18.974512",
     "size": 5287,
-    "meta_text": "red Works of the Buddhist Monk and Dharma Teacher, Lobsang Chukyi Gyeltsen_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)",
+    "meta_text": "('red Works of the Buddhist Monk and Dharma Teacher, Lobsang Chukyi Gyeltsen_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)', 'rtf')",
     "cat_ref": "S05975E",
     "work_ref": "W.S05975E",
     "title_tib": "DGE SLONG CHOS SMRA BA BLO BZANG CHOS KYI RGYAL MTSAN GYI NGAG THOR BU BA PHYOGS GCIG TU SGRIGS PA LAS TSA BSUR YID LA 'DOD 'JO",
-    "title_eng": "The 'Cow that Gives the Wishes of Your Heart,' being the Section on Tsasur Offerings from a Compilation of Scattered Works of the Buddhist Monk and Dharma Teacher, Lobsang Chukyi Gyeltsen",
+    "title_eng": "The 'Cow that Gives the Wishes of Your Heart,' being the Section on Tsasur Offerings from a Compilation of Scatte('red Works of the Buddhist Monk and Dharma Teacher, Lobsang Chukyi Gyeltsen",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "729298386211",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/TSA BSUR_TSASUR OFFERINGS",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/TSA BSUR",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/TSASUR OFFERINGS",
+            "_id": "236908564719",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/TSA BSUR_TSASUR OFFERINGS",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/TSA BSUR",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/TSASUR OFFERINGS",
             "subject_tibetan": "TSA BSUR",
             "subject_english": "TSASUR OFFERINGS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/tsa bsur_tsasur offerings",
-            "timestamp": "2024-09-10T02:15:21.770264+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/TSA BSUR_TSASUR OFFERINGS",
+            "timestamp": "2024-11-20 05:03:19.551302+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:03:19.551302+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

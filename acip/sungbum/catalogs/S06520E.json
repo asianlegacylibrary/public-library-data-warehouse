@@ -1,14 +1,14 @@
 {
     "name": "S06520E_RI KHROD SPONG BA PA RNAMS KYI KHRIMS SU BCA' BA'I RIM PA 'GRO KUN PHAN BDE'I GZHI BSRUNG_'Honoring the Entire Basis of Help and Benefit for Every Living Being,' being a Set of Rules for Hermits Staying in Mountain Retreats_KE'U TSANG BLO BZ+.TXT",
-    "path": "nyams len_personal practice/mtsams_the practice of retreat",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/mtsams_the practice of retreat/s06520e_ri khrod spong ba pa rnams kyi khrims su bca' ba'i rim pa 'gro kun phan bde'i gzhi bsrung_'honoring the entire basis of help and benefit for every living being,' being a set of rules for hermits staying in mountain retreats_ke'u tsang blo bz+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAAtA",
-    "revision_id": "613f663b87bfd8d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/MTSAMS_THE PRACTICE OF RETREAT",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/mtsams_the practice of retreat/s06520e_ri khrod spong ba pa rnams kyi khrims su bca' ba'i rim pa 'gro kun phan bde'i gzhi bsrung_'honoring the entire basis of help and benefit for every living being,' being a set of rules for hermits staying in mountain retreats_ke'u tsang blo bz+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABicg",
+    "revision_id": "625a4a89350128d294473",
     "content_hash": "8c42e8fd970a8c8fb7d4eb7d83f70f755e65869b033f829d1e6a5395bf8295a6",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:01:43.658944",
+    "server_modified": "2024-10-29 21:56:33",
+    "last_sync": "2024-11-19 21:19:44.408288",
     "size": 86822,
-    "meta_text": "ANG 'JAM DBYANGS SMON LAM (1689-@)",
+    "meta_text": "(\"ANG 'JAM DBYANGS SMON LAM (1689-@)\", 'rtf')",
     "cat_ref": "S06520E",
     "work_ref": "W.S06520E",
     "title_tib": "RI KHROD SPONG BA PA RNAMS KYI KHRIMS SU BCA' BA'I RIM PA 'GRO KUN PHAN BDE'I GZHI BSRUNG",
@@ -19,10 +19,10 @@
     "author_simple": "KE'U TSANG BLO BZANG ''JAM DBYANGS SMON LAM",
     "subject": [
         {
-            "_id": "262083631317",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/MTSAMS_THE PRACTICE OF RETREAT",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/MTSAMS",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/THE PRACTICE OF RETREAT",
+            "_id": "807932542520",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/MTSAMS_THE PRACTICE OF RETREAT",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/MTSAMS",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/THE PRACTICE OF RETREAT",
             "subject_tibetan": "MTSAMS",
             "subject_english": "THE PRACTICE OF RETREAT"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P307"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/mtsams_the practice of retreat",
-            "timestamp": "2024-09-10T02:01:43.666864+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/MTSAMS_THE PRACTICE OF RETREAT",
+            "timestamp": "2024-11-20 05:19:44.413215+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:19:44.413215+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

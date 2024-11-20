@@ -1,45 +1,53 @@
 {
     "name": "TD04208_TSAD MA'I BSTAN BCOS RIGS PA LA 'JUG PA ZHES BYA BA (Pramāṇa Śāstra Nyaya Praveśa (Nāma)) (因明入正理论, Yīnmíng rùzhènglǐ lùn).txt",
-    "path": "TENGYUR_TENGYUR/11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 1 (CE)",
+    "path": "11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 1 (CE)",
     "download_path": "/tengyur updated 10 31 24 ws/11 tsad ma_logic & perceptual theory (pramāṇa)/vol 1 (ce)/td04208_tsad ma'i bstan bcos rigs pa la 'jug pa zhes bya ba (pramāṇa śāstra nyaya praveśa (nāma)) (因明入正理论, yīnmíng rùzhènglǐ lùn).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB2WQ",
     "revision_id": "62633b6b5f5668d294473",
     "content_hash": "1b3fcd6d76974310693064dfedf90e7d6a8f4ffadecb586622454bd872e99d37",
     "server_modified": "2024-11-06 00:36:50",
-    "last_sync": "2024-11-13 01:57:35.751590+00:00",
+    "last_sync": "2024-11-20 03:58:25.786387",
     "size": 15811,
+    "meta_text": null,
     "cat_ref": "TD04208",
     "work_ref": "W.TD04208",
-    "title_tib": "TSAD MA'I BSTAN BCOS RIGS PA LA 'JUG PA ZHES BYA BA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "732525400075",
-            "subject_path": "TENGYUR_TENGYUR/11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 1 (CE)",
-            "subject_path_tibetan": "TENGYUR/TSAD MA/1 (CE)",
-            "subject_path_english": "TENGYUR/Logic & Perceptual Theory (Pramāṇa)/VOL 1 (CE)",
-            "subject_tibetan": "1 (CE)",
-            "subject_english": "VOL 1 (CE)"
+            "_id": "252070677705",
+            "subject_path": "BSTAN 'GYUR_Tengyur/11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 1 (CE)",
+            "subject_path_tibetan": "BSTAN 'GYUR/11 TSAD MA/VOL 1 (CE)",
+            "subject_path_english": "Tengyur/Logic & Perceptual Theory (Pramāṇa)",
+            "subject_tibetan": "VOL 1 (CE)",
+            "subject_english": "Logic & Perceptual Theory (Pramāṇa)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Pramāṇa Śāstra Nyaya Praveśa (Nāma)) (因明入正理论, Yīnmíng rùzhènglǐ lùn",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 1 (CE)",
+            "timestamp": "2024-11-20 11:58:25.791477+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:57:35.754377+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T11:58:25.791477+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 1 (CE)",
-            "timestamp": "2024-11-13 01:57:35.754377+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

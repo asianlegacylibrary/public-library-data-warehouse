@@ -1,14 +1,14 @@
 {
     "name": "S06331E_BEE d'URYA DANG SMAN BLA'I GZUNGS BOD SKAD DU BSGYUR BA TOG GI BLO GROS_The 'Height of Intelligence,' being a Translation of the Secret Words of Vaidurya and the Medicine Buddha (Bhaisajyaguru) into the Tibetan Language_DNGUL CHU DHARMA BHAD+.TXT",
-    "path": "rgyud_secret teachings (tantra)/sman bla_medicine buddha (bhaishajyaguru)/sngags_secret words (mantra)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/sman bla_medicine buddha (bhaishajyaguru)/sngags_secret words (mantra)/s06331e_bee d'urya dang sman bla'i gzungs bod skad du bsgyur ba tog gi blo gros_the 'height of intelligence,' being a translation of the secret words of vaidurya and the medicine buddha (bhaisajyaguru) into the tibetan language_dngul chu dharma bhad+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAALKg",
-    "revision_id": "613f6652789428d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SMAN BLA_MEDICINE BUDDHA (BHAISHAJYAGURU)/SNGAGS_SECRET WORDS (MANTRA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/sman bla_medicine buddha (bhaishajyaguru)/sngags_secret words (mantra)/s06331e_bee d'urya dang sman bla'i gzungs bod skad du bsgyur ba tog gi blo gros_the 'height of intelligence,' being a translation of the secret words of vaidurya and the medicine buddha (bhaisajyaguru) into the tibetan language_dngul chu dharma bhad+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABXoA",
+    "revision_id": "625a48c4bc9978d294473",
     "content_hash": "1930bdab466a035e1639cc3426f8833cf331f68c1ef38650e0080bd3ccf52ac4",
-    "server_modified": "2024-03-18T21:54:00",
-    "last_sync": "2024-09-09T19:12:21.163386",
+    "server_modified": "2024-10-29 21:48:38",
+    "last_sync": "2024-11-19 21:01:06.292464",
     "size": 5963,
-    "meta_text": "RA (1772-1851)",
+    "meta_text": "('RA (1772-1851)', 'rtf')",
     "cat_ref": "S06331E",
     "work_ref": "W.S06331E",
     "title_tib": "BEE d'URYA DANG SMAN BLA'I GZUNGS BOD SKAD DU BSGYUR BA TOG GI BLO GROS",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "156498760789",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SMAN BLA_MEDICINE BUDDHA (BHAISHAJYAGURU)/SNGAGS_SECRET WORDS (MANTRA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SMAN BLA/SNGAGS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/MEDICINE BUDDHA (BHAISHAJYAGURU)/SECRET WORDS (MANTRA)",
+            "_id": "254785856317",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SMAN BLA_MEDICINE BUDDHA (BHAISHAJYAGURU)/SNGAGS_SECRET WORDS (MANTRA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SMAN BLA/SNGAGS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/MEDICINE BUDDHA (BHAISHAJYAGURU)/SECRET WORDS (MANTRA)",
             "subject_tibetan": "SNGAGS",
             "subject_english": "SECRET WORDS (MANTRA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/sman bla_medicine buddha (bhaishajyaguru)/sngags_secret words (mantra)",
-            "timestamp": "2024-09-10T02:12:21.170163+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SMAN BLA_MEDICINE BUDDHA (BHAISHAJYAGURU)/SNGAGS_SECRET WORDS (MANTRA)",
+            "timestamp": "2024-11-20 05:01:06.297401+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:01:06.297401+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

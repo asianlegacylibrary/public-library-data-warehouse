@@ -1,12 +1,12 @@
 {
     "name": "S12108E_DPAL 'KHOR LO BDE MCHOG GI ZIN BRIS NGO MTSAR 'BUM GYI DGA' STON_The Party of a Million Wonders--Notes on the Glorious Sphere of Highest Bliss (Chakra Sambara)_DZE SMAD RIN PO CHE BLO BZANG DPAL LDAN BSTAN 'DZIN YAR RGYAS (1927-1996).TXT",
-    "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/'grel pa_commentaries",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/'grel pa_commentaries/s12108e_dpal 'khor lo bde mchog gi zin bris ngo mtsar 'bum gyi dga' ston_the party of a million wonders--notes on the glorious sphere of highest bliss (chakra sambara)_dze smad rin po che blo bzang dpal ldan bstan 'dzin yar rgyas (1927-1996).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAPiQ",
-    "revision_id": "613f665b611a28d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/'GREL PA_COMMENTARIES",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/'grel pa_commentaries/s12108e_dpal 'khor lo bde mchog gi zin bris ngo mtsar 'bum gyi dga' ston_the party of a million wonders--notes on the glorious sphere of highest bliss (chakra sambara)_dze smad rin po che blo bzang dpal ldan bstan 'dzin yar rgyas (1927-1996).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABU9g",
+    "revision_id": "625a48785c8328d294473",
     "content_hash": "c9cfaea3a8412ada599643a24acc46050683908f5910d1c7e47bbcb15ab9fc1a",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:17:00.905617",
+    "server_modified": "2024-10-29 21:47:18",
+    "last_sync": "2024-11-19 20:56:36.411622",
     "size": 116075,
     "meta_text": null,
     "cat_ref": "S12108E",
@@ -19,10 +19,10 @@
     "author_simple": "DZE SMAD RIN PO CHE BLO BZANG DPAL LDAN BSTAN 'DZIN YAR RGYAS",
     "subject": [
         {
-            "_id": "301465295578",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/'GREL PA_COMMENTARIES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/BDE MCHOG/'GREL PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/COMMENTARIES",
+            "_id": "179027483793",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/'GREL PA_COMMENTARIES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/BDE MCHOG/'GREL PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/COMMENTARIES",
             "subject_tibetan": "'GREL PA",
             "subject_english": "COMMENTARIES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P2425"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/'grel pa_commentaries",
-            "timestamp": "2024-09-10T02:17:00.915804+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/'GREL PA_COMMENTARIES",
+            "timestamp": "2024-11-20 04:56:37.892247+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:56:37.892247+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

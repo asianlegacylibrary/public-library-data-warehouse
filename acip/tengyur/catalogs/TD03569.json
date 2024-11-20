@@ -1,45 +1,53 @@
 {
     "name": "TD03569_RIGS BYED MA'I SGRUB THABS KYE RDO RJE'I RGYUD LAS BTON PA (Kurukulle Sādhana Śrī Hevajra Tantroddhṛta).txt",
-    "path": "TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
+    "path": "02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/vol 76 (mu)/td03569_rigs byed ma'i sgrub thabs kye rdo rje'i rgyud las bton pa (kurukulle sādhana śrī hevajra tantroddhṛta).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACAgg",
     "revision_id": "62633d64a40288d294473",
     "content_hash": "f33b94076e33be436f704542fdd98e1d0e53beb46b1f41fb36e5833cd7efc91c",
     "server_modified": "2024-11-06 00:45:40",
-    "last_sync": "2024-11-13 01:59:40.245531+00:00",
+    "last_sync": "2024-11-20 04:00:45.225155",
     "size": 5107,
+    "meta_text": null,
     "cat_ref": "TD03569",
     "work_ref": "W.TD03569",
-    "title_tib": "RIGS BYED MA'I SGRUB THABS KYE RDO RJE'I RGYUD LAS BTON PA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "151684361557",
-            "subject_path": "TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
-            "subject_path_tibetan": "TENGYUR/RGYUD/76 (MU)",
-            "subject_path_english": "TENGYUR/Diamond Way (Vajrayāna)/VOL 76 (MU)",
-            "subject_tibetan": "76 (MU)",
-            "subject_english": "VOL 76 (MU)"
+            "_id": "121782366104",
+            "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
+            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/VOL 76 (MU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)",
+            "subject_tibetan": "VOL 76 (MU)",
+            "subject_english": "Diamond Way (Vajrayāna)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Kurukulle Sādhana Śrī Hevajra Tantroddhṛta",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
+            "timestamp": "2024-11-20 12:00:45.258524+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:59:40.261549+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T12:00:45.258524+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
-            "timestamp": "2024-11-13 01:59:40.261549+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

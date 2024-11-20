@@ -1,12 +1,12 @@
 {
     "name": "S00428M_BLA MA'I RNAL 'BYOR THAR PAR BGROD PA'I THEM SKAS_'The Stairway to Freedom,' a Lama Practice_@ (@-@).TXT",
-    "path": "nyams len_personal practice/bla ma'i rnal 'byor_practices for honoring ones lama/author unknown",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/bla ma'i rnal 'byor_practices for honoring ones lama/author unknown/s00428m_bla ma'i rnal 'byor thar par bgrod pa'i them skas_'the stairway to freedom,' a lama practice_@ (@-@).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAACcA",
-    "revision_id": "613f663ffc7638d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/BLA MA'I RNAL 'BYOR_PRACTICES FOR HONORING ONES LAMA/AUTHOR UNKNOWN",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/bla ma'i rnal 'byor_practices for honoring ones lama/author unknown/s00428m_bla ma'i rnal 'byor thar par bgrod pa'i them skas_'the stairway to freedom,' a lama practice_@ (@-@).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABjpA",
+    "revision_id": "625a4ab5ff9d58d294473",
     "content_hash": "6bc72662167410b4a15fa154daadd7af8fe9cc63047605066627192c5290fd88",
-    "server_modified": "2024-03-18T21:53:40",
-    "last_sync": "2024-09-09T19:03:37.335132",
+    "server_modified": "2024-10-29 21:57:20",
+    "last_sync": "2024-11-19 21:21:41.793467",
     "size": 15711,
     "meta_text": null,
     "cat_ref": "S00428M",
@@ -19,10 +19,10 @@
     "author_simple": "",
     "subject": [
         {
-            "_id": "145623849277",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/BLA MA'I RNAL 'BYOR_PRACTICES FOR HONORING ONES LAMA/AUTHOR UNKNOWN",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/BLA MA'I RNAL 'BYOR/AUTHOR UNKNOWN",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/PRACTICES FOR HONORING ONES LAMA",
+            "_id": "857243330305",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BLA MA'I RNAL 'BYOR_PRACTICES FOR HONORING ONES LAMA/AUTHOR UNKNOWN",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/BLA MA'I RNAL 'BYOR/AUTHOR UNKNOWN",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/PRACTICES FOR HONORING ONES LAMA",
             "subject_tibetan": "AUTHOR UNKNOWN",
             "subject_english": "PRACTICES FOR HONORING ONES LAMA"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/bla ma'i rnal 'byor_practices for honoring ones lama/author unknown",
-            "timestamp": "2024-09-10T02:03:37.346295+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BLA MA'I RNAL 'BYOR_PRACTICES FOR HONORING ONES LAMA/AUTHOR UNKNOWN",
+            "timestamp": "2024-11-20 05:21:41.800701+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:21:41.800701+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

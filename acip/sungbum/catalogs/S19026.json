@@ -1,14 +1,14 @@
 {
     "name": "S19026_BDEN BZHI'I RNAM BSHAD 'KHRUL BRAL LUNG RIGS KYI NYI MA CHEN PO BI DZA HA RA_[Herein Contained is] The Great Sun of Scriptural Authority and Reasoning-- An Unerring Explanation of the Four Truths_'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRT+.txt",
-    "path": "phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/bden bzhi_the four truths",
-    "download_path": "/sungbum updated 4 26 23 bk/phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/bden bzhi_the four truths/s19026_bden bzhi'i rnam bshad 'khrul bral lung rigs kyi nyi ma chen po bi dza ha ra_[herein contained is] the great sun of scriptural authority and reasoning-- an unerring explanation of the four truths_'jam dbyangs bzhad pa'i rdo rje ngag dbang brt+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAVtw",
-    "revision_id": "613f666d208d38d294473",
+    "path": "PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/BDEN BZHI_THE FOUR TRUTHS",
+    "download_path": "/sungbum updated 7 30 23 nl/phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/bden bzhi_the four truths/s19026_bden bzhi'i rnam bshad 'khrul bral lung rigs kyi nyi ma chen po bi dza ha ra_[herein contained is] the great sun of scriptural authority and reasoning-- an unerring explanation of the four truths_'jam dbyangs bzhad pa'i rdo rje ngag dbang brt+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABPoA",
+    "revision_id": "625a47a005a2b8d294473",
     "content_hash": "667bf34455756b5d29cbd5119ad2dee36bb4340215532f996c867b873a425ba0",
-    "server_modified": "2024-03-18T21:54:28",
-    "last_sync": "2024-09-09T19:22:58.877330",
+    "server_modified": "2024-10-29 21:43:31",
+    "last_sync": "2024-11-19 20:48:18.350846",
     "size": 41743,
-    "meta_text": "ZON 'GRUS (1648-1721)",
+    "meta_text": "(\"ZON 'GRUS (1648-1721)\", 'rtf')",
     "cat_ref": "S19026",
     "work_ref": "W.S19026",
     "title_tib": "BDEN BZHI'I RNAM BSHAD 'KHRUL BRAL LUNG RIGS KYI NYI MA CHEN PO BI DZA HA RA",
@@ -19,10 +19,10 @@
     "author_simple": "'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS",
     "subject": [
         {
-            "_id": "133602236019",
-            "subject_path": "SUNGBUM_SUNGBUM/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/BDEN BZHI_THE FOUR TRUTHS",
-            "subject_path_tibetan": "SUNGBUM/PHAR PHYIN/BDEN BZHI",
-            "subject_path_english": "SUNGBUM/PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/THE FOUR TRUTHS",
+            "_id": "327155547051",
+            "subject_path": "GSUNG 'BUM_Sungbum/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/BDEN BZHI_THE FOUR TRUTHS",
+            "subject_path_tibetan": "GSUNG 'BUM/PHAR PHYIN/BDEN BZHI",
+            "subject_path_english": "Sungbum/PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/THE FOUR TRUTHS",
             "subject_tibetan": "BDEN BZHI",
             "subject_english": "THE FOUR TRUTHS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P423"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/bden bzhi_the four truths",
-            "timestamp": "2024-09-10T02:22:58.883960+00:00"
+            "path": "GSUNG 'BUM_Sungbum/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/BDEN BZHI_THE FOUR TRUTHS",
+            "timestamp": "2024-11-20 04:48:18.355559+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:48:18.355559+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,28 +1,28 @@
 {
     "name": "S06369E15_DPAL 'KHOR LO BDE MCHOG DRIL BU LUGS KYI LUS DKYIL GYI DBANG GI BRGYUD 'DEBS_Petition to the Lamas of the Lineage for the Empowerment of the Secret World of the Body, in the Practice of the Glorious Highest Bliss of the Speheres (Chakrasam +.TXT",
-    "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/bla brgyud_lineage lamas",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/bla brgyud_lineage lamas/s06369e15_dpal 'khor lo bde mchog dril bu lugs kyi lus dkyil gyi dbang gi brgyud 'debs_petition to the lamas of the lineage for the empowerment of the secret world of the body, in the practice of the glorious highest bliss of the speheres (chakrasam +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAPTg",
-    "revision_id": "613f665b611678d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/BLA BRGYUD_LINEAGE LAMAS",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/bla brgyud_lineage lamas/s06369e15_dpal 'khor lo bde mchog dril bu lugs kyi lus dkyil gyi dbang gi brgyud 'debs_petition to the lamas of the lineage for the empowerment of the secret world of the body, in the practice of the glorious highest bliss of the speheres (chakrasam +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABUhg",
+    "revision_id": "625a48684cd158d294473",
     "content_hash": "134541c49e6c7af6c471f4ed849836d4144f14908b7ce5850e026409081eb194",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:16:42.147143",
+    "server_modified": "2024-10-29 21:47:01",
+    "last_sync": "2024-11-19 20:55:43.073962",
     "size": 802,
-    "meta_text": "vara), according to the System of Ghantapada_DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "meta_text": "('vara), according to the System of Ghantapada_DNGUL CHU DHARMA BHADRA (1772-1851)', 'rtf')",
     "cat_ref": "S06369E15",
     "work_ref": "W.S06369E15",
     "title_tib": "DPAL 'KHOR LO BDE MCHOG DRIL BU LUGS KYI LUS DKYIL GYI DBANG GI BRGYUD 'DEBS",
-    "title_eng": "Petition to the Lamas of the Lineage for the Empowerment of the Secret World of the Body, in the Practice of the Glorious Highest Bliss of the Speheres (Chakrasamvara), according to the System of Ghantapada",
+    "title_eng": "Petition to the Lamas of the Lineage for the Empowerment of the Secret World of the Body, in the Practice of the Glorious Highest Bliss of the Speheres (Chakrasam('vara), according to the System of Ghantapada",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "543323095744",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/BLA BRGYUD_LINEAGE LAMAS",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/BDE MCHOG/BLA BRGYUD",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/LINEAGE LAMAS",
+            "_id": "155191796174",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/BLA BRGYUD_LINEAGE LAMAS",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/BDE MCHOG/BLA BRGYUD",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/LINEAGE LAMAS",
             "subject_tibetan": "BLA BRGYUD",
             "subject_english": "LINEAGE LAMAS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/bla brgyud_lineage lamas",
-            "timestamp": "2024-09-10T02:16:42.151091+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/BLA BRGYUD_LINEAGE LAMAS",
+            "timestamp": "2024-11-20 04:55:43.079679+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:55:43.079679+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

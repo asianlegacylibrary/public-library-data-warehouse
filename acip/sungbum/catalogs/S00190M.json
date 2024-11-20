@@ -1,12 +1,12 @@
 {
     "name": "S00190M_BSTAN RIM CHEN MO'I GLENG BRJOD DANG DPAR BYANG SMON TSIG_Tibetan Introduction and Printing Prayer to the 'Steps of the Teaching'_BLA TI RIN PO CHE (1938@-@).TXT",
-    "path": "lam rim_steps of the path/bstan rim chen mo_great book on the steps of the teaching",
-    "download_path": "/sungbum updated 4 26 23 bk/lam rim_steps of the path/bstan rim chen mo_great book on the steps of the teaching/s00190m_bstan rim chen mo'i gleng brjod dang dpar byang smon tsig_tibetan introduction and printing prayer to the 'steps of the teaching'_bla ti rin po che (1938@-@).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAG3Q",
-    "revision_id": "613f66492f1478d294473",
+    "path": "LAM RIM_STEPS OF THE PATH/BSTAN RIM CHEN MO_GREAT BOOK ON THE STEPS OF THE TEACHING",
+    "download_path": "/sungbum updated 7 30 23 nl/lam rim_steps of the path/bstan rim chen mo_great book on the steps of the teaching/s00190m_bstan rim chen mo'i gleng brjod dang dpar byang smon tsig_tibetan introduction and printing prayer to the 'steps of the teaching'_bla ti rin po che (1938@-@).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABhzw",
+    "revision_id": "625a4a6d5334b8d294473",
     "content_hash": "0453e541a21b4bd86867c2bb07b5c0a2d8a498e29e9fc167c169268f5b32c6c6",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:08:00.913820",
+    "server_modified": "2024-10-29 21:56:04",
+    "last_sync": "2024-11-19 21:18:29.770836",
     "size": 10285,
     "meta_text": null,
     "cat_ref": "S00190M",
@@ -19,10 +19,10 @@
     "author_simple": "BLA TI RIN PO CHE (1938@-@)",
     "subject": [
         {
-            "_id": "271352739315",
-            "subject_path": "SUNGBUM_SUNGBUM/LAM RIM_STEPS OF THE PATH/BSTAN RIM CHEN MO_GREAT BOOK ON THE STEPS OF THE TEACHING",
-            "subject_path_tibetan": "SUNGBUM/LAM RIM/BSTAN RIM CHEN MO",
-            "subject_path_english": "SUNGBUM/STEPS OF THE PATH/GREAT BOOK ON THE STEPS OF THE TEACHING",
+            "_id": "316850117517",
+            "subject_path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/BSTAN RIM CHEN MO_GREAT BOOK ON THE STEPS OF THE TEACHING",
+            "subject_path_tibetan": "GSUNG 'BUM/LAM RIM/BSTAN RIM CHEN MO",
+            "subject_path_english": "Sungbum/STEPS OF THE PATH/GREAT BOOK ON THE STEPS OF THE TEACHING",
             "subject_tibetan": "BSTAN RIM CHEN MO",
             "subject_english": "GREAT BOOK ON THE STEPS OF THE TEACHING"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "lam rim_steps of the path/bstan rim chen mo_great book on the steps of the teaching",
-            "timestamp": "2024-09-10T02:08:00.934624+00:00"
+            "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/BSTAN RIM CHEN MO_GREAT BOOK ON THE STEPS OF THE TEACHING",
+            "timestamp": "2024-11-20 05:18:32.469807+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:18:32.469807+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,14 +1,14 @@
 {
     "name": "S06370MD6_GTONG SEMS YOD PA TZAM GYIS ZANG ZING GI SBYIN PA'I GO CHOD PA'I SKOR GYI DRI LAN_Response to a Question, which Demonstrates How a Generous State of Mind is By Itself Enough to Constitute the Act of Giving Material Wealth_DNGUL CHU DHARMA +.TXT",
-    "path": "lam rim_steps of the path/dri lan_questions and answers",
-    "download_path": "/sungbum updated 4 26 23 bk/lam rim_steps of the path/dri lan_questions and answers/s06370md6_gtong sems yod pa tzam gyis zang zing gi sbyin pa'i go chod pa'i skor gyi dri lan_response to a question, which demonstrates how a generous state of mind is by itself enough to constitute the act of giving material wealth_dngul chu dharma +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAG-A",
-    "revision_id": "613f66492f1628d294473",
+    "path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "download_path": "/sungbum updated 7 30 23 nl/dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)/s06370md6_gtong sems yod pa tzam gyis zang zing gi sbyin pa'i go chod pa'i skor gyi dri lan_response to a question, which demonstrates how a generous state of mind is by itself enough to constitute the act of giving material wealth_dngul chu dharma +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABS6w",
+    "revision_id": "625a4824fe25c8d294473",
     "content_hash": "c13565662788b807e818f07e64c2bcc629e072a47893261b176e0206ea996a16",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:08:09.038013",
+    "server_modified": "2024-10-29 21:45:51",
+    "last_sync": "2024-11-19 20:53:44.889660",
     "size": 261,
-    "meta_text": "BHADRA (1772-1851)",
+    "meta_text": "('BHADRA (1772-1851)', 'rtf')",
     "cat_ref": "S06370MD6",
     "work_ref": "W.S06370MD6",
     "title_tib": "GTONG SEMS YOD PA TZAM GYIS ZANG ZING GI SBYIN PA'I GO CHOD PA'I SKOR GYI DRI LAN",
@@ -19,19 +19,19 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "210567637591",
-            "subject_path": "SUNGBUM_SUNGBUM/LAM RIM_STEPS OF THE PATH/DRI LAN_QUESTIONS AND ANSWERS",
-            "subject_path_tibetan": "SUNGBUM/LAM RIM/DRI LAN",
-            "subject_path_english": "SUNGBUM/STEPS OF THE PATH/QUESTIONS AND ANSWERS",
-            "subject_tibetan": "DRI LAN",
+            "_id": "250883940513",
+            "subject_path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "GSUNG 'BUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "Sungbum/QUESTIONS AND ANSWERS",
+            "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
             "subject_english": "QUESTIONS AND ANSWERS"
         },
         {
-            "_id": "244831615226",
-            "subject_path": "SUNGBUM_SUNGBUM/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_tibetan": "SUNGBUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_english": "SUNGBUM/QUESTIONS AND ANSWERS",
-            "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "_id": "224862218803",
+            "subject_path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/DRI LAN_QUESTIONS AND ANSWERS",
+            "subject_path_tibetan": "GSUNG 'BUM/LAM RIM/DRI LAN",
+            "subject_path_english": "Sungbum/STEPS OF THE PATH/QUESTIONS AND ANSWERS",
+            "subject_tibetan": "DRI LAN",
             "subject_english": "QUESTIONS AND ANSWERS"
         }
     ],
@@ -46,15 +46,29 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "lam rim_steps of the path/dri lan_questions and answers",
-            "timestamp": "2024-09-10T02:08:09.130965+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "timestamp": "2024-11-20 04:54:07.135945+00:00"
         },
         {
-            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
-            "timestamp": "2024-09-10T02:21:49.633089+00:00"
+            "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/DRI LAN_QUESTIONS AND ANSWERS",
+            "timestamp": "2024-11-20 05:17:46.888881+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:54:07.135945+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T05:17:46.888881+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "text"
 }

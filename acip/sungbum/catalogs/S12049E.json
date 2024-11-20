@@ -1,28 +1,28 @@
 {
     "name": "S12049E_DPAL RDO RJE 'JIGS BYED DPA' BO GCIG PA BDUD LAS RNAM PAR RGYAL BA'I DBANG GI NYE BRGYUD GSOL 'DEBS THUGS RJE'I SPRIN PHUNG_A Mountain of Clouds formed of High Compassion--Supplication to the Immediate Lineage of the Empowerment of the Glori +.TXT",
-    "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/bla brgyud_lineage lamas",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/bla brgyud_lineage lamas/s12049e_dpal rdo rje 'jigs byed dpa' bo gcig pa bdud las rnam par rgyal ba'i dbang gi nye brgyud gsol 'debs thugs rje'i sprin phung_a mountain of clouds formed of high compassion--supplication to the immediate lineage of the empowerment of the glori +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAMuw",
-    "revision_id": "613f6656ded8c8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/BLA BRGYUD_LINEAGE LAMAS",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/bla brgyud_lineage lamas/s12049e_dpal rdo rje 'jigs byed dpa' bo gcig pa bdud las rnam par rgyal ba'i dbang gi nye brgyud gsol 'debs thugs rje'i sprin phung_a mountain of clouds formed of high compassion--supplication to the immediate lineage of the empowerment of the glori +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABddQ",
+    "revision_id": "625a499879ed78d294473",
     "content_hash": "86d9a876f8a2d49aa40480f2e4c5fcf0ca6f18140d7ebe0d1fff27202195ae10",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:14:08.428444",
+    "server_modified": "2024-10-29 21:52:20",
+    "last_sync": "2024-11-19 21:10:44.816695",
     "size": 3723,
-    "meta_text": "ous Diamond Lord of Terror (Vajra Bhairava), in His form as a Single Warrior--An Empowerment which Enables us to Win the Total Victory over Every Demon_CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS (1740-1810)",
+    "meta_text": "('ous Diamond Lord of Terror (Vajra Bhairava), in His form as a Single Warrior--An Empowerment which Enables us to Win the Total Victory over Every Demon_CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS (1740-1810)', 'rtf')",
     "cat_ref": "S12049E",
     "work_ref": "W.S12049E",
     "title_tib": "DPAL RDO RJE 'JIGS BYED DPA' BO GCIG PA BDUD LAS RNAM PAR RGYAL BA'I DBANG GI NYE BRGYUD GSOL 'DEBS THUGS RJE'I SPRIN PHUNG",
-    "title_eng": "A Mountain of Clouds formed of High Compassion--Supplication to the Immediate Lineage of the Empowerment of the Glorious Diamond Lord of Terror (Vajra Bhairava), in His form as a Single Warrior--An Empowerment which Enables us to Win the Total Victory over Every Demon",
+    "title_eng": "A Mountain of Clouds formed of High Compassion--Supplication to the Immediate Lineage of the Empowerment of the Glori('ous Diamond Lord of Terror (Vajra Bhairava), in His form as a Single Warrior--An Empowerment which Enables us to Win the Total Victory over Every Demon",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS",
     "subject": [
         {
-            "_id": "466562160173",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/BLA BRGYUD_LINEAGE LAMAS",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/'JIGS BYED/BLA BRGYUD",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/LINEAGE LAMAS",
+            "_id": "236134225662",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/BLA BRGYUD_LINEAGE LAMAS",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/'JIGS BYED/BLA BRGYUD",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/LINEAGE LAMAS",
             "subject_tibetan": "BLA BRGYUD",
             "subject_english": "LINEAGE LAMAS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P4797"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/bla brgyud_lineage lamas",
-            "timestamp": "2024-09-10T02:14:08.468877+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/BLA BRGYUD_LINEAGE LAMAS",
+            "timestamp": "2024-11-20 05:10:44.823166+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:10:44.823166+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,28 +1,28 @@
 {
     "name": "S05463E1_DPAL DUS KYI 'KHOR LO'I 'GREL CHEN DRI MA MED PA'I 'OD KYI RGYA CHER BSHAD PA DE KHO NA NYID SNANG BAR BYED PA_'The Illumination of Thusness,' being an Extensive Explanation of the Great Commentary upon the Teaching of the Glorious Wheel of +.TXT",
-    "path": "rgyud_secret teachings (tantra)/dus 'khor_wheel of time (kalachakra)/'grel pa_commentaries",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/dus 'khor_wheel of time (kalachakra)/'grel pa_commentaries/s05463e1_dpal dus kyi 'khor lo'i 'grel chen dri ma med pa'i 'od kyi rgya cher bshad pa de kho na nyid snang bar byed pa_'the illumination of thusness,' being an extensive explanation of the great commentary upon the teaching of the glorious wheel of +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAIwg",
-    "revision_id": "613f664dc42de8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/'GREL PA_COMMENTARIES",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/dus 'khor_wheel of time (kalachakra)/'grel pa_commentaries/s05463e1_dpal dus kyi 'khor lo'i 'grel chen dri ma med pa'i 'od kyi rgya cher bshad pa de kho na nyid snang bar byed pa_'the illumination of thusness,' being an extensive explanation of the great commentary upon the teaching of the glorious wheel of +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABa3Q",
+    "revision_id": "625a493d2ad148d294473",
     "content_hash": "84baccca99a6408b3ea946aafc923c7c0640ed0c3c8338fe829b467f639b15fc",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:09:48.437913",
+    "server_modified": "2024-10-29 21:50:45",
+    "last_sync": "2024-11-19 21:06:07.392221",
     "size": 1499338,
-    "meta_text": "Time entitled the ‘Immaculate Light’_MKHAS GRUB RJE DGE LEGS DPAL BZANG PO (1385-1438)",
+    "meta_text": "('Time entitled the ‘Immaculate Light’_MKHAS GRUB RJE DGE LEGS DPAL BZANG PO (1385-1438)', 'rtf')",
     "cat_ref": "S05463E1",
     "work_ref": "W.S05463E1",
     "title_tib": "DPAL DUS KYI 'KHOR LO'I 'GREL CHEN DRI MA MED PA'I 'OD KYI RGYA CHER BSHAD PA DE KHO NA NYID SNANG BAR BYED PA",
-    "title_eng": "'The Illumination of Thusness,' being an Extensive Explanation of the Great Commentary upon the Teaching of the Glorious Wheel ofTime entitled the ‘Immaculate Light’",
+    "title_eng": "'The Illumination of Thusness,' being an Extensive Explanation of the Great Commentary upon the Teaching of the Glorious Wheel of('Time entitled the ‘Immaculate Light’",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "MKHAS GRUB RJE DGE LEGS DPAL BZANG PO",
     "subject": [
         {
-            "_id": "320233480126",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/'GREL PA_COMMENTARIES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/DUS 'KHOR/'GREL PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/WHEEL OF TIME (KALACHAKRA)/COMMENTARIES",
+            "_id": "224032789210",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/'GREL PA_COMMENTARIES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/DUS 'KHOR/'GREL PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/WHEEL OF TIME (KALACHAKRA)/COMMENTARIES",
             "subject_tibetan": "'GREL PA",
             "subject_english": "COMMENTARIES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P55"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/dus 'khor_wheel of time (kalachakra)/'grel pa_commentaries",
-            "timestamp": "2024-09-10T02:09:48.511856+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/'GREL PA_COMMENTARIES",
+            "timestamp": "2024-11-20 05:06:08.039324+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:06:08.039324+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

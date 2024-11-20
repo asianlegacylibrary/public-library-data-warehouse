@@ -1,12 +1,12 @@
 {
     "name": "S06369E55_BKA' GDAMS THIG LE BCU DRUG GI DKYIL 'KHOR GYI THIG JI LTAR GDAB TSUL_Instructions on How to Draw the Secret World in the Practice of the Sixteen Drops of the Kadampa_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/thig le bcu drug_sixteen drops/dkyil 'khor_secret world (mandala)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/thig le bcu drug_sixteen drops/dkyil 'khor_secret world (mandala)/s06369e55_bka' gdams thig le bcu drug gi dkyil 'khor gyi thig ji ltar gdab tsul_instructions on how to draw the secret world in the practice of the sixteen drops of the kadampa_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAP1g",
-    "revision_id": "613f665fcd55b8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/THIG LE BCU DRUG_SIXTEEN DROPS/DKYIL 'KHOR_SECRET WORLD (MANDALA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/thig le bcu drug_sixteen drops/dkyil 'khor_secret world (mandala)/s06369e55_bka' gdams thig le bcu drug gi dkyil 'khor gyi thig ji ltar gdab tsul_instructions on how to draw the secret world in the practice of the sixteen drops of the kadampa_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABajA",
+    "revision_id": "625a492e12a608d294473",
     "content_hash": "307d424db8cbe54ad4a5075ecfba7dd2e2526b690a736d619056cf4b2f1dee46",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:17:17.462942",
+    "server_modified": "2024-10-29 21:50:29",
+    "last_sync": "2024-11-19 21:06:19.874967",
     "size": 1844,
     "meta_text": null,
     "cat_ref": "S06369E55",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "279666522247",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/THIG LE BCU DRUG_SIXTEEN DROPS/DKYIL 'KHOR_SECRET WORLD (MANDALA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/THIG LE BCU DRUG/DKYIL 'KHOR",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/SIXTEEN DROPS/SECRET WORLD (MANDALA)",
+            "_id": "269734012110",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/THIG LE BCU DRUG_SIXTEEN DROPS/DKYIL 'KHOR_SECRET WORLD (MANDALA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/THIG LE BCU DRUG/DKYIL 'KHOR",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/SIXTEEN DROPS/SECRET WORLD (MANDALA)",
             "subject_tibetan": "DKYIL 'KHOR",
             "subject_english": "SECRET WORLD (MANDALA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/thig le bcu drug_sixteen drops/dkyil 'khor_secret world (mandala)",
-            "timestamp": "2024-09-10T02:17:17.464541+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/THIG LE BCU DRUG_SIXTEEN DROPS/DKYIL 'KHOR_SECRET WORLD (MANDALA)",
+            "timestamp": "2024-11-20 05:06:19.878658+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:06:19.878658+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

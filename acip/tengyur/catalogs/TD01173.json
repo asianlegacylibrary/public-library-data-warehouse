@@ -1,45 +1,53 @@
 {
     "name": "TD01173_RJE BTZUN 'JIG RTEN DBANG PHYUG SENG GE SGRA LA BSTOD PA (Siṃha Nāda Lokeśvara Bhaṭṭāraka Stuti).txt",
-    "path": "TENGYUR_TENGYUR/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
+    "path": "01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
     "download_path": "/tengyur updated 10 31 24 ws/01 bstod tsogs_songs of praise (stotra)/vol 1 (ka)/td01173_rje btzun 'jig rten dbang phyug seng ge sgra la bstod pa (siṃha nāda lokeśvara bhaṭṭāraka stuti).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB31g",
     "revision_id": "62633bd8dd28d8d294473",
     "content_hash": "4f65c385247ba75d39d673439d5d2d8756ed24c5f0b2e90300592b81ea0428af",
     "server_modified": "2024-11-06 00:38:45",
-    "last_sync": "2024-11-13 01:58:15.692031+00:00",
+    "last_sync": "2024-11-20 03:59:09.218326",
     "size": 3190,
+    "meta_text": null,
     "cat_ref": "TD01173",
     "work_ref": "W.TD01173",
-    "title_tib": "RJE BTZUN 'JIG RTEN DBANG PHYUG SENG GE SGRA LA BSTOD PA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "212120326257",
-            "subject_path": "TENGYUR_TENGYUR/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
-            "subject_path_tibetan": "TENGYUR/BSTOD TSOGS/1 (KA)",
-            "subject_path_english": "TENGYUR/Songs of Praise (Stotra)/VOL 1 (KA)",
-            "subject_tibetan": "1 (KA)",
-            "subject_english": "VOL 1 (KA)"
+            "_id": "243715146395",
+            "subject_path": "BSTAN 'GYUR_Tengyur/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
+            "subject_path_tibetan": "BSTAN 'GYUR/01 BSTOD TSOGS/VOL 1 (KA)",
+            "subject_path_english": "Tengyur/Songs of Praise (Stotra)",
+            "subject_tibetan": "VOL 1 (KA)",
+            "subject_english": "Songs of Praise (Stotra)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Siṃha Nāda Lokeśvara Bhaṭṭāraka Stuti",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
+            "timestamp": "2024-11-20 11:59:09.232548+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:58:15.699045+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T11:59:09.232548+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
-            "timestamp": "2024-11-13 01:58:15.699045+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

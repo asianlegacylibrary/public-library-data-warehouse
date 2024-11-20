@@ -1,12 +1,12 @@
 {
     "name": "S05275ED7_DKA' BZHI 'DZIN PA SHES RAB DPAL BZANG PO'I GSUNG LAN_Response granted to Sherap Pel Sangpo, Holder of the Four Words_RJE TZONG KHA PA BLO BZANG GRAGS PA_(1357-1419).TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/'grel pa_general commentaries/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/'grel pa_general commentaries/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)/s05275ed7_dka' bzhi 'dzin pa shes rab dpal bzang po'i gsung lan_response granted to sherap pel sangpo, holder of the four words_rje tzong kha pa blo bzang grags pa_(1357-1419).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAANTw",
-    "revision_id": "613f6656dee208d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/'GREL PA_GENERAL COMMENTARIES/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyi_general treatments/'grel pa_general commentaries/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)/s05275ed7_dka' bzhi 'dzin pa shes rab dpal bzang po'i gsung lan_response granted to sherap pel sangpo, holder of the four words_rje tzong kha pa blo bzang grags pa_(1357-1419).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABadg",
+    "revision_id": "625a492e12a418d294473",
     "content_hash": "83f9e135d30d5f6bbe7bc7756cf75231508e1effcb447b3a264473399efa7108",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:14:44.413170",
+    "server_modified": "2024-10-29 21:50:29",
+    "last_sync": "2024-11-19 21:05:22.192828",
     "size": 8870,
     "meta_text": null,
     "cat_ref": "S05275ED7",
@@ -19,10 +19,10 @@
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "252003746730",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/'GREL PA_GENERAL COMMENTARIES/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/'GREL PA/RJE TZONG KHA PA BLO BZANG GRAGS PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/GENERAL COMMENTARIES/JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
+            "_id": "111257365936",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/'GREL PA_GENERAL COMMENTARIES/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/'GREL PA/RJE TZONG KHA PA BLO BZANG GRAGS PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/GENERAL COMMENTARIES/JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
             "subject_tibetan": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
             "subject_english": "JE TSONGKAPA LOBSANG DRAKPA (1357-1419)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/'grel pa_general commentaries/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)",
-            "timestamp": "2024-09-10T02:14:44.417808+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/'GREL PA_GENERAL COMMENTARIES/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
+            "timestamp": "2024-11-20 05:05:22.907017+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:05:22.907017+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,12 +1,12 @@
 {
     "name": "S00942E_MGON PO GRIB SEL LA BRTEN PA'I BLA MA'I RNAL 'BYOR DAM TSIG RDO RJE'I BDUD RTZI_'The Nectar of the Pledge of Diamond,' being a Lama Practice Centered on the Protector who Cures Strokes_GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME (1762-1823).TXT",
-    "path": "rgyud_secret teachings (tantra)/mgon po_the protector (mahakala)/bla ma'i rnal 'byor_lama practice (guru yoga)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/mgon po_the protector (mahakala)/bla ma'i rnal 'byor_lama practice (guru yoga)/s00942e_mgon po grib sel la brten pa'i bla ma'i rnal 'byor dam tsig rdo rje'i bdud rtzi_'the nectar of the pledge of diamond,' being a lama practice centered on the protector who cures strokes_gung thang dkon mchog bstan pa'i sgron me (1762-1823).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAIkA",
-    "revision_id": "613f664dc42ac8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/MGON PO_THE PROTECTOR (MAHAKALA)/BLA MA'I RNAL 'BYOR_LAMA PRACTICE (GURU YOGA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/mgon po_the protector (mahakala)/bla ma'i rnal 'byor_lama practice (guru yoga)/s00942e_mgon po grib sel la brten pa'i bla ma'i rnal 'byor dam tsig rdo rje'i bdud rtzi_'the nectar of the pledge of diamond,' being a lama practice centered on the protector who cures strokes_gung thang dkon mchog bstan pa'i sgron me (1762-1823).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABUJQ",
+    "revision_id": "625a485d51aaa8d294473",
     "content_hash": "e80b0ceb3a66e47a08c5d2deb1ecf4fb44867b870aaa306d7df3fe15d39ab581",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:09:30.995036",
+    "server_modified": "2024-10-29 21:46:50",
+    "last_sync": "2024-11-19 20:54:58.364341",
     "size": 5377,
     "meta_text": null,
     "cat_ref": "S00942E",
@@ -19,10 +19,10 @@
     "author_simple": "GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME",
     "subject": [
         {
-            "_id": "232825084526",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/MGON PO_THE PROTECTOR (MAHAKALA)/BLA MA'I RNAL 'BYOR_LAMA PRACTICE (GURU YOGA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/MGON PO/BLA MA'I RNAL 'BYOR",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/THE PROTECTOR (MAHAKALA)/LAMA PRACTICE (GURU YOGA)",
+            "_id": "326037877356",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/MGON PO_THE PROTECTOR (MAHAKALA)/BLA MA'I RNAL 'BYOR_LAMA PRACTICE (GURU YOGA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/MGON PO/BLA MA'I RNAL 'BYOR",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/THE PROTECTOR (MAHAKALA)/LAMA PRACTICE (GURU YOGA)",
             "subject_tibetan": "BLA MA'I RNAL 'BYOR",
             "subject_english": "LAMA PRACTICE (GURU YOGA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P298"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/mgon po_the protector (mahakala)/bla ma'i rnal 'byor_lama practice (guru yoga)",
-            "timestamp": "2024-09-10T02:09:31.004851+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/MGON PO_THE PROTECTOR (MAHAKALA)/BLA MA'I RNAL 'BYOR_LAMA PRACTICE (GURU YOGA)",
+            "timestamp": "2024-11-20 04:54:58.370173+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:54:58.370173+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,12 +1,12 @@
 {
     "name": "S00220A_SHES RAB SNYING PO'I RNAM BSHAD ZAB MO'I DE KHO NA NYID GSAL BAR BYED PA'I NYI MA_The 'Sun which Illuminates Profound Suchness,' being an Explanation of 'The Essence of Wisdom'_CO NE BLA MA GRAGS PA BSHAD GRUB (1675-1748).TXT",
-    "path": "mdo 'grel_commentaries to sutras/shes rab snying po (prajna paramita hirdaya)_heart sutra",
-    "download_path": "/sungbum updated 4 26 23 bk/mdo 'grel_commentaries to sutras/shes rab snying po (prajna paramita hirdaya)_heart sutra/s00220a_shes rab snying po'i rnam bshad zab mo'i de kho na nyid gsal bar byed pa'i nyi ma_the 'sun which illuminates profound suchness,' being an explanation of 'the essence of wisdom'_co ne bla ma grags pa bshad grub (1675-1748).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAE6A",
-    "revision_id": "613f664484a0c8d294473",
+    "path": "MDO 'GREL_COMMENTARIES TO SUTRAS/SHES RAB SNYING PO (PRAJNA PARAMITA HIRDAYA)_HEART SUTRA",
+    "download_path": "/sungbum updated 7 30 23 nl/mdo 'grel_commentaries to sutras/shes rab snying po (prajna paramita hirdaya)_heart sutra/s00220a_shes rab snying po'i rnam bshad zab mo'i de kho na nyid gsal bar byed pa'i nyi ma_the 'sun which illuminates profound suchness,' being an explanation of 'the essence of wisdom'_co ne bla ma grags pa bshad grub (1675-1748).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABOYg",
+    "revision_id": "625a476e14bee8d294473",
     "content_hash": "d266d39566bae45b394bbc6541f8d2c183094db6cea9e6d45fb0d73c0df12d02",
-    "server_modified": "2024-03-18T21:53:45",
-    "last_sync": "2024-09-09T19:06:05.204622",
+    "server_modified": "2024-10-29 21:42:39",
+    "last_sync": "2024-11-19 20:46:10.445562",
     "size": 62128,
     "meta_text": null,
     "cat_ref": "S00220A",
@@ -19,10 +19,10 @@
     "author_simple": "CO NE BLA MA GRAGS PA BSHAD SGRUB",
     "subject": [
         {
-            "_id": "208664823028",
-            "subject_path": "SUNGBUM_SUNGBUM/MDO 'GREL_COMMENTARIES TO SUTRAS/SHES RAB SNYING PO (PRAJNA PARAMITA HIRDAYA)_HEART SUTRA",
-            "subject_path_tibetan": "SUNGBUM/MDO 'GREL/SHES RAB SNYING PO (PRAJNA PARAMITA HIRDAYA)",
-            "subject_path_english": "SUNGBUM/COMMENTARIES TO SUTRAS/HEART SUTRA",
+            "_id": "138440381186",
+            "subject_path": "GSUNG 'BUM_Sungbum/MDO 'GREL_COMMENTARIES TO SUTRAS/SHES RAB SNYING PO (PRAJNA PARAMITA HIRDAYA)_HEART SUTRA",
+            "subject_path_tibetan": "GSUNG 'BUM/MDO 'GREL/SHES RAB SNYING PO (PRAJNA PARAMITA HIRDAYA)",
+            "subject_path_english": "Sungbum/COMMENTARIES TO SUTRAS/HEART SUTRA",
             "subject_tibetan": "SHES RAB SNYING PO (PRAJNA PARAMITA HIRDAYA)",
             "subject_english": "HEART SUTRA"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P1629"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "mdo 'grel_commentaries to sutras/shes rab snying po (prajna paramita hirdaya)_heart sutra",
-            "timestamp": "2024-09-10T02:06:05.217272+00:00"
+            "path": "GSUNG 'BUM_Sungbum/MDO 'GREL_COMMENTARIES TO SUTRAS/SHES RAB SNYING PO (PRAJNA PARAMITA HIRDAYA)_HEART SUTRA",
+            "timestamp": "2024-11-20 04:46:10.455516+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:46:10.455516+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,12 +1,12 @@
 {
     "name": "S12064E_LAM KHRID KYI BRJED BYANG_Notes to Myself for a Teaching on the Path_CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS (1740-1810).TXT",
-    "path": "lam rim_steps of the path/cha har dge bshes lam brjed byang_notes to a teaching on the steps of the path by chahar geshe (1740-1810)",
-    "download_path": "/sungbum updated 4 26 23 bk/lam rim_steps of the path/cha har dge bshes lam brjed byang_notes to a teaching on the steps of the path by chahar geshe (1740-1810)/s12064e_lam khrid kyi brjed byang_notes to myself for a teaching on the path_cha har dge bshes blo bzang tsul khrims (1740-1810).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAGqg",
-    "revision_id": "613f66492f1148d294473",
+    "path": "LAM RIM_STEPS OF THE PATH/CHA HAR DGE BSHES LAM BRJED BYANG_NOTES TO A TEACHING ON THE STEPS OF THE PATH BY CHAHAR GESHE (1740-1810)",
+    "download_path": "/sungbum updated 7 30 23 nl/lam rim_steps of the path/cha har dge bshes lam brjed byang_notes to a teaching on the steps of the path by chahar geshe (1740-1810)/s12064e_lam khrid kyi brjed byang_notes to myself for a teaching on the path_cha har dge bshes blo bzang tsul khrims (1740-1810).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABhuA",
+    "revision_id": "625a4a6939d868d294473",
     "content_hash": "04ae34cb3d0dc76dc41239866b045e931fbceb0409a2ea6efa736fb1f1a7636b",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:07:44.606853",
+    "server_modified": "2024-10-29 21:55:59",
+    "last_sync": "2024-11-19 21:18:22.323229",
     "size": 11531,
     "meta_text": null,
     "cat_ref": "S12064E",
@@ -19,10 +19,10 @@
     "author_simple": "CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS",
     "subject": [
         {
-            "_id": "692294037686",
-            "subject_path": "SUNGBUM_SUNGBUM/LAM RIM_STEPS OF THE PATH/CHA HAR DGE BSHES LAM BRJED BYANG_NOTES TO A TEACHING ON THE STEPS OF THE PATH BY CHAHAR GESHE (1740-1810)",
-            "subject_path_tibetan": "SUNGBUM/LAM RIM/CHA HAR DGE BSHES LAM BRJED BYANG",
-            "subject_path_english": "SUNGBUM/STEPS OF THE PATH/NOTES TO A TEACHING ON THE STEPS OF THE PATH BY CHAHAR GESHE (1740-1810)",
+            "_id": "307114761170",
+            "subject_path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/CHA HAR DGE BSHES LAM BRJED BYANG_NOTES TO A TEACHING ON THE STEPS OF THE PATH BY CHAHAR GESHE (1740-1810)",
+            "subject_path_tibetan": "GSUNG 'BUM/LAM RIM/CHA HAR DGE BSHES LAM BRJED BYANG",
+            "subject_path_english": "Sungbum/STEPS OF THE PATH/NOTES TO A TEACHING ON THE STEPS OF THE PATH BY CHAHAR GESHE (1740-1810)",
             "subject_tibetan": "CHA HAR DGE BSHES LAM BRJED BYANG",
             "subject_english": "NOTES TO A TEACHING ON THE STEPS OF THE PATH BY CHAHAR GESHE (1740-1810)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P4797"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "lam rim_steps of the path/cha har dge bshes lam brjed byang_notes to a teaching on the steps of the path by chahar geshe (1740-1810)",
-            "timestamp": "2024-09-10T02:07:44.613384+00:00"
+            "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/CHA HAR DGE BSHES LAM BRJED BYANG_NOTES TO A TEACHING ON THE STEPS OF THE PATH BY CHAHAR GESHE (1740-1810)",
+            "timestamp": "2024-11-20 05:18:22.328281+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:18:22.328281+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

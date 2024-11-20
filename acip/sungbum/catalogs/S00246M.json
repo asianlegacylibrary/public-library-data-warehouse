@@ -1,12 +1,12 @@
 {
     "name": "S00246M_KUN BZANG 'KHOR LO SVA RA SVA STI'I GLU DBYANGS SVA RA SVA STI'I GLU DBYANGS_'The Wheel of Perfect Goodness,' an Aria of the Lady of Song (Sarasvati)_SKYABS RJE KHRI BYANG RIN PO CHE (1901-1981).TXT",
-    "path": "bca' yig_official documents/stag brag_takdrak monastery",
-    "download_path": "/sungbum updated 4 26 23 bk/bca' yig_official documents/stag brag_takdrak monastery/s00246m_kun bzang 'khor lo sva ra sva sti'i glu dbyangs sva ra sva sti'i glu dbyangs_'the wheel of perfect goodness,' an aria of the lady of song (sarasvati)_skyabs rje khri byang rin po che (1901-1981).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAEyA",
-    "revision_id": "613f6644849ec8d294473",
+    "path": "BCA' YIG_OFFICIAL DOCUMENTS/STAG BRAG_TAKDRAK MONASTERY",
+    "download_path": "/sungbum updated 7 30 23 nl/bca' yig_official documents/stag brag_takdrak monastery/s00246m_kun bzang 'khor lo sva ra sva sti'i glu dbyangs sva ra sva sti'i glu dbyangs_'the wheel of perfect goodness,' an aria of the lady of song (sarasvati)_skyabs rje khri byang rin po che (1901-1981).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABk-Q",
+    "revision_id": "625a4adeebe798d294473",
     "content_hash": "af55ae7f56338e51b97c3870fff1b41dde8ce0163a4bf3a32560f99806e64b48",
-    "server_modified": "2024-03-18T21:53:45",
-    "last_sync": "2024-09-09T19:05:59.053918",
+    "server_modified": "2024-10-29 21:58:03",
+    "last_sync": "2024-11-19 21:24:24.997752",
     "size": 6060,
     "meta_text": null,
     "cat_ref": "S00246M",
@@ -19,10 +19,10 @@
     "author_simple": "SKYABS RJE KHRI BYANG RIN PO CHE",
     "subject": [
         {
-            "_id": "116067843935",
-            "subject_path": "SUNGBUM_SUNGBUM/BCA' YIG_OFFICIAL DOCUMENTS/STAG BRAG_TAKDRAK MONASTERY",
-            "subject_path_tibetan": "SUNGBUM/BCA' YIG/STAG BRAG",
-            "subject_path_english": "SUNGBUM/OFFICIAL DOCUMENTS/TAKDRAK MONASTERY",
+            "_id": "686436947107",
+            "subject_path": "GSUNG 'BUM_Sungbum/BCA' YIG_OFFICIAL DOCUMENTS/STAG BRAG_TAKDRAK MONASTERY",
+            "subject_path_tibetan": "GSUNG 'BUM/BCA' YIG/STAG BRAG",
+            "subject_path_english": "Sungbum/OFFICIAL DOCUMENTS/TAKDRAK MONASTERY",
             "subject_tibetan": "STAG BRAG",
             "subject_english": "TAKDRAK MONASTERY"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P2596"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "bca' yig_official documents/stag brag_takdrak monastery",
-            "timestamp": "2024-09-10T02:05:59.060731+00:00"
+            "path": "GSUNG 'BUM_Sungbum/BCA' YIG_OFFICIAL DOCUMENTS/STAG BRAG_TAKDRAK MONASTERY",
+            "timestamp": "2024-11-20 05:24:25.002632+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:24:25.002632+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

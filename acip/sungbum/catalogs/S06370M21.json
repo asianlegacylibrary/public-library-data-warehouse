@@ -1,12 +1,12 @@
 {
     "name": "S06370M21_GZHI GSUM GYIS BSDUS PA'I RNAM DKAR GYI PHUNG PO'I SKOR GYI DRI LAN_Responses to Questions on the 'Pure White Mountain' included in the 'Three Bases'_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
-    "download_path": "/sungbum updated 4 26 23 bk/dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)/s06370m21_gzhi gsum gyis bsdus pa'i rnam dkar gyi phung po'i skor gyi dri lan_responses to questions on the 'pure white mountain' included in the 'three bases'_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAUKg",
-    "revision_id": "613f6668765908d294473",
+    "path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "download_path": "/sungbum updated 7 30 23 nl/dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)/s06370m21_gzhi gsum gyis bsdus pa'i rnam dkar gyi phung po'i skor gyi dri lan_responses to questions on the 'pure white mountain' included in the 'three bases'_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABS6Q",
+    "revision_id": "625a4824fe25a8d294473",
     "content_hash": "af215a1e1b833c1f144f2625044892c2a6aa64331b2bc04bfef60ac1d304052a",
-    "server_modified": "2024-03-18T21:54:23",
-    "last_sync": "2024-09-09T19:21:49.266407",
+    "server_modified": "2024-10-29 21:45:51",
+    "last_sync": "2024-11-19 20:53:43.963313",
     "size": 193,
     "meta_text": null,
     "cat_ref": "S06370M21",
@@ -19,18 +19,18 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "244831615226",
-            "subject_path": "SUNGBUM_SUNGBUM/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_tibetan": "SUNGBUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_english": "SUNGBUM/QUESTIONS AND ANSWERS",
+            "_id": "250883940513",
+            "subject_path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "GSUNG 'BUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "Sungbum/QUESTIONS AND ANSWERS",
             "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
             "subject_english": "QUESTIONS AND ANSWERS"
         },
         {
-            "_id": "181470161002",
-            "subject_path": "SUNGBUM_SUNGBUM/MNGON PA_HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)/GZHI GSUM_THREE FOUNDATIONS",
-            "subject_path_tibetan": "SUNGBUM/MNGON PA/DNGUL CHU DHARMA BHADRA/GZHI GSUM",
-            "subject_path_english": "SUNGBUM/HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)/NGULCHU DHARMA BHADRA (1772-1851)/THREE FOUNDATIONS",
+            "_id": "289075386325",
+            "subject_path": "GSUNG 'BUM_Sungbum/MNGON PA_HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)/GZHI GSUM_THREE FOUNDATIONS",
+            "subject_path_tibetan": "GSUNG 'BUM/MNGON PA/DNGUL CHU DHARMA BHADRA/GZHI GSUM",
+            "subject_path_english": "Sungbum/HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)/NGULCHU DHARMA BHADRA (1772-1851)/THREE FOUNDATIONS",
             "subject_tibetan": "GZHI GSUM",
             "subject_english": "THREE FOUNDATIONS"
         }
@@ -46,15 +46,29 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
-            "timestamp": "2024-09-10T02:21:49.568433+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "timestamp": "2024-11-20 04:54:07.135851+00:00"
         },
         {
-            "path": "mngon pa_higher knowledge (abhidharma) (vaibhashika school)/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)/gzhi gsum_three foundations",
-            "timestamp": "2024-09-10T02:24:37.645292+00:00"
+            "path": "GSUNG 'BUM_Sungbum/MNGON PA_HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)/GZHI GSUM_THREE FOUNDATIONS",
+            "timestamp": "2024-11-20 05:26:32.917207+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:54:07.135851+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T05:26:32.917207+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "text"
 }

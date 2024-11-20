@@ -1,12 +1,12 @@
 {
     "name": "S00205A_The Logic and Debate Tradition of India, Tibet, and Mongolia; History, Reader, and Resources_SER SMAD MKHAN RIN PO CHE DGE BSHES BLO BZANG MTHAR PHYIN MCHOG (1921-2004).TXT",
-    "path": "tsad ma_study of accurate perception (sautrantika school)/spyi_general treatments/ser smad mkhan rin po che dge bshes blo bzang mthar phyin mchog_sermey khen rinpoche lobsang tarchin chok",
-    "download_path": "/sungbum updated 4 26 23 bk/tsad ma_study of accurate perception (sautrantika school)/spyi_general treatments/ser smad mkhan rin po che dge bshes blo bzang mthar phyin mchog_sermey khen rinpoche lobsang tarchin chok/s00205a_the logic and debate tradition of india, tibet, and mongolia; history, reader, and resources_ser smad mkhan rin po che dge bshes blo bzang mthar phyin mchog (1921-2004).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAFgQ",
-    "revision_id": "613f664484aa58d294473",
+    "path": "TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/SPYI_GENERAL TREATMENTS/SER SMAD MKHAN RIN PO CHE DGE BSHES BLO BZANG MTHAR PHYIN MCHOG_SERMEY KHEN RINPOCHE LOBSANG TARCHIN CHOK",
+    "download_path": "/sungbum updated 7 30 23 nl/tsad ma_study of accurate perception (sautrantika school)/spyi_general treatments/ser smad mkhan rin po che dge bshes blo bzang mthar phyin mchog_sermey khen rinpoche lobsang tarchin chok/s00205a_the logic and debate tradition of india, tibet, and mongolia; history, reader, and resources_ser smad mkhan rin po che dge bshes blo bzang mthar phyin mchog (1921-2004).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABQTA",
+    "revision_id": "625a47bd0bb888d294473",
     "content_hash": "f22ef586513724eb71932d29b86e4ac331604cb0c313f995cd778c10531ba3cd",
-    "server_modified": "2024-03-18T21:53:45",
-    "last_sync": "2024-09-09T19:06:36.695245",
+    "server_modified": "2024-10-29 21:44:02",
+    "last_sync": "2024-11-19 20:49:36.105156",
     "size": 38164,
     "meta_text": null,
     "cat_ref": "S00205A",
@@ -19,10 +19,10 @@
     "author_simple": "",
     "subject": [
         {
-            "_id": "540595469361",
-            "subject_path": "SUNGBUM_SUNGBUM/TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/SPYI_GENERAL TREATMENTS/SER SMAD MKHAN RIN PO CHE DGE BSHES BLO BZANG MTHAR PHYIN MCHOG_SERMEY KHEN RINPOCHE LOBSANG TARCHIN CHOK",
-            "subject_path_tibetan": "SUNGBUM/TSAD MA/SPYI/SER SMAD MKHAN RIN PO CHE DGE BSHES BLO BZANG MTHAR PHYIN MCHOG",
-            "subject_path_english": "SUNGBUM/STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/GENERAL TREATMENTS/SERMEY KHEN RINPOCHE LOBSANG TARCHIN CHOK",
+            "_id": "364036238905",
+            "subject_path": "GSUNG 'BUM_Sungbum/TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/SPYI_GENERAL TREATMENTS/SER SMAD MKHAN RIN PO CHE DGE BSHES BLO BZANG MTHAR PHYIN MCHOG_SERMEY KHEN RINPOCHE LOBSANG TARCHIN CHOK",
+            "subject_path_tibetan": "GSUNG 'BUM/TSAD MA/SPYI/SER SMAD MKHAN RIN PO CHE DGE BSHES BLO BZANG MTHAR PHYIN MCHOG",
+            "subject_path_english": "Sungbum/STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/GENERAL TREATMENTS/SERMEY KHEN RINPOCHE LOBSANG TARCHIN CHOK",
             "subject_tibetan": "SER SMAD MKHAN RIN PO CHE DGE BSHES BLO BZANG MTHAR PHYIN MCHOG",
             "subject_english": "SERMEY KHEN RINPOCHE LOBSANG TARCHIN CHOK"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "tsad ma_study of accurate perception (sautrantika school)/spyi_general treatments/ser smad mkhan rin po che dge bshes blo bzang mthar phyin mchog_sermey khen rinpoche lobsang tarchin chok",
-            "timestamp": "2024-09-10T02:06:36.699511+00:00"
+            "path": "GSUNG 'BUM_Sungbum/TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/SPYI_GENERAL TREATMENTS/SER SMAD MKHAN RIN PO CHE DGE BSHES BLO BZANG MTHAR PHYIN MCHOG_SERMEY KHEN RINPOCHE LOBSANG TARCHIN CHOK",
+            "timestamp": "2024-11-20 04:49:36.109807+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:49:36.109807+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

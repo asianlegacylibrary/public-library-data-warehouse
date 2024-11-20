@@ -1,12 +1,12 @@
 {
     "name": "S00239M_BYAMS SKU DANG GOS SKU SOGS KYI DKAR CHAG SNA TSOGS PHYOGS GCIG TU BKOD PA_An Anthology of Catalogs Describing the Contents of a Variety of Sacred Images_SKYABS RJE KHRI BYANG RIN PO CHE (1901-1981).TXT",
-    "path": "cho ga_rituals/gzung gzhug_installation of the contents of stupas",
-    "download_path": "/sungbum updated 4 26 23 bk/cho ga_rituals/gzung gzhug_installation of the contents of stupas/s00239m_byams sku dang gos sku sogs kyi dkar chag sna tsogs phyogs gcig tu bkod pa_an anthology of catalogs describing the contents of a variety of sacred images_skyabs rje khri byang rin po che (1901-1981).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAElg",
-    "revision_id": "613f6644849ba8d294473",
+    "path": "LHA BZO_FINE ARTS/MCHOD RTEN_STUPAS/GZUNG GZHUG_INSTALLATION OF THE CONTENTS OF STUPAS",
+    "download_path": "/sungbum updated 7 30 23 nl/lha bzo_fine arts/mchod rten_stupas/gzung gzhug_installation of the contents of stupas/s00239m_byams sku dang gos sku sogs kyi dkar chag sna tsogs phyogs gcig tu bkod pa_an anthology of catalogs describing the contents of a variety of sacred images_skyabs rje khri byang rin po che (1901-1981).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABRCA",
+    "revision_id": "625a47d3623838d294473",
     "content_hash": "5da8a03334bd90f58e90aa7a4310c3d12c736261ffa40f982aab1a5a200018a6",
-    "server_modified": "2024-03-18T21:53:45",
-    "last_sync": "2024-09-09T19:05:48.889920",
+    "server_modified": "2024-10-29 21:44:25",
+    "last_sync": "2024-11-19 20:51:09.896065",
     "size": 106801,
     "meta_text": null,
     "cat_ref": "S00239M",
@@ -19,18 +19,18 @@
     "author_simple": "SKYABS RJE KHRI BYANG RIN PO CHE",
     "subject": [
         {
-            "_id": "305421658278",
-            "subject_path": "SUNGBUM_SUNGBUM/CHO GA_RITUALS/GZUNG GZHUG_INSTALLATION OF THE CONTENTS OF STUPAS",
-            "subject_path_tibetan": "SUNGBUM/CHO GA/GZUNG GZHUG",
-            "subject_path_english": "SUNGBUM/RITUALS/INSTALLATION OF THE CONTENTS OF STUPAS",
+            "_id": "215722002423",
+            "subject_path": "GSUNG 'BUM_Sungbum/LHA BZO_FINE ARTS/MCHOD RTEN_STUPAS/GZUNG GZHUG_INSTALLATION OF THE CONTENTS OF STUPAS",
+            "subject_path_tibetan": "GSUNG 'BUM/LHA BZO/MCHOD RTEN/GZUNG GZHUG",
+            "subject_path_english": "Sungbum/FINE ARTS/STUPAS/INSTALLATION OF THE CONTENTS OF STUPAS",
             "subject_tibetan": "GZUNG GZHUG",
             "subject_english": "INSTALLATION OF THE CONTENTS OF STUPAS"
         },
         {
-            "_id": "311768842350",
-            "subject_path": "SUNGBUM_SUNGBUM/LHA BZO_FINE ARTS/MCHOD RTEN_STUPAS/GZUNG GZHUG_INSTALLATION OF THE CONTENTS OF STUPAS",
-            "subject_path_tibetan": "SUNGBUM/LHA BZO/MCHOD RTEN/GZUNG GZHUG",
-            "subject_path_english": "SUNGBUM/FINE ARTS/STUPAS/INSTALLATION OF THE CONTENTS OF STUPAS",
+            "_id": "272761670434",
+            "subject_path": "GSUNG 'BUM_Sungbum/CHO GA_RITUALS/GZUNG GZHUG_INSTALLATION OF THE CONTENTS OF STUPAS",
+            "subject_path_tibetan": "GSUNG 'BUM/CHO GA/GZUNG GZHUG",
+            "subject_path_english": "Sungbum/RITUALS/INSTALLATION OF THE CONTENTS OF STUPAS",
             "subject_tibetan": "GZUNG GZHUG",
             "subject_english": "INSTALLATION OF THE CONTENTS OF STUPAS"
         }
@@ -46,15 +46,29 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P2596"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "cho ga_rituals/gzung gzhug_installation of the contents of stupas",
-            "timestamp": "2024-09-10T02:05:48.916660+00:00"
+            "path": "GSUNG 'BUM_Sungbum/LHA BZO_FINE ARTS/MCHOD RTEN_STUPAS/GZUNG GZHUG_INSTALLATION OF THE CONTENTS OF STUPAS",
+            "timestamp": "2024-11-20 04:51:09.900430+00:00"
         },
         {
-            "path": "lha bzo_fine arts/mchod rten_stupas/gzung gzhug_installation of the contents of stupas",
-            "timestamp": "2024-09-10T02:20:22.775918+00:00"
+            "path": "GSUNG 'BUM_Sungbum/CHO GA_RITUALS/GZUNG GZHUG_INSTALLATION OF THE CONTENTS OF STUPAS",
+            "timestamp": "2024-11-20 05:26:19.206773+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:51:09.900430+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T05:26:19.206773+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "text"
 }

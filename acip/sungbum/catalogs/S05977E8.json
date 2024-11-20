@@ -1,12 +1,12 @@
 {
     "name": "S05977E8_DRIL BU DMAR KHRID KYI BRGYUD PA'I GSOL 'DEBS_A Supplication to the Lamas of the Lineage of 'Dissection' Style of Teaching in the Tradition of Ghantapada_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662).TXT",
-    "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/bla brgyud_lineage lamas",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/bla brgyud_lineage lamas/s05977e8_dril bu dmar khrid kyi brgyud pa'i gsol 'debs_a supplication to the lamas of the lineage of 'dissection' style of teaching in the tradition of ghantapada_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAPSg",
-    "revision_id": "613f665b611638d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/BLA BRGYUD_LINEAGE LAMAS",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/bla brgyud_lineage lamas/s05977e8_dril bu dmar khrid kyi brgyud pa'i gsol 'debs_a supplication to the lamas of the lineage of 'dissection' style of teaching in the tradition of ghantapada_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABUgw",
+    "revision_id": "625a48684cd128d294473",
     "content_hash": "fe75aed36bbd32a1d45370a81a8c43b3dfbb7572918aab70bf2c84fe0d0349b0",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:16:42.133377",
+    "server_modified": "2024-10-29 21:47:01",
+    "last_sync": "2024-11-19 20:55:41.365257",
     "size": 3268,
     "meta_text": null,
     "cat_ref": "S05977E8",
@@ -19,10 +19,10 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "543323095744",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/BLA BRGYUD_LINEAGE LAMAS",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/BDE MCHOG/BLA BRGYUD",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/LINEAGE LAMAS",
+            "_id": "155191796174",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/BLA BRGYUD_LINEAGE LAMAS",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/BDE MCHOG/BLA BRGYUD",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/LINEAGE LAMAS",
             "subject_tibetan": "BLA BRGYUD",
             "subject_english": "LINEAGE LAMAS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/bla brgyud_lineage lamas",
-            "timestamp": "2024-09-10T02:16:42.150079+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/BLA BRGYUD_LINEAGE LAMAS",
+            "timestamp": "2024-11-20 04:55:43.079425+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:55:43.079425+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

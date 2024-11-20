@@ -1,12 +1,12 @@
 {
     "name": "S06369E52_SMAN BYIN RLABS BYA TSUL_Method for Blessing Medicine_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/sman byin rlabs_blessing of medicinal herbs",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/sman byin rlabs_blessing of medicinal herbs/s06369e52_sman byin rlabs bya tsul_method for blessing medicine_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAM-g",
-    "revision_id": "613f6656dedcb8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SMAN BYIN RLABS_BLESSING OF MEDICINAL HERBS",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyi_general treatments/sman byin rlabs_blessing of medicinal herbs/s06369e52_sman byin rlabs bya tsul_method for blessing medicine_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABY8w",
+    "revision_id": "625a48ef56c8f8d294473",
     "content_hash": "746247af074772e93e2a5136e87e0ea573412601889e38d5826fc44d68ba0ffd",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:14:20.964127",
+    "server_modified": "2024-10-29 21:49:23",
+    "last_sync": "2024-11-19 21:03:22.252907",
     "size": 4494,
     "meta_text": null,
     "cat_ref": "S06369E52",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "169216795848",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SMAN BYIN RLABS_BLESSING OF MEDICINAL HERBS",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/SMAN BYIN RLABS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/BLESSING OF MEDICINAL HERBS",
+            "_id": "251359359558",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SMAN BYIN RLABS_BLESSING OF MEDICINAL HERBS",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/SMAN BYIN RLABS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/BLESSING OF MEDICINAL HERBS",
             "subject_tibetan": "SMAN BYIN RLABS",
             "subject_english": "BLESSING OF MEDICINAL HERBS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/sman byin rlabs_blessing of medicinal herbs",
-            "timestamp": "2024-09-10T02:14:20.967168+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SMAN BYIN RLABS_BLESSING OF MEDICINAL HERBS",
+            "timestamp": "2024-11-20 05:03:22.257318+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:03:22.257318+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

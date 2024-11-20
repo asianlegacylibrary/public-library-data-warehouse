@@ -1,14 +1,14 @@
 {
     "name": "S06282E_BDE MCHOG DRIL BU LHA LNGA'I DKYIL CHOG BDE CHEN 'BYUNG GNAS_The 'Source of Great Bliss,' A Ritual for Initiation into the Secret World of the Five Angels of Highest Bliss (Sambara), in the System of Ghantapada_DNGUL CHU DHARMA BHADRA (1772- +.TXT",
-    "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/dkyil chog_ritual for a secret world (mandala vidhi)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/dkyil chog_ritual for a secret world (mandala vidhi)/s06282e_bde mchog dril bu lha lnga'i dkyil chog bde chen 'byung gnas_the 'source of great bliss,' a ritual for initiation into the secret world of the five angels of highest bliss (sambara), in the system of ghantapada_dngul chu dharma bhadra (1772- +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAPew",
-    "revision_id": "613f665b611948d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/DKYIL CHOG_RITUAL FOR A SECRET WORLD (MANDALA VIDHI)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/dkyil chog_ritual for a secret world (mandala vidhi)/s06282e_bde mchog dril bu lha lnga'i dkyil chog bde chen 'byung gnas_the 'source of great bliss,' a ritual for initiation into the secret world of the five angels of highest bliss (sambara), in the system of ghantapada_dngul chu dharma bhadra (1772- +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABU4Q",
+    "revision_id": "625a48753d19e8d294473",
     "content_hash": "ce88844e5febed2e8780fe9308b86159eb6bf55a0dc7fd1acad5a1cf8f6e41de",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:16:55.302497",
+    "server_modified": "2024-10-29 21:47:15",
+    "last_sync": "2024-11-19 20:56:25.819530",
     "size": 85089,
-    "meta_text": "1851)",
+    "meta_text": "('1851)', 'rtf')",
     "cat_ref": "S06282E",
     "work_ref": "W.S06282E",
     "title_tib": "BDE MCHOG DRIL BU LHA LNGA'I DKYIL CHOG BDE CHEN 'BYUNG GNAS",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "123582299727",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/DKYIL CHOG_RITUAL FOR A SECRET WORLD (MANDALA VIDHI)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/BDE MCHOG/DKYIL CHOG",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/RITUAL FOR A SECRET WORLD (MANDALA VIDHI)",
+            "_id": "747571047918",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/DKYIL CHOG_RITUAL FOR A SECRET WORLD (MANDALA VIDHI)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/BDE MCHOG/DKYIL CHOG",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/RITUAL FOR A SECRET WORLD (MANDALA VIDHI)",
             "subject_tibetan": "DKYIL CHOG",
             "subject_english": "RITUAL FOR A SECRET WORLD (MANDALA VIDHI)"
         }
@@ -31,18 +31,26 @@
     "author": [
         {
             "author_name": "DNGUL CHU DHARMA BHADRA",
-            "author_birth": "1772",
-            "author_death": "1851",
+            "author_birth": null,
+            "author_death": null,
             "bdrc_id": "bdr:P289",
             "normalized_name": "DNGUL CHU DHARMA BHADRA",
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/dkyil chog_ritual for a secret world (mandala vidhi)",
-            "timestamp": "2024-09-10T02:16:55.305681+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/DKYIL CHOG_RITUAL FOR A SECRET WORLD (MANDALA VIDHI)",
+            "timestamp": "2024-11-20 04:56:25.826253+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:56:25.826253+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

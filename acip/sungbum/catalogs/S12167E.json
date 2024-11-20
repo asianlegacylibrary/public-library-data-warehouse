@@ -1,28 +1,28 @@
 {
     "name": "S12167E_MKHAS MCHOG CHOS KYI SPYAN LDAN NGAG DBANG DPAL LDAN DPAL BZANG PO LA DOGS PA ZHUS PA'I DRI BA DANG, DE'I LAN BCAS_A Record of Questions, with their Answers, on Certain Scriptural Issues, Responded to by that Highest of Sages, the One who Po+.TXT",
-    "path": "dri lan_questions and answers/chos rje khal kha ngag dbang dpal ldan_chuje kalka ngawang pelden (1806-?)",
-    "download_path": "/sungbum updated 4 26 23 bk/dri lan_questions and answers/chos rje khal kha ngag dbang dpal ldan_chuje kalka ngawang pelden (1806-?)/s12167e_mkhas mchog chos kyi spyan ldan ngag dbang dpal ldan dpal bzang po la dogs pa zhus pa'i dri ba dang, de'i lan bcas_a record of questions, with their answers, on certain scriptural issues, responded to by that highest of sages, the one who po+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAUxg",
-    "revision_id": "613f66687662c8d294473",
+    "path": "DRI LAN_QUESTIONS AND ANSWERS/CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN_CHUJE KALKA NGAWANG PELDEN (1806-?)",
+    "download_path": "/sungbum updated 7 30 23 nl/dri lan_questions and answers/chos rje khal kha ngag dbang dpal ldan_chuje kalka ngawang pelden (1806-?)/s12167e_mkhas mchog chos kyi spyan ldan ngag dbang dpal ldan dpal bzang po la dogs pa zhus pa'i dri ba dang, de'i lan bcas_a record of questions, with their answers, on certain scriptural issues, responded to by that highest of sages, the one who po+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABTpg",
+    "revision_id": "625a4841a235d8d294473",
     "content_hash": "35fa58e70c8791b70021fe0130959ffd5e4d4733019cfc5e998ac9e7f6bbc905",
-    "server_modified": "2024-03-18T21:54:23",
-    "last_sync": "2024-09-09T19:21:51.813406",
+    "server_modified": "2024-10-29 21:46:21",
+    "last_sync": "2024-11-19 20:54:09.235508",
     "size": 37195,
-    "meta_text": "ssesses the Eyes of the Dharma, the Good and Glorious Ngawang Pelden_CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN (1806-@)",
+    "meta_text": "('ssesses the Eyes of the Dharma, the Good and Glorious Ngawang Pelden_CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN (1806-@)', 'rtf')",
     "cat_ref": "S12167E",
     "work_ref": "W.S12167E",
     "title_tib": "MKHAS MCHOG CHOS KYI SPYAN LDAN NGAG DBANG DPAL LDAN DPAL BZANG PO LA DOGS PA ZHUS PA'I DRI BA DANG, DE'I LAN BCAS",
-    "title_eng": "A Record of Questions, with their Answers, on Certain Scriptural Issues, Responded to by that Highest of Sages, the One who Possesses the Eyes of the Dharma, the Good and Glorious Ngawang Pelden",
+    "title_eng": "A Record of Questions, with their Answers, on Certain Scriptural Issues, Responded to by that Highest of Sages, the One who Po('ssesses the Eyes of the Dharma, the Good and Glorious Ngawang Pelden",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN",
     "subject": [
         {
-            "_id": "277389998597",
-            "subject_path": "SUNGBUM_SUNGBUM/DRI LAN_QUESTIONS AND ANSWERS/CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN_CHUJE KALKA NGAWANG PELDEN (1806-?)",
-            "subject_path_tibetan": "SUNGBUM/DRI LAN/CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN",
-            "subject_path_english": "SUNGBUM/QUESTIONS AND ANSWERS/CHUJE KALKA NGAWANG PELDEN (1806-?)",
+            "_id": "299871926721",
+            "subject_path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN_CHUJE KALKA NGAWANG PELDEN (1806-?)",
+            "subject_path_tibetan": "GSUNG 'BUM/DRI LAN/CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN",
+            "subject_path_english": "Sungbum/QUESTIONS AND ANSWERS/CHUJE KALKA NGAWANG PELDEN (1806-?)",
             "subject_tibetan": "CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN",
             "subject_english": "CHUJE KALKA NGAWANG PELDEN (1806-?)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P272"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "dri lan_questions and answers/chos rje khal kha ngag dbang dpal ldan_chuje kalka ngawang pelden (1806-?)",
-            "timestamp": "2024-09-10T02:21:51.826334+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN_CHUJE KALKA NGAWANG PELDEN (1806-?)",
+            "timestamp": "2024-11-20 04:54:09.241050+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:54:09.241050+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,12 +1,12 @@
 {
     "name": "S06366M_DGE TSUL GYI BSLAB BYA'I SDOM TSIG_Versed Summary on the Rules for Novice Monks_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "'dul ba_vowed morality (vinaya)/dge tsul_vows of novice monks",
-    "download_path": "/sungbum updated 4 26 23 bk/'dul ba_vowed morality (vinaya)/dge tsul_vows of novice monks/s06366m_dge tsul gyi bslab bya'i sdom tsig_versed summary on the rules for novice monks_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAC9Q",
-    "revision_id": "613f663ffc7e88d294473",
+    "path": "'DUL BA_VOWED MORALITY (VINAYA)/DGE TSUL_VOWS OF NOVICE MONKS",
+    "download_path": "/sungbum updated 7 30 23 nl/'dul ba_vowed morality (vinaya)/dge tsul_vows of novice monks/s06366m_dge tsul gyi bslab bya'i sdom tsig_versed summary on the rules for novice monks_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABfOA",
+    "revision_id": "625a49e3b58b38d294473",
     "content_hash": "3c85438c640df48aad34ccd937a19139b0ece28cf09859b6a062cbad912e582a",
-    "server_modified": "2024-03-18T21:53:40",
-    "last_sync": "2024-09-09T19:04:16.026244",
+    "server_modified": "2024-10-29 21:53:39",
+    "last_sync": "2024-11-19 21:13:50.918520",
     "size": 5679,
     "meta_text": null,
     "cat_ref": "S06366M",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "267947444176",
-            "subject_path": "SUNGBUM_SUNGBUM/'DUL BA_VOWED MORALITY (VINAYA)/DGE TSUL_VOWS OF NOVICE MONKS",
-            "subject_path_tibetan": "SUNGBUM/'DUL BA/DGE TSUL",
-            "subject_path_english": "SUNGBUM/VOWED MORALITY (VINAYA)/VOWS OF NOVICE MONKS",
+            "_id": "297433215321",
+            "subject_path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/DGE TSUL_VOWS OF NOVICE MONKS",
+            "subject_path_tibetan": "GSUNG 'BUM/'DUL BA/DGE TSUL",
+            "subject_path_english": "Sungbum/VOWED MORALITY (VINAYA)/VOWS OF NOVICE MONKS",
             "subject_tibetan": "DGE TSUL",
             "subject_english": "VOWS OF NOVICE MONKS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "'dul ba_vowed morality (vinaya)/dge tsul_vows of novice monks",
-            "timestamp": "2024-09-10T02:04:16.043437+00:00"
+            "path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/DGE TSUL_VOWS OF NOVICE MONKS",
+            "timestamp": "2024-11-20 05:13:50.925655+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:13:50.925655+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

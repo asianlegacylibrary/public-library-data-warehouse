@@ -1,12 +1,12 @@
 {
     "name": "S05598_NYANG STON KHRA TSANG BA BLO GROS MCHOG GI RDO RJE'I RTOGS PA BRJOD PA NYUNG NGU RNAM GSAL_A Brief Clarification of the Life Story of Tratsang Lodru Choki Dorje, a Teacher from Nyang_RGYAL BA NGAG DBANG BLO BZANG RGYA MTSO (1617-1682).TXT",
-    "path": "rnam thar_biographies/mtsan thog_by person's name/blo gros mchog gi rdo rje_lodru chok ki dorje (1595 – 1671)",
-    "download_path": "/sungbum updated 4 26 23 bk/rnam thar_biographies/mtsan thog_by person's name/blo gros mchog gi rdo rje_lodru chok ki dorje (1595 – 1671)/s05598_nyang ston khra tsang ba blo gros mchog gi rdo rje'i rtogs pa brjod pa nyung ngu rnam gsal_a brief clarification of the life story of tratsang lodru choki dorje, a teacher from nyang_rgyal ba ngag dbang blo bzang rgya mtso (1617-1682).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAWgw",
-    "revision_id": "613f666d2099f8d294473",
+    "path": "RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/BLO GROS MCHOG GI RDO RJE_LODRU CHOK KI DORJE (1595 – 1671)",
+    "download_path": "/sungbum updated 7 30 23 nl/rnam thar_biographies/mtsan thog_by person's name/blo gros mchog gi rdo rje_lodru chok ki dorje (1595 – 1671)/s05598_nyang ston khra tsang ba blo gros mchog gi rdo rje'i rtogs pa brjod pa nyung ngu rnam gsal_a brief clarification of the life story of tratsang lodru choki dorje, a teacher from nyang_rgyal ba ngag dbang blo bzang rgya mtso (1617-1682).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABgbA",
+    "revision_id": "625a4a1dce79c8d294473",
     "content_hash": "e43afa15f29300b16506a0ce53ed26f988391d05ad0afdae4e394b65629cbfae",
-    "server_modified": "2024-03-18T21:54:28",
-    "last_sync": "2024-09-09T19:23:43.660507",
+    "server_modified": "2024-10-29 21:54:40",
+    "last_sync": "2024-11-19 21:16:15.840228",
     "size": 174939,
     "meta_text": null,
     "cat_ref": "S05598",
@@ -19,10 +19,10 @@
     "author_simple": "RGYAL BA NGAG DBANG BLO BZANG RGYA MTSO",
     "subject": [
         {
-            "_id": "148852926784",
-            "subject_path": "SUNGBUM_SUNGBUM/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/BLO GROS MCHOG GI RDO RJE_LODRU CHOK KI DORJE (1595 – 1671)",
-            "subject_path_tibetan": "SUNGBUM/RNAM THAR/MTSAN THOG/BLO GROS MCHOG GI RDO RJE",
-            "subject_path_english": "SUNGBUM/BIOGRAPHIES/BY PERSON'S NAME/LODRU CHOK KI DORJE (1595 – 1671)",
+            "_id": "194726115659",
+            "subject_path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/BLO GROS MCHOG GI RDO RJE_LODRU CHOK KI DORJE (1595 – 1671)",
+            "subject_path_tibetan": "GSUNG 'BUM/RNAM THAR/MTSAN THOG/BLO GROS MCHOG GI RDO RJE",
+            "subject_path_english": "Sungbum/BIOGRAPHIES/BY PERSON'S NAME/LODRU CHOK KI DORJE (1595 – 1671)",
             "subject_tibetan": "BLO GROS MCHOG GI RDO RJE",
             "subject_english": "LODRU CHOK KI DORJE (1595 – 1671)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P37"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rnam thar_biographies/mtsan thog_by person's name/blo gros mchog gi rdo rje_lodru chok ki dorje (1595 – 1671)",
-            "timestamp": "2024-09-10T02:23:43.662902+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/BLO GROS MCHOG GI RDO RJE_LODRU CHOK KI DORJE (1595 – 1671)",
+            "timestamp": "2024-11-20 05:16:15.844379+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:16:15.844379+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

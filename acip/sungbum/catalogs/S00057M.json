@@ -1,12 +1,12 @@
 {
     "name": "S00057M_'DUL GZHUNG RGYA MTSO'I DGONGS DON SNYING PO BSDUS PA YID BZHIN NOR BU_The 'Wish-Giving Jewel,' being the Briefest Essence of the True Intent of the Ocean of the Great Books on Vowed Morality_CO NE BLA MA GRAGS PA BSHAD SGRUB (1675-1748).TXT",
-    "path": "'dul ba_vowed morality (vinaya)/spyi_general presentations/co ne bla ma grags pa bshad sgrub_choney lama drakpa shedrup (1675-1748)",
-    "download_path": "/sungbum updated 4 26 23 bk/'dul ba_vowed morality (vinaya)/spyi_general presentations/co ne bla ma grags pa bshad sgrub_choney lama drakpa shedrup (1675-1748)/s00057m_'dul gzhung rgya mtso'i dgongs don snying po bsdus pa yid bzhin nor bu_the 'wish-giving jewel,' being the briefest essence of the true intent of the ocean of the great books on vowed morality_co ne bla ma grags pa bshad sgrub (1675-1748).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAADZQ",
-    "revision_id": "613f663ffc8588d294473",
+    "path": "'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/CO NE BLA MA GRAGS PA BSHAD SGRUB_CHONEY LAMA DRAKPA SHEDRUP (1675-1748)",
+    "download_path": "/sungbum updated 7 30 23 nl/'dul ba_vowed morality (vinaya)/spyi_general presentations/co ne bla ma grags pa bshad sgrub_choney lama drakpa shedrup (1675-1748)/s00057m_'dul gzhung rgya mtso'i dgongs don snying po bsdus pa yid bzhin nor bu_the 'wish-giving jewel,' being the briefest essence of the true intent of the ocean of the great books on vowed morality_co ne bla ma grags pa bshad sgrub (1675-1748).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABe1w",
+    "revision_id": "625a49cd0f1078d294473",
     "content_hash": "7c7e5b9df364136e788d17b745e727dfc2e8412850f1ba143533378a1f443aa7",
-    "server_modified": "2024-03-18T21:53:40",
-    "last_sync": "2024-09-09T19:04:42.327197",
+    "server_modified": "2024-10-29 21:53:16",
+    "last_sync": "2024-11-19 21:13:19.153449",
     "size": 237230,
     "meta_text": null,
     "cat_ref": "S00057M",
@@ -19,10 +19,10 @@
     "author_simple": "CO NE BLA MA GRAGS PA BSHAD SGRUB",
     "subject": [
         {
-            "_id": "402277859495",
-            "subject_path": "SUNGBUM_SUNGBUM/'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/CO NE BLA MA GRAGS PA BSHAD SGRUB_CHONEY LAMA DRAKPA SHEDRUP (1675-1748)",
-            "subject_path_tibetan": "SUNGBUM/'DUL BA/SPYI/CO NE BLA MA GRAGS PA BSHAD SGRUB",
-            "subject_path_english": "SUNGBUM/VOWED MORALITY (VINAYA)/GENERAL PRESENTATIONS/CHONEY LAMA DRAKPA SHEDRUP (1675-1748)",
+            "_id": "313013249348",
+            "subject_path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/CO NE BLA MA GRAGS PA BSHAD SGRUB_CHONEY LAMA DRAKPA SHEDRUP (1675-1748)",
+            "subject_path_tibetan": "GSUNG 'BUM/'DUL BA/SPYI/CO NE BLA MA GRAGS PA BSHAD SGRUB",
+            "subject_path_english": "Sungbum/VOWED MORALITY (VINAYA)/GENERAL PRESENTATIONS/CHONEY LAMA DRAKPA SHEDRUP (1675-1748)",
             "subject_tibetan": "CO NE BLA MA GRAGS PA BSHAD SGRUB",
             "subject_english": "CHONEY LAMA DRAKPA SHEDRUP (1675-1748)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P1629"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "'dul ba_vowed morality (vinaya)/spyi_general presentations/co ne bla ma grags pa bshad sgrub_choney lama drakpa shedrup (1675-1748)",
-            "timestamp": "2024-09-10T02:04:42.335370+00:00"
+            "path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/CO NE BLA MA GRAGS PA BSHAD SGRUB_CHONEY LAMA DRAKPA SHEDRUP (1675-1748)",
+            "timestamp": "2024-11-20 05:13:19.158692+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:13:19.158692+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

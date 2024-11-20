@@ -1,12 +1,12 @@
 {
     "name": "S12315E_SANGS RGYAS BYANG SEMS KYI MTSAN BRJOD SOGS SNA TSOGS KYI SKOR BZHUGS_Writings on a Variety of Topics, such as Chanting the Names of Buddhas and Bodhisattvas_LCANG LUNG AARYA PAndI TA NGAG DBANG BLO BZANG BSTAN PA'I RGYAL MTSAN (1770-1845).TXT",
-    "path": "phran tsegs_miscellaneous/lcang lung aarya pandi ta ngag dbang blo bzang bstan pa'i rgyal mtsan_changlung arya pandita ngawang lobsang tenpay gyeltsen (1770-1845)",
-    "download_path": "/sungbum updated 4 26 23 bk/phran tsegs_miscellaneous/lcang lung aarya pandi ta ngag dbang blo bzang bstan pa'i rgyal mtsan_changlung arya pandita ngawang lobsang tenpay gyeltsen (1770-1845)/s12315e_sangs rgyas byang sems kyi mtsan brjod sogs sna tsogs kyi skor bzhugs_writings on a variety of topics, such as chanting the names of buddhas and bodhisattvas_lcang lung aarya pandi ta ngag dbang blo bzang bstan pa'i rgyal mtsan (1770-1845).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAGJA",
-    "revision_id": "613f66492f08e8d294473",
+    "path": "PHRAN TSEGS_MISCELLANEOUS/LCANG LUNG AARYA PAndI TA NGAG DBANG BLO BZANG BSTAN PA'I RGYAL MTSAN_CHANGLUNG ARYA PANDITA NGAWANG LOBSANG TENPAY GYELTSEN (1770-1845)",
+    "download_path": "/sungbum updated 7 30 23 nl/phran tsegs_miscellaneous/lcang lung aarya pandi ta ngag dbang blo bzang bstan pa'i rgyal mtsan_changlung arya pandita ngawang lobsang tenpay gyeltsen (1770-1845)/s12315e_sangs rgyas byang sems kyi mtsan brjod sogs sna tsogs kyi skor bzhugs_writings on a variety of topics, such as chanting the names of buddhas and bodhisattvas_lcang lung aarya pandi ta ngag dbang blo bzang bstan pa'i rgyal mtsan (1770-1845).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABiDA",
+    "revision_id": "625a4a7a6861b8d294473",
     "content_hash": "cf37e6e9044a810294a860d1d021c2dc7e66e006ce65d608b6d2511a0572eed3",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:07:16.266261",
+    "server_modified": "2024-10-29 21:56:17",
+    "last_sync": "2024-11-19 21:18:57.440464",
     "size": 57196,
     "meta_text": null,
     "cat_ref": "S12315E",
@@ -19,11 +19,11 @@
     "author_simple": "LCANG LUNG AARYA PAnDI TA NGAG DBANG BLO BZANG BSTAN PA'I RGYAL MTSAN",
     "subject": [
         {
-            "_id": "265756712895",
-            "subject_path": "SUNGBUM_SUNGBUM/PHRAN TSEGS_MISCELLANEOUS/LCANG LUNG AARYA PANDI TA NGAG DBANG BLO BZANG BSTAN PA'I RGYAL MTSAN_CHANGLUNG ARYA PANDITA NGAWANG LOBSANG TENPAY GYELTSEN (1770-1845)",
-            "subject_path_tibetan": "SUNGBUM/PHRAN TSEGS/LCANG LUNG AARYA PANDI TA NGAG DBANG BLO BZANG BSTAN PA'I RGYAL MTSAN",
-            "subject_path_english": "SUNGBUM/MISCELLANEOUS/CHANGLUNG ARYA PANDITA NGAWANG LOBSANG TENPAY GYELTSEN (1770-1845)",
-            "subject_tibetan": "LCANG LUNG AARYA PANDI TA NGAG DBANG BLO BZANG BSTAN PA'I RGYAL MTSAN",
+            "_id": "222675096159",
+            "subject_path": "GSUNG 'BUM_Sungbum/PHRAN TSEGS_MISCELLANEOUS/LCANG LUNG AARYA PAndI TA NGAG DBANG BLO BZANG BSTAN PA'I RGYAL MTSAN_CHANGLUNG ARYA PANDITA NGAWANG LOBSANG TENPAY GYELTSEN (1770-1845)",
+            "subject_path_tibetan": "GSUNG 'BUM/PHRAN TSEGS/LCANG LUNG AARYA PAndI TA NGAG DBANG BLO BZANG BSTAN PA'I RGYAL MTSAN",
+            "subject_path_english": "Sungbum/MISCELLANEOUS/CHANGLUNG ARYA PANDITA NGAWANG LOBSANG TENPAY GYELTSEN (1770-1845)",
+            "subject_tibetan": "LCANG LUNG AARYA PAndI TA NGAG DBANG BLO BZANG BSTAN PA'I RGYAL MTSAN",
             "subject_english": "CHANGLUNG ARYA PANDITA NGAWANG LOBSANG TENPAY GYELTSEN (1770-1845)"
         }
     ],
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P290"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "phran tsegs_miscellaneous/lcang lung aarya pandi ta ngag dbang blo bzang bstan pa'i rgyal mtsan_changlung arya pandita ngawang lobsang tenpay gyeltsen (1770-1845)",
-            "timestamp": "2024-09-10T02:07:16.271900+00:00"
+            "path": "GSUNG 'BUM_Sungbum/PHRAN TSEGS_MISCELLANEOUS/LCANG LUNG AARYA PAndI TA NGAG DBANG BLO BZANG BSTAN PA'I RGYAL MTSAN_CHANGLUNG ARYA PANDITA NGAWANG LOBSANG TENPAY GYELTSEN (1770-1845)",
+            "timestamp": "2024-11-20 05:18:57.444748+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:18:57.444748+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

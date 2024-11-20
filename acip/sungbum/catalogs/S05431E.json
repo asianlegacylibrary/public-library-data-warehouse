@@ -1,12 +1,12 @@
 {
     "name": "S05431E_DPAL DUS KYI 'KHOR LO'I RNAL 'BYOR YAN LAG DRUG GI KHRID BSDUS PA_A Brief Presentation of the Six-Part Secret Practice in the Teachings of the Glorious Wheel of Time (Kalachakra)_RGYAL TSAB DAR MA RIN CHEN (1364-1432).TXT",
-    "path": "rgyud_secret teachings (tantra)/dus 'khor_wheel of time (kalachakra)/rdzogs rim_completion stage (sampanna krama)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/dus 'khor_wheel of time (kalachakra)/rdzogs rim_completion stage (sampanna krama)/s05431e_dpal dus kyi 'khor lo'i rnal 'byor yan lag drug gi khrid bsdus pa_a brief presentation of the six-part secret practice in the teachings of the glorious wheel of time (kalachakra)_rgyal tsab dar ma rin chen (1364-1432).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAI1Q",
-    "revision_id": "613f664dc42f18d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/RDZOGS RIM_COMPLETION STAGE (SAMPANNA KRAMA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/dus 'khor_wheel of time (kalachakra)/rdzogs rim_completion stage (sampanna krama)/s05431e_dpal dus kyi 'khor lo'i rnal 'byor yan lag drug gi khrid bsdus pa_a brief presentation of the six-part secret practice in the teachings of the glorious wheel of time (kalachakra)_rgyal tsab dar ma rin chen (1364-1432).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABapw",
+    "revision_id": "625a4931ddf528d294473",
     "content_hash": "fe411eaa974a1ae29f301349a37b07709b7716c20b2043ab7b078517bf3d4767",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:09:49.500992",
+    "server_modified": "2024-10-29 21:50:33",
+    "last_sync": "2024-11-19 21:05:49.985509",
     "size": 30739,
     "meta_text": null,
     "cat_ref": "S05431E",
@@ -19,10 +19,10 @@
     "author_simple": "RGYAL TSAB DAR MA RIN CHEN",
     "subject": [
         {
-            "_id": "195623005441",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/RDZOGS RIM_COMPLETION STAGE (SAMPANNA KRAMA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/DUS 'KHOR/RDZOGS RIM",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/WHEEL OF TIME (KALACHAKRA)/COMPLETION STAGE (SAMPANNA KRAMA)",
+            "_id": "299257803543",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/RDZOGS RIM_COMPLETION STAGE (SAMPANNA KRAMA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/DUS 'KHOR/RDZOGS RIM",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/WHEEL OF TIME (KALACHAKRA)/COMPLETION STAGE (SAMPANNA KRAMA)",
             "subject_tibetan": "RDZOGS RIM",
             "subject_english": "COMPLETION STAGE (SAMPANNA KRAMA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P65"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/dus 'khor_wheel of time (kalachakra)/rdzogs rim_completion stage (sampanna krama)",
-            "timestamp": "2024-09-10T02:09:49.520536+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/RDZOGS RIM_COMPLETION STAGE (SAMPANNA KRAMA)",
+            "timestamp": "2024-11-20 05:05:50.831399+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:05:50.831399+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

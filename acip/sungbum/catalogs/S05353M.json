@@ -1,28 +1,28 @@
 {
     "name": "S05353M_GZUGS KYI CHUNG MTHA' DANG DUS KYI THUNG MTHA' SOGS LAS BRTZAMS PA'I DRI LAN RJE NYID KYIS MDZAD PA_Responses by Je Tsongkapa Himself to Questions Initiated from Subjects such as the Smallest Unit of Physical Measure, and the Smallest Unit o+.TXT",
-    "path": "phran tsegs_miscellaneous/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)",
-    "download_path": "/sungbum updated 4 26 23 bk/phran tsegs_miscellaneous/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)/s05353m_gzugs kyi chung mtha' dang dus kyi thung mtha' sogs las brtzams pa'i dri lan rje nyid kyis mdzad pa_responses by je tsongkapa himself to questions initiated from subjects such as the smallest unit of physical measure, and the smallest unit o+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAGFg",
-    "revision_id": "613f66492f0808d294473",
+    "path": "PHRAN TSEGS_MISCELLANEOUS/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
+    "download_path": "/sungbum updated 7 30 23 nl/phran tsegs_miscellaneous/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)/s05353m_gzugs kyi chung mtha' dang dus kyi thung mtha' sogs las brtzams pa'i dri lan rje nyid kyis mdzad pa_responses by je tsongkapa himself to questions initiated from subjects such as the smallest unit of physical measure, and the smallest unit o+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABh9w",
+    "revision_id": "625a4a77d10cc8d294473",
     "content_hash": "a7945bb5a3b7e351d76461ac021631e19440c4c562d369b57f9ad5bb4638d97c",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:07:13.511475",
+    "server_modified": "2024-10-29 21:56:15",
+    "last_sync": "2024-11-19 21:18:51.156230",
     "size": 5038,
-    "meta_text": "f Temporal Measure_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)",
+    "meta_text": "('f Temporal Measure_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)', 'rtf')",
     "cat_ref": "S05353M",
     "work_ref": "W.S05353M",
     "title_tib": "GZUGS KYI CHUNG MTHA' DANG DUS KYI THUNG MTHA' SOGS LAS BRTZAMS PA'I DRI LAN RJE NYID KYIS MDZAD PA",
-    "title_eng": "Responses by Je Tsongkapa Himself to Questions Initiated from Subjects such as the Smallest Unit of Physical Measure, and the Smallest Unit of Temporal Measure",
+    "title_eng": "Responses by Je Tsongkapa Himself to Questions Initiated from Subjects such as the Smallest Unit of Physical Measure, and the Smallest Unit o('f Temporal Measure",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "171014356262",
-            "subject_path": "SUNGBUM_SUNGBUM/PHRAN TSEGS_MISCELLANEOUS/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
-            "subject_path_tibetan": "SUNGBUM/PHRAN TSEGS/RJE TZONG KHA PA BLO BZANG GRAGS PA",
-            "subject_path_english": "SUNGBUM/MISCELLANEOUS/JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
+            "_id": "291838637904",
+            "subject_path": "GSUNG 'BUM_Sungbum/PHRAN TSEGS_MISCELLANEOUS/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
+            "subject_path_tibetan": "GSUNG 'BUM/PHRAN TSEGS/RJE TZONG KHA PA BLO BZANG GRAGS PA",
+            "subject_path_english": "Sungbum/MISCELLANEOUS/JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
             "subject_tibetan": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
             "subject_english": "JE TSONGKAPA LOBSANG DRAKPA (1357-1419)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "phran tsegs_miscellaneous/rje tzong kha pa blo bzang grags pa_je tsongkapa lobsang drakpa (1357-1419)",
-            "timestamp": "2024-09-10T02:07:13.516764+00:00"
+            "path": "GSUNG 'BUM_Sungbum/PHRAN TSEGS_MISCELLANEOUS/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
+            "timestamp": "2024-11-20 05:18:51.161495+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:18:51.161495+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

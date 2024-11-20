@@ -1,28 +1,28 @@
 {
     "name": "S05301E3_RJE RIN PO CHE SHAR TZONG KHA PA'I ZHAL GDAMS THUN MONG MIN PA'I ZAB CHOS BLA NA MED PA LAS, ZA BYED MKHA' 'GRO'I SBYIN SREG GI SKOR_Points on the Fire Offering for the Consuming Angel, from an Unsurpassable, Profound, and Unique Private In+.TXT",
-    "path": "rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/sbyin sreg_fire offering (homa)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/sbyin sreg_fire offering (homa)/s05301e3_rje rin po che shar tzong kha pa'i zhal gdams thun mong min pa'i zab chos bla na med pa las, za byed mkha' 'gro'i sbyin sreg gi skor_points on the fire offering for the consuming angel, from an unsurpassable, profound, and unique private in+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAQxA",
-    "revision_id": "613f665fcd6498d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/SBYIN SREG_FIRE OFFERING (HOMA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/sbyin sreg_fire offering (homa)/s05301e3_rje rin po che shar tzong kha pa'i zhal gdams thun mong min pa'i zab chos bla na med pa las, za byed mkha' 'gro'i sbyin sreg gi skor_points on the fire offering for the consuming angel, from an unsurpassable, profound, and unique private in+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABbaQ",
+    "revision_id": "625a4954755b78d294473",
     "content_hash": "6834a851573e507ad8ef2ee9497668bbe8091b3b3a3f1a740981c97aa0b00926",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:18:20.809862",
+    "server_modified": "2024-10-29 21:51:09",
+    "last_sync": "2024-11-19 21:07:16.152134",
     "size": 5176,
-    "meta_text": "struction Imparted by Je Rinpoche, Tsongkapa from the East_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)",
+    "meta_text": "('struction Imparted by Je Rinpoche, Tsongkapa from the East_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)', 'rtf')",
     "cat_ref": "S05301E3",
     "work_ref": "W.S05301E3",
     "title_tib": "RJE RIN PO CHE SHAR TZONG KHA PA'I ZHAL GDAMS THUN MONG MIN PA'I ZAB CHOS BLA NA MED PA LAS, ZA BYED MKHA' 'GRO'I SBYIN SREG GI SKOR",
-    "title_eng": "Points on the Fire Offering for the Consuming Angel, from an Unsurpassable, Profound, and Unique Private Instruction Imparted by Je Rinpoche, Tsongkapa from the East",
+    "title_eng": "Points on the Fire Offering for the Consuming Angel, from an Unsurpassable, Profound, and Unique Private In('struction Imparted by Je Rinpoche, Tsongkapa from the East",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "282952771293",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/SBYIN SREG_FIRE OFFERING (HOMA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/GSANG 'DUS/SBYIN SREG",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/SECRET COLLECTION (GUHYASAMAJA)/FIRE OFFERING (HOMA)",
+            "_id": "313377846710",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/SBYIN SREG_FIRE OFFERING (HOMA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/GSANG 'DUS/SBYIN SREG",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/SECRET COLLECTION (GUHYASAMAJA)/FIRE OFFERING (HOMA)",
             "subject_tibetan": "SBYIN SREG",
             "subject_english": "FIRE OFFERING (HOMA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/sbyin sreg_fire offering (homa)",
-            "timestamp": "2024-09-10T02:18:20.815309+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/SBYIN SREG_FIRE OFFERING (HOMA)",
+            "timestamp": "2024-11-20 05:07:16.159727+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:07:16.159727+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,12 +1,12 @@
 {
     "name": "S06370M20_STONG GSUM GYI NGOS 'DZIN_Clarification of the Concept of a 'Third-Order World System'_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
-    "download_path": "/sungbum updated 4 26 23 bk/dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)/s06370m20_stong gsum gyi ngos 'dzin_clarification of the concept of a 'third-order world system'_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAATtQ",
-    "revision_id": "613f66687651b8d294473",
+    "path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "download_path": "/sungbum updated 7 30 23 nl/dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)/s06370m20_stong gsum gyi ngos 'dzin_clarification of the concept of a 'third-order world system'_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABTHQ",
+    "revision_id": "625a482adfb568d294473",
     "content_hash": "2ba052c41ce688d7b773ac1567f60f14be6e37c1f6a890a6eecefec6d5219055",
-    "server_modified": "2024-03-18T21:54:23",
-    "last_sync": "2024-09-09T19:21:49.081373",
+    "server_modified": "2024-10-29 21:45:57",
+    "last_sync": "2024-11-19 20:53:49.406903",
     "size": 260,
     "meta_text": null,
     "cat_ref": "S06370M20",
@@ -19,18 +19,18 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "244831615226",
-            "subject_path": "SUNGBUM_SUNGBUM/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_tibetan": "SUNGBUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_english": "SUNGBUM/QUESTIONS AND ANSWERS",
+            "_id": "250883940513",
+            "subject_path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "GSUNG 'BUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "Sungbum/QUESTIONS AND ANSWERS",
             "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
             "subject_english": "QUESTIONS AND ANSWERS"
         },
         {
-            "_id": "282811420135",
-            "subject_path": "SUNGBUM_SUNGBUM/MNGON PA_HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)/MDZOD SPYI_GENERAL SUBJECTS OF HIGHER KNOWLEDGE (ABHIDHARMA)",
-            "subject_path_tibetan": "SUNGBUM/MNGON PA/DNGUL CHU DHARMA BHADRA/MDZOD SPYI",
-            "subject_path_english": "SUNGBUM/HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)/NGULCHU DHARMA BHADRA (1772-1851)/GENERAL SUBJECTS OF HIGHER KNOWLEDGE (ABHIDHARMA)",
+            "_id": "295229661017",
+            "subject_path": "GSUNG 'BUM_Sungbum/MNGON PA_HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)/MDZOD SPYI_GENERAL SUBJECTS OF HIGHER KNOWLEDGE (ABHIDHARMA)",
+            "subject_path_tibetan": "GSUNG 'BUM/MNGON PA/DNGUL CHU DHARMA BHADRA/MDZOD SPYI",
+            "subject_path_english": "Sungbum/HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)/NGULCHU DHARMA BHADRA (1772-1851)/GENERAL SUBJECTS OF HIGHER KNOWLEDGE (ABHIDHARMA)",
             "subject_tibetan": "MDZOD SPYI",
             "subject_english": "GENERAL SUBJECTS OF HIGHER KNOWLEDGE (ABHIDHARMA)"
         }
@@ -46,15 +46,29 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
-            "timestamp": "2024-09-10T02:21:49.508810+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "timestamp": "2024-11-20 04:54:07.137660+00:00"
         },
         {
-            "path": "mngon pa_higher knowledge (abhidharma) (vaibhashika school)/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)/mdzod spyi_general subjects of higher knowledge (abhidharma)",
-            "timestamp": "2024-09-10T02:24:39.733873+00:00"
+            "path": "GSUNG 'BUM_Sungbum/MNGON PA_HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)/MDZOD SPYI_GENERAL SUBJECTS OF HIGHER KNOWLEDGE (ABHIDHARMA)",
+            "timestamp": "2024-11-20 05:26:34.810846+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:54:07.137660+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T05:26:34.810846+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "text"
 }

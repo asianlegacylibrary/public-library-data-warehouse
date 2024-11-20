@@ -1,12 +1,12 @@
 {
     "name": "S06378E2_NE SER JO BO CHEN PO'I RJES GNANG BYA TSUL_Method for Granting Permission into the Practice of the Great Lord Neser_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/ne ser_neser/rjes gnang_rites of permission (anujna)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/ne ser_neser/rjes gnang_rites of permission (anujna)/s06378e2_ne ser jo bo chen po'i rjes gnang bya tsul_method for granting permission into the practice of the great lord neser_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAIVQ",
-    "revision_id": "613f664dc42718d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/NE SER_NESER/RJES GNANG_RITES OF PERMISSION (ANUJNA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/ne ser_neser/rjes gnang_rites of permission (anujna)/s06378e2_ne ser jo bo chen po'i rjes gnang bya tsul_method for granting permission into the practice of the great lord neser_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABXqQ",
+    "revision_id": "625a48c6245848d294473",
     "content_hash": "864aed81df29f27b2280cb623612059a8e2d21b7fa2846066a1be19cd9ab138b",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:09:18.079755",
+    "server_modified": "2024-10-29 21:48:40",
+    "last_sync": "2024-11-19 21:01:13.038639",
     "size": 13037,
     "meta_text": null,
     "cat_ref": "S06378E2",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "315217266169",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/NE SER_NESER/RJES GNANG_RITES OF PERMISSION (ANUJNA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/NE SER/RJES GNANG",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/NESER/RITES OF PERMISSION (ANUJNA)",
+            "_id": "278147193369",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/NE SER_NESER/RJES GNANG_RITES OF PERMISSION (ANUJNA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/NE SER/RJES GNANG",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/NESER/RITES OF PERMISSION (ANUJNA)",
             "subject_tibetan": "RJES GNANG",
             "subject_english": "RITES OF PERMISSION (ANUJNA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/ne ser_neser/rjes gnang_rites of permission (anujna)",
-            "timestamp": "2024-09-10T02:09:18.086665+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/NE SER_NESER/RJES GNANG_RITES OF PERMISSION (ANUJNA)",
+            "timestamp": "2024-11-20 05:01:13.043022+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:01:13.043022+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

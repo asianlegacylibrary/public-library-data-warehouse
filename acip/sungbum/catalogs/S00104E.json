@@ -1,12 +1,12 @@
 {
     "name": "S00104E_DPAL RDO RJE RJIGS BYED KYI ZHI BA'I SBYIN SREG BYA TSUL_How to Perform a Peaceful Fire Offering in the Practice of the Frightener of Diamond (Vajra Bhairava)_LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN (1642-1714).TXT",
-    "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/sbyin sreg_fire offering (homa)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/sbyin sreg_fire offering (homa)/s00104e_dpal rdo rje rjigs byed kyi zhi ba'i sbyin sreg bya tsul_how to perform a peaceful fire offering in the practice of the frightener of diamond (vajra bhairava)_lcang skya ngag dbang blo bzang chos ldan (1642-1714).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAMEQ",
-    "revision_id": "613f6656dece28d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/SBYIN SREG_FIRE OFFERING (HOMA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/sbyin sreg_fire offering (homa)/s00104e_dpal rdo rje rjigs byed kyi zhi ba'i sbyin sreg bya tsul_how to perform a peaceful fire offering in the practice of the frightener of diamond (vajra bhairava)_lcang skya ngag dbang blo bzang chos ldan (1642-1714).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABdow",
+    "revision_id": "625a49a01a00c8d294473",
     "content_hash": "2aa1436ef81940a4caecffc1b49cd8aafcc7cdfd01498d9fb9818820cc7a10ef",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:13:16.899985",
+    "server_modified": "2024-10-29 21:52:28",
+    "last_sync": "2024-11-19 21:11:03.708248",
     "size": 100150,
     "meta_text": null,
     "cat_ref": "S00104E",
@@ -19,10 +19,10 @@
     "author_simple": "LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN",
     "subject": [
         {
-            "_id": "878584584879",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/SBYIN SREG_FIRE OFFERING (HOMA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/'JIGS BYED/SBYIN SREG",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/FIRE OFFERING (HOMA)",
+            "_id": "253172044199",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/SBYIN SREG_FIRE OFFERING (HOMA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/'JIGS BYED/SBYIN SREG",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/FIRE OFFERING (HOMA)",
             "subject_tibetan": "SBYIN SREG",
             "subject_english": "FIRE OFFERING (HOMA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P209"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/sbyin sreg_fire offering (homa)",
-            "timestamp": "2024-09-10T02:13:16.931569+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/SBYIN SREG_FIRE OFFERING (HOMA)",
+            "timestamp": "2024-11-20 05:11:08.746529+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:11:08.746529+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

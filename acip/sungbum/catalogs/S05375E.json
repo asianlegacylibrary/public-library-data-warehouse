@@ -1,12 +1,12 @@
 {
     "name": "S05375E_SBYOR BA YAN LAG DRUG GI KHRID ZAB MO'I DMIGS RIM GYI LAG RJES_The 'Imprints of the Steps of the Profound Practice,' a Teaching on the Six-Part Practice of the Inner Winds_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419).TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/rdzogs rim_completion stage (sampanna krama)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/rdzogs rim_completion stage (sampanna krama)/s05375e_sbyor ba yan lag drug gi khrid zab mo'i dmigs rim gyi lag rjes_the 'imprints of the steps of the profound practice,' a teaching on the six-part practice of the inner winds_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAOYA",
-    "revision_id": "613f665b610798d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/RDZOGS RIM_COMPLETION STAGE (SAMPANNA KRAMA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyi_general treatments/rdzogs rim_completion stage (sampanna krama)/s05375e_sbyor ba yan lag drug gi khrid zab mo'i dmigs rim gyi lag rjes_the 'imprints of the steps of the profound practice,' a teaching on the six-part practice of the inner winds_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABZeg",
+    "revision_id": "625a49096401a8d294473",
     "content_hash": "1bd82b4a0f1d995087f504446a1d16b5df90aa351a70cf5a5159270c237d36e0",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:15:44.940636",
+    "server_modified": "2024-10-29 21:49:50",
+    "last_sync": "2024-11-19 21:04:03.402773",
     "size": 16147,
     "meta_text": null,
     "cat_ref": "S05375E",
@@ -19,10 +19,10 @@
     "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
     "subject": [
         {
-            "_id": "164951519060",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/RDZOGS RIM_COMPLETION STAGE (SAMPANNA KRAMA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/RDZOGS RIM",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/COMPLETION STAGE (SAMPANNA KRAMA)",
+            "_id": "220279509946",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/RDZOGS RIM_COMPLETION STAGE (SAMPANNA KRAMA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/RDZOGS RIM",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/COMPLETION STAGE (SAMPANNA KRAMA)",
             "subject_tibetan": "RDZOGS RIM",
             "subject_english": "COMPLETION STAGE (SAMPANNA KRAMA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/rdzogs rim_completion stage (sampanna krama)",
-            "timestamp": "2024-09-10T02:15:44.950095+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/RDZOGS RIM_COMPLETION STAGE (SAMPANNA KRAMA)",
+            "timestamp": "2024-11-20 05:04:05.252782+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:04:05.252782+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

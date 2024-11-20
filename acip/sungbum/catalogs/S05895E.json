@@ -1,12 +1,12 @@
 {
     "name": "S05895E_BDE BA CAN DU BGROD PA'I RNAL 'BYOR_A Deep Practice for Travelling to the Heaven of Happiness_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662).TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/zhing bkod smon lam_prayers for traveling to buddha paradise",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/zhing bkod smon lam_prayers for traveling to buddha paradise/s05895e_bde ba can du bgrod pa'i rnal 'byor_a deep practice for travelling to the heaven of happiness_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAN-Q",
-    "revision_id": "613f665b610128d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/ZHING BKOD SMON LAM_PRAYERS FOR TRAVELING TO BUDDHA PARADISE",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyi_general treatments/zhing bkod smon lam_prayers for traveling to buddha paradise/s05895e_bde ba can du bgrod pa'i rnal 'byor_a deep practice for travelling to the heaven of happiness_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABY1g",
+    "revision_id": "625a48eb098b28d294473",
     "content_hash": "99cc3fa428270a2e773a1e17d91455eed423d621815612c708204f0f8ef8d50e",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:15:20.031407",
+    "server_modified": "2024-10-29 21:49:19",
+    "last_sync": "2024-11-19 21:03:13.196907",
     "size": 2568,
     "meta_text": null,
     "cat_ref": "S05895E",
@@ -19,10 +19,10 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "158622144073",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/ZHING BKOD SMON LAM_PRAYERS FOR TRAVELING TO BUDDHA PARADISE",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/ZHING BKOD SMON LAM",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/PRAYERS FOR TRAVELING TO BUDDHA PARADISE",
+            "_id": "328456423280",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/ZHING BKOD SMON LAM_PRAYERS FOR TRAVELING TO BUDDHA PARADISE",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/ZHING BKOD SMON LAM",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/PRAYERS FOR TRAVELING TO BUDDHA PARADISE",
             "subject_tibetan": "ZHING BKOD SMON LAM",
             "subject_english": "PRAYERS FOR TRAVELING TO BUDDHA PARADISE"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/zhing bkod smon lam_prayers for traveling to buddha paradise",
-            "timestamp": "2024-09-10T02:15:20.036630+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/ZHING BKOD SMON LAM_PRAYERS FOR TRAVELING TO BUDDHA PARADISE",
+            "timestamp": "2024-11-20 05:03:13.208724+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:03:13.208724+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

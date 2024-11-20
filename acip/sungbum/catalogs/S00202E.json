@@ -1,28 +1,28 @@
 {
     "name": "S00202E_RJE BRTZUN N'A RO MKHA SPYOD MA'I BSKYED RDZOGS KYI ZIN BRIS MKHA' 'GRO'I GSANG MDZOD_The 'Secret Treasure of the Angels,' consisting of Notes on the Stages of Creation and Completion in the Secret Practice of the Holy Angel in the Tradition +.TXT",
-    "path": "rgyud_secret teachings (tantra)/rdo rje rnal 'byor ma_angel of diamond (vajrayogini)/rnal 'byor_practices",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/rdo rje rnal 'byor ma_angel of diamond (vajrayogini)/rnal 'byor_practices/s00202e_rje brtzun n'a ro mkha spyod ma'i bskyed rdzogs kyi zin bris mkha' 'gro'i gsang mdzod_the 'secret treasure of the angels,' consisting of notes on the stages of creation and completion in the secret practice of the holy angel in the tradition +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAJIA",
-    "revision_id": "613f664dc433c8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAL 'BYOR MA_ANGEL OF DIAMOND (VAJRAYOGINI)/RNAL 'BYOR_PRACTICES",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/rdo rje rnal 'byor ma_angel of diamond (vajrayogini)/rnal 'byor_practices/s00202e_rje brtzun n'a ro mkha spyod ma'i bskyed rdzogs kyi zin bris mkha' 'gro'i gsang mdzod_the 'secret treasure of the angels,' consisting of notes on the stages of creation and completion in the secret practice of the holy angel in the tradition +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABcKw",
+    "revision_id": "625a496ec59048d294473",
     "content_hash": "04c3693ebde577b1b44c0bd848849566f249c71b1ea7deb1e37b0b080aba9b7c",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:10:08.618761",
+    "server_modified": "2024-10-29 21:51:37",
+    "last_sync": "2024-11-19 21:08:25.016797",
     "size": 297133,
-    "meta_text": "of Naropa_DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "meta_text": "('of Naropa_DNGUL CHU DHARMA BHADRA (1772-1851)', 'rtf')",
     "cat_ref": "S00202E",
     "work_ref": "W.S00202E",
     "title_tib": "RJE BRTZUN N'A RO MKHA SPYOD MA'I BSKYED RDZOGS KYI ZIN BRIS MKHA' 'GRO'I GSANG MDZOD",
-    "title_eng": "The 'Secret Treasure of the Angels,' consisting of Notes on the Stages of Creation and Completion in the Secret Practice of the Holy Angel in the Traditionof Naropa",
+    "title_eng": "The 'Secret Treasure of the Angels,' consisting of Notes on the Stages of Creation and Completion in the Secret Practice of the Holy Angel in the Tradition('of Naropa",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "493131615150",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAL 'BYOR MA_ANGEL OF DIAMOND (VAJRAYOGINI)/RNAL 'BYOR_PRACTICES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/RDO RJE RNAL 'BYOR MA/RNAL 'BYOR",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/ANGEL OF DIAMOND (VAJRAYOGINI)/PRACTICES",
+            "_id": "301860967278",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAL 'BYOR MA_ANGEL OF DIAMOND (VAJRAYOGINI)/RNAL 'BYOR_PRACTICES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/RDO RJE RNAL 'BYOR MA/RNAL 'BYOR",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/ANGEL OF DIAMOND (VAJRAYOGINI)/PRACTICES",
             "subject_tibetan": "RNAL 'BYOR",
             "subject_english": "PRACTICES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/rdo rje rnal 'byor ma_angel of diamond (vajrayogini)/rnal 'byor_practices",
-            "timestamp": "2024-09-10T02:10:08.623324+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAL 'BYOR MA_ANGEL OF DIAMOND (VAJRAYOGINI)/RNAL 'BYOR_PRACTICES",
+            "timestamp": "2024-11-20 05:08:25.033201+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:08:25.033201+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,28 +1,28 @@
 {
     "name": "S05552E_RJE THAMS CAD MKHYEN PA'I GSUNG 'BUM THOR BU LAS N'A RO CHOS DRUG GI DMIGS RIM YE SHES MKHA' 'GRO'I ZHAL LUNG_Words of the Angel of Wisdom--Steps of Visualization when Practicing the Six Yogas of Naropa, from Assorted Writings found in the Co+.txt",
-    "path": "rgyud_secret teachings (tantra)/na ro chos drug_six practices of naropa/'grel pa_commentaries",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/na ro chos drug_six practices of naropa/'grel pa_commentaries/s05552e_rje thams cad mkhyen pa'i gsung 'bum thor bu las n'a ro chos drug gi dmigs rim ye shes mkha' 'gro'i zhal lung_words of the angel of wisdom--steps of visualization when practicing the six yogas of naropa, from assorted writings found in the co+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAKKA",
-    "revision_id": "613f6652788408d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/NA RO CHOS DRUG_SIX PRACTICES OF NAROPA/'GREL PA_COMMENTARIES",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/na ro chos drug_six practices of naropa/'grel pa_commentaries/s05552e_rje thams cad mkhyen pa'i gsung 'bum thor bu las n'a ro chos drug gi dmigs rim ye shes mkha' 'gro'i zhal lung_words of the angel of wisdom--steps of visualization when practicing the six yogas of naropa, from assorted writings found in the co+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABcwQ",
+    "revision_id": "625a4980f75cf8d294473",
     "content_hash": "6747486d6b1909188bc64daa877488f1c595f838c6884e8e8cd7b536600ac636",
-    "server_modified": "2024-03-18T21:54:00",
-    "last_sync": "2024-09-09T19:11:07.678731",
+    "server_modified": "2024-10-29 21:51:56",
+    "last_sync": "2024-11-19 21:09:31.172697",
     "size": 38211,
-    "meta_text": null,
+    "meta_text": "(\"lected Works of the Holy and Omniscient One_RGYAL BA DGE 'DUN RGYA MTSO (1476-1542)\", 'text')",
     "cat_ref": "S05552E",
     "work_ref": "W.S05552E",
     "title_tib": "RJE THAMS CAD MKHYEN PA'I GSUNG 'BUM THOR BU LAS N'A RO CHOS DRUG GI DMIGS RIM YE SHES MKHA' 'GRO'I ZHAL LUNG",
-    "title_eng": "Words of the Angel of Wisdom--Steps of Visualization when Practicing the Six Yogas of Naropa, from Assorted Writings found in the Co",
+    "title_eng": "Words of the Angel of Wisdom--Steps of Visualization when Practicing the Six Yogas of Naropa, from Assorted Writings found in the Co(\"lected Works of the Holy and Omniscient One",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
-    "author_simple": "",
+    "author_simple": "RGYAL BA DGE 'DUN RGYA MTSO",
     "subject": [
         {
-            "_id": "135323875572",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/NA RO CHOS DRUG_SIX PRACTICES OF NAROPA/'GREL PA_COMMENTARIES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/NA RO CHOS DRUG/'GREL PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/SIX PRACTICES OF NAROPA/COMMENTARIES",
+            "_id": "311761277996",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/NA RO CHOS DRUG_SIX PRACTICES OF NAROPA/'GREL PA_COMMENTARIES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/NA RO CHOS DRUG/'GREL PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/SIX PRACTICES OF NAROPA/COMMENTARIES",
             "subject_tibetan": "'GREL PA",
             "subject_english": "COMMENTARIES"
         }
@@ -30,16 +30,24 @@
     "items": [],
     "author": [
         {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
+            "author_name": "RGYAL BA DGE 'DUN RGYA MTSO",
+            "author_birth": "1476",
+            "author_death": "1542"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/na ro chos drug_six practices of naropa/'grel pa_commentaries",
-            "timestamp": "2024-09-10T02:11:07.697525+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/NA RO CHOS DRUG_SIX PRACTICES OF NAROPA/'GREL PA_COMMENTARIES",
+            "timestamp": "2024-11-20 05:09:31.861105+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:09:31.861105+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

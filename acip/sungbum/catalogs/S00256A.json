@@ -1,45 +1,53 @@
 {
     "name": "S00256A_DRANG BA DANG NGES PA'I DON RNAM PAR 'BYED PA'I BSTAN BCOS LEGS PAR BSHAD PA'I SNYING PO'I ZIN BRIS DKA' GNAS GSAL BAR BYED PA'I SGRON ME_'A Lamp which Illumines Difficult Points,' Consisting of Notes to 'The Essence of Eloquence, on the Ar+.TXT",
-    "path": "drang nges_art of interpretation/shing bza' pandi ta_shingsa pandita (1752:1759-1824)",
-    "download_path": "/sungbum updated 4 26 23 bk/drang nges_art of interpretation/shing bza' pandi ta_shingsa pandita (1752:1759-1824)/s00256a_drang ba dang nges pa'i don rnam par 'byed pa'i bstan bcos legs par bshad pa'i snying po'i zin bris dka' gnas gsal bar byed pa'i sgron me_'a lamp which illumines difficult points,' consisting of notes to 'the essence of eloquence, on the ar+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAARw",
-    "revision_id": "613f663b87b908d294473",
+    "path": "DRANG NGES_ART OF INTERPRETATION/SHING BZA' PAndI TA_Shingsa Pandita (1752:1759-1824)",
+    "download_path": "/sungbum updated 7 30 23 nl/drang nges_art of interpretation/shing bza' pandi ta_shingsa pandita (1752:1759-1824)/s00256a_drang ba dang nges pa'i don rnam par 'byed pa'i bstan bcos legs par bshad pa'i snying po'i zin bris dka' gnas gsal bar byed pa'i sgron me_'a lamp which illumines difficult points,' consisting of notes to 'the essence of eloquence, on the ar+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABR_A",
+    "revision_id": "625a48036913a8d294473",
     "content_hash": "70a7ea977ae5977134654b37996427a7aca6e7a0bc4bdcf86d9a2da4937fad44",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:01:18.780567",
+    "server_modified": "2024-10-29 21:45:16",
+    "last_sync": "2024-11-19 20:53:00.971569",
     "size": 179983,
-    "meta_text": "t of Interpretation’_SHING BZA' PAndI TA (@-@)",
+    "meta_text": "(\"t of Interpretation’_SHING BZA' PAndI TA (@-@)\", 'rtf')",
     "cat_ref": "S00256A",
     "work_ref": "W.S00256A",
     "title_tib": "DRANG BA DANG NGES PA'I DON RNAM PAR 'BYED PA'I BSTAN BCOS LEGS PAR BSHAD PA'I SNYING PO'I ZIN BRIS DKA' GNAS GSAL BAR BYED PA'I SGRON ME",
-    "title_eng": "'A Lamp which Illumines Difficult Points,' Consisting of Notes to 'The Essence of Eloquence, on the Art of Interpretation’",
+    "title_eng": "'A Lamp which Illumines Difficult Points,' Consisting of Notes to 'The Essence of Eloquence, on the Ar(\"t of Interpretation’SHING BZA' PAndI TA (@-@)\", 'rtf')",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
-    "author_simple": "SHING BZA' PAndI TA",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "366097349021",
-            "subject_path": "SUNGBUM_SUNGBUM/DRANG NGES_ART OF INTERPRETATION/SHING BZA' PANDI TA_SHINGSA PANDITA (1752:1759-1824)",
-            "subject_path_tibetan": "SUNGBUM/DRANG NGES/SHING BZA' PANDI TA",
-            "subject_path_english": "SUNGBUM/ART OF INTERPRETATION/SHINGSA PANDITA (1752:1759-1824)",
-            "subject_tibetan": "SHING BZA' PANDI TA",
-            "subject_english": "SHINGSA PANDITA (1752:1759-1824)"
+            "_id": "105730930780",
+            "subject_path": "GSUNG 'BUM_Sungbum/DRANG NGES_ART OF INTERPRETATION/SHING BZA' PAndI TA_Shingsa Pandita (1752:1759-1824)",
+            "subject_path_tibetan": "GSUNG 'BUM/DRANG NGES/SHING BZA' PAndI TA",
+            "subject_path_english": "Sungbum/ART OF INTERPRETATION/Shingsa Pandita (1752:1759-1824)",
+            "subject_tibetan": "SHING BZA' PAndI TA",
+            "subject_english": "Shingsa Pandita (1752:1759-1824)"
         }
     ],
     "items": [],
     "author": [
         {
-            "author_name": "SHING BZA' PAndI TA",
+            "author_name": "",
             "author_birth": null,
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "drang nges_art of interpretation/shing bza' pandi ta_shingsa pandita (1752:1759-1824)",
-            "timestamp": "2024-09-10T02:01:18.787189+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DRANG NGES_ART OF INTERPRETATION/SHING BZA' PAndI TA_Shingsa Pandita (1752:1759-1824)",
+            "timestamp": "2024-11-20 04:53:00.975592+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:53:00.975592+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

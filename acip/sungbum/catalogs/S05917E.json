@@ -1,28 +1,28 @@
 {
     "name": "S05917E_DPAL RDO RJE 'JIGS BYED KYI DBANG DRAG GI SBYIN SREG BYA TSUL LAG LEN DU DRIL BA RNAM BSHAD DNGOS GRUB RGYA MTSO LAS PHYUNG BA_A Practical Ritual for Performing the Powerful and the Wrathful Versions of the Fire Offering in the Secret Teachi +.TXT",
-    "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/sbyin sreg_fire offering (homa)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/sbyin sreg_fire offering (homa)/s05917e_dpal rdo rje 'jigs byed kyi dbang drag gi sbyin sreg bya tsul lag len du dril ba rnam bshad dngos grub rgya mtso las phyung ba_a practical ritual for performing the powerful and the wrathful versions of the fire offering in the secret teachi +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAMEw",
-    "revision_id": "613f6656dece48d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/SBYIN SREG_FIRE OFFERING (HOMA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/sbyin sreg_fire offering (homa)/s05917e_dpal rdo rje 'jigs byed kyi dbang drag gi sbyin sreg bya tsul lag len du dril ba rnam bshad dngos grub rgya mtso las phyung ba_a practical ritual for performing the powerful and the wrathful versions of the fire offering in the secret teachi +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABdqw",
+    "revision_id": "625a49a01a0148d294473",
     "content_hash": "9bf7d620ac3284732d85475a48f6fa08719f506ea9086a40497b202b84b50264",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:13:16.904050",
+    "server_modified": "2024-10-29 21:52:28",
+    "last_sync": "2024-11-19 21:11:05.843791",
     "size": 15991,
-    "meta_text": "ngs of the Glorious Frightener of Diamond (Vajra Bhairava), derived from the Book of Explanation called \"The Ocean of Attainments”_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)",
+    "meta_text": "('ngs of the Glorious Frightener of Diamond (Vajra Bhairava), derived from the Book of Explanation called \"The Ocean of Attainments”_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)', 'rtf')",
     "cat_ref": "S05917E",
     "work_ref": "W.S05917E",
     "title_tib": "DPAL RDO RJE 'JIGS BYED KYI DBANG DRAG GI SBYIN SREG BYA TSUL LAG LEN DU DRIL BA RNAM BSHAD DNGOS GRUB RGYA MTSO LAS PHYUNG BA",
-    "title_eng": "A Practical Ritual for Performing the Powerful and the Wrathful Versions of the Fire Offering in the Secret Teachings of the Glorious Frightener of Diamond (Vajra Bhairava), derived from the Book of Explanation called \"The Ocean of Attainments”",
+    "title_eng": "A Practical Ritual for Performing the Powerful and the Wrathful Versions of the Fire Offering in the Secret Teachi('ngs of the Glorious Frightener of Diamond (Vajra Bhairava), derived from the Book of Explanation called \"The Ocean of Attainments”",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "878584584879",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/SBYIN SREG_FIRE OFFERING (HOMA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/'JIGS BYED/SBYIN SREG",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/FIRE OFFERING (HOMA)",
+            "_id": "253172044199",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/SBYIN SREG_FIRE OFFERING (HOMA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/'JIGS BYED/SBYIN SREG",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/FIRE OFFERING (HOMA)",
             "subject_tibetan": "SBYIN SREG",
             "subject_english": "FIRE OFFERING (HOMA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/sbyin sreg_fire offering (homa)",
-            "timestamp": "2024-09-10T02:13:16.932308+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/SBYIN SREG_FIRE OFFERING (HOMA)",
+            "timestamp": "2024-11-20 05:11:08.747409+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:11:08.747409+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

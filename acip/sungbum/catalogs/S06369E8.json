@@ -1,14 +1,14 @@
 {
     "name": "S06369E8_SNAR THANG BRGYA RTZA'I GRAS SGROL MA MAndAL BZHI PA'I BKLAG LUNG GI BRGYUD 'DEBS_Supplication to the Lamas of the Lineage of the Oral Transmission in the Four Mandalas of the Lady of Liberation (Tara), as a Member of the Nartang Pantheon_D+.TXT",
-    "path": "rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/bla brgyud_lineage lamas",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/bla brgyud_lineage lamas/s06369e8_snar thang brgya rtza'i gras sgrol ma mandal bzhi pa'i bklag lung gi brgyud 'debs_supplication to the lamas of the lineage of the oral transmission in the four mandalas of the lady of liberation (tara), as a member of the nartang pantheon_d+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAQTQ",
-    "revision_id": "613f665fcd5d28d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/BLA BRGYUD_LINEAGE LAMAS",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/bla brgyud_lineage lamas/s06369e8_snar thang brgya rtza'i gras sgrol ma mandal bzhi pa'i bklag lung gi brgyud 'debs_supplication to the lamas of the lineage of the oral transmission in the four mandalas of the lady of liberation (tara), as a member of the nartang pantheon_d+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABYYw",
+    "revision_id": "625a48dbe41b28d294473",
     "content_hash": "66fbc92c237f74a3e5f1a8a0404472cbe8b0a951eb3d4cf18a06c99c402107eb",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:17:46.479895",
+    "server_modified": "2024-10-29 21:49:03",
+    "last_sync": "2024-11-19 21:02:18.439463",
     "size": 1476,
-    "meta_text": "NGUL CHU DHARMA BHADRA (1772-1851)",
+    "meta_text": "('NGUL CHU DHARMA BHADRA (1772-1851)', 'rtf')",
     "cat_ref": "S06369E8",
     "work_ref": "W.S06369E8",
     "title_tib": "SNAR THANG BRGYA RTZA'I GRAS SGROL MA MAndAL BZHI PA'I BKLAG LUNG GI BRGYUD 'DEBS",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "136803476253",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/BLA BRGYUD_LINEAGE LAMAS",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SGROL MA/BLA BRGYUD",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/LADY OF LIBERATION (TARA)/LINEAGE LAMAS",
+            "_id": "186907319656",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/BLA BRGYUD_LINEAGE LAMAS",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SGROL MA/BLA BRGYUD",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/LADY OF LIBERATION (TARA)/LINEAGE LAMAS",
             "subject_tibetan": "BLA BRGYUD",
             "subject_english": "LINEAGE LAMAS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/sgrol ma_lady of liberation (tara)/bla brgyud_lineage lamas",
-            "timestamp": "2024-09-10T02:17:46.482001+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/BLA BRGYUD_LINEAGE LAMAS",
+            "timestamp": "2024-11-20 05:02:18.445795+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:02:18.445795+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

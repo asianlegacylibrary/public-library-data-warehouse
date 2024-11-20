@@ -1,45 +1,53 @@
 {
     "name": "TD04115_LUNG PHRAN TSEGS KYI RNAM PAR BSHAD PA (Āgamakṣudraka Vyākhyāna).txt",
-    "path": "TENGYUR_TENGYUR/08 'DUL BA_Vowed Morality (Vinaya)/VOL 8 (DZU)",
+    "path": "08 'DUL BA_Vowed Morality (Vinaya)/VOL 8 (DZU)",
     "download_path": "/tengyur updated 10 31 24 ws/08 'dul ba_vowed morality (vinaya)/vol 8 (dzu)/td04115_lung phran tsegs kyi rnam par bshad pa (āgamakṣudraka vyākhyāna).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB2kQ",
     "revision_id": "62633b8b26ca18d294473",
     "content_hash": "66d3f0c3b3f19ec8ba4a15ebe0301e77232467cd501d0c35607dbe7a1f370aeb",
     "server_modified": "2024-11-06 00:37:24",
-    "last_sync": "2024-11-13 01:57:47.785424+00:00",
+    "last_sync": "2024-11-20 03:58:38.342824",
     "size": 927344,
+    "meta_text": null,
     "cat_ref": "TD04115",
     "work_ref": "W.TD04115",
-    "title_tib": "LUNG PHRAN TSEGS KYI RNAM PAR BSHAD PA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "323903207714",
-            "subject_path": "TENGYUR_TENGYUR/08 'DUL BA_Vowed Morality (Vinaya)/VOL 8 (DZU)",
-            "subject_path_tibetan": "TENGYUR/'DUL BA/8 (DZU)",
-            "subject_path_english": "TENGYUR/Vowed Morality (Vinaya)/VOL 8 (DZU)",
-            "subject_tibetan": "8 (DZU)",
-            "subject_english": "VOL 8 (DZU)"
+            "_id": "178129252342",
+            "subject_path": "BSTAN 'GYUR_Tengyur/08 'DUL BA_Vowed Morality (Vinaya)/VOL 8 (DZU)",
+            "subject_path_tibetan": "BSTAN 'GYUR/08 'DUL BA/VOL 8 (DZU)",
+            "subject_path_english": "Tengyur/Vowed Morality (Vinaya)",
+            "subject_tibetan": "VOL 8 (DZU)",
+            "subject_english": "Vowed Morality (Vinaya)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Āgamakṣudraka Vyākhyāna",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/08 'DUL BA_Vowed Morality (Vinaya)/VOL 8 (DZU)",
+            "timestamp": "2024-11-20 11:58:38.346026+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:57:47.787621+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T11:58:38.346026+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/08 'DUL BA_Vowed Morality (Vinaya)/VOL 8 (DZU)",
-            "timestamp": "2024-11-13 01:57:47.787621+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

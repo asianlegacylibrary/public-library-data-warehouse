@@ -1,12 +1,12 @@
 {
     "name": "S00051M_RNAM RIG GZHUNG BRGYA'I SNANG BA'I GLENG BRJOD_Tibetan Introduction to 'The Light for a Hundred Treatises on Perception'_SE RA SMAD RGYAL RONG MKHAN ZUR DGE BSHES NGAG DBANG THEG MCHOG (@-@).TXT",
-    "path": "drang nges_art of interpretation/se ra smad rgyal rong mkhan zur dge bshes ngag dbang theg mchog_sera mey gyalrong kensur geshe ngawang tekchok (?-?)",
-    "download_path": "/sungbum updated 4 26 23 bk/drang nges_art of interpretation/se ra smad rgyal rong mkhan zur dge bshes ngag dbang theg mchog_sera mey gyalrong kensur geshe ngawang tekchok (?-?)/s00051m_rnam rig gzhung brgya'i snang ba'i gleng brjod_tibetan introduction to 'the light for a hundred treatises on perception'_se ra smad rgyal rong mkhan zur dge bshes ngag dbang theg mchog (@-@).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAAUw",
-    "revision_id": "613f663b87b9c8d294473",
+    "path": "DRANG NGES_ART OF INTERPRETATION/SE RA SMAD RGYAL RONG MKHAN ZUR DGE BSHES NGAG DBANG THEG MCHOG_Sera Mey Gyalrong Kensur Geshe Ngawang Tekchok (?-?)",
+    "download_path": "/sungbum updated 7 30 23 nl/drang nges_art of interpretation/se ra smad rgyal rong mkhan zur dge bshes ngag dbang theg mchog_sera mey gyalrong kensur geshe ngawang tekchok (?-?)/s00051m_rnam rig gzhung brgya'i snang ba'i gleng brjod_tibetan introduction to 'the light for a hundred treatises on perception'_se ra smad rgyal rong mkhan zur dge bshes ngag dbang theg mchog (@-@).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABSFA",
+    "revision_id": "625a480680a798d294473",
     "content_hash": "28526a09fbfe31593c58c0a2c8a352789404b0b8cd31ca7850b1b3b952ced1fd",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:01:21.216939",
+    "server_modified": "2024-10-29 21:45:19",
+    "last_sync": "2024-11-19 20:53:09.800669",
     "size": 4914,
     "meta_text": null,
     "cat_ref": "S00051M",
@@ -19,12 +19,12 @@
     "author_simple": "SE RA SMAD RGYAL RONG MKHAN ZUR DGE BSHES NGAG DBANG THEG MCHOG",
     "subject": [
         {
-            "_id": "114360650050",
-            "subject_path": "SUNGBUM_SUNGBUM/DRANG NGES_ART OF INTERPRETATION/SE RA SMAD RGYAL RONG MKHAN ZUR DGE BSHES NGAG DBANG THEG MCHOG_SERA MEY GYALRONG KENSUR GESHE NGAWANG TEKCHOK (?-?)",
-            "subject_path_tibetan": "SUNGBUM/DRANG NGES/SE RA SMAD RGYAL RONG MKHAN ZUR DGE BSHES NGAG DBANG THEG MCHOG",
-            "subject_path_english": "SUNGBUM/ART OF INTERPRETATION/SERA MEY GYALRONG KENSUR GESHE NGAWANG TEKCHOK (?-?)",
+            "_id": "758481136286",
+            "subject_path": "GSUNG 'BUM_Sungbum/DRANG NGES_ART OF INTERPRETATION/SE RA SMAD RGYAL RONG MKHAN ZUR DGE BSHES NGAG DBANG THEG MCHOG_Sera Mey Gyalrong Kensur Geshe Ngawang Tekchok (?-?)",
+            "subject_path_tibetan": "GSUNG 'BUM/DRANG NGES/SE RA SMAD RGYAL RONG MKHAN ZUR DGE BSHES NGAG DBANG THEG MCHOG",
+            "subject_path_english": "Sungbum/ART OF INTERPRETATION/Sera Mey Gyalrong Kensur Geshe Ngawang Tekchok (?-?)",
             "subject_tibetan": "SE RA SMAD RGYAL RONG MKHAN ZUR DGE BSHES NGAG DBANG THEG MCHOG",
-            "subject_english": "SERA MEY GYALRONG KENSUR GESHE NGAWANG TEKCHOK (?-?)"
+            "subject_english": "Sera Mey Gyalrong Kensur Geshe Ngawang Tekchok (?-?)"
         }
     ],
     "items": [],
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "drang nges_art of interpretation/se ra smad rgyal rong mkhan zur dge bshes ngag dbang theg mchog_sera mey gyalrong kensur geshe ngawang tekchok (?-?)",
-            "timestamp": "2024-09-10T02:01:21.223144+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DRANG NGES_ART OF INTERPRETATION/SE RA SMAD RGYAL RONG MKHAN ZUR DGE BSHES NGAG DBANG THEG MCHOG_Sera Mey Gyalrong Kensur Geshe Ngawang Tekchok (?-?)",
+            "timestamp": "2024-11-20 04:53:09.805268+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:53:09.805268+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

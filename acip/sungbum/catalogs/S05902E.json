@@ -1,28 +1,28 @@
 {
     "name": "S05902E_RDO RJE PHRENG BA'I DKYIL 'KHOR CHEN PO BZHI BCU RTZA GNYIS KYI SGRUB THABS RIN CHEN DBANG GI RGYAL PO'I PHRENG BA_'A String of the King of the Lords of Jewels,' being a Ritual for Reaching the Forty-Two Great Secret Worlds in the Practice +.TXT",
-    "path": "rgyud_secret teachings (tantra)/rdo rje phreng ba_string of diamonds (vajramala)/sgrub thabs_ritual for reaching the angel (sadhana)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/rdo rje phreng ba_string of diamonds (vajramala)/sgrub thabs_ritual for reaching the angel (sadhana)/s05902e_rdo rje phreng ba'i dkyil 'khor chen po bzhi bcu rtza gnyis kyi sgrub thabs rin chen dbang gi rgyal po'i phreng ba_'a string of the king of the lords of jewels,' being a ritual for reaching the forty-two great secret worlds in the practice +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAIeg",
-    "revision_id": "613f664dc42968d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE PHRENG BA_STRING OF DIAMONDS (VAJRAMALA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/rdo rje phreng ba_string of diamonds (vajramala)/sgrub thabs_ritual for reaching the angel (sadhana)/s05902e_rdo rje phreng ba'i dkyil 'khor chen po bzhi bcu rtza gnyis kyi sgrub thabs rin chen dbang gi rgyal po'i phreng ba_'a string of the king of the lords of jewels,' being a ritual for reaching the forty-two great secret worlds in the practice +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABeKA",
+    "revision_id": "625a49b6958a58d294473",
     "content_hash": "66e39f8c1a58c2a6acee3b360bb95728e4ba290391b12491d77e0856371cf90f",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:09:26.724197",
+    "server_modified": "2024-10-29 21:52:52",
+    "last_sync": "2024-11-19 21:11:59.168770",
     "size": 173564,
-    "meta_text": "of the String of Diamonds (Vajravali)_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)",
+    "meta_text": "('of the String of Diamonds (Vajravali)_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)', 'rtf')",
     "cat_ref": "S05902E",
     "work_ref": "W.S05902E",
     "title_tib": "RDO RJE PHRENG BA'I DKYIL 'KHOR CHEN PO BZHI BCU RTZA GNYIS KYI SGRUB THABS RIN CHEN DBANG GI RGYAL PO'I PHRENG BA",
-    "title_eng": "'A String of the King of the Lords of Jewels,' being a Ritual for Reaching the Forty-Two Great Secret Worlds in the Practiceof the String of Diamonds (Vajravali)",
+    "title_eng": "'A String of the King of the Lords of Jewels,' being a Ritual for Reaching the Forty-Two Great Secret Worlds in the Practice('of the String of Diamonds (Vajravali)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "763910775686",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE PHRENG BA_STRING OF DIAMONDS (VAJRAMALA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/RDO RJE PHRENG BA/SGRUB THABS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/STRING OF DIAMONDS (VAJRAMALA)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "_id": "178825965852",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE PHRENG BA_STRING OF DIAMONDS (VAJRAMALA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/RDO RJE PHRENG BA/SGRUB THABS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/STRING OF DIAMONDS (VAJRAMALA)/RITUAL FOR REACHING THE ANGEL (SADHANA)",
             "subject_tibetan": "SGRUB THABS",
             "subject_english": "RITUAL FOR REACHING THE ANGEL (SADHANA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/rdo rje phreng ba_string of diamonds (vajramala)/sgrub thabs_ritual for reaching the angel (sadhana)",
-            "timestamp": "2024-09-10T02:09:26.747536+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE PHRENG BA_STRING OF DIAMONDS (VAJRAMALA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
+            "timestamp": "2024-11-20 05:11:59.176037+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:11:59.176037+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

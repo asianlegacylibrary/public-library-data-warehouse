@@ -1,45 +1,53 @@
 {
     "name": "TD02012_'JAM DPAL 'JIGS BYED MTSAN GYI BSTOD PA (Mañjuśrī Vajrabhairava Nāma Stuti).txt",
-    "path": "TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/12 RDO RJE 'JIGS BYED_Diamond Lord of Terror (Vajra Bhairava)/VOL 46 (MI)",
+    "path": "02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/12 RDO RJE 'JIGS BYED_Diamond Lord of Terror (Vajra Bhairava)/VOL 46 (MI)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/01 rnal 'byor bla med_unsurpassed practice (anuttara yoga)/12 rdo rje 'jigs byed_diamond lord of terror (vajra bhairava)/vol 46 (mi)/td02012_'jam dpal 'jigs byed mtsan gyi bstod pa (mañjuśrī vajrabhairava nāma stuti).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB-fg",
     "revision_id": "62633d0f177fb8d294473",
     "content_hash": "cf7150708a504bf87297f1d704ae0837a33a029ad818d8ab5f1d9173b0087ed6",
     "server_modified": "2024-11-06 00:44:10",
-    "last_sync": "2024-11-13 01:59:33.696365+00:00",
+    "last_sync": "2024-11-20 04:00:38.452606",
     "size": 2844,
+    "meta_text": null,
     "cat_ref": "TD02012",
     "work_ref": "W.TD02012",
-    "title_tib": "'JAM DPAL 'JIGS BYED MTSAN GYI BSTOD PA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "980020525714",
-            "subject_path": "TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/12 RDO RJE 'JIGS BYED_Diamond Lord of Terror (Vajra Bhairava)/VOL 46 (MI)",
-            "subject_path_tibetan": "TENGYUR/RGYUD/RNAL 'BYOR BLA MED/RDO RJE 'JIGS BYED/46 (MI)",
-            "subject_path_english": "TENGYUR/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Diamond Lord of Terror (Vajra Bhairava)/VOL 46 (MI)",
-            "subject_tibetan": "46 (MI)",
-            "subject_english": "VOL 46 (MI)"
+            "_id": "127871328019",
+            "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/12 RDO RJE 'JIGS BYED_Diamond Lord of Terror (Vajra Bhairava)/VOL 46 (MI)",
+            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/01 RNAL 'BYOR BLA MED/12 RDO RJE 'JIGS BYED/VOL 46 (MI)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Diamond Lord of Terror (Vajra Bhairava)",
+            "subject_tibetan": "VOL 46 (MI)",
+            "subject_english": "Diamond Lord of Terror (Vajra Bhairava)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Mañjuśrī Vajrabhairava Nāma Stuti",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/12 RDO RJE 'JIGS BYED_Diamond Lord of Terror (Vajra Bhairava)/VOL 46 (MI)",
+            "timestamp": "2024-11-20 12:00:38.456859+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:59:33.702291+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T12:00:38.456859+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/12 RDO RJE 'JIGS BYED_Diamond Lord of Terror (Vajra Bhairava)/VOL 46 (MI)",
-            "timestamp": "2024-11-13 01:59:33.702291+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

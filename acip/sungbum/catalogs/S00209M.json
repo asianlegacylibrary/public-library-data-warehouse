@@ -1,12 +1,12 @@
 {
     "name": "S00209M_MKHAS GRUB SBYIN PA DAR RGYAS KYIS MDZAD PA'I RGYU 'BRAS 'KHOR LO_A Presentation on the Subject of Cause and Effect, Written by the Accomplished Master Jinpa Dargye_MKHAS GRUB SBYIN PA DAR RGYAS (@-@).TXT",
-    "path": "tsad ma_study of accurate perception (sautrantika school)/bsdus grva_collected topics of logic/rgyu 'bras_causes and results/mkhas grub sbyin pa dar rgyas_kedrup jinpa dargye (1558-?)",
-    "download_path": "/sungbum updated 4 26 23 bk/tsad ma_study of accurate perception (sautrantika school)/bsdus grva_collected topics of logic/rgyu 'bras_causes and results/mkhas grub sbyin pa dar rgyas_kedrup jinpa dargye (1558-?)/s00209m_mkhas grub sbyin pa dar rgyas kyis mdzad pa'i rgyu 'bras 'khor lo_a presentation on the subject of cause and effect, written by the accomplished master jinpa dargye_mkhas grub sbyin pa dar rgyas (@-@).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAF3Q",
-    "revision_id": "613f664484b018d294473",
+    "path": "TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/BSDUS GRVA_COLLECTED TOPICS OF LOGIC/RGYU 'BRAS_CAUSES AND RESULTS/MKHAS GRUB SBYIN PA DAR RGYAS_KEDRUP JINPA DARGYE (1558-?)",
+    "download_path": "/sungbum updated 7 30 23 nl/tsad ma_study of accurate perception (sautrantika school)/bsdus grva_collected topics of logic/rgyu 'bras_causes and results/mkhas grub sbyin pa dar rgyas_kedrup jinpa dargye (1558-?)/s00209m_mkhas grub sbyin pa dar rgyas kyis mdzad pa'i rgyu 'bras 'khor lo_a presentation on the subject of cause and effect, written by the accomplished master jinpa dargye_mkhas grub sbyin pa dar rgyas (@-@).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABQMw",
+    "revision_id": "625a47bae19d98d294473",
     "content_hash": "9bc85d02618512160a8930239364d0a8127355359d10783f98e8eb218337ac05",
-    "server_modified": "2024-03-18T21:53:45",
-    "last_sync": "2024-09-09T19:06:59.585030",
+    "server_modified": "2024-10-29 21:44:00",
+    "last_sync": "2024-11-19 20:49:25.929440",
     "size": 43926,
     "meta_text": null,
     "cat_ref": "S00209M",
@@ -19,10 +19,10 @@
     "author_simple": "MKHAS GRUB SBYIN PA DAR RGYAS",
     "subject": [
         {
-            "_id": "163829141424",
-            "subject_path": "SUNGBUM_SUNGBUM/TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/BSDUS GRVA_COLLECTED TOPICS OF LOGIC/RGYU 'BRAS_CAUSES AND RESULTS/MKHAS GRUB SBYIN PA DAR RGYAS_KEDRUP JINPA DARGYE (1558-?)",
-            "subject_path_tibetan": "SUNGBUM/TSAD MA/BSDUS GRVA/RGYU 'BRAS/MKHAS GRUB SBYIN PA DAR RGYAS",
-            "subject_path_english": "SUNGBUM/STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/COLLECTED TOPICS OF LOGIC/CAUSES AND RESULTS/KEDRUP JINPA DARGYE (1558-?)",
+            "_id": "916496194214",
+            "subject_path": "GSUNG 'BUM_Sungbum/TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/BSDUS GRVA_COLLECTED TOPICS OF LOGIC/RGYU 'BRAS_CAUSES AND RESULTS/MKHAS GRUB SBYIN PA DAR RGYAS_KEDRUP JINPA DARGYE (1558-?)",
+            "subject_path_tibetan": "GSUNG 'BUM/TSAD MA/BSDUS GRVA/RGYU 'BRAS/MKHAS GRUB SBYIN PA DAR RGYAS",
+            "subject_path_english": "Sungbum/STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/COLLECTED TOPICS OF LOGIC/CAUSES AND RESULTS/KEDRUP JINPA DARGYE (1558-?)",
             "subject_tibetan": "MKHAS GRUB SBYIN PA DAR RGYAS",
             "subject_english": "KEDRUP JINPA DARGYE (1558-?)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P87"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "tsad ma_study of accurate perception (sautrantika school)/bsdus grva_collected topics of logic/rgyu 'bras_causes and results/mkhas grub sbyin pa dar rgyas_kedrup jinpa dargye (1558-?)",
-            "timestamp": "2024-09-10T02:06:59.586807+00:00"
+            "path": "GSUNG 'BUM_Sungbum/TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/BSDUS GRVA_COLLECTED TOPICS OF LOGIC/RGYU 'BRAS_CAUSES AND RESULTS/MKHAS GRUB SBYIN PA DAR RGYAS_KEDRUP JINPA DARGYE (1558-?)",
+            "timestamp": "2024-11-20 04:49:25.931470+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:49:25.931470+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

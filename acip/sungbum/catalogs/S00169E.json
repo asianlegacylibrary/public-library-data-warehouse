@@ -1,28 +1,28 @@
 {
     "name": "S00169E_DPAL RDO RJE 'JIGS BYED DPA' BO GCIG PA'I MNGON RTOGS BDUD DPUNG RNAM 'JOMS_'Destruction of the Legion of Demons,' a Presentation of the 'Realization' Practice in the Teaching of the Glorious Diamond Frightener (Vajra Bhairava) as a Solitary +.TXT",
-    "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/mngon rtogs_rituals of realization (abhisamaya)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/mngon rtogs_rituals of realization (abhisamaya)/s00169e_dpal rdo rje 'jigs byed dpa' bo gcig pa'i mngon rtogs bdud dpung rnam 'joms_'destruction of the legion of demons,' a presentation of the 'realization' practice in the teaching of the glorious diamond frightener (vajra bhairava) as a solitary +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAMyg",
-    "revision_id": "613f6656ded9b8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/MNGON RTOGS_RITUALS OF REALIZATION (ABHISAMAYA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/mngon rtogs_rituals of realization (abhisamaya)/s00169e_dpal rdo rje 'jigs byed dpa' bo gcig pa'i mngon rtogs bdud dpung rnam 'joms_'destruction of the legion of demons,' a presentation of the 'realization' practice in the teaching of the glorious diamond frightener (vajra bhairava) as a solitary +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABdLQ",
+    "revision_id": "625a498e22e338d294473",
     "content_hash": "0743926ac8c3e7b4b03f2e04877efe19ede89a1a56852684f6096041069c914b",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:14:11.817544",
+    "server_modified": "2024-10-29 21:52:10",
+    "last_sync": "2024-11-19 21:10:24.120095",
     "size": 21410,
-    "meta_text": "Warrior (Eka Vira)_LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN (1642-1714)",
+    "meta_text": "('Warrior (Eka Vira)_LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN (1642-1714)', 'rtf')",
     "cat_ref": "S00169E",
     "work_ref": "W.S00169E",
     "title_tib": "DPAL RDO RJE 'JIGS BYED DPA' BO GCIG PA'I MNGON RTOGS BDUD DPUNG RNAM 'JOMS",
-    "title_eng": "'Destruction of the Legion of Demons,' a Presentation of the 'Realization' Practice in the Teaching of the Glorious Diamond Frightener (Vajra Bhairava) as a SolitaryWarrior (Eka Vira)",
+    "title_eng": "'Destruction of the Legion of Demons,' a Presentation of the 'Realization' Practice in the Teaching of the Glorious Diamond Frightener (Vajra Bhairava) as a Solitary('Warrior (Eka Vira)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN",
     "subject": [
         {
-            "_id": "280040477560",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/MNGON RTOGS_RITUALS OF REALIZATION (ABHISAMAYA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/'JIGS BYED/MNGON RTOGS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/RITUALS OF REALIZATION (ABHISAMAYA)",
+            "_id": "336633370628",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/MNGON RTOGS_RITUALS OF REALIZATION (ABHISAMAYA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/'JIGS BYED/MNGON RTOGS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/RITUALS OF REALIZATION (ABHISAMAYA)",
             "subject_tibetan": "MNGON RTOGS",
             "subject_english": "RITUALS OF REALIZATION (ABHISAMAYA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P209"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/mngon rtogs_rituals of realization (abhisamaya)",
-            "timestamp": "2024-09-10T02:14:11.840255+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/MNGON RTOGS_RITUALS OF REALIZATION (ABHISAMAYA)",
+            "timestamp": "2024-11-20 05:10:25.544457+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:10:25.544457+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

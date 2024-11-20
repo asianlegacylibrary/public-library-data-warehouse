@@ -1,14 +1,14 @@
 {
     "name": "S05977EC3_YI DAM SANGS RGYAS BYANG SEMS MANG PO LA SBYAR CHOG PA'I RJES GNANG JI LTAR BYA BA'I TSUL_How to Perform a Ritual of Permission which can be Applied to a Great Many Close Angels, Buddhas, and Bodhisattvas_PAn CHEN BLO BZANG CHOS KYI RGYAL +.TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/rjes gnang_rites of permission (anujna)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/rjes gnang_rites of permission (anujna)/s05977ec3_yi dam sangs rgyas byang sems mang po la sbyar chog pa'i rjes gnang ji ltar bya ba'i tsul_how to perform a ritual of permission which can be applied to a great many close angels, buddhas, and bodhisattvas_pan chen blo bzang chos kyi rgyal +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAOwQ",
-    "revision_id": "613f665b610da8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/RJES GNANG_RITES OF PERMISSION (ANUJNA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyi_general treatments/rjes gnang_rites of permission (anujna)/s05977ec3_yi dam sangs rgyas byang sems mang po la sbyar chog pa'i rjes gnang ji ltar bya ba'i tsul_how to perform a ritual of permission which can be applied to a great many close angels, buddhas, and bodhisattvas_pan chen blo bzang chos kyi rgyal +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABZGQ",
+    "revision_id": "625a48f4f7e6a8d294473",
     "content_hash": "29f9fa9070c902bb0bc054471b5b79c8bef6ede84331722dd69ece17bd4cc4a1",
-    "server_modified": "2024-03-18T21:54:09",
-    "last_sync": "2024-09-09T19:16:03.179579",
+    "server_modified": "2024-10-29 21:49:29",
+    "last_sync": "2024-11-19 21:03:36.193078",
     "size": 9217,
-    "meta_text": "MTSAN (1565-1662)",
+    "meta_text": "('MTSAN (1565-1662)', 'rtf')",
     "cat_ref": "S05977EC3",
     "work_ref": "W.S05977EC3",
     "title_tib": "YI DAM SANGS RGYAS BYANG SEMS MANG PO LA SBYAR CHOG PA'I RJES GNANG JI LTAR BYA BA'I TSUL",
@@ -19,10 +19,10 @@
     "author_simple": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
     "subject": [
         {
-            "_id": "257761738638",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/RJES GNANG_RITES OF PERMISSION (ANUJNA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/RJES GNANG",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/RITES OF PERMISSION (ANUJNA)",
+            "_id": "783280223000",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/RJES GNANG_RITES OF PERMISSION (ANUJNA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/RJES GNANG",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/RITES OF PERMISSION (ANUJNA)",
             "subject_tibetan": "RJES GNANG",
             "subject_english": "RITES OF PERMISSION (ANUJNA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/rjes gnang_rites of permission (anujna)",
-            "timestamp": "2024-09-10T02:16:03.184870+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/RJES GNANG_RITES OF PERMISSION (ANUJNA)",
+            "timestamp": "2024-11-20 05:03:36.199783+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:03:36.199783+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

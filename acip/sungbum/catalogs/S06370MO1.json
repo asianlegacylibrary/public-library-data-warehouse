@@ -1,12 +1,12 @@
 {
     "name": "S06370MO1_YI GE MA NING SOGS KYI SKOR_Notes on Points such as the Gender of Selected Tibetan Letters_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "gsum rtags_grammar",
-    "download_path": "/sungbum updated 4 26 23 bk/gsum rtags_grammar/s06370mo1_yi ge ma ning sogs kyi skor_notes on points such as the gender of selected tibetan letters_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAADw",
-    "revision_id": "613f663b87b588d294473",
+    "path": "GSUM RTAGS_GRAMMAR",
+    "download_path": "/sungbum updated 7 30 23 nl/gsum rtags_grammar/s06370mo1_yi ge ma ning sogs kyi skor_notes on points such as the gender of selected tibetan letters_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABOmA",
+    "revision_id": "625a47738641f8d294473",
     "content_hash": "b5a155bd30298e5c65c729b3a22e2674a7f2e094ade98aa941bc38f5de7d53bb",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:01:04.996076",
+    "server_modified": "2024-10-29 21:42:45",
+    "last_sync": "2024-11-19 20:46:29.926059",
     "size": 747,
     "meta_text": null,
     "cat_ref": "S06370MO1",
@@ -19,18 +19,18 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "278127590787",
-            "subject_path": "SUNGBUM_SUNGBUM/GSUM RTAGS_GRAMMAR",
-            "subject_path_tibetan": "SUNGBUM/GSUM RTAGS",
-            "subject_path_english": "SUNGBUM/GRAMMAR",
+            "_id": "289751550091",
+            "subject_path": "GSUNG 'BUM_Sungbum/GSUM RTAGS_GRAMMAR",
+            "subject_path_tibetan": "GSUNG 'BUM/GSUM RTAGS",
+            "subject_path_english": "Sungbum/GRAMMAR",
             "subject_tibetan": "GSUM RTAGS",
             "subject_english": "GRAMMAR"
         },
         {
-            "_id": "244831615226",
-            "subject_path": "SUNGBUM_SUNGBUM/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_tibetan": "SUNGBUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "subject_path_english": "SUNGBUM/QUESTIONS AND ANSWERS",
+            "_id": "250883940513",
+            "subject_path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "GSUNG 'BUM/DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "Sungbum/QUESTIONS AND ANSWERS",
             "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
             "subject_english": "QUESTIONS AND ANSWERS"
         }
@@ -46,15 +46,29 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "gsum rtags_grammar",
-            "timestamp": "2024-09-10T02:01:05.021869+00:00"
+            "path": "GSUNG 'BUM_Sungbum/GSUM RTAGS_GRAMMAR",
+            "timestamp": "2024-11-20 04:46:30.678256+00:00"
         },
         {
-            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
-            "timestamp": "2024-09-10T02:21:49.549572+00:00"
+            "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "timestamp": "2024-11-20 04:54:07.139273+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:46:30.678256+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        },
+        {
+            "timestamp": "2024-11-20T04:54:07.139273+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "updated"
+        }
+    ],
+    "content_type": "text"
 }

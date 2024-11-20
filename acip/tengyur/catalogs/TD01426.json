@@ -1,45 +1,53 @@
 {
     "name": "TD01426_DE KHO NA NYID KYI SNYING PO SGRUB PA ZHES BYA BA (Tattva Garbha Sādhana (Nāma)).txt",
-    "path": "TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/01 YAB BKA'_Father Texts (Pitṛ)/02 SGRUB SKOR_Practice Materials (Sādhya)/VOL 20 (WA)",
+    "path": "02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/01 YAB BKA'_Father Texts (Pitṛ)/02 SGRUB SKOR_Practice Materials (Sādhya)/VOL 20 (WA)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/01 rnal 'byor bla med_unsurpassed practice (anuttara yoga)/03 bde mchog_highest bliss (saṃvara)/01 yab bka'_father texts (pitṛ)/02 sgrub skor_practice materials (sādhya)/vol 20 (wa)/td01426_de kho na nyid kyi snying po sgrub pa zhes bya ba (tattva garbha sādhana (nāma)).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB7kg",
     "revision_id": "62633c844d4d58d294473",
     "content_hash": "d5e0a0fa4499aaf9557ddaa76e0c58510bfd2947bf46764bcfdbe0853305893e",
     "server_modified": "2024-11-06 00:41:45",
-    "last_sync": "2024-11-13 01:59:02.327339+00:00",
+    "last_sync": "2024-11-20 04:00:02.418156",
     "size": 57394,
+    "meta_text": null,
     "cat_ref": "TD01426",
     "work_ref": "W.TD01426",
-    "title_tib": "DE KHO NA NYID KYI SNYING PO SGRUB PA ZHES BYA BA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "113473372097",
-            "subject_path": "TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/01 YAB BKA'_Father Texts (Pitṛ)/02 SGRUB SKOR_Practice Materials (Sādhya)/VOL 20 (WA)",
-            "subject_path_tibetan": "TENGYUR/RGYUD/RNAL 'BYOR BLA MED/BDE MCHOG/YAB BKA'/SGRUB SKOR/20 (WA)",
-            "subject_path_english": "TENGYUR/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Highest Bliss (Saṃvara)/Father Texts (Pitṛ)/Practice Materials (Sādhya)/VOL 20 (WA)",
-            "subject_tibetan": "20 (WA)",
-            "subject_english": "VOL 20 (WA)"
+            "_id": "100404488384",
+            "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/01 YAB BKA'_Father Texts (Pitṛ)/02 SGRUB SKOR_Practice Materials (Sādhya)/VOL 20 (WA)",
+            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/01 RNAL 'BYOR BLA MED/03 BDE MCHOG/01 YAB BKA'/02 SGRUB SKOR/VOL 20 (WA)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Highest Bliss (Saṃvara)/Father Texts (Pitṛ)/Practice Materials (Sādhya)",
+            "subject_tibetan": "VOL 20 (WA)",
+            "subject_english": "Practice Materials (Sādhya)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Tattva Garbha Sādhana (Nāma)",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/01 YAB BKA'_Father Texts (Pitṛ)/02 SGRUB SKOR_Practice Materials (Sādhya)/VOL 20 (WA)",
+            "timestamp": "2024-11-20 12:00:02.438016+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:59:02.333820+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T12:00:02.438016+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/01 YAB BKA'_Father Texts (Pitṛ)/02 SGRUB SKOR_Practice Materials (Sādhya)/VOL 20 (WA)",
-            "timestamp": "2024-11-13 01:59:02.333820+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

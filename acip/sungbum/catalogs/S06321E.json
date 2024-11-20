@@ -1,12 +1,12 @@
 {
     "name": "S06321E_ BZANG SPYOD KYI 'CHI BLU BYA TSUL_Method for Cheating Death in the Way of Pure Activities_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/bzang spyod 'chi blu_cheating death in the way of pure activities/'grel pa_commentaries",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/bzang spyod 'chi blu_cheating death in the way of pure activities/'grel pa_commentaries/s06321e_ bzang spyod kyi 'chi blu bya tsul_method for cheating death in the way of pure activities_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAIXQ",
-    "revision_id": "613f664dc42798d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/BZANG SPYOD 'CHI BLU_CHEATING DEATH IN THE WAY OF PURE ACTIVITIES/'GREL PA_COMMENTARIES",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/bzang spyod 'chi blu_cheating death in the way of pure activities/'grel pa_commentaries/s06321e_ bzang spyod kyi 'chi blu bya tsul_method for cheating death in the way of pure activities_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABXyg",
+    "revision_id": "625a48cae81e18d294473",
     "content_hash": "af7cfc3dc40b465c236a52be3d40cb96da2dce4aac12241dc317a51fc823251c",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:09:19.018484",
+    "server_modified": "2024-10-29 21:48:45",
+    "last_sync": "2024-11-19 21:01:25.759092",
     "size": 3031,
     "meta_text": null,
     "cat_ref": "S06321E",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "249083139776",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/BZANG SPYOD 'CHI BLU_CHEATING DEATH IN THE WAY OF PURE ACTIVITIES/'GREL PA_COMMENTARIES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/BZANG SPYOD 'CHI BLU/'GREL PA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/CHEATING DEATH IN THE WAY OF PURE ACTIVITIES/COMMENTARIES",
+            "_id": "158909851075",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BZANG SPYOD 'CHI BLU_CHEATING DEATH IN THE WAY OF PURE ACTIVITIES/'GREL PA_COMMENTARIES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/BZANG SPYOD 'CHI BLU/'GREL PA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/CHEATING DEATH IN THE WAY OF PURE ACTIVITIES/COMMENTARIES",
             "subject_tibetan": "'GREL PA",
             "subject_english": "COMMENTARIES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/bzang spyod 'chi blu_cheating death in the way of pure activities/'grel pa_commentaries",
-            "timestamp": "2024-09-10T02:09:19.025646+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BZANG SPYOD 'CHI BLU_CHEATING DEATH IN THE WAY OF PURE ACTIVITIES/'GREL PA_COMMENTARIES",
+            "timestamp": "2024-11-20 05:01:25.763503+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:01:25.763503+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

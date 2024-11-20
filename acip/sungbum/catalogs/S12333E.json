@@ -1,28 +1,28 @@
 {
     "name": "S12333E_YONGS 'DZIN RDO RJE 'CHANG CHEN PO RJE BTZUN BSKAL BZANG DPAL 'BYOR BZANG PO'I RNAM PAR THAR BA DAD PA'I DPAL BSKYED_Raising the Glory of Faith--A Biography of the Great Tutor, the Holder of the Diamond, the High and Holy One, Kelsang Peljor +.TXT",
-    "path": "rnam thar_biographies/mtsan thog_by person's name/bskal bzang dpal 'byor bzang po_kelsang pelnjor sangpo",
-    "download_path": "/sungbum updated 4 26 23 bk/rnam thar_biographies/mtsan thog_by person's name/bskal bzang dpal 'byor bzang po_kelsang pelnjor sangpo/s12333e_yongs 'dzin rdo rje 'chang chen po rje btzun bskal bzang dpal 'byor bzang po'i rnam par thar ba dad pa'i dpal bskyed_raising the glory of faith--a biography of the great tutor, the holder of the diamond, the high and holy one, kelsang peljor +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAWPQ",
-    "revision_id": "613f666d209598d294473",
+    "path": "RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/BSKAL BZANG DPAL 'BYOR BZANG PO_KELSANG PELNJOR SANGPO",
+    "download_path": "/sungbum updated 7 30 23 nl/rnam thar_biographies/mtsan thog_by person's name/bskal bzang dpal 'byor bzang po_kelsang pelnjor sangpo/s12333e_yongs 'dzin rdo rje 'chang chen po rje btzun bskal bzang dpal 'byor bzang po'i rnam par thar ba dad pa'i dpal bskyed_raising the glory of faith--a biography of the great tutor, the holder of the diamond, the high and holy one, kelsang peljor +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABf_g",
+    "revision_id": "625a4a0ee10738d294473",
     "content_hash": "bd97d9c1fe325b8cab87d481c13b6fcaca743dd561067f46fae0f8d95ef77d5c",
-    "server_modified": "2024-03-18T21:54:28",
-    "last_sync": "2024-09-09T19:23:25.931201",
+    "server_modified": "2024-10-29 21:54:25",
+    "last_sync": "2024-11-19 21:15:12.600307",
     "size": 34870,
-    "meta_text": "Sangpo_DMU DGE BSAM GTAN RGYA MTSO (1914-1993)",
+    "meta_text": "('Sangpo_DMU DGE BSAM GTAN RGYA MTSO (1914-1993)', 'rtf')",
     "cat_ref": "S12333E",
     "work_ref": "W.S12333E",
     "title_tib": "YONGS 'DZIN RDO RJE 'CHANG CHEN PO RJE BTZUN BSKAL BZANG DPAL 'BYOR BZANG PO'I RNAM PAR THAR BA DAD PA'I DPAL BSKYED",
-    "title_eng": "Raising the Glory of Faith--A Biography of the Great Tutor, the Holder of the Diamond, the High and Holy One, Kelsang PeljorSangpo",
+    "title_eng": "Raising the Glory of Faith--A Biography of the Great Tutor, the Holder of the Diamond, the High and Holy One, Kelsang Peljor('Sangpo",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "DMU DGE BSAM GTAN RGYA MTSO",
     "subject": [
         {
-            "_id": "177570925783",
-            "subject_path": "SUNGBUM_SUNGBUM/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/BSKAL BZANG DPAL 'BYOR BZANG PO_KELSANG PELNJOR SANGPO",
-            "subject_path_tibetan": "SUNGBUM/RNAM THAR/MTSAN THOG/BSKAL BZANG DPAL 'BYOR BZANG PO",
-            "subject_path_english": "SUNGBUM/BIOGRAPHIES/BY PERSON'S NAME/KELSANG PELNJOR SANGPO",
+            "_id": "177730847098",
+            "subject_path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/BSKAL BZANG DPAL 'BYOR BZANG PO_KELSANG PELNJOR SANGPO",
+            "subject_path_tibetan": "GSUNG 'BUM/RNAM THAR/MTSAN THOG/BSKAL BZANG DPAL 'BYOR BZANG PO",
+            "subject_path_english": "Sungbum/BIOGRAPHIES/BY PERSON'S NAME/KELSANG PELNJOR SANGPO",
             "subject_tibetan": "BSKAL BZANG DPAL 'BYOR BZANG PO",
             "subject_english": "KELSANG PELNJOR SANGPO"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P1647"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rnam thar_biographies/mtsan thog_by person's name/bskal bzang dpal 'byor bzang po_kelsang pelnjor sangpo",
-            "timestamp": "2024-09-10T02:23:25.934090+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/BSKAL BZANG DPAL 'BYOR BZANG PO_KELSANG PELNJOR SANGPO",
+            "timestamp": "2024-11-20 05:15:12.605610+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:15:12.605610+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

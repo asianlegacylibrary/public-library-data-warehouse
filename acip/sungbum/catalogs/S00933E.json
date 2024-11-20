@@ -1,28 +1,28 @@
 {
     "name": "S00933E_RJE BTZUN BYAMS PA MGON PO LA BRTEN PA'I 'PHO BA'I RNAM PAR BZHAG PA DGA' LDAN ZHING DU BGROD BA'I BDE LAM_'An Easy Road for Travelling to the Paradise of Bliss,' being a Presentation on the Practice of Transferring One's Consciousness based +.TXT",
-    "path": "rgyud_secret teachings (tantra)/byams pa_loving one (maitreya)/'pho ba_transferring consciousness",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/byams pa_loving one (maitreya)/'pho ba_transferring consciousness/s00933e_rje btzun byams pa mgon po la brten pa'i 'pho ba'i rnam par bzhag pa dga' ldan zhing du bgrod ba'i bde lam_'an easy road for travelling to the paradise of bliss,' being a presentation on the practice of transferring one's consciousness based +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAIGQ",
-    "revision_id": "613f664dc42358d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/BYAMS PA_LOVING ONE (MAITREYA)/'PHO BA_TRANSFERRING CONSCIOUSNESS",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/byams pa_loving one (maitreya)/'pho ba_transferring consciousness/s00933e_rje btzun byams pa mgon po la brten pa'i 'pho ba'i rnam par bzhag pa dga' ldan zhing du bgrod ba'i bde lam_'an easy road for travelling to the paradise of bliss,' being a presentation on the practice of transferring one's consciousness based +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABcqQ",
+    "revision_id": "625a497f7748f8d294473",
     "content_hash": "8e52b5ac7f467d1185f9650e7e0867642ebbbf667c9e7ac4714bc21fac283599",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:09:06.697130",
+    "server_modified": "2024-10-29 21:51:54",
+    "last_sync": "2024-11-19 21:09:22.665642",
     "size": 32325,
-    "meta_text": "on the Teachings of our Protector, the Holy Lord, Loving One (Maitreya)_GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME (1762-1823)",
+    "meta_text": "(\"on the Teachings of our Protector, the Holy Lord, Loving One (Maitreya)_GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME (1762-1823)\", 'rtf')",
     "cat_ref": "S00933E",
     "work_ref": "W.S00933E",
     "title_tib": "RJE BTZUN BYAMS PA MGON PO LA BRTEN PA'I 'PHO BA'I RNAM PAR BZHAG PA DGA' LDAN ZHING DU BGROD BA'I BDE LAM",
-    "title_eng": "'An Easy Road for Travelling to the Paradise of Bliss,' being a Presentation on the Practice of Transferring One's Consciousness basedon the Teachings of our Protector, the Holy Lord, Loving One (Maitreya)",
+    "title_eng": "'An Easy Road for Travelling to the Paradise of Bliss,' being a Presentation on the Practice of Transferring One's Consciousness based(\"on the Teachings of our Protector, the Holy Lord, Loving One (Maitreya)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME",
     "subject": [
         {
-            "_id": "666813479167",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/BYAMS PA_LOVING ONE (MAITREYA)/'PHO BA_TRANSFERRING CONSCIOUSNESS",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/BYAMS PA/'PHO BA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/LOVING ONE (MAITREYA)/TRANSFERRING CONSCIOUSNESS",
+            "_id": "198063863217",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BYAMS PA_LOVING ONE (MAITREYA)/'PHO BA_TRANSFERRING CONSCIOUSNESS",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/BYAMS PA/'PHO BA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/LOVING ONE (MAITREYA)/TRANSFERRING CONSCIOUSNESS",
             "subject_tibetan": "'PHO BA",
             "subject_english": "TRANSFERRING CONSCIOUSNESS"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P298"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/byams pa_loving one (maitreya)/'pho ba_transferring consciousness",
-            "timestamp": "2024-09-10T02:09:06.728919+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BYAMS PA_LOVING ONE (MAITREYA)/'PHO BA_TRANSFERRING CONSCIOUSNESS",
+            "timestamp": "2024-11-20 05:09:23.350388+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:09:23.350388+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

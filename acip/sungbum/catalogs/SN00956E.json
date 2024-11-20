@@ -1,14 +1,14 @@
 {
     "name": "SN00956E_NGES PA DON GYI BSHES GNYEN CHEN PO MKHAS GRUB BSTAN 'DZIN PA'I RTOGS PA BRJOD PA LEGS TSOGS SGO 'BYED_The Key that Opens the Door to Every Goodness-- Description of the Life of that Great Lama who is a True Spiritual Friend, Kedrup Tendzin +.TXT",
-    "path": "rnam thar_biographies/mtsan thog_by person's name/mkhas grub bstan 'dzin",
-    "download_path": "/sungbum updated 4 26 23 bk/rnam thar_biographies/mtsan thog_by person's name/mkhas grub bstan 'dzin/sn00956e_nges pa don gyi bshes gnyen chen po mkhas grub bstan 'dzin pa'i rtogs pa brjod pa legs tsogs sgo 'byed_the key that opens the door to every goodness-- description of the life of that great lama who is a true spiritual friend, kedrup tendzin +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAWXA",
-    "revision_id": "613f666d209788d294473",
+    "path": "RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/MKHAS GRUB BSTAN 'DZIN",
+    "download_path": "/sungbum updated 7 30 23 nl/rnam thar_biographies/mtsan thog_by person's name/mkhas grub bstan 'dzin/sn00956e_nges pa don gyi bshes gnyen chen po mkhas grub bstan 'dzin pa'i rtogs pa brjod pa legs tsogs sgo 'byed_the key that opens the door to every goodness-- description of the life of that great lama who is a true spiritual friend, kedrup tendzin +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABgOQ",
+    "revision_id": "625a4a19910478d294473",
     "content_hash": "c5eba06ae57009c138eaaab9421c2a95472ce97a35469afc8a522211fadff399",
-    "server_modified": "2024-03-18T21:54:28",
-    "last_sync": "2024-09-09T19:23:36.070546",
+    "server_modified": "2024-10-29 21:54:36",
+    "last_sync": "2024-11-19 21:15:53.598042",
     "size": 126959,
-    "meta_text": "_GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME (1762-1823)",
+    "meta_text": "(\"_GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME (1762-1823)\", 'rtf')",
     "cat_ref": "SN00956E",
     "work_ref": "W.SN00956E",
     "title_tib": "NGES PA DON GYI BSHES GNYEN CHEN PO MKHAS GRUB BSTAN 'DZIN PA'I RTOGS PA BRJOD PA LEGS TSOGS SGO 'BYED",
@@ -19,10 +19,10 @@
     "author_simple": "GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME",
     "subject": [
         {
-            "_id": "261641759674",
-            "subject_path": "SUNGBUM_SUNGBUM/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/MKHAS GRUB BSTAN 'DZIN",
-            "subject_path_tibetan": "SUNGBUM/RNAM THAR/MTSAN THOG/MKHAS GRUB BSTAN 'DZIN",
-            "subject_path_english": "SUNGBUM/BIOGRAPHIES/BY PERSON'S NAME",
+            "_id": "247075898728",
+            "subject_path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/MKHAS GRUB BSTAN 'DZIN",
+            "subject_path_tibetan": "GSUNG 'BUM/RNAM THAR/MTSAN THOG/MKHAS GRUB BSTAN 'DZIN",
+            "subject_path_english": "Sungbum/BIOGRAPHIES/BY PERSON'S NAME",
             "subject_tibetan": "MKHAS GRUB BSTAN 'DZIN",
             "subject_english": "BY PERSON'S NAME"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P298"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rnam thar_biographies/mtsan thog_by person's name/mkhas grub bstan 'dzin",
-            "timestamp": "2024-09-10T02:23:36.075677+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/MKHAS GRUB BSTAN 'DZIN",
+            "timestamp": "2024-11-20 05:15:53.603185+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:15:53.603185+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

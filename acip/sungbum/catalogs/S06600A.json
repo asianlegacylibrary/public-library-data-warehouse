@@ -1,12 +1,12 @@
 {
     "name": "S06600A_GZHI'I SKU GSUM GYI RNAM GZHAG RAB GSAL SGRON ME_The 'Lamp of Total Clarity,' being a Treatise upon the Three Bodies of the Original State_DBYANGS CAN DGA' BA'I BLO GROS (1860-@).TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/sku gsum_three bodies",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/sku gsum_three bodies/s06600a_gzhi'i sku gsum gyi rnam gzhag rab gsal sgron me_the 'lamp of total clarity,' being a treatise upon the three bodies of the original state_dbyangs can dga' ba'i blo gros (1860-@).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAM_A",
-    "revision_id": "613f6656dedcd8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SKU GSUM_THREE BODIES",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyi_general treatments/sku gsum_three bodies/s06600a_gzhi'i sku gsum gyi rnam gzhag rab gsal sgron me_the 'lamp of total clarity,' being a treatise upon the three bodies of the original state_dbyangs can dga' ba'i blo gros (1860-@).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABagw",
+    "revision_id": "625a492e12a518d294473",
     "content_hash": "ad0b3726fd4224b0ae6e37cef231778be8ce9c773b938499779c1f21e9a3282a",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:14:21.904077",
+    "server_modified": "2024-10-29 21:50:29",
+    "last_sync": "2024-11-19 21:05:36.999833",
     "size": 45465,
     "meta_text": null,
     "cat_ref": "S06600A",
@@ -19,10 +19,10 @@
     "author_simple": "DBYANGS CAN DGA' BA'I BLO GROS",
     "subject": [
         {
-            "_id": "102180724705",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SKU GSUM_THREE BODIES",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/SKU GSUM",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/THREE BODIES",
+            "_id": "266345091326",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SKU GSUM_THREE BODIES",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/SKU GSUM",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/THREE BODIES",
             "subject_tibetan": "SKU GSUM",
             "subject_english": "THREE BODIES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P1629"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/sku gsum_three bodies",
-            "timestamp": "2024-09-10T02:14:21.909793+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SKU GSUM_THREE BODIES",
+            "timestamp": "2024-11-20 05:05:37.005061+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:05:37.005061+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

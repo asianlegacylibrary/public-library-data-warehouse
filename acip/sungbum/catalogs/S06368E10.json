@@ -1,12 +1,12 @@
 {
     "name": "S06368E10_SNGAGS RIM GYI BSDUS DON DANG SA BCAD_Brief Presentation and Outline of the 'Steps of the Secret Word'_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/'grel pa_general commentaries/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/'grel pa_general commentaries/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)/s06368e10_sngags rim gyi bsdus don dang sa bcad_brief presentation and outline of the 'steps of the secret word'_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAANag",
-    "revision_id": "613f6656dee3b8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/'GREL PA_GENERAL COMMENTARIES/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/spyi_general treatments/'grel pa_general commentaries/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)/s06368e10_sngags rim gyi bsdus don dang sa bcad_brief presentation and outline of the 'steps of the secret word'_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABaUg",
+    "revision_id": "625a492e12a1b8d294473",
     "content_hash": "50dd31f65f6df1f07930269622a3a9c5cc175808c4ae78235c8d55bb7ea9b9a2",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:14:50.695485",
+    "server_modified": "2024-10-29 21:50:29",
+    "last_sync": "2024-11-19 21:05:24.277070",
     "size": 34592,
     "meta_text": null,
     "cat_ref": "S06368E10",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "286605864093",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/'GREL PA_GENERAL COMMENTARIES/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/SPYI/'GREL PA/DNGUL CHU DHARMA BHADRA",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/GENERAL COMMENTARIES/NGULCHU DHARMA BHADRA (1772-1851)",
+            "_id": "916432733266",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/'GREL PA_GENERAL COMMENTARIES/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/SPYI/'GREL PA/DNGUL CHU DHARMA BHADRA",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/GENERAL COMMENTARIES/NGULCHU DHARMA BHADRA (1772-1851)",
             "subject_tibetan": "DNGUL CHU DHARMA BHADRA",
             "subject_english": "NGULCHU DHARMA BHADRA (1772-1851)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/'grel pa_general commentaries/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)",
-            "timestamp": "2024-09-10T02:14:50.727818+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/'GREL PA_GENERAL COMMENTARIES/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
+            "timestamp": "2024-11-20 05:05:26.958521+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:05:26.958521+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,45 +1,53 @@
 {
     "name": "TD04124_'PHAGS PA GZHI THAMS CAD YOD PAR SMRA BA'I DGE TSUL GYI TSIG LE'UR BYAS PA (Ārya Mūla Sarvāsti Vādiśrāmaṇera Kārikā).txt",
-    "path": "TENGYUR_TENGYUR/08 'DUL BA_Vowed Morality (Vinaya)/VOL 16 (SHU)",
+    "path": "08 'DUL BA_Vowed Morality (Vinaya)/VOL 16 (SHU)",
     "download_path": "/tengyur updated 10 31 24 ws/08 'dul ba_vowed morality (vinaya)/vol 16 (shu)/td04124_'phags pa gzhi thams cad yod par smra ba'i dge tsul gyi tsig le'ur byas pa (ārya mūla sarvāsti vādiśrāmaṇera kārikā).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB2rA",
     "revision_id": "62633b9220a9a8d294473",
     "content_hash": "5bdb5488c2553f2795c23d718e6514d8814d32f944010e4c23279c2c879d654d",
     "server_modified": "2024-11-06 00:37:31",
-    "last_sync": "2024-11-13 01:57:51.887980+00:00",
+    "last_sync": "2024-11-20 03:58:42.974114",
     "size": 43275,
+    "meta_text": null,
     "cat_ref": "TD04124",
     "work_ref": "W.TD04124",
-    "title_tib": "'PHAGS PA GZHI THAMS CAD YOD PAR SMRA BA'I DGE TSUL GYI TSIG LE'UR BYAS PA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "804124547089",
-            "subject_path": "TENGYUR_TENGYUR/08 'DUL BA_Vowed Morality (Vinaya)/VOL 16 (SHU)",
-            "subject_path_tibetan": "TENGYUR/'DUL BA/16 (SHU)",
-            "subject_path_english": "TENGYUR/Vowed Morality (Vinaya)/VOL 16 (SHU)",
-            "subject_tibetan": "16 (SHU)",
-            "subject_english": "VOL 16 (SHU)"
+            "_id": "112215166181",
+            "subject_path": "BSTAN 'GYUR_Tengyur/08 'DUL BA_Vowed Morality (Vinaya)/VOL 16 (SHU)",
+            "subject_path_tibetan": "BSTAN 'GYUR/08 'DUL BA/VOL 16 (SHU)",
+            "subject_path_english": "Tengyur/Vowed Morality (Vinaya)",
+            "subject_tibetan": "VOL 16 (SHU)",
+            "subject_english": "Vowed Morality (Vinaya)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Ārya Mūla Sarvāsti Vādiśrāmaṇera Kārikā",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/08 'DUL BA_Vowed Morality (Vinaya)/VOL 16 (SHU)",
+            "timestamp": "2024-11-20 11:58:42.983741+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:57:52.237075+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T11:58:42.983741+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/08 'DUL BA_Vowed Morality (Vinaya)/VOL 16 (SHU)",
-            "timestamp": "2024-11-13 01:57:52.237075+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

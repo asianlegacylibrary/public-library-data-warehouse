@@ -1,12 +1,12 @@
 {
     "name": "S00044M5.TXT",
-    "path": "mngon pa_higher knowledge (abhidharma) (vaibhashika school)/rgyal dbang blo bzang 'phrin las rnam rgyal_gyalwang lobsang trinle namgyal (1840-1860)",
-    "download_path": "/sungbum updated 4 26 23 bk/mngon pa_higher knowledge (abhidharma) (vaibhashika school)/rgyal dbang blo bzang 'phrin las rnam rgyal_gyalwang lobsang trinle namgyal (1840-1860)/s00044m5.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAXQA",
-    "revision_id": "613f666d20a5c8d294473",
+    "path": "MNGON PA_HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)/RGYAL DBANG BLO BZANG 'PHRIN LAS RNAM RGYAL_GYALWANG LOBSANG TRINLE NAMGYAL (1840-1860)",
+    "download_path": "/sungbum updated 7 30 23 nl/mngon pa_higher knowledge (abhidharma) (vaibhashika school)/rgyal dbang blo bzang 'phrin las rnam rgyal_gyalwang lobsang trinle namgyal (1840-1860)/s00044m5.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABmOw",
+    "revision_id": "625a4b0eb88708d294473",
     "content_hash": "684e109cdfbb3aabde03f34bea1c4bbdd05ae443af9bd4cfbf760184e262f1da",
-    "server_modified": "2024-03-18T21:54:28",
-    "last_sync": "2024-09-09T19:24:37.219029",
+    "server_modified": "2024-10-29 21:58:53",
+    "last_sync": "2024-11-19 21:26:44.574970",
     "size": 104838,
     "meta_text": null,
     "cat_ref": "S00044M5",
@@ -19,10 +19,10 @@
     "author_simple": "",
     "subject": [
         {
-            "_id": "174101680567",
-            "subject_path": "SUNGBUM_SUNGBUM/MNGON PA_HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)/RGYAL DBANG BLO BZANG 'PHRIN LAS RNAM RGYAL_GYALWANG LOBSANG TRINLE NAMGYAL (1840-1860)",
-            "subject_path_tibetan": "SUNGBUM/MNGON PA/RGYAL DBANG BLO BZANG 'PHRIN LAS RNAM RGYAL",
-            "subject_path_english": "SUNGBUM/HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)/GYALWANG LOBSANG TRINLE NAMGYAL (1840-1860)",
+            "_id": "825002812720",
+            "subject_path": "GSUNG 'BUM_Sungbum/MNGON PA_HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)/RGYAL DBANG BLO BZANG 'PHRIN LAS RNAM RGYAL_GYALWANG LOBSANG TRINLE NAMGYAL (1840-1860)",
+            "subject_path_tibetan": "GSUNG 'BUM/MNGON PA/RGYAL DBANG BLO BZANG 'PHRIN LAS RNAM RGYAL",
+            "subject_path_english": "Sungbum/HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)/GYALWANG LOBSANG TRINLE NAMGYAL (1840-1860)",
             "subject_tibetan": "RGYAL DBANG BLO BZANG 'PHRIN LAS RNAM RGYAL",
             "subject_english": "GYALWANG LOBSANG TRINLE NAMGYAL (1840-1860)"
         }
@@ -35,11 +35,19 @@
             "author_death": null
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "mngon pa_higher knowledge (abhidharma) (vaibhashika school)/rgyal dbang blo bzang 'phrin las rnam rgyal_gyalwang lobsang trinle namgyal (1840-1860)",
-            "timestamp": "2024-09-10T02:24:37.230237+00:00"
+            "path": "GSUNG 'BUM_Sungbum/MNGON PA_HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)/RGYAL DBANG BLO BZANG 'PHRIN LAS RNAM RGYAL_GYALWANG LOBSANG TRINLE NAMGYAL (1840-1860)",
+            "timestamp": "2024-11-20 05:26:45.289501+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:26:45.289501+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

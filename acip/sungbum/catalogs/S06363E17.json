@@ -1,12 +1,12 @@
 {
     "name": "S06363E17_DZE T'A RI'I LUGS KYI TSE DPAG MED KYI BSGOM BZLAS MDOR BSDUS_Brief Ritual for the Practice of Meditation and Recitation in the Teachings of Limitless Life (Amitayus), according to the Tradition of Jetari_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
-    "path": "rgyud_secret teachings (tantra)/tse dpag med_limitless life (amitayus)/bsgom bzlas_meditation and recitation upon the angel",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/tse dpag med_limitless life (amitayus)/bsgom bzlas_meditation and recitation upon the angel/s06363e17_dze t'a ri'i lugs kyi tse dpag med kyi bsgom bzlas mdor bsdus_brief ritual for the practice of meditation and recitation in the teachings of limitless life (amitayus), according to the tradition of jetari_dngul chu dharma bhadra (1772-1851).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAJew",
-    "revision_id": "613f664dc43978d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/TSE DPAG MED_LIMITLESS LIFE (AMITAYUS)/BSGOM BZLAS_MEDITATION AND RECITATION UPON THE ANGEL",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/tse dpag med_limitless life (amitayus)/bsgom bzlas_meditation and recitation upon the angel/s06363e17_dze t'a ri'i lugs kyi tse dpag med kyi bsgom bzlas mdor bsdus_brief ritual for the practice of meditation and recitation in the teachings of limitless life (amitayus), according to the tradition of jetari_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABVow",
+    "revision_id": "625a488e26f758d294473",
     "content_hash": "15d4e24ac63328523f15ff71c854b72a1e37b106ee571b86fdc61ba0ba442bc3",
-    "server_modified": "2024-03-18T21:53:55",
-    "last_sync": "2024-09-09T19:10:33.424575",
+    "server_modified": "2024-10-29 21:47:41",
+    "last_sync": "2024-11-19 20:57:46.741277",
     "size": 6036,
     "meta_text": null,
     "cat_ref": "S06363E17",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "247286828676",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/TSE DPAG MED_LIMITLESS LIFE (AMITAYUS)/BSGOM BZLAS_MEDITATION AND RECITATION UPON THE ANGEL",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/TSE DPAG MED/BSGOM BZLAS",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/LIMITLESS LIFE (AMITAYUS)/MEDITATION AND RECITATION UPON THE ANGEL",
+            "_id": "620663988837",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/TSE DPAG MED_LIMITLESS LIFE (AMITAYUS)/BSGOM BZLAS_MEDITATION AND RECITATION UPON THE ANGEL",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/TSE DPAG MED/BSGOM BZLAS",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/LIMITLESS LIFE (AMITAYUS)/MEDITATION AND RECITATION UPON THE ANGEL",
             "subject_tibetan": "BSGOM BZLAS",
             "subject_english": "MEDITATION AND RECITATION UPON THE ANGEL"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/tse dpag med_limitless life (amitayus)/bsgom bzlas_meditation and recitation upon the angel",
-            "timestamp": "2024-09-10T02:10:33.431890+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/TSE DPAG MED_LIMITLESS LIFE (AMITAYUS)/BSGOM BZLAS_MEDITATION AND RECITATION UPON THE ANGEL",
+            "timestamp": "2024-11-20 04:57:46.745402+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:57:46.745402+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

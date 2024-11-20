@@ -1,12 +1,12 @@
 {
     "name": "S05461M_'GREL PA DON GSAL GYI RNAM BSHAD RTOGS DKA'I SNANG BA_The 'Illumination of the Difficult,' being an Explanation of the Commentary Known as the 'Meaning Clarified'_MKHAS GRUB RJE DGE LEGS DPAL BZANG PO (1385-1438).TXT",
-    "path": "phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/spyi_general commentaries/mkhas grub rje dge legs dpal bzang po_kedrup je gelek pel sangpo (1385-1438)",
-    "download_path": "/sungbum updated 4 26 23 bk/phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/spyi_general commentaries/mkhas grub rje dge legs dpal bzang po_kedrup je gelek pel sangpo (1385-1438)/s05461m_'grel pa don gsal gyi rnam bshad rtogs dka'i snang ba_the 'illumination of the difficult,' being an explanation of the commentary known as the 'meaning clarified'_mkhas grub rje dge legs dpal bzang po (1385-1438).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAVTw",
-    "revision_id": "613f6668766b58d294473",
+    "path": "PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/SPYI_GENERAL COMMENTARIES/MKHAS GRUB RJE DGE LEGS DPAL BZANG PO_KEDRUP JE GELEK PEL SANGPO (1385-1438)",
+    "download_path": "/sungbum updated 7 30 23 nl/phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/spyi_general commentaries/mkhas grub rje dge legs dpal bzang po_kedrup je gelek pel sangpo (1385-1438)/s05461m_'grel pa don gsal gyi rnam bshad rtogs dka'i snang ba_the 'illumination of the difficult,' being an explanation of the commentary known as the 'meaning clarified'_mkhas grub rje dge legs dpal bzang po (1385-1438).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABPSg",
+    "revision_id": "625a4795c323a8d294473",
     "content_hash": "5874d73b36d20fdd662c24ce105bf324b8d6c7d9057fd6f114d7c581545bd837",
-    "server_modified": "2024-03-18T21:54:23",
-    "last_sync": "2024-09-09T19:22:30.260324",
+    "server_modified": "2024-10-29 21:43:21",
+    "last_sync": "2024-11-19 20:47:46.585397",
     "size": 686014,
     "meta_text": null,
     "cat_ref": "S05461M",
@@ -19,10 +19,10 @@
     "author_simple": "MKHAS GRUB RJE DGE LEGS DPAL BZANG PO",
     "subject": [
         {
-            "_id": "199337712751",
-            "subject_path": "SUNGBUM_SUNGBUM/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/SPYI_GENERAL COMMENTARIES/MKHAS GRUB RJE DGE LEGS DPAL BZANG PO_KEDRUP JE GELEK PEL SANGPO (1385-1438)",
-            "subject_path_tibetan": "SUNGBUM/PHAR PHYIN/SPYI/MKHAS GRUB RJE DGE LEGS DPAL BZANG PO",
-            "subject_path_english": "SUNGBUM/PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/GENERAL COMMENTARIES/KEDRUP JE GELEK PEL SANGPO (1385-1438)",
+            "_id": "269604510398",
+            "subject_path": "GSUNG 'BUM_Sungbum/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/SPYI_GENERAL COMMENTARIES/MKHAS GRUB RJE DGE LEGS DPAL BZANG PO_KEDRUP JE GELEK PEL SANGPO (1385-1438)",
+            "subject_path_tibetan": "GSUNG 'BUM/PHAR PHYIN/SPYI/MKHAS GRUB RJE DGE LEGS DPAL BZANG PO",
+            "subject_path_english": "Sungbum/PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/GENERAL COMMENTARIES/KEDRUP JE GELEK PEL SANGPO (1385-1438)",
             "subject_tibetan": "MKHAS GRUB RJE DGE LEGS DPAL BZANG PO",
             "subject_english": "KEDRUP JE GELEK PEL SANGPO (1385-1438)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P55"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/spyi_general commentaries/mkhas grub rje dge legs dpal bzang po_kedrup je gelek pel sangpo (1385-1438)",
-            "timestamp": "2024-09-10T02:22:30.262271+00:00"
+            "path": "GSUNG 'BUM_Sungbum/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/SPYI_GENERAL COMMENTARIES/MKHAS GRUB RJE DGE LEGS DPAL BZANG PO_KEDRUP JE GELEK PEL SANGPO (1385-1438)",
+            "timestamp": "2024-11-20 04:47:46.590004+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T04:47:46.590004+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

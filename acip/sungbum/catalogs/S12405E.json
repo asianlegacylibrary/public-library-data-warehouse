@@ -1,14 +1,14 @@
 {
     "name": "S12405E_ MKHAS PA DANG BLUN PO BRTAG PA'I BSTAN BCOS DGE LDAN LEGS BSHAD PADMA DKAR PO'I CHUN PO_The Bouquet of White Lotus Blooms-- Eloquence from the Virtuous Ones, A Classical Commentary Examining the Difference between the Wise One and the Fool_+.TXT",
-    "path": "nyams len_personal practice/bslab bya_personal advices/pan chen bsod nams grags pa_panchen sonam drakpa (1478-1554)",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/bslab bya_personal advices/pan chen bsod nams grags pa_panchen sonam drakpa (1478-1554)/s12405e_ mkhas pa dang blun po brtag pa'i bstan bcos dge ldan legs bshad padma dkar po'i chun po_the bouquet of white lotus blooms-- eloquence from the virtuous ones, a classical commentary examining the difference between the wise one and the fool_+.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAA-w",
-    "revision_id": "613f663b87c448d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/PAn CHEN BSOD NAMS GRAGS PA_PANCHEN SONAM DRAKPA (1478-1554)",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/bslab bya_personal advices/pan chen bsod nams grags pa_panchen sonam drakpa (1478-1554)/s12405e_ mkhas pa dang blun po brtag pa'i bstan bcos dge ldan legs bshad padma dkar po'i chun po_the bouquet of white lotus blooms-- eloquence from the virtuous ones, a classical commentary examining the difference between the wise one and the fool_+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABi8g",
+    "revision_id": "625a4a9c69cd38d294473",
     "content_hash": "045d4e1a35ef87076646df327b2a53d2b3a4288013a246266c482744a8cc1610",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:02:01.908544",
+    "server_modified": "2024-10-29 21:56:53",
+    "last_sync": "2024-11-19 21:20:21.487973",
     "size": 18548,
-    "meta_text": "PAn CHEN BSOD NAMS GRAGS PA (1478-1554)",
+    "meta_text": "('PAn CHEN BSOD NAMS GRAGS PA (1478-1554)', 'rtf')",
     "cat_ref": "S12405E",
     "work_ref": "W.S12405E",
     "title_tib": "MKHAS PA DANG BLUN PO BRTAG PA'I BSTAN BCOS DGE LDAN LEGS BSHAD PADMA DKAR PO'I CHUN PO",
@@ -19,11 +19,11 @@
     "author_simple": "PAn CHEN BSOD NAMS GRAGS PA",
     "subject": [
         {
-            "_id": "294722084237",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/PAN CHEN BSOD NAMS GRAGS PA_PANCHEN SONAM DRAKPA (1478-1554)",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/BSLAB BYA/PAN CHEN BSOD NAMS GRAGS PA",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/PERSONAL ADVICES/PANCHEN SONAM DRAKPA (1478-1554)",
-            "subject_tibetan": "PAN CHEN BSOD NAMS GRAGS PA",
+            "_id": "870240263154",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/PAn CHEN BSOD NAMS GRAGS PA_PANCHEN SONAM DRAKPA (1478-1554)",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/BSLAB BYA/PAn CHEN BSOD NAMS GRAGS PA",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/PERSONAL ADVICES/PANCHEN SONAM DRAKPA (1478-1554)",
+            "subject_tibetan": "PAn CHEN BSOD NAMS GRAGS PA",
             "subject_english": "PANCHEN SONAM DRAKPA (1478-1554)"
         }
     ],
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P101"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/bslab bya_personal advices/pan chen bsod nams grags pa_panchen sonam drakpa (1478-1554)",
-            "timestamp": "2024-09-10T02:02:01.915302+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/PAn CHEN BSOD NAMS GRAGS PA_PANCHEN SONAM DRAKPA (1478-1554)",
+            "timestamp": "2024-11-20 05:20:21.493703+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:20:21.493703+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

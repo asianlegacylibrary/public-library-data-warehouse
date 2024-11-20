@@ -1,14 +1,14 @@
 {
     "name": "S06364E14_THUB DBANG GNAS BRTAN BCU DRUG GI RJES GNANG JI LTAR BYA TSUL LEGS BSHAD SNYING PO_The 'Essence of Excellent Explanation,' being a Method for Granting Permission into the Practice of the Lords of the Able, the Sixteen Elders_DNGUL CHU DHAR +.TXT",
-    "path": "rgyud_secret teachings (tantra)/gnas brtan bcu drug_sixteen elders/rjes gnang_rites of permission (anujna)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/gnas brtan bcu drug_sixteen elders/rjes gnang_rites of permission (anujna)/s06364e14_thub dbang gnas brtan bcu drug gi rjes gnang ji ltar bya tsul legs bshad snying po_the 'essence of excellent explanation,' being a method for granting permission into the practice of the lords of the able, the sixteen elders_dngul chu dhar +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAPrw",
-    "revision_id": "613f665fcd5348d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/GNAS BRTAN BCU DRUG_SIXTEEN ELDERS/RJES GNANG_RITES OF PERMISSION (ANUJNA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/gnas brtan bcu drug_sixteen elders/rjes gnang_rites of permission (anujna)/s06364e14_thub dbang gnas brtan bcu drug gi rjes gnang ji ltar bya tsul legs bshad snying po_the 'essence of excellent explanation,' being a method for granting permission into the practice of the lords of the able, the sixteen elders_dngul chu dhar +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABc4A",
+    "revision_id": "625a4986142ab8d294473",
     "content_hash": "fe5772024f77600ead9a43a6953186f9b06446d6d10b22b515c4f5af7f0370fd",
-    "server_modified": "2024-03-18T21:54:14",
-    "last_sync": "2024-09-09T19:17:08.761527",
+    "server_modified": "2024-10-29 21:52:01",
+    "last_sync": "2024-11-19 21:09:50.486047",
     "size": 13219,
-    "meta_text": "MA BHADRA (1772-1851)",
+    "meta_text": "('MA BHADRA (1772-1851)', 'rtf')",
     "cat_ref": "S06364E14",
     "work_ref": "W.S06364E14",
     "title_tib": "THUB DBANG GNAS BRTAN BCU DRUG GI RJES GNANG JI LTAR BYA TSUL LEGS BSHAD SNYING PO",
@@ -19,10 +19,10 @@
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "312764852282",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/GNAS BRTAN BCU DRUG_SIXTEEN ELDERS/RJES GNANG_RITES OF PERMISSION (ANUJNA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/GNAS BRTAN BCU DRUG/RJES GNANG",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/SIXTEEN ELDERS/RITES OF PERMISSION (ANUJNA)",
+            "_id": "274625608259",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GNAS BRTAN BCU DRUG_SIXTEEN ELDERS/RJES GNANG_RITES OF PERMISSION (ANUJNA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/GNAS BRTAN BCU DRUG/RJES GNANG",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/SIXTEEN ELDERS/RITES OF PERMISSION (ANUJNA)",
             "subject_tibetan": "RJES GNANG",
             "subject_english": "RITES OF PERMISSION (ANUJNA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/gnas brtan bcu drug_sixteen elders/rjes gnang_rites of permission (anujna)",
-            "timestamp": "2024-09-10T02:17:08.763752+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GNAS BRTAN BCU DRUG_SIXTEEN ELDERS/RJES GNANG_RITES OF PERMISSION (ANUJNA)",
+            "timestamp": "2024-11-20 05:09:50.491641+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:09:50.491641+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,14 +1,14 @@
 {
     "name": "S12153E_DPAL RDO RJE 'JIGS BYED DPA' BO GCIG PA'I BSNYEN YIG MDOR BSDUS_Brief Instructions for Performing a Retreat in the Secret Teachings of the Glorious Diamond Lord of Terror (Vajra Bhairava), in His Form as a Solitary Warrior_CHA HAR DGE BSHES +.TXT",
-    "path": "nyams len_personal practice/spyi_general treatments/cha har dge bshes blo bzang tsul khrims_chahar geshe lobsang tsultrim (1740-1810)",
-    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/spyi_general treatments/cha har dge bshes blo bzang tsul khrims_chahar geshe lobsang tsultrim (1740-1810)/s12153e_dpal rdo rje 'jigs byed dpa' bo gcig pa'i bsnyen yig mdor bsdus_brief instructions for performing a retreat in the secret teachings of the glorious diamond lord of terror (vajra bhairava), in his form as a solitary warrior_cha har dge bshes +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAAgw",
-    "revision_id": "613f663b87bcc8d294473",
+    "path": "NYAMS LEN_PERSONAL PRACTICE/SPYI_GENERAL TREATMENTS/CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS_CHAHAR GESHE LOBSANG TSULTRIM (1740-1810)",
+    "download_path": "/sungbum updated 7 30 23 nl/nyams len_personal practice/spyi_general treatments/cha har dge bshes blo bzang tsul khrims_chahar geshe lobsang tsultrim (1740-1810)/s12153e_dpal rdo rje 'jigs byed dpa' bo gcig pa'i bsnyen yig mdor bsdus_brief instructions for performing a retreat in the secret teachings of the glorious diamond lord of terror (vajra bhairava), in his form as a solitary warrior_cha har dge bshes +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABkHQ",
+    "revision_id": "625a4ac479bfb8d294473",
     "content_hash": "955804c30f2dbd94b883eabe2170f558baf0987be08743b0f7a7f85b7d7dd9b4",
-    "server_modified": "2024-03-18T21:53:36",
-    "last_sync": "2024-09-09T19:01:32.396139",
+    "server_modified": "2024-10-29 21:57:35",
+    "last_sync": "2024-11-19 21:22:45.111639",
     "size": 1566,
-    "meta_text": "BLO BZANG TSUL KHRIMS (1740-1810)",
+    "meta_text": "('BLO BZANG TSUL KHRIMS (1740-1810)', 'rtf')",
     "cat_ref": "S12153E",
     "work_ref": "W.S12153E",
     "title_tib": "DPAL RDO RJE 'JIGS BYED DPA' BO GCIG PA'I BSNYEN YIG MDOR BSDUS",
@@ -19,10 +19,10 @@
     "author_simple": "CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS",
     "subject": [
         {
-            "_id": "205311640745",
-            "subject_path": "SUNGBUM_SUNGBUM/NYAMS LEN_PERSONAL PRACTICE/SPYI_GENERAL TREATMENTS/CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS_CHAHAR GESHE LOBSANG TSULTRIM (1740-1810)",
-            "subject_path_tibetan": "SUNGBUM/NYAMS LEN/SPYI/CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS",
-            "subject_path_english": "SUNGBUM/PERSONAL PRACTICE/GENERAL TREATMENTS/CHAHAR GESHE LOBSANG TSULTRIM (1740-1810)",
+            "_id": "210234857852",
+            "subject_path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SPYI_GENERAL TREATMENTS/CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS_CHAHAR GESHE LOBSANG TSULTRIM (1740-1810)",
+            "subject_path_tibetan": "GSUNG 'BUM/NYAMS LEN/SPYI/CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS",
+            "subject_path_english": "Sungbum/PERSONAL PRACTICE/GENERAL TREATMENTS/CHAHAR GESHE LOBSANG TSULTRIM (1740-1810)",
             "subject_tibetan": "CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS",
             "subject_english": "CHAHAR GESHE LOBSANG TSULTRIM (1740-1810)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P4797"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "nyams len_personal practice/spyi_general treatments/cha har dge bshes blo bzang tsul khrims_chahar geshe lobsang tsultrim (1740-1810)",
-            "timestamp": "2024-09-10T02:01:32.407167+00:00"
+            "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SPYI_GENERAL TREATMENTS/CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS_CHAHAR GESHE LOBSANG TSULTRIM (1740-1810)",
+            "timestamp": "2024-11-20 05:22:45.119687+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:22:45.119687+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

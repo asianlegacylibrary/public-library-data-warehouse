@@ -1,28 +1,28 @@
 {
     "name": "S06372E_'JIGS BYED BCU GSUM MA'I DKYIL 'KHOR GYI THIG TSA MAN NGAG LUGS SOGS THIG TSA RNAMS PHYOGS GCIG TU BSGRIGS PA_A Compilation of Works on the Drawing of Mandalas, such as the Text of Instruction on Drawing the Mandala for the Thirteen Angels i +.TXT",
-    "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/dkyil 'khor_secret world (mandala)",
-    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/dkyil 'khor_secret world (mandala)/s06372e_'jigs byed bcu gsum ma'i dkyil 'khor gyi thig tsa man ngag lugs sogs thig tsa rnams phyogs gcig tu bsgrigs pa_a compilation of works on the drawing of mandalas, such as the text of instruction on drawing the mandala for the thirteen angels i +.txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAMHg",
-    "revision_id": "613f6656decef8d294473",
+    "path": "RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/DKYIL 'KHOR_SECRET WORLD (MANDALA)",
+    "download_path": "/sungbum updated 7 30 23 nl/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/dkyil 'khor_secret world (mandala)/s06372e_'jigs byed bcu gsum ma'i dkyil 'khor gyi thig tsa man ngag lugs sogs thig tsa rnams phyogs gcig tu bsgrigs pa_a compilation of works on the drawing of mandalas, such as the text of instruction on drawing the mandala for the thirteen angels i +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABd0A",
+    "revision_id": "625a49a669afe8d294473",
     "content_hash": "f846fa83e891b98b606ff58dd724c1c13e5772024485574268e036baa39d7fa9",
-    "server_modified": "2024-03-18T21:54:04",
-    "last_sync": "2024-09-09T19:13:17.840352",
+    "server_modified": "2024-10-29 21:52:35",
+    "last_sync": "2024-11-19 21:11:22.061545",
     "size": 11926,
-    "meta_text": "n the Practice of the Frightener (Bhairava)_DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "meta_text": "('n the Practice of the Frightener (Bhairava)_DNGUL CHU DHARMA BHADRA (1772-1851)', 'rtf')",
     "cat_ref": "S06372E",
     "work_ref": "W.S06372E",
     "title_tib": "'JIGS BYED BCU GSUM MA'I DKYIL 'KHOR GYI THIG TSA MAN NGAG LUGS SOGS THIG TSA RNAMS PHYOGS GCIG TU BSGRIGS PA",
-    "title_eng": "A Compilation of Works on the Drawing of Mandalas, such as the Text of Instruction on Drawing the Mandala for the Thirteen Angels in the Practice of the Frightener (Bhairava)",
+    "title_eng": "A Compilation of Works on the Drawing of Mandalas, such as the Text of Instruction on Drawing the Mandala for the Thirteen Angels i('n the Practice of the Frightener (Bhairava)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
     "author_simple": "DNGUL CHU DHARMA BHADRA",
     "subject": [
         {
-            "_id": "221153589888",
-            "subject_path": "SUNGBUM_SUNGBUM/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/DKYIL 'KHOR_SECRET WORLD (MANDALA)",
-            "subject_path_tibetan": "SUNGBUM/RGYUD/'JIGS BYED/DKYIL 'KHOR",
-            "subject_path_english": "SUNGBUM/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/SECRET WORLD (MANDALA)",
+            "_id": "142147712964",
+            "subject_path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/DKYIL 'KHOR_SECRET WORLD (MANDALA)",
+            "subject_path_tibetan": "GSUNG 'BUM/RGYUD/'JIGS BYED/DKYIL 'KHOR",
+            "subject_path_english": "Sungbum/SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/SECRET WORLD (MANDALA)",
             "subject_tibetan": "DKYIL 'KHOR",
             "subject_english": "SECRET WORLD (MANDALA)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/dkyil 'khor_secret world (mandala)",
-            "timestamp": "2024-09-10T02:13:17.850509+00:00"
+            "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/DKYIL 'KHOR_SECRET WORLD (MANDALA)",
+            "timestamp": "2024-11-20 05:11:22.074348+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:11:22.074348+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

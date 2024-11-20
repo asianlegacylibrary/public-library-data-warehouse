@@ -1,12 +1,12 @@
 {
     "name": "S06559E_RIN PO CHE BRTAG THABS MDOR BSDUS_Brief Instructions on the Evaluation of Gems_KLONG RDOL BLA MA NGAG DBANG BLO BZANG (1719-1794).TXT",
-    "path": "phran tsegs_miscellaneous/rin po che brtag thabs_the evaluation and medicinal properties of gemstones",
-    "download_path": "/sungbum updated 4 26 23 bk/phran tsegs_miscellaneous/rin po che brtag thabs_the evaluation and medicinal properties of gemstones/s06559e_rin po che brtag thabs mdor bsdus_brief instructions on the evaluation of gems_klong rdol bla ma ngag dbang blo bzang (1719-1794).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAGEA",
-    "revision_id": "613f66492f07a8d294473",
+    "path": "PHRAN TSEGS_MISCELLANEOUS/RIN PO CHE BRTAG THABS_THE EVALUATION AND MEDICINAL PROPERTIES OF GEMSTONES",
+    "download_path": "/sungbum updated 7 30 23 nl/phran tsegs_miscellaneous/rin po che brtag thabs_the evaluation and medicinal properties of gemstones/s06559e_rin po che brtag thabs mdor bsdus_brief instructions on the evaluation of gems_klong rdol bla ma ngag dbang blo bzang (1719-1794).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABiBA",
+    "revision_id": "625a4a7951c6d8d294473",
     "content_hash": "c9298bc2b65cd2784ac31600a79c27a7b1c1c385712da8548937fb4ae4ad31cf",
-    "server_modified": "2024-03-18T21:53:50",
-    "last_sync": "2024-09-09T19:07:12.299151",
+    "server_modified": "2024-10-29 21:56:16",
+    "last_sync": "2024-11-19 21:18:54.443324",
     "size": 6540,
     "meta_text": null,
     "cat_ref": "S06559E",
@@ -19,10 +19,10 @@
     "author_simple": "KLONG RDOL BLA MA NGAG DBANG BLO BZANG",
     "subject": [
         {
-            "_id": "989758722956",
-            "subject_path": "SUNGBUM_SUNGBUM/PHRAN TSEGS_MISCELLANEOUS/RIN PO CHE BRTAG THABS_THE EVALUATION AND MEDICINAL PROPERTIES OF GEMSTONES",
-            "subject_path_tibetan": "SUNGBUM/PHRAN TSEGS/RIN PO CHE BRTAG THABS",
-            "subject_path_english": "SUNGBUM/MISCELLANEOUS/THE EVALUATION AND MEDICINAL PROPERTIES OF GEMSTONES",
+            "_id": "131785610041",
+            "subject_path": "GSUNG 'BUM_Sungbum/PHRAN TSEGS_MISCELLANEOUS/RIN PO CHE BRTAG THABS_THE EVALUATION AND MEDICINAL PROPERTIES OF GEMSTONES",
+            "subject_path_tibetan": "GSUNG 'BUM/PHRAN TSEGS/RIN PO CHE BRTAG THABS",
+            "subject_path_english": "Sungbum/MISCELLANEOUS/THE EVALUATION AND MEDICINAL PROPERTIES OF GEMSTONES",
             "subject_tibetan": "RIN PO CHE BRTAG THABS",
             "subject_english": "THE EVALUATION AND MEDICINAL PROPERTIES OF GEMSTONES"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P22"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "phran tsegs_miscellaneous/rin po che brtag thabs_the evaluation and medicinal properties of gemstones",
-            "timestamp": "2024-09-10T02:07:12.304874+00:00"
+            "path": "GSUNG 'BUM_Sungbum/PHRAN TSEGS_MISCELLANEOUS/RIN PO CHE BRTAG THABS_THE EVALUATION AND MEDICINAL PROPERTIES OF GEMSTONES",
+            "timestamp": "2024-11-20 05:18:54.447140+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:18:54.447140+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }

@@ -1,12 +1,12 @@
 {
     "name": "S05435E_MNGON PA KUN LAS BTUS PA'I RNAM BSHAD LEGS PAR BSHAD PA'I CHOS MNGON RGYA MTSO'I SNYING PO_@_RGYAL TSAB DAR MA RIN CHEN (1364-1432).TXT",
-    "path": "mngon pa_higher knowledge (abhidharma) (vaibhashika school)/rgyal tsab dar ma rin chen_gyaltsab darma rinchen (1364-1432)",
-    "download_path": "/sungbum updated 4 26 23 bk/mngon pa_higher knowledge (abhidharma) (vaibhashika school)/rgyal tsab dar ma rin chen_gyaltsab darma rinchen (1364-1432)/s05435e_mngon pa kun las btus pa'i rnam bshad legs par bshad pa'i chos mngon rgya mtso'i snying po_@_rgyal tsab dar ma rin chen (1364-1432).txt",
-    "file_id": "id:Ct2f7NF5r8EAAAAAAAAXLQ",
-    "revision_id": "613f666d20a498d294473",
+    "path": "MNGON PA_HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)/RGYAL TSAB DAR MA RIN CHEN_GYALTSAB DARMA RINCHEN (1364-1432)",
+    "download_path": "/sungbum updated 7 30 23 nl/mngon pa_higher knowledge (abhidharma) (vaibhashika school)/rgyal tsab dar ma rin chen_gyaltsab darma rinchen (1364-1432)/s05435e_mngon pa kun las btus pa'i rnam bshad legs par bshad pa'i chos mngon rgya mtso'i snying po_@_rgyal tsab dar ma rin chen (1364-1432).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAABmFg",
+    "revision_id": "625a4b07d1e018d294473",
     "content_hash": "7bb25faa578b49f8f92b13111f29ebd646f66550d98c06398b96a609fe46c500",
-    "server_modified": "2024-03-18T21:54:28",
-    "last_sync": "2024-09-09T19:24:30.947711",
+    "server_modified": "2024-10-29 21:58:46",
+    "last_sync": "2024-11-19 21:26:32.172927",
     "size": 615962,
     "meta_text": null,
     "cat_ref": "S05435E",
@@ -19,10 +19,10 @@
     "author_simple": "RGYAL TSAB DAR MA RIN CHEN",
     "subject": [
         {
-            "_id": "131718517954",
-            "subject_path": "SUNGBUM_SUNGBUM/MNGON PA_HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)/RGYAL TSAB DAR MA RIN CHEN_GYALTSAB DARMA RINCHEN (1364-1432)",
-            "subject_path_tibetan": "SUNGBUM/MNGON PA/RGYAL TSAB DAR MA RIN CHEN",
-            "subject_path_english": "SUNGBUM/HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)/GYALTSAB DARMA RINCHEN (1364-1432)",
+            "_id": "225671928674",
+            "subject_path": "GSUNG 'BUM_Sungbum/MNGON PA_HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)/RGYAL TSAB DAR MA RIN CHEN_GYALTSAB DARMA RINCHEN (1364-1432)",
+            "subject_path_tibetan": "GSUNG 'BUM/MNGON PA/RGYAL TSAB DAR MA RIN CHEN",
+            "subject_path_english": "Sungbum/HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)/GYALTSAB DARMA RINCHEN (1364-1432)",
             "subject_tibetan": "RGYAL TSAB DAR MA RIN CHEN",
             "subject_english": "GYALTSAB DARMA RINCHEN (1364-1432)"
         }
@@ -38,11 +38,19 @@
             "bdrc_url": "http://purl.bdrc.io/resource/P65"
         }
     ],
-    "updated": true,
     "path_history": [
         {
-            "path": "mngon pa_higher knowledge (abhidharma) (vaibhashika school)/rgyal tsab dar ma rin chen_gyaltsab darma rinchen (1364-1432)",
-            "timestamp": "2024-09-10T02:24:30.952001+00:00"
+            "path": "GSUNG 'BUM_Sungbum/MNGON PA_HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)/RGYAL TSAB DAR MA RIN CHEN_GYALTSAB DARMA RINCHEN (1364-1432)",
+            "timestamp": "2024-11-20 05:26:32.181059+00:00"
         }
-    ]
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T05:26:32.181059+00:00",
+            "run_id": 1024,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
 }
