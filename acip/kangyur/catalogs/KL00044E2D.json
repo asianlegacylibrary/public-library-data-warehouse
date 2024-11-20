@@ -1,45 +1,53 @@
 {
     "name": "KL00044E2D_RAB MTSE MA'I GNAS SU BYANG CHUB SEMS DPA' 'DUS PAS TSIGS SU BCAD PA BSTAN PA'I LE'U_The Section which Describes the Verses from the Gathering of the Bodhisattvas at the Place where Suyama was Staying.txt",
-    "path": "BKA' 'GYUR_Kangyur/9. PHAL CHEN_The Majority (Avataṃsaka)/VOL 2 (KHA)",
+    "path": "9. PHAL CHEN_The Majority (Avataṃsaka)/VOL 2 (KHA)",
     "download_path": "/kangyur updated to 11 15 23 ws/9. phal chen_the majority (avataṃsaka)/vol 2 (kha)/kl00044e2d_rab mtse ma'i gnas su byang chub sems dpa' 'dus pas tsigs su bcad pa bstan pa'i le'u_the section which describes the verses from the gathering of the bodhisattvas at the place where suyama was staying.txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACJLQ",
     "revision_id": "62658b2b2946b8d294473",
     "content_hash": "b14628ba322c659cc9ca88545e9ade6cdf19e6cddd6ab02f26ae77115f9709da",
     "server_modified": "2024-11-07 20:44:17",
-    "last_sync": "2024-11-13 22:50:14.089141+00:00",
+    "last_sync": "2024-11-19 19:45:45.776005",
     "size": 18622,
+    "meta_text": null,
     "cat_ref": "KL00044E2D",
     "work_ref": "W.KL00044E2D",
     "title_tib": "RAB MTSE MA'I GNAS SU BYANG CHUB SEMS DPA' 'DUS PAS TSIGS SU BCAD PA BSTAN PA'I LE'U",
     "title_eng": "The Section which Describes the Verses from the Gathering of the Bodhisattvas at the Place where Suyama was Staying",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "134740372426",
             "subject_path": "BKA' 'GYUR_Kangyur/9. PHAL CHEN_The Majority (Avataṃsaka)/VOL 2 (KHA)",
-            "subject_path_tibetan": "BKA' 'GYUR/PHAL CHEN/2 (KHA)",
-            "subject_path_english": "Kangyur/The Majority/VOL 2 (KHA)",
-            "subject_tibetan": "2 (KHA)",
-            "subject_english": "VOL 2 (KHA)"
+            "subject_path_tibetan": "BKA' 'GYUR/9. PHAL CHEN/VOL 2 (KHA)",
+            "subject_path_english": "Kangyur/The Majority (Avataṃsaka)",
+            "subject_tibetan": "VOL 2 (KHA)",
+            "subject_english": "The Majority (Avataṃsaka)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/9. PHAL CHEN_The Majority (Avataṃsaka)/VOL 2 (KHA)",
+            "timestamp": "2024-11-20 03:45:46.448922+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:50:14.690317+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:45:46.448922+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/9. PHAL CHEN_The Majority (Avataṃsaka)/VOL 2 (KHA)",
-            "timestamp": "2024-11-13 22:50:14.690317+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

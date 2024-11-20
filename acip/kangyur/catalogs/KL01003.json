@@ -1,46 +1,53 @@
 {
     "name": "KL01003_'PHAGS PA RIG SNGAGS KYI RGYAL MO CHEN MO RGYAL BA CAN ZHES BYA BA (Ārya Jayavatī Nāma Mahā Vidyā Rājñī).txt",
-    "path": "BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 12 (NA)",
+    "path": "12. RGYUD_Secret Teachings (Tantra)/VOL 12 (NA)",
     "download_path": "/kangyur updated to 11 15 23 ws/12. rgyud_secret teachings (tantra)/vol 12 (na)/kl01003_'phags pa rig sngags kyi rgyal mo chen mo rgyal ba can zhes bya ba (ārya jayavatī nāma mahā vidyā rājñī).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACGtQ",
     "revision_id": "62658a83d06948d294473",
     "content_hash": "3e6204af21e3aadd749fb33805c56ca32f388f7a8750f8949537d2bbf15ba457",
     "server_modified": "2024-11-07 20:41:21",
-    "last_sync": "2024-11-13 22:48:42.591967+00:00",
+    "last_sync": "2024-11-19 19:44:07.858314",
     "size": 22467,
+    "meta_text": null,
     "cat_ref": "KL01003",
     "work_ref": "W.KL01003",
-    "title_tib": "'PHAGS PA RIG SNGAGS KYI RGYAL MO CHEN MO RGYAL BA CAN ZHES BYA BA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "278079290174",
             "subject_path": "BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 12 (NA)",
-            "subject_path_tibetan": "BKA' 'GYUR/RGYUD/12 (NA)",
-            "subject_path_english": "Kangyur/Secret Teachings/VOL 12 (NA)",
-            "subject_tibetan": "12 (NA)",
-            "subject_english": "VOL 12 (NA)"
+            "subject_path_tibetan": "BKA' 'GYUR/12. RGYUD/VOL 12 (NA)",
+            "subject_path_english": "Kangyur/Secret Teachings (Tantra)",
+            "subject_tibetan": "VOL 12 (NA)",
+            "subject_english": "Secret Teachings (Tantra)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
-    "title_skt": "Ārya Jayavatī Nāma Mahā Vidyā Rājñī",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 12 (NA)",
+            "timestamp": "2024-11-20 03:44:07.868790+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:48:42.598261+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:44:07.868790+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 12 (NA)",
-            "timestamp": "2024-11-13 22:48:42.598261+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

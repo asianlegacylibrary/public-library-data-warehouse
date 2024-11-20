@@ -1,46 +1,53 @@
 {
     "name": "KL00445_RNAL 'BYOR CHEN PO'I RGYUD DPAL RDO RJE PHRENG BA MNGON PAR BRJOD PA RGYUD THAMS CAD KYI SNYING PO GSANG PA RNAM PAR PHYE BA ZHES BYA BA  (Śrī Vajra Māla Abhidhana Mahāyoga Tantra Sarva Tantra Hṛdaya Rahasya Vibhaṃga Nāma).txt",
-    "path": "BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 5 (CA)",
+    "path": "12. RGYUD_Secret Teachings (Tantra)/VOL 5 (CA)",
     "download_path": "/kangyur updated to 11 15 23 ws/12. rgyud_secret teachings (tantra)/vol 5 (ca)/kl00445_rnal 'byor chen po'i rgyud dpal rdo rje phreng ba mngon par brjod pa rgyud thams cad kyi snying po gsang pa rnam par phye ba zhes bya ba  (śrī vajra māla abhidhana mahāyoga tantra sarva tantra hṛdaya rahasya vibhaṃga nāma).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACFNg",
     "revision_id": "62658a3e07a9e8d294473",
     "content_hash": "30329311f4b750e72f5a0b097b67bde7575b30990223b92e4089b2473a86e26d",
     "server_modified": "2024-11-07 20:40:08",
-    "last_sync": "2024-11-13 22:48:25.282481+00:00",
+    "last_sync": "2024-11-19 19:43:50.826027",
     "size": 257835,
+    "meta_text": null,
     "cat_ref": "KL00445",
     "work_ref": "W.KL00445",
-    "title_tib": "RNAL 'BYOR CHEN PO'I RGYUD DPAL RDO RJE PHRENG BA MNGON PAR BRJOD PA RGYUD THAMS CAD KYI SNYING PO GSANG PA RNAM PAR PHYE BA ZHES BYA BA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "266068823474",
             "subject_path": "BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 5 (CA)",
-            "subject_path_tibetan": "BKA' 'GYUR/RGYUD/5 (CA)",
-            "subject_path_english": "Kangyur/Secret Teachings/VOL 5 (CA)",
-            "subject_tibetan": "5 (CA)",
-            "subject_english": "VOL 5 (CA)"
+            "subject_path_tibetan": "BKA' 'GYUR/12. RGYUD/VOL 5 (CA)",
+            "subject_path_english": "Kangyur/Secret Teachings (Tantra)",
+            "subject_tibetan": "VOL 5 (CA)",
+            "subject_english": "Secret Teachings (Tantra)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
-    "title_skt": "Śrī Vajra Māla Abhidhana Mahāyoga Tantra Sarva Tantra Hṛdaya Rahasya Vibhaṃga Nāma",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 5 (CA)",
+            "timestamp": "2024-11-20 03:43:50.836718+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:48:25.284537+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:43:50.836718+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 5 (CA)",
-            "timestamp": "2024-11-13 22:48:25.284537+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

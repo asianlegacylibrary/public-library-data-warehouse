@@ -1,45 +1,53 @@
 {
     "name": "KL00133E_'PHAGS PA DA LTAR GYI SANGS RGYAS MNGON SUM DU BZHUGS PA'I TING NGE 'DZIN CES BYA BA THEG PA CHEN PO'I MDO_An Exalted Sutra of the Greater Way entitled The Meditation of the Buddha Who is Directly Present Now +.txt",
-    "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 10 (THA)",
+    "path": "10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 10 (THA)",
     "download_path": "/kangyur updated to 11 15 23 ws/10. mdo mang_collection of sutras (sūtra)$$/vol 10 (tha)/kl00133e_'phags pa da ltar gyi sangs rgyas mngon sum du bzhugs pa'i ting nge 'dzin ces bya ba theg pa chen po'i mdo_an exalted sutra of the greater way entitled the meditation of the buddha who is directly present now +.txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACHWQ",
     "revision_id": "62658ab1b7b428d294473",
     "content_hash": "4d5e7f5bb982ade38b8e36dec38770f6bf74651b57ab6ab73b529a2f620ab057",
     "server_modified": "2024-11-07 20:42:09",
-    "last_sync": "2024-11-13 22:49:05.522859+00:00",
+    "last_sync": "2024-11-19 19:44:33.157144",
     "size": 268969,
+    "meta_text": null,
     "cat_ref": "KL00133E",
     "work_ref": "W.KL00133E",
     "title_tib": "'PHAGS PA DA LTAR GYI SANGS RGYAS MNGON SUM DU BZHUGS PA'I TING NGE 'DZIN CES BYA BA THEG PA CHEN PO'I MDO",
     "title_eng": "An Exalted Sutra of the Greater Way entitled The Meditation of the Buddha Who is Directly Present Now",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "241961083642",
             "subject_path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 10 (THA)",
-            "subject_path_tibetan": "BKA' 'GYUR/MDO MANG/10 (THA)",
-            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$/VOL 10 (THA)",
-            "subject_tibetan": "10 (THA)",
-            "subject_english": "VOL 10 (THA)"
+            "subject_path_tibetan": "BKA' 'GYUR/10. MDO MANG/VOL 10 (THA)",
+            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$",
+            "subject_tibetan": "VOL 10 (THA)",
+            "subject_english": "Collection of Sutras (Sūtra)$$"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 10 (THA)",
+            "timestamp": "2024-11-20 03:44:33.835740+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:49:06.160406+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:44:33.835740+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 10 (THA)",
-            "timestamp": "2024-11-13 22:49:06.160406+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

@@ -1,46 +1,53 @@
 {
     "name": "KL00126E_'PHAGS PA GSER GYI BYE MA LTA BU ZHES BYA BA THEG PA CHEN PO'I MDO_An Exalted Sutra of the Greater Way entitled \"Rare as Grains of Gold\" (Ārya Suvarṇa Bālukopamā Nāma Mahāyāna Sūtra).txt",
-    "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 8 (NYA)",
+    "path": "10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 8 (NYA)",
     "download_path": "/kangyur updated to 11 15 23 ws/10. mdo mang_collection of sutras (sūtra)$$/vol 8 (nya)/kl00126e_'phags pa gser gyi bye ma lta bu zhes bya ba theg pa chen po'i mdo_an exalted sutra of the greater way entitled \"rare as grains of gold\" (ārya suvarṇa bālukopamā nāma mahāyāna sūtra).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACINw",
     "revision_id": "62658adf1450d8d294473",
     "content_hash": "baacb6dc08d02c1040dc8d875f04624d2c8148a5887ed7e054454392b76be8b9",
     "server_modified": "2024-11-07 20:42:57",
-    "last_sync": "2024-11-13 22:49:35.686712+00:00",
+    "last_sync": "2024-11-19 19:45:02.665943",
     "size": 11159,
+    "meta_text": null,
     "cat_ref": "KL00126E",
     "work_ref": "W.KL00126E",
     "title_tib": "'PHAGS PA GSER GYI BYE MA LTA BU ZHES BYA BA THEG PA CHEN PO'I MDO",
-    "title_eng": "An Exalted Sutra of the Greater Way entitled \"Rare as Grains of Gold\"",
+    "title_eng": "An Exalted Sutra of the Greater Way entitled \"Rare as Grains of Gold\" (Ārya Suvarṇa Bālukopamā Nāma Mahāyāna Sūtra)",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "232549162257",
             "subject_path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 8 (NYA)",
-            "subject_path_tibetan": "BKA' 'GYUR/MDO MANG/8 (NYA)",
-            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$/VOL 8 (NYA)",
-            "subject_tibetan": "8 (NYA)",
-            "subject_english": "VOL 8 (NYA)"
+            "subject_path_tibetan": "BKA' 'GYUR/10. MDO MANG/VOL 8 (NYA)",
+            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$",
+            "subject_tibetan": "VOL 8 (NYA)",
+            "subject_english": "Collection of Sutras (Sūtra)$$"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
-    "title_skt": "Ārya Suvarṇa Bālukopamā Nāma Mahāyāna Sūtra",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 8 (NYA)",
+            "timestamp": "2024-11-20 03:45:02.674681+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:49:35.688079+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:45:02.674681+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 8 (NYA)",
-            "timestamp": "2024-11-13 22:49:35.688079+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

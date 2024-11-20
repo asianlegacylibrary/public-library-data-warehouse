@@ -1,46 +1,53 @@
 {
     "name": "KL00044E5_'PHAGS PA SANGS RGYAS PHAL PO CHE ZHES BYA BA SHIN TU RGYAS PA CHEN PO'I MDO_A Great and Exalted Sutra of the Greater Way, the Majority of the Enlightened One, in Extensive Detail, Part Five (Ārya Buddha Avataṃsaka Nāma Mahāvaipulya +.txt",
-    "path": "BKA' 'GYUR_Kangyur/9. PHAL CHEN_The Majority (Avataṃsaka)/VOL 5 (CA)",
+    "path": "9. PHAL CHEN_The Majority (Avataṃsaka)/VOL 5 (CA)",
     "download_path": "/kangyur updated to 11 15 23 ws/9. phal chen_the majority (avataṃsaka)/vol 5 (ca)/kl00044e5_'phags pa sangs rgyas phal po che zhes bya ba shin tu rgyas pa chen po'i mdo_a great and exalted sutra of the greater way, the majority of the enlightened one, in extensive detail, part five (ārya buddha avataṃsaka nāma mahāvaipulya +.txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACJBw",
     "revision_id": "62658b230303d8d294473",
     "content_hash": "65048c9f27b0d2fcf5d90b9471f431159ef06c55c4320766750961fec0e97059",
     "server_modified": "2024-11-07 20:44:08",
-    "last_sync": "2024-11-13 22:50:07.963912+00:00",
+    "last_sync": "2024-11-19 19:45:39.831071",
     "size": 968842,
+    "meta_text": "('SÅ«tra 5)', 'text')",
     "cat_ref": "KL00044E5",
     "work_ref": "W.KL00044E5",
     "title_tib": "'PHAGS PA SANGS RGYAS PHAL PO CHE ZHES BYA BA SHIN TU RGYAS PA CHEN PO'I MDO",
-    "title_eng": "A Great and Exalted Sutra of the Greater Way, the Majority of the Enlightened One, in Extensive Detail, Part Five (Ārya Buddha Avataṃsaka Nāma Mahāvaipulya",
+    "title_eng": "A Great and Exalted Sutra of the Greater Way, the Majority of the Enlightened One, in Extensive Detail, Part Five (Ārya Buddha Avataṃsaka Nāma Mahāvaipulya('SÅ«tra 5)', 'text')",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "290249344661",
             "subject_path": "BKA' 'GYUR_Kangyur/9. PHAL CHEN_The Majority (Avataṃsaka)/VOL 5 (CA)",
-            "subject_path_tibetan": "BKA' 'GYUR/PHAL CHEN/5 (CA)",
-            "subject_path_english": "Kangyur/The Majority/VOL 5 (CA)",
-            "subject_tibetan": "5 (CA)",
-            "subject_english": "VOL 5 (CA)"
+            "subject_path_tibetan": "BKA' 'GYUR/9. PHAL CHEN/VOL 5 (CA)",
+            "subject_path_english": "Kangyur/The Majority (Avataṃsaka)",
+            "subject_tibetan": "VOL 5 (CA)",
+            "subject_english": "The Majority (Avataṃsaka)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/9. PHAL CHEN_The Majority (Avataṃsaka)/VOL 5 (CA)",
+            "timestamp": "2024-11-20 03:45:39.838895+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:50:07.964986+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:45:39.838895+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "meta_text": "Sūtra 5)",
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/9. PHAL CHEN_The Majority (Avataṃsaka)/VOL 5 (CA)",
-            "timestamp": "2024-11-13 22:50:07.964986+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

@@ -1,46 +1,53 @@
 {
     "name": "KL00363-2_DPAL DUS KYI 'KHOR LO BSDUS PA'I RGYUD KYI RGYAL PO'I SNYING PO ZHES BYA BA (Śri Kālacakra Laghu Tantra Rāja Hṛdaya Nāma).txt",
-    "path": "BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 1 (KA)",
+    "path": "12. RGYUD_Secret Teachings (Tantra)/VOL 1 (KA)",
     "download_path": "/kangyur updated to 11 15 23 ws/12. rgyud_secret teachings (tantra)/vol 1 (ka)/kl00363-2_dpal dus kyi 'khor lo bsdus pa'i rgyud kyi rgyal po'i snying po zhes bya ba (śri kālacakra laghu tantra rāja hṛdaya nāma).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACFTw",
     "revision_id": "62658a43db7578d294473",
     "content_hash": "7090685e1c630dc43e4cbe116278993c3973e08debf99a3bb38b3c627092210b",
     "server_modified": "2024-11-07 20:40:14",
-    "last_sync": "2024-11-13 22:48:27.340843+00:00",
+    "last_sync": "2024-11-19 19:43:54.543201",
     "size": 74241,
+    "meta_text": null,
     "cat_ref": "KL00363-2",
     "work_ref": "W.KL00363-2",
-    "title_tib": "DPAL DUS KYI 'KHOR LO BSDUS PA'I RGYUD KYI RGYAL PO'I SNYING PO ZHES BYA BA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "161583865727",
             "subject_path": "BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 1 (KA)",
-            "subject_path_tibetan": "BKA' 'GYUR/RGYUD/1 (KA)",
-            "subject_path_english": "Kangyur/Secret Teachings/VOL 1 (KA)",
-            "subject_tibetan": "1 (KA)",
-            "subject_english": "VOL 1 (KA)"
+            "subject_path_tibetan": "BKA' 'GYUR/12. RGYUD/VOL 1 (KA)",
+            "subject_path_english": "Kangyur/Secret Teachings (Tantra)",
+            "subject_tibetan": "VOL 1 (KA)",
+            "subject_english": "Secret Teachings (Tantra)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
-    "title_skt": "Śri Kālacakra Laghu Tantra Rāja Hṛdaya Nāma",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 1 (KA)",
+            "timestamp": "2024-11-20 03:43:54.553907+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:48:27.342548+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:43:54.553907+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 1 (KA)",
-            "timestamp": "2024-11-13 22:48:27.342548+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

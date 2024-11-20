@@ -1,46 +1,53 @@
 {
     "name": "KL00344_'PHAGS PA SANGS RGYAS KYI RTOGS PA BRJOD PA SHES LDAN GYI MDO_The Exalted Sutra of Jnanaka, a Story of Enlightenment (Ārya Jñānaka Sūtra Buddha Avadāna).txt",
-    "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 29 (HA)",
+    "path": "10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 29 (HA)",
     "download_path": "/kangyur updated to 11 15 23 ws/10. mdo mang_collection of sutras (sūtra)$$/vol 29 (ha)/kl00344_'phags pa sangs rgyas kyi rtogs pa brjod pa shes ldan gyi mdo_the exalted sutra of jnanaka, a story of enlightenment (ārya jñānaka sūtra buddha avadāna).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACHnA",
     "revision_id": "62658ac12e3408d294473",
     "content_hash": "955a8f62eb7e04817a4d40e6a6d157dc8eabbbda0eb94f75476ff0599b619489",
     "server_modified": "2024-11-07 20:42:26",
-    "last_sync": "2024-11-13 22:49:17.668359+00:00",
+    "last_sync": "2024-11-19 19:44:44.741117",
     "size": 9938,
+    "meta_text": null,
     "cat_ref": "KL00344",
     "work_ref": "W.KL00344",
     "title_tib": "'PHAGS PA SANGS RGYAS KYI RTOGS PA BRJOD PA SHES LDAN GYI MDO",
-    "title_eng": "The Exalted Sutra of Jnanaka, a Story of Enlightenment",
+    "title_eng": "The Exalted Sutra of Jnanaka, a Story of Enlightenment (Ārya Jñānaka Sūtra Buddha Avadāna)",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "266367575018",
             "subject_path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 29 (HA)",
-            "subject_path_tibetan": "BKA' 'GYUR/MDO MANG/29 (HA)",
-            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$/VOL 29 (HA)",
-            "subject_tibetan": "29 (HA)",
-            "subject_english": "VOL 29 (HA)"
+            "subject_path_tibetan": "BKA' 'GYUR/10. MDO MANG/VOL 29 (HA)",
+            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$",
+            "subject_tibetan": "VOL 29 (HA)",
+            "subject_english": "Collection of Sutras (Sūtra)$$"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
-    "title_skt": "Ārya Jñānaka Sūtra Buddha Avadāna",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 29 (HA)",
+            "timestamp": "2024-11-20 03:44:44.753099+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:49:17.669216+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:44:44.753099+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 29 (HA)",
-            "timestamp": "2024-11-13 22:49:17.669216+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

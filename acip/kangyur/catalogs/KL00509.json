@@ -1,46 +1,53 @@
 {
     "name": "KL00509_BYANG CHUB KYI SNYING PO'I RGYAN 'BUM GYI GZUNGS (Bodhi Garbha Alaṃkāra Lakṣa Dhāraṇī).txt",
-    "path": "BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 9 (TA)",
+    "path": "12. RGYUD_Secret Teachings (Tantra)/VOL 9 (TA)",
     "download_path": "/kangyur updated to 11 15 23 ws/12. rgyud_secret teachings (tantra)/vol 9 (ta)/kl00509_byang chub kyi snying po'i rgyan 'bum gyi gzungs (bodhi garbha alaṃkāra lakṣa dhāraṇī).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACGzQ",
     "revision_id": "62658a88584fb8d294473",
     "content_hash": "47d86809c06534844f1b119b2f5db27b4344cb88027257913bbdfaf95a6d7442",
     "server_modified": "2024-11-07 20:41:26",
-    "last_sync": "2024-11-13 22:48:49.051948+00:00",
+    "last_sync": "2024-11-19 19:44:14.589320",
     "size": 2955,
+    "meta_text": null,
     "cat_ref": "KL00509",
     "work_ref": "W.KL00509",
-    "title_tib": "BYANG CHUB KYI SNYING PO'I RGYAN 'BUM GYI GZUNGS",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "179328892931",
             "subject_path": "BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 9 (TA)",
-            "subject_path_tibetan": "BKA' 'GYUR/RGYUD/9 (TA)",
-            "subject_path_english": "Kangyur/Secret Teachings/VOL 9 (TA)",
-            "subject_tibetan": "9 (TA)",
-            "subject_english": "VOL 9 (TA)"
+            "subject_path_tibetan": "BKA' 'GYUR/12. RGYUD/VOL 9 (TA)",
+            "subject_path_english": "Kangyur/Secret Teachings (Tantra)",
+            "subject_tibetan": "VOL 9 (TA)",
+            "subject_english": "Secret Teachings (Tantra)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
-    "title_skt": "Bodhi Garbha Alaṃkāra Lakṣa Dhāraṇī",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 9 (TA)",
+            "timestamp": "2024-11-20 03:44:14.594872+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:48:49.055370+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:44:14.594872+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 9 (TA)",
-            "timestamp": "2024-11-13 22:48:49.055370+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

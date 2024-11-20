@@ -1,46 +1,53 @@
 {
     "name": "KL00218_'PHAGS PA LAS KYI SGRIB PA RNAM PAR DAG PA ZHES BYA BA THEG PA CHEN PO'I MDO An Exalted Sutra of the Greater way entitled \"How to Clear Away Karmic Obstacles\" (Ārya Karmāvaraṇa Viṣuddha Nāma Mahāyāna Sūtra).txt",
-    "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 16 (MA)",
+    "path": "10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 16 (MA)",
     "download_path": "/kangyur updated to 11 15 23 ws/10. mdo mang_collection of sutras (sūtra)$$/vol 16 (ma)/kl00218_'phags pa las kyi sgrib pa rnam par dag pa zhes bya ba theg pa chen po'i mdo an exalted sutra of the greater way entitled \"how to clear away karmic obstacles\" (ārya karmāvaraṇa viṣuddha nāma mahāyāna sūtra).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACHDg",
     "revision_id": "62658a9c072f98d294473",
     "content_hash": "9370b188b31a32e8870259383b6b151c6b8d2813830c6e7aa48066fa5a209060",
     "server_modified": "2024-11-07 20:41:47",
-    "last_sync": "2024-11-13 22:48:57.750139+00:00",
+    "last_sync": "2024-11-19 19:44:22.311342",
     "size": 54663,
+    "meta_text": null,
     "cat_ref": "KL00218",
     "work_ref": "W.KL00218",
-    "title_tib": "'PHAGS PA LAS KYI SGRIB PA RNAM PAR DAG PA ZHES BYA BA THEG PA CHEN PO'I MDO An Exalted Sutra of the Greater way entitled \"How to Clear Away Karmic Obstacles\"",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "287504774928",
             "subject_path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 16 (MA)",
-            "subject_path_tibetan": "BKA' 'GYUR/MDO MANG/16 (MA)",
-            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$/VOL 16 (MA)",
-            "subject_tibetan": "16 (MA)",
-            "subject_english": "VOL 16 (MA)"
+            "subject_path_tibetan": "BKA' 'GYUR/10. MDO MANG/VOL 16 (MA)",
+            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$",
+            "subject_tibetan": "VOL 16 (MA)",
+            "subject_english": "Collection of Sutras (Sūtra)$$"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
-    "title_skt": "Ārya Karmāvaraṇa Viṣuddha Nāma Mahāyāna Sūtra",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 16 (MA)",
+            "timestamp": "2024-11-20 03:44:22.329343+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:48:57.753286+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:44:22.329343+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 16 (MA)",
-            "timestamp": "2024-11-13 22:48:57.753286+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

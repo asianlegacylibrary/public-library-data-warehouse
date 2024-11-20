@@ -1,46 +1,54 @@
 {
     "name": "KL00507_'PHAGS PA DE BZHIN GSHEGS PA THAMS {%THAMS CAD} KYI BYIN GYIS BRLABS KYI SNYING PO GSANG BA RING BSRAL {%BSREL} GYI ZA MA TOG CES BYA BA'I GZUNGS THEG PA CHEN PO'I MDO (Ārya Sarva Tathāgata Dhiṣṭhāna Hṛdaya Guhya Dhātu Karaṇḍa Nāma +.txt",
-    "path": "BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 9 (TA)",
+    "path": "12. RGYUD_Secret Teachings (Tantra)/VOL 9 (TA)",
     "download_path": "/kangyur updated to 11 15 23 ws/12. rgyud_secret teachings (tantra)/vol 9 (ta)/kl00507_'phags pa de bzhin gshegs pa thams {%thams cad} kyi byin gyis brlabs kyi snying po gsang ba ring bsral {%bsrel} gyi za ma tog ces bya ba'i gzungs theg pa chen po'i mdo (ārya sarva tathāgata dhiṣṭhāna hṛdaya guhya dhātu karaṇḍa nāma +.txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACGwQ",
     "revision_id": "62658a8605e928d294473",
     "content_hash": "b4fc87eb5a44b68c30b2a936757f850e3fd00895461ced7f35a8713af08f56dd",
     "server_modified": "2024-11-07 20:41:24",
-    "last_sync": "2024-11-13 22:48:48.421360+00:00",
+    "last_sync": "2024-11-19 19:44:13.872702",
     "size": 22343,
+    "meta_text": "('Dhāraṇī Mahāyāna Sūtra)', 'text')",
     "cat_ref": "KL00507",
     "work_ref": "W.KL00507",
-    "title_tib": "'PHAGS PA DE BZHIN GSHEGS PA THAMS {%THAMS CAD} KYI BYIN GYIS BRLABS KYI SNYING PO GSANG BA RING BSRAL {%BSREL} GYI ZA MA TOG CES BYA BA'I GZUNGS THEG PA CHEN PO'I MDO (Ārya Sarva Tathāgata Dhiṣṭhāna Hṛdaya Guhya Dhātu Karaṇḍa Nāma",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "179328892931",
             "subject_path": "BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 9 (TA)",
-            "subject_path_tibetan": "BKA' 'GYUR/RGYUD/9 (TA)",
-            "subject_path_english": "Kangyur/Secret Teachings/VOL 9 (TA)",
-            "subject_tibetan": "9 (TA)",
-            "subject_english": "VOL 9 (TA)"
+            "subject_path_tibetan": "BKA' 'GYUR/12. RGYUD/VOL 9 (TA)",
+            "subject_path_english": "Kangyur/Secret Teachings (Tantra)",
+            "subject_tibetan": "VOL 9 (TA)",
+            "subject_english": "Secret Teachings (Tantra)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
+    "null": "('Dhāraṇī Mahāyāna Sūtra)', 'text')",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 9 (TA)",
+            "timestamp": "2024-11-20 03:44:14.594016+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:48:49.054011+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:44:14.594016+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "meta_text": "Dhāraṇī Mahāyāna Sūtra)",
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 9 (TA)",
-            "timestamp": "2024-11-13 22:48:49.054011+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

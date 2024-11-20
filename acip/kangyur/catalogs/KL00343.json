@@ -1,46 +1,53 @@
 {
     "name": "KL00343_GANG PO LA SOGS PA'I RTOGS PA BRJOD PA BRGYA PA, BAM PO DANG PO_The Hundred Stories of Saints, beginning with that of Purna, Section 1 (Pūrṇa Pramukha Avadāna Śataka).txt",
-    "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 29 (HA)",
+    "path": "10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 29 (HA)",
     "download_path": "/kangyur updated to 11 15 23 ws/10. mdo mang_collection of sutras (sūtra)$$/vol 29 (ha)/kl00343_gang po la sogs pa'i rtogs pa brjod pa brgya pa, bam po dang po_the hundred stories of saints, beginning with that of purna, section 1 (pūrṇa pramukha avadāna śataka).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACHqg",
     "revision_id": "62658ac59c5618d294473",
     "content_hash": "a2b461cf37ed4bc9c8a044f45a96b8c8b491fa7f2ea6300a2eea1c762a241164",
     "server_modified": "2024-11-07 20:42:30",
-    "last_sync": "2024-11-13 22:49:17.668811+00:00",
+    "last_sync": "2024-11-19 19:44:44.750192",
     "size": 1090480,
+    "meta_text": null,
     "cat_ref": "KL00343",
     "work_ref": "W.KL00343",
     "title_tib": "GANG PO LA SOGS PA'I RTOGS PA BRJOD PA BRGYA PA, BAM PO DANG PO",
-    "title_eng": "The Hundred Stories of Saints, beginning with that of Purna, Section 1",
+    "title_eng": "The Hundred Stories of Saints, beginning with that of Purna, Section 1 (Pūrṇa Pramukha Avadāna Śataka)",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "266367575018",
             "subject_path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 29 (HA)",
-            "subject_path_tibetan": "BKA' 'GYUR/MDO MANG/29 (HA)",
-            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$/VOL 29 (HA)",
-            "subject_tibetan": "29 (HA)",
-            "subject_english": "VOL 29 (HA)"
+            "subject_path_tibetan": "BKA' 'GYUR/10. MDO MANG/VOL 29 (HA)",
+            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$",
+            "subject_tibetan": "VOL 29 (HA)",
+            "subject_english": "Collection of Sutras (Sūtra)$$"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
-    "title_skt": "Pūrṇa Pramukha Avadāna Śataka",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 29 (HA)",
+            "timestamp": "2024-11-20 03:44:44.753672+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:49:17.670082+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:44:44.753672+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 29 (HA)",
-            "timestamp": "2024-11-13 22:49:17.670082+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

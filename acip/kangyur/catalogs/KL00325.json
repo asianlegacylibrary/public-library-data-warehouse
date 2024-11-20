@@ -1,46 +1,53 @@
 {
     "name": "KL00325_KLU'I RGYAL PO RNGA SGRA'I TSIGS SU BCAD PA_Verses for the King of the Serpentines Whose Name is \"Sound of the Drum\" (Nagarāja Bherī Gatha).txt",
-    "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 26 (LA)",
+    "path": "10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 26 (LA)",
     "download_path": "/kangyur updated to 11 15 23 ws/10. mdo mang_collection of sutras (sūtra)$$/vol 26 (la)/kl00325_klu'i rgyal po rnga sgra'i tsigs su bcad pa_verses for the king of the serpentines whose name is \"sound of the drum\" (nagarāja bherī gatha).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACH6g",
     "revision_id": "62658ad11306f8d294473",
     "content_hash": "9ee73ced9a588a0966b9bc02f081740e1de7f3b058805296ca8c1922ecb05893",
     "server_modified": "2024-11-07 20:42:42",
-    "last_sync": "2024-11-13 22:49:27.773663+00:00",
+    "last_sync": "2024-11-19 19:44:53.666499",
     "size": 15798,
+    "meta_text": null,
     "cat_ref": "KL00325",
     "work_ref": "W.KL00325",
     "title_tib": "KLU'I RGYAL PO RNGA SGRA'I TSIGS SU BCAD PA",
-    "title_eng": "Verses for the King of the Serpentines Whose Name is \"Sound of the Drum\"",
+    "title_eng": "Verses for the King of the Serpentines Whose Name is \"Sound of the Drum\" (Nagarāja Bherī Gatha)",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "131921240830",
             "subject_path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 26 (LA)",
-            "subject_path_tibetan": "BKA' 'GYUR/MDO MANG/26 (LA)",
-            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$/VOL 26 (LA)",
-            "subject_tibetan": "26 (LA)",
-            "subject_english": "VOL 26 (LA)"
+            "subject_path_tibetan": "BKA' 'GYUR/10. MDO MANG/VOL 26 (LA)",
+            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$",
+            "subject_tibetan": "VOL 26 (LA)",
+            "subject_english": "Collection of Sutras (Sūtra)$$"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
-    "title_skt": "Nagarāja Bherī Gatha",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 26 (LA)",
+            "timestamp": "2024-11-20 03:44:53.673639+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:49:27.779078+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:44:53.673639+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 26 (LA)",
-            "timestamp": "2024-11-13 22:49:27.779078+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

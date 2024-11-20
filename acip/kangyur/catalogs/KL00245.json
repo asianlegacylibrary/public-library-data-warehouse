@@ -1,46 +1,53 @@
 {
     "name": "KL00245_'PHAGS PA CHOS KYI PHUNG PO ZHES BYA BA THEG PA CHEN PO'I MDO_An Exalted Sutra of the Greater Way entitled \"A Mountain of Dharma\" (Ārya Dharma Skandha Nāma Mahāyāna Sūtra).txt",
-    "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 20 (WA)",
+    "path": "10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 20 (WA)",
     "download_path": "/kangyur updated to 11 15 23 ws/10. mdo mang_collection of sutras (sūtra)$$/vol 20 (wa)/kl00245_'phags pa chos kyi phung po zhes bya ba theg pa chen po'i mdo_an exalted sutra of the greater way entitled \"a mountain of dharma\" (ārya dharma skandha nāma mahāyāna sūtra).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACIJA",
     "revision_id": "62658adcc519a8d294473",
     "content_hash": "642415252bd31488b1dc969577abef2cbaf94a3a4571a911b738b70a29d2fe9e",
     "server_modified": "2024-11-07 20:42:55",
-    "last_sync": "2024-11-13 22:49:34.398610+00:00",
+    "last_sync": "2024-11-19 19:45:01.143901",
     "size": 20755,
+    "meta_text": null,
     "cat_ref": "KL00245",
     "work_ref": "W.KL00245",
     "title_tib": "'PHAGS PA CHOS KYI PHUNG PO ZHES BYA BA THEG PA CHEN PO'I MDO",
-    "title_eng": "An Exalted Sutra of the Greater Way entitled \"A Mountain of Dharma\"",
+    "title_eng": "An Exalted Sutra of the Greater Way entitled \"A Mountain of Dharma\" (Ārya Dharma Skandha Nāma Mahāyāna Sūtra)",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "769965313875",
             "subject_path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 20 (WA)",
-            "subject_path_tibetan": "BKA' 'GYUR/MDO MANG/20 (WA)",
-            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$/VOL 20 (WA)",
-            "subject_tibetan": "20 (WA)",
-            "subject_english": "VOL 20 (WA)"
+            "subject_path_tibetan": "BKA' 'GYUR/10. MDO MANG/VOL 20 (WA)",
+            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$",
+            "subject_tibetan": "VOL 20 (WA)",
+            "subject_english": "Collection of Sutras (Sūtra)$$"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
-    "title_skt": "Ārya Dharma Skandha Nāma Mahāyāna Sūtra",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 20 (WA)",
+            "timestamp": "2024-11-20 03:45:01.932391+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:49:35.047462+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:45:01.932391+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 20 (WA)",
-            "timestamp": "2024-11-13 22:49:35.047462+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

@@ -1,46 +1,53 @@
 {
     "name": "KL00063E_'PHAGS PA DRAG SHUL CAN GYIS ZHUS PA ZHES BYA BA THEG PA CHEN PO'I MDO_An Exalted Sutra of the Greater Way Requested by Ugra (Ārya Ugra Paripṛcchā Nāma Mahāyāna Sūtra).txt",
-    "path": "BKA' 'GYUR_Kangyur/8. DKON BRTZEGS_Pile of Jewels (Ratna Kūṭa)/VOL 5 (CA)",
+    "path": "8. DKON BRTZEGS_Pile of Jewels (Ratna Kūṭa)/VOL 5 (CA)",
     "download_path": "/kangyur updated to 11 15 23 ws/8. dkon brtzegs_pile of jewels (ratna kūṭa)/vol 5 (ca)/kl00063e_'phags pa drag shul can gyis zhus pa zhes bya ba theg pa chen po'i mdo_an exalted sutra of the greater way requested by ugra (ārya ugra paripṛcchā nāma mahāyāna sūtra).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACIgw",
     "revision_id": "62658b039d9248d294473",
     "content_hash": "efd94a30c21cd700169b518b7fc89743aca45897e36aa65de06ef95ae6cb4a3c",
     "server_modified": "2024-11-07 20:43:35",
-    "last_sync": "2024-11-13 22:49:55.003555+00:00",
+    "last_sync": "2024-11-19 19:45:22.480849",
     "size": 122668,
+    "meta_text": null,
     "cat_ref": "KL00063E",
     "work_ref": "W.KL00063E",
     "title_tib": "'PHAGS PA DRAG SHUL CAN GYIS ZHUS PA ZHES BYA BA THEG PA CHEN PO'I MDO",
-    "title_eng": "An Exalted Sutra of the Greater Way Requested by Ugra",
+    "title_eng": "An Exalted Sutra of the Greater Way Requested by Ugra (Ārya Ugra Paripṛcchā Nāma Mahāyāna Sūtra)",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "328307370332",
             "subject_path": "BKA' 'GYUR_Kangyur/8. DKON BRTZEGS_Pile of Jewels (Ratna Kūṭa)/VOL 5 (CA)",
-            "subject_path_tibetan": "BKA' 'GYUR/DKON BRTZEGS/5 (CA)",
-            "subject_path_english": "Kangyur/Pile of Jewels/VOL 5 (CA)",
-            "subject_tibetan": "5 (CA)",
-            "subject_english": "VOL 5 (CA)"
+            "subject_path_tibetan": "BKA' 'GYUR/8. DKON BRTZEGS/VOL 5 (CA)",
+            "subject_path_english": "Kangyur/Pile of Jewels (Ratna Kūṭa)",
+            "subject_tibetan": "VOL 5 (CA)",
+            "subject_english": "Pile of Jewels (Ratna Kūṭa)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
-    "title_skt": "Ārya Ugra Paripṛcchā Nāma Mahāyāna Sūtra",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/8. DKON BRTZEGS_Pile of Jewels (Ratna Kūṭa)/VOL 5 (CA)",
+            "timestamp": "2024-11-20 03:45:23.849832+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:49:56.358153+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:45:23.849832+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/8. DKON BRTZEGS_Pile of Jewels (Ratna Kūṭa)/VOL 5 (CA)",
-            "timestamp": "2024-11-13 22:49:56.358153+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

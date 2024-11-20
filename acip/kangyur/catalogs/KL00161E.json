@@ -1,46 +1,53 @@
 {
     "name": "KL00161E_'PHAGS PA LHA'I BU RAB RTZAL SEMS KYIS ZHUS PA ZHES BYA BA THEG PA CHEN PO'I MDO_An Exalted Sutra of the Greater Way Requested by the Divine Youth Named Suvikranta Chinta + (Ārya Suvikrānta Cinta Deva Putra Paripṛcchā Nāma Mahāyāna +.txt",
-    "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 13 (PA)",
+    "path": "10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 13 (PA)",
     "download_path": "/kangyur updated to 11 15 23 ws/10. mdo mang_collection of sutras (sūtra)$$/vol 13 (pa)/kl00161e_'phags pa lha'i bu rab rtzal sems kyis zhus pa zhes bya ba theg pa chen po'i mdo_an exalted sutra of the greater way requested by the divine youth named suvikranta chinta + (ārya suvikrānta cinta deva putra paripṛcchā nāma mahāyāna +.txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACHiQ",
     "revision_id": "62658abd860948d294473",
     "content_hash": "3615ba276a429c36287022698a2077c346ed914596d54127f9e5542b21fbf5a4",
     "server_modified": "2024-11-07 20:42:22",
-    "last_sync": "2024-11-13 22:49:11.913223+00:00",
+    "last_sync": "2024-11-19 19:44:38.844861",
     "size": 148435,
+    "meta_text": "('SÅ«tra)', 'text')",
     "cat_ref": "KL00161E",
     "work_ref": "W.KL00161E",
     "title_tib": "'PHAGS PA LHA'I BU RAB RTZAL SEMS KYIS ZHUS PA ZHES BYA BA THEG PA CHEN PO'I MDO",
-    "title_eng": "An Exalted Sutra of the Greater Way Requested by the Divine Youth Named Suvikranta Chinta + (Ārya Suvikrānta Cinta Deva Putra Paripṛcchā Nāma Mahāyāna",
+    "title_eng": "An Exalted Sutra of the Greater Way Requested by the Divine Youth Named Suvikranta Chinta + (Ārya Suvikrānta Cinta Deva Putra Paripṛcchā Nāma Mahāyāna('SÅ«tra)', 'text')",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "322000839069",
             "subject_path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 13 (PA)",
-            "subject_path_tibetan": "BKA' 'GYUR/MDO MANG/13 (PA)",
-            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$/VOL 13 (PA)",
-            "subject_tibetan": "13 (PA)",
-            "subject_english": "VOL 13 (PA)"
+            "subject_path_tibetan": "BKA' 'GYUR/10. MDO MANG/VOL 13 (PA)",
+            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$",
+            "subject_tibetan": "VOL 13 (PA)",
+            "subject_english": "Collection of Sutras (Sūtra)$$"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 13 (PA)",
+            "timestamp": "2024-11-20 03:44:38.860834+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:49:11.915548+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:44:38.860834+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "meta_text": "Sūtra)",
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 13 (PA)",
-            "timestamp": "2024-11-13 22:49:11.915548+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

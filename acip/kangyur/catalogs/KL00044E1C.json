@@ -1,46 +1,53 @@
 {
     "name": "KL00044E1C_KUN TU BZANG PO'I TING NGE 'DZIN DANG, RNAM PAR 'PHRUL PA RAB TU 'BYUNG BA_The Account of the Meditation and Emanation of Perfect Goodness (Samantabhadra)(Ārya Buddha Avataṃsaka Nāma Mahāvaipulya).txt",
-    "path": "BKA' 'GYUR_Kangyur/9. PHAL CHEN_The Majority (Avataṃsaka)/VOL 1 (KA)",
+    "path": "9. PHAL CHEN_The Majority (Avataṃsaka)/VOL 1 (KA)",
     "download_path": "/kangyur updated to 11 15 23 ws/9. phal chen_the majority (avataṃsaka)/vol 1 (ka)/kl00044e1c_kun tu bzang po'i ting nge 'dzin dang, rnam par 'phrul pa rab tu 'byung ba_the account of the meditation and emanation of perfect goodness (samantabhadra)(ārya buddha avataṃsaka nāma mahāvaipulya).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACJCw",
     "revision_id": "62658b23fce618d294473",
     "content_hash": "d476dca1cbec6023197235be213f1c52f79c684096c0d8ce10a190b68c2c03e2",
     "server_modified": "2024-11-07 20:44:09",
-    "last_sync": "2024-11-13 22:50:08.810929+00:00",
+    "last_sync": "2024-11-19 19:45:41.163831",
     "size": 17567,
+    "meta_text": null,
     "cat_ref": "KL00044E1C",
     "work_ref": "W.KL00044E1C",
     "title_tib": "KUN TU BZANG PO'I TING NGE 'DZIN DANG, RNAM PAR 'PHRUL PA RAB TU 'BYUNG BA",
-    "title_eng": "The Account of the Meditation and Emanation of Perfect Goodness",
+    "title_eng": "The Account of the Meditation and Emanation of Perfect Goodness (Samantabhadra)(Ārya Buddha Avataṃsaka Nāma Mahāvaipulya)",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "207190874383",
             "subject_path": "BKA' 'GYUR_Kangyur/9. PHAL CHEN_The Majority (Avataṃsaka)/VOL 1 (KA)",
-            "subject_path_tibetan": "BKA' 'GYUR/PHAL CHEN/1 (KA)",
-            "subject_path_english": "Kangyur/The Majority/VOL 1 (KA)",
-            "subject_tibetan": "1 (KA)",
-            "subject_english": "VOL 1 (KA)"
+            "subject_path_tibetan": "BKA' 'GYUR/9. PHAL CHEN/VOL 1 (KA)",
+            "subject_path_english": "Kangyur/The Majority (Avataṃsaka)",
+            "subject_tibetan": "VOL 1 (KA)",
+            "subject_english": "The Majority (Avataṃsaka)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
-    "title_skt": "Samantabhadra)(Ārya Buddha Avataṃsaka Nāma Mahāvaipulya",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/9. PHAL CHEN_The Majority (Avataṃsaka)/VOL 1 (KA)",
+            "timestamp": "2024-11-20 03:45:42.452659+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:50:10.348237+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:45:42.452659+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/9. PHAL CHEN_The Majority (Avataṃsaka)/VOL 1 (KA)",
-            "timestamp": "2024-11-13 22:50:10.348237+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

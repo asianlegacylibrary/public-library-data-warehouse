@@ -1,46 +1,53 @@
 {
     "name": "KL00117E_'PHAGS PA DKON MCHOG GI ZA MA TOG CES BYA BA THEG PA CHEN PO'I MDO_An Exalted Sutra of the Greater Way entitled \"A Box of Precious Jewels\" (Ārya Ratna Karaṇḍa Nāma Mahāyāna Sūtra).txt",
-    "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 7 (JA)",
+    "path": "10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 7 (JA)",
     "download_path": "/kangyur updated to 11 15 23 ws/10. mdo mang_collection of sutras (sūtra)$$/vol 7 (ja)/kl00117e_'phags pa dkon mchog gi za ma tog ces bya ba theg pa chen po'i mdo_an exalted sutra of the greater way entitled \"a box of precious jewels\" (ārya ratna karaṇḍa nāma mahāyāna sūtra).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACHsQ",
     "revision_id": "62658ac6deaa78d294473",
     "content_hash": "243532d5acce1a9835505816f33b5586adae783fff9923545582ddff3dc66fa8",
     "server_modified": "2024-11-07 20:42:32",
-    "last_sync": "2024-11-13 22:49:23.129639+00:00",
+    "last_sync": "2024-11-19 19:44:49.639765",
     "size": 156313,
+    "meta_text": null,
     "cat_ref": "KL00117E",
     "work_ref": "W.KL00117E",
     "title_tib": "'PHAGS PA DKON MCHOG GI ZA MA TOG CES BYA BA THEG PA CHEN PO'I MDO",
-    "title_eng": "An Exalted Sutra of the Greater Way entitled \"A Box of Precious Jewels\"",
+    "title_eng": "An Exalted Sutra of the Greater Way entitled \"A Box of Precious Jewels\" (Ārya Ratna Karaṇḍa Nāma Mahāyāna Sūtra)",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "549579690713",
             "subject_path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 7 (JA)",
-            "subject_path_tibetan": "BKA' 'GYUR/MDO MANG/7 (JA)",
-            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$/VOL 7 (JA)",
-            "subject_tibetan": "7 (JA)",
-            "subject_english": "VOL 7 (JA)"
+            "subject_path_tibetan": "BKA' 'GYUR/10. MDO MANG/VOL 7 (JA)",
+            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$",
+            "subject_tibetan": "VOL 7 (JA)",
+            "subject_english": "Collection of Sutras (Sūtra)$$"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
-    "title_skt": "Ārya Ratna Karaṇḍa Nāma Mahāyāna Sūtra",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 7 (JA)",
+            "timestamp": "2024-11-20 03:44:49.651389+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:49:23.130921+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:44:49.651389+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 7 (JA)",
-            "timestamp": "2024-11-13 22:49:23.130921+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

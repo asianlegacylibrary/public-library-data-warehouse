@@ -1,46 +1,53 @@
 {
     "name": "KL00314_MUN GYI NAGS TSAL GYI SGO ZHES BYA BA'I MDO_The Sutra of the Gate to the Forest of the Dragon Tamas (Tamovana Mukha Nāma Sūtra).txt",
-    "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 26 (LA)",
+    "path": "10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 26 (LA)",
     "download_path": "/kangyur updated to 11 15 23 ws/10. mdo mang_collection of sutras (sūtra)$$/vol 26 (la)/kl00314_mun gyi nags tsal gyi sgo zhes bya ba'i mdo_the sutra of the gate to the forest of the dragon tamas (tamovana mukha nāma sūtra).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACH3g",
     "revision_id": "62658aceef0678d294473",
     "content_hash": "b61cc011b0a6a585c3ca9fbc2f47803ec65337f89ad76ae94f9936694ddb3562",
     "server_modified": "2024-11-07 20:42:40",
-    "last_sync": "2024-11-13 22:49:27.772391+00:00",
+    "last_sync": "2024-11-19 19:44:53.643495",
     "size": 20589,
+    "meta_text": null,
     "cat_ref": "KL00314",
     "work_ref": "W.KL00314",
     "title_tib": "MUN GYI NAGS TSAL GYI SGO ZHES BYA BA'I MDO",
-    "title_eng": "The Sutra of the Gate to the Forest of the Dragon Tamas",
+    "title_eng": "The Sutra of the Gate to the Forest of the Dragon Tamas (Tamovana Mukha Nāma Sūtra)",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "131921240830",
             "subject_path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 26 (LA)",
-            "subject_path_tibetan": "BKA' 'GYUR/MDO MANG/26 (LA)",
-            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$/VOL 26 (LA)",
-            "subject_tibetan": "26 (LA)",
-            "subject_english": "VOL 26 (LA)"
+            "subject_path_tibetan": "BKA' 'GYUR/10. MDO MANG/VOL 26 (LA)",
+            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$",
+            "subject_tibetan": "VOL 26 (LA)",
+            "subject_english": "Collection of Sutras (Sūtra)$$"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
-    "title_skt": "Tamovana Mukha Nāma Sūtra",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 26 (LA)",
+            "timestamp": "2024-11-20 03:44:53.673208+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:49:27.777759+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:44:53.673208+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 26 (LA)",
-            "timestamp": "2024-11-13 22:49:27.777759+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

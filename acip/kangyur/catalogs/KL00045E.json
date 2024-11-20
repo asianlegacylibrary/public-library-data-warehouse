@@ -1,45 +1,53 @@
 {
     "name": "KL00045E_'PHAGS PA DKON MCHOG BRTZEGS PA CHEN PO'I CHOS KYI RNAM GRANGS STONG PHRAG BRGYA PA LAS, SDOM PA GSUM BSTAN PA'I LE'U ZHES BYA BA THEG PA CHEN PO'I MDO_An Exalted Sutra of the Greater Way entitled \"A Presentation of the Three Vows,\"+.txt",
-    "path": "BKA' 'GYUR_Kangyur/8. DKON BRTZEGS_Pile of Jewels (Ratna Kūṭa)/VOL 1 (KA)",
+    "path": "8. DKON BRTZEGS_Pile of Jewels (Ratna Kūṭa)/VOL 1 (KA)",
     "download_path": "/kangyur updated to 11 15 23 ws/8. dkon brtzegs_pile of jewels (ratna kūṭa)/vol 1 (ka)/kl00045e_'phags pa dkon mchog brtzegs pa chen po'i chos kyi rnam grangs stong phrag brgya pa las, sdom pa gsum bstan pa'i le'u zhes bya ba theg pa chen po'i mdo_an exalted sutra of the greater way entitled \"a presentation of the three vows,\"+.txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACImQ",
     "revision_id": "62658b07959498d294473",
     "content_hash": "8ce7e361c185b8656012b197f710988282754789ec4e4a5e5192690cc2defd55",
     "server_modified": "2024-11-07 20:43:39",
-    "last_sync": "2024-11-13 22:49:57.027459+00:00",
+    "last_sync": "2024-11-19 19:45:25.147295",
     "size": 168290,
+    "meta_text": "('a Section within the Hundred Thousand Iterations of the Dharma known as \"The Great Pile of Rare and Precious Jewels\" (Ārya Mahāratnakūṭa Dharmaparyāya Śata Sāhasrika Granthe Trisaṃvara Nideṣa Parivarta Nāma Mahāyāna Sūtra)', 'text')",
     "cat_ref": "KL00045E",
     "work_ref": "W.KL00045E",
     "title_tib": "'PHAGS PA DKON MCHOG BRTZEGS PA CHEN PO'I CHOS KYI RNAM GRANGS STONG PHRAG BRGYA PA LAS, SDOM PA GSUM BSTAN PA'I LE'U ZHES BYA BA THEG PA CHEN PO'I MDO",
-    "title_eng": "An Exalted Sutra of the Greater Way entitled \"A Presentation of the Three Vows,\"",
+    "title_eng": "An Exalted Sutra of the Greater Way entitled \"A Presentation of the Three Vows,\"('a Section within the Hundred Thousand Iterations of the Dharma known as \"The Great Pile of Rare and Precious Jewels\" (Ārya Mahāratnakūṭa Dharmaparyāya Śata Sāhasrika Granthe Trisaṃvara Nideṣa Parivarta Nāma Mahāyāna Sūtra)', 'text')",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "314358675418",
             "subject_path": "BKA' 'GYUR_Kangyur/8. DKON BRTZEGS_Pile of Jewels (Ratna Kūṭa)/VOL 1 (KA)",
-            "subject_path_tibetan": "BKA' 'GYUR/DKON BRTZEGS/1 (KA)",
-            "subject_path_english": "Kangyur/Pile of Jewels/VOL 1 (KA)",
-            "subject_tibetan": "1 (KA)",
-            "subject_english": "VOL 1 (KA)"
+            "subject_path_tibetan": "BKA' 'GYUR/8. DKON BRTZEGS/VOL 1 (KA)",
+            "subject_path_english": "Kangyur/Pile of Jewels (Ratna Kūṭa)",
+            "subject_tibetan": "VOL 1 (KA)",
+            "subject_english": "Pile of Jewels (Ratna Kūṭa)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/8. DKON BRTZEGS_Pile of Jewels (Ratna Kūṭa)/VOL 1 (KA)",
+            "timestamp": "2024-11-20 03:45:26.552465+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:49:57.028623+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:45:26.552465+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/8. DKON BRTZEGS_Pile of Jewels (Ratna Kūṭa)/VOL 1 (KA)",
-            "timestamp": "2024-11-13 22:49:57.028623+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

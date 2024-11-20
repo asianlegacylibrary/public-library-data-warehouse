@@ -1,46 +1,53 @@
 {
     "name": "KL00456_LAG NA RDO RJE GOS SNGON PO CAN GYI CHO GA RDO RJE BE CAN GYI RGYUD (Vajrapāṇi Nīlāmbara Vidhi Vajra Daṇḍa Tantra).txt",
-    "path": "BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 5 (CA)",
+    "path": "12. RGYUD_Secret Teachings (Tantra)/VOL 5 (CA)",
     "download_path": "/kangyur updated to 11 15 23 ws/12. rgyud_secret teachings (tantra)/vol 5 (ca)/kl00456_lag na rdo rje gos sngon po can gyi cho ga rdo rje be can gyi rgyud (vajrapāṇi nīlāmbara vidhi vajra daṇḍa tantra).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACFNw",
     "revision_id": "62658a3e07a9f8d294473",
     "content_hash": "04fdd3e2ce03bd2e5d7bdefd12c7517d5b528338831db67385cbcb3944d11e61",
     "server_modified": "2024-11-07 20:40:08",
-    "last_sync": "2024-11-13 22:48:25.282523+00:00",
+    "last_sync": "2024-11-19 19:43:50.827300",
     "size": 14643,
+    "meta_text": null,
     "cat_ref": "KL00456",
     "work_ref": "W.KL00456",
-    "title_tib": "LAG NA RDO RJE GOS SNGON PO CAN GYI CHO GA RDO RJE BE CAN GYI RGYUD",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "266068823474",
             "subject_path": "BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 5 (CA)",
-            "subject_path_tibetan": "BKA' 'GYUR/RGYUD/5 (CA)",
-            "subject_path_english": "Kangyur/Secret Teachings/VOL 5 (CA)",
-            "subject_tibetan": "5 (CA)",
-            "subject_english": "VOL 5 (CA)"
+            "subject_path_tibetan": "BKA' 'GYUR/12. RGYUD/VOL 5 (CA)",
+            "subject_path_english": "Kangyur/Secret Teachings (Tantra)",
+            "subject_tibetan": "VOL 5 (CA)",
+            "subject_english": "Secret Teachings (Tantra)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
-    "title_skt": "Vajrapāṇi Nīlāmbara Vidhi Vajra Daṇḍa Tantra",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 5 (CA)",
+            "timestamp": "2024-11-20 03:43:50.836748+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:48:25.284622+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:43:50.836748+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 5 (CA)",
-            "timestamp": "2024-11-13 22:48:25.284622+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

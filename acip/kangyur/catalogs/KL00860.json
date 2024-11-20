@@ -1,45 +1,53 @@
 {
     "name": "KL00860_'PHAGS PA SH'AKYA THUB PA'I SNYING PO'I GZUNGS.txt",
-    "path": "BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 10 (THA)",
+    "path": "12. RGYUD_Secret Teachings (Tantra)/VOL 10 (THA)",
     "download_path": "/kangyur updated to 11 15 23 ws/12. rgyud_secret teachings (tantra)/vol 10 (tha)/kl00860_'phags pa sh'akya thub pa'i snying po'i gzungs.txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACFaA",
     "revision_id": "62658a487943d8d294473",
     "content_hash": "765c9d0420263e0921edef7a4831c60e164c29a9ce3e6e919132c17e51a9ae5d",
     "server_modified": "2024-11-07 20:40:19",
-    "last_sync": "2024-11-13 22:48:30.224293+00:00",
+    "last_sync": "2024-11-19 19:43:56.518709",
     "size": 385,
+    "meta_text": null,
     "cat_ref": "KL00860",
     "work_ref": "W.KL00860",
     "title_tib": "'PHAGS PA SH'AKYA THUB PA'I SNYING PO'I GZUNGS",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "110532461014",
             "subject_path": "BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 10 (THA)",
-            "subject_path_tibetan": "BKA' 'GYUR/RGYUD/10 (THA)",
-            "subject_path_english": "Kangyur/Secret Teachings/VOL 10 (THA)",
-            "subject_tibetan": "10 (THA)",
-            "subject_english": "VOL 10 (THA)"
+            "subject_path_tibetan": "BKA' 'GYUR/12. RGYUD/VOL 10 (THA)",
+            "subject_path_english": "Kangyur/Secret Teachings (Tantra)",
+            "subject_tibetan": "VOL 10 (THA)",
+            "subject_english": "Secret Teachings (Tantra)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 10 (THA)",
+            "timestamp": "2024-11-20 03:43:56.559281+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:48:30.226942+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:43:56.559281+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 10 (THA)",
-            "timestamp": "2024-11-13 22:48:30.226942+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

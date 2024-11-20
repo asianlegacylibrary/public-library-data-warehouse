@@ -1,46 +1,53 @@
 {
     "name": "KL00326_CHED DU BRJOD PA'I TSOMS_Collection of Tailored Teachings (Udānavarga).txt",
-    "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 26 (LA)",
+    "path": "10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 26 (LA)",
     "download_path": "/kangyur updated to 11 15 23 ws/10. mdo mang_collection of sutras (sūtra)$$/vol 26 (la)/kl00326_ched du brjod pa'i tsoms_collection of tailored teachings (udānavarga).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACHzg",
     "revision_id": "62658acc191e08d294473",
     "content_hash": "ff26ed3100b285cd0c6abf35e545c67b4f2409a8e3f1e1d64db0a25e76c3a5c8",
     "server_modified": "2024-11-07 20:42:37",
-    "last_sync": "2024-11-13 22:49:26.752042+00:00",
+    "last_sync": "2024-11-19 19:44:53.000520",
     "size": 158562,
+    "meta_text": null,
     "cat_ref": "KL00326",
     "work_ref": "W.KL00326",
     "title_tib": "CHED DU BRJOD PA'I TSOMS",
-    "title_eng": "Collection of Tailored Teachings",
+    "title_eng": "Collection of Tailored Teachings (Udānavarga)",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "131921240830",
             "subject_path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 26 (LA)",
-            "subject_path_tibetan": "BKA' 'GYUR/MDO MANG/26 (LA)",
-            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$/VOL 26 (LA)",
-            "subject_tibetan": "26 (LA)",
-            "subject_english": "VOL 26 (LA)"
+            "subject_path_tibetan": "BKA' 'GYUR/10. MDO MANG/VOL 26 (LA)",
+            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$",
+            "subject_tibetan": "VOL 26 (LA)",
+            "subject_english": "Collection of Sutras (Sūtra)$$"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
-    "title_skt": "Udānavarga",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 26 (LA)",
+            "timestamp": "2024-11-20 03:44:53.672607+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:49:27.775877+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:44:53.672607+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 26 (LA)",
-            "timestamp": "2024-11-13 22:49:27.775877+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

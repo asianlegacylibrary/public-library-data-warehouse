@@ -1,45 +1,53 @@
 {
     "name": "KL00044E1S_RI RAB KYI RTZE MOR DE BZHIN GSHEGS PA'I RNAM PAR 'PHRUL PA DANG, BYANG CHUB SEMS DPA'I TSOGS KYI TSIGS SU BCAD PA'I LE'U_The Section on the Emanation of the Ones Gone Thus at the Top of Mount Supreme, and the Verses of the Assembly+.txt",
-    "path": "BKA' 'GYUR_Kangyur/9. PHAL CHEN_The Majority (Avataṃsaka)/VOL 1 (KA)",
+    "path": "9. PHAL CHEN_The Majority (Avataṃsaka)/VOL 1 (KA)",
     "download_path": "/kangyur updated to 11 15 23 ws/9. phal chen_the majority (avataṃsaka)/vol 1 (ka)/kl00044e1s_ri rab kyi rtze mor de bzhin gshegs pa'i rnam par 'phrul pa dang, byang chub sems dpa'i tsogs kyi tsigs su bcad pa'i le'u_the section on the emanation of the ones gone thus at the top of mount supreme, and the verses of the assembly+.txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACJBg",
     "revision_id": "62658b230303c8d294473",
     "content_hash": "f9483e3626951aba8c85c44c7524e24d888f6a96888ae09b0f92a2272fc99b78",
     "server_modified": "2024-11-07 20:44:08",
-    "last_sync": "2024-11-13 22:50:08.810871+00:00",
+    "last_sync": "2024-11-19 19:45:41.162004",
     "size": 18568,
+    "meta_text": null,
     "cat_ref": "KL00044E1S",
     "work_ref": "W.KL00044E1S",
     "title_tib": "RI RAB KYI RTZE MOR DE BZHIN GSHEGS PA'I RNAM PAR 'PHRUL PA DANG, BYANG CHUB SEMS DPA'I TSOGS KYI TSIGS SU BCAD PA'I LE'U",
     "title_eng": "The Section on the Emanation of the Ones Gone Thus at the Top of Mount Supreme, and the Verses of the Assembly",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "207190874383",
             "subject_path": "BKA' 'GYUR_Kangyur/9. PHAL CHEN_The Majority (Avataṃsaka)/VOL 1 (KA)",
-            "subject_path_tibetan": "BKA' 'GYUR/PHAL CHEN/1 (KA)",
-            "subject_path_english": "Kangyur/The Majority/VOL 1 (KA)",
-            "subject_tibetan": "1 (KA)",
-            "subject_english": "VOL 1 (KA)"
+            "subject_path_tibetan": "BKA' 'GYUR/9. PHAL CHEN/VOL 1 (KA)",
+            "subject_path_english": "Kangyur/The Majority (Avataṃsaka)",
+            "subject_tibetan": "VOL 1 (KA)",
+            "subject_english": "The Majority (Avataṃsaka)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/9. PHAL CHEN_The Majority (Avataṃsaka)/VOL 1 (KA)",
+            "timestamp": "2024-11-20 03:45:42.452479+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:50:10.348122+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:45:42.452479+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/9. PHAL CHEN_The Majority (Avataṃsaka)/VOL 1 (KA)",
-            "timestamp": "2024-11-13 22:50:10.348122+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

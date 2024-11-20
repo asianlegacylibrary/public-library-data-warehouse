@@ -1,46 +1,53 @@
 {
     "name": "KL00163E_'PHAGS PA RIN CHEN DRA BA CAN GYIS ZHUS PA ZHES BYA BA THEG PA CHEN PO'I MDO_An Exalted Sutra of the Greater Way Requested by Ratnajali (Ārya Ratnajāli Paripṛcchā Nāma Mahāyāna Sūtra).txt",
-    "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 13 (PA)",
+    "path": "10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 13 (PA)",
     "download_path": "/kangyur updated to 11 15 23 ws/10. mdo mang_collection of sutras (sūtra)$$/vol 13 (pa)/kl00163e_'phags pa rin chen dra ba can gyis zhus pa zhes bya ba theg pa chen po'i mdo_an exalted sutra of the greater way requested by ratnajali (ārya ratnajāli paripṛcchā nāma mahāyāna sūtra).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACHiw",
     "revision_id": "62658abd860968d294473",
     "content_hash": "cf2dea2a67f314d80d60a967507cb2ecbf6758b978375f7648eb8e7870df0ad1",
     "server_modified": "2024-11-07 20:42:22",
-    "last_sync": "2024-11-13 22:49:11.913795+00:00",
+    "last_sync": "2024-11-19 19:44:38.851660",
     "size": 60423,
+    "meta_text": null,
     "cat_ref": "KL00163E",
     "work_ref": "W.KL00163E",
     "title_tib": "'PHAGS PA RIN CHEN DRA BA CAN GYIS ZHUS PA ZHES BYA BA THEG PA CHEN PO'I MDO",
-    "title_eng": "An Exalted Sutra of the Greater Way Requested by Ratnajali",
+    "title_eng": "An Exalted Sutra of the Greater Way Requested by Ratnajali (Ārya Ratnajāli Paripṛcchā Nāma Mahāyāna Sūtra)",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "322000839069",
             "subject_path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 13 (PA)",
-            "subject_path_tibetan": "BKA' 'GYUR/MDO MANG/13 (PA)",
-            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$/VOL 13 (PA)",
-            "subject_tibetan": "13 (PA)",
-            "subject_english": "VOL 13 (PA)"
+            "subject_path_tibetan": "BKA' 'GYUR/10. MDO MANG/VOL 13 (PA)",
+            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$",
+            "subject_tibetan": "VOL 13 (PA)",
+            "subject_english": "Collection of Sutras (Sūtra)$$"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
-    "title_skt": "Ārya Ratnajāli Paripṛcchā Nāma Mahāyāna Sūtra",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 13 (PA)",
+            "timestamp": "2024-11-20 03:44:38.860982+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:49:11.915840+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:44:38.860982+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 13 (PA)",
-            "timestamp": "2024-11-13 22:49:11.915840+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

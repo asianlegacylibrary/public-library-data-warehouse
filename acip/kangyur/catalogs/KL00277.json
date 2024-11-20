@@ -1,46 +1,53 @@
 {
     "name": "KL00277_'PHAGS PA DKYIL 'KHOR BRGYAD PA ZHES BYA BA THEG PA CHEN PO'I MDO_An Exalted Sutra of the Greater Way entitled 'The Eighth Secret World' (Ārya Aṣṭa Maṇḍalaka Nāma Mahāyāna Sūtra).txt",
-    "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 22 (ZA)",
+    "path": "10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 22 (ZA)",
     "download_path": "/kangyur updated to 11 15 23 ws/10. mdo mang_collection of sutras (sūtra)$$/vol 22 (za)/kl00277_'phags pa dkyil 'khor brgyad pa zhes bya ba theg pa chen po'i mdo_an exalted sutra of the greater way entitled 'the eighth secret world' (ārya aṣṭa maṇḍalaka nāma mahāyāna sūtra).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACHQQ",
     "revision_id": "62658aabf329c8d294473",
     "content_hash": "992c418e25ab2b626329b3f82bc30b6fb40619d5d5e03cc636caacdb3841ecce",
     "server_modified": "2024-11-07 20:42:03",
-    "last_sync": "2024-11-13 22:49:03.621187+00:00",
+    "last_sync": "2024-11-19 19:44:30.565773",
     "size": 11157,
+    "meta_text": null,
     "cat_ref": "KL00277",
     "work_ref": "W.KL00277",
     "title_tib": "'PHAGS PA DKYIL 'KHOR BRGYAD PA ZHES BYA BA THEG PA CHEN PO'I MDO",
-    "title_eng": "An Exalted Sutra of the Greater Way entitled 'The Eighth Secret World'",
+    "title_eng": "An Exalted Sutra of the Greater Way entitled 'The Eighth Secret World' (Ārya Aṣṭa Maṇḍalaka Nāma Mahāyāna Sūtra)",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "335907310414",
             "subject_path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 22 (ZA)",
-            "subject_path_tibetan": "BKA' 'GYUR/MDO MANG/22 (ZA)",
-            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$/VOL 22 (ZA)",
-            "subject_tibetan": "22 (ZA)",
-            "subject_english": "VOL 22 (ZA)"
+            "subject_path_tibetan": "BKA' 'GYUR/10. MDO MANG/VOL 22 (ZA)",
+            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$",
+            "subject_tibetan": "VOL 22 (ZA)",
+            "subject_english": "Collection of Sutras (Sūtra)$$"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
-    "title_skt": "Ārya Aṣṭa Maṇḍalaka Nāma Mahāyāna Sūtra",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 22 (ZA)",
+            "timestamp": "2024-11-20 03:44:31.310415+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:49:04.274062+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:44:31.310415+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 22 (ZA)",
-            "timestamp": "2024-11-13 22:49:04.274062+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

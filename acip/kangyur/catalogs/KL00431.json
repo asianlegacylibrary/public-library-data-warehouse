@@ -1,46 +1,53 @@
 {
     "name": "KL00431_DPAL GTUM PO KHRO BO CHEN PO'I RGYUD KYI RGYAL PO DPA' BO GCIG PA ZHES BYA BA (Ekavīrakhya Śrī Caṇḍa Mahāroṣaṇa Tantra Rāja Nāma).txt",
-    "path": "BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 4 (NGA)",
+    "path": "12. RGYUD_Secret Teachings (Tantra)/VOL 4 (NGA)",
     "download_path": "/kangyur updated to 11 15 23 ws/12. rgyud_secret teachings (tantra)/vol 4 (nga)/kl00431_dpal gtum po khro bo chen po'i rgyud kyi rgyal po dpa' bo gcig pa zhes bya ba (ekavīrakhya śrī caṇḍa mahāroṣaṇa tantra rāja nāma).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACG2A",
     "revision_id": "62658a8a7bb1f8d294473",
     "content_hash": "a0aca6abab13fdfd6f628547fa5159d4b77dff15a59435f8de74fd085b82094a",
     "server_modified": "2024-11-07 20:41:28",
-    "last_sync": "2024-11-13 22:48:49.736748+00:00",
+    "last_sync": "2024-11-19 19:44:15.256163",
     "size": 152096,
+    "meta_text": null,
     "cat_ref": "KL00431",
     "work_ref": "W.KL00431",
-    "title_tib": "DPAL GTUM PO KHRO BO CHEN PO'I RGYUD KYI RGYAL PO DPA' BO GCIG PA ZHES BYA BA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "201911198728",
             "subject_path": "BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 4 (NGA)",
-            "subject_path_tibetan": "BKA' 'GYUR/RGYUD/4 (NGA)",
-            "subject_path_english": "Kangyur/Secret Teachings/VOL 4 (NGA)",
-            "subject_tibetan": "4 (NGA)",
-            "subject_english": "VOL 4 (NGA)"
+            "subject_path_tibetan": "BKA' 'GYUR/12. RGYUD/VOL 4 (NGA)",
+            "subject_path_english": "Kangyur/Secret Teachings (Tantra)",
+            "subject_tibetan": "VOL 4 (NGA)",
+            "subject_english": "Secret Teachings (Tantra)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
-    "title_skt": "Ekavīrakhya Śrī Caṇḍa Mahāroṣaṇa Tantra Rāja Nāma",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 4 (NGA)",
+            "timestamp": "2024-11-20 03:44:15.265916+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:48:49.740079+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:44:15.265916+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 4 (NGA)",
-            "timestamp": "2024-11-13 22:48:49.740079+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

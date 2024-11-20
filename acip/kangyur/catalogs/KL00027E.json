@@ -1,46 +1,53 @@
 {
     "name": "KL00027E_'PHAGS PA ZLA BA'I SNYING PO SHES RAB KYI PHA ROL TU PHYIN PA THEG PA CHEN PO'I MDO_An Exalted  of the Greater Way Entitled 'The Heart of the Moon, the Perfection of Wisdom' (Ārya Chandra Garbha Prajñā Pāramitā Mahāyāna Sūtra).txt",
-    "path": "BKA' 'GYUR_Kangyur/7. SHER PHYIN SNA TSOGS_Other Teachings on the Perfection of Wisdom/VOL 1 (KA)",
+    "path": "7. SHER PHYIN SNA TSOGS_Other Teachings on the Perfection of Wisdom/VOL 1 (KA)",
     "download_path": "/kangyur updated to 11 15 23 ws/7. sher phyin sna tsogs_other teachings on the perfection of wisdom/vol 1 (ka)/kl00027e_'phags pa zla ba'i snying po shes rab kyi pha rol tu phyin pa theg pa chen po'i mdo_an exalted  of the greater way entitled 'the heart of the moon, the perfection of wisdom' (ārya chandra garbha prajñā pāramitā mahāyāna sūtra).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACI3Q",
     "revision_id": "62658b183e8f18d294473",
     "content_hash": "910a4c56dc190d400ef08c894d30bebd584d692454b7b584e87a0ee77919ebc3",
     "server_modified": "2024-11-07 20:43:57",
-    "last_sync": "2024-11-13 22:50:03.219568+00:00",
+    "last_sync": "2024-11-19 19:45:35.813140",
     "size": 4340,
+    "meta_text": null,
     "cat_ref": "KL00027E",
     "work_ref": "W.KL00027E",
     "title_tib": "'PHAGS PA ZLA BA'I SNYING PO SHES RAB KYI PHA ROL TU PHYIN PA THEG PA CHEN PO'I MDO",
-    "title_eng": "An Exalted  of the Greater Way Entitled 'The Heart of the Moon, the Perfection of Wisdom'",
+    "title_eng": "An Exalted  of the Greater Way Entitled 'The Heart of the Moon, the Perfection of Wisdom' (Ārya Chandra Garbha Prajñā Pāramitā Mahāyāna Sūtra)",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "275935992789",
             "subject_path": "BKA' 'GYUR_Kangyur/7. SHER PHYIN SNA TSOGS_Other Teachings on the Perfection of Wisdom/VOL 1 (KA)",
-            "subject_path_tibetan": "BKA' 'GYUR/SHER PHYIN SNA TSOGS/1 (KA)",
-            "subject_path_english": "Kangyur/Other Teachings on the Perfection of Wisdom/VOL 1 (KA)",
-            "subject_tibetan": "1 (KA)",
-            "subject_english": "VOL 1 (KA)"
+            "subject_path_tibetan": "BKA' 'GYUR/7. SHER PHYIN SNA TSOGS/VOL 1 (KA)",
+            "subject_path_english": "Kangyur/Other Teachings on the Perfection of Wisdom",
+            "subject_tibetan": "VOL 1 (KA)",
+            "subject_english": "Other Teachings on the Perfection of Wisdom"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
-    "title_skt": "Ārya Chandra Garbha Prajñā Pāramitā Mahāyāna Sūtra",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/7. SHER PHYIN SNA TSOGS_Other Teachings on the Perfection of Wisdom/VOL 1 (KA)",
+            "timestamp": "2024-11-20 03:45:35.845927+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:50:03.222510+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:45:35.845927+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/7. SHER PHYIN SNA TSOGS_Other Teachings on the Perfection of Wisdom/VOL 1 (KA)",
-            "timestamp": "2024-11-13 22:50:03.222510+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }
