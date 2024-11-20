@@ -1,45 +1,53 @@
 {
     "name": "TD04108_SO SOR THAR PA'I BSHAD PA RNAMS MI BRJED DRAN BYED TZAM DU BRIS PA (Pratimokṣa Bhāṣya Saṃpramuṣitasmaraṇamātra Lekha).txt",
-    "path": "TENGYUR_TENGYUR/08 'DUL BA_Vowed Morality (Vinaya)/VOL 6 (MU)",
+    "path": "08 'DUL BA_Vowed Morality (Vinaya)/VOL 6 (MU)",
     "download_path": "/tengyur updated 10 31 24 ws/08 'dul ba_vowed morality (vinaya)/vol 6 (mu)/td04108_so sor thar pa'i bshad pa rnams mi brjed dran byed tzam du bris pa (pratimokṣa bhāṣya saṃpramuṣitasmaraṇamātra lekha).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB2tw",
     "revision_id": "62633b977366c8d294473",
     "content_hash": "a73c6550149cb151890a857c9399b0592211303f41adacc804115cbef90d183c",
     "server_modified": "2024-11-06 00:37:37",
-    "last_sync": "2024-11-13 01:57:51.493206+00:00",
+    "last_sync": "2024-11-20 03:58:42.257478",
     "size": 658683,
+    "meta_text": null,
     "cat_ref": "TD04108",
     "work_ref": "W.TD04108",
-    "title_tib": "SO SOR THAR PA'I BSHAD PA RNAMS MI BRJED DRAN BYED TZAM DU BRIS PA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "166769112098",
-            "subject_path": "TENGYUR_TENGYUR/08 'DUL BA_Vowed Morality (Vinaya)/VOL 6 (MU)",
-            "subject_path_tibetan": "TENGYUR/'DUL BA/6 (MU)",
-            "subject_path_english": "TENGYUR/Vowed Morality (Vinaya)/VOL 6 (MU)",
-            "subject_tibetan": "6 (MU)",
-            "subject_english": "VOL 6 (MU)"
+            "_id": "154786186293",
+            "subject_path": "BSTAN 'GYUR_Tengyur/08 'DUL BA_Vowed Morality (Vinaya)/VOL 6 (MU)",
+            "subject_path_tibetan": "BSTAN 'GYUR/08 'DUL BA/VOL 6 (MU)",
+            "subject_path_english": "Tengyur/Vowed Morality (Vinaya)",
+            "subject_tibetan": "VOL 6 (MU)",
+            "subject_english": "Vowed Morality (Vinaya)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Pratimokṣa Bhāṣya Saṃpramuṣitasmaraṇamātra Lekha",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/08 'DUL BA_Vowed Morality (Vinaya)/VOL 6 (MU)",
+            "timestamp": "2024-11-20 11:58:42.260798+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:57:51.495193+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T11:58:42.260798+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/08 'DUL BA_Vowed Morality (Vinaya)/VOL 6 (MU)",
-            "timestamp": "2024-11-13 01:57:51.495193+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

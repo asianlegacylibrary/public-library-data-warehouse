@@ -1,45 +1,53 @@
 {
     "name": "TD01111E_THAMS CAD MKHYEN PA DBANG PHYUG CHEN PO'I BSTOD PA_A Song of Praise to the Lord of Power, the One Who Knows All Things (Sarvajña Maheśvara Stotra).TXT",
-    "path": "TENGYUR_TENGYUR/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
+    "path": "01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
     "download_path": "/tengyur updated 10 31 24 ws/01 bstod tsogs_songs of praise (stotra)/vol 1 (ka)/td01111e_thams cad mkhyen pa dbang phyug chen po'i bstod pa_a song of praise to the lord of power, the one who knows all things (sarvajña maheśvara stotra).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB3nA",
     "revision_id": "62633bd2013108d294473",
     "content_hash": "fb2652f884d01db5b779e77077c60f418eba4895e6b118b15f957b240d67436d",
     "server_modified": "2024-11-06 00:38:38",
-    "last_sync": "2024-11-13 01:58:15.683501+00:00",
+    "last_sync": "2024-11-20 03:59:08.550097",
     "size": 3255,
+    "meta_text": null,
     "cat_ref": "TD01111E",
     "work_ref": "W.TD01111E",
     "title_tib": "THAMS CAD MKHYEN PA DBANG PHYUG CHEN PO'I BSTOD PA",
-    "title_eng": "A Song of Praise to the Lord of Power, the One Who Knows All Things",
+    "title_eng": "A Song of Praise to the Lord of Power, the One Who Knows All Things (Sarvajña Maheśvara Stotra)",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "212120326257",
-            "subject_path": "TENGYUR_TENGYUR/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
-            "subject_path_tibetan": "TENGYUR/BSTOD TSOGS/1 (KA)",
-            "subject_path_english": "TENGYUR/Songs of Praise (Stotra)/VOL 1 (KA)",
-            "subject_tibetan": "1 (KA)",
-            "subject_english": "VOL 1 (KA)"
+            "_id": "243715146395",
+            "subject_path": "BSTAN 'GYUR_Tengyur/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
+            "subject_path_tibetan": "BSTAN 'GYUR/01 BSTOD TSOGS/VOL 1 (KA)",
+            "subject_path_english": "Tengyur/Songs of Praise (Stotra)",
+            "subject_tibetan": "VOL 1 (KA)",
+            "subject_english": "Songs of Praise (Stotra)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Sarvajña Maheśvara Stotra",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
+            "timestamp": "2024-11-20 11:59:09.231129+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:58:15.694638+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T11:59:09.231129+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
-            "timestamp": "2024-11-13 01:58:15.694638+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

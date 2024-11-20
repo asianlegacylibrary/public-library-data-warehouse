@@ -1,45 +1,53 @@
 {
     "name": "TD02191_PHYAG NA RDO RJE'I LAM YAN LAG BRGYAD PA (Vajrapāṇi Mārgāṣṭāṃga).txt",
-    "path": "TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/15 PHYAG NA RDO RJE_Holder of the Diamond (Vajrapāṇi)/03 GTUM PO LHA LNGA_Five Wrathful Angels (Krodha Deva Pancha)/VOL 49 (DZI)",
+    "path": "02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/15 PHYAG NA RDO RJE_Holder of the Diamond (Vajrapāṇi)/03 GTUM PO LHA LNGA_Five Wrathful Angels (Krodha Deva Pancha)/VOL 49 (DZI)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/01 rnal 'byor bla med_unsurpassed practice (anuttara yoga)/15 phyag na rdo rje_holder of the diamond (vajrapāṇi)/03 gtum po lha lnga_five wrathful angels (krodha deva pancha)/vol 49 (dzi)/td02191_phyag na rdo rje'i lam yan lag brgyad pa (vajrapāṇi mārgāṣṭāṃga).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB-1Q",
     "revision_id": "62633d1c575578d294473",
     "content_hash": "fc09655addd6a48f7ec324219a986d62ef7fe869fdc7ed4886a7163a565327b1",
     "server_modified": "2024-11-06 00:44:24",
-    "last_sync": "2024-11-13 01:59:37.811566+00:00",
+    "last_sync": "2024-11-20 04:00:42.167060",
     "size": 15014,
+    "meta_text": null,
     "cat_ref": "TD02191",
     "work_ref": "W.TD02191",
-    "title_tib": "PHYAG NA RDO RJE'I LAM YAN LAG BRGYAD PA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "207543791155",
-            "subject_path": "TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/15 PHYAG NA RDO RJE_Holder of the Diamond (Vajrapāṇi)/03 GTUM PO LHA LNGA_Five Wrathful Angels (Krodha Deva Pancha)/VOL 49 (DZI)",
-            "subject_path_tibetan": "TENGYUR/RGYUD/RNAL 'BYOR BLA MED/PHYAG NA RDO RJE/GTUM PO LHA LNGA/49 (DZI)",
-            "subject_path_english": "TENGYUR/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Holder of the Diamond (Vajrapāṇi)/Five Wrathful Angels (Krodha Deva Pancha)/VOL 49 (DZI)",
-            "subject_tibetan": "49 (DZI)",
-            "subject_english": "VOL 49 (DZI)"
+            "_id": "158292286509",
+            "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/15 PHYAG NA RDO RJE_Holder of the Diamond (Vajrapāṇi)/03 GTUM PO LHA LNGA_Five Wrathful Angels (Krodha Deva Pancha)/VOL 49 (DZI)",
+            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/01 RNAL 'BYOR BLA MED/15 PHYAG NA RDO RJE/03 GTUM PO LHA LNGA/VOL 49 (DZI)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Holder of the Diamond (Vajrapāṇi)/Five Wrathful Angels (Krodha Deva Pancha)",
+            "subject_tibetan": "VOL 49 (DZI)",
+            "subject_english": "Five Wrathful Angels (Krodha Deva Pancha)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Vajrapāṇi Mārgāṣṭāṃga",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/15 PHYAG NA RDO RJE_Holder of the Diamond (Vajrapāṇi)/03 GTUM PO LHA LNGA_Five Wrathful Angels (Krodha Deva Pancha)/VOL 49 (DZI)",
+            "timestamp": "2024-11-20 12:00:42.169204+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:59:37.814173+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T12:00:42.169204+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/15 PHYAG NA RDO RJE_Holder of the Diamond (Vajrapāṇi)/03 GTUM PO LHA LNGA_Five Wrathful Angels (Krodha Deva Pancha)/VOL 49 (DZI)",
-            "timestamp": "2024-11-13 01:59:37.814173+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

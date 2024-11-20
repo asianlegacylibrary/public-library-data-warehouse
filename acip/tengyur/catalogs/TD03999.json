@@ -1,45 +1,53 @@
 {
     "name": "TD03999_'PHAGS PA SA BCU'I MDO SDE'I GLENG GZHI BSHAD PA (Ārya Daśa Bhūmi Sūtra Nidāna Bhāṣya).txt",
-    "path": "TENGYUR_TENGYUR/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 4 (JI)",
+    "path": "05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 4 (JI)",
     "download_path": "/tengyur updated 10 31 24 ws/05 mdo 'grel_commentaries to sutras (sūtra vṛtti)/vol 4 (ji)/td03999_'phags pa sa bcu'i mdo sde'i gleng gzhi bshad pa (ārya daśa bhūmi sūtra nidāna bhāṣya).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB1pA",
     "revision_id": "62633b3464f018d294473",
     "content_hash": "12ef3ef0b8d58c112bee5e54cf9f6c0a015026f70b10f87260cec358721ad2f4",
     "server_modified": "2024-11-06 00:35:53",
-    "last_sync": "2024-11-13 01:57:17.567819+00:00",
+    "last_sync": "2024-11-20 03:58:06.717591",
     "size": 13203,
+    "meta_text": null,
     "cat_ref": "TD03999",
     "work_ref": "W.TD03999",
-    "title_tib": "'PHAGS PA SA BCU'I MDO SDE'I GLENG GZHI BSHAD PA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "200687246822",
-            "subject_path": "TENGYUR_TENGYUR/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 4 (JI)",
-            "subject_path_tibetan": "TENGYUR/MDO 'GREL/4 (JI)",
-            "subject_path_english": "TENGYUR/Commentaries to Sutras (Sūtra Vṛtti)/VOL 4 (JI)",
-            "subject_tibetan": "4 (JI)",
-            "subject_english": "VOL 4 (JI)"
+            "_id": "164592281565",
+            "subject_path": "BSTAN 'GYUR_Tengyur/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 4 (JI)",
+            "subject_path_tibetan": "BSTAN 'GYUR/05 MDO 'GREL/VOL 4 (JI)",
+            "subject_path_english": "Tengyur/Commentaries to Sutras (Sūtra Vṛtti)",
+            "subject_tibetan": "VOL 4 (JI)",
+            "subject_english": "Commentaries to Sutras (Sūtra Vṛtti)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Ārya Daśa Bhūmi Sūtra Nidāna Bhāṣya",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 4 (JI)",
+            "timestamp": "2024-11-20 11:58:06.729818+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:57:17.571743+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T11:58:06.729818+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 4 (JI)",
-            "timestamp": "2024-11-13 01:57:17.571743+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

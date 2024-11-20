@@ -1,45 +1,53 @@
 {
     "name": "TD03790-1_SHES RAB KYI PHA ROL TU PHYIN PA STONG PHRAG NYI SHU LNGA PA (Pañca Viṃśatisāhasrikā Prajñā Pāramitā).txt",
-    "path": "TENGYUR_TENGYUR/03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 3 (GA)",
+    "path": "03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 3 (GA)",
     "download_path": "/tengyur updated 10 31 24 ws/03 shes phyin_perfection of wisdom (prajñā pāramitā)/vol 3 (ga)/td03790-1_shes rab kyi pha rol tu phyin pa stong phrag nyi shu lnga pa (pañca viṃśatisāhasrikā prajñā pāramitā).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACEzA",
     "revision_id": "62633e451207b8d294473",
     "content_hash": "841061c37ba732a977ac0e634ece7dd240e9eb6f4dc82101d2de070f16e96e28",
     "server_modified": "2024-11-06 00:49:35",
-    "last_sync": "2024-11-13 02:00:33.185494+00:00",
+    "last_sync": "2024-11-20 04:01:36.609735",
     "size": 1225545,
+    "meta_text": null,
     "cat_ref": "TD03790-1",
     "work_ref": "W.TD03790-1",
-    "title_tib": "SHES RAB KYI PHA ROL TU PHYIN PA STONG PHRAG NYI SHU LNGA PA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "183101849255",
-            "subject_path": "TENGYUR_TENGYUR/03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 3 (GA)",
-            "subject_path_tibetan": "TENGYUR/SHES PHYIN/3 (GA)",
-            "subject_path_english": "TENGYUR/Perfection of Wisdom (Prajñā Pāramitā)/VOL 3 (GA)",
-            "subject_tibetan": "3 (GA)",
-            "subject_english": "VOL 3 (GA)"
+            "_id": "210224224531",
+            "subject_path": "BSTAN 'GYUR_Tengyur/03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 3 (GA)",
+            "subject_path_tibetan": "BSTAN 'GYUR/03 SHES PHYIN/VOL 3 (GA)",
+            "subject_path_english": "Tengyur/Perfection of Wisdom (Prajñā Pāramitā)",
+            "subject_tibetan": "VOL 3 (GA)",
+            "subject_english": "Perfection of Wisdom (Prajñā Pāramitā)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Pañca Viṃśatisāhasrikā Prajñā Pāramitā",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 3 (GA)",
+            "timestamp": "2024-11-20 12:01:36.615070+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T02:00:33.471858+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T12:01:36.615070+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 3 (GA)",
-            "timestamp": "2024-11-13 02:00:33.471858+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

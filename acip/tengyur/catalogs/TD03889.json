@@ -1,45 +1,53 @@
 {
     "name": "TD03889_CHOS THAMS CAD RANG BZHIN MED PAR GRUB PA (Sarva Dharmāsvabhāva Siddhi).txt",
-    "path": "TENGYUR_TENGYUR/04 DBU MA_Middle Way School (Madhyamaka)/VOL 12 (SA)",
+    "path": "04 DBU MA_Middle Way School (Madhyamaka)/VOL 12 (SA)",
     "download_path": "/tengyur updated 10 31 24 ws/04 dbu ma_middle way school (madhyamaka)/vol 12 (sa)/td03889_chos thams cad rang bzhin med par grub pa (sarva dharmāsvabhāva siddhi).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB29w",
     "revision_id": "62633baf6c3968d294473",
     "content_hash": "d2f7e38c460e9460ed1fe30f86423a8023d0a5d49dea3a6182f1036e9d3f0a9c",
     "server_modified": "2024-11-06 00:38:02",
-    "last_sync": "2024-11-13 01:58:04.418026+00:00",
+    "last_sync": "2024-11-20 03:58:55.954476",
     "size": 74673,
+    "meta_text": null,
     "cat_ref": "TD03889",
     "work_ref": "W.TD03889",
-    "title_tib": "CHOS THAMS CAD RANG BZHIN MED PAR GRUB PA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "104452675864",
-            "subject_path": "TENGYUR_TENGYUR/04 DBU MA_Middle Way School (Madhyamaka)/VOL 12 (SA)",
-            "subject_path_tibetan": "TENGYUR/DBU MA/12 (SA)",
-            "subject_path_english": "TENGYUR/Middle Way School (Madhyamaka)/VOL 12 (SA)",
-            "subject_tibetan": "12 (SA)",
-            "subject_english": "VOL 12 (SA)"
+            "_id": "222100395445",
+            "subject_path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 12 (SA)",
+            "subject_path_tibetan": "BSTAN 'GYUR/04 DBU MA/VOL 12 (SA)",
+            "subject_path_english": "Tengyur/Middle Way School (Madhyamaka)",
+            "subject_tibetan": "VOL 12 (SA)",
+            "subject_english": "Middle Way School (Madhyamaka)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Sarva Dharmāsvabhāva Siddhi",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 12 (SA)",
+            "timestamp": "2024-11-20 11:58:55.959355+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:58:04.420517+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T11:58:55.959355+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/04 DBU MA_Middle Way School (Madhyamaka)/VOL 12 (SA)",
-            "timestamp": "2024-11-13 01:58:04.420517+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

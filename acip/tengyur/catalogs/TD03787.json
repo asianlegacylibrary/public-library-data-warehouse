@@ -1,45 +1,53 @@
 {
     "name": "TD03787_'PHAGS PA SHES RAB KYI PHA ROL TU PHYIN PA STONG PHRAG NYI SHU LNGA PA'I MAN NGAG GI BSTAN BCOS MNGON PAR RTOGS PA'I RGYAN GYI 'GREL PA (Ārya Pañca Viṃśatisāhasrikā Prajñā Pāramita Upadeśa Śāstrābhisamayālaṃkāra Vṛtti).txt",
-    "path": "TENGYUR_TENGYUR/03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 1 (KA)",
+    "path": "03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 1 (KA)",
     "download_path": "/tengyur updated 10 31 24 ws/03 shes phyin_perfection of wisdom (prajñā pāramitā)/vol 1 (ka)/td03787_'phags pa shes rab kyi pha rol tu phyin pa stong phrag nyi shu lnga pa'i man ngag gi bstan bcos mngon par rtogs pa'i rgyan gyi 'grel pa (ārya pañca viṃśatisāhasrikā prajñā pāramita upadeśa śāstrābhisamayālaṃkāra vṛtti).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACEuw",
     "revision_id": "62633e39e33618d294473",
     "content_hash": "e190c8291cec19aeda6347073d722ad709706c478076f514cad521dce2c442e4",
     "server_modified": "2024-11-06 00:49:24",
-    "last_sync": "2024-11-13 02:00:27.848620+00:00",
+    "last_sync": "2024-11-20 04:01:29.353562",
     "size": 748144,
+    "meta_text": null,
     "cat_ref": "TD03787",
     "work_ref": "W.TD03787",
-    "title_tib": "'PHAGS PA SHES RAB KYI PHA ROL TU PHYIN PA STONG PHRAG NYI SHU LNGA PA'I MAN NGAG GI BSTAN BCOS MNGON PAR RTOGS PA'I RGYAN GYI 'GREL PA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "121601458848",
-            "subject_path": "TENGYUR_TENGYUR/03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 1 (KA)",
-            "subject_path_tibetan": "TENGYUR/SHES PHYIN/1 (KA)",
-            "subject_path_english": "TENGYUR/Perfection of Wisdom (Prajñā Pāramitā)/VOL 1 (KA)",
-            "subject_tibetan": "1 (KA)",
-            "subject_english": "VOL 1 (KA)"
+            "_id": "353501306299",
+            "subject_path": "BSTAN 'GYUR_Tengyur/03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 1 (KA)",
+            "subject_path_tibetan": "BSTAN 'GYUR/03 SHES PHYIN/VOL 1 (KA)",
+            "subject_path_english": "Tengyur/Perfection of Wisdom (Prajñā Pāramitā)",
+            "subject_tibetan": "VOL 1 (KA)",
+            "subject_english": "Perfection of Wisdom (Prajñā Pāramitā)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Ārya Pañca Viṃśatisāhasrikā Prajñā Pāramita Upadeśa Śāstrābhisamayālaṃkāra Vṛtti",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 1 (KA)",
+            "timestamp": "2024-11-20 12:01:29.355427+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T02:00:27.849740+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T12:01:29.355427+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 1 (KA)",
-            "timestamp": "2024-11-13 02:00:27.849740+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

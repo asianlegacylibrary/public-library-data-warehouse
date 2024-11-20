@@ -1,45 +1,53 @@
 {
     "name": "TD01815_RDO RJE SEMS DPA'I SGRUB THABS KYI 'GREL PA (Vajrasattva Sādhana Nibhandha).txt",
-    "path": "TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/10 GSANG BA ‘DUS PA_Secret Collection (Guhya Samāja)/01 KLU SGRUB LUGS_System of Arya Nagarjuna (Nāgārjuna Krama)/02 SGRUB SKOR_Practice Materials (Sādhya)/VOL 34 (NGI)",
+    "path": "02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/10 GSANG BA ‘DUS PA_Secret Collection (Guhya Samāja)/01 KLU SGRUB LUGS_System of Arya Nagarjuna (Nāgārjuna Krama)/02 SGRUB SKOR_Practice Materials (Sādhya)/VOL 34 (NGI)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/01 rnal 'byor bla med_unsurpassed practice (anuttara yoga)/10 gsang ba ‘dus pa_secret collection (guhya samāja)/01 klu sgrub lugs_system of arya nagarjuna (nāgārjuna krama)/02 sgrub skor_practice materials (sādhya)/vol 34 (ngi)/td01815_rdo rje sems dpa'i sgrub thabs kyi 'grel pa (vajrasattva sādhana nibhandha).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB6kA",
     "revision_id": "62633c4f953398d294473",
     "content_hash": "bfef1f2e4c8d8eece44904cbd91392d4555d1e3c4b278bfb160cf9aa324d15c8",
     "server_modified": "2024-11-06 00:40:50",
-    "last_sync": "2024-11-13 01:58:46.735368+00:00",
+    "last_sync": "2024-11-20 03:59:45.252903",
     "size": 16184,
+    "meta_text": null,
     "cat_ref": "TD01815",
     "work_ref": "W.TD01815",
-    "title_tib": "RDO RJE SEMS DPA'I SGRUB THABS KYI 'GREL PA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "102741711701",
-            "subject_path": "TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/10 GSANG BA ‘DUS PA_Secret Collection (Guhya Samāja)/01 KLU SGRUB LUGS_System of Arya Nagarjuna (Nāgārjuna Krama)/02 SGRUB SKOR_Practice Materials (Sādhya)/VOL 34 (NGI)",
-            "subject_path_tibetan": "TENGYUR/RGYUD/RNAL 'BYOR BLA MED/GSANG BA ‘DUS PA/KLU SGRUB LUGS/SGRUB SKOR/34 (NGI)",
-            "subject_path_english": "TENGYUR/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Secret Collection (Guhya Samāja)/System of Arya Nagarjuna (Nāgārjuna Krama)/Practice Materials (Sādhya)/VOL 34 (NGI)",
-            "subject_tibetan": "34 (NGI)",
-            "subject_english": "VOL 34 (NGI)"
+            "_id": "197768902371",
+            "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/10 GSANG BA ‘DUS PA_Secret Collection (Guhya Samāja)/01 KLU SGRUB LUGS_System of Arya Nagarjuna (Nāgārjuna Krama)/02 SGRUB SKOR_Practice Materials (Sādhya)/VOL 34 (NGI)",
+            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/01 RNAL 'BYOR BLA MED/10 GSANG BA ‘DUS PA/01 KLU SGRUB LUGS/02 SGRUB SKOR/VOL 34 (NGI)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Secret Collection (Guhya Samāja)/System of Arya Nagarjuna (Nāgārjuna Krama)/Practice Materials (Sādhya)",
+            "subject_tibetan": "VOL 34 (NGI)",
+            "subject_english": "Practice Materials (Sādhya)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Vajrasattva Sādhana Nibhandha",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/10 GSANG BA ‘DUS PA_Secret Collection (Guhya Samāja)/01 KLU SGRUB LUGS_System of Arya Nagarjuna (Nāgārjuna Krama)/02 SGRUB SKOR_Practice Materials (Sādhya)/VOL 34 (NGI)",
+            "timestamp": "2024-11-20 11:59:45.269256+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:58:46.741464+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T11:59:45.269256+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/10 GSANG BA ‘DUS PA_Secret Collection (Guhya Samāja)/01 KLU SGRUB LUGS_System of Arya Nagarjuna (Nāgārjuna Krama)/02 SGRUB SKOR_Practice Materials (Sādhya)/VOL 34 (NGI)",
-            "timestamp": "2024-11-13 01:58:46.741464+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

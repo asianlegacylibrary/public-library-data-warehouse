@@ -1,45 +1,53 @@
 {
     "name": "TD04454_SKAD DOD GCIG GIS DON DU MAR 'JUG PA'I MNGON BRJOD NOR BU'I PHRENG BA (Ekaśabda Bahvartha Pravartanābhidhāna Maṇi Mālā).txt",
-    "path": "TENGYUR_TENGYUR/16 SNA TSOGS_Miscellany (Citritā)/VOL 9 (PO)",
+    "path": "16 SNA TSOGS_Miscellany (Citritā)/VOL 9 (PO)",
     "download_path": "/tengyur updated 10 31 24 ws/16 sna tsogs_miscellany (citritā)/vol 9 (po)/td04454_skad dod gcig gis don du mar 'jug pa'i mngon brjod nor bu'i phreng ba (ekaśabda bahvartha pravartanābhidhāna maṇi mālā).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACEiw",
     "revision_id": "62633e22b6fad8d294473",
     "content_hash": "d58c538e6cac8faf891d9763fd48af8051705ee99bb505407f0ae12c48ea2af0",
     "server_modified": "2024-11-06 00:48:59",
-    "last_sync": "2024-11-13 02:00:22.117252+00:00",
+    "last_sync": "2024-11-20 04:01:24.399010",
     "size": 305495,
+    "meta_text": null,
     "cat_ref": "TD04454",
     "work_ref": "W.TD04454",
-    "title_tib": "SKAD DOD GCIG GIS DON DU MAR 'JUG PA'I MNGON BRJOD NOR BU'I PHRENG BA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "139984543347",
-            "subject_path": "TENGYUR_TENGYUR/16 SNA TSOGS_Miscellany (Citritā)/VOL 9 (PO)",
-            "subject_path_tibetan": "TENGYUR/SNA TSOGS/9 (PO)",
-            "subject_path_english": "TENGYUR/Miscellany (Citritā)/VOL 9 (PO)",
-            "subject_tibetan": "9 (PO)",
-            "subject_english": "VOL 9 (PO)"
+            "_id": "116521340964",
+            "subject_path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 9 (PO)",
+            "subject_path_tibetan": "BSTAN 'GYUR/16 SNA TSOGS/VOL 9 (PO)",
+            "subject_path_english": "Tengyur/Miscellany (Citritā)",
+            "subject_tibetan": "VOL 9 (PO)",
+            "subject_english": "Miscellany (Citritā)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Ekaśabda Bahvartha Pravartanābhidhāna Maṇi Mālā",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 9 (PO)",
+            "timestamp": "2024-11-20 12:01:24.405023+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T02:00:22.120597+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T12:01:24.405023+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/16 SNA TSOGS_Miscellany (Citritā)/VOL 9 (PO)",
-            "timestamp": "2024-11-13 02:00:22.120597+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

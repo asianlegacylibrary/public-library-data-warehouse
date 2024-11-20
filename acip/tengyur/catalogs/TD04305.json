@@ -1,45 +1,53 @@
 {
     "name": "TD04305_SDEB SBYOR GYI PHRENG BA'I BSTOD PA (Vṛttamālā Stuti).txt",
-    "path": "TENGYUR_TENGYUR/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 4 (SE)",
+    "path": "12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 4 (SE)",
     "download_path": "/tengyur updated 10 31 24 ws/12 sgra mdo_study of sanskrit language (śabda)/vol 4 (se)/td04305_sdeb sbyor gyi phreng ba'i bstod pa (vṛttamālā stuti).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACD8g",
     "revision_id": "62633e04a3a4c8d294473",
     "content_hash": "a67c9e49636c49f47b2982e4c85b073c1ebd09016e42c39be9c2697b69990dff",
     "server_modified": "2024-11-06 00:48:28",
-    "last_sync": "2024-11-13 02:00:17.158337+00:00",
+    "last_sync": "2024-11-20 04:01:19.477619",
     "size": 41884,
+    "meta_text": null,
     "cat_ref": "TD04305",
     "work_ref": "W.TD04305",
-    "title_tib": "SDEB SBYOR GYI PHRENG BA'I BSTOD PA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "316574165919",
-            "subject_path": "TENGYUR_TENGYUR/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 4 (SE)",
-            "subject_path_tibetan": "TENGYUR/SGRA MDO/4 (SE)",
-            "subject_path_english": "TENGYUR/Study of Sanskrit Language (Śabda)/VOL 4 (SE)",
-            "subject_tibetan": "4 (SE)",
-            "subject_english": "VOL 4 (SE)"
+            "_id": "317736870141",
+            "subject_path": "BSTAN 'GYUR_Tengyur/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 4 (SE)",
+            "subject_path_tibetan": "BSTAN 'GYUR/12 SGRA MDO/VOL 4 (SE)",
+            "subject_path_english": "Tengyur/Study of Sanskrit Language (Śabda)",
+            "subject_tibetan": "VOL 4 (SE)",
+            "subject_english": "Study of Sanskrit Language (Śabda)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Vṛttamālā Stuti",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 4 (SE)",
+            "timestamp": "2024-11-20 12:01:19.491663+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T02:00:17.161905+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T12:01:19.491663+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 4 (SE)",
-            "timestamp": "2024-11-13 02:00:17.161905+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

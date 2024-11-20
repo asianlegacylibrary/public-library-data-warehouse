@@ -1,45 +1,53 @@
 {
     "name": "TD04332_TSIGS SU BCAD PA BRGYA PA (Śata Gāthā).txt",
-    "path": "TENGYUR_TENGYUR/15 LUGS KYI BSTAN BCOS_Secular Knowledge (Nīti Śāstra)/VOL 1 (NGO-2)",
+    "path": "15 LUGS KYI BSTAN BCOS_Secular Knowledge (Nīti Śāstra)/VOL 1 (NGO-2)",
     "download_path": "/tengyur updated 10 31 24 ws/15 lugs kyi bstan bcos_secular knowledge (nīti śāstra)/vol 1 (ngo-2)/td04332_tsigs su bcad pa brgya pa (śata gāthā).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB19w",
     "revision_id": "62633b45592438d294473",
     "content_hash": "3dcf844fd8ee0f151fc70b526188f1eb6d3a410212876a2180e49626001d5374",
     "server_modified": "2024-11-06 00:36:10",
-    "last_sync": "2024-11-13 01:57:23.243867+00:00",
+    "last_sync": "2024-11-20 03:58:13.767974",
     "size": 16220,
+    "meta_text": null,
     "cat_ref": "TD04332",
     "work_ref": "W.TD04332",
-    "title_tib": "TSIGS SU BCAD PA BRGYA PA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "816960517804",
-            "subject_path": "TENGYUR_TENGYUR/15 LUGS KYI BSTAN BCOS_Secular Knowledge (Nīti Śāstra)/VOL 1 (NGO-2)",
-            "subject_path_tibetan": "TENGYUR/LUGS KYI BSTAN BCOS/1 (NGO-2)",
-            "subject_path_english": "TENGYUR/Secular Knowledge (Nīti Śāstra)/VOL 1 (NGO-2)",
-            "subject_tibetan": "1 (NGO-2)",
-            "subject_english": "VOL 1 (NGO-2)"
+            "_id": "140567962529",
+            "subject_path": "BSTAN 'GYUR_Tengyur/15 LUGS KYI BSTAN BCOS_Secular Knowledge (Nīti Śāstra)/VOL 1 (NGO-2)",
+            "subject_path_tibetan": "BSTAN 'GYUR/15 LUGS KYI BSTAN BCOS/VOL 1 (NGO-2)",
+            "subject_path_english": "Tengyur/Secular Knowledge (Nīti Śāstra)",
+            "subject_tibetan": "VOL 1 (NGO-2)",
+            "subject_english": "Secular Knowledge (Nīti Śāstra)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Śata Gāthā",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/15 LUGS KYI BSTAN BCOS_Secular Knowledge (Nīti Śāstra)/VOL 1 (NGO-2)",
+            "timestamp": "2024-11-20 11:58:13.784372+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:57:23.248801+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T11:58:13.784372+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/15 LUGS KYI BSTAN BCOS_Secular Knowledge (Nīti Śāstra)/VOL 1 (NGO-2)",
-            "timestamp": "2024-11-13 01:57:23.248801+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

@@ -1,45 +1,53 @@
 {
     "name": "TD03739_'PHAGS PA TSOGS KYI BDAG PO CHAGS PA RDO RJE'I DAM TSIG GI BSTOD PA ZHES BYA BA (Ārya Gaṇapatirāga Vajrasamaya Stotra (Nāma)).txt",
-    "path": "TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/VOL 78 (TSU)",
+    "path": "02 RGYUD_Diamond Way (Vajrayāna)/VOL 78 (TSU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/vol 78 (tsu)/td03739_'phags pa tsogs kyi bdag po chags pa rdo rje'i dam tsig gi bstod pa zhes bya ba (ārya gaṇapatirāga vajrasamaya stotra (nāma)).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB42w",
     "revision_id": "62633c0c880dc8d294473",
     "content_hash": "360e0210c03c66b83a06d44751aad5c72173b0ba59375913a4661f09cbb121f6",
     "server_modified": "2024-11-06 00:39:39",
-    "last_sync": "2024-11-13 01:58:32.431766+00:00",
+    "last_sync": "2024-11-20 03:59:31.717564",
     "size": 1807,
+    "meta_text": null,
     "cat_ref": "TD03739",
     "work_ref": "W.TD03739",
-    "title_tib": "'PHAGS PA TSOGS KYI BDAG PO CHAGS PA RDO RJE'I DAM TSIG GI BSTOD PA ZHES BYA BA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "415438233803",
-            "subject_path": "TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/VOL 78 (TSU)",
-            "subject_path_tibetan": "TENGYUR/RGYUD/78 (TSU)",
-            "subject_path_english": "TENGYUR/Diamond Way (Vajrayāna)/VOL 78 (TSU)",
-            "subject_tibetan": "78 (TSU)",
-            "subject_english": "VOL 78 (TSU)"
+            "_id": "869790939477",
+            "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 78 (TSU)",
+            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/VOL 78 (TSU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)",
+            "subject_tibetan": "VOL 78 (TSU)",
+            "subject_english": "Diamond Way (Vajrayāna)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Ārya Gaṇapatirāga Vajrasamaya Stotra (Nāma)",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 78 (TSU)",
+            "timestamp": "2024-11-20 11:59:31.750810+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:58:32.438611+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T11:59:31.750810+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/VOL 78 (TSU)",
-            "timestamp": "2024-11-13 01:58:32.438611+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

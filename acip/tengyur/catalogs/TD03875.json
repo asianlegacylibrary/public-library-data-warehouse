@@ -1,45 +1,53 @@
 {
     "name": "TD03875_BYANG CHUB SEMS DPA'I SPYOD PA LA 'JUG PA'I RTOGS PAR DKA' BA'I GNAS GTAN LA DBAB PA ZHES BYA BA'I GZHUNG (Bodhisattva Caryāvatāra Duravabodhana Nirṇaya Nāma Grantha).txt",
-    "path": "TENGYUR_TENGYUR/04 DBU MA_Middle Way School (Madhyamaka)/VOL 11 (SHA)",
+    "path": "04 DBU MA_Middle Way School (Madhyamaka)/VOL 11 (SHA)",
     "download_path": "/tengyur updated 10 31 24 ws/04 dbu ma_middle way school (madhyamaka)/vol 11 (sha)/td03875_byang chub sems dpa'i spyod pa la 'jug pa'i rtogs par dka' ba'i gnas gtan la dbab pa zhes bya ba'i gzhung (bodhisattva caryāvatāra duravabodhana nirṇaya nāma grantha).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB3Hg",
     "revision_id": "62633bbc31eed8d294473",
     "content_hash": "7ba11d4b6af3a029b9903d2e4e384729d27e3e5d2ba59332fde3bff1826ae00f",
     "server_modified": "2024-11-06 00:38:15",
-    "last_sync": "2024-11-13 01:58:08.654345+00:00",
+    "last_sync": "2024-11-20 03:59:01.692332",
     "size": 19475,
+    "meta_text": null,
     "cat_ref": "TD03875",
     "work_ref": "W.TD03875",
-    "title_tib": "BYANG CHUB SEMS DPA'I SPYOD PA LA 'JUG PA'I RTOGS PAR DKA' BA'I GNAS GTAN LA DBAB PA ZHES BYA BA'I GZHUNG",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "210975212788",
-            "subject_path": "TENGYUR_TENGYUR/04 DBU MA_Middle Way School (Madhyamaka)/VOL 11 (SHA)",
-            "subject_path_tibetan": "TENGYUR/DBU MA/11 (SHA)",
-            "subject_path_english": "TENGYUR/Middle Way School (Madhyamaka)/VOL 11 (SHA)",
-            "subject_tibetan": "11 (SHA)",
-            "subject_english": "VOL 11 (SHA)"
+            "_id": "197467236894",
+            "subject_path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 11 (SHA)",
+            "subject_path_tibetan": "BSTAN 'GYUR/04 DBU MA/VOL 11 (SHA)",
+            "subject_path_english": "Tengyur/Middle Way School (Madhyamaka)",
+            "subject_tibetan": "VOL 11 (SHA)",
+            "subject_english": "Middle Way School (Madhyamaka)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Bodhisattva Caryāvatāra Duravabodhana Nirṇaya Nāma Grantha",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 11 (SHA)",
+            "timestamp": "2024-11-20 11:59:01.706924+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:58:08.976947+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T11:59:01.706924+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/04 DBU MA_Middle Way School (Madhyamaka)/VOL 11 (SHA)",
-            "timestamp": "2024-11-13 01:58:08.976947+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

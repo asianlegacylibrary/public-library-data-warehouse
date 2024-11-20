@@ -1,44 +1,53 @@
 {
     "name": "TD04451_LTA BA RIN CHEN SGRON PA.txt",
-    "path": "TENGYUR_TENGYUR/16 SNA TSOGS_Miscellany (Citritā)/VOL 8 (NO)",
+    "path": "16 SNA TSOGS_Miscellany (Citritā)/VOL 8 (NO)",
     "download_path": "/tengyur updated 10 31 24 ws/16 sna tsogs_miscellany (citritā)/vol 8 (no)/td04451_lta ba rin chen sgron pa.txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACELQ",
     "revision_id": "62633e0e797488d294473",
     "content_hash": "7f7483a417aac96fc65b9a7e64ef18ecf44220b20bb446a93008eff90095ecba",
     "server_modified": "2024-11-06 00:48:38",
-    "last_sync": "2024-11-13 02:00:18.902963+00:00",
+    "last_sync": "2024-11-20 04:01:21.269650",
     "size": 2869,
+    "meta_text": null,
     "cat_ref": "TD04451",
     "work_ref": "W.TD04451",
     "title_tib": "LTA BA RIN CHEN SGRON PA",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "568095669372",
-            "subject_path": "TENGYUR_TENGYUR/16 SNA TSOGS_Miscellany (Citritā)/VOL 8 (NO)",
-            "subject_path_tibetan": "TENGYUR/SNA TSOGS/8 (NO)",
-            "subject_path_english": "TENGYUR/Miscellany (Citritā)/VOL 8 (NO)",
-            "subject_tibetan": "8 (NO)",
-            "subject_english": "VOL 8 (NO)"
+            "_id": "274252574525",
+            "subject_path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 8 (NO)",
+            "subject_path_tibetan": "BSTAN 'GYUR/16 SNA TSOGS/VOL 8 (NO)",
+            "subject_path_english": "Tengyur/Miscellany (Citritā)",
+            "subject_tibetan": "VOL 8 (NO)",
+            "subject_english": "Miscellany (Citritā)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 8 (NO)",
+            "timestamp": "2024-11-20 12:01:21.274148+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T02:00:18.908014+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T12:01:21.274148+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/16 SNA TSOGS_Miscellany (Citritā)/VOL 8 (NO)",
-            "timestamp": "2024-11-13 02:00:18.908014+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

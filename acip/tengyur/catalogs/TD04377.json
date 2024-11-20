@@ -1,45 +1,53 @@
 {
     "name": "TD04377_'PHAGS PA BZANG PO SPYOD PA'I SMON LAM GYI RGYAL PO (Ārya Bhadracaryā Praṇidhāna Rāja).txt",
-    "path": "TENGYUR_TENGYUR/16 SNA TSOGS_Miscellany (Citritā)/VOL 4 (NYO)",
+    "path": "16 SNA TSOGS_Miscellany (Citritā)/VOL 4 (NYO)",
     "download_path": "/tengyur updated 10 31 24 ws/16 sna tsogs_miscellany (citritā)/vol 4 (nyo)/td04377_'phags pa bzang po spyod pa'i smon lam gyi rgyal po (ārya bhadracaryā praṇidhāna rāja).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACEQQ",
     "revision_id": "62633e12c674d8d294473",
     "content_hash": "7697da2dccbaf32bd9e9b57dff3687d2bdce734795eddb07de528ee781ee40fe",
     "server_modified": "2024-11-06 00:48:43",
-    "last_sync": "2024-11-13 02:00:19.797076+00:00",
+    "last_sync": "2024-11-20 04:01:22.196544",
     "size": 11722,
+    "meta_text": null,
     "cat_ref": "TD04377",
     "work_ref": "W.TD04377",
-    "title_tib": "'PHAGS PA BZANG PO SPYOD PA'I SMON LAM GYI RGYAL PO",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "131754078184",
-            "subject_path": "TENGYUR_TENGYUR/16 SNA TSOGS_Miscellany (Citritā)/VOL 4 (NYO)",
-            "subject_path_tibetan": "TENGYUR/SNA TSOGS/4 (NYO)",
-            "subject_path_english": "TENGYUR/Miscellany (Citritā)/VOL 4 (NYO)",
-            "subject_tibetan": "4 (NYO)",
-            "subject_english": "VOL 4 (NYO)"
+            "_id": "279475421118",
+            "subject_path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 4 (NYO)",
+            "subject_path_tibetan": "BSTAN 'GYUR/16 SNA TSOGS/VOL 4 (NYO)",
+            "subject_path_english": "Tengyur/Miscellany (Citritā)",
+            "subject_tibetan": "VOL 4 (NYO)",
+            "subject_english": "Miscellany (Citritā)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Ārya Bhadracaryā Praṇidhāna Rāja",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 4 (NYO)",
+            "timestamp": "2024-11-20 12:01:22.241059+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T02:00:19.805734+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T12:01:22.241059+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/16 SNA TSOGS_Miscellany (Citritā)/VOL 4 (NYO)",
-            "timestamp": "2024-11-13 02:00:19.805734+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

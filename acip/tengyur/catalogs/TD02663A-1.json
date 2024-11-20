@@ -1,44 +1,53 @@
 {
     "name": "TD02663A-1_RNAM PAR SNANG MDZAD MNGON  PAR RDZOGS PA BYANG CHUB PA'I RGYUD KYI TSIG 'GREL ZHES BYA BA.txt",
-    "path": "TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/03 SPYOD PA'I RGYUD_Secret Class of Activity (Charya Tantra)/VOL 68 (NYU)",
+    "path": "02 RGYUD_Diamond Way (Vajrayāna)/03 SPYOD PA'I RGYUD_Secret Class of Activity (Charya Tantra)/VOL 68 (NYU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/03 spyod pa'i rgyud_secret class of activity (charya tantra)/vol 68 (nyu)/td02663a-1_rnam par snang mdzad mngon  par rdzogs pa byang chub pa'i rgyud kyi tsig 'grel zhes bya ba.txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACA-Q",
     "revision_id": "62633d7aa76b88d294473",
     "content_hash": "8fdd5a12ad9d3e4f0888d52984af35b41be1991e382822c631bf386be09c7432",
     "server_modified": "2024-11-06 00:46:03",
-    "last_sync": "2024-11-13 01:59:41.725019+00:00",
+    "last_sync": "2024-11-20 04:00:46.852890",
     "size": 366201,
+    "meta_text": null,
     "cat_ref": "TD02663A-1",
     "work_ref": "W.TD02663A-1",
     "title_tib": "RNAM PAR SNANG MDZAD MNGON  PAR RDZOGS PA BYANG CHUB PA'I RGYUD KYI TSIG 'GREL ZHES BYA BA",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "488522408236",
-            "subject_path": "TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/03 SPYOD PA'I RGYUD_Secret Class of Activity (Charya Tantra)/VOL 68 (NYU)",
-            "subject_path_tibetan": "TENGYUR/RGYUD/SPYOD PA'I RGYUD/68 (NYU)",
-            "subject_path_english": "TENGYUR/Diamond Way (Vajrayāna)/Secret Class of Activity (Charya Tantra)/VOL 68 (NYU)",
-            "subject_tibetan": "68 (NYU)",
-            "subject_english": "VOL 68 (NYU)"
+            "_id": "230726919582",
+            "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/03 SPYOD PA'I RGYUD_Secret Class of Activity (Charya Tantra)/VOL 68 (NYU)",
+            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/03 SPYOD PA'I RGYUD/VOL 68 (NYU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Secret Class of Activity (Charya Tantra)",
+            "subject_tibetan": "VOL 68 (NYU)",
+            "subject_english": "Secret Class of Activity (Charya Tantra)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/03 SPYOD PA'I RGYUD_Secret Class of Activity (Charya Tantra)/VOL 68 (NYU)",
+            "timestamp": "2024-11-20 12:00:46.855174+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:59:41.726791+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T12:00:46.855174+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/03 SPYOD PA'I RGYUD_Secret Class of Activity (Charya Tantra)/VOL 68 (NYU)",
-            "timestamp": "2024-11-13 01:59:41.726791+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

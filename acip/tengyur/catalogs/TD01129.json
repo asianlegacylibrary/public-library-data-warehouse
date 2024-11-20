@@ -1,45 +1,53 @@
 {
     "name": "TD01129_BSTOD PA LAS 'DAS PAR BSTOD PA_In Praise of That Which is Beyond All Praise (Stutyatīta Stava).txt",
-    "path": "TENGYUR_TENGYUR/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
+    "path": "01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
     "download_path": "/tengyur updated 10 31 24 ws/01 bstod tsogs_songs of praise (stotra)/vol 1 (ka)/td01129_bstod pa las 'das par bstod pa_in praise of that which is beyond all praise (stutyatīta stava).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB3xg",
     "revision_id": "62633bd6e84798d294473",
     "content_hash": "8d49135287e50ad576f9eb0d70fd3e6c0bcd72f3b9e683f749b4cb0c93ed7155",
     "server_modified": "2024-11-06 00:38:43",
-    "last_sync": "2024-11-13 01:58:15.690127+00:00",
+    "last_sync": "2024-11-20 03:59:09.200448",
     "size": 2962,
+    "meta_text": null,
     "cat_ref": "TD01129",
     "work_ref": "W.TD01129",
     "title_tib": "BSTOD PA LAS 'DAS PAR BSTOD PA",
-    "title_eng": "In Praise of That Which is Beyond All Praise",
+    "title_eng": "In Praise of That Which is Beyond All Praise (Stutyatīta Stava)",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "212120326257",
-            "subject_path": "TENGYUR_TENGYUR/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
-            "subject_path_tibetan": "TENGYUR/BSTOD TSOGS/1 (KA)",
-            "subject_path_english": "TENGYUR/Songs of Praise (Stotra)/VOL 1 (KA)",
-            "subject_tibetan": "1 (KA)",
-            "subject_english": "VOL 1 (KA)"
+            "_id": "243715146395",
+            "subject_path": "BSTAN 'GYUR_Tengyur/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
+            "subject_path_tibetan": "BSTAN 'GYUR/01 BSTOD TSOGS/VOL 1 (KA)",
+            "subject_path_english": "Tengyur/Songs of Praise (Stotra)",
+            "subject_tibetan": "VOL 1 (KA)",
+            "subject_english": "Songs of Praise (Stotra)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Stutyatīta Stava",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
+            "timestamp": "2024-11-20 11:59:09.232131+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:58:15.697967+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T11:59:09.232131+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
-            "timestamp": "2024-11-13 01:58:15.697967+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

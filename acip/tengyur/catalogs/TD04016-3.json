@@ -1,45 +1,53 @@
 {
     "name": "TD04016-3_’PHAGS PA BZANG PO SPYOD PA'I SMON LAM GYI 'GREL PA (Ārya Bhadracaryā Praṇidhāna Ṭīkā).txt",
-    "path": "TENGYUR_TENGYUR/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 8 (DI)",
+    "path": "05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 8 (DI)",
     "download_path": "/tengyur updated 10 31 24 ws/05 mdo 'grel_commentaries to sutras (sūtra vṛtti)/vol 8 (di)/td04016-3_’phags pa bzang po spyod pa'i smon lam gyi 'grel pa (ārya bhadracaryā praṇidhāna ṭīkā).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB1tw",
     "revision_id": "62633b3ae71bb8d294473",
     "content_hash": "7ec787f8cc654759d1659dca3a941c900959ade5fe4b6bc3cde817132f8533a6",
     "server_modified": "2024-11-06 00:36:00",
-    "last_sync": "2024-11-13 01:57:18.271791+00:00",
+    "last_sync": "2024-11-20 03:58:07.496870",
     "size": 693679,
+    "meta_text": null,
     "cat_ref": "TD04016-3",
     "work_ref": "W.TD04016-3",
-    "title_tib": "’PHAGS PA BZANG PO SPYOD PA'I SMON LAM GYI 'GREL PA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "160622519585",
-            "subject_path": "TENGYUR_TENGYUR/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 8 (DI)",
-            "subject_path_tibetan": "TENGYUR/MDO 'GREL/8 (DI)",
-            "subject_path_english": "TENGYUR/Commentaries to Sutras (Sūtra Vṛtti)/VOL 8 (DI)",
-            "subject_tibetan": "8 (DI)",
-            "subject_english": "VOL 8 (DI)"
+            "_id": "333041371064",
+            "subject_path": "BSTAN 'GYUR_Tengyur/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 8 (DI)",
+            "subject_path_tibetan": "BSTAN 'GYUR/05 MDO 'GREL/VOL 8 (DI)",
+            "subject_path_english": "Tengyur/Commentaries to Sutras (Sūtra Vṛtti)",
+            "subject_tibetan": "VOL 8 (DI)",
+            "subject_english": "Commentaries to Sutras (Sūtra Vṛtti)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Ārya Bhadracaryā Praṇidhāna Ṭīkā",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 8 (DI)",
+            "timestamp": "2024-11-20 11:58:07.500585+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:57:18.273579+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T11:58:07.500585+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 8 (DI)",
-            "timestamp": "2024-11-13 01:57:18.273579+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

@@ -1,45 +1,53 @@
 {
     "name": "TD04152_SENG GE ZHABS 'BRING PA'I SKYES PA RABS KYI PHRENG BA ZHES BYA BA (Haribaṭṭa Jātaka Mālā).txt",
-    "path": "TENGYUR_TENGYUR/09 SKYES RABS_Stories of the Past Lives of the Buddha (Jātaka)/VOL 2 (AU)",
+    "path": "09 SKYES RABS_Stories of the Past Lives of the Buddha (Jātaka)/VOL 2 (AU)",
     "download_path": "/tengyur updated 10 31 24 ws/09 skyes rabs_stories of the past lives of the buddha (jātaka)/vol 2 (au)/td04152_seng ge zhabs 'bring pa'i skyes pa rabs kyi phreng ba zhes bya ba (haribaṭṭa jātaka mālā).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB2zA",
     "revision_id": "62633ba647bbe8d294473",
     "content_hash": "f5454f1027a4acc1bf5baa9407d90fbf0978b836ad743b79a63ad3a8414ab8b4",
     "server_modified": "2024-11-06 00:37:52",
-    "last_sync": "2024-11-13 01:57:59.780998+00:00",
+    "last_sync": "2024-11-20 03:58:50.901882",
     "size": 787131,
+    "meta_text": null,
     "cat_ref": "TD04152",
     "work_ref": "W.TD04152",
-    "title_tib": "SENG GE ZHABS 'BRING PA'I SKYES PA RABS KYI PHRENG BA ZHES BYA BA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "200315390167",
-            "subject_path": "TENGYUR_TENGYUR/09 SKYES RABS_Stories of the Past Lives of the Buddha (Jātaka)/VOL 2 (AU)",
-            "subject_path_tibetan": "TENGYUR/SKYES RABS/2 (AU)",
-            "subject_path_english": "TENGYUR/Stories of the Past Lives of the Buddha (Jātaka)/VOL 2 (AU)",
-            "subject_tibetan": "2 (AU)",
-            "subject_english": "VOL 2 (AU)"
+            "_id": "122155537754",
+            "subject_path": "BSTAN 'GYUR_Tengyur/09 SKYES RABS_Stories of the Past Lives of the Buddha (Jātaka)/VOL 2 (AU)",
+            "subject_path_tibetan": "BSTAN 'GYUR/09 SKYES RABS/VOL 2 (AU)",
+            "subject_path_english": "Tengyur/Stories of the Past Lives of the Buddha (Jātaka)",
+            "subject_tibetan": "VOL 2 (AU)",
+            "subject_english": "Stories of the Past Lives of the Buddha (Jātaka)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Haribaṭṭa Jātaka Mālā",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/09 SKYES RABS_Stories of the Past Lives of the Buddha (Jātaka)/VOL 2 (AU)",
+            "timestamp": "2024-11-20 11:58:50.905121+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:57:59.782803+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T11:58:50.905121+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/09 SKYES RABS_Stories of the Past Lives of the Buddha (Jātaka)/VOL 2 (AU)",
-            "timestamp": "2024-11-13 01:57:59.782803+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

@@ -1,45 +1,53 @@
 {
     "name": "TD01545_GRUB PA'I RDO RJE RNAL 'BYOR MA'I SGRUB PA'I THABS (Siddhi Vajrayoginī Sādhana).txt",
-    "path": "TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/02 YUM BKA'_Mother Texts (Mātṛ)/VOL 22 (ZA)",
+    "path": "02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/02 YUM BKA'_Mother Texts (Mātṛ)/VOL 22 (ZA)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/01 rnal 'byor bla med_unsurpassed practice (anuttara yoga)/03 bde mchog_highest bliss (saṃvara)/02 yum bka'_mother texts (mātṛ)/vol 22 (za)/td01545_grub pa'i rdo rje rnal 'byor ma'i sgrub pa'i thabs (siddhi vajrayoginī sādhana).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB6zQ",
     "revision_id": "62633c60351f98d294473",
     "content_hash": "056c9a045f586083619e5f1cc8ec41465ebc23930ba63d15bd5ec6fd40a51e77",
     "server_modified": "2024-11-06 00:41:07",
-    "last_sync": "2024-11-13 01:58:54.835457+00:00",
+    "last_sync": "2024-11-20 03:59:54.685613",
     "size": 7935,
+    "meta_text": null,
     "cat_ref": "TD01545",
     "work_ref": "W.TD01545",
-    "title_tib": "GRUB PA'I RDO RJE RNAL 'BYOR MA'I SGRUB PA'I THABS",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "221064263383",
-            "subject_path": "TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/02 YUM BKA'_Mother Texts (Mātṛ)/VOL 22 (ZA)",
-            "subject_path_tibetan": "TENGYUR/RGYUD/RNAL 'BYOR BLA MED/BDE MCHOG/YUM BKA'/22 (ZA)",
-            "subject_path_english": "TENGYUR/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Highest Bliss (Saṃvara)/Mother Texts (Mātṛ)/VOL 22 (ZA)",
-            "subject_tibetan": "22 (ZA)",
-            "subject_english": "VOL 22 (ZA)"
+            "_id": "336880318712",
+            "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/02 YUM BKA'_Mother Texts (Mātṛ)/VOL 22 (ZA)",
+            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/01 RNAL 'BYOR BLA MED/03 BDE MCHOG/02 YUM BKA'/VOL 22 (ZA)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Highest Bliss (Saṃvara)/Mother Texts (Mātṛ)",
+            "subject_tibetan": "VOL 22 (ZA)",
+            "subject_english": "Mother Texts (Mātṛ)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Siddhi Vajrayoginī Sādhana",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/02 YUM BKA'_Mother Texts (Mātṛ)/VOL 22 (ZA)",
+            "timestamp": "2024-11-20 11:59:54.716199+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:58:54.841163+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T11:59:54.716199+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/02 YUM BKA'_Mother Texts (Mātṛ)/VOL 22 (ZA)",
-            "timestamp": "2024-11-13 01:58:54.841163+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

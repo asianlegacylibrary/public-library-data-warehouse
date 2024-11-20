@@ -1,45 +1,53 @@
 {
     "name": "TD01751_PADMA SPYAN RAS GZIGS DBANG PHYUG GI PADMA DRA BA'I RIM PAS BCOM LDAN 'DAS KYI DKYIL 'KHOR DU MCHOD PA'I CHO GA (Padma Avalokiteṣvarasya Padma Jālakrameṇa Bhagavan Maṇḍala Pūjā Vidhi).txt",
-    "path": "TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/09 SGROL MA_Lady of Liberation (Tārā)/02 MA RGYUD SPYI DANG 'BREL_Connected with Mother Tantras in General (Mātṛ Tantra Sambhaddha)/VOL 27 (SHA)",
+    "path": "02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/09 SGROL MA_Lady of Liberation (Tārā)/02 MA RGYUD SPYI DANG 'BREL_Connected with Mother Tantras in General (Mātṛ Tantra Sambhaddha)/VOL 27 (SHA)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/01 rnal 'byor bla med_unsurpassed practice (anuttara yoga)/09 sgrol ma_lady of liberation (tārā)/02 ma rgyud spyi dang 'brel_connected with mother tantras in general (mātṛ tantra sambhaddha)/vol 27 (sha)/td01751_padma spyan ras gzigs dbang phyug gi padma dra ba'i rim pas bcom ldan 'das kyi dkyil 'khor du mchod pa'i cho ga (padma avalokiteṣvarasya padma jālakrameṇa bhagavan maṇḍala pūjā vidhi).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB9-A",
     "revision_id": "62633cf7a15398d294473",
     "content_hash": "a8755d2865266b4b5e572b736e73d644b9f09eb139022abd42df139e9f9e4f7c",
     "server_modified": "2024-11-06 00:43:46",
-    "last_sync": "2024-11-13 01:59:28.144836+00:00",
+    "last_sync": "2024-11-20 04:00:31.927454",
     "size": 49493,
+    "meta_text": null,
     "cat_ref": "TD01751",
     "work_ref": "W.TD01751",
-    "title_tib": "PADMA SPYAN RAS GZIGS DBANG PHYUG GI PADMA DRA BA'I RIM PAS BCOM LDAN 'DAS KYI DKYIL 'KHOR DU MCHOD PA'I CHO GA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "199762416705",
-            "subject_path": "TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/09 SGROL MA_Lady of Liberation (Tārā)/02 MA RGYUD SPYI DANG 'BREL_Connected with Mother Tantras in General (Mātṛ Tantra Sambhaddha)/VOL 27 (SHA)",
-            "subject_path_tibetan": "TENGYUR/RGYUD/RNAL 'BYOR BLA MED/SGROL MA/MA RGYUD SPYI DANG 'BREL/27 (SHA)",
-            "subject_path_english": "TENGYUR/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Lady of Liberation (Tārā)/Connected with Mother Tantras in General (Mātṛ Tantra Sambhaddha)/VOL 27 (SHA)",
-            "subject_tibetan": "27 (SHA)",
-            "subject_english": "VOL 27 (SHA)"
+            "_id": "113770065525",
+            "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/09 SGROL MA_Lady of Liberation (Tārā)/02 MA RGYUD SPYI DANG 'BREL_Connected with Mother Tantras in General (Mātṛ Tantra Sambhaddha)/VOL 27 (SHA)",
+            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/01 RNAL 'BYOR BLA MED/09 SGROL MA/02 MA RGYUD SPYI DANG 'BREL/VOL 27 (SHA)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Lady of Liberation (Tārā)/Connected with Mother Tantras in General (Mātṛ Tantra Sambhaddha)",
+            "subject_tibetan": "VOL 27 (SHA)",
+            "subject_english": "Connected with Mother Tantras in General (Mātṛ Tantra Sambhaddha)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Padma Avalokiteṣvarasya Padma Jālakrameṇa Bhagavan Maṇḍala Pūjā Vidhi",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/09 SGROL MA_Lady of Liberation (Tārā)/02 MA RGYUD SPYI DANG 'BREL_Connected with Mother Tantras in General (Mātṛ Tantra Sambhaddha)/VOL 27 (SHA)",
+            "timestamp": "2024-11-20 12:00:31.947553+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:59:28.151990+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T12:00:31.947553+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/09 SGROL MA_Lady of Liberation (Tārā)/02 MA RGYUD SPYI DANG 'BREL_Connected with Mother Tantras in General (Mātṛ Tantra Sambhaddha)/VOL 27 (SHA)",
-            "timestamp": "2024-11-13 01:59:28.151990+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

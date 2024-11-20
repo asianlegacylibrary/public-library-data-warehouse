@@ -1,45 +1,53 @@
 {
     "name": "TD03880_BYANG CHUB KYI SPYOD PA LA 'JUG PA'I DGONGS PA'I 'GREL PA KHYAD PAR GSAL BYED CES BYA BA (Bodhi Caryāvatāra Tātparya Pañjikā Viśeṣadyotanī (Nāma)).txt",
-    "path": "TENGYUR_TENGYUR/04 DBU MA_Middle Way School (Madhyamaka)/VOL 11 (SHA)",
+    "path": "04 DBU MA_Middle Way School (Madhyamaka)/VOL 11 (SHA)",
     "download_path": "/tengyur updated 10 31 24 ws/04 dbu ma_middle way school (madhyamaka)/vol 11 (sha)/td03880_byang chub kyi spyod pa la 'jug pa'i dgongs pa'i 'grel pa khyad par gsal byed ces bya ba (bodhi caryāvatāra tātparya pañjikā viśeṣadyotanī (nāma)).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB3Jw",
     "revision_id": "62633bbebaed48d294473",
     "content_hash": "59430a4b9168aabec5a48b2a40fb5ad01c558c859213ce47b0323f37046d218c",
     "server_modified": "2024-11-06 00:38:18",
-    "last_sync": "2024-11-13 01:58:08.976100+00:00",
+    "last_sync": "2024-11-20 03:59:01.702638",
     "size": 358830,
+    "meta_text": null,
     "cat_ref": "TD03880",
     "work_ref": "W.TD03880",
-    "title_tib": "BYANG CHUB KYI SPYOD PA LA 'JUG PA'I DGONGS PA'I 'GREL PA KHYAD PAR GSAL BYED CES BYA BA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "210975212788",
-            "subject_path": "TENGYUR_TENGYUR/04 DBU MA_Middle Way School (Madhyamaka)/VOL 11 (SHA)",
-            "subject_path_tibetan": "TENGYUR/DBU MA/11 (SHA)",
-            "subject_path_english": "TENGYUR/Middle Way School (Madhyamaka)/VOL 11 (SHA)",
-            "subject_tibetan": "11 (SHA)",
-            "subject_english": "VOL 11 (SHA)"
+            "_id": "197467236894",
+            "subject_path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 11 (SHA)",
+            "subject_path_tibetan": "BSTAN 'GYUR/04 DBU MA/VOL 11 (SHA)",
+            "subject_path_english": "Tengyur/Middle Way School (Madhyamaka)",
+            "subject_tibetan": "VOL 11 (SHA)",
+            "subject_english": "Middle Way School (Madhyamaka)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Bodhi Caryāvatāra Tātparya Pañjikā Viśeṣadyotanī (Nāma)",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 11 (SHA)",
+            "timestamp": "2024-11-20 11:59:01.707244+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:58:08.978173+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T11:59:01.707244+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/04 DBU MA_Middle Way School (Madhyamaka)/VOL 11 (SHA)",
-            "timestamp": "2024-11-13 01:58:08.978173+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

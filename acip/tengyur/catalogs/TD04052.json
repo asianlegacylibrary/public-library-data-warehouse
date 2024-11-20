@@ -1,45 +1,53 @@
 {
     "name": "TD04052_DON GSANG BA RNAM PAR PHYE BA BSDUS TE BSHAD PA (Vivṛta Guhyārtha Piṇḍa Vyākhyā).txt",
-    "path": "TENGYUR_TENGYUR/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 12 (RI)",
+    "path": "06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 12 (RI)",
     "download_path": "/tengyur updated 10 31 24 ws/06 sems tzam_mind only school (cittamātra)/vol 12 (ri)/td04052_don gsang ba rnam par phye ba bsdus te bshad pa (vivṛta guhyārtha piṇḍa vyākhyā).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACDew",
     "revision_id": "62633ddeea9b48d294473",
     "content_hash": "cbc705ef4667d24c8ea4b1b9fc522bfe3ef2856be20872ff030fc3a5d5caeb33",
     "server_modified": "2024-11-06 00:47:48",
-    "last_sync": "2024-11-13 02:00:01.914816+00:00",
+    "last_sync": "2024-11-20 04:01:06.760647",
     "size": 262459,
+    "meta_text": null,
     "cat_ref": "TD04052",
     "work_ref": "W.TD04052",
-    "title_tib": "DON GSANG BA RNAM PAR PHYE BA BSDUS TE BSHAD PA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "299315758835",
-            "subject_path": "TENGYUR_TENGYUR/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 12 (RI)",
-            "subject_path_tibetan": "TENGYUR/SEMS TZAM/12 (RI)",
-            "subject_path_english": "TENGYUR/Mind Only School (Cittamātra)/VOL 12 (RI)",
-            "subject_tibetan": "12 (RI)",
-            "subject_english": "VOL 12 (RI)"
+            "_id": "239874257540",
+            "subject_path": "BSTAN 'GYUR_Tengyur/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 12 (RI)",
+            "subject_path_tibetan": "BSTAN 'GYUR/06 SEMS TZAM/VOL 12 (RI)",
+            "subject_path_english": "Tengyur/Mind Only School (Cittamātra)",
+            "subject_tibetan": "VOL 12 (RI)",
+            "subject_english": "Mind Only School (Cittamātra)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Vivṛta Guhyārtha Piṇḍa Vyākhyā",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 12 (RI)",
+            "timestamp": "2024-11-20 12:01:06.765235+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T02:00:01.916752+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T12:01:06.765235+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 12 (RI)",
-            "timestamp": "2024-11-13 02:00:01.916752+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

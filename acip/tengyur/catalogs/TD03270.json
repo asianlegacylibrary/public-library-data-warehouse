@@ -1,45 +1,53 @@
 {
     "name": "TD03270_DPAL DZAMBHALA'I SGRUB THABS ((Śrī) Jambhala Sādhana).txt",
-    "path": "TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/VOL 75 (BU)",
+    "path": "02 RGYUD_Diamond Way (Vajrayāna)/VOL 75 (BU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/vol 75 (bu)/td03270_dpal dzambhala'i sgrub thabs ((śrī) jambhala sādhana).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACAog",
     "revision_id": "62633d699a92a8d294473",
     "content_hash": "9d729f3273c20e865bf113c794b6f7b68ec38105987bc2661a4a8674d7b43bc5",
     "server_modified": "2024-11-06 00:45:45",
-    "last_sync": "2024-11-13 01:59:41.097904+00:00",
+    "last_sync": "2024-11-20 04:00:46.097963",
     "size": 1464,
+    "meta_text": null,
     "cat_ref": "TD03270",
     "work_ref": "W.TD03270",
-    "title_tib": "DPAL DZAMBHALA'I SGRUB THABS",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "315897588135",
-            "subject_path": "TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/VOL 75 (BU)",
-            "subject_path_tibetan": "TENGYUR/RGYUD/75 (BU)",
-            "subject_path_english": "TENGYUR/Diamond Way (Vajrayāna)/VOL 75 (BU)",
-            "subject_tibetan": "75 (BU)",
-            "subject_english": "VOL 75 (BU)"
+            "_id": "123568910388",
+            "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 75 (BU)",
+            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/VOL 75 (BU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)",
+            "subject_tibetan": "VOL 75 (BU)",
+            "subject_english": "Diamond Way (Vajrayāna)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "(Śrī) Jambhala Sādhana",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 75 (BU)",
+            "timestamp": "2024-11-20 12:00:46.183629+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:59:41.109362+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T12:00:46.183629+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/VOL 75 (BU)",
-            "timestamp": "2024-11-13 01:59:41.109362+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

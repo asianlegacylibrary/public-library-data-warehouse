@@ -1,45 +1,53 @@
 {
     "name": "TD01193_DPAL DGYES PA'I RDO RJE ZHES BYA BA'I RGYUD KYI DON BSDUS PA (Śrī Hevajra Nāma Tantrārta Saṃgraha).txt",
-    "path": "TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/01 KYE RDO RJE_Lo Diamond (Hevajra)/01 YAB SKOR_Father Texts (Pitṛ)/VOL 5 (CA)",
+    "path": "02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/01 KYE RDO RJE_Lo Diamond (Hevajra)/01 YAB SKOR_Father Texts (Pitṛ)/VOL 5 (CA)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/01 rnal 'byor bla med_unsurpassed practice (anuttara yoga)/01 kye rdo rje_lo diamond (hevajra)/01 yab skor_father texts (pitṛ)/vol 5 (ca)/td01193_dpal dgyes pa'i rdo rje zhes bya ba'i rgyud kyi don bsdus pa (śrī hevajra nāma tantrārta saṃgraha).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB8-A",
     "revision_id": "62633cc7c211d8d294473",
     "content_hash": "7e8879f097f15048c63c433a4c56c7531ae23290144bac88402eae18e1aa9184",
     "server_modified": "2024-11-06 00:42:56",
-    "last_sync": "2024-11-13 01:59:18.903154+00:00",
+    "last_sync": "2024-11-20 04:00:19.455971",
     "size": 125936,
+    "meta_text": null,
     "cat_ref": "TD01193",
     "work_ref": "W.TD01193",
-    "title_tib": "DPAL DGYES PA'I RDO RJE ZHES BYA BA'I RGYUD KYI DON BSDUS PA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "291257204951",
-            "subject_path": "TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/01 KYE RDO RJE_Lo Diamond (Hevajra)/01 YAB SKOR_Father Texts (Pitṛ)/VOL 5 (CA)",
-            "subject_path_tibetan": "TENGYUR/RGYUD/RNAL 'BYOR BLA MED/KYE RDO RJE/YAB SKOR/5 (CA)",
-            "subject_path_english": "TENGYUR/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Lo Diamond (Hevajra)/Father Texts (Pitṛ)/VOL 5 (CA)",
-            "subject_tibetan": "5 (CA)",
-            "subject_english": "VOL 5 (CA)"
+            "_id": "953999983082",
+            "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/01 KYE RDO RJE_Lo Diamond (Hevajra)/01 YAB SKOR_Father Texts (Pitṛ)/VOL 5 (CA)",
+            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/01 RNAL 'BYOR BLA MED/01 KYE RDO RJE/01 YAB SKOR/VOL 5 (CA)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Lo Diamond (Hevajra)/Father Texts (Pitṛ)",
+            "subject_tibetan": "VOL 5 (CA)",
+            "subject_english": "Father Texts (Pitṛ)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Śrī Hevajra Nāma Tantrārta Saṃgraha",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/01 KYE RDO RJE_Lo Diamond (Hevajra)/01 YAB SKOR_Father Texts (Pitṛ)/VOL 5 (CA)",
+            "timestamp": "2024-11-20 12:00:19.469619+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:59:19.247007+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T12:00:19.469619+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/01 KYE RDO RJE_Lo Diamond (Hevajra)/01 YAB SKOR_Father Texts (Pitṛ)/VOL 5 (CA)",
-            "timestamp": "2024-11-13 01:59:19.247007+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

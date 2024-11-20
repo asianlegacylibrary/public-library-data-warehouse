@@ -1,45 +1,53 @@
 {
     "name": "TD04322_G-YUL LAS RNAM PAR RGYAL BA ZHES PA'I RGYUD KYI RGYAL PO DBYANGS 'CHAR BA ZHES BYA BA (Yuddajaya Nāma Tantra Raja Svarodaya).txt",
-    "path": "TENGYUR_TENGYUR/14 BZO RIG PA_Fine Arts (Śilpa Vidyā)/VOL 1 (NGO-1)",
+    "path": "14 BZO RIG PA_Fine Arts (Śilpa Vidyā)/VOL 1 (NGO-1)",
     "download_path": "/tengyur updated 10 31 24 ws/14 bzo rig pa_fine arts (śilpa vidyā)/vol 1 (ngo-1)/td04322_g-yul las rnam par rgyal ba zhes pa'i rgyud kyi rgyal po dbyangs 'char ba zhes bya ba (yuddajaya nāma tantra raja svarodaya).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACD_Q",
     "revision_id": "62633e073e4628d294473",
     "content_hash": "0ba076a53757587e4a1ce3e7a7a3ae23b19974abb13b48c2650a88f5b9352315",
     "server_modified": "2024-11-06 00:48:31",
-    "last_sync": "2024-11-13 02:00:17.924130+00:00",
+    "last_sync": "2024-11-20 04:01:20.135720",
     "size": 163694,
+    "meta_text": null,
     "cat_ref": "TD04322",
     "work_ref": "W.TD04322",
-    "title_tib": "G-YUL LAS RNAM PAR RGYAL BA ZHES PA'I RGYUD KYI RGYAL PO DBYANGS 'CHAR BA ZHES BYA BA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "418404366507",
-            "subject_path": "TENGYUR_TENGYUR/14 BZO RIG PA_Fine Arts (Śilpa Vidyā)/VOL 1 (NGO-1)",
-            "subject_path_tibetan": "TENGYUR/BZO RIG PA/1 (NGO-1)",
-            "subject_path_english": "TENGYUR/Fine Arts (Śilpa Vidyā)/VOL 1 (NGO-1)",
-            "subject_tibetan": "1 (NGO-1)",
-            "subject_english": "VOL 1 (NGO-1)"
+            "_id": "226526997541",
+            "subject_path": "BSTAN 'GYUR_Tengyur/14 BZO RIG PA_Fine Arts (Śilpa Vidyā)/VOL 1 (NGO-1)",
+            "subject_path_tibetan": "BSTAN 'GYUR/14 BZO RIG PA/VOL 1 (NGO-1)",
+            "subject_path_english": "Tengyur/Fine Arts (Śilpa Vidyā)",
+            "subject_tibetan": "VOL 1 (NGO-1)",
+            "subject_english": "Fine Arts (Śilpa Vidyā)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Yuddajaya Nāma Tantra Raja Svarodaya",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/14 BZO RIG PA_Fine Arts (Śilpa Vidyā)/VOL 1 (NGO-1)",
+            "timestamp": "2024-11-20 12:01:20.162008+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T02:00:17.931554+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T12:01:20.162008+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/14 BZO RIG PA_Fine Arts (Śilpa Vidyā)/VOL 1 (NGO-1)",
-            "timestamp": "2024-11-13 02:00:17.931554+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

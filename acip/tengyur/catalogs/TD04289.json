@@ -1,45 +1,53 @@
 {
     "name": "TD04289_TI LA SOGS PA'I MTHA'I BYA BA RNAM PAR DPYAD PA ZHES BYA BA (Tyādyanta Prakriyā Vicārita).txt",
-    "path": "TENGYUR_TENGYUR/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 3 (SHE)",
+    "path": "12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 3 (SHE)",
     "download_path": "/tengyur updated 10 31 24 ws/12 sgra mdo_study of sanskrit language (śabda)/vol 3 (she)/td04289_ti la sogs pa'i mtha'i bya ba rnam par dpyad pa zhes bya ba (tyādyanta prakriyā vicārita).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACD3A",
     "revision_id": "62633dff932058d294473",
     "content_hash": "3bb337e22ff62566fc6164ee935312daf6f6494c8eb712de0fdda355bebb50de",
     "server_modified": "2024-11-06 00:48:23",
-    "last_sync": "2024-11-13 02:00:14.320659+00:00",
+    "last_sync": "2024-11-20 04:01:17.410059",
     "size": 590490,
+    "meta_text": null,
     "cat_ref": "TD04289",
     "work_ref": "W.TD04289",
-    "title_tib": "TI LA SOGS PA'I MTHA'I BYA BA RNAM PAR DPYAD PA ZHES BYA BA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "120630551503",
-            "subject_path": "TENGYUR_TENGYUR/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 3 (SHE)",
-            "subject_path_tibetan": "TENGYUR/SGRA MDO/3 (SHE)",
-            "subject_path_english": "TENGYUR/Study of Sanskrit Language (Śabda)/VOL 3 (SHE)",
-            "subject_tibetan": "3 (SHE)",
-            "subject_english": "VOL 3 (SHE)"
+            "_id": "177229726903",
+            "subject_path": "BSTAN 'GYUR_Tengyur/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 3 (SHE)",
+            "subject_path_tibetan": "BSTAN 'GYUR/12 SGRA MDO/VOL 3 (SHE)",
+            "subject_path_english": "Tengyur/Study of Sanskrit Language (Śabda)",
+            "subject_tibetan": "VOL 3 (SHE)",
+            "subject_english": "Study of Sanskrit Language (Śabda)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Tyādyanta Prakriyā Vicārita",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 3 (SHE)",
+            "timestamp": "2024-11-20 12:01:17.412580+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T02:00:14.322878+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T12:01:17.412580+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 3 (SHE)",
-            "timestamp": "2024-11-13 02:00:14.322878+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

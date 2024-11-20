@@ -1,45 +1,53 @@
 {
     "name": "TD02270_GSUNG GI MDZOD 'JAM DBYANGS RDO RJE'I GLU (Vākkoṣarucira Svara Vajragīti).txt",
-    "path": "TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/17 PHYAG RGYA CHEN PO_The Great Seal (Mahāmudrā)/01 DO HA_Secret Songs (Doha)/VOL 51 (ZHI)",
+    "path": "02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/17 PHYAG RGYA CHEN PO_The Great Seal (Mahāmudrā)/01 DO HA_Secret Songs (Doha)/VOL 51 (ZHI)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/01 rnal 'byor bla med_unsurpassed practice (anuttara yoga)/17 phyag rgya chen po_the great seal (mahāmudrā)/01 do ha_secret songs (doha)/vol 51 (zhi)/td02270_gsung gi mdzod 'jam dbyangs rdo rje'i glu (vākkoṣarucira svara vajragīti).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB6Bg",
     "revision_id": "62633c35f28e18d294473",
     "content_hash": "e9db27adef6ba288d992db32b8259602cee6fe06a29f80366879e34ac820de22",
     "server_modified": "2024-11-06 00:40:23",
-    "last_sync": "2024-11-13 01:58:36.512565+00:00",
+    "last_sync": "2024-11-20 03:59:35.952690",
     "size": 9791,
+    "meta_text": null,
     "cat_ref": "TD02270",
     "work_ref": "W.TD02270",
-    "title_tib": "GSUNG GI MDZOD 'JAM DBYANGS RDO RJE'I GLU",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "162070538514",
-            "subject_path": "TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/17 PHYAG RGYA CHEN PO_The Great Seal (Mahāmudrā)/01 DO HA_Secret Songs (Doha)/VOL 51 (ZHI)",
-            "subject_path_tibetan": "TENGYUR/RGYUD/RNAL 'BYOR BLA MED/PHYAG RGYA CHEN PO/DO HA/51 (ZHI)",
-            "subject_path_english": "TENGYUR/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/The Great Seal (Mahāmudrā)/Secret Songs (Doha)/VOL 51 (ZHI)",
-            "subject_tibetan": "51 (ZHI)",
-            "subject_english": "VOL 51 (ZHI)"
+            "_id": "210423251966",
+            "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/17 PHYAG RGYA CHEN PO_The Great Seal (Mahāmudrā)/01 DO HA_Secret Songs (Doha)/VOL 51 (ZHI)",
+            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/01 RNAL 'BYOR BLA MED/17 PHYAG RGYA CHEN PO/01 DO HA/VOL 51 (ZHI)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/The Great Seal (Mahāmudrā)/Secret Songs (Doha)",
+            "subject_tibetan": "VOL 51 (ZHI)",
+            "subject_english": "Secret Songs (Doha)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Vākkoṣarucira Svara Vajragīti",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/17 PHYAG RGYA CHEN PO_The Great Seal (Mahāmudrā)/01 DO HA_Secret Songs (Doha)/VOL 51 (ZHI)",
+            "timestamp": "2024-11-20 11:59:35.968291+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:58:36.519288+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T11:59:35.968291+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/17 PHYAG RGYA CHEN PO_The Great Seal (Mahāmudrā)/01 DO HA_Secret Songs (Doha)/VOL 51 (ZHI)",
-            "timestamp": "2024-11-13 01:58:36.519288+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

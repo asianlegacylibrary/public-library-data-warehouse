@@ -1,45 +1,53 @@
 {
     "name": "TD01124_SKU GSUM LA BSTOD PA ZHES BYA BA'I RNAM PAR 'GREL PA_A Commentary upon 'The Praise of the Three Bodies' (Kāyatraya Stotra Nāma Vivaraṇa).txt",
-    "path": "TENGYUR_TENGYUR/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
+    "path": "01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
     "download_path": "/tengyur updated 10 31 24 ws/01 bstod tsogs_songs of praise (stotra)/vol 1 (ka)/td01124_sku gsum la bstod pa zhes bya ba'i rnam par 'grel pa_a commentary upon 'the praise of the three bodies' (kāyatraya stotra nāma vivaraṇa).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB30g",
     "revision_id": "62633bd8dd2898d294473",
     "content_hash": "2c29ec2daf82467c17b956f4523ecc67675a03bb63cb1eb95a8e0d89820d4b7a",
     "server_modified": "2024-11-06 00:38:45",
-    "last_sync": "2024-11-13 01:58:15.691543+00:00",
+    "last_sync": "2024-11-20 03:59:09.213549",
     "size": 14229,
+    "meta_text": null,
     "cat_ref": "TD01124",
     "work_ref": "W.TD01124",
     "title_tib": "SKU GSUM LA BSTOD PA ZHES BYA BA'I RNAM PAR 'GREL PA",
-    "title_eng": "A Commentary upon 'The Praise of the Three Bodies'",
+    "title_eng": "A Commentary upon 'The Praise of the Three Bodies' (Kāyatraya Stotra Nāma Vivaraṇa)",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "212120326257",
-            "subject_path": "TENGYUR_TENGYUR/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
-            "subject_path_tibetan": "TENGYUR/BSTOD TSOGS/1 (KA)",
-            "subject_path_english": "TENGYUR/Songs of Praise (Stotra)/VOL 1 (KA)",
-            "subject_tibetan": "1 (KA)",
-            "subject_english": "VOL 1 (KA)"
+            "_id": "243715146395",
+            "subject_path": "BSTAN 'GYUR_Tengyur/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
+            "subject_path_tibetan": "BSTAN 'GYUR/01 BSTOD TSOGS/VOL 1 (KA)",
+            "subject_path_english": "Tengyur/Songs of Praise (Stotra)",
+            "subject_tibetan": "VOL 1 (KA)",
+            "subject_english": "Songs of Praise (Stotra)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Kāyatraya Stotra Nāma Vivaraṇa",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
+            "timestamp": "2024-11-20 11:59:09.232441+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:58:15.698778+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T11:59:09.232441+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
-            "timestamp": "2024-11-13 01:58:15.698778+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

@@ -1,45 +1,53 @@
 {
     "name": "TD01670_DKYIL 'KHOR THAMS CAD KYI RJES SU 'JUG PA'I CHO GA LNGA BA ZHES BYA BA (Sarva Maṇḍalānuvarti Pañca Vidhi (Nāma)).txt",
-    "path": "TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/08 SANGS RGYAS MNYAM SBYOR_The Union of the Buddhas (Buddha Samayoga)/VOL 26 (LA)",
+    "path": "02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/08 SANGS RGYAS MNYAM SBYOR_The Union of the Buddhas (Buddha Samayoga)/VOL 26 (LA)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/01 rnal 'byor bla med_unsurpassed practice (anuttara yoga)/08 sangs rgyas mnyam sbyor_the union of the buddhas (buddha samayoga)/vol 26 (la)/td01670_dkyil 'khor thams cad kyi rjes su 'jug pa'i cho ga lnga ba zhes bya ba (sarva maṇḍalānuvarti pañca vidhi (nāma)).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB9fw",
     "revision_id": "62633ce18da178d294473",
     "content_hash": "6260a942df8a31a3af83c4c509129aa3aeb9660c026abf4c6763db64a3f01769",
     "server_modified": "2024-11-06 00:43:23",
-    "last_sync": "2024-11-13 01:59:25.812299+00:00",
+    "last_sync": "2024-11-20 04:00:27.946389",
     "size": 53243,
+    "meta_text": null,
     "cat_ref": "TD01670",
     "work_ref": "W.TD01670",
-    "title_tib": "DKYIL 'KHOR THAMS CAD KYI RJES SU 'JUG PA'I CHO GA LNGA BA ZHES BYA BA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "295531170912",
-            "subject_path": "TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/08 SANGS RGYAS MNYAM SBYOR_The Union of the Buddhas (Buddha Samayoga)/VOL 26 (LA)",
-            "subject_path_tibetan": "TENGYUR/RGYUD/RNAL 'BYOR BLA MED/SANGS RGYAS MNYAM SBYOR/26 (LA)",
-            "subject_path_english": "TENGYUR/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/The Union of the Buddhas (Buddha Samayoga)/VOL 26 (LA)",
-            "subject_tibetan": "26 (LA)",
-            "subject_english": "VOL 26 (LA)"
+            "_id": "217810872006",
+            "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/08 SANGS RGYAS MNYAM SBYOR_The Union of the Buddhas (Buddha Samayoga)/VOL 26 (LA)",
+            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/01 RNAL 'BYOR BLA MED/08 SANGS RGYAS MNYAM SBYOR/VOL 26 (LA)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/The Union of the Buddhas (Buddha Samayoga)",
+            "subject_tibetan": "VOL 26 (LA)",
+            "subject_english": "The Union of the Buddhas (Buddha Samayoga)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Sarva Maṇḍalānuvarti Pañca Vidhi (Nāma)",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/08 SANGS RGYAS MNYAM SBYOR_The Union of the Buddhas (Buddha Samayoga)/VOL 26 (LA)",
+            "timestamp": "2024-11-20 12:00:29.369328+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:59:25.818818+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T12:00:29.369328+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/08 SANGS RGYAS MNYAM SBYOR_The Union of the Buddhas (Buddha Samayoga)/VOL 26 (LA)",
-            "timestamp": "2024-11-13 01:59:25.818818+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

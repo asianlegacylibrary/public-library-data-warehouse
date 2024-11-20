@@ -1,45 +1,53 @@
 {
     "name": "TD04213_GTAN TSIGS KYI THIGS PA ZHES BYA BA'I RAB TU BYED PA (Hetu Bindu Nāma Prakaraṇa).txt",
-    "path": "TENGYUR_TENGYUR/11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 1 (CE)",
+    "path": "11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 1 (CE)",
     "download_path": "/tengyur updated 10 31 24 ws/11 tsad ma_logic & perceptual theory (pramāṇa)/vol 1 (ce)/td04213_gtan tsigs kyi thigs pa zhes bya ba'i rab tu byed pa (hetu bindu nāma prakaraṇa).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB2SQ",
     "revision_id": "62633b676a5f08d294473",
     "content_hash": "f7b7bfab80c66239ee999527ed4e7193a4be7e4702ae4cfb1901b754b7688cdf",
     "server_modified": "2024-11-06 00:36:46",
-    "last_sync": "2024-11-13 01:57:35.749068+00:00",
+    "last_sync": "2024-11-20 03:58:25.769425",
     "size": 67161,
+    "meta_text": null,
     "cat_ref": "TD04213",
     "work_ref": "W.TD04213",
-    "title_tib": "GTAN TSIGS KYI THIGS PA ZHES BYA BA'I RAB TU BYED PA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "732525400075",
-            "subject_path": "TENGYUR_TENGYUR/11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 1 (CE)",
-            "subject_path_tibetan": "TENGYUR/TSAD MA/1 (CE)",
-            "subject_path_english": "TENGYUR/Logic & Perceptual Theory (Pramāṇa)/VOL 1 (CE)",
-            "subject_tibetan": "1 (CE)",
-            "subject_english": "VOL 1 (CE)"
+            "_id": "252070677705",
+            "subject_path": "BSTAN 'GYUR_Tengyur/11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 1 (CE)",
+            "subject_path_tibetan": "BSTAN 'GYUR/11 TSAD MA/VOL 1 (CE)",
+            "subject_path_english": "Tengyur/Logic & Perceptual Theory (Pramāṇa)",
+            "subject_tibetan": "VOL 1 (CE)",
+            "subject_english": "Logic & Perceptual Theory (Pramāṇa)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Hetu Bindu Nāma Prakaraṇa",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 1 (CE)",
+            "timestamp": "2024-11-20 11:58:25.791110+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:57:35.753068+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T11:58:25.791110+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 1 (CE)",
-            "timestamp": "2024-11-13 01:57:35.753068+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

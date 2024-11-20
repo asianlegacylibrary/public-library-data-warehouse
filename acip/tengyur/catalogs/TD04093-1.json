@@ -1,45 +1,53 @@
 {
     "name": "TD04093-1_CHOS MNGON PA'I MDZOD KYI 'GREL BSHAD MTSAN NYID KYI RJES SU 'BRANG BA ZHES BYA BA (Abhidharma Koṣa Ṭīkā Lakṣaṇānusāriṇī Nāma).txt",
-    "path": "TENGYUR_TENGYUR/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 6 (CU)",
+    "path": "07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 6 (CU)",
     "download_path": "/tengyur updated 10 31 24 ws/07 mngon pa_higher knowledge school (abhidharma)/vol 6 (cu)/td04093-1_chos mngon pa'i mdzod kyi 'grel bshad mtsan nyid kyi rjes su 'brang ba zhes bya ba (abhidharma koṣa ṭīkā lakṣaṇānusāriṇī nāma).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB2eA",
     "revision_id": "62633b81877618d294473",
     "content_hash": "8b5c8cd62fb7517c43487e5b1faea1466811856ea1acb7fa9fd988aa33b16eae",
     "server_modified": "2024-11-06 00:37:14",
-    "last_sync": "2024-11-13 01:57:44.579676+00:00",
+    "last_sync": "2024-11-20 03:58:35.380648",
     "size": 1398779,
+    "meta_text": null,
     "cat_ref": "TD04093-1",
     "work_ref": "W.TD04093-1",
-    "title_tib": "CHOS MNGON PA'I MDZOD KYI 'GREL BSHAD MTSAN NYID KYI RJES SU 'BRANG BA ZHES BYA BA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "266495956627",
-            "subject_path": "TENGYUR_TENGYUR/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 6 (CU)",
-            "subject_path_tibetan": "TENGYUR/MNGON PA/6 (CU)",
-            "subject_path_english": "TENGYUR/Higher Knowledge School (Abhidharma)/VOL 6 (CU)",
-            "subject_tibetan": "6 (CU)",
-            "subject_english": "VOL 6 (CU)"
+            "_id": "192155888848",
+            "subject_path": "BSTAN 'GYUR_Tengyur/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 6 (CU)",
+            "subject_path_tibetan": "BSTAN 'GYUR/07 MNGON PA/VOL 6 (CU)",
+            "subject_path_english": "Tengyur/Higher Knowledge School (Abhidharma)",
+            "subject_tibetan": "VOL 6 (CU)",
+            "subject_english": "Higher Knowledge School (Abhidharma)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Abhidharma Koṣa Ṭīkā Lakṣaṇānusāriṇī Nāma",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 6 (CU)",
+            "timestamp": "2024-11-20 11:58:35.384813+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:57:44.894448+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T11:58:35.384813+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 6 (CU)",
-            "timestamp": "2024-11-13 01:57:44.894448+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

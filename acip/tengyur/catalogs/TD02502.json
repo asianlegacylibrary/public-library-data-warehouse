@@ -1,45 +1,53 @@
 {
     "name": "TD02502_RGYUD KYI DON LA 'JUG PA'I 'GREL BSHAD (Tantrārthāvatāra Vyākhyāna).txt",
-    "path": "TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/02 RNAL 'BYOR RGYUD_Secret Class of Practice (Yoga Tantra)/01 DE NYID BSDUS PA_Collection of Suchness (Tattva Saṃgraha)/01 SANGS RGYAS GSANG BA DANG PADMA BADZRA'I LUGS_System of Buddhagupta & Padmavajra (Buddhagupta Padmavajra Krama)/VOL 53 ('I)",
+    "path": "02 RGYUD_Diamond Way (Vajrayāna)/02 RNAL 'BYOR RGYUD_Secret Class of Practice (Yoga Tantra)/01 DE NYID BSDUS PA_Collection of Suchness (Tattva Saṃgraha)/01 SANGS RGYAS GSANG BA DANG PADMA BADZRA'I LUGS_System of Buddhagupta & Padmavajra (Buddhagupta Padmavajra Krama)/VOL 53 ('I)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/02 rnal 'byor rgyud_secret class of practice (yoga tantra)/01 de nyid bsdus pa_collection of suchness (tattva saṃgraha)/01 sangs rgyas gsang ba dang padma badzra'i lugs_system of buddhagupta & padmavajra (buddhagupta padmavajra krama)/vol 53 ('i)/td02502_rgyud kyi don la 'jug pa'i 'grel bshad (tantrārthāvatāra vyākhyāna).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB4SQ",
     "revision_id": "62633bf6a73d68d294473",
     "content_hash": "fc5b6151a22b04d804a80b618540eef9fc180b6c4d9ed85b1faa1130afde2f3a",
     "server_modified": "2024-11-06 00:39:16",
-    "last_sync": "2024-11-13 01:58:23.647716+00:00",
+    "last_sync": "2024-11-20 03:59:23.380532",
     "size": 1015645,
+    "meta_text": null,
     "cat_ref": "TD02502",
     "work_ref": "W.TD02502",
-    "title_tib": "RGYUD KYI DON LA 'JUG PA'I 'GREL BSHAD",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "216415595599",
-            "subject_path": "TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/02 RNAL 'BYOR RGYUD_Secret Class of Practice (Yoga Tantra)/01 DE NYID BSDUS PA_Collection of Suchness (Tattva Saṃgraha)/01 SANGS RGYAS GSANG BA DANG PADMA BADZRA'I LUGS_System of Buddhagupta & Padmavajra (Buddhagupta Padmavajra Krama)/VOL 53 ('I)",
-            "subject_path_tibetan": "TENGYUR/RGYUD/RNAL 'BYOR RGYUD/DE NYID BSDUS PA/SANGS RGYAS GSANG BA DANG PADMA BADZRA'I LUGS/53 ('I)",
-            "subject_path_english": "TENGYUR/Diamond Way (Vajrayāna)/Secret Class of Practice (Yoga Tantra)/Collection of Suchness (Tattva Saṃgraha)/System of Buddhagupta & Padmavajra (Buddhagupta Padmavajra Krama)/VOL 53 ('I)",
-            "subject_tibetan": "53 ('I)",
-            "subject_english": "VOL 53 ('I)"
+            "_id": "353588500760",
+            "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/02 RNAL 'BYOR RGYUD_Secret Class of Practice (Yoga Tantra)/01 DE NYID BSDUS PA_Collection of Suchness (Tattva Saṃgraha)/01 SANGS RGYAS GSANG BA DANG PADMA BADZRA'I LUGS_System of Buddhagupta & Padmavajra (Buddhagupta Padmavajra Krama)/VOL 53 ('I)",
+            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/02 RNAL 'BYOR RGYUD/01 DE NYID BSDUS PA/01 SANGS RGYAS GSANG BA DANG PADMA BADZRA'I LUGS/VOL 53 ('I)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Secret Class of Practice (Yoga Tantra)/Collection of Suchness (Tattva Saṃgraha)/System of Buddhagupta & Padmavajra (Buddhagupta Padmavajra Krama)",
+            "subject_tibetan": "VOL 53 ('I)",
+            "subject_english": "System of Buddhagupta & Padmavajra (Buddhagupta Padmavajra Krama)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Tantrārthāvatāra Vyākhyāna",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/02 RNAL 'BYOR RGYUD_Secret Class of Practice (Yoga Tantra)/01 DE NYID BSDUS PA_Collection of Suchness (Tattva Saṃgraha)/01 SANGS RGYAS GSANG BA DANG PADMA BADZRA'I LUGS_System of Buddhagupta & Padmavajra (Buddhagupta Padmavajra Krama)/VOL 53 ('I)",
+            "timestamp": "2024-11-20 11:59:23.384047+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:58:23.648790+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T11:59:23.384047+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/02 RGYUD_Diamond Way (Vajrayāna)/02 RNAL 'BYOR RGYUD_Secret Class of Practice (Yoga Tantra)/01 DE NYID BSDUS PA_Collection of Suchness (Tattva Saṃgraha)/01 SANGS RGYAS GSANG BA DANG PADMA BADZRA'I LUGS_System of Buddhagupta & Padmavajra (Buddhagupta Padmavajra Krama)/VOL 53 ('I)",
-            "timestamp": "2024-11-13 01:58:23.648790+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

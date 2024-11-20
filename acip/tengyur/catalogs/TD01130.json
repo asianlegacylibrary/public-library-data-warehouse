@@ -1,45 +1,53 @@
 {
     "name": "TD01130_BLA NA MED PA'I BSTOD PA_In Praise of That Which is Unsurpassable (Niruttara Stava).txt",
-    "path": "TENGYUR_TENGYUR/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
+    "path": "01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
     "download_path": "/tengyur updated 10 31 24 ws/01 bstod tsogs_songs of praise (stotra)/vol 1 (ka)/td01130_bla na med pa'i bstod pa_in praise of that which is unsurpassable (niruttara stava).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB3zw",
     "revision_id": "62633bd7e24c18d294473",
     "content_hash": "b46da76535f1701e98760e8241430c9172dec5b2cd8f6f157f6ec09e59cbb4d7",
     "server_modified": "2024-11-06 00:38:44",
-    "last_sync": "2024-11-13 01:58:15.691160+00:00",
+    "last_sync": "2024-11-20 03:59:09.210423",
     "size": 1370,
+    "meta_text": null,
     "cat_ref": "TD01130",
     "work_ref": "W.TD01130",
     "title_tib": "BLA NA MED PA'I BSTOD PA",
-    "title_eng": "In Praise of That Which is Unsurpassable",
+    "title_eng": "In Praise of That Which is Unsurpassable (Niruttara Stava)",
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
-            "_id": "212120326257",
-            "subject_path": "TENGYUR_TENGYUR/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
-            "subject_path_tibetan": "TENGYUR/BSTOD TSOGS/1 (KA)",
-            "subject_path_english": "TENGYUR/Songs of Praise (Stotra)/VOL 1 (KA)",
-            "subject_tibetan": "1 (KA)",
-            "subject_english": "VOL 1 (KA)"
+            "_id": "243715146395",
+            "subject_path": "BSTAN 'GYUR_Tengyur/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
+            "subject_path_tibetan": "BSTAN 'GYUR/01 BSTOD TSOGS/VOL 1 (KA)",
+            "subject_path_english": "Tengyur/Songs of Praise (Stotra)",
+            "subject_tibetan": "VOL 1 (KA)",
+            "subject_english": "Songs of Praise (Stotra)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "title_skt": "Niruttara Stava",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
+            "timestamp": "2024-11-20 11:59:09.232364+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T01:58:15.698568+00:00",
-            "run_id": 926,
+            "timestamp": "2024-11-20T11:59:09.232364+00:00",
+            "run_id": 1025,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "path_history": [
-        {
-            "path": "TENGYUR_TENGYUR/TENGYUR_TENGYUR/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
-            "timestamp": "2024-11-13 01:58:15.698568+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }
