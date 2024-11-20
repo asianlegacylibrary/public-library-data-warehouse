@@ -1,0 +1,53 @@
+{
+    "name": "ACI08_Course 08_Death and the Realms of Existence.txt",
+    "path": "",
+    "download_path": "/aci readings in roman ascii/aci08_course 08_death and the realms of existence.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAACJaw",
+    "revision_id": "6275ecd11cc758d294473",
+    "content_hash": "798aec81472edcdde19c5ea6c79a95021edc7a96ae8c313304506df1b84b0250",
+    "server_modified": "2024-11-20 21:26:21",
+    "last_sync": "2024-11-20 14:55:06.966733",
+    "size": 266561,
+    "meta_text": null,
+    "cat_ref": "ACI08",
+    "work_ref": "W.ACI08",
+    "title_tib": "",
+    "title_eng": "Death and the Realms of Existence",
+    "source": "ACI Courses",
+    "collection": "ACI Courses",
+    "language": "bo",
+    "author_simple": "",
+    "subject": [
+        {
+            "_id": "186353537068",
+            "subject_path": "ACI Courses_ACI Courses/",
+            "subject_path_tibetan": "ACI Courses/",
+            "subject_path_english": "ACI Courses",
+            "subject_tibetan": "",
+            "subject_english": "ACI Courses"
+        }
+    ],
+    "items": [],
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "ACI Courses_ACI Courses/",
+            "timestamp": "2024-11-20 22:55:06.998421+00:00"
+        }
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T22:55:06.998421+00:00",
+            "run_id": 1042,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
+}
