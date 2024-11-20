@@ -1,46 +1,53 @@
 {
     "name": "KL00490_DPAL RDO RJE SNYING PO RGYAN CES BYA BA'I RGYUD KYI RGYAL PO CHEN PO (Śrī Vajra Maṇḍa Alaṃkāra Nāma Mahā Tantra Rāja).txt",
-    "path": "BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 8 (NYA)",
+    "path": "12. RGYUD_Secret Teachings (Tantra)/VOL 8 (NYA)",
     "download_path": "/kangyur updated to 11 15 23 ws/12. rgyud_secret teachings (tantra)/vol 8 (nya)/kl00490_dpal rdo rje snying po rgyan ces bya ba'i rgyud kyi rgyal po chen po (śrī vajra maṇḍa alaṃkāra nāma mahā tantra rāja).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACGTw",
     "revision_id": "62658a740b2e88d294473",
     "content_hash": "914e56a93c0e7bd2947e08d683f1de7aceaad102886c89e5bdfebbfeca37d813",
     "server_modified": "2024-11-07 20:41:05",
-    "last_sync": "2024-11-13 22:48:45.390293+00:00",
+    "last_sync": "2024-11-19 19:44:11.185133",
     "size": 294522,
+    "meta_text": null,
     "cat_ref": "KL00490",
     "work_ref": "W.KL00490",
-    "title_tib": "DPAL RDO RJE SNYING PO RGYAN CES BYA BA'I RGYUD KYI RGYAL PO CHEN PO",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "438921220354",
             "subject_path": "BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 8 (NYA)",
-            "subject_path_tibetan": "BKA' 'GYUR/RGYUD/8 (NYA)",
-            "subject_path_english": "Kangyur/Secret Teachings/VOL 8 (NYA)",
-            "subject_tibetan": "8 (NYA)",
-            "subject_english": "VOL 8 (NYA)"
+            "subject_path_tibetan": "BKA' 'GYUR/12. RGYUD/VOL 8 (NYA)",
+            "subject_path_english": "Kangyur/Secret Teachings (Tantra)",
+            "subject_tibetan": "VOL 8 (NYA)",
+            "subject_english": "Secret Teachings (Tantra)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
-    "title_skt": "Śrī Vajra Maṇḍa Alaṃkāra Nāma Mahā Tantra Rāja",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 8 (NYA)",
+            "timestamp": "2024-11-20 03:44:11.882796+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:48:46.067646+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:44:11.882796+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 8 (NYA)",
-            "timestamp": "2024-11-13 22:48:46.067646+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

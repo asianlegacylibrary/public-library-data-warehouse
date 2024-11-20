@@ -1,46 +1,53 @@
 {
     "name": "KL00429_DPAL GDAN BZHI PA'I BSHAD PA'I RGYUD KYI RGYAL PO SNGAGS KYI CHA ZHES BYA BA (Śrī Catuḥpīṭha Khyāta Tantra Rāja Mantrāṃṣa Nāma).txt",
-    "path": "BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 4 (NGA)",
+    "path": "12. RGYUD_Secret Teachings (Tantra)/VOL 4 (NGA)",
     "download_path": "/kangyur updated to 11 15 23 ws/12. rgyud_secret teachings (tantra)/vol 4 (nga)/kl00429_dpal gdan bzhi pa'i bshad pa'i rgyud kyi rgyal po sngags kyi cha zhes bya ba (śrī catuḥpīṭha khyāta tantra rāja mantrāṃṣa nāma).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACG0w",
     "revision_id": "62658a893e0f48d294473",
     "content_hash": "25cc31eebabf36b0b87cf832aa34820ee0edd01b49057d5df3aeb338c3d6afb7",
     "server_modified": "2024-11-07 20:41:27",
-    "last_sync": "2024-11-13 22:48:49.736454+00:00",
+    "last_sync": "2024-11-19 19:44:15.246701",
     "size": 96697,
+    "meta_text": null,
     "cat_ref": "KL00429",
     "work_ref": "W.KL00429",
-    "title_tib": "DPAL GDAN BZHI PA'I BSHAD PA'I RGYUD KYI RGYAL PO SNGAGS KYI CHA ZHES BYA BA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "201911198728",
             "subject_path": "BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 4 (NGA)",
-            "subject_path_tibetan": "BKA' 'GYUR/RGYUD/4 (NGA)",
-            "subject_path_english": "Kangyur/Secret Teachings/VOL 4 (NGA)",
-            "subject_tibetan": "4 (NGA)",
-            "subject_english": "VOL 4 (NGA)"
+            "subject_path_tibetan": "BKA' 'GYUR/12. RGYUD/VOL 4 (NGA)",
+            "subject_path_english": "Kangyur/Secret Teachings (Tantra)",
+            "subject_tibetan": "VOL 4 (NGA)",
+            "subject_english": "Secret Teachings (Tantra)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
-    "title_skt": "Śrī Catuḥpīṭha Khyāta Tantra Rāja Mantrāṃṣa Nāma",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 4 (NGA)",
+            "timestamp": "2024-11-20 03:44:15.265720+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:48:49.739548+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:44:15.265720+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 4 (NGA)",
-            "timestamp": "2024-11-13 22:48:49.739548+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

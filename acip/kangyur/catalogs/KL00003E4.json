@@ -1,46 +1,53 @@
 {
     "name": "KL00003E4_'DUL BA RNAM PAR 'BYED PA 4_The Divisions of Vowed Morality, Part 4 (Vinaya Vibhaṃga 4).txt",
-    "path": "BKA' 'GYUR_Kangyur/1. 'DUL BA_Vowed Morality (Vinaya)/VOL 8 (NYA)",
+    "path": "1. 'DUL BA_Vowed Morality (Vinaya)/VOL 8 (NYA)",
     "download_path": "/kangyur updated to 11 15 23 ws/1. 'dul ba_vowed morality (vinaya)/vol 8 (nya)/kl00003e4_'dul ba rnam par 'byed pa 4_the divisions of vowed morality, part 4 (vinaya vibhaṃga 4).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACJYQ",
     "revision_id": "62658b4a27a328d294473",
     "content_hash": "df69cb92d46d04dd56393e9815d725a1422755cad3eff3c4ce27fe74e9be2cad",
     "server_modified": "2024-11-07 20:44:49",
-    "last_sync": "2024-11-13 22:50:28.803334+00:00",
+    "last_sync": "2024-11-19 19:45:59.540216",
     "size": 1022824,
+    "meta_text": null,
     "cat_ref": "KL00003E4",
     "work_ref": "W.KL00003E4",
     "title_tib": "'DUL BA RNAM PAR 'BYED PA 4",
-    "title_eng": "The Divisions of Vowed Morality, Part 4",
+    "title_eng": "The Divisions of Vowed Morality, Part 4 (Vinaya Vibhaṃga 4)",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "328502250593",
             "subject_path": "BKA' 'GYUR_Kangyur/1. 'DUL BA_Vowed Morality (Vinaya)/VOL 8 (NYA)",
-            "subject_path_tibetan": "BKA' 'GYUR/'DUL BA/8 (NYA)",
-            "subject_path_english": "Kangyur/Vowed Morality/VOL 8 (NYA)",
-            "subject_tibetan": "8 (NYA)",
-            "subject_english": "VOL 8 (NYA)"
+            "subject_path_tibetan": "BKA' 'GYUR/1. 'DUL BA/VOL 8 (NYA)",
+            "subject_path_english": "Kangyur/Vowed Morality (Vinaya)",
+            "subject_tibetan": "VOL 8 (NYA)",
+            "subject_english": "Vowed Morality (Vinaya)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
-    "title_skt": "Vinaya Vibhaṃga 4",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/1. 'DUL BA_Vowed Morality (Vinaya)/VOL 8 (NYA)",
+            "timestamp": "2024-11-20 03:45:59.545712+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:50:28.803854+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:45:59.545712+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/1. 'DUL BA_Vowed Morality (Vinaya)/VOL 8 (NYA)",
-            "timestamp": "2024-11-13 22:50:28.803854+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

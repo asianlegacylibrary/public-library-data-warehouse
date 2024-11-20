@@ -1,46 +1,53 @@
 {
     "name": "KL00359_MIG BCU GNYIS PA ZHES BYA BA'I MDO (Dvādaśalocana Nāma Sūtra).txt",
-    "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 30 (AA)$$",
+    "path": "10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 30 (AA)$$",
     "download_path": "/kangyur updated to 11 15 23 ws/10. mdo mang_collection of sutras (sūtra)$$/vol 30 (aa)$$/kl00359_mig bcu gnyis pa zhes bya ba'i mdo (dvādaśalocana nāma sūtra).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACHdg",
     "revision_id": "62658ab861d948d294473",
     "content_hash": "63ae6af3fb0a1faf1cfbb6ac846a482410ddc4f2c7ac1e7ef264c961e4f6a29c",
     "server_modified": "2024-11-07 20:42:16",
-    "last_sync": "2024-11-13 22:49:10.667172+00:00",
+    "last_sync": "2024-11-19 19:44:37.515377",
     "size": 15854,
+    "meta_text": null,
     "cat_ref": "KL00359",
     "work_ref": "W.KL00359",
-    "title_tib": "MIG BCU GNYIS PA ZHES BYA BA'I MDO",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "278171932793",
             "subject_path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 30 (AA)$$",
-            "subject_path_tibetan": "BKA' 'GYUR/MDO MANG/30 (AA)$$",
-            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$/VOL 30 (AA)$$",
-            "subject_tibetan": "30 (AA)$$",
-            "subject_english": "VOL 30 (AA)$$"
+            "subject_path_tibetan": "BKA' 'GYUR/10. MDO MANG/VOL 30 (AA)$$",
+            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$",
+            "subject_tibetan": "VOL 30 (AA)$$",
+            "subject_english": "Collection of Sutras (Sūtra)$$"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
-    "title_skt": "Dvādaśalocana Nāma Sūtra",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 30 (AA)$$",
+            "timestamp": "2024-11-20 03:44:37.520693+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:49:10.669868+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:44:37.520693+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 30 (AA)$$",
-            "timestamp": "2024-11-13 22:49:10.669868+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

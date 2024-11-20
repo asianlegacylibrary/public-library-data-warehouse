@@ -1,47 +1,53 @@
 {
     "name": "KL00186_'PHAGS PA SANGS RGYAS KYI STOBS BSKYED PA'I CHO 'PHRUL RNAM PAR 'PHRUL PA BSTAN PA ZHES BYA BA THEG PA CHEN PO'I MDO_An Exalted Sutra of the Greater Way entitled \"A Description of the Miracles That the Buddhas Display Through Their Power\" +.txt",
-    "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 15 (BA)$$",
+    "path": "10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 15 (BA)$$",
     "download_path": "/kangyur updated to 11 15 23 ws/10. mdo mang_collection of sutras (sūtra)$$/vol 15 (ba)$$/kl00186_'phags pa sangs rgyas kyi stobs bskyed pa'i cho 'phrul rnam par 'phrul pa bstan pa zhes bya ba theg pa chen po'i mdo_an exalted sutra of the greater way entitled \"a description of the miracles that the buddhas display through their power\" +.txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACIBQ",
     "revision_id": "62658ad5eb3008d294473",
     "content_hash": "f16c7b5f3cbaf838d87b08104ecbc80019ce6504394db0768ebfa09cd3f797e8",
     "server_modified": "2024-11-07 20:42:47",
-    "last_sync": "2024-11-13 22:49:30.711218+00:00",
+    "last_sync": "2024-11-19 19:44:57.539648",
     "size": 53079,
+    "meta_text": "('(Ārya Buddha Bala Vardhana Pratihārya Vikurvāṇa Nirdeśa Nāma Mahāyāna Sūtra)', 'text')",
     "cat_ref": "KL00186",
     "work_ref": "W.KL00186",
     "title_tib": "'PHAGS PA SANGS RGYAS KYI STOBS BSKYED PA'I CHO 'PHRUL RNAM PAR 'PHRUL PA BSTAN PA ZHES BYA BA THEG PA CHEN PO'I MDO",
-    "title_eng": "An Exalted Sutra of the Greater Way entitled \"A Description of the Miracles That the Buddhas Display Through Their Power\"",
+    "title_eng": "An Exalted Sutra of the Greater Way entitled \"A Description of the Miracles That the Buddhas Display Through Their Power\"('(Ārya Buddha Bala Vardhana Pratihārya Vikurvāṇa Nirdeśa Nāma Mahāyāna Sūtra)', 'text')",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "275550474324",
             "subject_path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 15 (BA)$$",
-            "subject_path_tibetan": "BKA' 'GYUR/MDO MANG/15 (BA)$$",
-            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$/VOL 15 (BA)$$",
-            "subject_tibetan": "15 (BA)$$",
-            "subject_english": "VOL 15 (BA)$$"
+            "subject_path_tibetan": "BKA' 'GYUR/10. MDO MANG/VOL 15 (BA)$$",
+            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$",
+            "subject_tibetan": "VOL 15 (BA)$$",
+            "subject_english": "Collection of Sutras (Sūtra)$$"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 15 (BA)$$",
+            "timestamp": "2024-11-20 03:44:58.936063+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:49:32.070862+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:44:58.936063+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "meta_text": "(Ārya Buddha Bala Vardhana Pratihārya Vikurvāṇa Nirdeśa Nāma Mahāyāna Sūtra)",
-    "title_skt": "Ārya Buddha Bala Vardhana Pratihārya Vikurvāṇa Nirdeśa Nāma Mahāyāna Sūtra",
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 15 (BA)$$",
-            "timestamp": "2024-11-13 22:49:32.070862+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

@@ -1,46 +1,53 @@
 {
     "name": "KL00065E_SGYU MA MKHAN BZANG PO LUNG BSTAN PA ZHES BYA BA THEG PA CHEN PO'I MDO_A Sutra of the Greater Way entitled \"The Prediction of the Enlightenment of the Magician Bhadra\" (Bhadra Māyākāra Vyākaraṇa Nāma Mahāyāna Sūtra).txt",
-    "path": "BKA' 'GYUR_Kangyur/8. DKON BRTZEGS_Pile of Jewels (Ratna Kūṭa)/VOL 5 (CA)",
+    "path": "8. DKON BRTZEGS_Pile of Jewels (Ratna Kūṭa)/VOL 5 (CA)",
     "download_path": "/kangyur updated to 11 15 23 ws/8. dkon brtzegs_pile of jewels (ratna kūṭa)/vol 5 (ca)/kl00065e_sgyu ma mkhan bzang po lung bstan pa zhes bya ba theg pa chen po'i mdo_a sutra of the greater way entitled \"the prediction of the enlightenment of the magician bhadra\" (bhadra māyākāra vyākaraṇa nāma mahāyāna sūtra).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACIig",
     "revision_id": "62658b0479c398d294473",
     "content_hash": "ac83b305ef889fa13ad55afa3a60350565ced6bda5a4fb5a7fcf7d348e19c13b",
     "server_modified": "2024-11-07 20:43:36",
-    "last_sync": "2024-11-13 22:49:55.767309+00:00",
+    "last_sync": "2024-11-19 19:45:23.224818",
     "size": 69037,
+    "meta_text": null,
     "cat_ref": "KL00065E",
     "work_ref": "W.KL00065E",
     "title_tib": "SGYU MA MKHAN BZANG PO LUNG BSTAN PA ZHES BYA BA THEG PA CHEN PO'I MDO",
-    "title_eng": "A Sutra of the Greater Way entitled \"The Prediction of the Enlightenment of the Magician Bhadra\"",
+    "title_eng": "A Sutra of the Greater Way entitled \"The Prediction of the Enlightenment of the Magician Bhadra\" (Bhadra Māyākāra Vyākaraṇa Nāma Mahāyāna Sūtra)",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "328307370332",
             "subject_path": "BKA' 'GYUR_Kangyur/8. DKON BRTZEGS_Pile of Jewels (Ratna Kūṭa)/VOL 5 (CA)",
-            "subject_path_tibetan": "BKA' 'GYUR/DKON BRTZEGS/5 (CA)",
-            "subject_path_english": "Kangyur/Pile of Jewels/VOL 5 (CA)",
-            "subject_tibetan": "5 (CA)",
-            "subject_english": "VOL 5 (CA)"
+            "subject_path_tibetan": "BKA' 'GYUR/8. DKON BRTZEGS/VOL 5 (CA)",
+            "subject_path_english": "Kangyur/Pile of Jewels (Ratna Kūṭa)",
+            "subject_tibetan": "VOL 5 (CA)",
+            "subject_english": "Pile of Jewels (Ratna Kūṭa)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
-    "title_skt": "Bhadra Māyākāra Vyākaraṇa Nāma Mahāyāna Sūtra",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/8. DKON BRTZEGS_Pile of Jewels (Ratna Kūṭa)/VOL 5 (CA)",
+            "timestamp": "2024-11-20 03:45:23.850487+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:49:56.358996+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:45:23.850487+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/8. DKON BRTZEGS_Pile of Jewels (Ratna Kūṭa)/VOL 5 (CA)",
-            "timestamp": "2024-11-13 22:49:56.358996+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

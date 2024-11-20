@@ -1,46 +1,53 @@
 {
     "name": "KL00008E2INC_SHES RAB KYI PHA ROL TU PHYIN PA STONG PHRAG BRGYA PA 2_The Perfection of Wisdom in 100,000 Lines, Part 2 (Ṣatasāhasrikā Prajña Pāramitā 2).txt",
-    "path": "BKA' 'GYUR_Kangyur/2. 'BUM_Perfection of Wisdom in 100,000 Lines (Ṣatasāhasrikā Prajña Pāramitā)/VOL 2 (KHA)",
+    "path": "2. 'BUM_Perfection of Wisdom in 100,000 Lines (Ṣatasāhasrikā Prajña Pāramitā)/VOL 2 (KHA)",
     "download_path": "/kangyur updated to 11 15 23 ws/2. 'bum_perfection of wisdom in 100,000 lines (ṣatasāhasrikā prajña pāramitā)/vol 2 (kha)/kl00008e2inc_shes rab kyi pha rol tu phyin pa stong phrag brgya pa 2_the perfection of wisdom in 100,000 lines, part 2 (ṣatasāhasrikā prajña pāramitā 2).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACIbQ",
     "revision_id": "62658af697c478d294473",
     "content_hash": "37c1cb8c0f915f824b6e0731d113120064b13a2a9c61fffbf697810d9c9363ca",
     "server_modified": "2024-11-07 20:43:22",
-    "last_sync": "2024-11-13 22:49:49.772865+00:00",
+    "last_sync": "2024-11-19 19:45:15.853820",
     "size": 1413922,
+    "meta_text": null,
     "cat_ref": "KL00008E2INC",
     "work_ref": "W.KL00008E2INC",
     "title_tib": "SHES RAB KYI PHA ROL TU PHYIN PA STONG PHRAG BRGYA PA 2",
-    "title_eng": "The Perfection of Wisdom in 100,000 Lines, Part 2",
+    "title_eng": "The Perfection of Wisdom in 100,000 Lines, Part 2 (Ṣatasāhasrikā Prajña Pāramitā 2)",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "176907492722",
             "subject_path": "BKA' 'GYUR_Kangyur/2. 'BUM_Perfection of Wisdom in 100,000 Lines (Ṣatasāhasrikā Prajña Pāramitā)/VOL 2 (KHA)",
-            "subject_path_tibetan": "BKA' 'GYUR/'BUM/2 (KHA)",
-            "subject_path_english": "Kangyur/Perfection of Wisdom in 100,000 Lines/VOL 2 (KHA)",
-            "subject_tibetan": "2 (KHA)",
-            "subject_english": "VOL 2 (KHA)"
+            "subject_path_tibetan": "BKA' 'GYUR/2. 'BUM/VOL 2 (KHA)",
+            "subject_path_english": "Kangyur/Perfection of Wisdom in 100,000 Lines (Ṣatasāhasrikā Prajña Pāramitā)",
+            "subject_tibetan": "VOL 2 (KHA)",
+            "subject_english": "Perfection of Wisdom in 100,000 Lines (Ṣatasāhasrikā Prajña Pāramitā)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
-    "title_skt": "Ṣatasāhasrikā Prajña Pāramitā 2",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/2. 'BUM_Perfection of Wisdom in 100,000 Lines (Ṣatasāhasrikā Prajña Pāramitā)/VOL 2 (KHA)",
+            "timestamp": "2024-11-20 03:45:15.859020+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:49:49.773426+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:45:15.859020+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/2. 'BUM_Perfection of Wisdom in 100,000 Lines (Ṣatasāhasrikā Prajña Pāramitā)/VOL 2 (KHA)",
-            "timestamp": "2024-11-13 22:49:49.773426+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

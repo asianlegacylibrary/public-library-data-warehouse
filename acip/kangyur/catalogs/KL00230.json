@@ -1,46 +1,53 @@
 {
     "name": "KL00230_'DUS PA CHEN PO THEG PA CHEN PO'I MDO SDE LAS DE BZHIN GSHEGS PA'I DPAL GYI DAM TSIG CES BYA BA THEG PA CHEN PO'I MDO_An Exalted Sutra of the Greater Way entitled \"The Glorious Pledge of Those Who Have Gone That Way,\" from the Great +.txt",
-    "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 17 (TZA)",
+    "path": "10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 17 (TZA)",
     "download_path": "/kangyur updated to 11 15 23 ws/10. mdo mang_collection of sutras (sūtra)$$/vol 17 (tza)/kl00230_'dus pa chen po theg pa chen po'i mdo sde las de bzhin gshegs pa'i dpal gyi dam tsig ces bya ba theg pa chen po'i mdo_an exalted sutra of the greater way entitled \"the glorious pledge of those who have gone that way,\" from the great +.txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACHmQ",
     "revision_id": "62658abfdd1818d294473",
     "content_hash": "cde892f5fc57d1d726b864a3719a14cc0712775d719c30243df73368be5f1387",
     "server_modified": "2024-11-07 20:42:24",
-    "last_sync": "2024-11-13 22:49:16.178616+00:00",
+    "last_sync": "2024-11-19 19:44:43.530464",
     "size": 118515,
+    "meta_text": "('Compendium of the Buddhist Sutras (Mahāsaṃnipātan Mahāyāna Sūtrāt Tathāgata Śri Samaya Nāma Mahāyāna Sūtra)', 'text')",
     "cat_ref": "KL00230",
     "work_ref": "W.KL00230",
     "title_tib": "'DUS PA CHEN PO THEG PA CHEN PO'I MDO SDE LAS DE BZHIN GSHEGS PA'I DPAL GYI DAM TSIG CES BYA BA THEG PA CHEN PO'I MDO",
-    "title_eng": "An Exalted Sutra of the Greater Way entitled \"The Glorious Pledge of Those Who Have Gone That Way,\" from the Great",
+    "title_eng": "An Exalted Sutra of the Greater Way entitled \"The Glorious Pledge of Those Who Have Gone That Way,\" from the Great('Compendium of the Buddhist Sutras (Mahāsaṃnipātan Mahāyāna Sūtrāt Tathāgata Śri Samaya Nāma Mahāyāna Sūtra)', 'text')",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "113134466518",
             "subject_path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 17 (TZA)",
-            "subject_path_tibetan": "BKA' 'GYUR/MDO MANG/17 (TZA)",
-            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$/VOL 17 (TZA)",
-            "subject_tibetan": "17 (TZA)",
-            "subject_english": "VOL 17 (TZA)"
+            "subject_path_tibetan": "BKA' 'GYUR/10. MDO MANG/VOL 17 (TZA)",
+            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$",
+            "subject_tibetan": "VOL 17 (TZA)",
+            "subject_english": "Collection of Sutras (Sūtra)$$"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 17 (TZA)",
+            "timestamp": "2024-11-20 03:44:44.098831+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:49:16.999876+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:44:44.098831+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "meta_text": "Compendium of the Buddhist Sutras (Mahāsaṃnipātan Mahāyāna Sūtrāt Tathāgata Śri Samaya Nāma Mahāyāna Sūtra)",
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 17 (TZA)",
-            "timestamp": "2024-11-13 22:49:16.999876+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

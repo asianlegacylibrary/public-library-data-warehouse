@@ -1,46 +1,53 @@
 {
     "name": "KL00748_'PHAGS PA LAG NA RDO RJE GOS SNGON PO CAN GYI CHO GA ZHES BYA BA'I GZUNGS (Ārya Nīlāmbaradhara Vajrapāṇi Kalpa).txt",
-    "path": "BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 9 (TA)",
+    "path": "12. RGYUD_Secret Teachings (Tantra)/VOL 9 (TA)",
     "download_path": "/kangyur updated to 11 15 23 ws/12. rgyud_secret teachings (tantra)/vol 9 (ta)/kl00748_'phags pa lag na rdo rje gos sngon po can gyi cho ga zhes bya ba'i gzungs (ārya nīlāmbaradhara vajrapāṇi kalpa).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACGuw",
     "revision_id": "62658a84e00c78d294473",
     "content_hash": "3509d205c63f3465ddec0860ba0f8a03f9435042fe63748ea5a31e38c4eac45f",
     "server_modified": "2024-11-07 20:41:22",
-    "last_sync": "2024-11-13 22:48:47.046273+00:00",
+    "last_sync": "2024-11-19 19:44:12.606094",
     "size": 4228,
+    "meta_text": null,
     "cat_ref": "KL00748",
     "work_ref": "W.KL00748",
-    "title_tib": "'PHAGS PA LAG NA RDO RJE GOS SNGON PO CAN GYI CHO GA ZHES BYA BA'I GZUNGS",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "179328892931",
             "subject_path": "BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 9 (TA)",
-            "subject_path_tibetan": "BKA' 'GYUR/RGYUD/9 (TA)",
-            "subject_path_english": "Kangyur/Secret Teachings/VOL 9 (TA)",
-            "subject_tibetan": "9 (TA)",
-            "subject_english": "VOL 9 (TA)"
+            "subject_path_tibetan": "BKA' 'GYUR/12. RGYUD/VOL 9 (TA)",
+            "subject_path_english": "Kangyur/Secret Teachings (Tantra)",
+            "subject_tibetan": "VOL 9 (TA)",
+            "subject_english": "Secret Teachings (Tantra)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
-    "title_skt": "Ārya Nīlāmbaradhara Vajrapāṇi Kalpa",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 9 (TA)",
+            "timestamp": "2024-11-20 03:44:14.592754+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:48:49.052500+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:44:14.592754+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 9 (TA)",
-            "timestamp": "2024-11-13 22:48:49.052500+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

@@ -1,46 +1,53 @@
 {
     "name": "KL00094E_'PHAGS PA BSKAL PA BZANG PO PA ZHES BYA BA THEG PA CHEN PO'I MDO_An Exalted Sutra of the Greater Way entitled \"The Book of the Eon of Good Fortune\" (Ārya Bhadra Kalpika Nāma Mahāyāna Sūtra).txt",
-    "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 1 (KA)",
+    "path": "10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 1 (KA)",
     "download_path": "/kangyur updated to 11 15 23 ws/10. mdo mang_collection of sutras (sūtra)$$/vol 1 (ka)/kl00094e_'phags pa bskal pa bzang po pa zhes bya ba theg pa chen po'i mdo_an exalted sutra of the greater way entitled \"the book of the eon of good fortune\" (ārya bhadra kalpika nāma mahāyāna sūtra).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACHMQ",
     "revision_id": "62658aaa41c418d294473",
     "content_hash": "e9362238e129f4773c69b02b5223d58bc3177947fe34a6b0d516ef0a7e61eeb6",
     "server_modified": "2024-11-07 20:42:02",
-    "last_sync": "2024-11-13 22:49:02.976449+00:00",
+    "last_sync": "2024-11-19 19:44:29.924147",
     "size": 1294297,
+    "meta_text": null,
     "cat_ref": "KL00094E",
     "work_ref": "W.KL00094E",
     "title_tib": "'PHAGS PA BSKAL PA BZANG PO PA ZHES BYA BA THEG PA CHEN PO'I MDO",
-    "title_eng": "An Exalted Sutra of the Greater Way entitled \"The Book of the Eon of Good Fortune\"",
+    "title_eng": "An Exalted Sutra of the Greater Way entitled \"The Book of the Eon of Good Fortune\" (Ārya Bhadra Kalpika Nāma Mahāyāna Sūtra)",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "321943168308",
             "subject_path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 1 (KA)",
-            "subject_path_tibetan": "BKA' 'GYUR/MDO MANG/1 (KA)",
-            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$/VOL 1 (KA)",
-            "subject_tibetan": "1 (KA)",
-            "subject_english": "VOL 1 (KA)"
+            "subject_path_tibetan": "BKA' 'GYUR/10. MDO MANG/VOL 1 (KA)",
+            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$",
+            "subject_tibetan": "VOL 1 (KA)",
+            "subject_english": "Collection of Sutras (Sūtra)$$"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
-    "title_skt": "Ārya Bhadra Kalpika Nāma Mahāyāna Sūtra",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 1 (KA)",
+            "timestamp": "2024-11-20 03:44:29.928983+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:49:02.977025+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:44:29.928983+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 1 (KA)",
-            "timestamp": "2024-11-13 22:49:02.977025+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

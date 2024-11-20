@@ -1,46 +1,53 @@
 {
     "name": "KL00220_SANGS RGYAS KYI SDE SNOD TSUL KHRIMS 'CHAL PA TSAR GCOD PA ZHES BYA BA THEG PA CHEN PO'I MDO_An Exalted Sutra of the Greater Way entitled \"Putting an End to Immorality,\" Part of a Group of the Buddha's Teachings (Buddha Piṭaka Duḥśīla +.txt",
-    "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 17 (TZA)",
+    "path": "10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 17 (TZA)",
     "download_path": "/kangyur updated to 11 15 23 ws/10. mdo mang_collection of sutras (sūtra)$$/vol 17 (tza)/kl00220_sangs rgyas kyi sde snod tsul khrims 'chal pa tsar gcod pa zhes bya ba theg pa chen po'i mdo_an exalted sutra of the greater way entitled \"putting an end to immorality,\" part of a group of the buddha's teachings (buddha piṭaka duḥśīla +.txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACHmg",
     "revision_id": "62658ac12e33d8d294473",
     "content_hash": "761ac992e20ede7c6214ed50d734aca9abab213ddc7892e8a917183b2098102d",
     "server_modified": "2024-11-07 20:42:26",
-    "last_sync": "2024-11-13 22:49:16.996693+00:00",
+    "last_sync": "2024-11-19 19:44:44.092038",
     "size": 304817,
+    "meta_text": "('Nigraha N훮ma Mah훮y훮na S큰tra)', 'text')",
     "cat_ref": "KL00220",
     "work_ref": "W.KL00220",
     "title_tib": "SANGS RGYAS KYI SDE SNOD TSUL KHRIMS 'CHAL PA TSAR GCOD PA ZHES BYA BA THEG PA CHEN PO'I MDO",
-    "title_eng": "An Exalted Sutra of the Greater Way entitled \"Putting an End to Immorality,\" Part of a Group of the Buddha's Teachings (Buddha Piṭaka Duḥśīla",
+    "title_eng": "An Exalted Sutra of the Greater Way entitled \"Putting an End to Immorality,\" Part of a Group of the Buddha's Teachings (Buddha Piṭaka Duḥśīla('Nigraha N훮ma Mah훮y훮na S큰tra)', 'text')",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "113134466518",
             "subject_path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 17 (TZA)",
-            "subject_path_tibetan": "BKA' 'GYUR/MDO MANG/17 (TZA)",
-            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$/VOL 17 (TZA)",
-            "subject_tibetan": "17 (TZA)",
-            "subject_english": "VOL 17 (TZA)"
+            "subject_path_tibetan": "BKA' 'GYUR/10. MDO MANG/VOL 17 (TZA)",
+            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$",
+            "subject_tibetan": "VOL 17 (TZA)",
+            "subject_english": "Collection of Sutras (Sūtra)$$"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 17 (TZA)",
+            "timestamp": "2024-11-20 03:44:44.098892+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:49:17.000067+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:44:44.098892+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "meta_text": "Nigraha Nāma Mahāyāna Sūtra)",
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 17 (TZA)",
-            "timestamp": "2024-11-13 22:49:17.000067+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

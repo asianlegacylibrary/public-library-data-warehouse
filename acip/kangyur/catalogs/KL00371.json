@@ -1,46 +1,53 @@
 {
     "name": "KL00371_RDO RJE MKHA' 'GRO ZHES BYA BA'I RGYUD PHYI MA (Vajra Ḍāka Nāma Uttaratantra).txt",
-    "path": "BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 2 (KHA)",
+    "path": "12. RGYUD_Secret Teachings (Tantra)/VOL 2 (KHA)",
     "download_path": "/kangyur updated to 11 15 23 ws/12. rgyud_secret teachings (tantra)/vol 2 (kha)/kl00371_rdo rje mkha' 'gro zhes bya ba'i rgyud phyi ma (vajra ḍāka nāma uttaratantra).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACFWQ",
     "revision_id": "62658a45719948d294473",
     "content_hash": "d7fb4b98427cfbf46ad096c32bcde0ca729215dad35cc7a35b2da7d189fe125e",
     "server_modified": "2024-11-07 20:40:16",
-    "last_sync": "2024-11-13 22:48:28.293555+00:00",
+    "last_sync": "2024-11-19 19:43:55.217633",
     "size": 44893,
+    "meta_text": null,
     "cat_ref": "KL00371",
     "work_ref": "W.KL00371",
-    "title_tib": "RDO RJE MKHA' 'GRO ZHES BYA BA'I RGYUD PHYI MA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "154018118443",
             "subject_path": "BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 2 (KHA)",
-            "subject_path_tibetan": "BKA' 'GYUR/RGYUD/2 (KHA)",
-            "subject_path_english": "Kangyur/Secret Teachings/VOL 2 (KHA)",
-            "subject_tibetan": "2 (KHA)",
-            "subject_english": "VOL 2 (KHA)"
+            "subject_path_tibetan": "BKA' 'GYUR/12. RGYUD/VOL 2 (KHA)",
+            "subject_path_english": "Kangyur/Secret Teachings (Tantra)",
+            "subject_tibetan": "VOL 2 (KHA)",
+            "subject_english": "Secret Teachings (Tantra)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
-    "title_skt": "Vajra Ḍāka Nāma Uttaratantra",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 2 (KHA)",
+            "timestamp": "2024-11-20 03:43:55.879292+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:48:28.965506+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:43:55.879292+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 2 (KHA)",
-            "timestamp": "2024-11-13 22:48:28.965506+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

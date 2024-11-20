@@ -1,45 +1,53 @@
 {
     "name": "KL00147E_'PHAGS PA DE BZHIN GSHEGS PA'I SNYING RJE CHEN PO NGES PAR BSTAN PA ZHES BYA BA THEG PA CHEN PO'I MDO_An Exalted Sutra of the Greater Way entitled \"A Presentation of the Great Compassion of Those Who Have Gone That Way (Ārya Tathāgata +.txt",
-    "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 11 (DA)",
+    "path": "10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 11 (DA)",
     "download_path": "/kangyur updated to 11 15 23 ws/10. mdo mang_collection of sutras (sūtra)$$/vol 11 (da)/kl00147e_'phags pa de bzhin gshegs pa'i snying rje chen po nges par bstan pa zhes bya ba theg pa chen po'i mdo_an exalted sutra of the greater way entitled \"a presentation of the great compassion of those who have gone that way (ārya tathāgata +.txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACHMg",
     "revision_id": "62658aaa41c428d294473",
     "content_hash": "54df672310eec63d6b264d43c6da7289d702d965afe169965edfb221b1094c4e",
     "server_modified": "2024-11-07 20:42:02",
-    "last_sync": "2024-11-13 22:49:02.350348+00:00",
+    "last_sync": "2024-11-19 19:44:29.231950",
     "size": 382745,
+    "meta_text": null,
     "cat_ref": "KL00147E",
     "work_ref": "W.KL00147E",
     "title_tib": "'PHAGS PA DE BZHIN GSHEGS PA'I SNYING RJE CHEN PO NGES PAR BSTAN PA ZHES BYA BA THEG PA CHEN PO'I MDO",
     "title_eng": "An Exalted Sutra of the Greater Way entitled \"A Presentation of the Great Compassion of Those Who Have Gone That Way (Ārya Tathāgata",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "674247217741",
             "subject_path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 11 (DA)",
-            "subject_path_tibetan": "BKA' 'GYUR/MDO MANG/11 (DA)",
-            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$/VOL 11 (DA)",
-            "subject_tibetan": "11 (DA)",
-            "subject_english": "VOL 11 (DA)"
+            "subject_path_tibetan": "BKA' 'GYUR/10. MDO MANG/VOL 11 (DA)",
+            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$",
+            "subject_tibetan": "VOL 11 (DA)",
+            "subject_english": "Collection of Sutras (Sūtra)$$"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 11 (DA)",
+            "timestamp": "2024-11-20 03:44:29.244403+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:49:02.351861+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:44:29.244403+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 11 (DA)",
-            "timestamp": "2024-11-13 22:49:02.351861+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

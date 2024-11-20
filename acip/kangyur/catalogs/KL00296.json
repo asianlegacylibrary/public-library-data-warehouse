@@ -1,46 +1,53 @@
 {
     "name": "KL00296_GZHON NU DPE'I MDO_A Sutra entitled 'Metaphors of Young Things' (Kumāra Dṛṣṭānta Sūtra).txt",
-    "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 25 (RA)",
+    "path": "10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 25 (RA)",
     "download_path": "/kangyur updated to 11 15 23 ws/10. mdo mang_collection of sutras (sūtra)$$/vol 25 (ra)/kl00296_gzhon nu dpe'i mdo_a sutra entitled 'metaphors of young things' (kumāra dṛṣṭānta sūtra).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACISQ",
     "revision_id": "62658ae2c0ffc8d294473",
     "content_hash": "871f9a97a1f03ff008462a4d3d0fc03353149df84f12f03c0d02fbe46d316bd1",
     "server_modified": "2024-11-07 20:43:01",
-    "last_sync": "2024-11-13 22:49:36.451749+00:00",
+    "last_sync": "2024-11-19 19:45:03.334311",
     "size": 5935,
+    "meta_text": null,
     "cat_ref": "KL00296",
     "work_ref": "W.KL00296",
     "title_tib": "GZHON NU DPE'I MDO",
-    "title_eng": "A Sutra entitled 'Metaphors of Young Things'",
+    "title_eng": "A Sutra entitled 'Metaphors of Young Things' (Kumāra Dṛṣṭānta Sūtra)",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "190456150028",
             "subject_path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 25 (RA)",
-            "subject_path_tibetan": "BKA' 'GYUR/MDO MANG/25 (RA)",
-            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$/VOL 25 (RA)",
-            "subject_tibetan": "25 (RA)",
-            "subject_english": "VOL 25 (RA)"
+            "subject_path_tibetan": "BKA' 'GYUR/10. MDO MANG/VOL 25 (RA)",
+            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$",
+            "subject_tibetan": "VOL 25 (RA)",
+            "subject_english": "Collection of Sutras (Sūtra)$$"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
-    "title_skt": "Kumāra Dṛṣṭānta Sūtra",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 25 (RA)",
+            "timestamp": "2024-11-20 03:45:03.339243+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:49:36.454160+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:45:03.339243+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 25 (RA)",
-            "timestamp": "2024-11-13 22:49:36.454160+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

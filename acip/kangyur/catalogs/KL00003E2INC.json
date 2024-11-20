@@ -1,46 +1,53 @@
 {
     "name": "KL00003E2INC_'DUL BA RNAM PAR 'BYED PA 2_The Divisions of Vowed Morality, Part 2 (Vinaya Vibhaṃga 2).txt",
-    "path": "BKA' 'GYUR_Kangyur/1. 'DUL BA_Vowed Morality (Vinaya)/VOL 6 (CHA)",
+    "path": "1. 'DUL BA_Vowed Morality (Vinaya)/VOL 6 (CHA)",
     "download_path": "/kangyur updated to 11 15 23 ws/1. 'dul ba_vowed morality (vinaya)/vol 6 (cha)/kl00003e2inc_'dul ba rnam par 'byed pa 2_the divisions of vowed morality, part 2 (vinaya vibhaṃga 2).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACJYA",
     "revision_id": "62658b4a27a308d294473",
     "content_hash": "23151757ef0ea0c1d39483efb16c7b7bf5bc7ac138951a82baafad78e2b361fa",
     "server_modified": "2024-11-07 20:44:49",
-    "last_sync": "2024-11-13 22:50:28.105456+00:00",
+    "last_sync": "2024-11-19 19:45:58.972146",
     "size": 1086765,
+    "meta_text": null,
     "cat_ref": "KL00003E2INC",
     "work_ref": "W.KL00003E2INC",
     "title_tib": "'DUL BA RNAM PAR 'BYED PA 2",
-    "title_eng": "The Divisions of Vowed Morality, Part 2",
+    "title_eng": "The Divisions of Vowed Morality, Part 2 (Vinaya Vibhaṃga 2)",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "214555461157",
             "subject_path": "BKA' 'GYUR_Kangyur/1. 'DUL BA_Vowed Morality (Vinaya)/VOL 6 (CHA)",
-            "subject_path_tibetan": "BKA' 'GYUR/'DUL BA/6 (CHA)",
-            "subject_path_english": "Kangyur/Vowed Morality/VOL 6 (CHA)",
-            "subject_tibetan": "6 (CHA)",
-            "subject_english": "VOL 6 (CHA)"
+            "subject_path_tibetan": "BKA' 'GYUR/1. 'DUL BA/VOL 6 (CHA)",
+            "subject_path_english": "Kangyur/Vowed Morality (Vinaya)",
+            "subject_tibetan": "VOL 6 (CHA)",
+            "subject_english": "Vowed Morality (Vinaya)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
-    "title_skt": "Vinaya Vibhaṃga 2",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/1. 'DUL BA_Vowed Morality (Vinaya)/VOL 6 (CHA)",
+            "timestamp": "2024-11-20 03:45:58.976603+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:50:28.105959+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:45:58.976603+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/1. 'DUL BA_Vowed Morality (Vinaya)/VOL 6 (CHA)",
-            "timestamp": "2024-11-13 22:50:28.105959+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

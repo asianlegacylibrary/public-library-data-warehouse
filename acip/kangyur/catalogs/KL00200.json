@@ -1,46 +1,53 @@
 {
     "name": "KL00200_'PHAGS PA 'JIG RTEN GYI RJES SU MTHUN PAR 'JUG PA ZHES BYA BA THEG PA CHEN PO'I MDO_An Exalted Sutra of the Greater Way entitled \"Acting in Accordance with the Ways of the World\" (Ārya Lokānusamānā Avatara Nāma Mahāyāna Sūtra).txt",
-    "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 15 (BA)$$",
+    "path": "10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 15 (BA)$$",
     "download_path": "/kangyur updated to 11 15 23 ws/10. mdo mang_collection of sutras (sūtra)$$/vol 15 (ba)$$/kl00200_'phags pa 'jig rten gyi rjes su mthun par 'jug pa zhes bya ba theg pa chen po'i mdo_an exalted sutra of the greater way entitled \"acting in accordance with the ways of the world\" (ārya lokānusamānā avatara nāma mahāyāna sūtra).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACIDA",
     "revision_id": "62658ad6ea4938d294473",
     "content_hash": "223aeb2c1c96a35667e5a55c2eefb5d2dcec94e3ec043a94b87a121d7f163d23",
     "server_modified": "2024-11-07 20:42:48",
-    "last_sync": "2024-11-13 22:49:31.431331+00:00",
+    "last_sync": "2024-11-19 19:44:58.231311",
     "size": 16754,
+    "meta_text": null,
     "cat_ref": "KL00200",
     "work_ref": "W.KL00200",
     "title_tib": "'PHAGS PA 'JIG RTEN GYI RJES SU MTHUN PAR 'JUG PA ZHES BYA BA THEG PA CHEN PO'I MDO",
-    "title_eng": "An Exalted Sutra of the Greater Way entitled \"Acting in Accordance with the Ways of the World\"",
+    "title_eng": "An Exalted Sutra of the Greater Way entitled \"Acting in Accordance with the Ways of the World\" (Ārya Lokānusamānā Avatara Nāma Mahāyāna Sūtra)",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "275550474324",
             "subject_path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 15 (BA)$$",
-            "subject_path_tibetan": "BKA' 'GYUR/MDO MANG/15 (BA)$$",
-            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$/VOL 15 (BA)$$",
-            "subject_tibetan": "15 (BA)$$",
-            "subject_english": "VOL 15 (BA)$$"
+            "subject_path_tibetan": "BKA' 'GYUR/10. MDO MANG/VOL 15 (BA)$$",
+            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$",
+            "subject_tibetan": "VOL 15 (BA)$$",
+            "subject_english": "Collection of Sutras (Sūtra)$$"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
-    "title_skt": "Ārya Lokānusamānā Avatara Nāma Mahāyāna Sūtra",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 15 (BA)$$",
+            "timestamp": "2024-11-20 03:44:58.936429+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:49:32.071692+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:44:58.936429+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 15 (BA)$$",
-            "timestamp": "2024-11-13 22:49:32.071692+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

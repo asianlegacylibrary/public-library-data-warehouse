@@ -1,46 +1,53 @@
 {
     "name": "KL00044E2F_GTER MI ZAD PA BCU BSTAN PA'I LE'U_The Section which Describes the Ten Inexhaustible Treasures (Ārya Buddha Avataṃsaka Nāma Mahāvaipulya Sūtra 2).txt",
-    "path": "BKA' 'GYUR_Kangyur/9. PHAL CHEN_The Majority (Avataṃsaka)/VOL 2 (KHA)",
+    "path": "9. PHAL CHEN_The Majority (Avataṃsaka)/VOL 2 (KHA)",
     "download_path": "/kangyur updated to 11 15 23 ws/9. phal chen_the majority (avataṃsaka)/vol 2 (kha)/kl00044e2f_gter mi zad pa bcu bstan pa'i le'u_the section which describes the ten inexhaustible treasures (ārya buddha avataṃsaka nāma mahāvaipulya sūtra 2).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACJLg",
     "revision_id": "62658b2b2946c8d294473",
     "content_hash": "1685d9f93abd8a06c5fb6a605c687de89826bdf51b40b673fe4d3c18858e3571",
     "server_modified": "2024-11-07 20:44:17",
-    "last_sync": "2024-11-13 22:50:14.089254+00:00",
+    "last_sync": "2024-11-19 19:45:45.778664",
     "size": 47509,
+    "meta_text": null,
     "cat_ref": "KL00044E2F",
     "work_ref": "W.KL00044E2F",
     "title_tib": "GTER MI ZAD PA BCU BSTAN PA'I LE'U",
-    "title_eng": "The Section which Describes the Ten Inexhaustible Treasures",
+    "title_eng": "The Section which Describes the Ten Inexhaustible Treasures (Ārya Buddha Avataṃsaka Nāma Mahāvaipulya Sūtra 2)",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "134740372426",
             "subject_path": "BKA' 'GYUR_Kangyur/9. PHAL CHEN_The Majority (Avataṃsaka)/VOL 2 (KHA)",
-            "subject_path_tibetan": "BKA' 'GYUR/PHAL CHEN/2 (KHA)",
-            "subject_path_english": "Kangyur/The Majority/VOL 2 (KHA)",
-            "subject_tibetan": "2 (KHA)",
-            "subject_english": "VOL 2 (KHA)"
+            "subject_path_tibetan": "BKA' 'GYUR/9. PHAL CHEN/VOL 2 (KHA)",
+            "subject_path_english": "Kangyur/The Majority (Avataṃsaka)",
+            "subject_tibetan": "VOL 2 (KHA)",
+            "subject_english": "The Majority (Avataṃsaka)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
-    "title_skt": "Ārya Buddha Avataṃsaka Nāma Mahāvaipulya Sūtra 2",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/9. PHAL CHEN_The Majority (Avataṃsaka)/VOL 2 (KHA)",
+            "timestamp": "2024-11-20 03:45:46.449026+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:50:14.690413+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:45:46.449026+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/9. PHAL CHEN_The Majority (Avataṃsaka)/VOL 2 (KHA)",
-            "timestamp": "2024-11-13 22:50:14.690413+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

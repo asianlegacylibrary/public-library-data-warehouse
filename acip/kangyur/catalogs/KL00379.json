@@ -1,46 +1,54 @@
 {
     "name": "KL00379_MKHA' 'GRO MA THAMS CAD KYI THUGS GNYIS SU MED PA'I YE SHES BSAM GYIS MI KHYAB PA PHAG MO MNGON PAR 'BYUNG BA'I RGYUD LAS RGYUD PHYI MA RDZOGS RIM BSTAN PA'I LE'U STE GNYIS PA (Ḍākinī Sarva Cittā Dvayacintya Jñāna Vajra Varāhyabhibhava+.txt",
-    "path": "BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 2 (KHA)",
+    "path": "12. RGYUD_Secret Teachings (Tantra)/VOL 2 (KHA)",
     "download_path": "/kangyur updated to 11 15 23 ws/12. rgyud_secret teachings (tantra)/vol 2 (kha)/kl00379_mkha' 'gro ma thams cad kyi thugs gnyis su med pa'i ye shes bsam gyis mi khyab pa phag mo mngon par 'byung ba'i rgyud las rgyud phyi ma rdzogs rim bstan pa'i le'u ste gnyis pa (ḍākinī sarva cittā dvayacintya jñāna vajra varāhyabhibhava+.txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACFWw",
     "revision_id": "62658a45719968d294473",
     "content_hash": "eab6e3571622ab61a80ec998123671abd99b421828702117d0b09731a10ddaf3",
     "server_modified": "2024-11-07 20:40:16",
-    "last_sync": "2024-11-13 22:48:28.963379+00:00",
+    "last_sync": "2024-11-19 19:43:55.871591",
     "size": 6332,
+    "meta_text": "('Tantrottara Tantra Utpannakrama NirdeÅ›a Parivarta Dvaya)', 'text')",
     "cat_ref": "KL00379",
     "work_ref": "W.KL00379",
-    "title_tib": "MKHA' 'GRO MA THAMS CAD KYI THUGS GNYIS SU MED PA'I YE SHES BSAM GYIS MI KHYAB PA PHAG MO MNGON PAR 'BYUNG BA'I RGYUD LAS RGYUD PHYI MA RDZOGS RIM BSTAN PA'I LE'U STE GNYIS PA (Ḍākinī Sarva Cittā Dvayacintya Jñāna Vajra Varāhyabhibhava",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "154018118443",
             "subject_path": "BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 2 (KHA)",
-            "subject_path_tibetan": "BKA' 'GYUR/RGYUD/2 (KHA)",
-            "subject_path_english": "Kangyur/Secret Teachings/VOL 2 (KHA)",
-            "subject_tibetan": "2 (KHA)",
-            "subject_english": "VOL 2 (KHA)"
+            "subject_path_tibetan": "BKA' 'GYUR/12. RGYUD/VOL 2 (KHA)",
+            "subject_path_english": "Kangyur/Secret Teachings (Tantra)",
+            "subject_tibetan": "VOL 2 (KHA)",
+            "subject_english": "Secret Teachings (Tantra)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
+    "null": "('Tantrottara Tantra Utpannakrama NirdeÅ›a Parivarta Dvaya)', 'text')",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 2 (KHA)",
+            "timestamp": "2024-11-20 03:43:55.879418+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:48:28.965815+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:43:55.879418+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "meta_text": "Tantrottara Tantra Utpannakrama Nirdeśa Parivarta Dvaya)",
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 2 (KHA)",
-            "timestamp": "2024-11-13 22:48:28.965815+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

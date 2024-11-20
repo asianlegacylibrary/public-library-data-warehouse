@@ -1,46 +1,53 @@
 {
     "name": "KL00376_RNAL 'BYOR MA BZHI'I KHA SBYOR GYI RGYUD CES BYA BA (Catur Yoginī Saṃpuṭa Tantra Nāma).txt",
-    "path": "BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 3 (GA)",
+    "path": "12. RGYUD_Secret Teachings (Tantra)/VOL 3 (GA)",
     "download_path": "/kangyur updated to 11 15 23 ws/12. rgyud_secret teachings (tantra)/vol 3 (ga)/kl00376_rnal 'byor ma bzhi'i kha sbyor gyi rgyud ces bya ba (catur yoginī saṃpuṭa tantra nāma).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACFkg",
     "revision_id": "62658a50faeca8d294473",
     "content_hash": "d7b0ed0babeeabecf2974a974669331922fc36a2abdd6826dc8e8b66990b158e",
     "server_modified": "2024-11-07 20:40:28",
-    "last_sync": "2024-11-13 22:48:33.321367+00:00",
+    "last_sync": "2024-11-19 19:43:59.183799",
     "size": 28983,
+    "meta_text": null,
     "cat_ref": "KL00376",
     "work_ref": "W.KL00376",
-    "title_tib": "RNAL 'BYOR MA BZHI'I KHA SBYOR GYI RGYUD CES BYA BA",
+    "title_tib": "",
     "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "153827417214",
             "subject_path": "BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 3 (GA)",
-            "subject_path_tibetan": "BKA' 'GYUR/RGYUD/3 (GA)",
-            "subject_path_english": "Kangyur/Secret Teachings/VOL 3 (GA)",
-            "subject_tibetan": "3 (GA)",
-            "subject_english": "VOL 3 (GA)"
+            "subject_path_tibetan": "BKA' 'GYUR/12. RGYUD/VOL 3 (GA)",
+            "subject_path_english": "Kangyur/Secret Teachings (Tantra)",
+            "subject_tibetan": "VOL 3 (GA)",
+            "subject_english": "Secret Teachings (Tantra)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
-    "title_skt": "Catur Yoginī Saṃpuṭa Tantra Nāma",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 3 (GA)",
+            "timestamp": "2024-11-20 03:43:59.190871+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:48:33.323202+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:43:59.190871+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/12. RGYUD_Secret Teachings (Tantra)/VOL 3 (GA)",
-            "timestamp": "2024-11-13 22:48:33.323202+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

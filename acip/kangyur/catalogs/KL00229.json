@@ -1,46 +1,53 @@
 {
     "name": "KL00229_DE BZHIN GSHEGS PA BGRO BA ZHES BYA BA THEG PA CHEN PO'I MDO_An Exalted Sutra of the Greater Way entitled \"A Discussion between Those Who Have Gone That Way\" (Tathāgata Saṃgiti Nāma Mahāyāna Sūtra).txt",
-    "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 17 (TZA)",
+    "path": "10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 17 (TZA)",
     "download_path": "/kangyur updated to 11 15 23 ws/10. mdo mang_collection of sutras (sūtra)$$/vol 17 (tza)/kl00229_de bzhin gshegs pa bgro ba zhes bya ba theg pa chen po'i mdo_an exalted sutra of the greater way entitled \"a discussion between those who have gone that way\" (tathāgata saṃgiti nāma mahāyāna sūtra).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACHlw",
     "revision_id": "62658abfdd17f8d294473",
     "content_hash": "6599b8e96dc9196a3d2191f5d539e3065d0324fb3ed36ba2c1cbea77482b1d71",
     "server_modified": "2024-11-07 20:42:24",
-    "last_sync": "2024-11-13 22:49:15.376885+00:00",
+    "last_sync": "2024-11-19 19:44:42.858442",
     "size": 156385,
+    "meta_text": null,
     "cat_ref": "KL00229",
     "work_ref": "W.KL00229",
     "title_tib": "DE BZHIN GSHEGS PA BGRO BA ZHES BYA BA THEG PA CHEN PO'I MDO",
-    "title_eng": "An Exalted Sutra of the Greater Way entitled \"A Discussion between Those Who Have Gone That Way\"",
+    "title_eng": "An Exalted Sutra of the Greater Way entitled \"A Discussion between Those Who Have Gone That Way\" (Tathāgata Saṃgiti Nāma Mahāyāna Sūtra)",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "113134466518",
             "subject_path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 17 (TZA)",
-            "subject_path_tibetan": "BKA' 'GYUR/MDO MANG/17 (TZA)",
-            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$/VOL 17 (TZA)",
-            "subject_tibetan": "17 (TZA)",
-            "subject_english": "VOL 17 (TZA)"
+            "subject_path_tibetan": "BKA' 'GYUR/10. MDO MANG/VOL 17 (TZA)",
+            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$",
+            "subject_tibetan": "VOL 17 (TZA)",
+            "subject_english": "Collection of Sutras (Sūtra)$$"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
-    "title_skt": "Tathāgata Saṃgiti Nāma Mahāyāna Sūtra",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 17 (TZA)",
+            "timestamp": "2024-11-20 03:44:44.098771+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:49:16.999621+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:44:44.098771+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 17 (TZA)",
-            "timestamp": "2024-11-13 22:49:16.999621+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

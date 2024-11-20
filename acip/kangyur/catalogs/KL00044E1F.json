@@ -1,46 +1,53 @@
 {
     "name": "KL00044E1F_'JIG RTEN GYI KHAMS RGYA MTSO'I KHOR YUG GI RGYAN RGYA MTSO SHIN TU BSTAN PA_An Elucidation of the Ocean of the Encircling Mountains which Adorn the Veritable Sea of Planets (Ārya Buddha Avataṃsaka Nāma Mahāvaipulya).txt",
-    "path": "BKA' 'GYUR_Kangyur/9. PHAL CHEN_The Majority (Avataṃsaka)/VOL 1 (KA)",
+    "path": "9. PHAL CHEN_The Majority (Avataṃsaka)/VOL 1 (KA)",
     "download_path": "/kangyur updated to 11 15 23 ws/9. phal chen_the majority (avataṃsaka)/vol 1 (ka)/kl00044e1f_'jig rten gyi khams rgya mtso'i khor yug gi rgyan rgya mtso shin tu bstan pa_an elucidation of the ocean of the encircling mountains which adorn the veritable sea of planets (ārya buddha avataṃsaka nāma mahāvaipulya).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACJEg",
     "revision_id": "62658b25fed858d294473",
     "content_hash": "7fc9671ffefac85a0c17e92cd6a97fef2f587c5f93696b1153edf15cb1280d21",
     "server_modified": "2024-11-07 20:44:11",
-    "last_sync": "2024-11-13 22:50:09.417423+00:00",
+    "last_sync": "2024-11-19 19:45:41.821983",
     "size": 3318,
+    "meta_text": null,
     "cat_ref": "KL00044E1F",
     "work_ref": "W.KL00044E1F",
     "title_tib": "'JIG RTEN GYI KHAMS RGYA MTSO'I KHOR YUG GI RGYAN RGYA MTSO SHIN TU BSTAN PA",
-    "title_eng": "An Elucidation of the Ocean of the Encircling Mountains which Adorn the Veritable Sea of Planets",
+    "title_eng": "An Elucidation of the Ocean of the Encircling Mountains which Adorn the Veritable Sea of Planets (Ārya Buddha Avataṃsaka Nāma Mahāvaipulya)",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "207190874383",
             "subject_path": "BKA' 'GYUR_Kangyur/9. PHAL CHEN_The Majority (Avataṃsaka)/VOL 1 (KA)",
-            "subject_path_tibetan": "BKA' 'GYUR/PHAL CHEN/1 (KA)",
-            "subject_path_english": "Kangyur/The Majority/VOL 1 (KA)",
-            "subject_tibetan": "1 (KA)",
-            "subject_english": "VOL 1 (KA)"
+            "subject_path_tibetan": "BKA' 'GYUR/9. PHAL CHEN/VOL 1 (KA)",
+            "subject_path_english": "Kangyur/The Majority (Avataṃsaka)",
+            "subject_tibetan": "VOL 1 (KA)",
+            "subject_english": "The Majority (Avataṃsaka)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
-    "title_skt": "Ārya Buddha Avataṃsaka Nāma Mahāvaipulya",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/9. PHAL CHEN_The Majority (Avataṃsaka)/VOL 1 (KA)",
+            "timestamp": "2024-11-20 03:45:42.453353+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:50:10.348950+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:45:42.453353+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/9. PHAL CHEN_The Majority (Avataṃsaka)/VOL 1 (KA)",
-            "timestamp": "2024-11-13 22:50:10.348950+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

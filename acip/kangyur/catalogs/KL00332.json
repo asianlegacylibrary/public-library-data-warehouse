@@ -1,46 +1,53 @@
 {
     "name": "KL00332_KHANG BU BRTZEGS PA'I MDO_The Sutra of Building a Cottage (Kūṭāgāra Sūtra).txt",
-    "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 26 (LA)",
+    "path": "10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 26 (LA)",
     "download_path": "/kangyur updated to 11 15 23 ws/10. mdo mang_collection of sutras (sūtra)$$/vol 26 (la)/kl00332_khang bu brtzegs pa'i mdo_the sutra of building a cottage (kūṭāgāra sūtra).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACH7Q",
     "revision_id": "62658ad1130728d294473",
     "content_hash": "ba1495e76c98eaf2f4b0e5d0c255571661d037106c1e4abc4612c7e8cbc26f99",
     "server_modified": "2024-11-07 20:42:42",
-    "last_sync": "2024-11-13 22:49:27.773839+00:00",
+    "last_sync": "2024-11-19 19:44:53.670655",
     "size": 12887,
+    "meta_text": null,
     "cat_ref": "KL00332",
     "work_ref": "W.KL00332",
     "title_tib": "KHANG BU BRTZEGS PA'I MDO",
-    "title_eng": "The Sutra of Building a Cottage",
+    "title_eng": "The Sutra of Building a Cottage (Kūṭāgāra Sūtra)",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "131921240830",
             "subject_path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 26 (LA)",
-            "subject_path_tibetan": "BKA' 'GYUR/MDO MANG/26 (LA)",
-            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$/VOL 26 (LA)",
-            "subject_tibetan": "26 (LA)",
-            "subject_english": "VOL 26 (LA)"
+            "subject_path_tibetan": "BKA' 'GYUR/10. MDO MANG/VOL 26 (LA)",
+            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$",
+            "subject_tibetan": "VOL 26 (LA)",
+            "subject_english": "Collection of Sutras (Sūtra)$$"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
-    "title_skt": "Kūṭāgāra Sūtra",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 26 (LA)",
+            "timestamp": "2024-11-20 03:44:53.673747+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:49:27.779375+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:44:53.673747+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 26 (LA)",
-            "timestamp": "2024-11-13 22:49:27.779375+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

@@ -1,46 +1,53 @@
 {
     "name": "KL00060E_'PHAGS PA YAB DANG SRAS MJAL BA ZHES BYA BA THEG PA CHEN PO'I MDO_An Exalted Sutra of the Greater Way entitled \"The Meeting of the Father and the Son\" (Ārya Pitā Putra Samāgamana Nāma Mahāyāna Sūtra).txt",
-    "path": "BKA' 'GYUR_Kangyur/8. DKON BRTZEGS_Pile of Jewels (Ratna Kūṭa)/VOL 4 (NGA)",
+    "path": "8. DKON BRTZEGS_Pile of Jewels (Ratna Kūṭa)/VOL 4 (NGA)",
     "download_path": "/kangyur updated to 11 15 23 ws/8. dkon brtzegs_pile of jewels (ratna kūṭa)/vol 4 (nga)/kl00060e_'phags pa yab dang sras mjal ba zhes bya ba theg pa chen po'i mdo_an exalted sutra of the greater way entitled \"the meeting of the father and the son\" (ārya pitā putra samāgamana nāma mahāyāna sūtra).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACIyA",
     "revision_id": "62658b1140f4c8d294473",
     "content_hash": "16c7a43c6cc82132dcd4a3933f7c804f90c42f7ab77895ff06f1f0d202cb6764",
     "server_modified": "2024-11-07 20:43:50",
-    "last_sync": "2024-11-13 22:50:02.582750+00:00",
+    "last_sync": "2024-11-19 19:45:33.110836",
     "size": 645289,
+    "meta_text": null,
     "cat_ref": "KL00060E",
     "work_ref": "W.KL00060E",
     "title_tib": "'PHAGS PA YAB DANG SRAS MJAL BA ZHES BYA BA THEG PA CHEN PO'I MDO",
-    "title_eng": "An Exalted Sutra of the Greater Way entitled \"The Meeting of the Father and the Son\"",
+    "title_eng": "An Exalted Sutra of the Greater Way entitled \"The Meeting of the Father and the Son\" (Ārya Pitā Putra Samāgamana Nāma Mahāyāna Sūtra)",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "262610318836",
             "subject_path": "BKA' 'GYUR_Kangyur/8. DKON BRTZEGS_Pile of Jewels (Ratna Kūṭa)/VOL 4 (NGA)",
-            "subject_path_tibetan": "BKA' 'GYUR/DKON BRTZEGS/4 (NGA)",
-            "subject_path_english": "Kangyur/Pile of Jewels/VOL 4 (NGA)",
-            "subject_tibetan": "4 (NGA)",
-            "subject_english": "VOL 4 (NGA)"
+            "subject_path_tibetan": "BKA' 'GYUR/8. DKON BRTZEGS/VOL 4 (NGA)",
+            "subject_path_english": "Kangyur/Pile of Jewels (Ratna Kūṭa)",
+            "subject_tibetan": "VOL 4 (NGA)",
+            "subject_english": "Pile of Jewels (Ratna Kūṭa)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
-    "title_skt": "Ārya Pitā Putra Samāgamana Nāma Mahāyāna Sūtra",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/8. DKON BRTZEGS_Pile of Jewels (Ratna Kūṭa)/VOL 4 (NGA)",
+            "timestamp": "2024-11-20 03:45:33.114607+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:50:02.584348+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:45:33.114607+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/8. DKON BRTZEGS_Pile of Jewels (Ratna Kūṭa)/VOL 4 (NGA)",
-            "timestamp": "2024-11-13 22:50:02.584348+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

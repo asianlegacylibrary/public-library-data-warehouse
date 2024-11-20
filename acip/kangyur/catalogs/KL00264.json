@@ -1,46 +1,53 @@
 {
     "name": "KL00264_'PHAGS PA THAR PA CHEN PO PHYOGS SU RGYAS PA 'GYOD TSANGS KYIS SDIG SBYANGS TE SANGS RGYAS SU GRUB PAR RNAM PAR BKOD PA ZHES BYA BA THEG PA CHEN PO'I MDO_Reaching the Attainment of Buddhahood by Cleaning Yourself of Bad Deeds Using that Pure +.txt",
-    "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 21 (ZHA)",
+    "path": "10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 21 (ZHA)",
     "download_path": "/kangyur updated to 11 15 23 ws/10. mdo mang_collection of sutras (sūtra)$$/vol 21 (zha)/kl00264_'phags pa thar pa chen po phyogs su rgyas pa 'gyod tsangs kyis sdig sbyangs te sangs rgyas su grub par rnam par bkod pa zhes bya ba theg pa chen po'i mdo_reaching the attainment of buddhahood by cleaning yourself of bad deeds using that pure +.txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACHpQ",
     "revision_id": "62658ac365f078d294473",
     "content_hash": "664d2f8236f2894bff2da396fe5c2ce5e4a42da73d99553b128c3a8028c98b11",
     "server_modified": "2024-11-07 20:42:28",
-    "last_sync": "2024-11-13 22:49:19.138436+00:00",
+    "last_sync": "2024-11-19 19:44:46.042685",
     "size": 212960,
+    "meta_text": "('Form of Regret which Leads to Great Freedom Spreading in All Directions (Ārya Mahāmokṣa Diśan Puṣya Krokraṃtyapa Paṃṣodhana)', 'text')",
     "cat_ref": "KL00264",
     "work_ref": "W.KL00264",
     "title_tib": "'PHAGS PA THAR PA CHEN PO PHYOGS SU RGYAS PA 'GYOD TSANGS KYIS SDIG SBYANGS TE SANGS RGYAS SU GRUB PAR RNAM PAR BKOD PA ZHES BYA BA THEG PA CHEN PO'I MDO",
-    "title_eng": "Reaching the Attainment of Buddhahood by Cleaning Yourself of Bad Deeds Using that Pure",
+    "title_eng": "Reaching the Attainment of Buddhahood by Cleaning Yourself of Bad Deeds Using that Pure('Form of Regret which Leads to Great Freedom Spreading in All Directions (Ārya Mahāmokṣa Diśan Puṣya Krokraṃtyapa Paṃṣodhana)', 'text')",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "521659936336",
             "subject_path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 21 (ZHA)",
-            "subject_path_tibetan": "BKA' 'GYUR/MDO MANG/21 (ZHA)",
-            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$/VOL 21 (ZHA)",
-            "subject_tibetan": "21 (ZHA)",
-            "subject_english": "VOL 21 (ZHA)"
+            "subject_path_tibetan": "BKA' 'GYUR/10. MDO MANG/VOL 21 (ZHA)",
+            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$",
+            "subject_tibetan": "VOL 21 (ZHA)",
+            "subject_english": "Collection of Sutras (Sūtra)$$"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 21 (ZHA)",
+            "timestamp": "2024-11-20 03:44:47.697229+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:49:20.500677+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:44:47.697229+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "meta_text": "Form of Regret which Leads to Great Freedom Spreading in All Directions (Ārya Mahāmokṣa Diśan Puṣya Krokraṃtyapa Paṃṣodhana)",
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 21 (ZHA)",
-            "timestamp": "2024-11-13 22:49:20.500677+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

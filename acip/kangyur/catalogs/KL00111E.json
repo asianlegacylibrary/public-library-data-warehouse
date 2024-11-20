@@ -1,46 +1,53 @@
 {
     "name": "KL00111E_'PHAGS PA SNYING RJE CHEN PO'I PADMA DKAR PO ZHES BYA BA THEG PA CHEN PO'I MDO_An Exalted Sutra of the Greater Way entitled \"The White Lotus of Great Compassion\" (Ārya Mahākaruṇā Puṇḍarīka Nāma Mahāyāna Sūtra).txt",
-    "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 6 (CHA)",
+    "path": "10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 6 (CHA)",
     "download_path": "/kangyur updated to 11 15 23 ws/10. mdo mang_collection of sutras (sūtra)$$/vol 6 (cha)/kl00111e_'phags pa snying rje chen po'i padma dkar po zhes bya ba theg pa chen po'i mdo_an exalted sutra of the greater way entitled \"the white lotus of great compassion\" (ārya mahākaruṇā puṇḍarīka nāma mahāyāna sūtra).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACH9g",
     "revision_id": "62658ad31a3798d294473",
     "content_hash": "a2984d4c7ff2a3584fb58c376d015ce4b13e38a8110e8b817c45da28d63bd6fc",
     "server_modified": "2024-11-07 20:42:44",
-    "last_sync": "2024-11-13 22:49:33.025093+00:00",
+    "last_sync": "2024-11-19 19:44:59.673906",
     "size": 292372,
+    "meta_text": null,
     "cat_ref": "KL00111E",
     "work_ref": "W.KL00111E",
     "title_tib": "'PHAGS PA SNYING RJE CHEN PO'I PADMA DKAR PO ZHES BYA BA THEG PA CHEN PO'I MDO",
-    "title_eng": "An Exalted Sutra of the Greater Way entitled \"The White Lotus of Great Compassion\"",
+    "title_eng": "An Exalted Sutra of the Greater Way entitled \"The White Lotus of Great Compassion\" (Ārya Mahākaruṇā Puṇḍarīka Nāma Mahāyāna Sūtra)",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "171009924294",
             "subject_path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 6 (CHA)",
-            "subject_path_tibetan": "BKA' 'GYUR/MDO MANG/6 (CHA)",
-            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$/VOL 6 (CHA)",
-            "subject_tibetan": "6 (CHA)",
-            "subject_english": "VOL 6 (CHA)"
+            "subject_path_tibetan": "BKA' 'GYUR/10. MDO MANG/VOL 6 (CHA)",
+            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$",
+            "subject_tibetan": "VOL 6 (CHA)",
+            "subject_english": "Collection of Sutras (Sūtra)$$"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
-    "title_skt": "Ārya Mahākaruṇā Puṇḍarīka Nāma Mahāyāna Sūtra",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 6 (CHA)",
+            "timestamp": "2024-11-20 03:44:59.680202+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:49:33.026453+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:44:59.680202+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 6 (CHA)",
-            "timestamp": "2024-11-13 22:49:33.026453+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

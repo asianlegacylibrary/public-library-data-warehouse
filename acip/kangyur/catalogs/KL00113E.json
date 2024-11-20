@@ -1,46 +1,53 @@
 {
     "name": "KL00113E_DAM PA'I CHOS PADMA DKAR PO ZHES BYA BA THEG PA CHEN PO'I MDO_A Sutra of the Greater Way entitled \"The White Lotus of the Holy Dharma\" (Saddharma Puṇḍarīka Nāma Mahāyāna Sūtra).txt",
-    "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 7 (JA)",
+    "path": "10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 7 (JA)",
     "download_path": "/kangyur updated to 11 15 23 ws/10. mdo mang_collection of sutras (sūtra)$$/vol 7 (ja)/kl00113e_dam pa'i chos padma dkar po zhes bya ba theg pa chen po'i mdo_a sutra of the greater way entitled \"the white lotus of the holy dharma\" (saddharma puṇḍarīka nāma mahāyāna sūtra).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACHvg",
     "revision_id": "62658ac8d9b178d294473",
     "content_hash": "37a61c7fb0a69e1dc11e0dcab94910b7a32cfe978ff5f80605ff69dafd3842d3",
     "server_modified": "2024-11-07 20:42:34",
-    "last_sync": "2024-11-13 22:49:23.129919+00:00",
+    "last_sync": "2024-11-19 19:44:49.648237",
     "size": 688605,
+    "meta_text": null,
     "cat_ref": "KL00113E",
     "work_ref": "W.KL00113E",
     "title_tib": "DAM PA'I CHOS PADMA DKAR PO ZHES BYA BA THEG PA CHEN PO'I MDO",
-    "title_eng": "A Sutra of the Greater Way entitled \"The White Lotus of the Holy Dharma\"",
+    "title_eng": "A Sutra of the Greater Way entitled \"The White Lotus of the Holy Dharma\" (Saddharma Puṇḍarīka Nāma Mahāyāna Sūtra)",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "549579690713",
             "subject_path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 7 (JA)",
-            "subject_path_tibetan": "BKA' 'GYUR/MDO MANG/7 (JA)",
-            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$/VOL 7 (JA)",
-            "subject_tibetan": "7 (JA)",
-            "subject_english": "VOL 7 (JA)"
+            "subject_path_tibetan": "BKA' 'GYUR/10. MDO MANG/VOL 7 (JA)",
+            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$",
+            "subject_tibetan": "VOL 7 (JA)",
+            "subject_english": "Collection of Sutras (Sūtra)$$"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
-    "title_skt": "Saddharma Puṇḍarīka Nāma Mahāyāna Sūtra",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 7 (JA)",
+            "timestamp": "2024-11-20 03:44:49.651581+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:49:23.131327+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:44:49.651581+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 7 (JA)",
-            "timestamp": "2024-11-13 22:49:23.131327+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

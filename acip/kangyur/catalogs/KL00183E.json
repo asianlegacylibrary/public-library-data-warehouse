@@ -1,46 +1,53 @@
 {
     "name": "KL00183E_'PHAGS PA SBYIN PA'I PHAN YON BSTAN PA_An Exalted Teaching on the Benefits of Giving (Ārya Dāna Anuṣaṃsa Nirdeśa).txt",
-    "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 15 (BA)$$",
+    "path": "10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 15 (BA)$$",
     "download_path": "/kangyur updated to 11 15 23 ws/10. mdo mang_collection of sutras (sūtra)$$/vol 15 (ba)$$/kl00183e_'phags pa sbyin pa'i phan yon bstan pa_an exalted teaching on the benefits of giving (ārya dāna anuṣaṃsa nirdeśa).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACH_Q",
     "revision_id": "62658ad4d0ed68d294473",
     "content_hash": "d999e5097322efdfa18c9df687a7627334c7a11c4a5d2cd8cd50d80e6420c0e7",
     "server_modified": "2024-11-07 20:42:46",
-    "last_sync": "2024-11-13 22:49:29.356686+00:00",
+    "last_sync": "2024-11-19 19:44:55.594150",
     "size": 5119,
+    "meta_text": null,
     "cat_ref": "KL00183E",
     "work_ref": "W.KL00183E",
     "title_tib": "'PHAGS PA SBYIN PA'I PHAN YON BSTAN PA",
-    "title_eng": "An Exalted Teaching on the Benefits of Giving",
+    "title_eng": "An Exalted Teaching on the Benefits of Giving (Ārya Dāna Anuṣaṃsa Nirdeśa)",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "275550474324",
             "subject_path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 15 (BA)$$",
-            "subject_path_tibetan": "BKA' 'GYUR/MDO MANG/15 (BA)$$",
-            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$/VOL 15 (BA)$$",
-            "subject_tibetan": "15 (BA)$$",
-            "subject_english": "VOL 15 (BA)$$"
+            "subject_path_tibetan": "BKA' 'GYUR/10. MDO MANG/VOL 15 (BA)$$",
+            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$",
+            "subject_tibetan": "VOL 15 (BA)$$",
+            "subject_english": "Collection of Sutras (Sūtra)$$"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
-    "title_skt": "Ārya Dāna Anuṣaṃsa Nirdeśa",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 15 (BA)$$",
+            "timestamp": "2024-11-20 03:44:58.935700+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:49:32.070075+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:44:58.935700+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 15 (BA)$$",
-            "timestamp": "2024-11-13 22:49:32.070075+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

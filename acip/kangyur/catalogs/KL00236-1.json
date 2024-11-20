@@ -1,46 +1,53 @@
 {
     "name": "KL00236-1_BCOM LDAN 'DAS KYI GTZUG TOR CHEN PO DE BZHIN GSHEGS PA'I GSANG BA SGRUB PA'I DON MNGON PAR THOB PA'I RGYU BYANG CHUB SEMS DPA' THAMS CAD KYI SPYOD PA DPA' BAR 'GRO BA'I MDO LE'U STONG PHRAG BCU PA LAS, LE'U BCU PA LAS +.txt",
-    "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 18 (TSA)",
+    "path": "10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 18 (TSA)",
     "download_path": "/kangyur updated to 11 15 23 ws/10. mdo mang_collection of sutras (sūtra)$$/vol 18 (tsa)/kl00236-1_bcom ldan 'das kyi gtzug tor chen po de bzhin gshegs pa'i gsang ba sgrub pa'i don mngon par thob pa'i rgyu byang chub sems dpa' thams cad kyi spyod pa dpa' bar 'gro ba'i mdo le'u stong phrag bcu pa las, le'u bcu pa las +.txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACHwA",
     "revision_id": "62658aca015b18d294473",
     "content_hash": "fde70becf312c728b68bcc7db237f8dcf8ec095ec8da844a787c1b84d27810b3",
     "server_modified": "2024-11-07 20:42:35",
-    "last_sync": "2024-11-13 22:49:26.009404+00:00",
+    "last_sync": "2024-11-19 19:44:52.348481",
     "size": 91024,
+    "meta_text": "('_The Tenth Chapter of the 10,000 Chapters of “The Sutra on the Activities of all the Bodhisattvas—Those that Prove They are Warriors, the Cause for Achieving the Secret Goal of Those Who Have Gone That Way, the Great Topknot of the Conquerors (Bhagavān Uṣṇīṣa Mahā [?])', 'text')",
     "cat_ref": "KL00236-1",
     "work_ref": "W.KL00236-1",
     "title_tib": "BCOM LDAN 'DAS KYI GTZUG TOR CHEN PO DE BZHIN GSHEGS PA'I GSANG BA SGRUB PA'I DON MNGON PAR THOB PA'I RGYU BYANG CHUB SEMS DPA' THAMS CAD KYI SPYOD PA DPA' BAR 'GRO BA'I MDO LE'U STONG PHRAG BCU PA LAS, LE'U BCU PA LAS",
-    "title_eng": "",
+    "title_eng": "The Tenth Chapter of the 10,000 Chapters of “The Sutra on the Activities of all the Bodhisattvas—Those that Prove They are Warriors, the Cause for Achieving the Secret Goal of Those Who Have Gone That Way, the Great Topknot of the Conquerors (Bhagavān Uṣṇīṣa Mahā [?])', 'text')",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "726863977094",
             "subject_path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 18 (TSA)",
-            "subject_path_tibetan": "BKA' 'GYUR/MDO MANG/18 (TSA)",
-            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$/VOL 18 (TSA)",
-            "subject_tibetan": "18 (TSA)",
-            "subject_english": "VOL 18 (TSA)"
+            "subject_path_tibetan": "BKA' 'GYUR/10. MDO MANG/VOL 18 (TSA)",
+            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$",
+            "subject_tibetan": "VOL 18 (TSA)",
+            "subject_english": "Collection of Sutras (Sūtra)$$"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 18 (TSA)",
+            "timestamp": "2024-11-20 03:44:52.358303+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:49:26.011405+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:44:52.358303+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "meta_text": "_The Tenth Chapter of the 10,000 Chapters of “The Sutra on the Activities of all the Bodhisattvas—Those that Prove They are Warriors, the Cause for Achieving the Secret Goal of Those Who Have Gone That Way, the Great Topknot of the Conquerors (Bhagavān Uṣṇīṣa Mahā [?])",
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 18 (TSA)",
-            "timestamp": "2024-11-13 22:49:26.011405+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

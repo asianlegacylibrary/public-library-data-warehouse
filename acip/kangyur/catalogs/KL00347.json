@@ -1,46 +1,53 @@
 {
     "name": "KL00347_BSOD NAMS STOBS KYI RTOGS PA BRJOD PA, BAM PO DANG PO_The Life Story of Punya Bala, Section 1 (Punya Bala Avadāna).txt",
-    "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 30 (AA)$$",
+    "path": "10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 30 (AA)$$",
     "download_path": "/kangyur updated to 11 15 23 ws/10. mdo mang_collection of sutras (sūtra)$$/vol 30 (aa)$$/kl00347_bsod nams stobs kyi rtogs pa brjod pa, bam po dang po_the life story of punya bala, section 1 (punya bala avadāna).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACHbw",
     "revision_id": "62658ab7498c38d294473",
     "content_hash": "03687497458cf5862d912eafbf63a460a8922f9756ead63257898d5cdfbf99ec",
     "server_modified": "2024-11-07 20:42:15",
-    "last_sync": "2024-11-13 22:49:09.209671+00:00",
+    "last_sync": "2024-11-19 19:44:36.867673",
     "size": 77807,
+    "meta_text": null,
     "cat_ref": "KL00347",
     "work_ref": "W.KL00347",
     "title_tib": "BSOD NAMS STOBS KYI RTOGS PA BRJOD PA, BAM PO DANG PO",
-    "title_eng": "The Life Story of Punya Bala, Section 1",
+    "title_eng": "The Life Story of Punya Bala, Section 1 (Punya Bala Avadāna)",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "278171932793",
             "subject_path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 30 (AA)$$",
-            "subject_path_tibetan": "BKA' 'GYUR/MDO MANG/30 (AA)$$",
-            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$/VOL 30 (AA)$$",
-            "subject_tibetan": "30 (AA)$$",
-            "subject_english": "VOL 30 (AA)$$"
+            "subject_path_tibetan": "BKA' 'GYUR/10. MDO MANG/VOL 30 (AA)$$",
+            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$",
+            "subject_tibetan": "VOL 30 (AA)$$",
+            "subject_english": "Collection of Sutras (Sūtra)$$"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
-    "title_skt": "Punya Bala Avadāna",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 30 (AA)$$",
+            "timestamp": "2024-11-20 03:44:37.520015+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:49:10.669085+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:44:37.520015+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 30 (AA)$$",
-            "timestamp": "2024-11-13 22:49:10.669085+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

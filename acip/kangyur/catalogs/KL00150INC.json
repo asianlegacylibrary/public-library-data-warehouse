@@ -1,46 +1,53 @@
 {
     "name": "KL00150INC_SPYAN RAS GZIGS DBANG PHYUG GIS ZHUS PA'I CHOS BDUN PA'I MDO_The Sutra on the Seven Teachings Requested by Avalokiteshvara (Ārya Avalokiteśvara Paripṛcchā Sapta Dharmaka Nāma Mahāyāna Sūtra).txt",
-    "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 11 (DA)",
+    "path": "10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 11 (DA)",
     "download_path": "/kangyur updated to 11 15 23 ws/10. mdo mang_collection of sutras (sūtra)$$/vol 11 (da)/kl00150inc_spyan ras gzigs dbang phyug gis zhus pa'i chos bdun pa'i mdo_the sutra on the seven teachings requested by avalokiteshvara (ārya avalokiteśvara paripṛcchā sapta dharmaka nāma mahāyāna sūtra).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACHNA",
     "revision_id": "62658aaa41c448d294473",
     "content_hash": "ce2f9fdbd3c5504a813907bdeba1f3dffb4724b4e1235e6ee2caa5f3ab7fbc2b",
     "server_modified": "2024-11-07 20:42:02",
-    "last_sync": "2024-11-13 22:49:02.350527+00:00",
+    "last_sync": "2024-11-19 19:44:29.237031",
     "size": 31,
+    "meta_text": null,
     "cat_ref": "KL00150INC",
     "work_ref": "W.KL00150INC",
     "title_tib": "SPYAN RAS GZIGS DBANG PHYUG GIS ZHUS PA'I CHOS BDUN PA'I MDO",
-    "title_eng": "The Sutra on the Seven Teachings Requested by Avalokiteshvara",
+    "title_eng": "The Sutra on the Seven Teachings Requested by Avalokiteshvara (Ārya Avalokiteśvara Paripṛcchā Sapta Dharmaka Nāma Mahāyāna Sūtra)",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "674247217741",
             "subject_path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 11 (DA)",
-            "subject_path_tibetan": "BKA' 'GYUR/MDO MANG/11 (DA)",
-            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$/VOL 11 (DA)",
-            "subject_tibetan": "11 (DA)",
-            "subject_english": "VOL 11 (DA)"
+            "subject_path_tibetan": "BKA' 'GYUR/10. MDO MANG/VOL 11 (DA)",
+            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$",
+            "subject_tibetan": "VOL 11 (DA)",
+            "subject_english": "Collection of Sutras (Sūtra)$$"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
-    "title_skt": "Ārya Avalokiteśvara Paripṛcchā Sapta Dharmaka Nāma Mahāyāna Sūtra",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 11 (DA)",
+            "timestamp": "2024-11-20 03:44:29.244514+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:49:02.352110+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:44:29.244514+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 11 (DA)",
-            "timestamp": "2024-11-13 22:49:02.352110+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

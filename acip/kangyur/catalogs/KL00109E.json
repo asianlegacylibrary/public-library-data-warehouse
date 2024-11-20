@@ -1,46 +1,53 @@
 {
     "name": "KL00109E_'PHAGS PA GA Y'A MGO'I RI ZHES BYA BA THEG PA CHEN PO'I MDO_An Exalted Sutra of the Greater Way entitled \"The Mountain of the Head of Gaya\"  (Ārya Gayā Śīrṣa Nāma Mahāyāna Sūtra).txt",
-    "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 5 (CA)",
+    "path": "10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 5 (CA)",
     "download_path": "/kangyur updated to 11 15 23 ws/10. mdo mang_collection of sutras (sūtra)$$/vol 5 (ca)/kl00109e_'phags pa ga y'a mgo'i ri zhes bya ba theg pa chen po'i mdo_an exalted sutra of the greater way entitled \"the mountain of the head of gaya\"  (ārya gayā śīrṣa nāma mahāyāna sūtra).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACHGw",
     "revision_id": "62658aa18078c8d294473",
     "content_hash": "644315091800c57edecad1f6e353d30c6bcaf4947174924a58bf54814bf71c16",
     "server_modified": "2024-11-07 20:41:52",
-    "last_sync": "2024-11-13 22:48:59.071941+00:00",
+    "last_sync": "2024-11-19 19:44:24.067837",
     "size": 26528,
+    "meta_text": null,
     "cat_ref": "KL00109E",
     "work_ref": "W.KL00109E",
     "title_tib": "'PHAGS PA GA Y'A MGO'I RI ZHES BYA BA THEG PA CHEN PO'I MDO",
-    "title_eng": "An Exalted Sutra of the Greater Way entitled \"The Mountain of the Head of Gaya\"",
+    "title_eng": "An Exalted Sutra of the Greater Way entitled \"The Mountain of the Head of Gaya\"  (Ārya Gayā Śīrṣa Nāma Mahāyāna Sūtra)",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "305684665034",
             "subject_path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 5 (CA)",
-            "subject_path_tibetan": "BKA' 'GYUR/MDO MANG/5 (CA)",
-            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$/VOL 5 (CA)",
-            "subject_tibetan": "5 (CA)",
-            "subject_english": "VOL 5 (CA)"
+            "subject_path_tibetan": "BKA' 'GYUR/10. MDO MANG/VOL 5 (CA)",
+            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$",
+            "subject_tibetan": "VOL 5 (CA)",
+            "subject_english": "Collection of Sutras (Sūtra)$$"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
-    "title_skt": "Ārya Gayā Śīrṣa Nāma Mahāyāna Sūtra",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 5 (CA)",
+            "timestamp": "2024-11-20 03:44:24.071534+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:48:59.073009+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:44:24.071534+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 5 (CA)",
-            "timestamp": "2024-11-13 22:48:59.073009+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

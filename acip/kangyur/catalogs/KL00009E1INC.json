@@ -1,46 +1,53 @@
 {
     "name": "KL00009E1INC_SHES RAB KYI PHA ROL TU PHYIN PA STONG PHRAG NYI SHU LNGA PA 1_The Perfection of Wisdom in 25,000 Lines, Part 1 (Pañca Viṃśati Sāhasrikā Prajñā Pāramitā 1).txt",
-    "path": "BKA' 'GYUR_Kangyur/3. NYI KHRI (Perfection of Wisdom in 25,000 Lines (Pañca Viṃśati Sāhasrikā Prajñā Pāramitā)/VOL 1 (KA)",
+    "path": "3. NYI KHRI (Perfection of Wisdom in 25,000 Lines (Pañca Viṃśati Sāhasrikā Prajñā Pāramitā)/VOL 1 (KA)",
     "download_path": "/kangyur updated to 11 15 23 ws/3. nyi khri (perfection of wisdom in 25,000 lines (pañca viṃśati sāhasrikā prajñā pāramitā)/vol 1 (ka)/kl00009e1inc_shes rab kyi pha rol tu phyin pa stong phrag nyi shu lnga pa 1_the perfection of wisdom in 25,000 lines, part 1 (pañca viṃśati sāhasrikā prajñā pāramitā 1).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACG-w",
     "revision_id": "62658a98190dc8d294473",
     "content_hash": "987548cc85abcc971919e361f7ec82a6984c4ae5622a0698cf51d1287b336ac3",
     "server_modified": "2024-11-07 20:41:43",
-    "last_sync": "2024-11-13 22:49:45.045891+00:00",
+    "last_sync": "2024-11-19 19:45:11.418960",
     "size": 1431725,
+    "meta_text": null,
     "cat_ref": "KL00009E1INC",
     "work_ref": "W.KL00009E1INC",
     "title_tib": "SHES RAB KYI PHA ROL TU PHYIN PA STONG PHRAG NYI SHU LNGA PA 1",
-    "title_eng": "The Perfection of Wisdom in 25,000 Lines, Part 1",
+    "title_eng": "The Perfection of Wisdom in 25,000 Lines, Part 1 (Pañca Viṃśati Sāhasrikā Prajñā Pāramitā 1)",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "150957909337",
             "subject_path": "BKA' 'GYUR_Kangyur/3. NYI KHRI (Perfection of Wisdom in 25,000 Lines (Pañca Viṃśati Sāhasrikā Prajñā Pāramitā)/VOL 1 (KA)",
-            "subject_path_tibetan": "BKA' 'GYUR/NYI KHRI (Perfection of Wisdom in 25,000 Lines (Pañca Viṃśati Sāhasrikā Prajñā Pāramitā)/1 (KA)",
-            "subject_path_english": "Kangyur/NYI KHRI (Perfection of Wisdom in 25,000 Lines (Pañca Viṃśati Sāhasrikā Prajñā Pāramitā)/VOL 1 (KA)",
-            "subject_tibetan": "1 (KA)",
-            "subject_english": "VOL 1 (KA)"
+            "subject_path_tibetan": "BKA' 'GYUR/3. NYI KHRI (Perfection of Wisdom in 25,000 Lines (Pañca Viṃśati Sāhasrikā Prajñā Pāramitā)/VOL 1 (KA)",
+            "subject_path_english": "Kangyur",
+            "subject_tibetan": "VOL 1 (KA)",
+            "subject_english": "Kangyur"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
-    "title_skt": "Pañca Viṃśati Sāhasrikā Prajñā Pāramitā 1",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/3. NYI KHRI (Perfection of Wisdom in 25,000 Lines (Pañca Viṃśati Sāhasrikā Prajñā Pāramitā)/VOL 1 (KA)",
+            "timestamp": "2024-11-20 03:45:11.423243+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:49:45.046292+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:45:11.423243+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/3. NYI KHRI (Perfection of Wisdom in 25,000 Lines (Pañca Viṃśati Sāhasrikā Prajñā Pāramitā)/VOL 1 (KA)",
-            "timestamp": "2024-11-13 22:49:45.046292+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

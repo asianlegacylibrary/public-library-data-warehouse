@@ -1,46 +1,53 @@
 {
     "name": "KL00265_'PHAGS PA RTOGS PA CHEN PO YONGS SU RGYAS PA'I MDO_An Exalted Sutra named 'The Proliferation of Massive Realizations' (Ārya Saṃpūrṇa Mahādhigama Sūtra*).txt",
-    "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 21 (ZHA)",
+    "path": "10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 21 (ZHA)",
     "download_path": "/kangyur updated to 11 15 23 ws/10. mdo mang_collection of sutras (sūtra)$$/vol 21 (zha)/kl00265_'phags pa rtogs pa chen po yongs su rgyas pa'i mdo_an exalted sutra named 'the proliferation of massive realizations' (ārya saṃpūrṇa mahādhigama sūtra*).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACHrA",
     "revision_id": "62658ac6deaa08d294473",
     "content_hash": "8251d70ebe1eae28b579d59e898c60fed4386e7a37fd0adab679783d54948c7b",
     "server_modified": "2024-11-07 20:42:32",
-    "last_sync": "2024-11-13 22:49:20.498450+00:00",
+    "last_sync": "2024-11-19 19:44:47.693229",
     "size": 92926,
+    "meta_text": null,
     "cat_ref": "KL00265",
     "work_ref": "W.KL00265",
     "title_tib": "'PHAGS PA RTOGS PA CHEN PO YONGS SU RGYAS PA'I MDO",
-    "title_eng": "An Exalted Sutra named 'The Proliferation of Massive Realizations'",
+    "title_eng": "An Exalted Sutra named 'The Proliferation of Massive Realizations' (Ārya Saṃpūrṇa Mahādhigama Sūtra*)",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "521659936336",
             "subject_path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 21 (ZHA)",
-            "subject_path_tibetan": "BKA' 'GYUR/MDO MANG/21 (ZHA)",
-            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$/VOL 21 (ZHA)",
-            "subject_tibetan": "21 (ZHA)",
-            "subject_english": "VOL 21 (ZHA)"
+            "subject_path_tibetan": "BKA' 'GYUR/10. MDO MANG/VOL 21 (ZHA)",
+            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$",
+            "subject_tibetan": "VOL 21 (ZHA)",
+            "subject_english": "Collection of Sutras (Sūtra)$$"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
-    "title_skt": "Ārya Saṃpūrṇa Mahādhigama Sūtra*",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 21 (ZHA)",
+            "timestamp": "2024-11-20 03:44:47.698664+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:49:20.502135+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:44:47.698664+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 21 (ZHA)",
-            "timestamp": "2024-11-13 22:49:20.502135+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

@@ -1,45 +1,53 @@
 {
     "name": "KL00339B_LAS BRGYA THAM PA, BAM PO NYI SHU BDUN PA__The Hundred Kinds of Karma, Part 2 (starting from section 27) (Karma Śataka, Part 2).txt",
-    "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 28 (SA)",
+    "path": "10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 28 (SA)",
     "download_path": "/kangyur updated to 11 15 23 ws/10. mdo mang_collection of sutras (sūtra)$$/vol 28 (sa)/kl00339b_las brgya tham pa, bam po nyi shu bdun pa__the hundred kinds of karma, part 2 (starting from section 27) (karma śataka, part 2).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACHYw",
     "revision_id": "62658ab4fc9178d294473",
     "content_hash": "c6654beff788d39f1ecbd8a1eda6071cdb1aeb90537262b2ca076068c93ef3ae",
     "server_modified": "2024-11-07 20:42:13",
-    "last_sync": "2024-11-13 22:49:06.904023+00:00",
+    "last_sync": "2024-11-19 19:44:35.117248",
     "size": 482399,
+    "meta_text": null,
     "cat_ref": "KL00339B",
     "work_ref": "W.KL00339B",
     "title_tib": "LAS BRGYA THAM PA, BAM PO NYI SHU BDUN PA",
-    "title_eng": "",
+    "title_eng": "The Hundred Kinds of Karma, Part 2 (starting from section 27) (Karma Śataka, Part 2)",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "290233350330",
             "subject_path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 28 (SA)",
-            "subject_path_tibetan": "BKA' 'GYUR/MDO MANG/28 (SA)",
-            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$/VOL 28 (SA)",
-            "subject_tibetan": "28 (SA)",
-            "subject_english": "VOL 28 (SA)"
+            "subject_path_tibetan": "BKA' 'GYUR/10. MDO MANG/VOL 28 (SA)",
+            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$",
+            "subject_tibetan": "VOL 28 (SA)",
+            "subject_english": "Collection of Sutras (Sūtra)$$"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 28 (SA)",
+            "timestamp": "2024-11-20 03:44:35.126859+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:49:06.905744+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:44:35.126859+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 28 (SA)",
-            "timestamp": "2024-11-13 22:49:06.905744+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

@@ -1,46 +1,53 @@
 {
     "name": "KL00089E_'PHAGS PA BLO GROS MI ZAD PAS ZHUS PA ZHES BYA BA THEG PA CHEN PO'I MDO_An Exalted Sutra of the Greater Way Requested by Akshaya Mati (Ārya Akśayamati Paripṛcchā Nāma Mahāyāna Sūtra).txt",
-    "path": "BKA' 'GYUR_Kangyur/8. DKON BRTZEGS_Pile of Jewels (Ratna Kūṭa)/VOL 6 (CHA)",
+    "path": "8. DKON BRTZEGS_Pile of Jewels (Ratna Kūṭa)/VOL 6 (CHA)",
     "download_path": "/kangyur updated to 11 15 23 ws/8. dkon brtzegs_pile of jewels (ratna kūṭa)/vol 6 (cha)/kl00089e_'phags pa blo gros mi zad pas zhus pa zhes bya ba theg pa chen po'i mdo_an exalted sutra of the greater way requested by akshaya mati (ārya akśayamati paripṛcchā nāma mahāyāna sūtra).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACIrQ",
     "revision_id": "62658b0a884f18d294473",
     "content_hash": "7272b18c0a313256d1d9fc15eb5c510ba23d51de8d20ddd5914f14b5fc661d9b",
     "server_modified": "2024-11-07 20:43:43",
-    "last_sync": "2024-11-13 22:50:00.514204+00:00",
+    "last_sync": "2024-11-19 19:45:31.248376",
     "size": 27938,
+    "meta_text": null,
     "cat_ref": "KL00089E",
     "work_ref": "W.KL00089E",
     "title_tib": "'PHAGS PA BLO GROS MI ZAD PAS ZHUS PA ZHES BYA BA THEG PA CHEN PO'I MDO",
-    "title_eng": "An Exalted Sutra of the Greater Way Requested by Akshaya Mati",
+    "title_eng": "An Exalted Sutra of the Greater Way Requested by Akshaya Mati (Ārya Akśayamati Paripṛcchā Nāma Mahāyāna Sūtra)",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "208853854061",
             "subject_path": "BKA' 'GYUR_Kangyur/8. DKON BRTZEGS_Pile of Jewels (Ratna Kūṭa)/VOL 6 (CHA)",
-            "subject_path_tibetan": "BKA' 'GYUR/DKON BRTZEGS/6 (CHA)",
-            "subject_path_english": "Kangyur/Pile of Jewels/VOL 6 (CHA)",
-            "subject_tibetan": "6 (CHA)",
-            "subject_english": "VOL 6 (CHA)"
+            "subject_path_tibetan": "BKA' 'GYUR/8. DKON BRTZEGS/VOL 6 (CHA)",
+            "subject_path_english": "Kangyur/Pile of Jewels (Ratna Kūṭa)",
+            "subject_tibetan": "VOL 6 (CHA)",
+            "subject_english": "Pile of Jewels (Ratna Kūṭa)"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
-    "title_skt": "Ārya Akśayamati Paripṛcchā Nāma Mahāyāna Sūtra",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/8. DKON BRTZEGS_Pile of Jewels (Ratna Kūṭa)/VOL 6 (CHA)",
+            "timestamp": "2024-11-20 03:45:31.947411+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:50:01.234254+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:45:31.947411+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/8. DKON BRTZEGS_Pile of Jewels (Ratna Kūṭa)/VOL 6 (CHA)",
-            "timestamp": "2024-11-13 22:50:01.234254+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }

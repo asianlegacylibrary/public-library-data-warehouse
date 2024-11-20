@@ -1,0 +1,53 @@
+{
+    "name": "KL4568FP_RGYAL BA'I BKA' 'GYUR RIN PO CHE'I CHOS TSAN SO SO'I MTSAN BYANG DKAR CHAG BSDUS PA (Philip Baker's conflicted copy 2021-07-18).ACT",
+    "path": "13. DKAR CHAG_Native Catalog to the Kangyur",
+    "download_path": "/kangyur updated to 11 15 23 ws/13. dkar chag_native catalog to the kangyur/kl4568fp_rgyal ba'i bka' 'gyur rin po che'i chos tsan so so'i mtsan byang dkar chag bsdus pa (philip baker's conflicted copy 2021-07-18).act",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAACG4A",
+    "revision_id": "62658a8cf6eea8d294473",
+    "content_hash": "c206bfd962a7ebab50453cea46a9fbd123e69371aa6970793ae3f19c563fc6d3",
+    "server_modified": "2024-11-07 20:41:31",
+    "last_sync": "2024-11-19 19:44:15.865747",
+    "size": 138688,
+    "meta_text": null,
+    "cat_ref": "KL4568FP",
+    "work_ref": "W.KL4568FP",
+    "title_tib": "",
+    "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
+    "subject": [
+        {
+            "_id": "627747381243",
+            "subject_path": "BKA' 'GYUR_Kangyur/13. DKAR CHAG_Native Catalog to the Kangyur",
+            "subject_path_tibetan": "BKA' 'GYUR/13. DKAR CHAG",
+            "subject_path_english": "Kangyur/Native Catalog to the Kangyur",
+            "subject_tibetan": "13. DKAR CHAG",
+            "subject_english": "Native Catalog to the Kangyur"
+        }
+    ],
+    "items": [],
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/13. DKAR CHAG_Native Catalog to the Kangyur",
+            "timestamp": "2024-11-20 03:44:15.870169+00:00"
+        }
+    ],
+    "processing_history": [
+        {
+            "timestamp": "2024-11-20T03:44:15.870169+00:00",
+            "run_id": 1023,
+            "processor": "dropbox_sync",
+            "action": "created"
+        }
+    ],
+    "content_type": "text"
+}

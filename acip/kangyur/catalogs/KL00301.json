@@ -1,46 +1,53 @@
 {
     "name": "KL00301_MNGON PAR 'BYUNG BA'I MDO_The Sutra of the Revelation (Abhiniṣkramaṇa Sūtra).txt",
-    "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 26 (LA)",
+    "path": "10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 26 (LA)",
     "download_path": "/kangyur updated to 11 15 23 ws/10. mdo mang_collection of sutras (sūtra)$$/vol 26 (la)/kl00301_mngon par 'byung ba'i mdo_the sutra of the revelation (abhiniṣkramaṇa sūtra).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACH0A",
     "revision_id": "62658accf93b38d294473",
     "content_hash": "374b674f51b1c8bb172e2dba640914ebd739b1bea8f98720cbd8aba0590bbdac",
     "server_modified": "2024-11-07 20:42:38",
-    "last_sync": "2024-11-13 22:49:26.752127+00:00",
+    "last_sync": "2024-11-19 19:44:53.003845",
     "size": 472258,
+    "meta_text": null,
     "cat_ref": "KL00301",
     "work_ref": "W.KL00301",
     "title_tib": "MNGON PAR 'BYUNG BA'I MDO",
-    "title_eng": "The Sutra of the Revelation",
+    "title_eng": "The Sutra of the Revelation (Abhiniṣkramaṇa Sūtra)",
+    "source": "Asian Classics Input Project",
+    "collection": "Kangyur",
+    "language": "bo",
+    "author_simple": "",
     "subject": [
         {
             "_id": "131921240830",
             "subject_path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 26 (LA)",
-            "subject_path_tibetan": "BKA' 'GYUR/MDO MANG/26 (LA)",
-            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$/VOL 26 (LA)",
-            "subject_tibetan": "26 (LA)",
-            "subject_english": "VOL 26 (LA)"
+            "subject_path_tibetan": "BKA' 'GYUR/10. MDO MANG/VOL 26 (LA)",
+            "subject_path_english": "Kangyur/Collection of Sutras (Sūtra)$$",
+            "subject_tibetan": "VOL 26 (LA)",
+            "subject_english": "Collection of Sutras (Sūtra)$$"
         }
     ],
     "items": [],
-    "source": "Asian Classics Input Project",
-    "collection": "Kangyur",
-    "title_skt": "Abhiniṣkramaṇa Sūtra",
+    "author": [
+        {
+            "author_name": "",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "path_history": [
+        {
+            "path": "BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 26 (LA)",
+            "timestamp": "2024-11-20 03:44:53.672678+00:00"
+        }
+    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-13T22:49:27.776106+00:00",
-            "run_id": 962,
+            "timestamp": "2024-11-20T03:44:53.672678+00:00",
+            "run_id": 1023,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
-    "updated": true,
-    "update_reason": "new file",
-    "path_history": [
-        {
-            "path": "BKA' 'GYUR_Kangyur/BKA' 'GYUR_Kangyur/10. MDO MANG_Collection of Sutras (Sūtra)$$/VOL 26 (LA)",
-            "timestamp": "2024-11-13 22:49:27.776106+00:00"
-        }
-    ],
-    "author": []
+    "content_type": "text"
 }
