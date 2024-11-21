@@ -6,7 +6,7 @@
     "revision_id": "6275eccf500798d294473",
     "content_hash": "f99f5c1b3a392aebb7024dfb68bd17bfc4851dc63eafa9c8ef4b50058f38148b",
     "server_modified": "2024-11-20 21:26:19",
-    "last_sync": "2024-11-21 00:52:12.087868+00:00",
+    "last_sync": "2024-11-21 01:02:57.441096+00:00",
     "size": 178202,
     "cat_ref": "ACI09",
     "title_eng": "Course 09: The Ethical Life",
@@ -17,8 +17,8 @@
     "items": [],
     "processing_history": [
         {
-            "timestamp": "2024-11-21T00:52:12.089086+00:00",
-            "run_id": 1056,
+            "timestamp": "2024-11-21T01:02:57.442706+00:00",
+            "run_id": 1057,
             "processor": "dropbox_sync",
             "action": "created"
         }
@@ -28,7 +28,7 @@
     "path_history": [
         {
             "path": "ACI Courses_aci_courses/",
-            "timestamp": "2024-11-21 00:52:12.089086+00:00"
+            "timestamp": "2024-11-21 01:02:57.442706+00:00"
         }
     ],
     "author": [],
