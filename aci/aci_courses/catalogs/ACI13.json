@@ -6,48 +6,32 @@
     "revision_id": "6275ecd239a278d294473",
     "content_hash": "2b7cd36d746dd96f22c5d4175979fc2ec0fdc7eeeb63d1c10769dfaa3e445a00",
     "server_modified": "2024-11-20 21:26:22",
-    "last_sync": "2024-11-20 16:24:46.755346",
+    "last_sync": "2024-11-21 00:52:12.088176+00:00",
     "size": 587121,
-    "meta_text": null,
     "cat_ref": "ACI13",
-    "work_ref": "W.ACI13",
-    "title_tib": "",
-    "title_eng": "The Art of Reasoning",
-    "source": "ACI Courses",
+    "title_eng": "Course 13: The Art of Reasoning",
+    "source": "Asian Classics Institute",
     "collection": "ACI Courses",
-    "language": "bo",
-    "author_simple": "",
-    "subject": [
-        {
-            "_id": "186353537068",
-            "subject_path": "ACI Courses_ACI Courses/",
-            "subject_path_tibetan": "ACI Courses/",
-            "subject_path_english": "ACI Courses",
-            "subject_tibetan": "",
-            "subject_english": "ACI Courses"
-        }
-    ],
+    "language": "en",
+    "work_ref": "W.ACI13",
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "ACI Courses_ACI Courses/",
-            "timestamp": "2024-11-21 00:24:46.777741+00:00"
-        }
-    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-21T00:24:46.777741+00:00",
-            "run_id": 1043,
+            "timestamp": "2024-11-21T00:52:12.090310+00:00",
+            "run_id": 1056,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "ACI Courses_aci_courses/",
+            "timestamp": "2024-11-21 00:52:12.090310+00:00"
+        }
+    ],
+    "author": [],
+    "subject": [],
     "content_type": "text"
 }

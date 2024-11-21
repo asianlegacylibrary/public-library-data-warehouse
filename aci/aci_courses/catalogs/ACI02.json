@@ -6,48 +6,32 @@
     "revision_id": "6275ecd35e4448d294473",
     "content_hash": "ffcf8043aee5ce79f8008c1d1195ce70c3d009d3a276dbd71d38a8a8309fa7af",
     "server_modified": "2024-11-20 21:26:23",
-    "last_sync": "2024-11-20 16:24:46.759539",
+    "last_sync": "2024-11-21 00:52:12.088266+00:00",
     "size": 48222,
-    "meta_text": null,
     "cat_ref": "ACI02",
-    "work_ref": "W.ACI02",
-    "title_tib": "",
-    "title_eng": "Buddhist Refuge",
-    "source": "ACI Courses",
+    "title_eng": "Course 02: Buddhist Refuge",
+    "source": "Asian Classics Institute",
     "collection": "ACI Courses",
-    "language": "bo",
-    "author_simple": "",
-    "subject": [
-        {
-            "_id": "186353537068",
-            "subject_path": "ACI Courses_ACI Courses/",
-            "subject_path_tibetan": "ACI Courses/",
-            "subject_path_english": "ACI Courses",
-            "subject_tibetan": "",
-            "subject_english": "ACI Courses"
-        }
-    ],
+    "language": "en",
+    "work_ref": "W.ACI02",
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "ACI Courses_ACI Courses/",
-            "timestamp": "2024-11-21 00:24:46.777823+00:00"
-        }
-    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-21T00:24:46.777823+00:00",
-            "run_id": 1043,
+            "timestamp": "2024-11-21T00:52:12.090561+00:00",
+            "run_id": 1056,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "ACI Courses_aci_courses/",
+            "timestamp": "2024-11-21 00:52:12.090561+00:00"
+        }
+    ],
+    "author": [],
+    "subject": [],
     "content_type": "text"
 }

@@ -6,48 +6,32 @@
     "revision_id": "6275ecd59e4948d294473",
     "content_hash": "b7f8ebb1300f58fd006c73d3b46e4e9c1c83eaa2d07af09af80099eba2db5a4c",
     "server_modified": "2024-11-20 21:26:25",
-    "last_sync": "2024-11-20 16:24:46.769720",
+    "last_sync": "2024-11-21 00:52:12.088597+00:00",
     "size": 329826,
-    "meta_text": null,
     "cat_ref": "ACI05",
-    "work_ref": "W.ACI05",
-    "title_tib": "",
-    "title_eng": "How Karma Works",
-    "source": "ACI Courses",
+    "title_eng": "Course 05: How Karma Works",
+    "source": "Asian Classics Institute",
     "collection": "ACI Courses",
-    "language": "bo",
-    "author_simple": "",
-    "subject": [
-        {
-            "_id": "186353537068",
-            "subject_path": "ACI Courses_ACI Courses/",
-            "subject_path_tibetan": "ACI Courses/",
-            "subject_path_english": "ACI Courses",
-            "subject_tibetan": "",
-            "subject_english": "ACI Courses"
-        }
-    ],
+    "language": "en",
+    "work_ref": "W.ACI05",
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "ACI Courses_ACI Courses/",
-            "timestamp": "2024-11-21 00:24:46.778070+00:00"
-        }
-    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-21T00:24:46.778070+00:00",
-            "run_id": 1043,
+            "timestamp": "2024-11-21T00:52:12.091409+00:00",
+            "run_id": 1056,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "ACI Courses_aci_courses/",
+            "timestamp": "2024-11-21 00:52:12.091409+00:00"
+        }
+    ],
+    "author": [],
+    "subject": [],
     "content_type": "text"
 }

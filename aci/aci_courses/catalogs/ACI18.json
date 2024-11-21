@@ -6,48 +6,32 @@
     "revision_id": "6275ecd49f3568d294473",
     "content_hash": "17ceed1b03e8392bdd51c5c6553e1924fbbf9a49dfbb08fc2025ec22d29d85e3",
     "server_modified": "2024-11-20 21:26:24",
-    "last_sync": "2024-11-20 16:24:46.766665",
+    "last_sync": "2024-11-21 00:52:12.088536+00:00",
     "size": 699885,
-    "meta_text": null,
     "cat_ref": "ACI18",
-    "work_ref": "W.ACI18",
-    "title_tib": "",
-    "title_eng": "The Great Ideas of Buddhism, Part Three",
-    "source": "ACI Courses",
+    "title_eng": "Course 18: The Great Ideas of Buddhism, Part Three",
+    "source": "Asian Classics Institute",
     "collection": "ACI Courses",
-    "language": "bo",
-    "author_simple": "",
-    "subject": [
-        {
-            "_id": "186353537068",
-            "subject_path": "ACI Courses_ACI Courses/",
-            "subject_path_tibetan": "ACI Courses/",
-            "subject_path_english": "ACI Courses",
-            "subject_tibetan": "",
-            "subject_english": "ACI Courses"
-        }
-    ],
+    "language": "en",
+    "work_ref": "W.ACI18",
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "ACI Courses_ACI Courses/",
-            "timestamp": "2024-11-21 00:24:46.777991+00:00"
-        }
-    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-21T00:24:46.777991+00:00",
-            "run_id": 1043,
+            "timestamp": "2024-11-21T00:52:12.091169+00:00",
+            "run_id": 1056,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "ACI Courses_aci_courses/",
+            "timestamp": "2024-11-21 00:52:12.091169+00:00"
+        }
+    ],
+    "author": [],
+    "subject": [],
     "content_type": "text"
 }

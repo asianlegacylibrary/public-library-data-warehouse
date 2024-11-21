@@ -6,48 +6,32 @@
     "revision_id": "6275ecd239a268d294473",
     "content_hash": "7ade027b20c4e7d7c2fc7401f8191f4848ba9201cb7a9ccd7bb592c8bd9a7420",
     "server_modified": "2024-11-20 21:26:22",
-    "last_sync": "2024-11-20 16:24:46.752937",
+    "last_sync": "2024-11-21 00:52:12.088141+00:00",
     "size": 116705,
-    "meta_text": null,
     "cat_ref": "ACI04",
-    "work_ref": "W.ACI04",
-    "title_tib": "",
-    "title_eng": "The Proof of Future Lives",
-    "source": "ACI Courses",
+    "title_eng": "Course 04: The Proof of Future Lives",
+    "source": "Asian Classics Institute",
     "collection": "ACI Courses",
-    "language": "bo",
-    "author_simple": "",
-    "subject": [
-        {
-            "_id": "186353537068",
-            "subject_path": "ACI Courses_ACI Courses/",
-            "subject_path_tibetan": "ACI Courses/",
-            "subject_path_english": "ACI Courses",
-            "subject_tibetan": "",
-            "subject_english": "ACI Courses"
-        }
-    ],
+    "language": "en",
+    "work_ref": "W.ACI04",
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "ACI Courses_ACI Courses/",
-            "timestamp": "2024-11-21 00:24:46.777698+00:00"
-        }
-    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-21T00:24:46.777698+00:00",
-            "run_id": 1043,
+            "timestamp": "2024-11-21T00:52:12.090152+00:00",
+            "run_id": 1056,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "ACI Courses_aci_courses/",
+            "timestamp": "2024-11-21 00:52:12.090152+00:00"
+        }
+    ],
+    "author": [],
+    "subject": [],
     "content_type": "text"
 }

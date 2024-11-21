@@ -6,48 +6,32 @@
     "revision_id": "6275ecd49f3548d294473",
     "content_hash": "ea97eff77aed95dc8656a4a0089942885d87ac85ac13d5ac81240879e14c6338",
     "server_modified": "2024-11-20 21:26:24",
-    "last_sync": "2024-11-20 16:24:46.763215",
+    "last_sync": "2024-11-21 00:52:12.088450+00:00",
     "size": 323592,
-    "meta_text": null,
     "cat_ref": "ACI11",
-    "work_ref": "W.ACI11",
-    "title_tib": "",
-    "title_eng": "Guide to the Bodhisattva's Way of Life, Part II",
-    "source": "ACI Courses",
+    "title_eng": "Course 11: Guide to the Bodhisattva's Way of Life, Part II",
+    "source": "Asian Classics Institute",
     "collection": "ACI Courses",
-    "language": "bo",
-    "author_simple": "",
-    "subject": [
-        {
-            "_id": "186353537068",
-            "subject_path": "ACI Courses_ACI Courses/",
-            "subject_path_tibetan": "ACI Courses/",
-            "subject_path_english": "ACI Courses",
-            "subject_tibetan": "",
-            "subject_english": "ACI Courses"
-        }
-    ],
+    "language": "en",
+    "work_ref": "W.ACI11",
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "ACI Courses_ACI Courses/",
-            "timestamp": "2024-11-21 00:24:46.777908+00:00"
-        }
-    ],
     "processing_history": [
         {
-            "timestamp": "2024-11-21T00:24:46.777908+00:00",
-            "run_id": 1043,
+            "timestamp": "2024-11-21T00:52:12.090782+00:00",
+            "run_id": 1056,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "ACI Courses_aci_courses/",
+            "timestamp": "2024-11-21 00:52:12.090782+00:00"
+        }
+    ],
+    "author": [],
+    "subject": [],
     "content_type": "text"
 }
