@@ -6,10 +6,11 @@
     "revision_id": "6275ecd239a268d294473",
     "content_hash": "7ade027b20c4e7d7c2fc7401f8191f4848ba9201cb7a9ccd7bb592c8bd9a7420",
     "server_modified": "2024-11-20 21:26:22",
-    "last_sync": "2024-11-21 01:02:57.441592+00:00",
+    "last_sync": "2024-11-21 15:37:50.571960+00:00",
     "size": 116705,
     "cat_ref": "ACI04",
     "title_eng": "Course 04: The Proof of Future Lives",
+    "title_tib": "Course 04: The Proof of Future Lives",
     "source": "Asian Classics Institute",
     "collection": "ACI Courses",
     "language": "en",
@@ -17,8 +18,8 @@
     "items": [],
     "processing_history": [
         {
-            "timestamp": "2024-11-21T01:02:57.444482+00:00",
-            "run_id": 1057,
+            "timestamp": "2024-11-21T15:37:50.573869+00:00",
+            "run_id": 1058,
             "processor": "dropbox_sync",
             "action": "created"
         }
@@ -28,7 +29,7 @@
     "path_history": [
         {
             "path": "ACI Courses_aci_courses/",
-            "timestamp": "2024-11-21 01:02:57.444482+00:00"
+            "timestamp": "2024-11-21 15:37:50.573869+00:00"
         }
     ],
     "author": [],

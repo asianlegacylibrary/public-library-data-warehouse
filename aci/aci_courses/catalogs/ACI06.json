@@ -6,10 +6,11 @@
     "revision_id": "6275ecd59e4958d294473",
     "content_hash": "758923142331c5310230bed0b44d09626694ad705d68faa7ffffc7e4df32bfab",
     "server_modified": "2024-11-20 21:26:25",
-    "last_sync": "2024-11-21 01:02:57.441879+00:00",
+    "last_sync": "2024-11-21 15:37:50.572229+00:00",
     "size": 154055,
     "cat_ref": "ACI06",
     "title_eng": "Course 06: The Diamond-Cutter Sutra",
+    "title_tib": "Course 06: The Diamond-Cutter Sutra",
     "source": "Asian Classics Institute",
     "collection": "ACI Courses",
     "language": "en",
@@ -17,8 +18,8 @@
     "items": [],
     "processing_history": [
         {
-            "timestamp": "2024-11-21T01:02:57.445852+00:00",
-            "run_id": 1057,
+            "timestamp": "2024-11-21T15:37:50.575016+00:00",
+            "run_id": 1058,
             "processor": "dropbox_sync",
             "action": "created"
         }
@@ -28,7 +29,7 @@
     "path_history": [
         {
             "path": "ACI Courses_aci_courses/",
-            "timestamp": "2024-11-21 01:02:57.445852+00:00"
+            "timestamp": "2024-11-21 15:37:50.575016+00:00"
         }
     ],
     "author": [],

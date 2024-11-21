@@ -6,10 +6,11 @@
     "revision_id": "6275ecd11cc758d294473",
     "content_hash": "798aec81472edcdde19c5ea6c79a95021edc7a96ae8c313304506df1b84b0250",
     "server_modified": "2024-11-20 21:26:21",
-    "last_sync": "2024-11-21 01:02:57.441390+00:00",
+    "last_sync": "2024-11-21 15:37:50.571893+00:00",
     "size": 266561,
     "cat_ref": "ACI08",
     "title_eng": "Course 08: Death and the Realms of Existence",
+    "title_tib": "Course 08: Death and the Realms of Existence",
     "source": "Asian Classics Institute",
     "collection": "ACI Courses",
     "language": "en",
@@ -17,8 +18,8 @@
     "items": [],
     "processing_history": [
         {
-            "timestamp": "2024-11-21T01:02:57.443659+00:00",
-            "run_id": 1057,
+            "timestamp": "2024-11-21T15:37:50.573588+00:00",
+            "run_id": 1058,
             "processor": "dropbox_sync",
             "action": "created"
         }
@@ -28,7 +29,7 @@
     "path_history": [
         {
             "path": "ACI Courses_aci_courses/",
-            "timestamp": "2024-11-21 01:02:57.443659+00:00"
+            "timestamp": "2024-11-21 15:37:50.573588+00:00"
         }
     ],
     "author": [],

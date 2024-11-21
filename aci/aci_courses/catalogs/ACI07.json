@@ -6,10 +6,11 @@
     "revision_id": "6275ecd11cc748d294473",
     "content_hash": "13df017e4499ffd2e2dae078f568fb1245c2684fa9a15d51593af17e3e41eacf",
     "server_modified": "2024-11-20 21:26:21",
-    "last_sync": "2024-11-21 01:02:57.441313+00:00",
+    "last_sync": "2024-11-21 15:37:50.571827+00:00",
     "size": 184603,
     "cat_ref": "ACI07",
     "title_eng": "Course 07: The Vows of the Bodhisattva",
+    "title_tib": "Course 07: The Vows of the Bodhisattva",
     "source": "Asian Classics Institute",
     "collection": "ACI Courses",
     "language": "en",
@@ -17,8 +18,8 @@
     "items": [],
     "processing_history": [
         {
-            "timestamp": "2024-11-21T01:02:57.443569+00:00",
-            "run_id": 1057,
+            "timestamp": "2024-11-21T15:37:50.573452+00:00",
+            "run_id": 1058,
             "processor": "dropbox_sync",
             "action": "created"
         }
@@ -28,7 +29,7 @@
     "path_history": [
         {
             "path": "ACI Courses_aci_courses/",
-            "timestamp": "2024-11-21 01:02:57.443569+00:00"
+            "timestamp": "2024-11-21 15:37:50.573452+00:00"
         }
     ],
     "author": [],
