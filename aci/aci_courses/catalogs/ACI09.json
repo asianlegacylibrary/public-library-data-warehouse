@@ -6,7 +6,7 @@
     "revision_id": "6275eccf500798d294473",
     "content_hash": "f99f5c1b3a392aebb7024dfb68bd17bfc4851dc63eafa9c8ef4b50058f38148b",
     "server_modified": "2024-11-20 21:26:19",
-    "last_sync": "2024-11-20 14:55:06.961407",
+    "last_sync": "2024-11-20 16:24:46.739911",
     "size": 178202,
     "meta_text": null,
     "cat_ref": "ACI09",
@@ -38,13 +38,13 @@
     "path_history": [
         {
             "path": "ACI Courses_ACI Courses/",
-            "timestamp": "2024-11-20 22:55:06.998109+00:00"
+            "timestamp": "2024-11-21 00:24:46.776956+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T22:55:06.998109+00:00",
-            "run_id": 1042,
+            "timestamp": "2024-11-21T00:24:46.776956+00:00",
+            "run_id": 1043,
             "processor": "dropbox_sync",
             "action": "created"
         }
