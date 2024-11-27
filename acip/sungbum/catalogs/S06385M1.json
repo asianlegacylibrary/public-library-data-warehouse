@@ -6,7 +6,7 @@
     "revision_id": "625a47c6c261c8d294473",
     "content_hash": "e30876ffe95e8a7a25c33563ea1cf703f45fb1eeb629b1791ca5149777201cb2",
     "server_modified": "2024-10-29 21:44:12",
-    "last_sync": "2024-11-19 20:50:10.760753",
+    "last_sync": "2024-11-26 15:20:37.621576",
     "size": 373,
     "meta_text": null,
     "cat_ref": "S06385M1",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/BSTOD PA_EULOGIES (STOTRA)/NGAG DBANG RDO RJE_NGAWANG DORJE",
-            "timestamp": "2024-11-20 04:50:10.768438+00:00"
+            "timestamp": "2024-11-26 23:20:37.630259+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:50:10.768438+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:20:37.630259+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

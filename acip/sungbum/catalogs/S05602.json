@@ -6,7 +6,7 @@
     "revision_id": "625a49be6795f8d294473",
     "content_hash": "8f95d06c1997f35d95617a1b2c87bf49011c38ac517b8e57d7cee15138a7c072",
     "server_modified": "2024-10-29 21:53:00",
-    "last_sync": "2024-11-19 21:12:30.194893",
+    "last_sync": "2024-11-26 15:35:57.496396",
     "size": 36575,
     "meta_text": null,
     "cat_ref": "S05602",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BLA MA MCHOD PA_OFFERING TO LAMAS/'GREL PA_COMMENTARIES",
-            "timestamp": "2024-11-20 05:12:31.481268+00:00"
+            "timestamp": "2024-11-26 23:35:58.429595+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:12:31.481268+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:35:58.429595+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

@@ -6,9 +6,9 @@
     "revision_id": "625a496935aa68d294473",
     "content_hash": "ead5fb4357a9a876e9640328c8ec6777951c4b51e32d3862ad6d555ddba00a27",
     "server_modified": "2024-10-29 21:51:31",
-    "last_sync": "2024-11-19 21:08:14.276485",
+    "last_sync": "2024-11-26 15:32:59.039026",
     "size": 16345,
-    "meta_text": "('HARMA BHADRA (1772-1851)', 'rtf')",
+    "meta_text": "HARMA BHADRA (1772-1851)",
     "cat_ref": "S06327E",
     "work_ref": "W.S06327E",
     "title_tib": "ZA BYED RDO RJE MKHA' 'GRO'I SBYIN SREG GI 'KHRID YIG SDIG SGRIB MUN SEL NYI 'OD",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAL 'BYOR MA_ANGEL OF DIAMOND (VAJRAYOGINI)/SBYIN SREG_FIRE OFFERING (HOMA)",
-            "timestamp": "2024-11-20 05:08:14.286186+00:00"
+            "timestamp": "2024-11-26 23:32:59.055034+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:08:14.286186+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:32:59.055034+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

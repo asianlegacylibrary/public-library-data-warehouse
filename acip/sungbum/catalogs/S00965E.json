@@ -6,13 +6,13 @@
     "revision_id": "625a4ac6f45808d294473",
     "content_hash": "2ee3e7d5626115ac7ba9ae48384d1db4194c2464d4c818c6d354065297c9ed55",
     "server_modified": "2024-10-29 21:57:38",
-    "last_sync": "2024-11-19 21:22:50.924091",
+    "last_sync": "2024-11-26 15:43:01.283016",
     "size": 106162,
-    "meta_text": "(\"Purest White, by Demonstrating the Great Benefits of Erecting Altars containing Representations of the Holy Acts, Words, and Thoughts of Those Who Have Gone to Bliss; Making Spiritual Offerings; and Circumambulating Holy Places_GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME (1762-1823)\", 'rtf')",
+    "meta_text": "Purest White, by Demonstrating the Great Benefits of Erecting Altars containing Representations of the Holy Acts, Words, and Thoughts of Those Who Have Gone to Bliss; Making Spiritual Offerings; and Circumambulating Holy Places_GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME (1762-1823)",
     "cat_ref": "S00965E",
     "work_ref": "W.S00965E",
     "title_tib": "BDE BAR GSHEGS BA'I SKU GSUNG THUGS KYI RTEN BZHENGS PA DANG PHYAG MCHOD SKOR BA'I PHAN YON BSTAN PA RNAM DKAR LAS LA SKUL BYED DKAR CHAG LHA'I RNGA CHEN",
-    "title_eng": "'The Great Drum of the Gods,' being a Catalog and an Exhortation to Engage in Deeds of(\"Purest White, by Demonstrating the Great Benefits of Erecting Altars containing Representations of the Holy Acts, Words, and Thoughts of Those Who Have Gone to Bliss; Making Spiritual Offerings; and Circumambulating Holy Places",
+    "title_eng": "'The Great Drum of the Gods,' being a Catalog and an Exhortation to Engage in Deeds ofPurest White, by Demonstrating the Great Benefits of Erecting Altars containing Representations of the Holy Acts, Words, and Thoughts of Those Who Have Gone to Bliss; Making Spiritual Offerings; and Circumambulating Holy Places",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -57,33 +57,33 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SPYI_GENERAL TREATMENTS/GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME_GUNGTANG KONCHOK TENPAY DRUNME (1762-1823)",
-            "timestamp": "2024-11-20 05:22:50.929469+00:00"
+            "timestamp": "2024-11-26 23:43:01.291780+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/MCHOD PA_HOW TO MAKE OFFERINGS/GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME_GUNGTANG KONCHOK TENPAY DRUNME (1762-1823)",
-            "timestamp": "2024-11-20 05:23:58.239651+00:00"
+            "timestamp": "2024-11-26 23:43:43.305210+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/CHO GA_RITUALS/SKU GSUNG THUGS RTEN_PREPARATION OF ALTARS",
-            "timestamp": "2024-11-20 05:26:13.402373+00:00"
+            "timestamp": "2024-11-26 23:45:11.478764+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:22:50.929469+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:43:01.291780+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:23:58.239651+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:43:43.305210+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         },
         {
-            "timestamp": "2024-11-20T05:26:13.402373+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:45:11.478764+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

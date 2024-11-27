@@ -6,7 +6,7 @@
     "revision_id": "625a48317291c8d294473",
     "content_hash": "d4a2f5a8c8c5d87a4a94b3de4a024bbadf433841ef4f6173a8ac07c3d164d869",
     "server_modified": "2024-10-29 21:46:04",
-    "last_sync": "2024-11-19 20:53:54.008908",
+    "last_sync": "2024-11-26 15:23:01.334974",
     "size": 111,
     "meta_text": null,
     "cat_ref": "S6370M25",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 04:54:07.139318+00:00"
+            "timestamp": "2024-11-26 23:23:11.593208+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:07.139318+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:11.593208+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

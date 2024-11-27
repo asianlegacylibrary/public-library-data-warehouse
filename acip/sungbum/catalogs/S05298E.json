@@ -6,7 +6,7 @@
     "revision_id": "625a48893f69e8d294473",
     "content_hash": "cec57991488f7b4d29f22bbbdd5fa1575223a8dfe417ff9afa1a26e5471a6663",
     "server_modified": "2024-10-29 21:47:36",
-    "last_sync": "2024-11-19 20:57:31.816218",
+    "last_sync": "2024-11-26 15:25:29.391544",
     "size": 8564,
     "meta_text": null,
     "cat_ref": "S05298E",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/KHRO BO BCU_TEN WRATHFUL PROTECTORS (DASHAKRODHA)/'GREL PA_COMMENTARIES",
-            "timestamp": "2024-11-20 04:57:31.822508+00:00"
+            "timestamp": "2024-11-26 23:25:29.396415+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:57:31.822508+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:25:29.396415+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

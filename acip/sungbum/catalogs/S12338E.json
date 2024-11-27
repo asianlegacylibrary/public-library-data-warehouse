@@ -6,7 +6,7 @@
     "revision_id": "625a4858c76748d294473",
     "content_hash": "79d8c892f3d53307de063c68d4623a1ffd84f69d5337570dd8f4d1dd4536ec42",
     "server_modified": "2024-10-29 21:46:45",
-    "last_sync": "2024-11-19 20:54:48.046852",
+    "last_sync": "2024-11-26 15:23:37.781804",
     "size": 448938,
     "meta_text": null,
     "cat_ref": "S12338E",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/CHOS 'BYUNG_RELIGIOUS HISTORIES/DMU DGE BSAM GTAN RGYA MTSO'I CHOS 'BYUNG_RELIGIOUS HISTORIES BY MUGE SAMTEN GYATSO (1914-1993)",
-            "timestamp": "2024-11-20 04:54:48.058572+00:00"
+            "timestamp": "2024-11-26 23:23:37.794372+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:48.058572+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:37.794372+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

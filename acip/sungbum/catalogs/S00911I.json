@@ -6,9 +6,9 @@
     "revision_id": "625a480680a738d294473",
     "content_hash": "6d13224c8270c47699295071e40fc296e09c125c1cab04ef5c5771bdeced681a",
     "server_modified": "2024-10-29 21:45:19",
-    "last_sync": "2024-11-19 20:53:06.496852",
+    "last_sync": "2024-11-26 15:22:29.053525",
     "size": 450454,
-    "meta_text": "('SGRON ME (1762-1823)', 'rtf')",
+    "meta_text": "SGRON ME (1762-1823)",
     "cat_ref": "S00911I",
     "work_ref": "W.S00911I",
     "title_tib": "DRANG NGES RNAM 'BYED KYI DKA' 'GREL RTZOM 'PHRO LEGS BSHAD SNYING PO'I YANG SNYING",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DRANG NGES_ART OF INTERPRETATION/GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME_Gungtang Konchok Tenpay Drunme (1762-1823)",
-            "timestamp": "2024-11-20 04:53:06.502990+00:00"
+            "timestamp": "2024-11-26 23:22:29.058024+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:53:06.502990+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:22:29.058024+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

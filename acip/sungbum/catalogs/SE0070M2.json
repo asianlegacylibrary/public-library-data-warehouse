@@ -6,13 +6,13 @@
     "revision_id": "625a4a71151678d294473",
     "content_hash": "ebc0aa702b61e9a67038b644bbd4d3c0ea645cd6db7356d388bb6932cc5de31d",
     "server_modified": "2024-10-29 21:56:08",
-    "last_sync": "2024-11-19 21:18:30.419665",
+    "last_sync": "2024-11-26 15:40:04.211963",
     "size": 975980,
-    "meta_text": "(\"o_DGE BSHES GRO LUNG PA BLO GROS 'BYUNG GNAS (1100@-@)\", 'rtf')",
+    "meta_text": "o_DGE BSHES GRO LUNG PA BLO GROS 'BYUNG GNAS (1100@-@)",
     "cat_ref": "SE0070M2",
     "work_ref": "W.SE0070M2",
     "title_tib": "BDE BAR GSHEGS PA'I BSTAN PA RIN PO CHE LA 'JUG PA'I LAM GYI RIM PA RNAM PAR BSHAD PA, CHA GNYIS PA BSTAN RIM CHEN MO",
-    "title_eng": "An Explanation of the Steps to the Path for Entering into the Precious Teachings of Those Who Have Gone to Bliss, Part Tw(\"o",
+    "title_eng": "An Explanation of the Steps to the Path for Entering into the Precious Teachings of Those Who Have Gone to Bliss, Part Two",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/BSTAN RIM CHEN MO_GREAT BOOK ON THE STEPS OF THE TEACHING",
-            "timestamp": "2024-11-20 05:18:32.470127+00:00"
+            "timestamp": "2024-11-26 23:40:05.558230+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:18:32.470127+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:40:05.558230+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

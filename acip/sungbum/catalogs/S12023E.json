@@ -6,9 +6,9 @@
     "revision_id": "625a4885fb5528d294473",
     "content_hash": "57453f6890501e93d9c3994ff38cdb97933a4b08d0cfd60d9520a12a40001e8e",
     "server_modified": "2024-10-29 21:47:33",
-    "last_sync": "2024-11-19 20:57:25.639558",
+    "last_sync": "2024-11-26 15:25:25.004174",
     "size": 59211,
-    "meta_text": "(\"A'I TSUL BCAS_Words in Praise of the Holy Lord, the Wheel of the Teachings, and in Praise of the Goddess of Song (Sarisvati); A Brief Presentation of Topics in the Study of the Stage of Creation, a Method for Reaching the Angel in the Practice of the 21 Lines of the Lady of Liberation (Tara) according to the System of the Master Ravigupta; and Instructions on How to Conduct the Three Rites during a Retreat_PAn CHEN SKU PHRENG BZHI PA BSTAN PA'I NYI MA (1782-1853)\", 'rtf')",
+    "meta_text": "A'I TSUL BCAS_Words in Praise of the Holy Lord, the Wheel of the Teachings, and in Praise of the Goddess of Song (Sarisvati); A Brief Presentation of Topics in the Study of the Stage of Creation, a Method for Reaching the Angel in the Practice of the 21 Lines of the Lady of Liberation (Tara) according to the System of the Master Ravigupta; and Instructions on How to Conduct the Three Rites during a Retreat_PAn CHEN SKU PHRENG BZHI PA BSTAN PA'I NYI MA (1782-1853)",
     "cat_ref": "S12023E",
     "work_ref": "W.S12023E",
     "title_tib": "RJE BTZUN BSTAN PA'I 'KHOR LO DANG DBYANGS CAN LHA MO GNYIS KYI BSTOD PA DANG, ` SLOB DPON NYI MA SBAS PA'I LUGS KYI SGROL MA NYER GCIG GI SGRUB THABS BSKYED RIM LA SLOB TSUL GYI DMIGS SKOR MDOR BSDUS DANG BSNYEN SGRUB LAS GSUM JI LTAR BYA B",
@@ -73,53 +73,53 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BSTAN PA'I 'KHOR LO_WHEEL OF THE TEACHINGS/BSTOD PA_SONGS OF PRAISE (STOTRA)",
-            "timestamp": "2024-11-20 04:57:25.644589+00:00"
+            "timestamp": "2024-11-26 23:25:25.013357+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DBYANGS CAN MA_LADY OF SONG (SARASVATI)/BSTOD PA_SONGS OF PRAISE (STOTRA)",
-            "timestamp": "2024-11-20 04:58:33.468591+00:00"
+            "timestamp": "2024-11-26 23:26:15.692927+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DBYANGS CAN MA_LADY OF SONG (SARASVATI)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "timestamp": "2024-11-20 04:58:37.443744+00:00"
+            "timestamp": "2024-11-26 23:26:19.389077+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "timestamp": "2024-11-20 05:02:16.626668+00:00"
+            "timestamp": "2024-11-26 23:28:50.797514+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/BSNYEN PA_RETREAT INSTRUCTIONS",
-            "timestamp": "2024-11-20 05:02:24.702238+00:00"
+            "timestamp": "2024-11-26 23:28:56.478975+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:57:25.644589+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:25:25.013357+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T04:58:33.468591+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:26:15.692927+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         },
         {
-            "timestamp": "2024-11-20T04:58:37.443744+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:26:19.389077+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         },
         {
-            "timestamp": "2024-11-20T05:02:16.626668+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:28:50.797514+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         },
         {
-            "timestamp": "2024-11-20T05:02:24.702238+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:28:56.478975+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

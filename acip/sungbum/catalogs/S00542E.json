@@ -6,9 +6,9 @@
     "revision_id": "625a489c6d21d8d294473",
     "content_hash": "f889bab4db3a3f31c3444497bc88b991d20d58620e29edd5a1666943b58dced0",
     "server_modified": "2024-10-29 21:47:56",
-    "last_sync": "2024-11-19 20:58:40.447602",
+    "last_sync": "2024-11-26 15:26:21.251845",
     "size": 4133,
-    "meta_text": "(\"O CHE BLO BZANG BYANG CHUB BSTAN PA'I SGRON ME (1861-1933@)\", 'rtf')",
+    "meta_text": "O CHE BLO BZANG BYANG CHUB BSTAN PA'I SGRON ME (1861-1933@)",
     "cat_ref": "S00542E",
     "work_ref": "W.S00542E",
     "title_tib": "SGRA TSAD PA RIN CHEN RNAM RGYAL GYI SGRA DBYANGS LHA MO'I RJES GNANG GI ZIN BRIS",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DBYANGS CAN MA_LADY OF SONG (SARASVATI)/RJES GNANG_RITES OF PERMISSION (ANUJNA)",
-            "timestamp": "2024-11-20 04:58:41.034030+00:00"
+            "timestamp": "2024-11-26 23:26:21.646770+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:58:41.034030+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:26:21.646770+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

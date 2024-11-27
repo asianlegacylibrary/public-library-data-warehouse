@@ -6,9 +6,9 @@
     "revision_id": "625a4a16a530c8d294473",
     "content_hash": "0b52d8d9dcb472fe856e9439a332e1e4e811019108b84eb34ca51601171d66b0",
     "server_modified": "2024-10-29 21:54:33",
-    "last_sync": "2024-11-19 21:15:38.257776",
+    "last_sync": "2024-11-26 15:38:02.017093",
     "size": 40560,
-    "meta_text": "(\"GS BZHAD PA SKU PHRENG GNYIS PA PA DKON MCHOG 'JIGS MED DBANG PO (1728-1791)\", 'rtf')",
+    "meta_text": "GS BZHAD PA SKU PHRENG GNYIS PA PA DKON MCHOG 'JIGS MED DBANG PO (1728-1791)",
     "cat_ref": "S12133E",
     "work_ref": "W.S12133E",
     "title_tib": "DPAL LDAN BLA MA DAM PA KUN SPANGS CHEN PO NGAG DBANG BLO BZANG DPAL BZANG PO'I RNAM PAR THAR PA DAD PA'I MYU GU",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/NGAG DBANG BLO BZANG DPAL BZANG PO_NGAWANG LOBSANG PEL SANGPO",
-            "timestamp": "2024-11-20 05:15:38.263834+00:00"
+            "timestamp": "2024-11-26 23:38:02.025012+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:15:38.263834+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:38:02.025012+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

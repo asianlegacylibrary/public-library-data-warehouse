@@ -6,13 +6,13 @@
     "revision_id": "625a4aaf6d1328d294473",
     "content_hash": "d8bf6c384729e075d44f46da40f638e2cb68ace5dbaca9741d012cde99113bd0",
     "server_modified": "2024-10-29 21:57:13",
-    "last_sync": "2024-11-19 21:21:22.191396",
+    "last_sync": "2024-11-26 15:42:09.386869",
     "size": 25494,
-    "meta_text": "(\"ctice the Entire Contents of Both the Open and Secret Teachings, accomplished through Expanding Upon the Text of the ‘Thousand Angels of the Heaven of Bliss’_GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME (1762-1823)\", 'rtf')",
+    "meta_text": "ctice the Entire Contents of Both the Open and Secret Teachings, accomplished through Expanding Upon the Text of the ‘Thousand Angels of the Heaven of Bliss’_GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME (1762-1823)",
     "cat_ref": "S00932E",
     "work_ref": "W.S00932E",
     "title_tib": "DGA' LDAN LHA BRGYA MA'I GZHUNG BSRANGS TE MDO SNGAGS CHA TSANG BAR NYAMS SU LEN TSUL DGA' LDAN ZHING DU BGROD PA'I NOR BU'I THEM SKAS",
-    "title_eng": "'A Jewel Staircase for Ascending to the Heaven of Bliss,' being Instructions on How to Put into Actual Pra(\"ctice the Entire Contents of Both the Open and Secret Teachings, accomplished through Expanding Upon the Text of the ‘Thousand Angels of the Heaven of Bliss’",
+    "title_eng": "'A Jewel Staircase for Ascending to the Heaven of Bliss,' being Instructions on How to Put into Actual Practice the Entire Contents of Both the Open and Secret Teachings, accomplished through Expanding Upon the Text of the ‘Thousand Angels of the Heaven of Bliss’",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,23 +41,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BLA MA'I RNAL 'BYOR_PRACTICES FOR HONORING ONES LAMA/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)/DGA' LDAN LHA BRGYA MA_THOUSAND ANGELS OF THE HEAVEN OF BLISS",
-            "timestamp": "2024-11-20 05:21:28.036695+00:00"
+            "timestamp": "2024-11-26 23:42:14.116508+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BLA MA'I RNAL 'BYOR_PRACTICES FOR HONORING ONES LAMA/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)/DGA' LDAN LHA BRGYA MA_THOUSAND ANGELS OF THE HEAVEN OF BLISS",
-            "timestamp": "2024-11-20 05:21:39.355029+00:00"
+            "timestamp": "2024-11-26 23:42:20.555537+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:21:28.036695+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:42:14.116508+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:21:39.355029+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:42:20.555537+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

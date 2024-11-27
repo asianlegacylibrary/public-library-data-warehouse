@@ -6,9 +6,9 @@
     "revision_id": "625a488f3c4cd8d294473",
     "content_hash": "93916fb50577203f9c9c817b78d6421a990202344a5998968a801627dc47468d",
     "server_modified": "2024-10-29 21:47:42",
-    "last_sync": "2024-11-19 20:57:52.913949",
+    "last_sync": "2024-11-26 15:25:44.739921",
     "size": 21232,
-    "meta_text": "('62)', 'rtf')",
+    "meta_text": "62)",
     "cat_ref": "S05935E",
     "work_ref": "W.S05935E",
     "title_tib": "DPAL RDO RJE RNAM PAR 'JOMS PA'I CHO GA PHAN BDE'I 'BYUNG GNAS",
@@ -31,8 +31,8 @@
     "author": [
         {
             "author_name": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
-            "author_birth": null,
-            "author_death": null,
+            "author_birth": "1565",
+            "author_death": "1662",
             "bdrc_id": "bdr:P719",
             "normalized_name": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAM 'JOMS_DESTROYER OF DIAMOND (VAJRAVIDARANA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "timestamp": "2024-11-20 04:57:52.923802+00:00"
+            "timestamp": "2024-11-26 23:25:44.753179+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:57:52.923802+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:25:44.753179+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

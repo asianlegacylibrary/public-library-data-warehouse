@@ -6,7 +6,7 @@
     "revision_id": "625a483f6cae88d294473",
     "content_hash": "2aa91c914cc06d744fcd4a06d6406543fcf4f87aaf55eed2f506c49aebf4af02",
     "server_modified": "2024-10-29 21:46:19",
-    "last_sync": "2024-11-19 20:54:05.837386",
+    "last_sync": "2024-11-26 15:23:10.733065",
     "size": 224,
     "meta_text": null,
     "cat_ref": "S06370EE9",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 04:54:07.142092+00:00"
+            "timestamp": "2024-11-26 23:23:11.596397+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAL 'BYOR MA_ANGEL OF DIAMOND (VAJRAYOGINI)/SBYIN SREG_FIRE OFFERING (HOMA)",
-            "timestamp": "2024-11-20 05:08:14.286267+00:00"
+            "timestamp": "2024-11-26 23:32:59.055186+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:07.142092+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:11.596397+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:08:14.286267+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:32:59.055186+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

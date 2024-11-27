@@ -6,7 +6,7 @@
     "revision_id": "625a47caa00678d294473",
     "content_hash": "cb110c430464c19016cb192afa1ecbd2cd48fa1b3424532f295a6e8f12524052",
     "server_modified": "2024-10-29 21:44:16",
-    "last_sync": "2024-11-19 20:50:39.372123",
+    "last_sync": "2024-11-26 15:20:55.187900",
     "size": 12704,
     "meta_text": null,
     "cat_ref": "S12201E",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/'PHRIN YIG_EPISTLES/PAN CHEN BLA MA SKU PHRENG GSUM PA DPAL LDAN YE SHES_PANCHEN LAMA KUTRENG SUMPA PELDEN YESHE (1738-1780)",
-            "timestamp": "2024-11-20 04:50:39.379160+00:00"
+            "timestamp": "2024-11-26 23:20:55.201644+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:50:39.379160+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:20:55.201644+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

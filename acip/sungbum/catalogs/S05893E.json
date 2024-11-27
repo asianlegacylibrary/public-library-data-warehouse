@@ -6,7 +6,7 @@
     "revision_id": "625a48b9ec2048d294473",
     "content_hash": "9842aa0f7b9d240d2e60a1c9870c80a3cfef6f2a064902110f9709a2704c4e97",
     "server_modified": "2024-10-29 21:48:27",
-    "last_sync": "2024-11-19 21:00:26.317671",
+    "last_sync": "2024-11-26 15:27:39.237967",
     "size": 8182,
     "meta_text": null,
     "cat_ref": "S05893E",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/THUN DRUG_SIX SESSIONS",
-            "timestamp": "2024-11-20 05:00:27.509436+00:00"
+            "timestamp": "2024-11-26 23:27:40.476515+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:00:27.509436+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:27:40.476515+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

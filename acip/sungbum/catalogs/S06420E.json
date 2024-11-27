@@ -6,13 +6,13 @@
     "revision_id": "625a487a8a3de8d294473",
     "content_hash": "d900c7d37acb7b14861ce686e6bd1a0a8e4391d767e85faf04d1e862723f3ec8",
     "server_modified": "2024-10-29 21:47:21",
-    "last_sync": "2024-11-19 20:56:44.599359",
+    "last_sync": "2024-11-26 15:24:54.640061",
     "size": 132242,
-    "meta_text": "('he Tradition of that Great Accomplished Master, Ghantapada_DNGUL CHU DHARMA BHADRA (1772-1851)', 'rtf')",
+    "meta_text": "he Tradition of that Great Accomplished Master, Ghantapada_DNGUL CHU DHARMA BHADRA (1772-1851)",
     "cat_ref": "S06420E",
     "work_ref": "W.S06420E",
     "title_tib": "GRUB CHEN DRIL BU LUGS KYI BDE MCHOG LHA LNGA'I BSKYED RIM GYI ZIN BRIS BDE CHEN YANG SNYING",
-    "title_eng": "The 'Inner Heart of Great Bliss,' being Notes on the Stage of Creation in the Practice of the Five Angels of Highest Bliss (Sambara), according to t('he Tradition of that Great Accomplished Master, Ghantapada",
+    "title_eng": "The 'Inner Heart of Great Bliss,' being Notes on the Stage of Creation in the Practice of the Five Angels of Highest Bliss (Sambara), according to the Tradition of that Great Accomplished Master, Ghantapada",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/BSKYED RIM_CREATION STAGE (UTPATTI KRAMA)",
-            "timestamp": "2024-11-20 04:56:45.219019+00:00"
+            "timestamp": "2024-11-26 23:24:55.530543+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:56:45.219019+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:24:55.530543+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

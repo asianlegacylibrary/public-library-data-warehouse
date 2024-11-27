@@ -6,17 +6,17 @@
     "revision_id": "625a4788e630c8d294473",
     "content_hash": "d1c8e2ef772a897bd2464c10bf6c741b94d773ffe8c740b90c1561383903c02d",
     "server_modified": "2024-10-29 21:43:07",
-    "last_sync": "2024-11-19 20:47:10.221081",
+    "last_sync": "2024-11-26 15:18:32.521094",
     "size": 1570240,
-    "meta_text": "('e Serpentines, Written in Clarification of Difficult Points Found in the Two Treatises upon the “Jewel of Realizations\" and Its Commentary_(SE-RA) RJE BTZUN CHOS KYI RGYAL MTSAN (1469–1546)', 'text')",
+    "meta_text": "e Serpentines, Written in Clarification of Difficult Points Found in the Two Treatises upon the “Jewel of Realizations\" and Its Commentary_(SE-RA) RJE BTZUN CHOS KYI RGYAL MTSAN (1469–1546)",
     "cat_ref": "S06814-2",
     "work_ref": "W.S06814-2",
     "title_tib": "BSTAN BCOS MNGON PAR RTOGS PA’I RGYAN ‘GREL PA DANG BCAS PA’I RNAM BSHAD RNAM PA GNYIS KYI DKA’ BA’I GNAD GSAL BAR BYED PA LEGS BSHAD SKAL BZANG KLU DBANG GI ROL MTSO",
-    "title_eng": "The Excellent Explanation, a Sea of Sport for Those Fortunate Lords of th('e Serpentines, Written in Clarification of Difficult Points Found in the Two Treatises upon the “Jewel of Realizations\" and Its Commentary",
+    "title_eng": "The Excellent Explanation, a Sea of Sport for Those Fortunate Lords of the Serpentines, Written in Clarification of Difficult Points Found in the Two Treatises upon the “Jewel of Realizations\" and Its Commentary",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
-    "author_simple": "(SE-RA) RJE BTZUN CHOS KYI RGYAL MTSAN (1469–1546)', 'text')",
+    "author_simple": "(SE-RA) RJE BTZUN CHOS KYI RGYAL MTSAN (1469–1546)",
     "subject": [
         {
             "_id": "233618368598",
@@ -30,7 +30,7 @@
     "items": [],
     "author": [
         {
-            "author_name": "(SE-RA) RJE BTZUN CHOS KYI RGYAL MTSAN (1469–1546)', 'text')",
+            "author_name": "(SE-RA) RJE BTZUN CHOS KYI RGYAL MTSAN (1469–1546)",
             "author_birth": null,
             "author_death": null
         }
@@ -38,13 +38,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/SPYI_GENERAL COMMENTARIES/SE RA RJE BTZUN CHOS KYI RGYAL MTSAN_SERA JETSUN CHUKYI GYELTSEN (1469-1546)/SPYI DON_OVERVIEW",
-            "timestamp": "2024-11-20 04:47:11.588705+00:00"
+            "timestamp": "2024-11-26 23:18:34.223200+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:47:11.588705+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:18:34.223200+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

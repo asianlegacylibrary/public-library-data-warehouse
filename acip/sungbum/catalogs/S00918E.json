@@ -6,13 +6,13 @@
     "revision_id": "625a4a830fc918d294473",
     "content_hash": "fbbbb2668f523901fa9f8f6c1d99219db9fbf736ff999a2ddf24c94b3389ebd8",
     "server_modified": "2024-10-29 21:56:26",
-    "last_sync": "2024-11-19 21:19:19.548076",
+    "last_sync": "2024-11-26 15:40:38.101049",
     "size": 56005,
-    "meta_text": "(\"ur Classical Schools of Philosophy_GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME (1762-1823)\", 'rtf')",
+    "meta_text": "ur Classical Schools of Philosophy_GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME (1762-1823)",
     "cat_ref": "S00918E",
     "work_ref": "W.S00918E",
     "title_tib": "GRUB MTHA' BZHI'I 'DOD TSUL SOGS DRIS LAN SNA TSOGS KYI SKOR ZHAL LUNG BDUD RTZI'I THIGS 'PHRENG",
-    "title_eng": "'A String of Precious Drops of the Nectar of Oral Transmission,' being a Compilation of Various Questions and Answers on the Positions of the Fo(\"ur Classical Schools of Philosophy",
+    "title_eng": "'A String of Precious Drops of the Nectar of Oral Transmission,' being a Compilation of Various Questions and Answers on the Positions of the Four Classical Schools of Philosophy",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/GRUB MTHA'_COMPARATIVE PHILOSOPHY (SIDDHANTA)/GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME_GUNGTANG KONCHOK TENPAY DRUNME (1762-1823)",
-            "timestamp": "2024-11-20 05:19:19.553856+00:00"
+            "timestamp": "2024-11-26 23:40:38.108482+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:19:19.553856+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:40:38.108482+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

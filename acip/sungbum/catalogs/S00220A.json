@@ -6,7 +6,7 @@
     "revision_id": "625a476e14bee8d294473",
     "content_hash": "d266d39566bae45b394bbc6541f8d2c183094db6cea9e6d45fb0d73c0df12d02",
     "server_modified": "2024-10-29 21:42:39",
-    "last_sync": "2024-11-19 20:46:10.445562",
+    "last_sync": "2024-11-26 15:17:51.302147",
     "size": 62128,
     "meta_text": null,
     "cat_ref": "S00220A",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/MDO 'GREL_COMMENTARIES TO SUTRAS/SHES RAB SNYING PO (PRAJNA PARAMITA HIRDAYA)_HEART SUTRA",
-            "timestamp": "2024-11-20 04:46:10.455516+00:00"
+            "timestamp": "2024-11-26 23:17:51.316887+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:46:10.455516+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:17:51.316887+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

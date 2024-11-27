@@ -6,7 +6,7 @@
     "revision_id": "625a4937e37478d294473",
     "content_hash": "27a4d20a4d46e4a77a5828ec529070a70bc6f429d97712db8685df08ce6d6493",
     "server_modified": "2024-10-29 21:50:39",
-    "last_sync": "2024-11-19 21:06:02.677209",
+    "last_sync": "2024-11-26 15:31:30.911636",
     "size": 183045,
     "meta_text": null,
     "cat_ref": "S05002-2E",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/'GREL PA_COMMENTARIES",
-            "timestamp": "2024-11-20 05:06:08.037577+00:00"
+            "timestamp": "2024-11-26 23:31:34.163122+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:06:08.037577+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:31:34.163122+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

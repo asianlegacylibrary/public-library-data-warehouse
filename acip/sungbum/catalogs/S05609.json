@@ -6,13 +6,13 @@
     "revision_id": "625a48670a1a28d294473",
     "content_hash": "bd0df88f06881b42ec518f6b61a021ae4573c34d098b345623295dec983383a8",
     "server_modified": "2024-10-29 21:47:00",
-    "last_sync": "2024-11-19 20:55:35.974085",
+    "last_sync": "2024-11-26 15:24:09.808048",
     "size": 119364,
-    "meta_text": "('e Tradition of Ghantapada_RGYAL BA NGAG DBANG BLO BZANG RGYA MTSO (1617-1682)', 'text')",
+    "meta_text": "e Tradition of Ghantapada_RGYAL BA NGAG DBANG BLO BZANG RGYA MTSO (1617-1682)",
     "cat_ref": "S05609",
     "work_ref": "W.S05609",
     "title_tib": "DPAL 'KHOR LO SDOM PA DRIL BU LUGS KYI PHYI DKYIL LHA LNGA'I DKYIL CHOG DPA' BO'I GRONG 'JUG",
-    "title_eng": "\"Entering the City of Warriors,\" A Ritual for the Five Angels in the Outer Secret World of the Glorious Union of the Spheres (Chakrasanvara) in th('e Tradition of Ghantapada",
+    "title_eng": "\"Entering the City of Warriors,\" A Ritual for the Five Angels in the Outer Secret World of the Glorious Union of the Spheres (Chakrasanvara) in the Tradition of Ghantapada",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -38,13 +38,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "timestamp": "2024-11-20 04:55:39.058575+00:00"
+            "timestamp": "2024-11-26 23:24:11.793148+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:55:39.058575+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:24:11.793148+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

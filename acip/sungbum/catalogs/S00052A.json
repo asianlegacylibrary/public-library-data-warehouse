@@ -6,7 +6,7 @@
     "revision_id": "625a4add702bc8d294473",
     "content_hash": "99330fa306b2412735f2a3d7fb1c34d6054fc0248da9746992a89289abe29206",
     "server_modified": "2024-10-29 21:58:01",
-    "last_sync": "2024-11-19 21:24:14.145238",
+    "last_sync": "2024-11-26 15:43:55.036095",
     "size": 29647,
     "meta_text": null,
     "cat_ref": "S00052A",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/BCA' YIG_OFFICIAL DOCUMENTS/SE RA SMAD_SERA MEY MONASTERY",
-            "timestamp": "2024-11-20 05:24:14.149772+00:00"
+            "timestamp": "2024-11-26 23:43:55.041278+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:24:14.149772+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:43:55.041278+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

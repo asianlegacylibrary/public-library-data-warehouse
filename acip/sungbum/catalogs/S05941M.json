@@ -6,7 +6,7 @@
     "revision_id": "625a4a53839708d294473",
     "content_hash": "b52415be24566c30767d3d19dedbe8446f8ef3147af425382af97df0bd2cf23d",
     "server_modified": "2024-10-29 21:55:37",
-    "last_sync": "2024-11-19 21:17:14.495967",
+    "last_sync": "2024-11-26 15:39:10.153345",
     "size": 134334,
     "meta_text": null,
     "cat_ref": "S05941M",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/LAM SGRON_LIGHT ON THE STEPS OF THE PATH (BODHIPATHA PRADIPA)/'GREL PA_COMMENTARIES",
-            "timestamp": "2024-11-20 05:17:15.903150+00:00"
+            "timestamp": "2024-11-26 23:39:11.131481+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:17:15.903150+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:39:11.131481+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

@@ -6,7 +6,7 @@
     "revision_id": "625a47fb8cf3e8d294473",
     "content_hash": "eaac303d8d0a08c859fa6689300286e2950c71a1f8696f47df1377b0d7fcaa1e",
     "server_modified": "2024-10-29 21:45:07",
-    "last_sync": "2024-11-19 20:52:34.914451",
+    "last_sync": "2024-11-26 15:22:08.520509",
     "size": 10144,
     "meta_text": null,
     "cat_ref": "S05883M",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RTOGS BRJOD_LIVES OF INDIAN SAINTS (AVADANA)/ABHAYAKARA ('JIGS MED 'BYUNG GNAS)",
-            "timestamp": "2024-11-20 04:52:34.919956+00:00"
+            "timestamp": "2024-11-26 23:22:08.526912+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:52:34.919956+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:22:08.526912+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

@@ -6,7 +6,7 @@
     "revision_id": "625a4b1251e2f8d294473",
     "content_hash": "fce42c519fa45ed617160317118597f88d9c4efc9245c69c091018e058b6db58",
     "server_modified": "2024-10-29 21:58:57",
-    "last_sync": "2024-11-19 21:26:50.819064",
+    "last_sync": "2024-11-26 15:45:38.156615",
     "size": 1875,
     "meta_text": null,
     "cat_ref": "S05977M13",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/BLA BRGYUD_LAMA LINEAGE TREES",
-            "timestamp": "2024-11-20 05:26:56.474042+00:00"
+            "timestamp": "2024-11-26 23:45:40.909493+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:26:56.474042+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:45:40.909493+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

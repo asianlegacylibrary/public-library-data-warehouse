@@ -6,7 +6,7 @@
     "revision_id": "625a4a830fc948d294473",
     "content_hash": "2ed90876746af8e76448ca26321977971e25cbe7bebf2570474f96815f4fb183",
     "server_modified": "2024-10-29 21:56:26",
-    "last_sync": "2024-11-19 21:19:21.369718",
+    "last_sync": "2024-11-26 15:40:39.371619",
     "size": 32797,
     "meta_text": null,
     "cat_ref": "S05573E",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/GRUB MTHA'_COMPARATIVE PHILOSOPHY (SIDDHANTA)/HIS HOLINESS THE SECOND DALAI LAMA, RGYAL BA DGE 'DUN RGYA MTSO (1476-1542)",
-            "timestamp": "2024-11-20 05:19:21.374238+00:00"
+            "timestamp": "2024-11-26 23:40:39.377444+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:19:21.374238+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:40:39.377444+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

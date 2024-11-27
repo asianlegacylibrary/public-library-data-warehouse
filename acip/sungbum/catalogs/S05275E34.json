@@ -6,9 +6,9 @@
     "revision_id": "625a48d22121c8d294473",
     "content_hash": "12b534b46d35b5cf85c636581b609ab8771e0c2693962304a1a1ad6dce5d590c",
     "server_modified": "2024-10-29 21:48:52",
-    "last_sync": "2024-11-19 21:01:43.537018",
+    "last_sync": "2024-11-26 15:28:29.738136",
     "size": 2434,
-    "meta_text": "('HA PA BLO BZANG GRAGS PA (1357-1419)', 'rtf')",
+    "meta_text": "HA PA BLO BZANG GRAGS PA (1357-1419)",
     "cat_ref": "S05275E34",
     "work_ref": "W.S05275E34",
     "title_tib": "DBON CHUNG GRAGS PA DBANG PHYUG DPAL BZANG POS GSOL BA BTAB PAS RJE BTZUN 'JAM PA'I DBYANGS LA BSTOD PA",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JAM DBYANGS_GENTLE VOICE (MANJUGHOSHA, MANJUSHRI)/BSTOD PA_SONGS OF PRAISE (STOTRA)",
-            "timestamp": "2024-11-20 05:01:43.558646+00:00"
+            "timestamp": "2024-11-26 23:28:29.769598+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:01:43.558646+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:28:29.769598+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

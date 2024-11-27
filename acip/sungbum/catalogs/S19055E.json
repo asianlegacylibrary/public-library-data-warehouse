@@ -6,9 +6,9 @@
     "revision_id": "625a4843cd9458d294473",
     "content_hash": "5a29fb95fed78504e012d1e43f68a42dada4c39f948cdde1dcc96135968317f6",
     "server_modified": "2024-10-29 21:46:23",
-    "last_sync": "2024-11-19 20:54:12.864213",
+    "last_sync": "2024-11-26 15:23:14.623112",
     "size": 4580,
-    "meta_text": "('US (1648-1721)', 'rtf')",
+    "meta_text": "US (1648-1721)",
     "cat_ref": "S19055E",
     "work_ref": "W.S19055E",
     "title_tib": "LO CHEN BLO BZANG 'OD ZER GYI DRIS LAN KUN MKHYEN 'JAM DBYANGS BZHAD PAS GSUNGS PA",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/'JAM DBYANGS BZHAD PA'I RDO RJE (1648-1721)",
-            "timestamp": "2024-11-20 04:54:14.110617+00:00"
+            "timestamp": "2024-11-26 23:23:15.797158+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/SGRA_STUDY OF SANSKRIT/SPYI_GENERAL TREATMENTS",
-            "timestamp": "2024-11-20 05:25:50.402823+00:00"
+            "timestamp": "2024-11-26 23:44:57.745513+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:14.110617+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:15.797158+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:25:50.402823+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:44:57.745513+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

@@ -6,9 +6,9 @@
     "revision_id": "625a49908aadd8d294473",
     "content_hash": "29a1008b4c327b6ab0ac1aa383da1b94516607974b4840d25275655cdaddcbbc",
     "server_modified": "2024-10-29 21:52:12",
-    "last_sync": "2024-11-19 21:10:33.729806",
+    "last_sync": "2024-11-26 15:34:38.648517",
     "size": 54328,
-    "meta_text": "('1617-1682)', 'text')",
+    "meta_text": "1617-1682)",
     "cat_ref": "S05604",
     "work_ref": "W.S05604",
     "title_tib": "DPAL RDO RJE 'JIGS BYED KYI RGYUN KHYER GYI RNAL 'BYOR REG ZIG BKLAGS CHOG TU BKOD PA",
@@ -31,8 +31,8 @@
     "author": [
         {
             "author_name": "RGYAL BA NGAG DBANG BLO BZANG RGYA MTSO",
-            "author_birth": null,
-            "author_death": null,
+            "author_birth": "1617",
+            "author_death": "1682",
             "bdrc_id": "bdr:P37",
             "normalized_name": "RGYAL BA NGAG DBANG BLO BZANG RGYA MTSO",
             "bdrc_url": "http://purl.bdrc.io/resource/P37"
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "timestamp": "2024-11-20 05:10:39.237314+00:00"
+            "timestamp": "2024-11-26 23:34:41.978151+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:10:39.237314+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:34:41.978151+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

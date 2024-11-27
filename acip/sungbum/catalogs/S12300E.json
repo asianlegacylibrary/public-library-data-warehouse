@@ -6,13 +6,13 @@
     "revision_id": "625a48080c3a58d294473",
     "content_hash": "ebfbffd480ad0555355e34b44d77bab88f1f51d4f07206a7a81daa84739c5964",
     "server_modified": "2024-10-29 21:45:21",
-    "last_sync": "2024-11-19 20:53:12.136085",
+    "last_sync": "2024-11-26 15:22:32.298351",
     "size": 6189,
-    "meta_text": "(\"as the ‘Sealed Advices’_LCANG LUNG AARYA PAndI TA NGAG DBANG BLO BZANG BSTAN PA'I RGYAL MTSAN (1770-1845)\", 'rtf')",
+    "meta_text": "as the ‘Sealed Advices’_LCANG LUNG AARYA PAndI TA NGAG DBANG BLO BZANG BSTAN PA'I RGYAL MTSAN (1770-1845)",
     "cat_ref": "S12300E",
     "work_ref": "W.S12300E",
     "title_tib": "GSO BA RIG PA'I BSTAN 'CHOS MAN NGAG BKA' RGYA MAR GRAGS PA'I DKAR CHAG DON GYI BZHIN RAS GSAL BA'I ME LONG",
-    "title_eng": "A Mirror which Clearly Reflects the Image of the Meaning--A Catalog to the Classical Commentary on the Art of Healing commonly known(\"as the ‘Sealed Advices’",
+    "title_eng": "A Mirror which Clearly Reflects the Image of the Meaning--A Catalog to the Classical Commentary on the Art of Healing commonly knownas the ‘Sealed Advices’",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/SMAN_MEDICINE/BKA' RGYA MA_THE SEALED INSTRUCTIONS",
-            "timestamp": "2024-11-20 04:53:12.141471+00:00"
+            "timestamp": "2024-11-26 23:22:32.305059+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:53:12.141471+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:22:32.305059+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

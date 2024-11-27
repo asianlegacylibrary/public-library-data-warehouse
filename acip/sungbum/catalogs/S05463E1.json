@@ -6,13 +6,13 @@
     "revision_id": "625a493d2ad148d294473",
     "content_hash": "84baccca99a6408b3ea946aafc923c7c0640ed0c3c8338fe829b467f639b15fc",
     "server_modified": "2024-10-29 21:50:45",
-    "last_sync": "2024-11-19 21:06:07.392221",
+    "last_sync": "2024-11-26 15:31:33.748240",
     "size": 1499338,
-    "meta_text": "('Time entitled the ‘Immaculate Light’_MKHAS GRUB RJE DGE LEGS DPAL BZANG PO (1385-1438)', 'rtf')",
+    "meta_text": "Time entitled the ‘Immaculate Light’_MKHAS GRUB RJE DGE LEGS DPAL BZANG PO (1385-1438)",
     "cat_ref": "S05463E1",
     "work_ref": "W.S05463E1",
     "title_tib": "DPAL DUS KYI 'KHOR LO'I 'GREL CHEN DRI MA MED PA'I 'OD KYI RGYA CHER BSHAD PA DE KHO NA NYID SNANG BAR BYED PA",
-    "title_eng": "'The Illumination of Thusness,' being an Extensive Explanation of the Great Commentary upon the Teaching of the Glorious Wheel of('Time entitled the ‘Immaculate Light’",
+    "title_eng": "'The Illumination of Thusness,' being an Extensive Explanation of the Great Commentary upon the Teaching of the Glorious Wheel ofTime entitled the ‘Immaculate Light’",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/'GREL PA_COMMENTARIES",
-            "timestamp": "2024-11-20 05:06:08.039324+00:00"
+            "timestamp": "2024-11-26 23:31:34.165180+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:06:08.039324+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:31:34.165180+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

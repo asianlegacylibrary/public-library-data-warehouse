@@ -6,7 +6,7 @@
     "revision_id": "625a491a8a1758d294473",
     "content_hash": "ba4b2dcb5698b7fb343c9e14af4714b37e5e6830b7c89ade67688f4ba7480f2b",
     "server_modified": "2024-10-29 21:50:08",
-    "last_sync": "2024-11-19 21:04:58.972293",
+    "last_sync": "2024-11-26 15:30:48.436982",
     "size": 10818,
     "meta_text": null,
     "cat_ref": "S00126E",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/ARGA_ARGA RITUAL",
-            "timestamp": "2024-11-20 05:04:58.976559+00:00"
+            "timestamp": "2024-11-26 23:30:48.445328+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:04:58.976559+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:30:48.445328+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

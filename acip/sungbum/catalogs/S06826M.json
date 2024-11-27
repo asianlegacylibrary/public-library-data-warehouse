@@ -6,9 +6,9 @@
     "revision_id": "625a479d84ca38d294473",
     "content_hash": "2d5336a35f8fb6c2155baf03e64116553531351752e2d6338f8d3ce15a6a7b85",
     "server_modified": "2024-10-29 21:43:29",
-    "last_sync": "2024-11-19 20:48:15.162994",
+    "last_sync": "2024-11-26 15:19:21.058301",
     "size": 67233,
-    "meta_text": "('E RA RJE BTZUN CHOS KYI RGYAL MTSAN (1469-1546)', 'rtf')",
+    "meta_text": "E RA RJE BTZUN CHOS KYI RGYAL MTSAN (1469-1546)",
     "cat_ref": "S06826M",
     "work_ref": "W.S06826M",
     "title_tib": "RJE BTZUN CHOS KYI RGYAL MTSAN DPAL BZANG PO'I GSUNG MKHAS PA'I MGUL RGYAN CES BYA BA SA LAM RNAM GZHAG",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/SA LAM RNAM GZHAG_OUTLINE OF THE LEVELS & PATHS",
-            "timestamp": "2024-11-20 04:48:15.168513+00:00"
+            "timestamp": "2024-11-26 23:19:21.066735+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:48:15.168513+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:19:21.066735+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

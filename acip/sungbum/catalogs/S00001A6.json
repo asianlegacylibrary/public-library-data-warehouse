@@ -6,13 +6,13 @@
     "revision_id": "625a479b3c2b98d294473",
     "content_hash": "b378e5161aead6448b8b44a9e9aced1f2992b3564c5562323c7af9cd40f4d33d",
     "server_modified": "2024-10-29 21:43:26",
-    "last_sync": "2024-11-19 20:47:57.179190",
+    "last_sync": "2024-11-26 15:19:10.019194",
     "size": 259511,
-    "meta_text": "('ry entitled ‘The Ornament of Realizations,’ along with Its Own Commentary, Part Six_MKHAS GRUB BSTAN PA DAR RGYAS (1493-1568)', 'rtf')",
+    "meta_text": "ry entitled ‘The Ornament of Realizations,’ along with Its Own Commentary, Part Six_MKHAS GRUB BSTAN PA DAR RGYAS (1493-1568)",
     "cat_ref": "S00001A6",
     "work_ref": "W.S00001A6",
     "title_tib": "BSTAN BCOS MNGON PAR RTOGS PA'I RGYAN 'GREL PA DANG BCAS PA'I MTHA' DPYOD LEGS PAR BSHAD PA PAD MA DKAR PO'I 'PHRENG BA, CHA DRUG PA",
-    "title_eng": "'The Garland of White Lotuses,' being a Fine Explanation of Dialectical Analysis for the Classical Commenta('ry entitled ‘The Ornament of Realizations,’ along with Its Own Commentary, Part Six",
+    "title_eng": "'The Garland of White Lotuses,' being a Fine Explanation of Dialectical Analysis for the Classical Commentary entitled ‘The Ornament of Realizations,’ along with Its Own Commentary, Part Six",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/SPYI_GENERAL COMMENTARIES/MKHAS GRUB BSTAN PA DAR RGYAS_KEDRUP TENPA DARGYE (1493-1568)/MTHA' DPYOD_DIALECTIC ANALYSIS",
-            "timestamp": "2024-11-20 04:48:00.951786+00:00"
+            "timestamp": "2024-11-26 23:19:12.556503+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:48:00.951786+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:19:12.556503+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

@@ -6,9 +6,9 @@
     "revision_id": "625a4986142b98d294473",
     "content_hash": "5b5fe3c8a7b2580672b27a49692257bd9b7f522b41039116cdfe4311feafb037",
     "server_modified": "2024-10-29 21:52:01",
-    "last_sync": "2024-11-19 21:09:59.845572",
+    "last_sync": "2024-11-26 15:34:13.045718",
     "size": 12023,
-    "meta_text": "('RJE KHRI BYANG RIN PO CHE (1901-1981)', 'rtf')",
+    "meta_text": "RJE KHRI BYANG RIN PO CHE (1901-1981)",
     "cat_ref": "S00231E",
     "work_ref": "W.S00231E",
     "title_tib": "GRO MO DUNG DKAR DGON GYI SRUNG MA BTZAN RGOD NAM MKHA' SBAR 'DZIN GYI GSOL MCHOD NAM MKHA' SBAR 'DZIN GYI GSOL MCHOD",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/NAM MKHA' SBAR 'DZIN_SKY IN THE HAND/MCHOD PA_OFFERING",
-            "timestamp": "2024-11-20 05:09:59.850596+00:00"
+            "timestamp": "2024-11-26 23:34:13.050808+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:09:59.850596+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:34:13.050808+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

@@ -6,13 +6,13 @@
     "revision_id": "625a4a5aef8098d294473",
     "content_hash": "ef6e445b5ccae0c1dbe1595511edb5fcd6ff06d4beefe1513896bc4f5b3f7982",
     "server_modified": "2024-10-29 21:55:44",
-    "last_sync": "2024-11-19 21:17:51.392262",
+    "last_sync": "2024-11-26 15:39:36.587740",
     "size": 197233,
-    "meta_text": "(\"m the Collected Works of the Omniscient One, Jamyang Shepay Dorje_’JAM DBYANGS BZHAD PA'I RDO RJE (1648-1721)\", 'rtf')",
+    "meta_text": "m the Collected Works of the Omniscient One, Jamyang Shepay Dorje_’JAM DBYANGS BZHAD PA'I RDO RJE (1648-1721)",
     "cat_ref": "S12116E",
     "work_ref": "W.S12116E",
     "title_tib": "KUN MKHYEN 'JAM DBYANGS BZHAD PA'I RDO RJE'I GSUNGS 'BUM LAS BYANG CHUB LAM RIM GYI RNAM BSHAD LUNG RIGS GTER MDZOD",
-    "title_eng": "The Treasure Trove of Scriptural Authority and Logical Proof-- An Explication of the Steps of the Path to Enlightenment, fro(\"m the Collected Works of the Omniscient One, Jamyang Shepay Dorje",
+    "title_eng": "The Treasure Trove of Scriptural Authority and Logical Proof-- An Explication of the Steps of the Path to Enlightenment, from the Collected Works of the Omniscient One, Jamyang Shepay Dorje",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/LUNG RIGS GTER MDZOD_TREASURE TROVE OF SCRIPTURAL AUTHORITY AND LOGICAL PROOF",
-            "timestamp": "2024-11-20 05:17:51.398339+00:00"
+            "timestamp": "2024-11-26 23:39:36.596065+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:17:51.398339+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:39:36.596065+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

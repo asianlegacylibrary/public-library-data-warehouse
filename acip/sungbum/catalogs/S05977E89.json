@@ -6,9 +6,9 @@
     "revision_id": "625a489773ca28d294473",
     "content_hash": "4bde9ef745d5f4a4cabe02dee1a1f8238594839bb18571e955c545e539c92f4b",
     "server_modified": "2024-10-29 21:47:51",
-    "last_sync": "2024-11-19 20:58:16.048658",
+    "last_sync": "2024-11-26 15:26:01.687638",
     "size": 10334,
-    "meta_text": "('CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)', 'rtf')",
+    "meta_text": "CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)",
     "cat_ref": "S05977E89",
     "work_ref": "W.S05977E89",
     "title_tib": "GNOD SBYIN RDO RJE BDUD 'DUL GYI BSKANG GSO'I RIM PA BAR CHAD KUN SEL",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE BDUD 'DUL_DIAMOND DEFEATER OF DEMONS (VAJRAMARADAMA)/BSKANG GSO_RITUAL OF FULFILLMENT AND RESTORATION",
-            "timestamp": "2024-11-20 04:58:16.053683+00:00"
+            "timestamp": "2024-11-26 23:26:01.696451+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:58:16.053683+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:26:01.696451+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

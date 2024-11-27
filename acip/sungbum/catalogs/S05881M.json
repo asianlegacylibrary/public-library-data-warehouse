@@ -6,7 +6,7 @@
     "revision_id": "625a47fb8cf498d294473",
     "content_hash": "df30010c161ec158aea575777477e905001c6d610a052f256269ed0c6cdc615b",
     "server_modified": "2024-10-29 21:45:07",
-    "last_sync": "2024-11-19 20:52:41.527510",
+    "last_sync": "2024-11-26 15:22:12.283841",
     "size": 6208,
     "meta_text": null,
     "cat_ref": "S05881M",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RTOGS BRJOD_LIVES OF INDIAN SAINTS (AVADANA)/SUBHUTI STHAVIRA (RAB 'BYOR)",
-            "timestamp": "2024-11-20 04:52:41.532622+00:00"
+            "timestamp": "2024-11-26 23:22:12.288067+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:52:41.532622+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:22:12.288067+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

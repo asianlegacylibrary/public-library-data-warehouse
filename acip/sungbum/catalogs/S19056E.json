@@ -6,9 +6,9 @@
     "revision_id": "625a4af3376008d294473",
     "content_hash": "9ce892e69fcf4c464f60804e81fcb80983f7826295b2b8890eef4fcf230a405a",
     "server_modified": "2024-10-29 21:58:24",
-    "last_sync": "2024-11-19 21:25:50.391170",
+    "last_sync": "2024-11-26 15:44:57.730087",
     "size": 5448,
-    "meta_text": "(\"YANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS (1648-1721)\", 'rtf')",
+    "meta_text": "YANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS (1648-1721)",
     "cat_ref": "S19056E",
     "work_ref": "W.S19056E",
     "title_tib": "SGRA MDO CHEN PO BZHI LAS BRTZAMS PA'I DKA' GNAD KYI DOGS GCOD 'JAM DBYANGS DGYES PA'I ROL MO",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/SGRA_STUDY OF SANSKRIT/SPYI_GENERAL TREATMENTS",
-            "timestamp": "2024-11-20 05:25:50.403008+00:00"
+            "timestamp": "2024-11-26 23:44:57.745753+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:25:50.403008+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:44:57.745753+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

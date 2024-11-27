@@ -6,9 +6,9 @@
     "revision_id": "625a4aad0801c8d294473",
     "content_hash": "257c0d9332ec8d660b46f2954414ff5787067c20dc5ddfcad04baa5ca261d7af",
     "server_modified": "2024-10-29 21:57:10",
-    "last_sync": "2024-11-19 21:20:59.808183",
+    "last_sync": "2024-11-26 15:41:53.803471",
     "size": 186233,
-    "meta_text": "(\"ED RIM, BDUD LAS RNAM RGYAL GYI DBANG, 'JIGS BYED LHA BCU GSUM MA BCAS KYI RGYUD 'DEBS, GZHAN YANG BLA BRGYUD 'GA' ZHIG GI GSHAM DU MTHUD RGYU TSIGS BCAD BCAS_Verses for Supplication to the Lamas of the Lineage for a Variety of Subjects— The Teachings on the Steps of the Path, as found in the ‘Great Book on the Steps of the Path to Enlightenment’; The Hundred-Section Supplication to the Lamas of the Lineage of the Instruction on the Profound Path of the Practice of the Lama in the Tradition of Se, along with its Instructions; A Supplication to the Lamas of the Lineage of the Great Seal; the ‘Quartet of Commentaries’; the ‘Total Illumination of the Hid_RVA SGRENG AA CHI THU NO MO HAN BLO BZANG YE SHES BSTAN PA RAB RGYAS (1759-1815)\", 'rtf')",
+    "meta_text": "ED RIM, BDUD LAS RNAM RGYAL GYI DBANG, 'JIGS BYED LHA BCU GSUM MA BCAS KYI RGYUD 'DEBS, GZHAN YANG BLA BRGYUD 'GA' ZHIG GI GSHAM DU MTHUD RGYU TSIGS BCAD BCAS_Verses for Supplication to the Lamas of the Lineage for a Variety of Subjects— The Teachings on the Steps of the Path, as found in the ‘Great Book on the Steps of the Path to Enlightenment’; The Hundred-Section Supplication to the Lamas of the Lineage of the Instruction on the Profound Path of the Practice of the Lama in the Tradition of Se, along with its Instructions; A Supplication to the Lamas of the Lineage of the Great Seal; the ‘Quartet of Commentaries’; the ‘Total Illumination of the Hid_RVA SGRENG AA CHI THU NO MO HAN BLO BZANG YE SHES BSTAN PA RAB RGYAS (1759-1815)",
     "cat_ref": "S06226E",
     "work_ref": "W.S06226E",
     "title_tib": "BYANG CHUB LAM RIM CHEN MO SOGS LAM RIM SKOR DANG, SRAS RGYUD LUGS KYI ZAB LAM BLA MA'I RNAL 'BYOR GYI KHRID BCAS KYI RGYUD 'DEBS LE TSAN BRGYA DANG, PHYAG CHEN GSOL 'DEBS,'GREL PA BZHI SBRAGS,SBAS DON KUN GSAL, THANG SAG PA'I BDE MCHOG BSKY",
@@ -49,33 +49,33 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/GSOL 'DEBS_PRAYERS OF SUPPLICATION/RVA SGRENG AA CHI THU NO MO HAN BLO BZANG YE SHES BSTAN PA RAB RGYAS_RADRENG ACHI TUNO MOHAN LOBSANG YESHE TENPA RABGYE (1759-1815)",
-            "timestamp": "2024-11-20 05:20:59.812702+00:00"
+            "timestamp": "2024-11-26 23:41:53.808817+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/GSOL 'DEBS_PRAYERS OF SUPPLICATION/RVA SGRENG AA CHI THU NO MO HAN BLO BZANG YE SHES BSTAN PA RAB RGYAS_RADRENG ACHI TUNO MOHAN LOBSANG YESHE TENPA RABGYE (1759-1815)",
-            "timestamp": "2024-11-20 05:21:15.479281+00:00"
+            "timestamp": "2024-11-26 23:42:04.603249+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/BLA BRGYUD_LAMA LINEAGE TREES",
-            "timestamp": "2024-11-20 05:26:56.474922+00:00"
+            "timestamp": "2024-11-26 23:45:40.910400+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:20:59.812702+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:41:53.808817+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:21:15.479281+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:42:04.603249+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         },
         {
-            "timestamp": "2024-11-20T05:26:56.474922+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:45:40.910400+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

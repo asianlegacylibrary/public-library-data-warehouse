@@ -6,13 +6,13 @@
     "revision_id": "625a49b9d362c8d294473",
     "content_hash": "cc390c3996094685cc0da8739e95c0d77b0072043fd3cd2021af2b3efa16089d",
     "server_modified": "2024-10-29 21:52:55",
-    "last_sync": "2024-11-19 21:12:13.704949",
+    "last_sync": "2024-11-26 15:35:45.081905",
     "size": 10051,
-    "meta_text": "('avega)_RJE BTZUN BLO BZANG RTA DBYANGS (1867-1937)', 'rtf')",
+    "meta_text": "avega)_RJE BTZUN BLO BZANG RTA DBYANGS (1867-1937)",
     "cat_ref": "S12262E",
     "work_ref": "W.S12262E",
     "title_tib": "RGYAL CHEN RDO RJE SHUGS LDAN RTZAL GYI BSKANG 'PHRIN MDOR BSDUS DON CHEN MYUR 'GRUB",
-    "title_eng": "Attaining the Ultimate Goal--A Brief Ritual of Fulfillment and Exhortation to Sacred Deeds for that Great King, the Diamond Angel of the Play of Power (Vajr('avega)",
+    "title_eng": "Attaining the Ultimate Goal--A Brief Ritual of Fulfillment and Exhortation to Sacred Deeds for that Great King, the Diamond Angel of the Play of Power (Vajravega)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE SHUGS LDAN_DIAMOND ANGEL OF POWER (VAJRAVEGA)/BSKANG GSO_RITUAL OF FULFILLMENT AND RESTORATION",
-            "timestamp": "2024-11-20 05:12:13.711190+00:00"
+            "timestamp": "2024-11-26 23:35:45.090522+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:12:13.711190+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:35:45.090522+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

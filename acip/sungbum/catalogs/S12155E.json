@@ -6,7 +6,7 @@
     "revision_id": "625a4aab0f3058d294473",
     "content_hash": "18a9ebaf38c21e95af5ee7205d7b8090baad56a2f2dc98075209de2cb494fe69",
     "server_modified": "2024-10-29 21:57:08",
-    "last_sync": "2024-11-19 21:20:54.975125",
+    "last_sync": "2024-11-26 15:41:49.903178",
     "size": 2060,
     "meta_text": null,
     "cat_ref": "S12155E",
@@ -41,23 +41,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/GSOL 'DEBS_PRAYERS OF SUPPLICATION/CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN _CHUJE KELKA NGAWANG PELDEN (1806-?)",
-            "timestamp": "2024-11-20 05:20:54.980308+00:00"
+            "timestamp": "2024-11-26 23:41:49.912522+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/GSOL 'DEBS_PRAYERS OF SUPPLICATION/CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN _CHUJE KELKA NGAWANG PELDEN (1806-?)",
-            "timestamp": "2024-11-20 05:21:15.478356+00:00"
+            "timestamp": "2024-11-26 23:42:04.602266+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:20:54.980308+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:41:49.912522+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:21:15.478356+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:42:04.602266+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

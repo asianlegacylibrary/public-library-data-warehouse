@@ -6,13 +6,13 @@
     "revision_id": "625a485d51aae8d294473",
     "content_hash": "33c6bf842b76b1481eed7fcd4f551dd4cb8c56c5e0ce1ce1a90c7accdccf5942",
     "server_modified": "2024-10-29 21:46:50",
-    "last_sync": "2024-11-19 20:55:00.231763",
+    "last_sync": "2024-11-26 15:23:46.723561",
     "size": 24712,
-    "meta_text": "('_@ (@-@)', 'rtf')",
+    "meta_text": "_@ (@-@)",
     "cat_ref": "S00440E",
     "work_ref": "W.S00440E",
     "title_tib": "DPAL YE SHES KYI MGON PO'I BSNYEN YIG DON GNYIS MCHOG SBYIN",
-    "title_eng": "'A Practice that Gives You the Ultimate Form of Both the Goals,' being a Book of Instructions on Performing a Retreat in the Teachings of the Glorious Protector of Wisdom (Mahakala)@ (@-@)', 'rtf')",
+    "title_eng": "'A Practice that Gives You the Ultimate Form of Both the Goals,' being a Book of Instructions on Performing a Retreat in the Teachings of the Glorious Protector of Wisdom (Mahakala)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -38,13 +38,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/MGON PO_THE PROTECTOR (MAHAKALA)/BSNYEN PA_RETREAT INSTRUCTIONS",
-            "timestamp": "2024-11-20 04:55:01.242121+00:00"
+            "timestamp": "2024-11-26 23:23:47.107671+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:55:01.242121+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:47.107671+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

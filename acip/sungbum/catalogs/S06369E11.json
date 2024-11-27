@@ -6,13 +6,13 @@
     "revision_id": "625a49972bede8d294473",
     "content_hash": "e443359b01e040c6fe0620c70aca3080d205067b13782ec16ffc3b524624d153",
     "server_modified": "2024-10-29 21:52:19",
-    "last_sync": "2024-11-19 21:10:42.994722",
+    "last_sync": "2024-11-26 15:34:44.459158",
     "size": 885,
-    "meta_text": "('the Practice of the Diamond Frightener (Vajra Bhairava)’_DNGUL CHU DHARMA BHADRA (1772-1851)', 'rtf')",
+    "meta_text": "the Practice of the Diamond Frightener (Vajra Bhairava)’_DNGUL CHU DHARMA BHADRA (1772-1851)",
     "cat_ref": "S06369E11",
     "work_ref": "W.S06369E11",
     "title_tib": "PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN GYIS MDZAD PA'I RDO RJE 'JIGS BYED KYI DBANG GI BLA BRGYUD GSOL 'DEBS KHA SKONG",
-    "title_eng": "Addendum to Panchen Lama Lobsang Chukyi Gyeltsen's 'Supplication to the Lamas of the Lineage for the Empowerment into('the Practice of the Diamond Frightener (Vajra Bhairava)’",
+    "title_eng": "Addendum to Panchen Lama Lobsang Chukyi Gyeltsen's 'Supplication to the Lamas of the Lineage for the Empowerment intothe Practice of the Diamond Frightener (Vajra Bhairava)’",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/BLA BRGYUD_LINEAGE LAMAS",
-            "timestamp": "2024-11-20 05:10:44.822890+00:00"
+            "timestamp": "2024-11-26 23:34:46.236379+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:10:44.822890+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:34:46.236379+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

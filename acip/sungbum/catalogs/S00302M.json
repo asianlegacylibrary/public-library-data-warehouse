@@ -6,7 +6,7 @@
     "revision_id": "625a4801cbd948d294473",
     "content_hash": "d9fffbff4747e845bea2803b422c22898dfdb882d7ca49438c3949d17e21cee3",
     "server_modified": "2024-10-29 21:45:14",
-    "last_sync": "2024-11-19 20:52:49.654172",
+    "last_sync": "2024-11-26 15:22:17.671697",
     "size": 949966,
     "meta_text": null,
     "cat_ref": "S00302M",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DRANG NGES_ART OF INTERPRETATION/'JIGS MED DAM CHOS RGYA MTSO_Jigme Damchu Gyatso (1898-1946)",
-            "timestamp": "2024-11-20 04:52:49.660199+00:00"
+            "timestamp": "2024-11-26 23:22:17.680476+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:52:49.660199+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:22:17.680476+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

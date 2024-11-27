@@ -6,9 +6,9 @@
     "revision_id": "625a4828621b08d294473",
     "content_hash": "45a0e4dd2719e0ab4ac8181f01277f57239c7dbbed850fcd51583f8cd865b070",
     "server_modified": "2024-10-29 21:45:54",
-    "last_sync": "2024-11-19 20:53:47.668201",
+    "last_sync": "2024-11-26 15:22:56.801540",
     "size": 322,
-    "meta_text": "('RA (1772-1851)', 'rtf')",
+    "meta_text": "RA (1772-1851)",
     "cat_ref": "S06370EB1",
     "work_ref": "W.S06370EB1",
     "title_tib": "DKYIL CHOG RIN CHEN 'PHRENG BA LAS, LHAG GNAS BYA'O, ,ZHES PA'I DON LA DRI LAN",
@@ -57,33 +57,33 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 04:54:07.136803+00:00"
+            "timestamp": "2024-11-26 23:23:11.590292+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/'GREL PA_GENERAL COMMENTARIES/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 05:05:26.959258+00:00"
+            "timestamp": "2024-11-26 23:31:07.432954+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/'GREL PA_COMMENTARIES",
-            "timestamp": "2024-11-20 05:11:43.042937+00:00"
+            "timestamp": "2024-11-26 23:35:24.976963+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:07.136803+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:11.590292+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:05:26.959258+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:31:07.432954+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         },
         {
-            "timestamp": "2024-11-20T05:11:43.042937+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:35:24.976963+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

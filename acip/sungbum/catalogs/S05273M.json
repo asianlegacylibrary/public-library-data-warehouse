@@ -6,7 +6,7 @@
     "revision_id": "625a49e3b58b28d294473",
     "content_hash": "929c8dd1217390d5956f09f34ffa33218c2c4b5ca168784220c8ae491f3c72db",
     "server_modified": "2024-10-29 21:53:39",
-    "last_sync": "2024-11-19 21:13:50.914125",
+    "last_sync": "2024-11-26 15:36:50.329982",
     "size": 18281,
     "meta_text": null,
     "cat_ref": "S05273M",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/DGE TSUL_VOWS OF NOVICE MONKS",
-            "timestamp": "2024-11-20 05:13:50.925571+00:00"
+            "timestamp": "2024-11-26 23:36:50.344426+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:13:50.925571+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:36:50.344426+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

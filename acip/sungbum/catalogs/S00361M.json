@@ -6,7 +6,7 @@
     "revision_id": "625a47e1e4b168d294473",
     "content_hash": "0713bed5bb3d2e40168a765450a3822716cf3116ea1d12980ab6de92e8b92885",
     "server_modified": "2024-10-29 21:44:41",
-    "last_sync": "2024-11-19 20:51:36.455319",
+    "last_sync": "2024-11-26 15:21:29.854232",
     "size": 39018,
     "meta_text": null,
     "cat_ref": "S00361M",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/SPYOD 'JUG 'GREL PA_COMMENTARIES ON THE GUIDE TO THE BODHISATTVA'S WAY OF LIFE",
-            "timestamp": "2024-11-20 04:51:36.461806+00:00"
+            "timestamp": "2024-11-26 23:21:29.860574+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:51:36.461806+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:21:29.860574+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

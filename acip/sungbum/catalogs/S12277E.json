@@ -6,9 +6,9 @@
     "revision_id": "625a48753d1a18d294473",
     "content_hash": "684bf59229302ca5605c06ccf4afa107130eb0279b786d9b3503fe7444290d4f",
     "server_modified": "2024-10-29 21:47:15",
-    "last_sync": "2024-11-19 20:56:27.639357",
+    "last_sync": "2024-11-26 15:24:43.297280",
     "size": 9465,
-    "meta_text": "(\"KHAN CHEN BLO BZANG BSTAN 'DZIN RGYAL MTSAN (1639-@)\", 'rtf')",
+    "meta_text": "KHAN CHEN BLO BZANG BSTAN 'DZIN RGYAL MTSAN (1639-@)",
     "cat_ref": "S12277E",
     "work_ref": "W.S12277E",
     "title_tib": "MKHAN CHEN CHOS KYI RGYAL PO'I GSUNG 'BUM LAS BDE MCHOG GI RAB GNAS SHIN TU BSDUS PA",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/RAB GNAS_CONSECRATION (SUPRATISHTHA)",
-            "timestamp": "2024-11-20 04:56:27.644461+00:00"
+            "timestamp": "2024-11-26 23:24:43.304973+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:56:27.644461+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:24:43.304973+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

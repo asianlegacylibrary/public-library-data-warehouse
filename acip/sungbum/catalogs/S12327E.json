@@ -6,7 +6,7 @@
     "revision_id": "625a4a3b0c0a88d294473",
     "content_hash": "34c49982922446c5db345fa926b321c172f79a364af91f6c6267cd4b3f326519",
     "server_modified": "2024-10-29 21:55:11",
-    "last_sync": "2024-11-19 21:16:36.730800",
+    "last_sync": "2024-11-26 15:38:45.582944",
     "size": 2625114,
     "meta_text": null,
     "cat_ref": "S12327E",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/SPYI_GENERAL PRESENTATIONS",
-            "timestamp": "2024-11-20 05:16:36.734921+00:00"
+            "timestamp": "2024-11-26 23:38:45.589883+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/RNAM THAR SNA TSOGS_COMPILATIONS OF BIOGRAPHIES/TREASURE OF NAMES",
-            "timestamp": "2024-11-20 05:16:45.943362+00:00"
+            "timestamp": "2024-11-26 23:38:51.653169+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:16:36.734921+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:38:45.589883+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:16:45.943362+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:38:51.653169+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

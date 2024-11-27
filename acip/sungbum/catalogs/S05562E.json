@@ -6,13 +6,13 @@
     "revision_id": "625a4a893501b8d294473",
     "content_hash": "d5465ae66123c6679ed8df46816e7fc9153f7acf5a389b4ecb506af74ceca565",
     "server_modified": "2024-10-29 21:56:33",
-    "last_sync": "2024-11-19 21:19:48.987488",
+    "last_sync": "2024-11-26 15:40:59.775100",
     "size": 5905,
-    "meta_text": "(\"Works of the Holy and Omniscient One_RGYAL BA DGE 'DUN RGYA MTSO (1476-1542)\", 'text')",
+    "meta_text": "Works of the Holy and Omniscient One_RGYAL BA DGE 'DUN RGYA MTSO (1476-1542)",
     "cat_ref": "S05562E",
     "work_ref": "W.S05562E",
     "title_tib": "",
-    "title_eng": "(\"Works of the Holy and Omniscient One",
+    "title_eng": "Works of the Holy and Omniscient One",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -38,13 +38,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/NYAMS MGUR_SONGS OF PERSONAL SPIRITUAL EXPERIENCE/RGYAL BA DGE 'DUN RGYA MTSO_HIS HOLINESS THE SECOND DALAI LAMA, BLO GROS SBAS PA (1400-1475)",
-            "timestamp": "2024-11-20 05:19:48.993054+00:00"
+            "timestamp": "2024-11-26 23:40:59.782896+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:19:48.993054+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:40:59.782896+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

@@ -6,13 +6,13 @@
     "revision_id": "625a4a8070a208d294473",
     "content_hash": "041f557f9159862f1295f22cfe3346d86829a03acd2281f21e2527cedf2cb9d2",
     "server_modified": "2024-10-29 21:56:24",
-    "last_sync": "2024-11-19 21:19:03.543140",
+    "last_sync": "2024-11-26 15:40:26.359482",
     "size": 451879,
-    "meta_text": "(',’ from the ‘A Cherished Gem for Those Who Think Clearly, a Book which Unravels the Knots of Every Difficult and Crucial Point,’ being an Annotated Commentary to ‘The Great Book on the Schools of Philosophy’_CHOS RJE NGAG DBANG DPAL LDAN (1806-@)', 'rtf')",
+    "meta_text": ",’ from the ‘A Cherished Gem for Those Who Think Clearly, a Book which Unravels the Knots of Every Difficult and Crucial Point,’ being an Annotated Commentary to ‘The Great Book on the Schools of Philosophy’_CHOS RJE NGAG DBANG DPAL LDAN (1806-@)",
     "cat_ref": "S00986I1",
     "work_ref": "W.S00986I1",
     "title_tib": "GRUB MTHA' CHEN MO'I MCHAN 'GREL DKA' GNAD MDUD GROL BLO GSAL GCES NOR ZHES BYA BA LAS GRUB MTHA' SPYI BSHAD SOGS LE'U DANG PO BDUN GYI SKABS",
-    "title_eng": "\"The Section on the First Seven Chapters the 'Overview of the Schools of Philosophy' and the Rest(',’ from the ‘A Cherished Gem for Those Who Think Clearly, a Book which Unravels the Knots of Every Difficult and Crucial Point,’ being an Annotated Commentary to ‘The Great Book on the Schools of Philosophy’",
+    "title_eng": "\"The Section on the First Seven Chapters the 'Overview of the Schools of Philosophy' and the Rest,’ from the ‘A Cherished Gem for Those Who Think Clearly, a Book which Unravels the Knots of Every Difficult and Crucial Point,’ being an Annotated Commentary to ‘The Great Book on the Schools of Philosophy’",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/GRUB MTHA'_COMPARATIVE PHILOSOPHY (SIDDHANTA)/LCANG SKYA ROL PA'I RDO RJE_CHANGKYA ROLPAY DORJE (1717-1786)/GRUB MTHA' CHEN MO_GREAT BOOK ON COMPARATIVE SCHOOLS/'GREL PA_COMMENTARIES",
-            "timestamp": "2024-11-20 05:19:03.548550+00:00"
+            "timestamp": "2024-11-26 23:40:26.369096+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:19:03.548550+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:40:26.369096+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

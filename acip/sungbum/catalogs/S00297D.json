@@ -6,13 +6,13 @@
     "revision_id": "625a48799e1578d294473",
     "content_hash": "20d35f8471119fd2950e51bcbba520f52b803d585a6fa359eecff4621a0c10af",
     "server_modified": "2024-10-29 21:47:20",
-    "last_sync": "2024-11-19 20:56:37.884792",
+    "last_sync": "2024-11-26 15:24:50.389082",
     "size": 58268,
-    "meta_text": "('Practice of the Five Angels of Highest Bliss (Sambara)_CO NE BLA MA GRAGS PA BSHAD GRUB (1675-1748)', 'rtf')",
+    "meta_text": "Practice of the Five Angels of Highest Bliss (Sambara)_CO NE BLA MA GRAGS PA BSHAD GRUB (1675-1748)",
     "cat_ref": "S00297D",
     "work_ref": "W.S00297D",
     "title_tib": "BDE MCHOG LHA LNGA'I BSKYED RDZOGS GNYIS KYI 'KHRID DMIGS BDE CHEN MYUR 'GRUB",
-    "title_eng": "'A Quick Method for Achieving Great Bliss,' consisting of the Various Points Raised in a Teaching on both the Stage of Creation and the Stage of Completion in the('Practice of the Five Angels of Highest Bliss (Sambara)",
+    "title_eng": "'A Quick Method for Achieving Great Bliss,' consisting of the Various Points Raised in a Teaching on both the Stage of Creation and the Stage of Completion in thePractice of the Five Angels of Highest Bliss (Sambara)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/'GREL PA_COMMENTARIES",
-            "timestamp": "2024-11-20 04:56:37.892543+00:00"
+            "timestamp": "2024-11-26 23:24:50.398281+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:56:37.892543+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:24:50.398281+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

@@ -6,7 +6,7 @@
     "revision_id": "625a482bfb6548d294473",
     "content_hash": "d0f6e98cb974d7085b3f51ab24b7e3075d900ea87bbebe2de22c02a4f45fa5e5",
     "server_modified": "2024-10-29 21:45:58",
-    "last_sync": "2024-11-19 20:53:49.964420",
+    "last_sync": "2024-11-26 15:22:58.663524",
     "size": 316,
     "meta_text": null,
     "cat_ref": "S6370EC2",
@@ -46,23 +46,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 04:54:07.137956+00:00"
+            "timestamp": "2024-11-26 23:23:11.591651+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JAM DBYANGS_GENTLE VOICE (MANJUGHOSHA, MANJUSHRI)/'GREL PA_COMMENTARIES",
-            "timestamp": "2024-11-20 05:02:03.584213+00:00"
+            "timestamp": "2024-11-26 23:28:41.129475+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:07.137956+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:11.591651+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:02:03.584213+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:28:41.129475+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

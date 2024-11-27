@@ -6,13 +6,13 @@
     "revision_id": "625a48bc0a47a8d294473",
     "content_hash": "d821f57697b02f95e70e87d5e05023a3152a38af8ac5938f5ee4e1afcb72632e",
     "server_modified": "2024-10-29 21:48:29",
-    "last_sync": "2024-11-19 21:00:30.760950",
+    "last_sync": "2024-11-26 15:27:42.807058",
     "size": 5670,
-    "meta_text": "('called ‘Power of Ten Types,’ along with the Significance of Each Syllable_DNGUL CHU DHARMA BHADRA (1772-1851)', 'rtf')",
+    "meta_text": "called ‘Power of Ten Types,’ along with the Significance of Each Syllable_DNGUL CHU DHARMA BHADRA (1772-1851)",
     "cat_ref": "S06297E",
     "work_ref": "W.S06297E",
     "title_tib": "RNAM BCU DBANG LDAN SGRUB TSUL DANG, BSGRUBS PA'I MTSON DON MDOR BSDUS STONG GZUGS BDE CHEN SNYING PO",
-    "title_eng": "'The Essence of the Great Bliss of the Body of Emptiness,' being a Brief Presentation on the Method for Accomplishing the Secret Syllables('called ‘Power of Ten Types,’ along with the Significance of Each Syllable",
+    "title_eng": "'The Essence of the Great Bliss of the Body of Emptiness,' being a Brief Presentation on the Method for Accomplishing the Secret Syllablescalled ‘Power of Ten Types,’ along with the Significance of Each Syllable",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JAM DPAL MTSAN BRJOD_CHANTING THE NAMES OF GENTLE VOICE (MANJUSHRI NAMA SANGITI)/RNAM BCU DBANG LDAN_SECRET SYLLABLES OF THE POWER OF TEN TYPES (DASHAKARAVASHI)",
-            "timestamp": "2024-11-20 05:00:30.765113+00:00"
+            "timestamp": "2024-11-26 23:27:42.815181+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/RNAM BCU DBANG LDAN_MANTRA OF POWER IN TEN PARTS",
-            "timestamp": "2024-11-20 05:06:01.526164+00:00"
+            "timestamp": "2024-11-26 23:31:30.075135+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:00:30.765113+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:27:42.815181+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:06:01.526164+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:31:30.075135+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

@@ -6,13 +6,13 @@
     "revision_id": "625a4a1c0efd68d294473",
     "content_hash": "751dc0e55bee241dd7eb733cf4517ada4df49036c2e08ac3ab0500f4023dbd4e",
     "server_modified": "2024-10-29 21:54:38",
-    "last_sync": "2024-11-19 21:15:49.387699",
+    "last_sync": "2024-11-26 15:38:10.449348",
     "size": 8202,
-    "meta_text": "(\"to the Venered Lama, the Good and Glorious One, the All-Knowing Dharma Bhadra, by Means of Relating the Story of His Life_DBYANGS CAN GRUB PA'I RDO RJE (1809-1887)\", 'rtf')",
+    "meta_text": "to the Venered Lama, the Good and Glorious One, the All-Knowing Dharma Bhadra, by Means of Relating the Story of His Life_DBYANGS CAN GRUB PA'I RDO RJE (1809-1887)",
     "cat_ref": "S06259A",
     "work_ref": "W.S06259A",
     "title_tib": "RJE BTZUN BLA MA THAMS CAD MKHYEN PA DHA RMA BHA DRA DPAL BZANG PO LA RNAM THAR GYI SGO NAS GSOL BA 'DEBS TSUL DNGOS GRUB GRU CHAR GA-YO BA'I SPRIN PHUNG",
-    "title_eng": "The 'Mountain of Clouds, Delivering a Gentle Rain of Attainments,' being a Supplication(\"to the Venered Lama, the Good and Glorious One, the All-Knowing Dharma Bhadra, by Means of Relating the Story of His Life",
+    "title_eng": "The 'Mountain of Clouds, Delivering a Gentle Rain of Attainments,' being a Supplicationto the Venered Lama, the Good and Glorious One, the All-Knowing Dharma Bhadra, by Means of Relating the Story of His Life",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -49,33 +49,33 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 05:15:49.402621+00:00"
+            "timestamp": "2024-11-26 23:38:10.475540+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/GSOL 'DEBS_PRAYERS OF SUPPLICATION/DBYANGS CAN GRUB PA'I RDO RJE_YANGCHEN DRUPAY DORJE (1809-1887)",
-            "timestamp": "2024-11-20 05:20:37.970324+00:00"
+            "timestamp": "2024-11-26 23:41:36.334324+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/GSOL 'DEBS_PRAYERS OF SUPPLICATION/DBYANGS CAN GRUB PA'I RDO RJE_YANGCHEN DRUPAY DORJE (1809-1887)",
-            "timestamp": "2024-11-20 05:21:15.473869+00:00"
+            "timestamp": "2024-11-26 23:42:04.595157+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:15:49.402621+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:38:10.475540+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:20:37.970324+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:41:36.334324+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         },
         {
-            "timestamp": "2024-11-20T05:21:15.473869+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:42:04.595157+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

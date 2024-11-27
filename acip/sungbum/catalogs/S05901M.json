@@ -6,9 +6,9 @@
     "revision_id": "625a4a95f1c9d8d294473",
     "content_hash": "69bbf3534267f10546d737e7b96d021ee558a5f69f5f06416124b210a553732a",
     "server_modified": "2024-10-29 21:56:46",
-    "last_sync": "2024-11-19 21:20:05.210736",
+    "last_sync": "2024-11-26 15:41:12.551735",
     "size": 145829,
-    "meta_text": "('N (1565-1662)', 'rtf')",
+    "meta_text": "N (1565-1662)",
     "cat_ref": "S05901M",
     "work_ref": "W.S05901M",
     "title_tib": "PAn CHEN THAMS CAD MKHYEN PA BLO BZANG CHOS KYI RGYAL MTSAN DPAL BZANG PO'I GSUNG NYE BAR MKHO BA 'GA' ZHIG",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
-            "timestamp": "2024-11-20 05:20:08.875232+00:00"
+            "timestamp": "2024-11-26 23:41:15.240785+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:20:08.875232+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:41:15.240785+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

@@ -6,13 +6,13 @@
     "revision_id": "625a48b1ea21d8d294473",
     "content_hash": "07406b58ded4621c130c5dc83e7b738c8cbe49829e876e6b469c74e8dc565d9a",
     "server_modified": "2024-10-29 21:48:19",
-    "last_sync": "2024-11-19 21:00:01.361094",
+    "last_sync": "2024-11-26 15:27:19.497948",
     "size": 8655,
-    "meta_text": "('of Ghantapada_LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN (1642-1714)', 'rtf')",
+    "meta_text": "of Ghantapada_LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN (1642-1714)",
     "cat_ref": "S00162E",
     "work_ref": "W.S00162E",
     "title_tib": "DPAL 'KHOR LO SDOM PA BDE MCHOG DRIL BU PA'I LUS DKYIL GYI SMON LAM",
-    "title_eng": "Prayer for the Practice of the Secret World of the Body in the Teachings of the Union of the Spheres (Chakrasamvara) and Highest Bliss (Sambara), according to the Tradition('of Ghantapada",
+    "title_eng": "Prayer for the Practice of the Secret World of the Body in the Teachings of the Union of the Spheres (Chakrasamvara) and Highest Bliss (Sambara), according to the Traditionof Ghantapada",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'KHOR LO SDOM PA_UNION OF THE SPHERES (CHAKRASANVARA)/LUS DKYIL_SECRET WORLD OF THE BODY",
-            "timestamp": "2024-11-20 05:00:06.087179+00:00"
+            "timestamp": "2024-11-26 23:27:22.965311+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:00:06.087179+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:27:22.965311+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

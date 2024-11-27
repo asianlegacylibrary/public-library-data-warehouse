@@ -6,9 +6,9 @@
     "revision_id": "625a4a9dc0c728d294473",
     "content_hash": "e84e7779c77973320f969ec2f516287c742b6ee1e5cbc06e736c1af1bdaba854",
     "server_modified": "2024-10-29 21:56:54",
-    "last_sync": "2024-11-19 21:20:19.045167",
+    "last_sync": "2024-11-26 15:41:22.533409",
     "size": 47673,
-    "meta_text": "(\"ON MCHOG BSTAN PA'I SGRON ME (1762-1823)\", 'rtf')",
+    "meta_text": "ON MCHOG BSTAN PA'I SGRON ME (1762-1823)",
     "cat_ref": "S00947E",
     "work_ref": "W.S00947E",
     "title_tib": "TSE GCIG GI NYAMS LEN BYA TSUL RNAMS KHRIG CHAGS SU BSDEBS PA CHOS SPYOD GSAL BA'I SGRON",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME_GUNGTANG KONCHOK TENPAY DRUNME (1762-1823)",
-            "timestamp": "2024-11-20 05:20:19.660371+00:00"
+            "timestamp": "2024-11-26 23:41:23.490358+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:20:19.660371+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:41:23.490358+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

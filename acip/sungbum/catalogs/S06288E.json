@@ -6,13 +6,13 @@
     "revision_id": "625a487180f448d294473",
     "content_hash": "b21dbfa80537950356fac0aa5375c62001ed2e305c6292064da5c0dd425d4452",
     "server_modified": "2024-10-29 21:47:11",
-    "last_sync": "2024-11-19 20:56:13.166270",
+    "last_sync": "2024-11-26 15:24:33.603215",
     "size": 3681,
-    "meta_text": "('White Form of the Angel named Highest Bliss (Situ Sambara)_DNGUL CHU DHARMA BHADRA_(1772-1851)', 'rtf')",
+    "meta_text": "White Form of the Angel named Highest Bliss (Situ Sambara)_DNGUL CHU DHARMA BHADRA_(1772-1851)",
     "cat_ref": "S06288E",
     "work_ref": "W.S06288E",
     "title_tib": "BDE MCHOG DKAR PO'I SGO NAS RDZOGS RIM LA BRTEN PA'I TSE BSRING TSUL 'CHI MED SROG GI DPAL STER",
-    "title_eng": "The 'Goldmine of Life over Death,' being a Ritual for Lengthening One's Life by Practicing the Stage of Completion throught the Teachings of the('White Form of the Angel named Highest Bliss (Situ Sambara)(1772-1851)', 'rtf')",
+    "title_eng": "The 'Goldmine of Life over Death,' being a Ritual for Lengthening One's Life by Practicing the Stage of Completion throught the Teachings of theWhite Form of the Angel named Highest Bliss (Situ Sambara)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/RDZOGS RIM_COMPLETION STAGE (SAMPANNA KRAMA)",
-            "timestamp": "2024-11-20 04:56:14.677342+00:00"
+            "timestamp": "2024-11-26 23:24:34.446866+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:56:14.677342+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:24:34.446866+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

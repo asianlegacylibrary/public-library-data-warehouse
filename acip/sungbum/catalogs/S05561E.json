@@ -6,9 +6,9 @@
     "revision_id": "625a4986142a58d294473",
     "content_hash": "256dd027e19c7b65a38df81350084cdd2bc5bde2cce6b144b2341a6c97d545df",
     "server_modified": "2024-10-29 21:52:01",
-    "last_sync": "2024-11-19 21:09:47.238622",
+    "last_sync": "2024-11-26 15:34:04.422596",
     "size": 12031,
-    "meta_text": "('MTSO (1476-1542)', 'text')",
+    "meta_text": "MTSO (1476-1542)",
     "cat_ref": "S05561E",
     "work_ref": "W.S05561E",
     "title_tib": "RJE BTZUN THAMS CAD MKHYEN PA'I GSUNG 'BUM THOR BU LAS GNAS BRTAN PHYAG MCHOD",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GNAS BRTAN BCU DRUG_SIXTEEN ELDERS/PHYAG MCHOD_OFFERINGS AND PROSTRATIONS",
-            "timestamp": "2024-11-20 05:09:47.248254+00:00"
+            "timestamp": "2024-11-26 23:34:04.434480+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:09:47.248254+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:34:04.434480+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

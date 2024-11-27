@@ -6,7 +6,7 @@
     "revision_id": "625a4a9f0080e8d294473",
     "content_hash": "19b5acf56db9c66dff174da9bb1f4d70f61e2edeb41f3b34c1f2045036fde89b",
     "server_modified": "2024-10-29 21:56:56",
-    "last_sync": "2024-11-19 21:20:28.719829",
+    "last_sync": "2024-11-26 15:41:29.034204",
     "size": 6592,
     "meta_text": null,
     "cat_ref": "S05275M1",
@@ -41,23 +41,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/GSOL 'DEBS_PRAYERS OF SUPPLICATION/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
-            "timestamp": "2024-11-20 05:20:28.730746+00:00"
+            "timestamp": "2024-11-26 23:41:29.047781+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/GSOL 'DEBS_PRAYERS OF SUPPLICATION/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
-            "timestamp": "2024-11-20 05:21:15.472880+00:00"
+            "timestamp": "2024-11-26 23:42:04.592775+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:20:28.730746+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:41:29.047781+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:21:15.472880+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:42:04.592775+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

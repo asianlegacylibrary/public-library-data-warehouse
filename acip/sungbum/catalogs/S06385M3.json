@@ -6,7 +6,7 @@
     "revision_id": "625a47c6c261d8d294473",
     "content_hash": "83c107e5d3ef8dc65dd195821b7a5ea8d556014b81e57454c2bc5121f5a3fc69",
     "server_modified": "2024-10-29 21:44:12",
-    "last_sync": "2024-11-19 20:50:10.765144",
+    "last_sync": "2024-11-26 15:20:37.626418",
     "size": 372,
     "meta_text": null,
     "cat_ref": "S06385M3",
@@ -49,33 +49,33 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/BSTOD PA_EULOGIES (STOTRA)/NGAG DBANG RDO RJE_NGAWANG DORJE",
-            "timestamp": "2024-11-20 04:50:10.768697+00:00"
+            "timestamp": "2024-11-26 23:20:37.630750+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/GSOL 'DEBS_PRAYERS OF SUPPLICATION/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 05:20:57.431754+00:00"
+            "timestamp": "2024-11-26 23:41:51.437737+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/GSOL 'DEBS_PRAYERS OF SUPPLICATION/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 05:21:15.478450+00:00"
+            "timestamp": "2024-11-26 23:42:04.602359+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:50:10.768697+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:20:37.630750+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:20:57.431754+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:41:51.437737+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         },
         {
-            "timestamp": "2024-11-20T05:21:15.478450+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:42:04.602359+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

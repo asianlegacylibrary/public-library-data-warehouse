@@ -6,7 +6,7 @@
     "revision_id": "625a47d627fd88d294473",
     "content_hash": "847351e43675dd1d59519ee0a60a6e6bb7783cf3e99a99f160bf044771693700",
     "server_modified": "2024-10-29 21:44:28",
-    "last_sync": "2024-11-19 20:51:28.261496",
+    "last_sync": "2024-11-26 15:21:23.588975",
     "size": 38229,
     "meta_text": null,
     "cat_ref": "S12156E",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/GCIG DU BRAL_REFUTATION OF ONE OR MANY",
-            "timestamp": "2024-11-20 04:51:28.269031+00:00"
+            "timestamp": "2024-11-26 23:21:23.595651+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:51:28.269031+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:21:23.595651+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

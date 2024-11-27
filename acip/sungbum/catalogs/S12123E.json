@@ -6,13 +6,13 @@
     "revision_id": "625a498e22e3b8d294473",
     "content_hash": "54308e55a525a455d1357600a1d1981837f19b37c9922bc0e4bcb5c20404332a",
     "server_modified": "2024-10-29 21:52:10",
-    "last_sync": "2024-11-19 21:11:54.313360",
+    "last_sync": "2024-11-26 15:35:32.535310",
     "size": 36554,
-    "meta_text": "(\"d in the Collected Works of the Omniscient One, the Great Jamyang Shepay Dorje_’JAM DBYANGS BZHAD PA'I RDO RJE (1648-1721)\", 'rtf')",
+    "meta_text": "d in the Collected Works of the Omniscient One, the Great Jamyang Shepay Dorje_’JAM DBYANGS BZHAD PA'I RDO RJE (1648-1721)",
     "cat_ref": "S12123E",
     "work_ref": "W.S12123E",
     "title_tib": "KUN MKHYEN CHEN PO 'JAM DBYANGS BZHAD PA'I RDO RJE'I GSUNG 'BUM THOR BU KHRIG CHAGS SU BSDEBS PA LAS DO HA MDZOD KYI MCHAN 'GREL",
-    "title_eng": "A Commentary, in the form of Annotations, upon the 'Treasure of Song,' from a Compendium of Various Writings fou(\"d in the Collected Works of the Omniscient One, the Great Jamyang Shepay Dorje",
+    "title_eng": "A Commentary, in the form of Annotations, upon the 'Treasure of Song,' from a Compendium of Various Writings foud in the Collected Works of the Omniscient One, the Great Jamyang Shepay Dorje",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DO HA_SECRET SONG (DOHA)",
-            "timestamp": "2024-11-20 05:11:54.318535+00:00"
+            "timestamp": "2024-11-26 23:35:32.543386+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:11:54.318535+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:35:32.543386+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

@@ -6,13 +6,13 @@
     "revision_id": "625a49ca5d5648d294473",
     "content_hash": "33316af028d5af1cb72dc8d59d2ace5936bf059cb3d65c08ae3ef0d12e45f593",
     "server_modified": "2024-10-29 21:53:13",
-    "last_sync": "2024-11-19 21:13:09.662203",
+    "last_sync": "2024-11-26 15:36:23.426512",
     "size": 132023,
-    "meta_text": "('mp which Clarifies the Real Meaning,’ being a Versed Summary on Buddhist Discipline (by Geshe Kelsang Namgyal); along with (2) a Versed Summary on the Five Groups of Downfalls from the Sutra on the Vows of Individual Freedom for Males (by the ‘Spiritual Father’), as well as (3) a Versed Summary on the Rules for a Fully-Ordained Monk_DGE BSHES SKAL BZANG RNAM RGYAL; @; PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)', 'text')",
+    "meta_text": "mp which Clarifies the Real Meaning,’ being a Versed Summary on Buddhist Discipline (by Geshe Kelsang Namgyal); along with (2) a Versed Summary on the Five Groups of Downfalls from the Sutra on the Vows of Individual Freedom for Males (by the ‘Spiritual Father’), as well as (3) a Versed Summary on the Rules for a Fully-Ordained Monk_DGE BSHES SKAL BZANG RNAM RGYAL; @; PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)",
     "cat_ref": "S00206I",
     "work_ref": "W.S00206I",
     "title_tib": "'A La",
-    "title_eng": "('mp which Clarifies the Real Meaning,’ being a Versed Summary on Buddhist Discipline (by Geshe Kelsang Namgyal); along with (2) a Versed Summary on the Five Groups of Downfalls from the Sutra on the Vows of Individual Freedom for Males (by the ‘Spiritual Father’), as well as (3) a Versed Summary on the Rules for a Fully-Ordained Monk",
+    "title_eng": "mp which Clarifies the Real Meaning,’ being a Versed Summary on Buddhist Discipline (by Geshe Kelsang Namgyal); along with (2) a Versed Summary on the Five Groups of Downfalls from the Sutra on the Vows of Individual Freedom for Males (by the ‘Spiritual Father’), as well as (3) a Versed Summary on the Rules for a Fully-Ordained Monk",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -57,33 +57,33 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/DGE BSHES SKAL BZANG RNAM RGYAL_GESHE KELSANG NAMGYAL",
-            "timestamp": "2024-11-20 05:13:09.666713+00:00"
+            "timestamp": "2024-11-26 23:36:23.434770+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
-            "timestamp": "2024-11-20 05:13:21.066537+00:00"
+            "timestamp": "2024-11-26 23:36:30.756723+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/MTSAN MI GSAL_UNKNOWN",
-            "timestamp": "2024-11-20 05:13:31.804546+00:00"
+            "timestamp": "2024-11-26 23:36:37.836257+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:13:09.666713+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:36:23.434770+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:13:21.066537+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:36:30.756723+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         },
         {
-            "timestamp": "2024-11-20T05:13:31.804546+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:36:37.836257+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

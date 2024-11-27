@@ -6,13 +6,13 @@
     "revision_id": "625a4abe2ceed8d294473",
     "content_hash": "f23f6d5cfaa98c8115080cf7f298429b15a9a6704177c0b38afb7487e279d717",
     "server_modified": "2024-10-29 21:57:28",
-    "last_sync": "2024-11-19 21:22:15.318003",
+    "last_sync": "2024-11-26 15:42:41.198741",
     "size": 17731,
-    "meta_text": "('ishes_PAN CHEN BLA MA SKU PHRENG GSUM PA DPAL LDAN YE SHES (1738-1780)', 'rtf')",
+    "meta_text": "ishes_PAN CHEN BLA MA SKU PHRENG GSUM PA DPAL LDAN YE SHES (1738-1780)",
     "cat_ref": "S12235E",
     "work_ref": "W.S12235E",
     "title_tib": "'DOD LHA SNA TSOGS LA BRTEN PA'I SDIG LTUNG BSHAGS BSDAMS BYA TSUL GYI SKOR",
-    "title_eng": "Instructions for Performing the Confession of Negative Deeds, and the Resolution to Restrain Oneself from them in the Future, by Working with a Variety of Gods and W('ishes",
+    "title_eng": "Instructions for Performing the Confession of Negative Deeds, and the Resolution to Restrain Oneself from them in the Future, by Working with a Variety of Gods and Wishes",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BSHAGS PA_CONFESSION/PAN CHEN BLA MA SKU PHRENG GSUM PA DPAL LDAN YE SHES_PANCHEN LAMA KUTRENG SUMPA PELDEN YESHE (1738-1780)",
-            "timestamp": "2024-11-20 05:22:15.323415+00:00"
+            "timestamp": "2024-11-26 23:42:41.207386+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:22:15.323415+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:42:41.207386+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

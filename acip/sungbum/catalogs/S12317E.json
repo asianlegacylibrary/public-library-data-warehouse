@@ -6,13 +6,13 @@
     "revision_id": "625a48893f6ab8d294473",
     "content_hash": "093213f57e31d45b65cd64b3165a62ed3e4aca31fc7f13da6075b39f8e6e002e",
     "server_modified": "2024-10-29 21:47:36",
-    "last_sync": "2024-11-19 20:57:36.858282",
+    "last_sync": "2024-11-26 15:25:34.613670",
     "size": 19747,
-    "meta_text": "(\"Lady, Kurukulla, in a Secret Rite_LCANG LUNG AARYA PAndI TA NGAG DBANG BLO BZANG BSTAN PA'I RGYAL MTSAN (1770-1845)\", 'rtf')",
+    "meta_text": "Lady, Kurukulla, in a Secret Rite_LCANG LUNG AARYA PAndI TA NGAG DBANG BLO BZANG BSTAN PA'I RGYAL MTSAN (1770-1845)",
     "cat_ref": "S12317E",
     "work_ref": "W.S12317E",
     "title_tib": "RJE BTZUN MA KU RU KU LLE GSANG SGRUB LHA LNGA'I SGRUB THABS KHAMS GSUM DBANG DU SDUD PA'I YE SHES LCAGS KYU",
-    "title_eng": "The Hook of Wisdom, for Bringing the Three Realms under your Control-- a Ritual for Reaching the Five Angels of the High and Holy(\"Lady, Kurukulla, in a Secret Rite",
+    "title_eng": "The Hook of Wisdom, for Bringing the Three Realms under your Control-- a Ritual for Reaching the Five Angels of the High and HolyLady, Kurukulla, in a Secret Rite",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/KU RU KUL LE_KURUKULLE (KURUKULLE)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "timestamp": "2024-11-20 04:57:36.864759+00:00"
+            "timestamp": "2024-11-26 23:25:34.622433+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:57:36.864759+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:25:34.622433+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

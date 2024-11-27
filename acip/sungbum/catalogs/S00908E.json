@@ -6,9 +6,9 @@
     "revision_id": "625a47975433b8d294473",
     "content_hash": "65d7d187c3f87b97646b4eed55aa794efbe23c0aca1f079e92129f94c5f70555",
     "server_modified": "2024-10-29 21:43:22",
-    "last_sync": "2024-11-19 20:47:45.063614",
+    "last_sync": "2024-11-26 15:19:00.851657",
     "size": 296718,
-    "meta_text": "(\"DKON MCHOG BSTAN PA'I SGRON ME (1762-1823)\", 'rtf')",
+    "meta_text": "DKON MCHOG BSTAN PA'I SGRON ME (1762-1823)",
     "cat_ref": "S00908E",
     "work_ref": "W.S00908E",
     "title_tib": "PHAR PHYIN SKABS DANG PO'I MTHA' DPYOD KYI MCHAN 'GREL RTZOM 'PHRO",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/SPYI_GENERAL COMMENTARIES/GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME_GUNGTANG KONCHOK TENPAY DRUNME (1762-1823)",
-            "timestamp": "2024-11-20 04:47:45.701718+00:00"
+            "timestamp": "2024-11-26 23:19:01.377111+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:47:45.701718+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:19:01.377111+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

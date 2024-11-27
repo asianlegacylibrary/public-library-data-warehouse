@@ -6,7 +6,7 @@
     "revision_id": "625a495f45afa8d294473",
     "content_hash": "ee0026f0a114729fa4a4a605fa1bc9f839b5fc685d0e87248b9ab9f94dc098b7",
     "server_modified": "2024-10-29 21:51:20",
-    "last_sync": "2024-11-19 21:07:45.496530",
+    "last_sync": "2024-11-26 15:32:40.453477",
     "size": 107885,
     "meta_text": null,
     "cat_ref": "S05288E",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/BSKYED RIM_CREATION STAGE (UTPATTI KRAMA)",
-            "timestamp": "2024-11-20 05:07:45.501021+00:00"
+            "timestamp": "2024-11-26 23:32:40.463723+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:07:45.501021+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:32:40.463723+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

@@ -6,9 +6,9 @@
     "revision_id": "625a47a005a2b8d294473",
     "content_hash": "667bf34455756b5d29cbd5119ad2dee36bb4340215532f996c867b873a425ba0",
     "server_modified": "2024-10-29 21:43:31",
-    "last_sync": "2024-11-19 20:48:18.350846",
+    "last_sync": "2024-11-26 15:19:23.114564",
     "size": 41743,
-    "meta_text": "(\"ZON 'GRUS (1648-1721)\", 'rtf')",
+    "meta_text": "ZON 'GRUS (1648-1721)",
     "cat_ref": "S19026",
     "work_ref": "W.S19026",
     "title_tib": "BDEN BZHI'I RNAM BSHAD 'KHRUL BRAL LUNG RIGS KYI NYI MA CHEN PO BI DZA HA RA",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/BDEN BZHI_THE FOUR TRUTHS",
-            "timestamp": "2024-11-20 04:48:18.355559+00:00"
+            "timestamp": "2024-11-26 23:19:23.122025+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:48:18.355559+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:19:23.122025+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

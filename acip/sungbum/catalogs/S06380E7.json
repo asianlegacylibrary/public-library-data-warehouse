@@ -6,9 +6,9 @@
     "revision_id": "625a4979708998d294473",
     "content_hash": "44126afc6095632c65548f92751e46796baee10eac22910cd990f92951e54294",
     "server_modified": "2024-10-29 21:51:48",
-    "last_sync": "2024-11-19 21:08:54.554316",
+    "last_sync": "2024-11-26 15:33:27.138661",
     "size": 5414,
-    "meta_text": "('DRA (1772-1851)', 'rtf')",
+    "meta_text": "DRA (1772-1851)",
     "cat_ref": "S06380E7",
     "work_ref": "W.S06380E7",
     "title_tib": "RGYAL CHEN RNAM SRAS KYI BSGOM BZLAS GTOR 'BUL MDOR BSDUS",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RNAM THOS SRAS_PRINCE OF LEARNING (VAISHRAVANA)/BSGOM BZLAS_MEDITATION AND RECITATION UPON THE ANGEL",
-            "timestamp": "2024-11-20 05:08:54.559976+00:00"
+            "timestamp": "2024-11-26 23:33:27.146951+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RNAM THOS SRAS_PRINCE OF LEARNING (VAISHRAVANA)/GTOR MA_OFFERING CAKE (BALI)",
-            "timestamp": "2024-11-20 05:08:57.233418+00:00"
+            "timestamp": "2024-11-26 23:33:29.368047+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:08:54.559976+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:33:27.146951+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:08:57.233418+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:33:29.368047+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

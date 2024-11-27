@@ -6,13 +6,13 @@
     "revision_id": "625a4a9128b558d294473",
     "content_hash": "63492f89711c6dff352814d07edfd2cd4eb61c3a02af4ea2a2bfc91fc65be1c0",
     "server_modified": "2024-10-29 21:56:41",
-    "last_sync": "2024-11-19 21:19:54.493807",
+    "last_sync": "2024-11-26 15:41:04.218264",
     "size": 1097,
-    "meta_text": "('a_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)', 'rtf')",
+    "meta_text": "a_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)",
     "cat_ref": "S05275MA2",
     "work_ref": "W.S05275MA2",
     "title_tib": "RGYA MA KHRI DPON CHEN PO RIN CHEN RGYAL MTSAN PAS RGYA MAR 'ONG DGOS ZHES YANG YANG BSKUL BA'I DON DU SBYAR BA",
-    "title_eng": "Letter composed in Response to Repeated and Urgent Requests by the Great Official of Gyama, Rinchen Gyeltsen, to Come to Chin('a",
+    "title_eng": "Letter composed in Response to Repeated and Urgent Requests by the Great Official of Gyama, Rinchen Gyeltsen, to Come to China",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
-            "timestamp": "2024-11-20 05:19:54.512130+00:00"
+            "timestamp": "2024-11-26 23:41:04.241810+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:19:54.512130+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:41:04.241810+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

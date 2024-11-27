@@ -6,7 +6,7 @@
     "revision_id": "625a480f155ff8d294473",
     "content_hash": "be00251392872fce5edc2846820356c825b3dc7bb5c8471496bca87ae1355631",
     "server_modified": "2024-10-29 21:45:28",
-    "last_sync": "2024-11-19 20:53:27.802495",
+    "last_sync": "2024-11-26 15:22:43.296087",
     "size": 2372,
     "meta_text": null,
     "cat_ref": "S06370MP4",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 04:54:07.131596+00:00"
+            "timestamp": "2024-11-26 23:23:11.584081+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/LAM RIM CHEN MO_GREAT BOOK ON THE STEPS OF THE PATH/'GREL PA_COMMENTARIES",
-            "timestamp": "2024-11-20 05:17:06.835083+00:00"
+            "timestamp": "2024-11-26 23:39:04.856282+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:07.131596+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:11.584081+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:17:06.835083+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:39:04.856282+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

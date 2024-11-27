@@ -6,9 +6,9 @@
     "revision_id": "625a4acd38a538d294473",
     "content_hash": "70fe383b8d5fea4efb69923fefce58509c7a9f395da1d4fc7f71d2effde5ac3c",
     "server_modified": "2024-10-29 21:57:44",
-    "last_sync": "2024-11-19 21:23:13.481331",
+    "last_sync": "2024-11-26 15:43:14.188124",
     "size": 43742,
-    "meta_text": "('(1476-1542)', 'text')",
+    "meta_text": "(1476-1542)",
     "cat_ref": "S05576E",
     "work_ref": "W.S05576E",
     "title_tib": "RJE BTZUN THAMS CAD MKHYEN PA'I GSUNG 'BUM THOR BU LAS SMON LAM BDUN CU PA'I t'I KA",
@@ -28,7 +28,7 @@
         }
     ],
     "items": [],
-    "null": "('(1476-1542)', 'text')",
+    "null": "(1476-1542)",
     "author": [
         {
             "author_name": "",
@@ -39,13 +39,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/RGYAL BA DGE 'DUN RGYA MTSO_GYALWA GENDUN GYATSO (1476-1542)",
-            "timestamp": "2024-11-20 05:23:13.490605+00:00"
+            "timestamp": "2024-11-26 23:43:14.200874+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:23:13.490605+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:43:14.200874+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

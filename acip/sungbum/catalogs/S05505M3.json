@@ -6,13 +6,13 @@
     "revision_id": "625a47b0634958d294473",
     "content_hash": "130bbf8063da4379c8263013a04c4eea94547b8fc553c0dffdb59cc1d0e67ca1",
     "server_modified": "2024-10-29 21:43:49",
-    "last_sync": "2024-11-19 20:48:55.374984",
+    "last_sync": "2024-11-26 15:19:48.983275",
     "size": 603666,
-    "meta_text": "('ed Commentary upon Valid Perception’_MKHAS GRUB RJE DGE LEGS DPAL BZANG PO (1385-1438)', 'rtf')",
+    "meta_text": "ed Commentary upon Valid Perception’_MKHAS GRUB RJE DGE LEGS DPAL BZANG PO (1385-1438)",
     "cat_ref": "S05505M3",
     "work_ref": "W.S05505M3",
     "title_tib": "RGYAS PA'I BSTAN BCOS TSAD MA RNAM 'GREL GYI RGYA CHER BSHAD PA RIGS PA'I RGYA MTSO LAS MNGON SUM LE'U'I RNAM BSHAD",
-    "title_eng": "'The Explication of the Chapter on Direct Perception,' from 'The Ocean of Reasoning,' an Extensive Commentary to 'The Detail('ed Commentary upon Valid Perception’",
+    "title_eng": "'The Explication of the Chapter on Direct Perception,' from 'The Ocean of Reasoning,' an Extensive Commentary to 'The Detailed Commentary upon Valid Perception’",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/TSAD MA RNAM 'GREL (PRAMANA VARTIKA)_A COMMENTARY ON ACCURATE PERCEPTION/MKHAS GRUB RJE DGE LEGS DPAL BZANG PO_KEDRUP JE GELEK PEL SANGPO (1385-1438)",
-            "timestamp": "2024-11-20 04:48:55.380617+00:00"
+            "timestamp": "2024-11-26 23:19:48.990933+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:48:55.380617+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:19:48.990933+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

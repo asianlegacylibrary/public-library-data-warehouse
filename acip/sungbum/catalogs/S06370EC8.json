@@ -6,7 +6,7 @@
     "revision_id": "625a4828621b28d294473",
     "content_hash": "4f96f999a710c2f4a1025814cc457b8cedecce1bad1d82eb0e9f887b00ca4e4a",
     "server_modified": "2024-10-29 21:45:54",
-    "last_sync": "2024-11-19 20:53:47.676476",
+    "last_sync": "2024-11-26 15:22:56.814690",
     "size": 976,
     "meta_text": null,
     "cat_ref": "S06370EC8",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 04:54:07.136888+00:00"
+            "timestamp": "2024-11-26 23:23:11.590398+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/MKHA' 'GRO SDE LNGA_FIVE GROUPS OF ANGELS/'GREL PA_COMMENTARIES",
-            "timestamp": "2024-11-20 05:00:40.432691+00:00"
+            "timestamp": "2024-11-26 23:27:48.030261+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:07.136888+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:11.590398+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:00:40.432691+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:27:48.030261+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

@@ -6,13 +6,13 @@
     "revision_id": "625a48c8f405b8d294473",
     "content_hash": "7dbc510222fb1fc3dbc37c17505745a3b648ab617a475ba13057c287a9cb9009",
     "server_modified": "2024-10-29 21:48:43",
-    "last_sync": "2024-11-19 21:01:18.679571",
+    "last_sync": "2024-11-26 15:28:11.991361",
     "size": 42351,
-    "meta_text": "('from the Secret World of the Nine Angels of Unshakeable Diamond (Akshobhya Vajra)_RGYAL BA NGAG DBANG BLO BZANG RGYA MTSO (1617-1682)', 'text')",
+    "meta_text": "from the Secret World of the Nine Angels of Unshakeable Diamond (Akshobhya Vajra)_RGYAL BA NGAG DBANG BLO BZANG RGYA MTSO (1617-1682)",
     "cat_ref": "S05617",
     "work_ref": "W.S05617",
     "title_tib": "RDO RJE MI 'KHRUG PA LHA DGU'I DKYIL 'KHOR GYI CHO GA NGAN SONG TSA GDUNG KUN SEL GA BUR GSAR PA'I CHU RGYUN",
-    "title_eng": "\"A River of Fresh Camphor,\" A Ritual to Extinguish the Tormenting Fires of the Lower Realms, from the Secret World of the Nine Angels('from the Secret World of the Nine Angels of Unshakeable Diamond (Akshobhya Vajra)",
+    "title_eng": "\"A River of Fresh Camphor,\" A Ritual to Extinguish the Tormenting Fires of the Lower Realms, from the Secret World of the Nine Angelsfrom the Secret World of the Nine Angels of Unshakeable Diamond (Akshobhya Vajra)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -38,13 +38,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE MI 'KHRUGS PA_UNSHAKABLE DIAMOND (AKSHOBYAVAJRA)/LHA DGU_NINE ANGELS",
-            "timestamp": "2024-11-20 05:01:18.684395+00:00"
+            "timestamp": "2024-11-26 23:28:11.996522+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:01:18.684395+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:28:11.996522+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

@@ -6,9 +6,9 @@
     "revision_id": "625a483e06ee48d294473",
     "content_hash": "a50989aad07661666a904b5027ba092e9d9b9eb2bb8da9fd72ed35ab0aa13dba",
     "server_modified": "2024-10-29 21:46:17",
-    "last_sync": "2024-11-19 20:54:02.400954",
+    "last_sync": "2024-11-26 15:23:07.995748",
     "size": 3898,
-    "meta_text": "('A (1772-1851)', 'rtf')",
+    "meta_text": "A (1772-1851)",
     "cat_ref": "S06370E83",
     "work_ref": "W.S06370E83",
     "title_tib": "RDO RJE 'JIGS BYED DANG 'JAM DBYANGS DKAR PO ZHI KHRO SBRAGS BSGRUB BYA TSUL",
@@ -57,33 +57,33 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 04:54:07.141621+00:00"
+            "timestamp": "2024-11-26 23:23:11.595907+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JAM DBYANGS_GENTLE VOICE (MANJUGHOSHA, MANJUSHRI)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "timestamp": "2024-11-20 05:01:53.851153+00:00"
+            "timestamp": "2024-11-26 23:28:35.815082+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "timestamp": "2024-11-20 05:10:39.238439+00:00"
+            "timestamp": "2024-11-26 23:34:41.980309+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:07.141621+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:11.595907+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:01:53.851153+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:28:35.815082+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         },
         {
-            "timestamp": "2024-11-20T05:10:39.238439+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:34:41.980309+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

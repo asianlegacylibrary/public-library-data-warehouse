@@ -6,9 +6,9 @@
     "revision_id": "625a49908aadf8d294473",
     "content_hash": "053603fa10389f6a2e053ee07e98491deb1e5f9f8698ca8425a0ad4493ca148e",
     "server_modified": "2024-10-29 21:52:12",
-    "last_sync": "2024-11-19 21:10:34.680220",
+    "last_sync": "2024-11-26 15:34:39.011060",
     "size": 46685,
-    "meta_text": "('DBANG BLO BZANG RGYA MTSO (1617-1682)', 'text')",
+    "meta_text": "DBANG BLO BZANG RGYA MTSO (1617-1682)",
     "cat_ref": "S05606",
     "work_ref": "W.S05606",
     "title_tib": "JAM DPAL GSHIN RJE'I GSHED DMAR PO LHA LNGA'I SGRUB THABS 'JAM DPAL DGYES PA'I ZHAL LUNG",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "timestamp": "2024-11-20 05:10:39.237408+00:00"
+            "timestamp": "2024-11-26 23:34:41.978386+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:10:39.237408+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:34:41.978386+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

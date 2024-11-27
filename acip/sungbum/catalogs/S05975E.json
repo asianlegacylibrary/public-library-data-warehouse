@@ -6,13 +6,13 @@
     "revision_id": "625a48ee29a598d294473",
     "content_hash": "a20088189a1c82dc9e1a81530fcb2539e27e45e3ce46a4057cbb9bef53d36291",
     "server_modified": "2024-10-29 21:49:22",
-    "last_sync": "2024-11-19 21:03:18.974512",
+    "last_sync": "2024-11-26 15:29:35.436525",
     "size": 5287,
-    "meta_text": "('red Works of the Buddhist Monk and Dharma Teacher, Lobsang Chukyi Gyeltsen_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)', 'rtf')",
+    "meta_text": "red Works of the Buddhist Monk and Dharma Teacher, Lobsang Chukyi Gyeltsen_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)",
     "cat_ref": "S05975E",
     "work_ref": "W.S05975E",
     "title_tib": "DGE SLONG CHOS SMRA BA BLO BZANG CHOS KYI RGYAL MTSAN GYI NGAG THOR BU BA PHYOGS GCIG TU SGRIGS PA LAS TSA BSUR YID LA 'DOD 'JO",
-    "title_eng": "The 'Cow that Gives the Wishes of Your Heart,' being the Section on Tsasur Offerings from a Compilation of Scatte('red Works of the Buddhist Monk and Dharma Teacher, Lobsang Chukyi Gyeltsen",
+    "title_eng": "The 'Cow that Gives the Wishes of Your Heart,' being the Section on Tsasur Offerings from a Compilation of Scattered Works of the Buddhist Monk and Dharma Teacher, Lobsang Chukyi Gyeltsen",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/TSA BSUR_TSASUR OFFERINGS",
-            "timestamp": "2024-11-20 05:03:19.551302+00:00"
+            "timestamp": "2024-11-26 23:29:35.931962+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:03:19.551302+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:29:35.931962+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

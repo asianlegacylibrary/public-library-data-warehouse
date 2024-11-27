@@ -6,9 +6,9 @@
     "revision_id": "625a4872a2b4f8d294473",
     "content_hash": "f21058798694421dee6c323cc99414a287b010e78048bf03454ce6c75720e7dd",
     "server_modified": "2024-10-29 21:47:12",
-    "last_sync": "2024-11-19 20:56:16.552327",
+    "last_sync": "2024-11-26 15:24:35.674551",
     "size": 7864,
-    "meta_text": "('OS LDAN (1642-1714)', 'rtf')",
+    "meta_text": "OS LDAN (1642-1714)",
     "cat_ref": "S00105E",
     "work_ref": "W.S00105E",
     "title_tib": "BDE MCHOG GI RGYAS PA DANG DBANG GI SBYIN SREG BYA TSUL MDOR BSDUS",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/SBYIN SREG_FIRE OFFERING (HOMA)",
-            "timestamp": "2024-11-20 04:56:18.709220+00:00"
+            "timestamp": "2024-11-26 23:24:36.912047+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:56:18.709220+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:24:36.912047+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

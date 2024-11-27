@@ -6,7 +6,7 @@
     "revision_id": "625a484ed08c78d294473",
     "content_hash": "aeb118cd4ad9a0b1bebd064391aa8f76fb6af89148e7584cce6e33148f24ac2c",
     "server_modified": "2024-10-29 21:46:35",
-    "last_sync": "2024-11-19 20:54:32.189536",
+    "last_sync": "2024-11-26 15:23:27.448965",
     "size": 81672,
     "meta_text": null,
     "cat_ref": "S19034E",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/CHOS 'BYUNG_RELIGIOUS HISTORIES/'JAM DBYANGS BZHAD PA'I RDO RJE'I CHOS 'BYUNG_RELIGOUS HISTORY BY JAMYANG SHEPAY DORJE",
-            "timestamp": "2024-11-20 04:54:32.866761+00:00"
+            "timestamp": "2024-11-26 23:23:27.783753+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:32.866761+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:27.783753+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

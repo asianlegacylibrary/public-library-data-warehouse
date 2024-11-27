@@ -6,7 +6,7 @@
     "revision_id": "625a49471b6a78d294473",
     "content_hash": "1bf84fdfaebf21ff2fbe2819f6e238014388548be0b3630b105e5ced22287c03",
     "server_modified": "2024-10-29 21:50:55",
-    "last_sync": "2024-11-19 21:06:51.197143",
+    "last_sync": "2024-11-26 15:32:01.375619",
     "size": 25788,
     "meta_text": null,
     "cat_ref": "S0342E-2",
@@ -38,13 +38,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/MCHOD PA_OFFERING",
-            "timestamp": "2024-11-20 05:06:53.572614+00:00"
+            "timestamp": "2024-11-26 23:32:02.670532+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:06:53.572614+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:32:02.670532+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

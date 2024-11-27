@@ -6,9 +6,9 @@
     "revision_id": "625a4944b9d638d294473",
     "content_hash": "3176418d5bef54ddc2df51ab6b5e5c5a486e59d5a1751e85b6cfbba438b65f6d",
     "server_modified": "2024-10-29 21:50:53",
-    "last_sync": "2024-11-19 21:06:43.424790",
+    "last_sync": "2024-11-26 15:31:55.594243",
     "size": 41179,
-    "meta_text": "('NG PO (1878-1941)', 'rtf')",
+    "meta_text": "NG PO (1878-1941)",
     "cat_ref": "S00327E",
     "work_ref": "W.S00327E",
     "title_tib": "'DUS PA 'PHAGS LUGS KYI SGRUB THABS MDOR BSDUS MCHOG GI DGA' STON",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "timestamp": "2024-11-20 05:06:44.636047+00:00"
+            "timestamp": "2024-11-26 23:31:57.209780+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:06:44.636047+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:31:57.209780+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

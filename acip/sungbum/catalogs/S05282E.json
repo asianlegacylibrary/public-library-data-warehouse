@@ -6,13 +6,13 @@
     "revision_id": "625a495bdc2868d294473",
     "content_hash": "040d8e8b3e9d7d0797349b152b7371c6b0feb6a4d5a807e0ca62344630abfed2",
     "server_modified": "2024-10-29 21:51:17",
-    "last_sync": "2024-11-19 21:07:30.276629",
+    "last_sync": "2024-11-26 15:32:29.068639",
     "size": 1490340,
-    "meta_text": "('The Lamp of Illumination,’ an Extensive Commentary upon the King of All Secret Teachings, the Glorious Secret Collection (Guhyasamaja)_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)', 'rtf')",
+    "meta_text": "The Lamp of Illumination,’ an Extensive Commentary upon the King of All Secret Teachings, the Glorious Secret Collection (Guhyasamaja)_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)",
     "cat_ref": "S05282E",
     "work_ref": "W.S05282E",
     "title_tib": "RGYUD THAMS CAD KYI RGYAL PO DPAL GSANG BA 'DUS PA'I RGYA CHER BSHAD PA SGRON MA GSAL BA'I TSIG DON JI BZHIN 'BYED PA'I MTSAN GYI YANG 'GREL",
-    "title_eng": "The 'Commentary of the Commentary of the Names,' being a Revelation of the Meaning of the Words in '('The Lamp of Illumination,’ an Extensive Commentary upon the King of All Secret Teachings, the Glorious Secret Collection (Guhyasamaja)",
+    "title_eng": "The 'Commentary of the Commentary of the Names,' being a Revelation of the Meaning of the Words in 'The Lamp of Illumination,’ an Extensive Commentary upon the King of All Secret Teachings, the Glorious Secret Collection (Guhyasamaja)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/'GREL PA_COMMENTARIES",
-            "timestamp": "2024-11-20 05:07:30.286310+00:00"
+            "timestamp": "2024-11-26 23:32:29.077876+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:07:30.286310+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:32:29.077876+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

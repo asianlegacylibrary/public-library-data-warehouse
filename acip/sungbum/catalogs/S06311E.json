@@ -6,13 +6,13 @@
     "revision_id": "625a48fca5e588d294473",
     "content_hash": "afe6d71ad85aa64072d044fb20a60f1b1fc37c0a46df97a7918a1a384121a8c2",
     "server_modified": "2024-10-29 21:49:37",
-    "last_sync": "2024-11-19 21:03:45.681548",
+    "last_sync": "2024-11-26 15:29:56.521578",
     "size": 15813,
-    "meta_text": "('or a Ritual of Lama Devotion Centered on Loving Eyes (Avalokiteshvara)_DNGUL CHU DHARMA BHADRA (1772-1851)', 'rtf')",
+    "meta_text": "or a Ritual of Lama Devotion Centered on Loving Eyes (Avalokiteshvara)_DNGUL CHU DHARMA BHADRA (1772-1851)",
     "cat_ref": "S06311E",
     "work_ref": "W.S06311E",
     "title_tib": "JA MCHOD 'KHRID YIG MAN NGAG GSAL SGRON DANG, SPYAN RAS GZIGS KYI BLA MA'I RNAL 'BYOR GYI 'KHRID YIG PHAN BDE'I DPAL STER",
-    "title_eng": "The 'Lamp of Advices,' a Text of Instruction for the Offering of Tea, and 'The Mine of Riches,' a Book of Instruction f('or a Ritual of Lama Devotion Centered on Loving Eyes (Avalokiteshvara)",
+    "title_eng": "The 'Lamp of Advices,' a Text of Instruction for the Offering of Tea, and 'The Mine of Riches,' a Book of Instruction for a Ritual of Lama Devotion Centered on Loving Eyes (Avalokiteshvara)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/JA MCHOD_TEA OFFERING",
-            "timestamp": "2024-11-20 05:03:45.693032+00:00"
+            "timestamp": "2024-11-26 23:29:56.535036+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYAN RAS GZIGS_LOVING EYES (AVALOKITESHVARA)/BLA MA'I RNAL 'BYOR_LAMA PRACTICE (GURU YOGA)",
-            "timestamp": "2024-11-20 05:09:09.235956+00:00"
+            "timestamp": "2024-11-26 23:33:38.193564+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:03:45.693032+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:29:56.535036+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:09:09.235956+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:33:38.193564+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

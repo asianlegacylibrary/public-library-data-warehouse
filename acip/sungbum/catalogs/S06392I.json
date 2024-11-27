@@ -6,7 +6,7 @@
     "revision_id": "625a476b20e748d294473",
     "content_hash": "c541aac101e3c044a6d130738a1e62112c13bc820a11dce383f52f7fa235dccc",
     "server_modified": "2024-10-29 21:42:36",
-    "last_sync": "2024-11-19 20:45:52.072705",
+    "last_sync": "2024-11-26 15:17:39.538657",
     "size": 13060,
     "meta_text": null,
     "cat_ref": "S06392I",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/SNYAN NGAG_CLASSICAL POETRY/GRANGS KYI MGON BRJOD_POETIC NAMES FOR NUMBERS",
-            "timestamp": "2024-11-20 04:45:52.077133+00:00"
+            "timestamp": "2024-11-26 23:17:39.545901+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:45:52.077133+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:17:39.545901+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

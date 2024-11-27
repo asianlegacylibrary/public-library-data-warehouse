@@ -6,7 +6,7 @@
     "revision_id": "625a480ac43d48d294473",
     "content_hash": "c39b99d28720a834527b6ac8d6945062388e98d993f4c98a235e004040ef7a9d",
     "server_modified": "2024-10-29 21:45:23",
-    "last_sync": "2024-11-19 20:53:23.584571",
+    "last_sync": "2024-11-26 15:22:40.988374",
     "size": 635,
     "meta_text": null,
     "cat_ref": "S06370ED1",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 04:54:07.130165+00:00"
+            "timestamp": "2024-11-26 23:23:11.582148+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DUR KHROD BDAG PO_LORD OF THE BURIAL GROUNDS (SHMASHANAPATI)/RNAL 'BYOR_PRACTICES",
-            "timestamp": "2024-11-20 05:00:38.022991+00:00"
+            "timestamp": "2024-11-26 23:27:46.900808+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:07.130165+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:11.582148+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:00:38.022991+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:27:46.900808+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

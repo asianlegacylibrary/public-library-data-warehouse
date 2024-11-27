@@ -6,7 +6,7 @@
     "revision_id": "625a482bfb6528d294473",
     "content_hash": "625d37b5e05d69ea7b18509ea53b9a1d81afd3a309c93c5bdce42f5474229d64",
     "server_modified": "2024-10-29 21:45:58",
-    "last_sync": "2024-11-19 20:53:49.960347",
+    "last_sync": "2024-11-26 15:22:58.655510",
     "size": 2650,
     "meta_text": null,
     "cat_ref": "S06370MD4",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 04:54:07.137870+00:00"
+            "timestamp": "2024-11-26 23:23:11.591549+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/DGE SLONG_VOWS OF FULL MONKS",
-            "timestamp": "2024-11-20 05:13:49.768050+00:00"
+            "timestamp": "2024-11-26 23:36:49.541714+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:07.137870+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:11.591549+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:13:49.768050+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:36:49.541714+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

@@ -6,13 +6,13 @@
     "revision_id": "625a4842bc0ac8d294473",
     "content_hash": "86154187e2700c6c8eb004dd8d571607f0d1a22b30a69290b447a5270cb16790",
     "server_modified": "2024-10-29 21:46:22",
-    "last_sync": "2024-11-19 20:54:12.185353",
+    "last_sync": "2024-11-26 15:23:14.232764",
     "size": 14270,
-    "meta_text": "(\"Works of the Great One, The All-Knowing Jamyang Shepay Dorje_'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS (1648-1721)\", 'rtf')",
+    "meta_text": "Works of the Great One, The All-Knowing Jamyang Shepay Dorje_'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS (1648-1721)",
     "cat_ref": "S19071E",
     "work_ref": "W.S19071E",
     "title_tib": "KUN MKHYEN CHEN PO 'JAM DBYANGS BZHAD PA'I GSUNG 'BUM THOR BU LAS NYAMS LEN GNAD KYI DRIS LAN GRUB PA'I MDZES RGYAN",
-    "title_eng": "The Beautiful Jewel of Attainment-- Answers to Questions on Essential Points of Practice from the Scattered Collected Wor(\"Works of the Great One, The All-Knowing Jamyang Shepay Dorje",
+    "title_eng": "The Beautiful Jewel of Attainment-- Answers to Questions on Essential Points of Practice from the Scattered Collected WorWorks of the Great One, The All-Knowing Jamyang Shepay Dorje",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/'JAM DBYANGS BZHAD PA'I RDO RJE (1648-1721)",
-            "timestamp": "2024-11-20 04:54:14.110238+00:00"
+            "timestamp": "2024-11-26 23:23:15.796875+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SPYI_GENERAL TREATMENTS/'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS_JAMYANG SHEPAY DORJE NGAWANG TSUNDRU (1648-1721)",
-            "timestamp": "2024-11-20 05:22:42.452506+00:00"
+            "timestamp": "2024-11-26 23:42:56.324603+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:14.110238+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:15.796875+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:22:42.452506+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:42:56.324603+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

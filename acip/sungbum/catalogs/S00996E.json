@@ -6,13 +6,13 @@
     "revision_id": "625a47a9a8aed8d294473",
     "content_hash": "63f6a2cdbf82524080493dca200b51fae9bb72f238f80d106488fa2f741ad4b0",
     "server_modified": "2024-10-29 21:43:42",
-    "last_sync": "2024-11-19 20:48:47.838011",
+    "last_sync": "2024-11-26 15:19:43.171187",
     "size": 93503,
-    "meta_text": "(\"Study of the ‘Commentary on Valid Perception’_KUN MKHYEN CHOS 'BYOR DPAL BZANG (1490-&)\", 'rtf')",
+    "meta_text": "Study of the ‘Commentary on Valid Perception’_KUN MKHYEN CHOS 'BYOR DPAL BZANG (1490-&)",
     "cat_ref": "S00996E",
     "work_ref": "W.S00996E",
     "title_tib": "RNAM 'GREL GYI THAL 'PHRENG MKHAS PA MGU PA'I RGYAN RIGS PA'I 'PHRENG BA LAS LE'U GNYIS PA'I MTHA' DPYOD",
-    "title_eng": "An Analysis of the Second Chapter, from ‘The Necklace of Logical Proofs, a Jewel to Please the Wise,’ a String of Logical Attacks for a(\"Study of the ‘Commentary on Valid Perception’",
+    "title_eng": "An Analysis of the Second Chapter, from ‘The Necklace of Logical Proofs, a Jewel to Please the Wise,’ a String of Logical Attacks for aStudy of the ‘Commentary on Valid Perception’",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/TSAD MA RNAM 'GREL (PRAMANA VARTIKA)_A COMMENTARY ON ACCURATE PERCEPTION/KUN MKHYEN CHOS 'BYOR DPAL BZANG_KUNKYEN CHUNJOR PELSANG",
-            "timestamp": "2024-11-20 04:48:48.455920+00:00"
+            "timestamp": "2024-11-26 23:19:43.574401+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:48:48.455920+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:19:43.574401+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

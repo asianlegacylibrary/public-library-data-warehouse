@@ -6,9 +6,9 @@
     "revision_id": "625a4a4cc57128d294473",
     "content_hash": "ec3e28a874ef74b27530a728e9566b69270cc00d9aa541821782fae7d5e97fd0",
     "server_modified": "2024-10-29 21:55:29",
-    "last_sync": "2024-11-19 21:16:54.460643",
+    "last_sync": "2024-11-26 15:38:57.473078",
     "size": 57759,
-    "meta_text": "(\"CHUB BSTAN PA'I SGRON ME (1861-1933@)\", 'rtf')",
+    "meta_text": "CHUB BSTAN PA'I SGRON ME (1861-1933@)",
     "cat_ref": "S00533E",
     "work_ref": "W.S00533E",
     "title_tib": "LAM RIM 'JAM DPAL ZHAL LUNG GI ZIN BRIS 'PHRO CAN",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/'JAM DPAL ZHAL LUNG_WORD OF GENTLE VOICE/'GREL PA_COMMENTARIES",
-            "timestamp": "2024-11-20 05:16:54.465783+00:00"
+            "timestamp": "2024-11-26 23:38:57.476318+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:16:54.465783+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:38:57.476318+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

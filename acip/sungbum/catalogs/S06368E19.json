@@ -6,7 +6,7 @@
     "revision_id": "625a489c6d2288d294473",
     "content_hash": "c1cacce3229e2d96c98979397eb316a90b8db1676dcc328092bc6745a0b8fa85",
     "server_modified": "2024-10-29 21:47:56",
-    "last_sync": "2024-11-19 20:58:44.503708",
+    "last_sync": "2024-11-26 15:26:24.774366",
     "size": 2110,
     "meta_text": null,
     "cat_ref": "S06368E19",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/MGON DKAR_WHITE PROTECTOR (SITA MAHAKALA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "timestamp": "2024-11-20 04:58:44.511312+00:00"
+            "timestamp": "2024-11-26 23:26:24.784843+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/KHYUNG NAG_BLACK GARUDA (KIRSHNA GARUDA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "timestamp": "2024-11-20 05:01:09.452995+00:00"
+            "timestamp": "2024-11-26 23:28:07.146214+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:58:44.511312+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:26:24.784843+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:01:09.452995+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:28:07.146214+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

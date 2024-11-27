@@ -6,9 +6,9 @@
     "revision_id": "625a4986142ab8d294473",
     "content_hash": "fe5772024f77600ead9a43a6953186f9b06446d6d10b22b515c4f5af7f0370fd",
     "server_modified": "2024-10-29 21:52:01",
-    "last_sync": "2024-11-19 21:09:50.486047",
+    "last_sync": "2024-11-26 15:34:06.564569",
     "size": 13219,
-    "meta_text": "('MA BHADRA (1772-1851)', 'rtf')",
+    "meta_text": "MA BHADRA (1772-1851)",
     "cat_ref": "S06364E14",
     "work_ref": "W.S06364E14",
     "title_tib": "THUB DBANG GNAS BRTAN BCU DRUG GI RJES GNANG JI LTAR BYA TSUL LEGS BSHAD SNYING PO",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GNAS BRTAN BCU DRUG_SIXTEEN ELDERS/RJES GNANG_RITES OF PERMISSION (ANUJNA)",
-            "timestamp": "2024-11-20 05:09:50.491641+00:00"
+            "timestamp": "2024-11-26 23:34:06.572670+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:09:50.491641+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:34:06.572670+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

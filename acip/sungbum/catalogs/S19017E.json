@@ -6,7 +6,7 @@
     "revision_id": "625a48465ca588d294473",
     "content_hash": "59cf4b9fc41e70774cf12dddb1bf52c3399adb15f0eefbfe236bc5f5a62f9c5c",
     "server_modified": "2024-10-29 21:46:26",
-    "last_sync": "2024-11-19 20:54:12.876987",
+    "last_sync": "2024-11-26 15:23:14.639958",
     "size": 3233,
     "meta_text": null,
     "cat_ref": "S19017E",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/'JAM DBYANGS BZHAD PA'I RDO RJE (1648-1721)",
-            "timestamp": "2024-11-20 04:54:14.111355+00:00"
+            "timestamp": "2024-11-26 23:23:15.797617+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:14.111355+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:15.797617+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

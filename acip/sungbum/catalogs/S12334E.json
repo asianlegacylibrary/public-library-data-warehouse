@@ -6,7 +6,7 @@
     "revision_id": "625a48080c3ac8d294473",
     "content_hash": "c80ec876156267b8a29bad105a11b4d1d1de2d05077c30f94ee4463756dd0cfb",
     "server_modified": "2024-10-29 21:45:21",
-    "last_sync": "2024-11-19 20:53:17.548964",
+    "last_sync": "2024-11-26 15:22:36.676296",
     "size": 35516,
     "meta_text": null,
     "cat_ref": "S12334E",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/SMAN_MEDICINE/SMAN PA'I RNAM THAR_BIOGRAPHIES OF RENOWNED PHYSICIANS/KUMARA JIVAKA ('TSO BYED GZHON NU, TSOJE SHUNNU)",
-            "timestamp": "2024-11-20 04:53:17.553057+00:00"
+            "timestamp": "2024-11-26 23:22:36.684890+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/3 KUMARAJIVAS ('TSO BYED GZHON NU)_3 YOUNG PHYSICIANS",
-            "timestamp": "2024-11-20 05:15:44.574519+00:00"
+            "timestamp": "2024-11-26 23:38:07.010051+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:53:17.553057+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:22:36.684890+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:15:44.574519+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:38:07.010051+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

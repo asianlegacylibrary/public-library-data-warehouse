@@ -6,9 +6,9 @@
     "revision_id": "625a497b246468d294473",
     "content_hash": "74bd1f591203a04aeb444874a797df0989e46a63ce1734915854e16517de9d63",
     "server_modified": "2024-10-29 21:51:50",
-    "last_sync": "2024-11-19 21:09:03.419248",
+    "last_sync": "2024-11-26 15:33:34.605578",
     "size": 120288,
-    "meta_text": "('ES (1663-1737)', 'rtf')",
+    "meta_text": "ES (1663-1737)",
     "cat_ref": "S12180E",
     "work_ref": "W.S12180E",
     "title_tib": "THUGS RJE CHEN PO RGYAL BA RGYA MTSO LHA DGU'I DKYIL 'KHOR GYI CHO GA",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYAN RAS GZIGS_LOVING EYES (AVALOKITESHVARA)/RGYAL BA RGYA MTSO_OCEAN OF THE VICTORS (JINASAGARA)",
-            "timestamp": "2024-11-20 05:09:04.729497+00:00"
+            "timestamp": "2024-11-26 23:33:35.485241+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:09:04.729497+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:33:35.485241+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

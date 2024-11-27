@@ -6,9 +6,9 @@
     "revision_id": "625a4a6aaab718d294473",
     "content_hash": "89eddb7418125cde3dba14fc5cd42a20990744395e547eea7f3fadffc05e61ed",
     "server_modified": "2024-10-29 21:56:01",
-    "last_sync": "2024-11-19 21:18:34.480546",
+    "last_sync": "2024-11-26 15:40:07.334306",
     "size": 1717,
-    "meta_text": "('AN (1565-1662)', 'rtf')",
+    "meta_text": "AN (1565-1662)",
     "cat_ref": "S05977MD1",
     "work_ref": "W.S05977MD1",
     "title_tib": "ZAB LAM DBU MA'I LTA BA BSGOM TSUL LTA KHRID SNYING POR DRIL BA",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/LTA BA BSGOM TSUL_HOW TO MEDITATE UPON CORRECT VIEW",
-            "timestamp": "2024-11-20 05:18:34.488393+00:00"
+            "timestamp": "2024-11-26 23:40:07.348151+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/LTA BA BSGOM TSUL_HOW TO MEDITATE ON A CORRECT VIEW OF REALITY",
-            "timestamp": "2024-11-20 05:22:08.083914+00:00"
+            "timestamp": "2024-11-26 23:42:37.269826+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:18:34.488393+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:40:07.348151+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:22:08.083914+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:42:37.269826+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

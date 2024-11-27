@@ -6,13 +6,13 @@
     "revision_id": "625a47cf4ccbd8d294473",
     "content_hash": "863e8348f651996d76c6c5169b3445c69c3551140b748f9cf41427031b8438b9",
     "server_modified": "2024-10-29 21:44:21",
-    "last_sync": "2024-11-19 20:50:58.071707",
+    "last_sync": "2024-11-26 15:21:03.852148",
     "size": 69852,
-    "meta_text": "(\"3 Scenes of the Life of the Holy Lord, the Great Tsongkapa, to be Set Down in Paintings_’JAM DBYANGS BZHAD PA'I RDO RJE (1648-1721)\", 'rtf')",
+    "meta_text": "3 Scenes of the Life of the Holy Lord, the Great Tsongkapa, to be Set Down in Paintings_’JAM DBYANGS BZHAD PA'I RDO RJE (1648-1721)",
     "cat_ref": "S12115E",
     "work_ref": "W.S12115E",
     "title_tib": "RJE BTZUN TZONG KHA PA CHEN PO'I RNAM THAR RAS BRIS KYI TSUL BRGYA NGA GSUM PA TZI NTA MA NI'I PHRENG 'GRUB BSTAN RGYAS BYED PHAN BDE'I ROL MTSO CHEN PO",
-    "title_eng": "A Great Sea of Help and Happiness that will Spread the Teachings, a Crystal Rosary of 15(\"3 Scenes of the Life of the Holy Lord, the Great Tsongkapa, to be Set Down in Paintings",
+    "title_eng": "A Great Sea of Help and Happiness that will Spread the Teachings, a Crystal Rosary of 153 Scenes of the Life of the Holy Lord, the Great Tsongkapa, to be Set Down in Paintings",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/LHA BZO_FINE ARTS/SPYI_GENERAL TREATMENTS",
-            "timestamp": "2024-11-20 04:51:01.481504+00:00"
+            "timestamp": "2024-11-26 23:21:06.571742+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
-            "timestamp": "2024-11-20 05:14:37.996988+00:00"
+            "timestamp": "2024-11-26 23:37:21.897845+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:51:01.481504+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:21:06.571742+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:14:37.996988+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:37:21.897845+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

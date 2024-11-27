@@ -6,13 +6,13 @@
     "revision_id": "625a48aa6b1298d294473",
     "content_hash": "9b16c092398d620f65be16ab26b56b33f969c66e8edbc4499713ddbe481eebd2",
     "server_modified": "2024-10-29 21:48:11",
-    "last_sync": "2024-11-19 20:59:39.255966",
+    "last_sync": "2024-11-26 15:27:04.180131",
     "size": 779,
-    "meta_text": "('the ‘Dissection’ Instructions on the Practice of the Tailor composed by Tsarchen_DNGUL CHU DHARMA BHADRA (1772-1851)', 'rtf')",
+    "meta_text": "the ‘Dissection’ Instructions on the Practice of the Tailor composed by Tsarchen_DNGUL CHU DHARMA BHADRA (1772-1851)",
     "cat_ref": "S06369E18",
     "work_ref": "W.S06369E18",
     "title_tib": "TSEM BU DMAR KHRID KYI BRGYUD 'DEBS TSAR CHEN GYI GSUNG LA RGYAL MCHOG LNGA PAS KHA SKONG GNANG BA'I YANG KHA SKONG",
-    "title_eng": "Additional Addendum to one Supplied by His Holiness the Fifth Dalai Lama for the Supplication to the Lamas of the Lineage o('the ‘Dissection’ Instructions on the Practice of the Tailor composed by Tsarchen",
+    "title_eng": "Additional Addendum to one Supplied by His Holiness the Fifth Dalai Lama for the Supplication to the Lamas of the Lineage othe ‘Dissection’ Instructions on the Practice of the Tailor composed by Tsarchen",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/TSEM BU_THE TAILOR/BLA BRGYUD_LINEAGE LAMAS",
-            "timestamp": "2024-11-20 04:59:39.265335+00:00"
+            "timestamp": "2024-11-26 23:27:04.192450+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:59:39.265335+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:27:04.192450+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

@@ -6,13 +6,13 @@
     "revision_id": "625a4831729148d294473",
     "content_hash": "30f57b66dd4e311d4bdc6752b25fa562d7e5d6ec5faf503b3051940729e74754",
     "server_modified": "2024-10-29 21:46:04",
-    "last_sync": "2024-11-19 20:53:53.989578",
+    "last_sync": "2024-11-26 15:23:01.305059",
     "size": 1284,
-    "meta_text": "('o an Identification of the Nineteen Separate Pledges of the Five Buddha Families_DNGUL CHU DHARMA BHADRA (1772-1851)', 'rtf')",
+    "meta_text": "o an Identification of the Nineteen Separate Pledges of the Five Buddha Families_DNGUL CHU DHARMA BHADRA (1772-1851)",
     "cat_ref": "S06370EO9",
     "work_ref": "W.S06370EO9",
     "title_tib": "DNGUL CHU RIN PO CHES BRTZAMS PA'I THUN DRUG BSDUS PA'I KHUNGS DANG, RIGS LNGA SO SO'I DAM TSIG BCU DGU NGOS 'DZIN TSUL LA DRI LAN",
-    "title_eng": "Response to a Question on the Source of the Brief Six-Session Practice composed by Ngulchu Rinpoche, and als('o an Identification of the Nineteen Separate Pledges of the Five Buddha Families",
+    "title_eng": "Response to a Question on the Source of the Brief Six-Session Practice composed by Ngulchu Rinpoche, and also an Identification of the Nineteen Separate Pledges of the Five Buddha Families",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -57,33 +57,33 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 04:54:07.139062+00:00"
+            "timestamp": "2024-11-26 23:23:11.592906+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/THUN DRUG_SIX SESSIONS",
-            "timestamp": "2024-11-20 05:00:27.509748+00:00"
+            "timestamp": "2024-11-26 23:27:40.476804+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SDOM PA_SECRET VOWS (SAMAYA)",
-            "timestamp": "2024-11-20 05:03:42.884475+00:00"
+            "timestamp": "2024-11-26 23:29:54.858478+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:07.139062+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:11.592906+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:00:27.509748+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:27:40.476804+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         },
         {
-            "timestamp": "2024-11-20T05:03:42.884475+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:29:54.858478+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

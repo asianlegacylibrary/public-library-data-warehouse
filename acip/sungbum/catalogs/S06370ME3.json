@@ -6,7 +6,7 @@
     "revision_id": "625a480c101a28d294473",
     "content_hash": "92aee2de703986e80b3c95e8e38f9545f2541bd4ba12379e7a1e118055115e41",
     "server_modified": "2024-10-29 21:45:25",
-    "last_sync": "2024-11-19 20:53:24.243906",
+    "last_sync": "2024-11-26 15:22:41.391282",
     "size": 263,
     "meta_text": null,
     "cat_ref": "S06370ME3",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 04:54:07.130738+00:00"
+            "timestamp": "2024-11-26 23:23:11.582912+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/DRI LAN_QUESTIONS AND ANSWERS",
-            "timestamp": "2024-11-20 05:17:46.888421+00:00"
+            "timestamp": "2024-11-26 23:39:34.024852+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:07.130738+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:11.582912+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:17:46.888421+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:39:34.024852+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

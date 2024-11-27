@@ -6,13 +6,13 @@
     "revision_id": "625a49c3f40e98d294473",
     "content_hash": "ebd5b793b8eb8d75f9de720ceb6bbd15ee3af3be48487f9321b3aa5fddd536fe",
     "server_modified": "2024-10-29 21:53:06",
-    "last_sync": "2024-11-19 21:12:56.483386",
+    "last_sync": "2024-11-26 15:36:15.343476",
     "size": 14184,
-    "meta_text": "(\"ollected Works of the Omniscient One, Jamyang Shepay Dorje_â€™JAM DBYANGS BZHAD PA'I RDO RJE (1648-1721)\", 'text')",
+    "meta_text": "ollected Works of the Omniscient One, Jamyang Shepay Dorje_â€™JAM DBYANGS BZHAD PA'I RDO RJE (1648-1721)",
     "cat_ref": "S12119E",
     "work_ref": "W.S12119E",
     "title_tib": "KUN MKHYEN CHEN PO 'JAM DBYANGS BZHAD PA'I RDO RJE'I GSUNG 'BUM THOR BU KHRIG CHAGS SU BSDEBS PA LAS SO THAR GYI SDOM PA'I DOGS GCOD",
-    "title_eng": "Investigations into the Vows of Individual Liberaton, from a Compilation of Assorted Writings found in the C(\"ollected Works of the Omniscient One, Jamyang Shepay Dorje",
+    "title_eng": "Investigations into the Vows of Individual Liberaton, from a Compilation of Assorted Writings found in the Collected Works of the Omniscient One, Jamyang Shepay Dorje",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS_JAMYANG SHEPAY DORJE NGAWANG TSUNDRU (1648-1721)",
-            "timestamp": "2024-11-20 05:12:59.012101+00:00"
+            "timestamp": "2024-11-26 23:36:17.484909+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:12:59.012101+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:36:17.484909+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

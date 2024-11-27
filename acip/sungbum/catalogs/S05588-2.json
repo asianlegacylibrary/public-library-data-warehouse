@@ -6,13 +6,13 @@
     "revision_id": "625a4a2776c708d294473",
     "content_hash": "a39dcd3e4f351b835bb2b9ccfcb621fa51395520a6deec238c5881b8ec302392",
     "server_modified": "2024-10-29 21:54:50",
-    "last_sync": "2024-11-19 21:16:19.798196",
+    "last_sync": "2024-11-26 15:38:32.803136",
     "size": 802986,
-    "meta_text": "('of the Sahor Clan, Ngawang Lobsang Gyatso, a Play of Illusion in which this Life Deceives Him_NGAG DBANG BLO BZANG RGYA MTSO (1617-1682)', 'text')",
+    "meta_text": "of the Sahor Clan, Ngawang Lobsang Gyatso, a Play of Illusion in which this Life Deceives Him_NGAG DBANG BLO BZANG RGYA MTSO (1617-1682)",
     "cat_ref": "S05588-2",
     "work_ref": "W.S05588-2",
     "title_tib": "ZA HOR GYI BANDE NGAG DBANG BLO BZANG RGYA MTSO'I 'DI SNANG 'KHRUL BA'I ROL RTZED RTOGS BRJOD KYI TSUL DU BKOD PA DU K'U LA'I GOS BZANG LAS GLEGS BAM GNYIS PA",
-    "title_eng": "The Second Volume of \"A Rainment of Fine Silk,\" the Life Story of a Buddhist Monk('of the Sahor Clan, Ngawang Lobsang Gyatso, a Play of Illusion in which this Life Deceives Him",
+    "title_eng": "The Second Volume of \"A Rainment of Fine Silk,\" the Life Story of a Buddhist Monkof the Sahor Clan, Ngawang Lobsang Gyatso, a Play of Illusion in which this Life Deceives Him",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -38,13 +38,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/RGYAL BA NGAG DBANG BLO BZANG RGYA MTSO_GYALWA NGAWANG LOBSANG GYATSO (1617-1682)",
-            "timestamp": "2024-11-20 05:16:21.283617+00:00"
+            "timestamp": "2024-11-26 23:38:33.556253+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:16:21.283617+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:38:33.556253+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

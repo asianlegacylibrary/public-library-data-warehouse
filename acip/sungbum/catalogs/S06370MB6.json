@@ -6,7 +6,7 @@
     "revision_id": "625a481b69e1d8d294473",
     "content_hash": "9e453ce04bebb7086d4474c11fe859c0c77b638467c130c76d6224c2fced366c",
     "server_modified": "2024-10-29 21:45:41",
-    "last_sync": "2024-11-19 20:53:38.034960",
+    "last_sync": "2024-11-26 15:22:50.510507",
     "size": 310,
     "meta_text": null,
     "cat_ref": "S06370MB6",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 04:54:07.134345+00:00"
+            "timestamp": "2024-11-26 23:23:11.587350+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/MCHOD PA_HOW TO MAKE OFFERINGS/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 05:23:56.477687+00:00"
+            "timestamp": "2024-11-26 23:43:41.977607+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:07.134345+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:11.587350+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:23:56.477687+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:43:41.977607+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

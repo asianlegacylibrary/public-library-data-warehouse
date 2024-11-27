@@ -6,13 +6,13 @@
     "revision_id": "625a48aee1fca8d294473",
     "content_hash": "873dc64f7a4f7511ff2cab7c759de77a849c785b75739d4d6f9f3d3d3bfb8ca7",
     "server_modified": "2024-10-29 21:48:15",
-    "last_sync": "2024-11-19 20:59:46.873617",
+    "last_sync": "2024-11-26 15:27:09.602436",
     "size": 106211,
-    "meta_text": "('the Spheres (Chakrasamvara), and a \"Realization\" Type of Ritual for the Secret World of the Body in the Same Teachings both in the Tradition of Ghantapada_SKYABS RJE PHA BONG KHA PA BDE CHEN SNYING PO (1878-1941)', 'rtf')",
+    "meta_text": "the Spheres (Chakrasamvara), and a \"Realization\" Type of Ritual for the Secret World of the Body in the Same Teachings both in the Tradition of Ghantapada_SKYABS RJE PHA BONG KHA PA BDE CHEN SNYING PO (1878-1941)",
     "cat_ref": "S00333E",
     "work_ref": "W.S00333E",
     "title_tib": "DPAL 'KHOR LO SDOM PA DRIL BU LUS DKYIL GYI BLA BRGYUD GSOL 'DEBS DANG, DE'I LUGS KYI BCOM LDAN 'DAS 'KHOR LO SDOM PA'I LUS DKYIL GYI MNGON PAR RTOGS PA",
-    "title_eng": "A Supplication to the Lineage for the Secret World of the Body in the Glorious Union of('the Spheres (Chakrasamvara), and a \"Realization\" Type of Ritual for the Secret World of the Body in the Same Teachings both in the Tradition of Ghantapada",
+    "title_eng": "A Supplication to the Lineage for the Secret World of the Body in the Glorious Union ofthe Spheres (Chakrasamvara), and a \"Realization\" Type of Ritual for the Secret World of the Body in the Same Teachings both in the Tradition of Ghantapada",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'KHOR LO SDOM PA_UNION OF THE SPHERES (CHAKRASANVARA)/BLA BRGYUD_LINEAGE LAMAS",
-            "timestamp": "2024-11-20 04:59:46.879707+00:00"
+            "timestamp": "2024-11-26 23:27:09.611429+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'KHOR LO SDOM PA_UNION OF THE SPHERES (CHAKRASANVARA)/LUS DKYIL_SECRET WORLD OF THE BODY",
-            "timestamp": "2024-11-20 05:00:06.087580+00:00"
+            "timestamp": "2024-11-26 23:27:22.965792+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:59:46.879707+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:27:09.611429+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:00:06.087580+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:27:22.965792+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

@@ -6,7 +6,7 @@
     "revision_id": "625a4a7951c698d294473",
     "content_hash": "b275774b6af6c04f23c3b746577a1cfaf5fcdf7b14f556c0776e7336cce84e91",
     "server_modified": "2024-10-29 21:56:16",
-    "last_sync": "2024-11-19 21:18:53.538087",
+    "last_sync": "2024-11-26 15:40:19.967631",
     "size": 21887,
     "meta_text": null,
     "cat_ref": "S12063E",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/PHRAN TSEGS_MISCELLANEOUS/CHA HAR DGE BSHES BLO BZANG TSUL KHRIMS_CHAHAR GESHE LOBSANG TSULTRIM (1740-1810)",
-            "timestamp": "2024-11-20 05:18:53.547343+00:00"
+            "timestamp": "2024-11-26 23:40:19.983366+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:18:53.547343+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:40:19.983366+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

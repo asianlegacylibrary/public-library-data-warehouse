@@ -6,7 +6,7 @@
     "revision_id": "625a4919a03c08d294473",
     "content_hash": "29e82e2b5aaade39619b6a55e132a7c0f3b026cccfbeba405c3a61f6114c5e45",
     "server_modified": "2024-10-29 21:50:07",
-    "last_sync": "2024-11-19 21:04:58.234252",
+    "last_sync": "2024-11-26 15:30:47.850998",
     "size": 31826,
     "meta_text": null,
     "cat_ref": "S05956E",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/GCOD_TERMINATION",
-            "timestamp": "2024-11-20 05:04:58.249859+00:00"
+            "timestamp": "2024-11-26 23:30:47.876241+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:04:58.249859+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:30:47.876241+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

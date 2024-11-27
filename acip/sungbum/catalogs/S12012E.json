@@ -6,9 +6,9 @@
     "revision_id": "625a4ad29d00a8d294473",
     "content_hash": "693d4014b5d8d7da40827477c0688ada60b8c459f178ff8cc7f5c072fd99920f",
     "server_modified": "2024-10-29 21:57:50",
-    "last_sync": "2024-11-19 21:23:30.931433",
+    "last_sync": "2024-11-26 15:43:24.447143",
     "size": 3574,
-    "meta_text": "('CAN (1803-1875)', 'rtf')",
+    "meta_text": "CAN (1803-1875)",
     "cat_ref": "S12012E",
     "work_ref": "W.S12012E",
     "title_tib": "TSE RABS RJES 'DZIN GYI SMON TSIG 'DOD DON PADMO BZHAD PA'I NYIN BYED",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/DRUNG CHEN SHES RAB RGYA MTSO PRADZNY'A'I MTSAN CAN_DRUNGCHEN SHERAB GYATSO PRAJNAY TSENCHEN (1803-1875)",
-            "timestamp": "2024-11-20 05:23:31.614573+00:00"
+            "timestamp": "2024-11-26 23:43:24.794897+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:23:31.614573+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:43:24.794897+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

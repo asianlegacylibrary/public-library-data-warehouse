@@ -6,9 +6,9 @@
     "revision_id": "625a48465ca568d294473",
     "content_hash": "09b8199f72fd478e8b9ce8e255f8897d15e4c2cd7a073c3df8d2939c1efd8bc2",
     "server_modified": "2024-10-29 21:46:26",
-    "last_sync": "2024-11-19 20:54:22.853144",
+    "last_sync": "2024-11-26 15:23:20.938476",
     "size": 9045,
-    "meta_text": "(\"GAG DBANG BLO BZANG BSTAN PA'I RGYAL MTSAN (1770-1845)\", 'rtf')",
+    "meta_text": "GAG DBANG BLO BZANG BSTAN PA'I RGYAL MTSAN (1770-1845)",
     "cat_ref": "S12298E",
     "work_ref": "W.S12298E",
     "title_tib": "CHOS SDE CHEN PO DGA' LDAN THEG CHEN BSHAD SGRUB GLING GI DKAR CHAG DRI MED SHEL DKAR ME LONG",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/CHOS 'BYUNG_RELIGIOUS HISTORIES/DGA' LDAN DKAR CHAG_CATALOGS OF GANDEN MONASTERIES",
-            "timestamp": "2024-11-20 04:54:23.915697+00:00"
+            "timestamp": "2024-11-26 23:23:21.303047+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:23.915697+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:21.303047+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

@@ -6,7 +6,7 @@
     "revision_id": "625a47c81f8bc8d294473",
     "content_hash": "9be65687c0268439aefdb800e75e602f90df2128b9b77d9336ef748a1ab0203c",
     "server_modified": "2024-10-29 21:44:14",
-    "last_sync": "2024-11-19 20:50:15.536836",
+    "last_sync": "2024-11-26 15:20:40.547042",
     "size": 4417,
     "meta_text": null,
     "cat_ref": "S05275M14",
@@ -41,23 +41,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/BSTOD PA_EULOGIES (STOTRA)/SH'AKYA THUB PA (SHAKYAMUNI)/SKABS GSUM MA_THOSE OF THE THREE TIMES/RTZA BA_ROOT TEXT",
-            "timestamp": "2024-11-20 04:50:15.540896+00:00"
+            "timestamp": "2024-11-26 23:20:40.551978+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/BSTOD PA_EULOGIES (STOTRA)/SH'AKYA THUB PA (SHAKYAMUNI)/SKABS GSUM MA_THOSE OF THE THREE TIMES/RTZA BA_ROOT TEXT",
-            "timestamp": "2024-11-20 04:50:17.098029+00:00"
+            "timestamp": "2024-11-26 23:20:41.645029+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:50:15.540896+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:20:40.551978+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T04:50:17.098029+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:20:41.645029+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

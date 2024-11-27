@@ -6,13 +6,13 @@
     "revision_id": "625a486eeef3a8d294473",
     "content_hash": "76b52623248c1b67d10f3e7f6785c629b2ca9bf60784dd6bece1dccf689505bb",
     "server_modified": "2024-10-29 21:47:08",
-    "last_sync": "2024-11-19 20:56:06.868739",
+    "last_sync": "2024-11-26 15:24:30.089258",
     "size": 5058,
-    "meta_text": "(\"t King of the Dharma, Kenchen_MKHAN CHEN BLO BZANG BSTAN 'DZIN RGYAL MTSAN (1639-@)\", 'rtf')",
+    "meta_text": "t King of the Dharma, Kenchen_MKHAN CHEN BLO BZANG BSTAN 'DZIN RGYAL MTSAN (1639-@)",
     "cat_ref": "S12278E",
     "work_ref": "W.S12278E",
     "title_tib": "MKHAN CHEN CHOS KYI RGYAL PO'I GSUNG 'BUM LAS BDE MCHOG GI TSOGS 'KHOR GYI CHO GA BDE CHEN ROL PA",
-    "title_eng": "Playing in the Ecstasy--A Ritual for the Circle of Gathering in the Secret Teachings of Highest Bliss (Samvara) from the Collected Works of tha(\"t King of the Dharma, Kenchen",
+    "title_eng": "Playing in the Ecstasy--A Ritual for the Circle of Gathering in the Secret Teachings of Highest Bliss (Samvara) from the Collected Works of that King of the Dharma, Kenchen",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/TSOGS_CIRCLE OF GATHERING (GANACHAKRA)",
-            "timestamp": "2024-11-20 04:56:06.875873+00:00"
+            "timestamp": "2024-11-26 23:24:30.098312+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:56:06.875873+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:24:30.098312+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

@@ -6,13 +6,13 @@
     "revision_id": "625a4853581fb8d294473",
     "content_hash": "61de8f8cdfeeb8e0e1c93226e07c84e4085af9768490b93f147a235e46225bd2",
     "server_modified": "2024-10-29 21:46:40",
-    "last_sync": "2024-11-19 20:54:37.502316",
+    "last_sync": "2024-11-26 15:23:31.708828",
     "size": 1141945,
-    "meta_text": "(\"r (Vajra Bhairava)_'JAM DBYANGS BZHAD PA'I RDO RJE (1648-1721)\", 'rtf')",
+    "meta_text": "r (Vajra Bhairava)_'JAM DBYANGS BZHAD PA'I RDO RJE (1648-1721)",
     "cat_ref": "S12128",
     "work_ref": "W.S12128",
     "title_tib": "DPAL RDO RJE 'JIGS BYED KYI CHOS 'BYUNG KHAMS GSUM LAS RNAM PAR RGYAL BA DNGOS GRUB KYI GTER MDZOD",
-    "title_eng": "Victory over the Three Realms, a Treasure Chest of Attainments-- A Religious History of the Secret Teachings of the Glorious Diamond Lord of Ter(\"r (Vajra Bhairava)",
+    "title_eng": "Victory over the Three Realms, a Treasure Chest of Attainments-- A Religious History of the Secret Teachings of the Glorious Diamond Lord of Terr (Vajra Bhairava)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/CHOS 'BYUNG_RELIGIOUS HISTORIES/'JIGS BYED KYI CHOS 'BYUNG_RELIGIOUS HISTORIES OF THE SECRET TEACHINGS OF THE FRIGHTENER (BHAIRAVA)",
-            "timestamp": "2024-11-20 04:54:38.581883+00:00"
+            "timestamp": "2024-11-26 23:23:32.084098+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/CHOS 'BYUNG_DHARMA STAR (DHARMAKARA)",
-            "timestamp": "2024-11-20 05:11:38.467581+00:00"
+            "timestamp": "2024-11-26 23:35:22.211838+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:38.581883+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:32.084098+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:11:38.467581+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:35:22.211838+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

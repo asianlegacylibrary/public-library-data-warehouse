@@ -6,7 +6,7 @@
     "revision_id": "625a47fb8cf358d294473",
     "content_hash": "885fbff7f9ae9977b40759b896e53129e3bc76116e5c5c5753621ddca21b1cce",
     "server_modified": "2024-10-29 21:45:07",
-    "last_sync": "2024-11-19 20:52:25.184253",
+    "last_sync": "2024-11-26 15:22:03.430527",
     "size": 26405,
     "meta_text": null,
     "cat_ref": "S00905I",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/DBU MA LA 'JUG PA'I 'GREL PA_COMMENTARIES ON 'ENTERING THE MIDDLE WAY' (MADHYAMAKA AVATARA)/GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME_GUNGTANG KONCHOK TENPAY DRUNME (1762-1823)",
-            "timestamp": "2024-11-20 04:52:25.189512+00:00"
+            "timestamp": "2024-11-26 23:22:03.436759+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:52:25.189512+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:22:03.436759+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

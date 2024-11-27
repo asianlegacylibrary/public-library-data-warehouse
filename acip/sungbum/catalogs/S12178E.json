@@ -6,9 +6,9 @@
     "revision_id": "625a497c741f18d294473",
     "content_hash": "3183423ad9a26abba125d6babd8af05286dc4323f9cbe90c156df1ba662c2ebf",
     "server_modified": "2024-10-29 21:51:51",
-    "last_sync": "2024-11-19 21:09:04.723383",
+    "last_sync": "2024-11-26 15:33:35.476927",
     "size": 6541,
-    "meta_text": "('_PAN CHEN BLA MA SKU PHRENG GNYIS PA BLO BZANG YE SHES (1663-1737)', 'rtf')",
+    "meta_text": "_PAN CHEN BLA MA SKU PHRENG GNYIS PA BLO BZANG YE SHES (1663-1737)",
     "cat_ref": "S12178E",
     "work_ref": "W.S12178E",
     "title_tib": "THUGS RJE CHEN PO RGYAL BA RGYA MTSO LHA DGU'I BLA BRGYUD GSOL 'DEBS DANG SHIS BRJOD",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYAN RAS GZIGS_LOVING EYES (AVALOKITESHVARA)/RGYAL BA RGYA MTSO_OCEAN OF THE VICTORS (JINASAGARA)",
-            "timestamp": "2024-11-20 05:09:04.729826+00:00"
+            "timestamp": "2024-11-26 23:33:35.485550+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:09:04.729826+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:33:35.485550+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

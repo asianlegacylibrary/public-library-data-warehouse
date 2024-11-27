@@ -6,13 +6,13 @@
     "revision_id": "625a49e4e4c128d294473",
     "content_hash": "a667fe18bd95d9a2be988942452118f551886bad0f170f47673045bfcb551ceb",
     "server_modified": "2024-10-29 21:53:41",
-    "last_sync": "2024-11-19 21:13:56.323385",
+    "last_sync": "2024-11-26 15:36:54.327063",
     "size": 102697,
-    "meta_text": "('ttvas’_SKYABS RJE KHRI BYANG RIN PO CHE (1901-1981)', 'rtf')",
+    "meta_text": "ttvas’_SKYABS RJE KHRI BYANG RIN PO CHE (1901-1981)",
     "cat_ref": "S00238E",
     "work_ref": "W.S00238E",
     "title_tib": "GYI NA PA ZHIG GIS DAM CHOS BDUD RTZI'I BGO SKAL MNOS PA'I RNAM GZHAG RGYAL SRAS RGYA MTSO'I 'JUG NGOGS LAS KHRID KYI SKOR",
-    "title_eng": "The Section on General Teachings Received, from 'A Point of Entry for Those who Wish to Enter the Ocean of the Bodhisa('ttvas’",
+    "title_eng": "The Section on General Teachings Received, from 'A Point of Entry for Those who Wish to Enter the Ocean of the Bodhisattvas’",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/GSAN YIG_RECORDS OF TEACHINGS RECEIVED/SKYABS RJE KHRI BYANG RIN PO CHE_KYABJE TRIJANG RINPOCHE (?-?)",
-            "timestamp": "2024-11-20 05:13:57.733158+00:00"
+            "timestamp": "2024-11-26 23:36:55.151492+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:13:57.733158+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:36:55.151492+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

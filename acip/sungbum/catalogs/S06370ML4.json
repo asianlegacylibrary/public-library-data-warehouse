@@ -6,13 +6,13 @@
     "revision_id": "625a4827367d28d294473",
     "content_hash": "36bfb97745da9a89c4e15a8c47e1b3f01a349df0b3cf88fb43775736fab36479",
     "server_modified": "2024-10-29 21:45:53",
-    "last_sync": "2024-11-19 20:53:47.079470",
+    "last_sync": "2024-11-26 15:22:56.478268",
     "size": 558,
-    "meta_text": "('al_DNGUL CHU DHARMA BHADRA (1772-1851)', 'text')",
+    "meta_text": "al_DNGUL CHU DHARMA BHADRA (1772-1851)",
     "cat_ref": "S06370ML4",
     "work_ref": "W.S06370ML4",
     "title_tib": "DBU MA THAL 'GYUR BAS SO THAR GYI SDOM PA GZUGS CAN DU 'DOD PA'I SKOR GYI DRI LAN",
-    "title_eng": "Response to a Question on the Assertion of the Consequence Section of the Middle- Way School that the Vows of Individual Liberation Exist as something Physic('al",
+    "title_eng": "Response to a Question on the Assertion of the Consequence Section of the Middle- Way School that the Vows of Individual Liberation Exist as something Physical",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 04:54:07.136632+00:00"
+            "timestamp": "2024-11-26 23:23:11.589961+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 05:13:38.741839+00:00"
+            "timestamp": "2024-11-26 23:36:42.772857+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:07.136632+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:11.589961+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:13:38.741839+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:36:42.772857+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

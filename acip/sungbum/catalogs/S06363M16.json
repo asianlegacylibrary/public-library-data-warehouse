@@ -6,7 +6,7 @@
     "revision_id": "625a48fb610678d294473",
     "content_hash": "3ec25ef220c94376eddbaf6e8be4ebc97f4c1c79b445ceabfaee0b8550a5ed42",
     "server_modified": "2024-10-29 21:49:36",
-    "last_sync": "2024-11-19 21:03:42.317970",
+    "last_sync": "2024-11-26 15:29:54.421425",
     "size": 9676,
     "meta_text": null,
     "cat_ref": "S06363M16",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SDOM PA_SECRET VOWS (SAMAYA)",
-            "timestamp": "2024-11-20 05:03:42.884319+00:00"
+            "timestamp": "2024-11-26 23:29:54.858328+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BDUD RTZI_NECTAR (AMIRTA)",
-            "timestamp": "2024-11-20 05:04:29.045954+00:00"
+            "timestamp": "2024-11-26 23:30:28.828495+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:03:42.884319+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:29:54.858328+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:04:29.045954+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:30:28.828495+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

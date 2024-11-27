@@ -6,7 +6,7 @@
     "revision_id": "625a47de6a2b88d294473",
     "content_hash": "68dabb6ce6e71d597d1a4430b1e0eff13a255e81e6917ecf8313c984d358628f",
     "server_modified": "2024-10-29 21:44:37",
-    "last_sync": "2024-11-19 20:51:32.666133",
+    "last_sync": "2024-11-26 15:21:27.228357",
     "size": 37394,
     "meta_text": null,
     "cat_ref": "S00149I",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/RTEN 'BREL_DEPENDENT ORIGINATION/RTEN 'BREL SNYING PO_ESSENCE OF DEPENDENT ORIGINATION",
-            "timestamp": "2024-11-20 04:51:32.670477+00:00"
+            "timestamp": "2024-11-26 23:21:27.233171+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:51:32.670477+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:21:27.233171+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

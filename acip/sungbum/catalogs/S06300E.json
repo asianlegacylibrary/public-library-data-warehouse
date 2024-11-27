@@ -6,7 +6,7 @@
     "revision_id": "625a48893f6a18d294473",
     "content_hash": "fc2766d5be7d2c8d805d7ff1a4e5be978878b1823c3260454d207a1e6cbf440b",
     "server_modified": "2024-10-29 21:47:36",
-    "last_sync": "2024-11-19 20:57:32.551732",
+    "last_sync": "2024-11-26 15:25:30.912740",
     "size": 8038,
     "meta_text": null,
     "cat_ref": "S06300E",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/KU RU KUL LE_KURUKULLE (KURUKULLE)/BSTOD PA_SONGS OF PRAISE (STOTRA)",
-            "timestamp": "2024-11-20 04:57:32.556997+00:00"
+            "timestamp": "2024-11-26 23:25:30.917535+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:57:32.556997+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:25:30.917535+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

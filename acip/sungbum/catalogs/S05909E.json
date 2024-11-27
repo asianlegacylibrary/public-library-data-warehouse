@@ -6,7 +6,7 @@
     "revision_id": "625a48bec2d368d294473",
     "content_hash": "ddc344dce48e91df06f62e797595e05dde23ebf28ceec205f72d5b5f05bf870b",
     "server_modified": "2024-10-29 21:48:32",
-    "last_sync": "2024-11-19 21:00:43.395182",
+    "last_sync": "2024-11-26 15:27:49.963953",
     "size": 3518,
     "meta_text": null,
     "cat_ref": "S05909E",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DRUG CU PA_OFFERING OF THE SIXTY (SHASHTITAMA)/MCHOD PA_OFFERING",
-            "timestamp": "2024-11-20 05:00:44.084695+00:00"
+            "timestamp": "2024-11-26 23:27:50.354285+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:00:44.084695+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:27:50.354285+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

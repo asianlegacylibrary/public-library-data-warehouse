@@ -6,7 +6,7 @@
     "revision_id": "625a495a323af8d294473",
     "content_hash": "f6cb35609a3f289789e4c1ee9b974d292e6c6224e163b74164f17cdc4dd51750",
     "server_modified": "2024-10-29 21:51:15",
-    "last_sync": "2024-11-19 21:07:29.659542",
+    "last_sync": "2024-11-26 15:32:28.734159",
     "size": 7376,
     "meta_text": null,
     "cat_ref": "S05301E4",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/'GREL PA_COMMENTARIES",
-            "timestamp": "2024-11-20 05:07:30.286228+00:00"
+            "timestamp": "2024-11-26 23:32:29.077767+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:07:30.286228+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:32:29.077767+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

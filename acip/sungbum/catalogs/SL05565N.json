@@ -6,13 +6,13 @@
     "revision_id": "625a47ff2c8dd8d294473",
     "content_hash": "72494cb3cc2117a258077b57a198881443b1fa5958e3f40b6f65d5f8abbb28e7",
     "server_modified": "2024-10-29 21:45:11",
-    "last_sync": "2024-11-19 20:52:44.990733",
+    "last_sync": "2024-11-26 15:22:14.303759",
     "size": 297964,
-    "meta_text": "(\"in ‘Distinguishing between the Figurative and the Literal,’ found in the Collected Works of the Holy and Omniscient One_RGYAL BA DGE 'DUN RGYA MTSO (1476-1542)\", 'rtf')",
+    "meta_text": "in ‘Distinguishing between the Figurative and the Literal,’ found in the Collected Works of the Holy and Omniscient One_RGYAL BA DGE 'DUN RGYA MTSO (1476-1542)",
     "cat_ref": "SL05565N",
     "work_ref": "W.SL05565N",
     "title_tib": "RJE BTZUN THAMS CAD MKHYEN PA'I GSUNG 'BUM LAS DRANG NGES RNAM 'BYED KYI DKA' 'GREL DGONGS PA'I DON RAB TU GSAL BAR BYED PA'I SGRON ME",
-    "title_eng": "The 'Lamp that Illuminates, with Total Clarity, the True Intent,' being a Commentary on Difficult Points(\"in ‘Distinguishing between the Figurative and the Literal,’ found in the Collected Works of the Holy and Omniscient One",
+    "title_eng": "The 'Lamp that Illuminates, with Total Clarity, the True Intent,' being a Commentary on Difficult Pointsin ‘Distinguishing between the Figurative and the Literal,’ found in the Collected Works of the Holy and Omniscient One",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DRANG NGES_ART OF INTERPRETATION/RGYAL BA DGE 'DUN RGYA MTSO_GYALWA GENDUN GYATSO (1476-1542)",
-            "timestamp": "2024-11-20 04:52:44.997289+00:00"
+            "timestamp": "2024-11-26 23:22:14.310674+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:52:44.997289+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:22:14.310674+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

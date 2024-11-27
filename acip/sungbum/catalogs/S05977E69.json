@@ -6,9 +6,9 @@
     "revision_id": "625a49908aae48d294473",
     "content_hash": "b258e3d4be34e0f36c9ffebcefc4b8fccf876b02c37431966ad47ab19fbb311e",
     "server_modified": "2024-10-29 21:52:12",
-    "last_sync": "2024-11-19 21:10:36.015915",
+    "last_sync": "2024-11-26 15:34:39.820209",
     "size": 12028,
-    "meta_text": "('565-1662)', 'rtf')",
+    "meta_text": "565-1662)",
     "cat_ref": "S05977E69",
     "work_ref": "W.S05977E69",
     "title_tib": "JIGS BYED ZHAL GCIG PHYAG GNYIS PA'I SGRUB THABS DNGOS GRUB KUN 'BYUNG",
@@ -31,8 +31,8 @@
     "author": [
         {
             "author_name": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
-            "author_birth": null,
-            "author_death": null,
+            "author_birth": "1565",
+            "author_death": "1662",
             "bdrc_id": "bdr:P719",
             "normalized_name": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "timestamp": "2024-11-20 05:10:39.237594+00:00"
+            "timestamp": "2024-11-26 23:34:41.978870+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:10:39.237594+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:34:41.978870+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

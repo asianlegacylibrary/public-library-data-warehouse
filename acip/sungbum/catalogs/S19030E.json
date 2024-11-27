@@ -6,9 +6,9 @@
     "revision_id": "625a48465ca598d294473",
     "content_hash": "07117d6d14863b12834e199cead2483fb498e456b41105147a437abe024a0ae4",
     "server_modified": "2024-10-29 21:46:26",
-    "last_sync": "2024-11-19 20:54:13.563096",
+    "last_sync": "2024-11-26 15:23:15.447143",
     "size": 9971,
-    "meta_text": "(\"DO RJE NGAG DBANG BRTZON 'GRUS (1648-1721)\", 'rtf')",
+    "meta_text": "DO RJE NGAG DBANG BRTZON 'GRUS (1648-1721)",
     "cat_ref": "S19030E",
     "work_ref": "W.S19030E",
     "title_tib": "KUN MKHYEN BLA MA'I RNAM THAR DANG, BYA KA LAN TA KA'I DRIS LAN LEGS PAR BSHAD PA AE MA HO",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/'JAM DBYANGS BZHAD PA'I RDO RJE (1648-1721)",
-            "timestamp": "2024-11-20 04:54:14.111661+00:00"
+            "timestamp": "2024-11-26 23:23:15.797752+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS_JAMYANG SHEPAY DORJE NGAWANG TSUNDRU (1648-1721)",
-            "timestamp": "2024-11-20 05:14:41.150074+00:00"
+            "timestamp": "2024-11-26 23:37:24.373756+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:14.111661+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:15.797752+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:14:41.150074+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:37:24.373756+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

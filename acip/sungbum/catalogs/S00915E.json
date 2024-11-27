@@ -6,7 +6,7 @@
     "revision_id": "625a479d84ca08d294473",
     "content_hash": "92a58e9fb00b90070ce76fc8e19208e1a0306775c4bdddb873bee99d76533c2b",
     "server_modified": "2024-10-29 21:43:29",
-    "last_sync": "2024-11-19 20:48:12.809797",
+    "last_sync": "2024-11-26 15:19:19.708657",
     "size": 29175,
     "meta_text": null,
     "cat_ref": "S00915E",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/RNAM THAR SGO GSUM_3 DOORS OF FREEDOM",
-            "timestamp": "2024-11-20 04:48:12.813797+00:00"
+            "timestamp": "2024-11-26 23:19:19.713814+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/RNAM THAR SGO GSUM GYI RNAM BZHAG_PRESENTATIONS ON THE THREE DOORS TO FREEDOM",
-            "timestamp": "2024-11-20 04:51:13.422604+00:00"
+            "timestamp": "2024-11-26 23:21:13.222540+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:48:12.813797+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:19:19.713814+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T04:51:13.422604+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:21:13.222540+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

@@ -6,13 +6,13 @@
     "revision_id": "625a487ff259a8d294473",
     "content_hash": "69b8a209a7c3b19f1b033ea555fa3baad1b9315e18af602ee186cd8e2b30f8fd",
     "server_modified": "2024-10-29 21:47:26",
-    "last_sync": "2024-11-19 20:56:55.313167",
+    "last_sync": "2024-11-26 15:25:04.193589",
     "size": 15750,
-    "meta_text": "('d (Hevajra)_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)', 'rtf')",
+    "meta_text": "d (Hevajra)_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)",
     "cat_ref": "S05355E",
     "work_ref": "W.S05355E",
     "title_tib": "KYEE RDO RJE'I RGYUD KYI ZIN BRIS RJES GNANG BA DANG KYEE RDO RJE'I ZIN BRIS BCAS",
-    "title_eng": "Notes Granted by Je Tsongkapa on the Secret Text of Lo Diamond (Hevajra), along with an Additional Work consisting of Notes on the Secret Teaching of Lo Diamon('d (Hevajra)",
+    "title_eng": "Notes Granted by Je Tsongkapa on the Secret Text of Lo Diamond (Hevajra), along with an Additional Work consisting of Notes on the Secret Teaching of Lo Diamond (Hevajra)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/KYE RDOR_LO DIAMOND (HEVAJRA)/'GREL PA_COMMENTARIES",
-            "timestamp": "2024-11-20 04:56:55.323340+00:00"
+            "timestamp": "2024-11-26 23:25:04.202930+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:56:55.323340+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:25:04.202930+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

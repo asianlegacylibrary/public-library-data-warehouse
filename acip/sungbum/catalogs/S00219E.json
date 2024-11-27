@@ -6,12 +6,12 @@
     "revision_id": "625a47e30d2c08d294473",
     "content_hash": "ba0c103f3eda6e9b43245a4d03cbce160ba3339e7d24612ec9ed80ddb32b3555",
     "server_modified": "2024-10-29 21:44:42",
-    "last_sync": "2024-11-19 20:51:44.037083",
+    "last_sync": "2024-11-26 15:21:35.260105",
     "size": 53403,
-    "meta_text": "(\"AA KY'A YONGS 'DZIN BLO BZANG DON GRUB DBYANGS CAN DGA' BA'I  BLO GROS (1774-1829)\", 'rtf')",
+    "meta_text": "AA KY'A YONGS 'DZIN BLO BZANG DON GRUB DBYANGS CAN DGA' BA'I  BLO GROS (1774-1829)",
     "cat_ref": "S00219E",
     "work_ref": "W.S00219E",
-    "title_tib": "MTHA' BRAL GYI RIGS PA'I DKA' GNAS GSAL BAR BYED PA DE NYID GSAL BA'I SGRON ME(\"AA KY'A YONGS 'DZIN BLO BZANG DON GRUB DBYANGS CAN DGA' BA'I  BLO GROS (1774-1829)\", 'rtf')",
+    "title_tib": "MTHA' BRAL GYI RIGS PA'I DKA' GNAS GSAL BAR BYED PA DE NYID GSAL BA'I SGRON MEAA KY'A YONGS 'DZIN BLO BZANG DON GRUB DBYANGS CAN DGA' BA'I  BLO GROS (1774-1829)",
     "title_eng": "",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
@@ -46,23 +46,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/LTA KHRID_TEACHINGS ON CORRECT VIEW OF EMPTINESS",
-            "timestamp": "2024-11-20 04:51:44.048094+00:00"
+            "timestamp": "2024-11-26 23:21:35.269074+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/GRUB MTHA'_COMPARATIVE PHILOSOPHY (SIDDHANTA)/AA KY'A YONGS 'DZIN BLO BZANG DON GRUB DBYANGS CAN DGA' BA'I  BLO GROS _AKYA YONGDZIN LOBSANG DUNDRUP YANGCHEN GAWAY LODRU",
-            "timestamp": "2024-11-20 05:19:17.577696+00:00"
+            "timestamp": "2024-11-26 23:40:36.945295+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:51:44.048094+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:21:35.269074+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:19:17.577696+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:40:36.945295+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

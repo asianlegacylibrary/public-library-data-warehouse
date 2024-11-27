@@ -6,13 +6,13 @@
     "revision_id": "625a4862b08558d294473",
     "content_hash": "2a640f80e4a72ce88c251bab9fd1097ac448b5df9f98a072aee81c4f0b3f93ee",
     "server_modified": "2024-10-29 21:46:56",
-    "last_sync": "2024-11-19 20:55:20.768277",
+    "last_sync": "2024-11-26 15:24:00.614205",
     "size": 26196,
-    "meta_text": "('t of Sandalwood (Khadiravani)_DNGUL CHU DHARMA BHADRA (1772-1851)', 'rtf')",
+    "meta_text": "t of Sandalwood (Khadiravani)_DNGUL CHU DHARMA BHADRA (1772-1851)",
     "cat_ref": "S06319E",
     "work_ref": "W.S06319E",
     "title_tib": "RJE BTZUN SENG LDENG NAGS KYI SGROL MA'I BSTOD PA LEGS BRIS MA'I GRAGS PA'I 'GREL PA NYUNG NGU RNAM GSAL",
-    "title_eng": "'A Few Words of Illumination,' being a Commentary to 'The Lovely Image,' a Praise of the Holy Lady of Liberation (Tara), from the Fores('t of Sandalwood (Khadiravani)",
+    "title_eng": "'A Few Words of Illumination,' being a Commentary to 'The Lovely Image,' a Praise of the Holy Lady of Liberation (Tara), from the Forest of Sandalwood (Khadiravani)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SENG LDENG NAGS SGROL_LADY OF LIBERATION FROM THE FOREST OF SANDALWOOD (KHADIRAVANITARA)/BSTOD PA_SONGS OF PRAISE (STOTRA)",
-            "timestamp": "2024-11-20 04:55:20.773710+00:00"
+            "timestamp": "2024-11-26 23:24:00.619079+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:55:20.773710+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:24:00.619079+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

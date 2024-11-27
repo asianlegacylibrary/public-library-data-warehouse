@@ -6,13 +6,13 @@
     "revision_id": "625a49dfd43a48d294473",
     "content_hash": "a5fa59e8e66a54ad9cf9026871a4c6190f3afe809dafe47bf2274c9750f916bc",
     "server_modified": "2024-10-29 21:53:35",
-    "last_sync": "2024-11-19 21:13:46.932957",
+    "last_sync": "2024-11-26 15:36:47.775983",
     "size": 104857,
-    "meta_text": "(\"and Those of the Secret Word_'BRAS SPUNGS BLO GSAL GLING GI TRE'O DGE BSHES TSE DBANG BSAM\\r\\n'GRUB (1835-&)\", 'text')",
+    "meta_text": "and Those of the Secret Word_'BRAS SPUNGS BLO GSAL GLING GI TRE'O DGE BSHES TSE DBANG BSAM\r\n'GRUB (1835-&)",
     "cat_ref": "S00201I",
     "work_ref": "W.S00201I",
     "title_tib": "SO THAR BYANG SEMS GSANG SNGAGS GSUM GYI SDOM PA'I BSLAB BYA NOR BU'I 'OD 'PHRENG",
-    "title_eng": "The 'String of Shining Jewels,' being an Explanation of the Rules contained in the Three Types of Vows-- Those of Individual Freedom, Those of the Bodhisattva,(\"and Those of the Secret Word",
+    "title_eng": "The 'String of Shining Jewels,' being an Explanation of the Rules contained in the Three Types of Vows-- Those of Individual Freedom, Those of the Bodhisattva,and Those of the Secret Word",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/SDOM GSUM_THREE SETS OF VOWS",
-            "timestamp": "2024-11-20 05:13:46.944320+00:00"
+            "timestamp": "2024-11-26 23:36:47.791917+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/BYANG SEMS KYI SDOM PA_BODHISATTVA VOWS",
-            "timestamp": "2024-11-20 05:17:56.880407+00:00"
+            "timestamp": "2024-11-26 23:39:39.940252+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:13:46.944320+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:36:47.791917+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:17:56.880407+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:39:39.940252+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

@@ -6,13 +6,13 @@
     "revision_id": "625a48e6b02d08d294473",
     "content_hash": "a667fe18bd95d9a2be988942452118f551886bad0f170f47673045bfcb551ceb",
     "server_modified": "2024-10-29 21:49:14",
-    "last_sync": "2024-11-19 21:03:00.198861",
+    "last_sync": "2024-11-26 15:29:22.444348",
     "size": 102697,
-    "meta_text": "('ttvas’_SKYABS RJE KHRI BYANG RIN PO CHE (1901-1981)', 'rtf')",
+    "meta_text": "ttvas’_SKYABS RJE KHRI BYANG RIN PO CHE (1901-1981)",
     "cat_ref": "S00238M",
     "work_ref": "W.S00238M",
     "title_tib": "GYI NA PA ZHIG GIS DAM CHOS BDUD RTZI'I BGO SKAL MNOS PA'I RNAM GZHAG RGYAL SRAS RGYA MTSO'I 'JUG NGOGS LAS KHRID KYI SKOR",
-    "title_eng": "The Section on General Teachings Received, from 'A Point of Entry for Those who Wish to Enter the Ocean of the Bodhisa('ttvas’",
+    "title_eng": "The Section on General Teachings Received, from 'A Point of Entry for Those who Wish to Enter the Ocean of the Bodhisattvas’",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BLA BRGYUD_LINEAGE LAMAS",
-            "timestamp": "2024-11-20 05:03:04.121009+00:00"
+            "timestamp": "2024-11-26 23:29:25.096581+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/BLA BRGYUD_LAMA LINEAGE TREES",
-            "timestamp": "2024-11-20 05:26:56.473742+00:00"
+            "timestamp": "2024-11-26 23:45:40.909011+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:03:04.121009+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:29:25.096581+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:26:56.473742+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:45:40.909011+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

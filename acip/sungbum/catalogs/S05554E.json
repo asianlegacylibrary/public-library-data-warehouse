@@ -6,13 +6,13 @@
     "revision_id": "625a4872a2b508d294473",
     "content_hash": "b679b52ca6caab844795fe7d897aa6cbfa555307588fe8a7f55c06b007d18b22",
     "server_modified": "2024-10-29 21:47:12",
-    "last_sync": "2024-11-19 20:56:17.250187",
+    "last_sync": "2024-11-26 15:24:36.027140",
     "size": 22654,
-    "meta_text": "(\"orks of the Holy and Omniscient One_RGYAL BA DGE 'DUN RGYA MTSO (1476-1542)\", 'text')",
+    "meta_text": "orks of the Holy and Omniscient One_RGYAL BA DGE 'DUN RGYA MTSO (1476-1542)",
     "cat_ref": "S05554E",
     "work_ref": "W.S05554E",
     "title_tib": "RJE BTZUN THAMS CAD MKHYEN PA'I GSUNG 'BUM THOR BU LAS BDE MCHOG DRIL BU LUGS KYI SBYIN SREG",
-    "title_eng": "A Fire Offering in the Practice of Highest Bliss (Shamvara), According to the Tradition of Gantapada, from Assorted Writings found in the Collected W(\"orks of the Holy and Omniscient One",
+    "title_eng": "A Fire Offering in the Practice of Highest Bliss (Shamvara), According to the Tradition of Gantapada, from Assorted Writings found in the Collected Works of the Holy and Omniscient One",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -38,13 +38,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/SBYIN SREG_FIRE OFFERING (HOMA)",
-            "timestamp": "2024-11-20 04:56:18.710042+00:00"
+            "timestamp": "2024-11-26 23:24:36.912620+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:56:18.710042+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:24:36.912620+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

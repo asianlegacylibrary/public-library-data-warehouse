@@ -6,13 +6,13 @@
     "revision_id": "625a48615da668d294473",
     "content_hash": "28dd9c689af6ca1f4a8ebdbf15cc64822c5b46b6b7b308c5f1750b62bc22f9dd",
     "server_modified": "2024-10-29 21:46:54",
-    "last_sync": "2024-11-19 20:55:09.967775",
+    "last_sync": "2024-11-26 15:23:52.431842",
     "size": 3988,
-    "meta_text": "('llment in the Teaching of the Glorious Four-Faced One (Chaturmukha)_SKYABS RJE KHRI BYANG RIN PO CHE (1901-1981)', 'rtf')",
+    "meta_text": "llment in the Teaching of the Glorious Four-Faced One (Chaturmukha)_SKYABS RJE KHRI BYANG RIN PO CHE (1901-1981)",
     "cat_ref": "S00248E",
     "work_ref": "W.S00248E",
     "title_tib": "DPAL MGON ZHAL BZHI PA'I BSKANG GSO'I DBYANGS YIG SNYAN BRJID GDONG BZHI'I BZHAD SGRA ZHAL BZHI PA'I BSKANG GSO'I DBYANGS YIG",
-    "title_eng": "'The Sweet Glory of the Admonition of the Four-Faced One,' being a Book of Musical Notation for the Rite of Fulfi('llment in the Teaching of the Glorious Four-Faced One (Chaturmukha)",
+    "title_eng": "'The Sweet Glory of the Admonition of the Four-Faced One,' being a Book of Musical Notation for the Rite of Fulfillment in the Teaching of the Glorious Four-Faced One (Chaturmukha)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/MGON PO_THE PROTECTOR (MAHAKALA)/BSKANG GSO_RITUAL OF FULFILLMENT AND RESTORATION",
-            "timestamp": "2024-11-20 04:55:09.972564+00:00"
+            "timestamp": "2024-11-26 23:23:52.440222+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/DBYANGS YIG_BOOK OF MUSICAL NOTATION",
-            "timestamp": "2024-11-20 05:02:49.783389+00:00"
+            "timestamp": "2024-11-26 23:29:15.172188+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:55:09.972564+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:52.440222+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:02:49.783389+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:29:15.172188+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

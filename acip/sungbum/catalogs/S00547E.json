@@ -6,9 +6,9 @@
     "revision_id": "625a492e12a498d294473",
     "content_hash": "fd6afa9e6346bd2fd2227320c8fae41ddffcf4d8a0cba5d4d6ea103b6d45ee5a",
     "server_modified": "2024-10-29 21:50:29",
-    "last_sync": "2024-11-19 21:05:32.296863",
+    "last_sync": "2024-11-26 15:31:11.245808",
     "size": 11749,
-    "meta_text": "(\"BLO BZANG BYANG CHUB BSTAN PA'I SGRON ME (1861-1933@)\", 'rtf')",
+    "meta_text": "BLO BZANG BYANG CHUB BSTAN PA'I SGRON ME (1861-1933@)",
     "cat_ref": "S00547E",
     "work_ref": "W.S00547E",
     "title_tib": "ME TOG BCUD LEN GYI KHRID GNANG SKABS KYI BRJED BYANG",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BCUD LEN_PRACTICE OF LIVING OFF FLOWER ESSENCES",
-            "timestamp": "2024-11-20 05:05:32.308873+00:00"
+            "timestamp": "2024-11-26 23:31:11.262899+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:05:32.308873+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:31:11.262899+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

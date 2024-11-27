@@ -6,7 +6,7 @@
     "revision_id": "625a476e14bec8d294473",
     "content_hash": "3a088f321cb8bd37a182211d4d53ba6bfc4310eb6cd6985f647ca374a2948990",
     "server_modified": "2024-10-29 21:42:39",
-    "last_sync": "2024-11-19 20:46:09.142539",
+    "last_sync": "2024-11-26 15:17:50.449114",
     "size": 54799,
     "meta_text": null,
     "cat_ref": "S12042E",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/MDO 'GREL_COMMENTARIES TO SUTRAS/MDO SDE DKON BRTZEGS_SUTRA OF THE HEAP OF JEWELS",
-            "timestamp": "2024-11-20 04:46:09.147062+00:00"
+            "timestamp": "2024-11-26 23:17:50.458528+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:46:09.147062+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:17:50.458528+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

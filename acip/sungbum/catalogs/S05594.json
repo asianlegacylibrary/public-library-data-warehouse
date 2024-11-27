@@ -6,7 +6,7 @@
     "revision_id": "625a4a1c0efd58d294473",
     "content_hash": "38914f29afcf868a5e4a6237396ea0427e5f28185748e2bc89c0b552ff1b1340",
     "server_modified": "2024-10-29 21:54:38",
-    "last_sync": "2024-11-19 21:16:12.639574",
+    "last_sync": "2024-11-26 15:38:28.223334",
     "size": 51778,
     "meta_text": null,
     "cat_ref": "S05594",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/DKON MCHOG CHOS 'PHEL_KONCHOK CHUPEL (1573-1646)",
-            "timestamp": "2024-11-20 05:16:12.643632+00:00"
+            "timestamp": "2024-11-26 23:38:28.228977+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:16:12.643632+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:38:28.228977+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

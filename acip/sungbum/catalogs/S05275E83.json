@@ -6,13 +6,13 @@
     "revision_id": "625a49103385d8d294473",
     "content_hash": "a4700b86c2f9c25732bcbc66a97791f202fce8a5d2ba22a04ed2b68879ea1db5",
     "server_modified": "2024-10-29 21:49:58",
-    "last_sync": "2024-11-19 21:04:24.639548",
+    "last_sync": "2024-11-26 15:30:25.398918",
     "size": 13254,
-    "meta_text": "('st of the Dharma Lord Shakya Yeshe as He was Setting Out on a Journey to the Land of China_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)', 'rtf')",
+    "meta_text": "st of the Dharma Lord Shakya Yeshe as He was Setting Out on a Journey to the Land of China_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)",
     "cat_ref": "S05275E83",
     "work_ref": "W.S05275E83",
     "title_tib": "CHOS RJE SH'AKYA YE SHES RGYA YUL DU THEGS DUS BSRE BA GSUM DANG 'PHO BA'I SKOR GYI GDAMS PA ZHUS PA'I DON DU MDZAD PA",
-    "title_eng": "Words of Instruction on the Practice of the Three Forms of Mixing, and the Practice of Transference, written at the Behe('st of the Dharma Lord Shakya Yeshe as He was Setting Out on a Journey to the Land of China",
+    "title_eng": "Words of Instruction on the Practice of the Three Forms of Mixing, and the Practice of Transference, written at the Behest of the Dharma Lord Shakya Yeshe as He was Setting Out on a Journey to the Land of China",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BSRE BA_THE PRACTICE OF MIXING",
-            "timestamp": "2024-11-20 05:04:24.645839+00:00"
+            "timestamp": "2024-11-26 23:30:25.404444+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/'PHO BA_TRANSFERRING CONSCIOUSNESS",
-            "timestamp": "2024-11-20 05:05:13.082061+00:00"
+            "timestamp": "2024-11-26 23:30:57.629242+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:04:24.645839+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:30:25.404444+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:05:13.082061+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:30:57.629242+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

@@ -6,13 +6,13 @@
     "revision_id": "625a481c9e9788d294473",
     "content_hash": "516485cfbe71773eacbd01c91ce0afb3d145a93dd9392a2ce5c370dfc2183076",
     "server_modified": "2024-10-29 21:45:42",
-    "last_sync": "2024-11-19 20:53:38.677858",
+    "last_sync": "2024-11-26 15:22:51.055399",
     "size": 1003,
-    "meta_text": "('the Confession of Downfalls_DNGUL CHU DHARMA BHADRA (1772-1851)', 'text')",
+    "meta_text": "the Confession of Downfalls_DNGUL CHU DHARMA BHADRA (1772-1851)",
     "cat_ref": "S06370M88",
     "work_ref": "W.S06370M88",
     "title_tib": "LTUNG BSHAGS KYI MI DGE BA BCU'I LAS KYI LAM YANG DAG PAR BLANG BA LA ZHUGS PA, ZHES PA'I DON GYI SKOR GYI DRI LAN",
-    "title_eng": "Response to a Question on the Expression 'Following Purely the Paths of Action for the Ten Bad Deeds' in the Recitation of t('the Confession of Downfalls",
+    "title_eng": "Response to a Question on the Expression 'Following Purely the Paths of Action for the Ten Bad Deeds' in the Recitation of tthe Confession of Downfalls",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 04:54:07.134591+00:00"
+            "timestamp": "2024-11-26 23:23:11.587639+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/LTUNG BSHAGS_CONFESSION OF DOWNFALLS",
-            "timestamp": "2024-11-20 05:12:49.714299+00:00"
+            "timestamp": "2024-11-26 23:36:10.638189+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:07.134591+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:11.587639+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:12:49.714299+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:36:10.638189+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

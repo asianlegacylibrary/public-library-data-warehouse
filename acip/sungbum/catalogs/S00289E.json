@@ -6,13 +6,13 @@
     "revision_id": "625a486ac74ee8d294473",
     "content_hash": "ad683251abf57062833d1419ba46c993ce279657e54f5676df232122733146fc",
     "server_modified": "2024-10-29 21:47:04",
-    "last_sync": "2024-11-19 20:55:51.876440",
+    "last_sync": "2024-11-26 15:24:21.062948",
     "size": 41457,
-    "meta_text": "('in keeping with the Tradition of the Great and Accomplished Saint, Ghantapada_& (&-&)', 'rtf')",
+    "meta_text": "in keeping with the Tradition of the Great and Accomplished Saint, Ghantapada_& (&-&)",
     "cat_ref": "S00289E",
     "work_ref": "W.S00289E",
     "title_tib": "GRUB CHEN DRIL BU PA'I LUGS KYI 'KHOR LO BDE MCHOG LUS DKYIL GYI BDAG BSKYED MDOR BSDUS",
-    "title_eng": "A Brief Practice for Making Oneself the Deity in the Secret World of the Body according to the Teachings of the Sphere of Highest Bliss (Chakrasamvara),('in keeping with the Tradition of the Great and Accomplished Saint, Ghantapada& (&-&)', 'rtf')",
+    "title_eng": "A Brief Practice for Making Oneself the Deity in the Secret World of the Body according to the Teachings of the Sphere of Highest Bliss (Chakrasamvara),in keeping with the Tradition of the Great and Accomplished Saint, Ghantapada",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -38,13 +38,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/LUS DKYIL_SECRET WORLD OF THE BODY",
-            "timestamp": "2024-11-20 04:55:59.792083+00:00"
+            "timestamp": "2024-11-26 23:24:25.167137+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:55:59.792083+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:24:25.167137+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

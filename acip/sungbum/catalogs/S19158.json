@@ -6,7 +6,7 @@
     "revision_id": "625a4771e57da8d294473",
     "content_hash": "41d1c1884aa0d01b8269e85f2b0b4cb96e186c3567332e4f9e26cdfaf32a679d",
     "server_modified": "2024-10-29 21:42:43",
-    "last_sync": "2024-11-19 20:46:25.147677",
+    "last_sync": "2024-11-26 15:18:01.690785",
     "size": 40399,
     "meta_text": null,
     "cat_ref": "S19158",
@@ -38,13 +38,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/MDO 'GREL_COMMENTARIES TO SUTRAS/RNAM PAR 'THAG PA BSDUS PA'I MDO (SARVA VAIDALYA SANGRAHA SUTRA)_CRUSHING TO DUST SUTRA",
-            "timestamp": "2024-11-20 04:46:25.151894+00:00"
+            "timestamp": "2024-11-26 23:18:01.696973+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:46:25.151894+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:18:01.696973+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

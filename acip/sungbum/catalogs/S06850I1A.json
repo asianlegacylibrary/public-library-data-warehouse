@@ -6,13 +6,13 @@
     "revision_id": "625a49cfb456b8d294473",
     "content_hash": "5a01fb2c5dd76875dc4fa12d3337b3a7a3adbfb950b1ccc2df3a08af1b8411b6",
     "server_modified": "2024-10-29 21:53:18",
-    "last_sync": "2024-11-19 21:13:12.545959",
+    "last_sync": "2024-11-26 15:36:25.341848",
     "size": 870098,
-    "meta_text": "('cipline_MTSO SNA BA SHES RAB BZANG PO (c.1200)', 'text')",
+    "meta_text": "cipline_MTSO SNA BA SHES RAB BZANG PO (c.1200)",
     "cat_ref": "S06850I1A",
     "work_ref": "W.S06850I1A",
     "title_tib": "'DUL BA MDO RTZA'I RNAM BSHAD NYI MA'I 'OD ZER LEGS BSHAD LUNG GI RGYA MTSO, STOD CHA'I CHA DANG PO",
-    "title_eng": "Part A of Volume One of 'The Light of the Sun,' an Ocean of the Word of Fine Commentary, in Explanation of the Root Summary on Buddhist Dis('cipline",
+    "title_eng": "Part A of Volume One of 'The Light of the Sun,' an Ocean of the Word of Fine Commentary, in Explanation of the Root Summary on Buddhist Discipline",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/MTSO SNA BA SHES RAB BZANG PO_TSONAWA SHERAB SANGPO",
-            "timestamp": "2024-11-20 05:13:14.284362+00:00"
+            "timestamp": "2024-11-26 23:36:26.098904+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:13:14.284362+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:36:26.098904+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

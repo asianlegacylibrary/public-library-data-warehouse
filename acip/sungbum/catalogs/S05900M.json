@@ -6,9 +6,9 @@
     "revision_id": "625a4aa1840638d294473",
     "content_hash": "c5762807677573422ef320fdd2339b48bc3cf566982991f4ee9609e6414eab9c",
     "server_modified": "2024-10-29 21:56:58",
-    "last_sync": "2024-11-19 21:20:40.473172",
+    "last_sync": "2024-11-26 15:41:38.674672",
     "size": 2311,
-    "meta_text": "('L MTSAN (1565-1662)', 'rtf')",
+    "meta_text": "L MTSAN (1565-1662)",
     "cat_ref": "S05900M",
     "work_ref": "W.S05900M",
     "title_tib": "RGYAL SRAS SHES RAB 'PHEL GYI SPRUL SKU'I GSOL 'DEBS DANG DGE SLONG MKHAR SKYA PA'I BKA' LAN",
@@ -41,23 +41,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/GSOL 'DEBS_PRAYERS OF SUPPLICATION/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
-            "timestamp": "2024-11-20 05:20:45.656665+00:00"
+            "timestamp": "2024-11-26 23:41:41.742733+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/GSOL 'DEBS_PRAYERS OF SUPPLICATION/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
-            "timestamp": "2024-11-20 05:21:15.474294+00:00"
+            "timestamp": "2024-11-26 23:42:04.596534+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:20:45.656665+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:41:41.742733+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:21:15.474294+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:42:04.596534+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

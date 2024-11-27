@@ -6,13 +6,13 @@
     "revision_id": "625a49908aad28d294473",
     "content_hash": "490384e3bc7ce36dfa8a5aeeab26dcb24ab8bb996cb53513853a629b6f0a64ce",
     "server_modified": "2024-10-29 21:52:12",
-    "last_sync": "2024-11-19 21:10:29.506478",
+    "last_sync": "2024-11-26 15:34:35.874026",
     "size": 64767,
-    "meta_text": "('arrior (Eka Vira)_SKYABS RJE PHA BONG KHA PA BDE CHEN SNYING PO (1878-1941)', 'rtf')",
+    "meta_text": "arrior (Eka Vira)_SKYABS RJE PHA BONG KHA PA BDE CHEN SNYING PO (1878-1941)",
     "cat_ref": "S00328E",
     "work_ref": "W.S00328E",
     "title_tib": "BCOM LDAN 'DAS DPAL RDO RJE 'JIGS BYED DPA' BO GCIG PA'I SGRUB THABS BDUD LAS RNAM RGYAL",
-    "title_eng": "'Total Victory over the Demons,' being a Ritual for Reaching the Conqueror, the Glorious Diamond Frightener (Vajra Bhairava), in His For as a Solitary W('arrior (Eka Vira)",
+    "title_eng": "'Total Victory over the Demons,' being a Ritual for Reaching the Conqueror, the Glorious Diamond Frightener (Vajra Bhairava), in His For as a Solitary Warrior (Eka Vira)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "timestamp": "2024-11-20 05:10:39.236342+00:00"
+            "timestamp": "2024-11-26 23:34:41.975684+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:10:39.236342+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:34:41.975684+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

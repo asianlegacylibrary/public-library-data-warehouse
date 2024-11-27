@@ -6,7 +6,7 @@
     "revision_id": "625a4af76fa0a8d294473",
     "content_hash": "85bcf2667290dfc8518f88431fa0ebe20d81246e337f94847824a81b9132e199",
     "server_modified": "2024-10-29 21:58:28",
-    "last_sync": "2024-11-19 21:26:00.902347",
+    "last_sync": "2024-11-26 15:45:03.276838",
     "size": 88304,
     "meta_text": null,
     "cat_ref": "S05315I",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/CHO GA_RITUALS/RAB GNAS_CONSECRATION RITUALS",
-            "timestamp": "2024-11-20 05:26:03.316923+00:00"
+            "timestamp": "2024-11-26 23:45:04.408702+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:26:03.316923+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:45:04.408702+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

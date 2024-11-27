@@ -6,7 +6,7 @@
     "revision_id": "625a49dfd43998d294473",
     "content_hash": "76f3f91dd5b6cc4fc54732d6ac2c56cb5250ffab1d4350d13339a4edbe5f24dc",
     "server_modified": "2024-10-29 21:53:35",
-    "last_sync": "2024-11-19 21:13:41.571919",
+    "last_sync": "2024-11-26 15:36:44.029211",
     "size": 163503,
     "meta_text": null,
     "cat_ref": "S05524E",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/'DUL BA MDO RTZA BA_SUTRA ON VOWED MORALITY (VINAYA SUTRA)",
-            "timestamp": "2024-11-20 05:13:41.576188+00:00"
+            "timestamp": "2024-11-26 23:36:44.035801+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:13:41.576188+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:36:44.035801+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

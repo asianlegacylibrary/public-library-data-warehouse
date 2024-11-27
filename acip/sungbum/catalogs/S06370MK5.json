@@ -6,9 +6,9 @@
     "revision_id": "625a47e9c5c4e8d294473",
     "content_hash": "4ca2ff80d3c34090e88f4017a24dce5bda0f6efd04137616a4353361b92cd467",
     "server_modified": "2024-10-29 21:44:49",
-    "last_sync": "2024-11-19 20:51:50.919787",
+    "last_sync": "2024-11-26 15:21:40.578132",
     "size": 629,
-    "meta_text": "('RA (1772-1851)', 'rtf')",
+    "meta_text": "RA (1772-1851)",
     "cat_ref": "S06370MK5",
     "work_ref": "W.S06370MK5",
     "title_tib": "THAL 'GYUR BAS CHOS THAMS CAD MING RKYANG BTEGS YOD TZAM YIN GSUNG BA'I MING RKYANG DE JI LTAR YIN PA'I DRI LAN",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 04:51:50.927334+00:00"
+            "timestamp": "2024-11-26 23:21:40.586145+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 04:54:07.142133+00:00"
+            "timestamp": "2024-11-26 23:23:11.596439+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:51:50.927334+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:21:40.586145+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T04:54:07.142133+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:11.596439+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

@@ -6,9 +6,9 @@
     "revision_id": "625a483030e718d294473",
     "content_hash": "b4d19d5d85ad5dc993bda354da746c20be6b11e14ef323d99414be06ee67dacf",
     "server_modified": "2024-10-29 21:46:03",
-    "last_sync": "2024-11-19 20:53:52.539656",
+    "last_sync": "2024-11-26 15:23:00.480516",
     "size": 131,
-    "meta_text": "('ADRA (1772-1851)', 'rtf')",
+    "meta_text": "ADRA (1772-1851)",
     "cat_ref": "S06370EC0",
     "work_ref": "W.S06370EC0",
     "title_tib": "'KHOR 'DAS KYI MKHYEN RAB SPRO NA SKU YIS CHE ZHING ZHES PA'I SKOR GYI DRI LAN",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 04:54:07.138660+00:00"
+            "timestamp": "2024-11-26 23:23:11.592453+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/'GREL PA_GENERAL COMMENTARIES/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 05:05:26.959409+00:00"
+            "timestamp": "2024-11-26 23:31:07.433142+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:07.138660+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:11.592453+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:05:26.959409+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:31:07.433142+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

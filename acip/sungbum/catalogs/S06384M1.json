@@ -6,7 +6,7 @@
     "revision_id": "625a4acd38a588d294473",
     "content_hash": "081e88b94df2a22373f4c79baf454c05ca0c112fb2b259b8708a69b503bc09f8",
     "server_modified": "2024-10-29 21:57:44",
-    "last_sync": "2024-11-19 21:23:11.164156",
+    "last_sync": "2024-11-26 15:43:13.025810",
     "size": 2742,
     "meta_text": null,
     "cat_ref": "S06384M1",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/ZHABS BRTAN_PRAYERS FOR THE LONG LIFE OF A HOLY BEING/UNKNOWN AUTHOR",
-            "timestamp": "2024-11-20 05:23:11.168325+00:00"
+            "timestamp": "2024-11-26 23:43:13.031825+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:23:11.168325+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:43:13.031825+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

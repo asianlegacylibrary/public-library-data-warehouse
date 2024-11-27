@@ -6,13 +6,13 @@
     "revision_id": "625a494cf56cc8d294473",
     "content_hash": "a8fb0fd55c4dffadcb82494d2cd878250ab968576bdba71537d616b876d2ba53",
     "server_modified": "2024-10-29 21:51:01",
-    "last_sync": "2024-11-19 21:07:08.032798",
+    "last_sync": "2024-11-26 15:32:12.937775",
     "size": 198815,
-    "meta_text": "('tion in the Teachings of the Glorious Secret Collection (Guhyasamaja); and \"The Lamp that Illuminates the Five Stages,\" on the Stage of Completion_SKYABS RJE PHA BONG KHA PA BDE CHEN SNYING PO (1878-1941)', 'rtf')",
+    "meta_text": "tion in the Teachings of the Glorious Secret Collection (Guhyasamaja); and \"The Lamp that Illuminates the Five Stages,\" on the Stage of Completion_SKYABS RJE PHA BONG KHA PA BDE CHEN SNYING PO (1878-1941)",
     "cat_ref": "S00326D",
     "work_ref": "W.S00326D",
     "title_tib": "DPAL GSANG BA 'DUS PA'I BSKYED RIM DNGOS GRUB RGYA MTSO DANG, RDZOGS RIM RIM LNGA GSAL SGRON GNYIS KYI GSUNG BSHAD NOS PA'I ZIN THO 'GA' ZHIG",
-    "title_eng": "Notes taken on the Occasion of an Oral Teaching on the 'Ocean of Attainments,' on the Stage of Crea('tion in the Teachings of the Glorious Secret Collection (Guhyasamaja); and \"The Lamp that Illuminates the Five Stages,\" on the Stage of Completion",
+    "title_eng": "Notes taken on the Occasion of an Oral Teaching on the 'Ocean of Attainments,' on the Stage of Creation in the Teachings of the Glorious Secret Collection (Guhyasamaja); and \"The Lamp that Illuminates the Five Stages,\" on the Stage of Completion",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/RDZOGS RIM_COMPLETION STAGE (SAMPANNA KRAMA)",
-            "timestamp": "2024-11-20 05:07:08.661285+00:00"
+            "timestamp": "2024-11-26 23:32:13.629554+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/BSKYED RIM_CREATION STAGE (UTPATTI KRAMA)",
-            "timestamp": "2024-11-20 05:07:45.500503+00:00"
+            "timestamp": "2024-11-26 23:32:40.462735+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:07:08.661285+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:32:13.629554+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:07:45.500503+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:32:40.462735+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

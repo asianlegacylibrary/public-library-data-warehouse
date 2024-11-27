@@ -6,7 +6,7 @@
     "revision_id": "625a4773864248d294473",
     "content_hash": "09cf0aaf3cef09079bcddcd501e41552bf6de8e38c03690f4303344e527d3d80",
     "server_modified": "2024-10-29 21:42:45",
-    "last_sync": "2024-11-19 20:46:30.669156",
+    "last_sync": "2024-11-26 15:18:05.605847",
     "size": 11951,
     "meta_text": null,
     "cat_ref": "S12069E",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/GSUM RTAGS_GRAMMAR",
-            "timestamp": "2024-11-20 04:46:30.678555+00:00"
+            "timestamp": "2024-11-26 23:18:05.612935+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:46:30.678555+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:18:05.612935+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

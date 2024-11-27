@@ -6,9 +6,9 @@
     "revision_id": "625a47d627fd48d294473",
     "content_hash": "112cb4a6027ec1a9e36a6644902d4e0dbd91b57edfee20cf2e59223a1a8abe1c",
     "server_modified": "2024-10-29 21:44:28",
-    "last_sync": "2024-11-19 20:51:15.615401",
+    "last_sync": "2024-11-26 15:21:14.409922",
     "size": 52801,
-    "meta_text": "('NGAG DBANG DPAL LDAN (1806-@)', 'rtf')",
+    "meta_text": "NGAG DBANG DPAL LDAN (1806-@)",
     "cat_ref": "S12161E",
     "work_ref": "W.S12161E",
     "title_tib": "SU NYID RDO RAMS PA LEGS TSOGS KYI RTZOD YIG GI LAN GSAL BAR BKOD PA SMRA NGAN MUN SEL SGRON ME",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/'GREL PA SPYI_GENERAL COMMENTARIES/CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN_CHUJE KALKA NGAWANG PELDEN (1806-?)",
-            "timestamp": "2024-11-20 04:51:15.620933+00:00"
+            "timestamp": "2024-11-26 23:21:14.418583+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:51:15.620933+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:21:14.418583+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

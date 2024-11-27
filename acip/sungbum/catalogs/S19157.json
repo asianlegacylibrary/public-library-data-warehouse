@@ -6,7 +6,7 @@
     "revision_id": "625a47c6c26208d294473",
     "content_hash": "f699ad60dd57771c5287f0e4ad21ab0f635a93ab3f20b75f588552046b1c2f98",
     "server_modified": "2024-10-29 21:44:12",
-    "last_sync": "2024-11-19 20:50:12.462620",
+    "last_sync": "2024-11-26 15:20:38.533699",
     "size": 63958,
     "meta_text": null,
     "cat_ref": "S19157",
@@ -38,13 +38,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/BSTOD PA_EULOGIES (STOTRA)/RED MDA' BA GZHON NU BLO GROS_RENDAWA SHUNNU LODRU (1349-1412)",
-            "timestamp": "2024-11-20 04:50:12.465694+00:00"
+            "timestamp": "2024-11-26 23:20:38.538160+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:50:12.465694+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:20:38.538160+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

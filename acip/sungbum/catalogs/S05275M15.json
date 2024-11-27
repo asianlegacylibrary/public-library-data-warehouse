@@ -6,13 +6,13 @@
     "revision_id": "625a47de6a2b68d294473",
     "content_hash": "14cffd960c34c908b2d8a091f0f64b1d1741a13f0e3930b66cb5399c4aeac399",
     "server_modified": "2024-10-29 21:44:37",
-    "last_sync": "2024-11-19 20:51:31.868259",
+    "last_sync": "2024-11-26 15:21:26.579520",
     "size": 8967,
-    "meta_text": "('ngs on Dependent Origination_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)', 'rtf')",
+    "meta_text": "ngs on Dependent Origination_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)",
     "cat_ref": "S05275M15",
     "work_ref": "W.S05275M15",
     "title_tib": "STON PA BLA NA MED PA LA ZAB MO RTEN CING 'BREL PAR 'BYUNG BA GSUNG BA'I SGO NAS BSTOD PA LEGS PAR BSHAD PA'I SNYING PO",
-    "title_eng": "The 'Essence of Well-Spoken Words,' being a Praise of the Unsurpassed Teacher for His Having Spoken the Profound Teachi('ngs on Dependent Origination",
+    "title_eng": "The 'Essence of Well-Spoken Words,' being a Praise of the Unsurpassed Teacher for His Having Spoken the Profound Teachings on Dependent Origination",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/RTEN 'BREL_DEPENDENT ORIGINATION/RTEN 'BREL BSTOD PA_PRAISE OF DEPENDENT ORIGINATION/RTZA BA_ROOT TEXT",
-            "timestamp": "2024-11-20 04:51:31.875419+00:00"
+            "timestamp": "2024-11-26 23:21:26.585809+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:51:31.875419+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:21:26.585809+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

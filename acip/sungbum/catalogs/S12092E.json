@@ -6,9 +6,9 @@
     "revision_id": "625a4a538396b8d294473",
     "content_hash": "8d40ba591304d50d34089aca1317d3bf272371a93dfbadf1c4c730311c74b64e",
     "server_modified": "2024-10-29 21:55:37",
-    "last_sync": "2024-11-19 21:17:05.175783",
+    "last_sync": "2024-11-26 15:39:04.108735",
     "size": 98864,
-    "meta_text": "(\"CHE BLO BZANG DPAL LDAN BSTAN 'DZIN YAR RGYAS (1927-1996)\", 'rtf')",
+    "meta_text": "CHE BLO BZANG DPAL LDAN BSTAN 'DZIN YAR RGYAS (1927-1996)",
     "cat_ref": "S12092E",
     "work_ref": "W.S12092E",
     "title_tib": "BYANG CHUB LAM RIM CHEN MO'I BSHAD KHRID KYI ZIN BRIS THOR BU GDUNG SEL NOR BU'I MCHOD SDONG",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/LAM RIM CHEN MO_GREAT BOOK ON THE STEPS OF THE PATH/'GREL PA_COMMENTARIES",
-            "timestamp": "2024-11-20 05:17:06.835561+00:00"
+            "timestamp": "2024-11-26 23:39:04.857052+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:17:06.835561+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:39:04.857052+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

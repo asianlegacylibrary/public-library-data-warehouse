@@ -6,13 +6,13 @@
     "revision_id": "625a4ab5ff9e28d294473",
     "content_hash": "7d40f242b3fd170e8a31c23cee4a6c48c7908b1180d7b59d88e9affbb79c9da5",
     "server_modified": "2024-10-29 21:57:20",
-    "last_sync": "2024-11-19 21:21:49.949520",
+    "last_sync": "2024-11-26 15:42:27.299123",
     "size": 71321,
-    "meta_text": "(\"Namgyal_PAn CHEN SKU PHRENG BZHI PA BSTAN PA'I NYI MA (1782-1853)\", 'rtf')",
+    "meta_text": "Namgyal_PAn CHEN SKU PHRENG BZHI PA BSTAN PA'I NYI MA (1782-1853)",
     "cat_ref": "S12020E",
     "work_ref": "W.S12020E",
     "title_tib": "RJE BTZUN BLO BZANG DPAL LDAN BSTAN PA'I NYI MA PHYOGS LAS RNAM RGYAL DPAL BZANG PO'I BLA MA'I RNAL 'BYOR RNAMS CHABS CIG TU BSDEBS PA",
-    "title_eng": "A Collection of Lama Practices by the Holy Lord, the Good and Glorious Lobsang Pelden Tenpay Nyima Chokle(\"Namgyal",
+    "title_eng": "A Collection of Lama Practices by the Holy Lord, the Good and Glorious Lobsang Pelden Tenpay Nyima ChokleNamgyal",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BLA MA'I RNAL 'BYOR_PRACTICES FOR HONORING ONES LAMA/PAn CHEN SKU PHRENG BZHI PA BSTAN PA'I NYI MA_PANCHEN KUTRENG SHIPA TENPAY NYIMA (1782-1853)",
-            "timestamp": "2024-11-20 05:21:49.954270+00:00"
+            "timestamp": "2024-11-26 23:42:27.304902+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:21:49.954270+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:42:27.304902+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

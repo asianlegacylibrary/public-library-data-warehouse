@@ -6,13 +6,13 @@
     "revision_id": "625a49d76e24a8d294473",
     "content_hash": "e9b61e9184e7a5d5a40089f918b85d1d32213c3c9c6611bb0bcc680af82f7f79",
     "server_modified": "2024-10-29 21:53:26",
-    "last_sync": "2024-11-19 21:13:24.415267",
+    "last_sync": "2024-11-26 15:36:32.964623",
     "size": 1175775,
-    "meta_text": "(\"the Works on Vowed Morality_RGYAL BA DGE 'DUN GRUB (1391-1474)\", 'text')",
+    "meta_text": "the Works on Vowed Morality_RGYAL BA DGE 'DUN GRUB (1391-1474)",
     "cat_ref": "S05522E-2",
     "work_ref": "W.S05522E-2",
     "title_tib": "LEGS PAR GSUNGS PA'I DAM PA'I CHOS 'DUL BA'I GLENG GZHI DANG RTOGS PA RJOD PA, LUNG SDE BZHI KUN LAS BTUS PA RIN PO CHE'I MDZOD",
-    "title_eng": "The Teaching on Vowed Morality--Original Scenes and Accounts of Saints in that Finely-Spoken and Highest Dharma,(\"the Works on Vowed Morality",
+    "title_eng": "The Teaching on Vowed Morality--Original Scenes and Accounts of Saints in that Finely-Spoken and Highest Dharma,the Works on Vowed Morality",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -46,23 +46,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/RGYAL BA DGE 'DUN GRUB (1391-1474)",
-            "timestamp": "2024-11-20 05:13:24.420245+00:00"
+            "timestamp": "2024-11-26 23:36:32.972514+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/GLENG GZHI (ORIGINAL INCIDENTS)",
-            "timestamp": "2024-11-20 05:13:45.221642+00:00"
+            "timestamp": "2024-11-26 23:36:46.606224+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:13:24.420245+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:36:32.972514+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:13:45.221642+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:36:46.606224+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

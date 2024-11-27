@@ -6,13 +6,13 @@
     "revision_id": "625a4799cf6088d294473",
     "content_hash": "3f1236144a3d955e46fcbad5d278701f5731a992804c260d750b43c7ef6e1c7e",
     "server_modified": "2024-10-29 21:43:25",
-    "last_sync": "2024-11-19 20:47:55.148402",
+    "last_sync": "2024-11-26 15:19:08.391856",
     "size": 236817,
-    "meta_text": "('ary entitled ‘The Ornament of Realizations,’ along with Its Own Commentary, Part Three_MKHAS GRUB BSTAN PA DAR RGYAS (1493-1568)', 'rtf')",
+    "meta_text": "ary entitled ‘The Ornament of Realizations,’ along with Its Own Commentary, Part Three_MKHAS GRUB BSTAN PA DAR RGYAS (1493-1568)",
     "cat_ref": "SE00001M3",
     "work_ref": "W.SE00001M3",
     "title_tib": "BSTAN BCOS MNGON PAR RTOGS PA'I RGYAN 'GREL PA DANG BCAS PA'I MTHA' DPYOD LEGS PAR BSHAD PA PAD MA DKAR PO'I 'PHRENG BA, CHA GSUM PA",
-    "title_eng": "'The Garland of White Lotuses,' being a Fine Explanation of Dialectical Analysis for the Classical Comment('ary entitled ‘The Ornament of Realizations,’ along with Its Own Commentary, Part Three",
+    "title_eng": "'The Garland of White Lotuses,' being a Fine Explanation of Dialectical Analysis for the Classical Commentary entitled ‘The Ornament of Realizations,’ along with Its Own Commentary, Part Three",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/SPYI_GENERAL COMMENTARIES/MKHAS GRUB BSTAN PA DAR RGYAS_KEDRUP TENPA DARGYE (1493-1568)/MTHA' DPYOD_DIALECTIC ANALYSIS",
-            "timestamp": "2024-11-20 04:48:00.951499+00:00"
+            "timestamp": "2024-11-26 23:19:12.555864+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:48:00.951499+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:19:12.555864+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

@@ -6,13 +6,13 @@
     "revision_id": "625a4a60963b68d294473",
     "content_hash": "8ac9c67d00f41a526b46685924b34fada8c31ec45d1b9e079548f1bda6d97f0d",
     "server_modified": "2024-10-29 21:55:50",
-    "last_sync": "2024-11-19 21:17:58.929461",
+    "last_sync": "2024-11-26 15:39:41.571932",
     "size": 54404,
-    "meta_text": "(\"actice of Taking Refuge_GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME (1762-1823)\", 'rtf')",
+    "meta_text": "actice of Taking Refuge_GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME (1762-1823)",
     "cat_ref": "S00920E",
     "work_ref": "W.S00920E",
     "title_tib": "BSTAN PA'I 'JUG SGO SKYABS 'GRO'I KHRID YIG PHAN BDE'I LAM BZANG GSAL BA'I SGRON ME",
-    "title_eng": "'A Lamp for Illuminating the Excellent Path of Help and Happiness,' being a Book of Instruction on the Door for Entering the Teachings of the Buddha-- The Pr(\"actice of Taking Refuge",
+    "title_eng": "'A Lamp for Illuminating the Excellent Path of Help and Happiness,' being a Book of Instruction on the Door for Entering the Teachings of the Buddha-- The Practice of Taking Refuge",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/SKYABS 'GRO_EXPLANATIONS OF THE PRACTICE OF GOING FOR REFUGE",
-            "timestamp": "2024-11-20 05:17:58.937596+00:00"
+            "timestamp": "2024-11-26 23:39:41.581015+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:17:58.937596+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:39:41.581015+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

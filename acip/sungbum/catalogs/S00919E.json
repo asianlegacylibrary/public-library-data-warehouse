@@ -6,13 +6,13 @@
     "revision_id": "625a4a893500f8d294473",
     "content_hash": "05a76d5982a5c6462345c191109716e80a257e8248537bf699d175022b40446a",
     "server_modified": "2024-10-29 21:56:33",
-    "last_sync": "2024-11-19 21:19:41.948744",
+    "last_sync": "2024-11-26 15:40:55.097294",
     "size": 140574,
-    "meta_text": "(\"d Deed— the ‘Blaze of the Teachings’_GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME (1762-1823)\", 'rtf')",
+    "meta_text": "d Deed— the ‘Blaze of the Teachings’_GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME (1762-1823)",
     "cat_ref": "S00919E",
     "work_ref": "W.S00919E",
     "title_tib": "BSNGO BA'I RGYAL PO BSTAN 'BAR MA'I DGONGS DON RGYA CHER 'GREL PA LEGS BSHAD BSTAN PA'I SGRON ME",
-    "title_eng": "'A Lamp for Showing the Eloquence,' being an Expanded Commentary on the Real Intent of that King of All Works for Dedicating the Power of a Goo(\"d Deed— the ‘Blaze of the Teachings’",
+    "title_eng": "'A Lamp for Showing the Eloquence,' being an Expanded Commentary on the Real Intent of that King of All Works for Dedicating the Power of a Good Deed— the ‘Blaze of the Teachings’",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BSNGO BA_DEDICATING GOOD DEEDS/GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME_GUNGTANG KONCHOK TENPAY DRUNME (1762-1823)",
-            "timestamp": "2024-11-20 05:19:41.954433+00:00"
+            "timestamp": "2024-11-26 23:40:55.105092+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:19:41.954433+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:40:55.105092+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

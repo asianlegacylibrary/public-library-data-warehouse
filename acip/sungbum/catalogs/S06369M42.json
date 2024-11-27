@@ -6,7 +6,7 @@
     "revision_id": "625a4aad080198d294473",
     "content_hash": "97cbda0db9de8105f3189349c43416eda08fda75c4e05409720c9e9c77074d3a",
     "server_modified": "2024-10-29 21:57:10",
-    "last_sync": "2024-11-19 21:20:57.429679",
+    "last_sync": "2024-11-26 15:41:51.435281",
     "size": 401,
     "meta_text": null,
     "cat_ref": "S06369M42",
@@ -41,23 +41,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/GSOL 'DEBS_PRAYERS OF SUPPLICATION/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 05:20:57.432250+00:00"
+            "timestamp": "2024-11-26 23:41:51.438355+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/GSOL 'DEBS_PRAYERS OF SUPPLICATION/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 05:21:15.479191+00:00"
+            "timestamp": "2024-11-26 23:42:04.603155+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:20:57.432250+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:41:51.438355+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:21:15.479191+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:42:04.603155+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

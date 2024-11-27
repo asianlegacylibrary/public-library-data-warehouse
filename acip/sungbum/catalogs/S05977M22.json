@@ -6,7 +6,7 @@
     "revision_id": "625a47c81f8b78d294473",
     "content_hash": "1b1a31d6b08575f24fa167e852e523220253664ba60920617637dc44691e8b05",
     "server_modified": "2024-10-29 21:44:14",
-    "last_sync": "2024-11-19 20:50:19.493129",
+    "last_sync": "2024-11-26 15:20:42.708605",
     "size": 1404,
     "meta_text": null,
     "cat_ref": "S05977M22",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/BSTOD PA_EULOGIES (STOTRA)/GTANG RABS BDUN_THE SEVEN SUCCESSORS",
-            "timestamp": "2024-11-20 04:50:19.497492+00:00"
+            "timestamp": "2024-11-26 23:20:42.713593+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:50:19.497492+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:20:42.713593+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

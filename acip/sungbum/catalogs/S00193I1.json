@@ -6,13 +6,13 @@
     "revision_id": "625a49c8e58588d294473",
     "content_hash": "459169e1d541e3a5a4c9dca863ef266a82f4b1f1982f311169d87e231487446b",
     "server_modified": "2024-10-29 21:53:11",
-    "last_sync": "2024-11-19 21:13:08.027733",
+    "last_sync": "2024-11-26 15:36:22.224071",
     "size": 70029,
-    "meta_text": "('ry on Buddhist Discipline entitled ‘Lecture Notes on the Text and Meaning of the Essence of the Crucial Points’_DPAL LDAN SMAD RGYUD GRVA TSANG GI MKHAN PO SER BYES HAR GDONG BYAMS PA SKAL BZANG (d. 1944?)', 'text')",
+    "meta_text": "ry on Buddhist Discipline entitled ‘Lecture Notes on the Text and Meaning of the Essence of the Crucial Points’_DPAL LDAN SMAD RGYUD GRVA TSANG GI MKHAN PO SER BYES HAR GDONG BYAMS PA SKAL BZANG (d. 1944?)",
     "cat_ref": "S00193I1",
     "work_ref": "W.S00193I1",
     "title_tib": "'DUL BA'I SDOM TSIG GNAD BSDUS SNYING PO TSIG DON BRJED BYANG LAS MA'I RNAM 'BYED SPYIR BSTAN DANG BCAS PA'I SKOR",
-    "title_eng": "'A General Presentation, and Points from the Divisions of Buddhist Discipline relating to Nuns,' a Section of the Versed Summa('ry on Buddhist Discipline entitled ‘Lecture Notes on the Text and Meaning of the Essence of the Crucial Points’",
+    "title_eng": "'A General Presentation, and Points from the Divisions of Buddhist Discipline relating to Nuns,' a Section of the Versed Summary on Buddhist Discipline entitled ‘Lecture Notes on the Text and Meaning of the Essence of the Crucial Points’",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/SER BYES HAR GDONG BYAMS PA SKAL BZANG_SERJE HARDONG JAMPA KELSANG/DGE SLONG MA'I_FOR NUNS",
-            "timestamp": "2024-11-20 05:13:08.032293+00:00"
+            "timestamp": "2024-11-26 23:36:22.233412+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:13:08.032293+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:36:22.233412+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

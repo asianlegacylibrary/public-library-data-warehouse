@@ -6,17 +6,17 @@
     "revision_id": "625a49c24d4bc8d294473",
     "content_hash": "10e269346e428c37eddeeb623238920140c93a1e49b39af4e3da07701ee97078",
     "server_modified": "2024-10-29 21:53:04",
-    "last_sync": "2024-11-19 21:12:47.747818",
+    "last_sync": "2024-11-26 15:36:09.310996",
     "size": 112943,
-    "meta_text": "('ent,â€™ being a Group of Texts related to the Three Types of Vows, and including, among Others, Works on the Ceremony of Purification and Renewal; the Summer Retreat; the Release of the Summer Retreat; a Versed Summary of the Rules; the Ritual for Six Times of the Day; and the Prayer of Truth_SNA TSOGS (&-&)', 'text')",
+    "meta_text": "ent,â€™ being a Group of Texts related to the Three Types of Vows, and including, among Others, Works on the Ceremony of Purification and Renewal; the Summer Retreat; the Release of the Summer Retreat; a Versed Summary of the Rules; the Ritual for Six Times of the Day; and the Prayer of Truth_SNA TSOGS (&-&)",
     "cat_ref": "S00197M",
     "work_ref": "W.S00197M",
     "title_tib": "GSO SBYONG, DBYAR GNAS, DGAG DBYE, BSLAB BYA'I SDOM TSIG ,THUN DRUG BDEN GSOL SMON TSIG SOGS SDOM PA GSUM DANG 'BREL BA'I SKOR BYANG GROL KHANG BZANG 'DZEG PA'I THEM SKAS",
-    "title_eng": "The 'Stairway for Ascending to the Palace of Liberation and Enlightenm('ent,â€™ being a Group of Texts related to the Three Types of Vows, and including, among Others, Works on the Ceremony of Purification and Renewal; the Summer Retreat; the Release of the Summer Retreat; a Versed Summary of the Rules; the Ritual for Six Times of the Day; and the Prayer of TruthSNA TSOGS (&-&)', 'text')",
+    "title_eng": "The 'Stairway for Ascending to the Palace of Liberation and Enlightenment,â€™ being a Group of Texts related to the Three Types of Vows, and including, among Others, Works on the Ceremony of Purification and Renewal; the Summer Retreat; the Release of the Summer Retreat; a Versed Summary of the Rules; the Ritual for Six Times of the Day; and the Prayer of Truth",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
-    "author_simple": "",
+    "author_simple": "SNA TSOGS",
     "subject": [
         {
             "_id": "383731235547",
@@ -30,7 +30,7 @@
     "items": [],
     "author": [
         {
-            "author_name": "",
+            "author_name": "SNA TSOGS",
             "author_birth": null,
             "author_death": null
         }
@@ -38,13 +38,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/GSO SBYONG_RITUALS OF RENEWAL AND PURIFICATION",
-            "timestamp": "2024-11-20 05:12:47.759941+00:00"
+            "timestamp": "2024-11-26 23:36:09.328448+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:12:47.759941+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:36:09.328448+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

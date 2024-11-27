@@ -6,9 +6,9 @@
     "revision_id": "625a4ae01a0428d294473",
     "content_hash": "4be2379b40df45963f5ee27e1dd6141274029a57e387a2b17c3e115889fa470b",
     "server_modified": "2024-10-29 21:58:04",
-    "last_sync": "2024-11-19 21:24:22.171949",
+    "last_sync": "2024-11-26 15:44:01.130754",
     "size": 39456,
-    "meta_text": "(\"ANG LUNG AARYA PAndI TA NGAG DBANG BLO BZANG BSTAN PA'I RGYAL MTSAN (1770-1845)\", 'rtf')",
+    "meta_text": "ANG LUNG AARYA PAndI TA NGAG DBANG BLO BZANG BSTAN PA'I RGYAL MTSAN (1770-1845)",
     "cat_ref": "S12324E",
     "work_ref": "W.S12324E",
     "title_tib": "CHOS SDE CHEN PO DGE 'PHEL DGA' LDAN CHOS MDZOD GLING GI SMON LAM CHEN MO'I BCA' YIG RAB GSAL NOR BU'I ME LONG",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/BCA' YIG_OFFICIAL DOCUMENTS/DGE 'PHEL GLING_GEPEL LING MONASTERY",
-            "timestamp": "2024-11-20 05:24:22.179048+00:00"
+            "timestamp": "2024-11-26 23:44:01.138561+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:24:22.179048+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:44:01.138561+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

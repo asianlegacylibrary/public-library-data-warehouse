@@ -6,7 +6,7 @@
     "revision_id": "625a4913590128d294473",
     "content_hash": "205ee86ce22d687ddd161acfbf861e261ed2834702690d39e5f9a965adc520c2",
     "server_modified": "2024-10-29 21:50:01",
-    "last_sync": "2024-11-19 21:04:38.355637",
+    "last_sync": "2024-11-26 15:30:34.363452",
     "size": 80035,
     "meta_text": null,
     "cat_ref": "S05267M",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/GSAN YIG_RECORDS OF TEACHINGS RECEIVED/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
-            "timestamp": "2024-11-20 05:04:38.359932+00:00"
+            "timestamp": "2024-11-26 23:30:34.369533+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/GSAN YIG_RECORDS OF TEACHINGS RECEIVED/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
-            "timestamp": "2024-11-20 05:13:58.531039+00:00"
+            "timestamp": "2024-11-26 23:36:55.697794+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:04:38.359932+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:30:34.369533+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:13:58.531039+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:36:55.697794+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

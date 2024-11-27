@@ -6,7 +6,7 @@
     "revision_id": "625a4854e1aff8d294473",
     "content_hash": "7b179cacc1ccfbd007b4875ccf77ae552fa16604d815065f3768a6762e71539c",
     "server_modified": "2024-10-29 21:46:41",
-    "last_sync": "2024-11-19 20:54:51.167315",
+    "last_sync": "2024-11-26 15:23:39.572673",
     "size": 7020,
     "meta_text": null,
     "cat_ref": "S12254E",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/CHOS 'BYUNG_RELIGIOUS HISTORIES/LO RIM_RELIGIOUS HISTORIES DATED BY YEAR",
-            "timestamp": "2024-11-20 04:54:51.170289+00:00"
+            "timestamp": "2024-11-26 23:23:39.578630+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:51.170289+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:39.578630+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

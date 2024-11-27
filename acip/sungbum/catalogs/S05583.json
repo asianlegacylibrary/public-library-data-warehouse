@@ -6,9 +6,9 @@
     "revision_id": "625a4af4e1e0b8d294473",
     "content_hash": "451327049b75fdbc6480e78ca4199b3f7864a302f92cb950ad526c8527304c06",
     "server_modified": "2024-10-29 21:58:26",
-    "last_sync": "2024-11-19 21:25:57.985334",
+    "last_sync": "2024-11-26 15:45:01.998280",
     "size": 8342,
-    "meta_text": "(\"AL BA DGE 'DUN RGYA MTSO (1476-1542)\", 'text')",
+    "meta_text": "AL BA DGE 'DUN RGYA MTSO (1476-1542)",
     "cat_ref": "S05583",
     "work_ref": "W.S05583",
     "title_tib": "RJE BTZUN THAMS CAD MKHYEN PA'I GSUNG 'BUM THOR BU LAS BKA' GDAMS GLEGS BAM GYI BSDUS DON",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/BKA' GDAMS PA_KADAMPA SCHOOL",
-            "timestamp": "2024-11-20 05:25:57.998473+00:00"
+            "timestamp": "2024-11-26 23:45:02.014962+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:25:57.998473+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:45:02.014962+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

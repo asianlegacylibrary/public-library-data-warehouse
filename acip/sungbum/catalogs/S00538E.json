@@ -6,9 +6,9 @@
     "revision_id": "625a4980f75ca8d294473",
     "content_hash": "3c7ee08ce02bde7d6da6715ed4288233e576a8801c785dbda437be8af37fdb58",
     "server_modified": "2024-10-29 21:51:56",
-    "last_sync": "2024-11-19 21:09:29.856879",
+    "last_sync": "2024-11-26 15:33:53.179705",
     "size": 17991,
-    "meta_text": "('ME (1861-1933@)', 'rtf')",
+    "meta_text": "ME (1861-1933@)",
     "cat_ref": "S00538E",
     "work_ref": "W.S00538E",
     "title_tib": "ZAB LAM N'A RO CHOS DRUG GI SNGON 'GRO'I 'KHRUL 'KHOR GYI ZIN BRIS",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/NA RO CHOS DRUG_SIX PRACTICES OF NAROPA/'GREL PA_COMMENTARIES",
-            "timestamp": "2024-11-20 05:09:31.860606+00:00"
+            "timestamp": "2024-11-26 23:33:54.465719+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:09:31.860606+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:33:54.465719+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

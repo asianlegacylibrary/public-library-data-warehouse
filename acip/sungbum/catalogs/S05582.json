@@ -6,9 +6,9 @@
     "revision_id": "625a476c951bd8d294473",
     "content_hash": "da05e48514244085c1a7e218267b21ec19e97d2eb56f40c3c8baadba0dc5b06d",
     "server_modified": "2024-10-29 21:42:38",
-    "last_sync": "2024-11-19 20:46:02.200941",
+    "last_sync": "2024-11-26 15:17:46.285448",
     "size": 26651,
-    "meta_text": "('-1542)', 'text')",
+    "meta_text": "-1542)",
     "cat_ref": "S05582",
     "work_ref": "W.S05582",
     "title_tib": "RJE BTZUN THAMS CAD MKHYEN PA'I GSUNG 'BUM THOR BU LAS DON RGYAN SO LNGA'I DPER BRJOD RNAMS",
@@ -31,7 +31,7 @@
     "author": [
         {
             "author_name": "RGYAL BA DGE 'DUN RGYA MTSO",
-            "author_birth": null,
+            "author_birth": "1476",
             "author_death": "1542",
             "bdrc_id": "bdr:P84",
             "normalized_name": "RGYAL BA DGE 'DUN RGYA MTSO",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/SNYAN NGAG_CLASSICAL POETRY/DON RGYAN_POETIC DEVICES",
-            "timestamp": "2024-11-20 04:46:02.206794+00:00"
+            "timestamp": "2024-11-26 23:17:46.294239+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:46:02.206794+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:17:46.294239+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

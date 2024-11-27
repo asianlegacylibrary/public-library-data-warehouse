@@ -6,7 +6,7 @@
     "revision_id": "625a47c18e9ad8d294473",
     "content_hash": "6650033271285513292e577251f583ed5249b0d0319ed5878bf777ad0c9f3202",
     "server_modified": "2024-10-29 21:44:07",
-    "last_sync": "2024-11-19 20:49:47.302416",
+    "last_sync": "2024-11-26 15:20:23.568676",
     "size": 37641,
     "meta_text": null,
     "cat_ref": "S12158E",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/BSTOD PA_EULOGIES (STOTRA)/DE BZHIN GSHEGS PA (TATHAGATA)",
-            "timestamp": "2024-11-20 04:49:47.306471+00:00"
+            "timestamp": "2024-11-26 23:20:23.572827+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:49:47.306471+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:20:23.572827+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

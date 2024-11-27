@@ -6,13 +6,13 @@
     "revision_id": "625a482d37c0b8d294473",
     "content_hash": "fca85c5e4b3574df1c72f5ba8881eaf6ed8bc7abcc94275e4bc0623a312d2092",
     "server_modified": "2024-10-29 21:46:00",
-    "last_sync": "2024-11-19 20:53:50.541755",
+    "last_sync": "2024-11-26 15:22:59.003025",
     "size": 1012,
-    "meta_text": "('nstrument_DNGUL CHU DHARMA BHADRA (1772-1851)', 'rtf')",
+    "meta_text": "nstrument_DNGUL CHU DHARMA BHADRA (1772-1851)",
     "cat_ref": "S06370EA8",
     "work_ref": "W.S06370EA8",
     "title_tib": "RNAL 'BYOR ROL DGA' LA RDO RJE GSOR BA'I SNGAGS SOGS 'DON TSUL SKOR GYI DRI LAN",
-    "title_eng": "Response to a Question on the Proper Method, in the Text entitled 'Entertainment for the Holy,' of Reciting Mantras such as the One for Wielding the Diamond I('nstrument",
+    "title_eng": "Response to a Question on the Proper Method, in the Text entitled 'Entertainment for the Holy,' of Reciting Mantras such as the One for Wielding the Diamond Instrument",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 04:54:07.138096+00:00"
+            "timestamp": "2024-11-26 23:23:11.591797+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SNGAGS_SECRET WORDS (MANTRA)",
-            "timestamp": "2024-11-20 05:05:09.001077+00:00"
+            "timestamp": "2024-11-26 23:30:54.750450+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:07.138096+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:11.591797+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:05:09.001077+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:30:54.750450+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

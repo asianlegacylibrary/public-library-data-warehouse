@@ -6,13 +6,13 @@
     "revision_id": "625a48d37c9108d294473",
     "content_hash": "a4c7e8089de16df563d53cf5a1b5d699f36bbac2c57db8c72b085cd725d26f47",
     "server_modified": "2024-10-29 21:48:54",
-    "last_sync": "2024-11-19 21:01:50.638774",
+    "last_sync": "2024-11-26 15:28:34.323073",
     "size": 75476,
-    "meta_text": "(\"l for Reaching Gentle Voice (Manjughosha) in His Peaceful and Wrathful Forms Combined_'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS (1648-1721)\", 'rtf')",
+    "meta_text": "l for Reaching Gentle Voice (Manjughosha) in His Peaceful and Wrathful Forms Combined_'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS (1648-1721)",
     "cat_ref": "S19014E",
     "work_ref": "W.S19014E",
     "title_tib": "'JAM DBYANGS ZHI KHRO SBRAG SGRUB KYI RNAM BSHAD SKAL BZANG 'JUG NGOGS 'DOD PA KUN STER TZINTA MA nI'I PHRENG MDZES",
-    "title_eng": "A Beautiful String of Wish Fulfilling Jewels Which Make all Your Dreams Come True, An Entry Point for the Fortunate-- A Ritua(\"l for Reaching Gentle Voice (Manjughosha) in His Peaceful and Wrathful Forms Combined",
+    "title_eng": "A Beautiful String of Wish Fulfilling Jewels Which Make all Your Dreams Come True, An Entry Point for the Fortunate-- A Ritual for Reaching Gentle Voice (Manjughosha) in His Peaceful and Wrathful Forms Combined",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -46,23 +46,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JAM DBYANGS_GENTLE VOICE (MANJUGHOSHA, MANJUSHRI)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "timestamp": "2024-11-20 05:01:53.850426+00:00"
+            "timestamp": "2024-11-26 23:28:35.813588+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/SKYABS RJE KHRI BYANG RIN PO CHE_KYABJE TRIJANG RINPOCHE",
-            "timestamp": "2024-11-20 05:15:17.219732+00:00"
+            "timestamp": "2024-11-26 23:37:50.095199+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:01:53.850426+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:28:35.813588+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:15:17.219732+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:37:50.095199+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

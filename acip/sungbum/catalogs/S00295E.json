@@ -6,13 +6,13 @@
     "revision_id": "625a48bffd5d98d294473",
     "content_hash": "d7268063c6601fbc4002eedbfa92bd906b63c9ac699ea847f1ed7c204cdbda2a",
     "server_modified": "2024-10-29 21:48:33",
-    "last_sync": "2024-11-19 21:00:44.079824",
+    "last_sync": "2024-11-26 15:27:50.348440",
     "size": 51151,
-    "meta_text": "('in the Outer Practice for Reaching the King of the Dharma (Dharmaraja), a Protector Acting under Pledge_& (&-&)', 'rtf')",
+    "meta_text": "in the Outer Practice for Reaching the King of the Dharma (Dharmaraja), a Protector Acting under Pledge_& (&-&)",
     "cat_ref": "S00295E",
     "work_ref": "W.S00295E",
     "title_tib": "DAM CAN CHOS KYI RGYAL PO PHYI SGRUB LA BRTEN NAS GTOR CHEN DRUG CU PA'I RNAM BZHAG RDO RJE GNAM LCAGS 'BAR BA'I PHRENG BA",
-    "title_eng": "'The String of Blazing Diamond Steel from the Sky,' being an Explanation of the Practice of the Sixty-Fold Torma Cake,('in the Outer Practice for Reaching the King of the Dharma (Dharmaraja), a Protector Acting under Pledge& (&-&)', 'rtf')",
+    "title_eng": "'The String of Blazing Diamond Steel from the Sky,' being an Explanation of the Practice of the Sixty-Fold Torma Cake,in the Outer Practice for Reaching the King of the Dharma (Dharmaraja), a Protector Acting under Pledge",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -38,13 +38,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DRUG CU PA_OFFERING OF THE SIXTY (SHASHTITAMA)/MCHOD PA_OFFERING",
-            "timestamp": "2024-11-20 05:00:44.085244+00:00"
+            "timestamp": "2024-11-26 23:27:50.354950+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:00:44.085244+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:27:50.354950+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

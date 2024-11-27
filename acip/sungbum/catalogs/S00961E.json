@@ -6,7 +6,7 @@
     "revision_id": "625a4a0acd17c8d294473",
     "content_hash": "07d89ec9bf10d9b0ea660269fd57e9ebed79ecdf676ab28ea7df352bb7bf06d3",
     "server_modified": "2024-10-29 21:54:20",
-    "last_sync": "2024-11-19 21:14:59.802970",
+    "last_sync": "2024-11-26 15:37:37.383641",
     "size": 7279,
     "meta_text": null,
     "cat_ref": "S00961E",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME_GUNGTANG KONCHOK TENPAY DRUNME  (1762-1823)",
-            "timestamp": "2024-11-20 05:14:59.807568+00:00"
+            "timestamp": "2024-11-26 23:37:37.391426+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:14:59.807568+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:37:37.391426+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

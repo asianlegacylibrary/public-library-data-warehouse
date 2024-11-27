@@ -6,13 +6,13 @@
     "revision_id": "625a4862b08588d294473",
     "content_hash": "bcb0682c64a12f4c9f8ee4c340583e7673ef8bcbaea86eac96c2d78d2f841472",
     "server_modified": "2024-10-29 21:46:56",
-    "last_sync": "2024-11-19 20:55:22.574814",
+    "last_sync": "2024-11-26 15:24:01.782338",
     "size": 11200,
-    "meta_text": "('of Sandalwood (Khadiravani)_NR DNGUL CHU DHARMA BHADRA (1772-1851)', 'rtf')",
+    "meta_text": "of Sandalwood (Khadiravani)_NR DNGUL CHU DHARMA BHADRA (1772-1851)",
     "cat_ref": "S06364E9",
     "work_ref": "W.S06364E9",
     "title_tib": "RJE BTZUN SENG LDENG NAGS SGROL GTZO 'KHOR GSUM GYI SGRUB THABS RJES GNANG",
-    "title_eng": "Method for Reaching, and Permission into the Teaching of, the Central and Surrounding Figures in the Teaching of the Holy Lady of Liberation (Tara), from the Forest('of Sandalwood (Khadiravani)",
+    "title_eng": "Method for Reaching, and Permission into the Teaching of, the Central and Surrounding Figures in the Teaching of the Holy Lady of Liberation (Tara), from the Forestof Sandalwood (Khadiravani)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SENG LDENG NAGS SGROL_LADY OF LIBERATION FROM THE FOREST OF SANDALWOOD (KHADIRAVANITARA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "timestamp": "2024-11-20 04:55:22.582517+00:00"
+            "timestamp": "2024-11-26 23:24:01.788539+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:55:22.582517+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:24:01.788539+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

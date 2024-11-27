@@ -6,7 +6,7 @@
     "revision_id": "625a48bc0a4808d294473",
     "content_hash": "5bdbc7bac151ceed4db4d27a7e8813897cfe995e1ebc271175c3713bdb69e78d",
     "server_modified": "2024-10-29 21:48:29",
-    "last_sync": "2024-11-19 21:00:32.808195",
+    "last_sync": "2024-11-26 15:27:44.017664",
     "size": 52796,
     "meta_text": null,
     "cat_ref": "S05308E",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE 'CHANG_KEEPER OF THE DIAMOND (VAJRADHARA)/'GREL PA_COMMENTARIES",
-            "timestamp": "2024-11-20 05:00:32.811940+00:00"
+            "timestamp": "2024-11-26 23:27:44.024519+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:00:32.811940+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:27:44.024519+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

@@ -6,13 +6,13 @@
     "revision_id": "625a48e8db0278d294473",
     "content_hash": "53e3118a7b8f874005fa3918117c148a6bbc0d72aee0a54997864ecd1547727a",
     "server_modified": "2024-10-29 21:49:16",
-    "last_sync": "2024-11-19 21:03:04.114758",
+    "last_sync": "2024-11-26 15:29:25.087379",
     "size": 160733,
-    "meta_text": "('e Bodhisattvas’_SKYABS RJE KHRI BYANG RIN PO CHE (1901-1981)', 'rtf')",
+    "meta_text": "e Bodhisattvas’_SKYABS RJE KHRI BYANG RIN PO CHE (1901-1981)",
     "cat_ref": "S00235M",
     "work_ref": "W.S00235M",
     "title_tib": "GYI NA BA ZHIG GIS DAM CHOS BDUD RTZI'I BGO SKAL MNOS PA'I RNAM GZHAG RGYAL SRAS RGYA MTSO'I 'JUG NGOGS LAS RJES GNANG GI SKOR",
-    "title_eng": "The Section on Permissions for Secret Practice from 'A Point of Entry for Those who Wish to Enter the Ocean of th('e Bodhisattvas’",
+    "title_eng": "The Section on Permissions for Secret Practice from 'A Point of Entry for Those who Wish to Enter the Ocean of the Bodhisattvas’",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -57,33 +57,33 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BLA BRGYUD_LINEAGE LAMAS",
-            "timestamp": "2024-11-20 05:03:04.121805+00:00"
+            "timestamp": "2024-11-26 23:29:25.098227+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/GSAN YIG_RECORDS OF TEACHINGS RECEIVED/SKYABS RJE KHRI BYANG RIN PO CHE_KYABJE TRIJANG RINPOCHE (?-?)",
-            "timestamp": "2024-11-20 05:13:57.733433+00:00"
+            "timestamp": "2024-11-26 23:36:55.151670+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/BLA BRGYUD_LAMA LINEAGE TREES",
-            "timestamp": "2024-11-20 05:26:56.474720+00:00"
+            "timestamp": "2024-11-26 23:45:40.910144+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:03:04.121805+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:29:25.098227+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:13:57.733433+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:36:55.151670+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         },
         {
-            "timestamp": "2024-11-20T05:26:56.474720+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:45:40.910144+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

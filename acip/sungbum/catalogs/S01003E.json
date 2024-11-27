@@ -6,13 +6,13 @@
     "revision_id": "625a48d37c90c8d294473",
     "content_hash": "6a6b365405079ba579808cc6f605a8e2bfcbb11ff7750776a437493f3161211d",
     "server_modified": "2024-10-29 21:48:54",
-    "last_sync": "2024-11-19 21:01:49.844525",
+    "last_sync": "2024-11-26 15:28:34.025836",
     "size": 140955,
-    "meta_text": "(\"he ‘Selection of Works on Gentle Voice (Manjushri),’ and for Granting Permission to Engage in their Practices_RGYAL KHAMS PA 'JAM DBYANGS 'PHRIN LAS (1815-@)\", 'rtf')",
+    "meta_text": "he ‘Selection of Works on Gentle Voice (Manjushri),’ and for Granting Permission to Engage in their Practices_RGYAL KHAMS PA 'JAM DBYANGS 'PHRIN LAS (1815-@)",
     "cat_ref": "S01003E",
     "work_ref": "W.S01003E",
     "title_tib": "'JAM DBYANGS CHOS SKOR NAS BSHAD PA'I LHA TSOGS RNAMS KYI SGRUB THABS DANG RJES GNANG BYED TSUL GYI CHO GA SHES RAB KYI SNANG BA 'PHEL BYED",
-    "title_eng": "'Practices to Increase the Light of Wisdom,' being Rituals for Reaching the Mass of Angels found in t(\"he ‘Selection of Works on Gentle Voice (Manjushri),’ and for Granting Permission to Engage in their Practices",
+    "title_eng": "'Practices to Increase the Light of Wisdom,' being Rituals for Reaching the Mass of Angels found in the ‘Selection of Works on Gentle Voice (Manjushri),’ and for Granting Permission to Engage in their Practices",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -46,23 +46,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JAM DBYANGS_GENTLE VOICE (MANJUGHOSHA, MANJUSHRI)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "timestamp": "2024-11-20 05:01:53.850108+00:00"
+            "timestamp": "2024-11-26 23:28:35.812998+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JAM DBYANGS_GENTLE VOICE (MANJUGHOSHA, MANJUSHRI)/RJES GNANG_RITES OF PERMISSION (ANUJNA)",
-            "timestamp": "2024-11-20 05:02:00.816815+00:00"
+            "timestamp": "2024-11-26 23:28:39.260836+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:01:53.850108+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:28:35.812998+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:02:00.816815+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:28:39.260836+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

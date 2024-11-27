@@ -6,13 +6,13 @@
     "revision_id": "625a47975433f8d294473",
     "content_hash": "6d9d6100a077f010ac99c626765526652d49ed59630218c0a171ec7460fd9532",
     "server_modified": "2024-10-29 21:43:22",
-    "last_sync": "2024-11-19 20:47:48.733546",
+    "last_sync": "2024-11-26 15:19:03.753637",
     "size": 142414,
-    "meta_text": "('and Commentary to the Classical Commentary Known as ‘The Ornament of Realizations’, Part Two_MKHAS GRUB BSTAN PA DAR RGYAS (1493-1568)', 'rtf')",
+    "meta_text": "and Commentary to the Classical Commentary Known as ‘The Ornament of Realizations’, Part Two_MKHAS GRUB BSTAN PA DAR RGYAS (1493-1568)",
     "cat_ref": "S00009M2",
     "work_ref": "W.S00009M2",
     "title_tib": "BSTAN BCOS MNGON PAR RTOGS PA'I RGYAN RTZA 'GREL GYI SPYI DON RNAM BSHAD SNYING PO RGYAN GYI SNANG BA PHAR PHYIN SPYI DON, CHA GNYIS PA",
-    "title_eng": "'An Illumination of the 'Jewel of the Essence of Good Explanation',' being an Overview of the Root Text('and Commentary to the Classical Commentary Known as ‘The Ornament of Realizations’, Part Two",
+    "title_eng": "'An Illumination of the 'Jewel of the Essence of Good Explanation',' being an Overview of the Root Textand Commentary to the Classical Commentary Known as ‘The Ornament of Realizations’, Part Two",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/SPYI_GENERAL COMMENTARIES/MKHAS GRUB BSTAN PA DAR RGYAS_KEDRUP TENPA DARGYE (1493-1568)/SPYI DON_OVERVIEW",
-            "timestamp": "2024-11-20 04:47:52.618690+00:00"
+            "timestamp": "2024-11-26 23:19:06.280242+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:47:52.618690+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:19:06.280242+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

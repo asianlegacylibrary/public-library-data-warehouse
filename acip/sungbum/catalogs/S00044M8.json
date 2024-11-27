@@ -6,13 +6,13 @@
     "revision_id": "625a4b0d713bc8d294473",
     "content_hash": "58b5587ea62be6f4eb6b841460773552a62f0db0c120386a2e0a55b093b12442",
     "server_modified": "2024-10-29 21:58:52",
-    "last_sync": "2024-11-19 21:26:43.383764",
+    "last_sync": "2024-11-26 15:45:32.529035",
     "size": 163866,
-    "meta_text": "(\"f ‘The Treasure-House of Wisdom’, Part Eight_RGYAL DBANG BLO BZANG 'PHRIN LAS RNAM RGYAL (1840-1860)\", 'rtf')",
+    "meta_text": "f ‘The Treasure-House of Wisdom’, Part Eight_RGYAL DBANG BLO BZANG 'PHRIN LAS RNAM RGYAL (1840-1860)",
     "cat_ref": "S00044M8",
     "work_ref": "W.S00044M8",
     "title_tib": "CHOS MNGON PA'I MDZOD KYI DGONGS DON GSAL BAR BYED PA'I LEGS BSHAD NYIN BYED DBANG PO'I SNANG BA, CHA BRGYAD PA RGYAL DBANG MDZOD",
-    "title_eng": "'Light on the Lord of the Makers of Day, Words of Excellent Explanation,' an Explication of the True Intent o(\"f ‘The Treasure-House of Wisdom’, Part Eight",
+    "title_eng": "'Light on the Lord of the Makers of Day, Words of Excellent Explanation,' an Explication of the True Intent of ‘The Treasure-House of Wisdom’, Part Eight",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/MNGON PA_HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)/RGYAL DBANG BLO BZANG 'PHRIN LAS RNAM RGYAL_GYALWANG LOBSANG TRINLE NAMGYAL (1840-1860)",
-            "timestamp": "2024-11-20 05:26:45.289266+00:00"
+            "timestamp": "2024-11-26 23:45:33.973586+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:26:45.289266+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:45:33.973586+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

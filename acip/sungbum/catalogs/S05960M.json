@@ -6,9 +6,9 @@
     "revision_id": "625a47d1129cf8d294473",
     "content_hash": "be982e97b18ae3e01ac992b2719c3b4a4ab0fca0a2922108fe29020ac5d73fab",
     "server_modified": "2024-10-29 21:44:23",
-    "last_sync": "2024-11-19 20:51:03.829629",
+    "last_sync": "2024-11-26 15:21:07.789178",
     "size": 9806,
-    "meta_text": "('YI RGYAL MTSAN (1565-1662)', 'rtf')",
+    "meta_text": "YI RGYAL MTSAN (1565-1662)",
     "cat_ref": "S05960M",
     "work_ref": "W.S05960M",
     "title_tib": "BKRA SHIS LHUN PO'I PHYI'I MCHOD RTEN DANG RA BSGRENG DU MCHOD RTEN BZHENGS PA'I DKAR CHAG",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/LHA BZO_FINE ARTS/MCHOD RTEN_STUPAS/BKRA SHIS LHUN PO_TRASHI HLUNPO MONASTERY",
-            "timestamp": "2024-11-20 04:51:04.460095+00:00"
+            "timestamp": "2024-11-26 23:21:08.102121+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/LHA BZO_FINE ARTS/MCHOD RTEN_STUPAS/RA SGRENG_RADRENG MONASTERY",
-            "timestamp": "2024-11-20 04:51:06.762487+00:00"
+            "timestamp": "2024-11-26 23:21:09.439452+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:51:04.460095+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:21:08.102121+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T04:51:06.762487+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:21:09.439452+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

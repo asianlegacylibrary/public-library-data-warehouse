@@ -6,13 +6,13 @@
     "revision_id": "625a4922ca40a8d294473",
     "content_hash": "40949a15512eb9894cc4f7481331c6de0771c8fb1075924d6a9d7805eeccce95",
     "server_modified": "2024-10-29 21:50:17",
-    "last_sync": "2024-11-19 21:05:17.661790",
+    "last_sync": "2024-11-26 15:31:00.287347",
     "size": 159249,
-    "meta_text": "('ord,’ which is Itself a Commentary upon the True Thought of the Four Groups of Secret Teachings_CO NE BLA MA GRAGS PA BSHAD SGRUB (1675-1748)', 'rtf')",
+    "meta_text": "ord,’ which is Itself a Commentary upon the True Thought of the Four Groups of Secret Teachings_CO NE BLA MA GRAGS PA BSHAD SGRUB (1675-1748)",
     "cat_ref": "S00215A",
     "work_ref": "W.S00215A",
     "title_tib": "RGYUD SDE RNAM BZHI'I DGONGS 'GREL SNGAGS RIM CHEN MO'I DGONGS PA YANG GSAL SGRON ME LEGS PAR BSHAD PA'I SNANG BA",
-    "title_eng": "The 'Light of Fine Explanation,' being a Lamp that Illuminates Even Further the True Thought of 'The Great Book on the Secret W('ord,’ which is Itself a Commentary upon the True Thought of the Four Groups of Secret Teachings",
+    "title_eng": "The 'Light of Fine Explanation,' being a Lamp that Illuminates Even Further the True Thought of 'The Great Book on the Secret Word,’ which is Itself a Commentary upon the True Thought of the Four Groups of Secret Teachings",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/'GREL PA_GENERAL COMMENTARIES/CHONE LAMA DRAKPA SHEDRUP_CO NE BLA MA GRAGS PA BSHAD SGRUB (1675-1748)",
-            "timestamp": "2024-11-20 05:05:18.222089+00:00"
+            "timestamp": "2024-11-26 23:31:00.790538+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:05:18.222089+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:31:00.790538+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

@@ -6,9 +6,9 @@
     "revision_id": "625a48615da6f8d294473",
     "content_hash": "ac49d58bbef50f800d60f7f4892938f69573a23a3aa2f537e4d69b2a76d38fed",
     "server_modified": "2024-10-29 21:46:54",
-    "last_sync": "2024-11-19 20:55:12.352731",
+    "last_sync": "2024-11-26 15:23:53.970510",
     "size": 3215,
-    "meta_text": "('2-1851)', 'rtf')",
+    "meta_text": "2-1851)",
     "cat_ref": "S06374E",
     "work_ref": "W.S06374E",
     "title_tib": "MGON DKAR YID BZHIN NOR BU'I GSOL MCHOD BZLAS PA MDOR BSDUS",
@@ -31,8 +31,8 @@
     "author": [
         {
             "author_name": "DNGUL CHU DHARMA BHADRA",
-            "author_birth": null,
-            "author_death": null,
+            "author_birth": "1772",
+            "author_death": "1851",
             "bdrc_id": "bdr:P289",
             "normalized_name": "DNGUL CHU DHARMA BHADRA",
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/MGON PO_THE PROTECTOR (MAHAKALA)/RNAL 'BYOR_PRACTICES",
-            "timestamp": "2024-11-20 04:55:12.361731+00:00"
+            "timestamp": "2024-11-26 23:23:53.985446+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:55:12.361731+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:53.985446+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

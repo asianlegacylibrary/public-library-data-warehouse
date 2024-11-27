@@ -6,13 +6,13 @@
     "revision_id": "625a49661b1d08d294473",
     "content_hash": "915307df79b148beafc4ae83a630d8054e573f7b4fa95af1d05c37e918c17c43",
     "server_modified": "2024-10-29 21:51:28",
-    "last_sync": "2024-11-19 21:08:04.170882",
+    "last_sync": "2024-11-26 15:32:52.918841",
     "size": 51225,
-    "meta_text": "(\"f Naropa's Heaven of the Sky; Notes on the Practices and Recitations to be Performed While Staying in the Retreat; Instructions for Performing the Ceremony of the Tenth_SKYABS RJE PHA BONG KHA PA BDE CHEN SNYING PO (1878-1941)\", 'rtf')",
+    "meta_text": "f Naropa's Heaven of the Sky; Notes on the Practices and Recitations to be Performed While Staying in the Retreat; Instructions for Performing the Ceremony of the Tenth_SKYABS RJE PHA BONG KHA PA BDE CHEN SNYING PO (1878-1941)",
     "cat_ref": "S00347E",
     "work_ref": "W.S00347E",
     "title_tib": "N'A RO MKHA' SPYOD MA'I BSNYEN PA'I SNGON 'GRO'I 'DON CHA DANG, BSNYEN PA 'DUG SKABS KYI PHYAG LEN DANG CHO GA'I ZIN THO, TSES BCU RGYAS 'BRING BSDUS PA BYA TSUL BCAS",
-    "title_eng": "A Ritual to be Performed as a Preliminary to a Retreat in the Teachings o(\"f Naropa's Heaven of the Sky; Notes on the Practices and Recitations to be Performed While Staying in the Retreat; Instructions for Performing the Ceremony of the Tenth",
+    "title_eng": "A Ritual to be Performed as a Preliminary to a Retreat in the Teachings of Naropa's Heaven of the Sky; Notes on the Practices and Recitations to be Performed While Staying in the Retreat; Instructions for Performing the Ceremony of the Tenth",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAL 'BYOR MA_ANGEL OF DIAMOND (VAJRAYOGINI)/BSNYEN PA_RETREAT INSTRUCTIONS",
-            "timestamp": "2024-11-20 05:08:04.179956+00:00"
+            "timestamp": "2024-11-26 23:32:52.928199+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAL 'BYOR MA_ANGEL OF DIAMOND (VAJRAYOGINI)/TSES BCU_OFFERING OF THE TENTH DAY",
-            "timestamp": "2024-11-20 05:08:31.371407+00:00"
+            "timestamp": "2024-11-26 23:33:10.039374+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:08:04.179956+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:32:52.928199+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:08:31.371407+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:33:10.039374+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

@@ -6,9 +6,9 @@
     "revision_id": "625a4af4e1e138d294473",
     "content_hash": "96df3f8c769872b4ead8e74dca9facd2a52b6162edb0b74da290ac132548f092",
     "server_modified": "2024-10-29 21:58:26",
-    "last_sync": "2024-11-19 21:25:55.414060",
+    "last_sync": "2024-11-26 15:45:00.586830",
     "size": 8291,
-    "meta_text": "(\"ZON 'GRUS (1648-1721)\", 'rtf')",
+    "meta_text": "ZON 'GRUS (1648-1721)",
     "cat_ref": "S19053E",
     "work_ref": "W.S19053E",
     "title_tib": "MNYAM PA'I SDEB SBYOR GYI MTSAN NYID NYUNG NGU RNAM GSAL DBYANGS CAN GYI MGUL RGYAN",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/SGRA_STUDY OF SANSKRIT/SDEB SBYOR_SANSKRIT PHONETICS",
-            "timestamp": "2024-11-20 05:25:55.419937+00:00"
+            "timestamp": "2024-11-26 23:45:00.592739+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:25:55.419937+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:45:00.592739+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

@@ -6,9 +6,9 @@
     "revision_id": "625a4883909e38d294473",
     "content_hash": "fa2ae534a01d28a3f92be595437a18c83328373a17a9b0160e80bd90880f4486",
     "server_modified": "2024-10-29 21:47:30",
-    "last_sync": "2024-11-19 20:57:14.264089",
+    "last_sync": "2024-11-26 15:25:18.265595",
     "size": 993,
-    "meta_text": "('A BHADRA (1772-1851)', 'rtf')",
+    "meta_text": "A BHADRA (1772-1851)",
     "cat_ref": "S06369E19",
     "work_ref": "W.S06369E19",
     "title_tib": "TSE SGRUB 'CHI MED RDO RJE'I SROG SHING GI, RDO RJE 'CHANG DBANG 'KHON STON CHOS KYI RJES, ZHES PA'I MJUG TU GSOL 'DEBS KHA SKONG",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RTA MGRIN_HORSE THROAT (HAYAGRIVA)/TSE SGRUB_RITUAL FOR LONG LIFE",
-            "timestamp": "2024-11-20 04:57:14.270444+00:00"
+            "timestamp": "2024-11-26 23:25:18.271385+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:57:14.270444+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:25:18.271385+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

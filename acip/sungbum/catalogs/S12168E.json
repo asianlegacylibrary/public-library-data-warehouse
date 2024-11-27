@@ -6,13 +6,13 @@
     "revision_id": "625a4a7c4c72c8d294473",
     "content_hash": "315e187da8ded3ee38ffcacfbb4b43c4753b739fba56aa0ee68d9fb381711422",
     "server_modified": "2024-10-29 21:56:19",
-    "last_sync": "2024-11-19 21:19:01.605761",
+    "last_sync": "2024-11-26 15:40:25.151029",
     "size": 136979,
-    "meta_text": "('n the ‘Great Book on the Schools of Philosophy’_CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN (1806-@)', 'rtf')",
+    "meta_text": "n the ‘Great Book on the Schools of Philosophy’_CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN (1806-@)",
     "cat_ref": "S12168E",
     "work_ref": "W.S12168E",
     "title_tib": "DPAL LDAN CHOS RJES GRUB MTHA' CHEN MO'I MCHAN 'GREL GYI SKABS SU MDZAD PA'I RTZA BA'I TSIG 'GREL ZUR DU BKOL BA",
-    "title_eng": "A Commentary to the Words of the Root Text, extracted from Text where that Lord of the Dharma, Pelden, composed Annotations upo('n the ‘Great Book on the Schools of Philosophy’",
+    "title_eng": "A Commentary to the Words of the Root Text, extracted from Text where that Lord of the Dharma, Pelden, composed Annotations upon the ‘Great Book on the Schools of Philosophy’",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/GRUB MTHA'_COMPARATIVE PHILOSOPHY (SIDDHANTA)/LCANG SKYA ROL PA'I RDO RJE_CHANGKYA ROLPAY DORJE (1717-1786)/GRUB MTHA' CHEN MO_GREAT BOOK ON COMPARATIVE SCHOOLS/'GREL PA_COMMENTARIES",
-            "timestamp": "2024-11-20 05:19:03.547984+00:00"
+            "timestamp": "2024-11-26 23:40:26.367484+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/GRUB MTHA'_COMPARATIVE PHILOSOPHY (SIDDHANTA)/CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN_CHUJE KALKA NGAWANG PELDEN (1806-?)",
-            "timestamp": "2024-11-20 05:19:09.735701+00:00"
+            "timestamp": "2024-11-26 23:40:31.786937+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:19:03.547984+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:40:26.367484+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:19:09.735701+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:40:31.786937+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

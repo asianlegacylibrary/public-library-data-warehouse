@@ -6,13 +6,13 @@
     "revision_id": "625a4934b8fbd8d294473",
     "content_hash": "585e84b5b503e9a11d11d107343b69a1ea16d3a9f34225597fa19fd2d0d9de60",
     "server_modified": "2024-10-29 21:50:36",
-    "last_sync": "2024-11-19 21:05:50.826157",
+    "last_sync": "2024-11-26 15:31:23.204287",
     "size": 74648,
-    "meta_text": "('t down in the Form of Notes to a Teaching of Je Tsongkapa, by the One whose Name is Punya_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)', 'rtf')",
+    "meta_text": "t down in the Form of Notes to a Teaching of Je Tsongkapa, by the One whose Name is Punya_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)",
     "cat_ref": "S05388E",
     "work_ref": "W.S05388E",
     "title_tib": "DUS KYI 'KHOR LO'I RDZOGS RIM SBYOR BA YAN LAG DRUG GI KHRID PUn+YA'I MING CAN GYIS RJE'I GSUNG BZHIN ZIN BRIS SU BKOD PA",
-    "title_eng": "A Teaching on the Six-Part Secret Practice for the Stage of Completion in the Secret Tradition of the Wheel of Time, se('t down in the Form of Notes to a Teaching of Je Tsongkapa, by the One whose Name is Punya",
+    "title_eng": "A Teaching on the Six-Part Secret Practice for the Stage of Completion in the Secret Tradition of the Wheel of Time, set down in the Form of Notes to a Teaching of Je Tsongkapa, by the One whose Name is Punya",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/RDZOGS RIM_COMPLETION STAGE (SAMPANNA KRAMA)",
-            "timestamp": "2024-11-20 05:05:50.832229+00:00"
+            "timestamp": "2024-11-26 23:31:23.211278+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:05:50.832229+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:31:23.211278+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

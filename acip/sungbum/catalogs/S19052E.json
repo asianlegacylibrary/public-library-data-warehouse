@@ -6,9 +6,9 @@
     "revision_id": "625a4af4e1e118d294473",
     "content_hash": "83e72ac7f596291312c48bf88d4911a364d98842372ba380ac737d3bcf591a79",
     "server_modified": "2024-10-29 21:58:26",
-    "last_sync": "2024-11-19 21:25:54.799418",
+    "last_sync": "2024-11-26 15:44:59.816981",
     "size": 1664,
-    "meta_text": "('648-1721)', 'rtf')",
+    "meta_text": "648-1721)",
     "cat_ref": "S19052E",
     "work_ref": "W.S19052E",
     "title_tib": "SDEB SBYOR GYI RNAM GZHAG NYUNG NGU LING TSE DANG BCAS PA 'JAM DBYANGS BZHAD PAS MDZAD PA",
@@ -31,8 +31,8 @@
     "author": [
         {
             "author_name": "'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS",
-            "author_birth": null,
-            "author_death": null,
+            "author_birth": "1648",
+            "author_death": "1721",
             "bdrc_id": "bdr:P423",
             "normalized_name": "'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS",
             "bdrc_url": "http://purl.bdrc.io/resource/P423"
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/SGRA_STUDY OF SANSKRIT/SDEB SBYOR_SANSKRIT PHONETICS",
-            "timestamp": "2024-11-20 05:25:55.419264+00:00"
+            "timestamp": "2024-11-26 23:45:00.592153+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:25:55.419264+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:45:00.592153+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

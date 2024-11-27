@@ -6,13 +6,13 @@
     "revision_id": "625a4a87b2a938d294473",
     "content_hash": "4cd44f1bd1cc24918b99fb1f266fb97842d1e4878c9f6f6cae1bb9cfd3f2df69",
     "server_modified": "2024-10-29 21:56:31",
-    "last_sync": "2024-11-19 21:19:35.382870",
+    "last_sync": "2024-11-26 15:40:49.703171",
     "size": 17685,
-    "meta_text": "(\"myang Shepay Dorje_'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS (1648-1721)\", 'rtf')",
+    "meta_text": "myang Shepay Dorje_'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS (1648-1721)",
     "cat_ref": "S19058E",
     "work_ref": "W.S19058E",
     "title_tib": "KUN MKHYEN 'JAM DBYANGS DBYANG PA'I RDO RJE'I GSUNGS 'BUM [THOR BU] KHRIGS CHAGS SU BSDEBS PA LAS BSNGO BA SMON LAM GYI SKOR",
-    "title_eng": "The Section on the Subject of Dedications and Prayers, from a Compilation of [Scattered] Works of the All-Knowing Ja(\"myang Shepay Dorje",
+    "title_eng": "The Section on the Subject of Dedications and Prayers, from a Compilation of [Scattered] Works of the All-Knowing Jamyang Shepay Dorje",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BSNGO BA_DEDICATING GOOD DEEDS/'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS_JAMYANG SHEPAY DORJE NGAWANG TSUNDRU (1648-1721)",
-            "timestamp": "2024-11-20 05:19:35.389047+00:00"
+            "timestamp": "2024-11-26 23:40:49.711181+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS_JAMYANG SHEPAY DORJE NGAWANG TSUNDRU (1648-1721)",
-            "timestamp": "2024-11-20 05:23:28.500191+00:00"
+            "timestamp": "2024-11-26 23:43:23.176919+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:19:35.389047+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:40:49.711181+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:23:28.500191+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:43:23.176919+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

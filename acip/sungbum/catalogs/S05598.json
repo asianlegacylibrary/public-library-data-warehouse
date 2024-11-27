@@ -6,7 +6,7 @@
     "revision_id": "625a4a1dce79c8d294473",
     "content_hash": "e43afa15f29300b16506a0ce53ed26f988391d05ad0afdae4e394b65629cbfae",
     "server_modified": "2024-10-29 21:54:40",
-    "last_sync": "2024-11-19 21:16:15.840228",
+    "last_sync": "2024-11-26 15:38:30.417596",
     "size": 174939,
     "meta_text": null,
     "cat_ref": "S05598",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/BLO GROS MCHOG GI RDO RJE_LODRU CHOK KI DORJE (1595 – 1671)",
-            "timestamp": "2024-11-20 05:16:15.844379+00:00"
+            "timestamp": "2024-11-26 23:38:30.423135+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:16:15.844379+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:38:30.423135+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

@@ -6,9 +6,9 @@
     "revision_id": "625a48c7838328d294473",
     "content_hash": "c874954b2c90544408e89e135ede8e078b8f88c0ee7316aafc082e090b69b880",
     "server_modified": "2024-10-29 21:48:41",
-    "last_sync": "2024-11-19 21:01:16.641562",
+    "last_sync": "2024-11-26 15:28:10.652880",
     "size": 11840,
-    "meta_text": "('(1642-1714)', 'rtf')",
+    "meta_text": "(1642-1714)",
     "cat_ref": "S00119E",
     "work_ref": "W.S00119E",
     "title_tib": "BCOM LDAN 'DAS RDO RJE MI 'KHRUGS PA'I SGO NAS SKRA CHOG SOGS BYED TSUL",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE MI 'KHRUGS PA_UNSHAKABLE DIAMOND (AKSHOBYAVAJRA)/SKRA CHOG_RITUALS FOR HAIR",
-            "timestamp": "2024-11-20 05:01:16.649766+00:00"
+            "timestamp": "2024-11-26 23:28:10.666207+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:01:16.649766+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:28:10.666207+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

@@ -6,7 +6,7 @@
     "revision_id": "625a49416422d8d294473",
     "content_hash": "da9426941a237331ede75c51cb1afc1ab6f4d41270f9cbb4276f4c3583eb70e5",
     "server_modified": "2024-10-29 21:50:49",
-    "last_sync": "2024-11-19 21:06:35.060094",
+    "last_sync": "2024-11-26 15:31:50.880150",
     "size": 11482,
     "meta_text": null,
     "cat_ref": "S05301E22",
@@ -38,13 +38,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/BSRE BA_PRACTICE OF MIXING",
-            "timestamp": "2024-11-20 05:06:35.067824+00:00"
+            "timestamp": "2024-11-26 23:31:50.889057+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:06:35.067824+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:31:50.889057+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

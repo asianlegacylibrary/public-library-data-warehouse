@@ -6,9 +6,9 @@
     "revision_id": "625a48a1b34ed8d294473",
     "content_hash": "ecf521300457285fd79815023763e3df765021d9658a851d91f95b379635f0d6",
     "server_modified": "2024-10-29 21:48:02",
-    "last_sync": "2024-11-19 20:58:56.804095",
+    "last_sync": "2024-11-26 15:26:35.265517",
     "size": 6503,
-    "meta_text": "('(1357-1419)', 'rtf')",
+    "meta_text": "(1357-1419)",
     "cat_ref": "S05275E47",
     "work_ref": "W.S05275E47",
     "title_tib": "BCOM LDAN 'DAS GTZUG TOR RNAM PAR RGYAL MA LA BSTOD PA 'CHI MED GRUB PA",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GTZUG TOR_TOPKNOT (USHNISHA)/BSTOD PA_SONGS OF PRAISE (STOTRA)",
-            "timestamp": "2024-11-20 04:58:56.816919+00:00"
+            "timestamp": "2024-11-26 23:26:35.278130+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:58:56.816919+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:26:35.278130+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

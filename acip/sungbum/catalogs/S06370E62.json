@@ -6,7 +6,7 @@
     "revision_id": "625a48183b1288d294473",
     "content_hash": "4d6fd4120f05ab310a1cddf743f23b47187a26108e3ed69a8b6b930ff229d6db",
     "server_modified": "2024-10-29 21:45:38",
-    "last_sync": "2024-11-19 20:53:36.019414",
+    "last_sync": "2024-11-26 15:22:49.069586",
     "size": 1460,
     "meta_text": null,
     "cat_ref": "S06370E62",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 04:54:07.133764+00:00"
+            "timestamp": "2024-11-26 23:23:11.586655+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/LAS BZHI_FOUR MODES",
-            "timestamp": "2024-11-20 05:04:19.437925+00:00"
+            "timestamp": "2024-11-26 23:30:21.647578+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:07.133764+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:11.586655+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:04:19.437925+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:30:21.647578+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

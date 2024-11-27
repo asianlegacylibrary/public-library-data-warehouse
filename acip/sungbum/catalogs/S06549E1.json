@@ -6,7 +6,7 @@
     "revision_id": "625a49ec2c36b8d294473",
     "content_hash": "4e5c711bceabc00ee835825a4da13e09e2ca938d4c1910a8621cd845fb461e0b",
     "server_modified": "2024-10-29 21:53:48",
-    "last_sync": "2024-11-19 21:14:10.101663",
+    "last_sync": "2024-11-26 15:37:03.509309",
     "size": 48042,
     "meta_text": null,
     "cat_ref": "S06549E1",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/GSAN YIG_RECORDS OF TEACHINGS RECEIVED/KLONG RDOL BLA MA NGAG DBANG BLO BZANG_LONGDOL LAMA NGAWANG LOBSANG (1719-1794)",
-            "timestamp": "2024-11-20 05:14:11.433822+00:00"
+            "timestamp": "2024-11-26 23:37:04.361192+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:14:11.433822+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:37:04.361192+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

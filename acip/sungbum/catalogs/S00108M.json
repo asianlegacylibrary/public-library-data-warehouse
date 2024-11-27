@@ -6,7 +6,7 @@
     "revision_id": "625a47caa006d8d294473",
     "content_hash": "34372992a34da2085c03b3c27cac18d45e66378190a5fcdf05b2dd10146c86a8",
     "server_modified": "2024-10-29 21:44:16",
-    "last_sync": "2024-11-19 20:50:34.324368",
+    "last_sync": "2024-11-26 15:20:51.684668",
     "size": 16929,
     "meta_text": null,
     "cat_ref": "S00108M",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/LO THO_CALENDRICAL MATERIALS/DUS CHEN_BUDDHIST HOLIDAYS",
-            "timestamp": "2024-11-20 04:50:34.336325+00:00"
+            "timestamp": "2024-11-26 23:20:51.698937+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:50:34.336325+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:20:51.698937+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

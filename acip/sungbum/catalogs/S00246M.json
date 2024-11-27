@@ -6,7 +6,7 @@
     "revision_id": "625a4adeebe798d294473",
     "content_hash": "af55ae7f56338e51b97c3870fff1b41dde8ce0163a4bf3a32560f99806e64b48",
     "server_modified": "2024-10-29 21:58:03",
-    "last_sync": "2024-11-19 21:24:24.997752",
+    "last_sync": "2024-11-26 15:44:02.924787",
     "size": 6060,
     "meta_text": null,
     "cat_ref": "S00246M",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/BCA' YIG_OFFICIAL DOCUMENTS/STAG BRAG_TAKDRAK MONASTERY",
-            "timestamp": "2024-11-20 05:24:25.002632+00:00"
+            "timestamp": "2024-11-26 23:44:02.932669+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:24:25.002632+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:44:02.932669+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

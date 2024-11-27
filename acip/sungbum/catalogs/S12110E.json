@@ -6,9 +6,9 @@
     "revision_id": "625a4884ceafe8d294473",
     "content_hash": "29da724ed1fa630376ab5e10d19774dda8937da25b0722eccaafa4929760f409",
     "server_modified": "2024-10-29 21:47:31",
-    "last_sync": "2024-11-19 20:57:18.643866",
+    "last_sync": "2024-11-26 15:25:20.055779",
     "size": 34986,
-    "meta_text": "(\"TAN 'DZIN YAR RGYAS (1927-1996)\", 'rtf')",
+    "meta_text": "TAN 'DZIN YAR RGYAS (1927-1996)",
     "cat_ref": "S12110E",
     "work_ref": "W.S12110E",
     "title_tib": "'JIGS BYED DANG, RTA MGRIN SOGS KYI DBANG GI SKABS ZIN BRIS THOR BU",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RTA MGRIN_HORSE THROAT (HAYAGRIVA)/DBANG_EMPOWERMENT (ABHISHEKA)",
-            "timestamp": "2024-11-20 04:57:18.650771+00:00"
+            "timestamp": "2024-11-26 23:25:20.064913+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/DBANG_EMPOWERMENT (ABHISHEKA)",
-            "timestamp": "2024-11-20 05:11:18.077717+00:00"
+            "timestamp": "2024-11-26 23:35:09.595600+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:57:18.650771+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:25:20.064913+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:11:18.077717+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:35:09.595600+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

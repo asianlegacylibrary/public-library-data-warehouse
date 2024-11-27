@@ -6,7 +6,7 @@
     "revision_id": "625a47dcd46608d294473",
     "content_hash": "77aff2e1e16b8eff6d63d5c107b59888f15728bad1b81f3b8db1918149ef0cc8",
     "server_modified": "2024-10-29 21:44:35",
-    "last_sync": "2024-11-19 20:51:27.444547",
+    "last_sync": "2024-11-26 15:21:23.080429",
     "size": 1485604,
     "meta_text": null,
     "cat_ref": "S25000",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/'GREL PA SPYI_GENERAL COMMENTARIES/MKHAS GRUB RJE DGE LEGS DPAL BZANG PO_KEDRUP JE GELEK PEL SANGPO (1385-1438)",
-            "timestamp": "2024-11-20 04:51:27.448753+00:00"
+            "timestamp": "2024-11-26 23:21:23.088020+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:51:27.448753+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:21:23.088020+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

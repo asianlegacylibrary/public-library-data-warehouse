@@ -6,7 +6,7 @@
     "revision_id": "625a4af1e4fad8d294473",
     "content_hash": "85d8b36a589b945de496ef3a896a325abbb236b058fd6a49f6dbb284cd2de682",
     "server_modified": "2024-10-29 21:58:23",
-    "last_sync": "2024-11-19 21:25:43.685764",
+    "last_sync": "2024-11-26 15:44:53.328962",
     "size": 7937,
     "meta_text": null,
     "cat_ref": "S06400M",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/SGRA_STUDY OF SANSKRIT/SNGAGS KLOG TSUL_HOW TO PRONOUNCE MANTRAS",
-            "timestamp": "2024-11-20 05:25:43.690138+00:00"
+            "timestamp": "2024-11-26 23:44:53.332253+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:25:43.690138+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:44:53.332253+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

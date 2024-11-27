@@ -6,13 +6,13 @@
     "revision_id": "625a48465ca5e8d294473",
     "content_hash": "bd4296193e1961df150970b1e74d78663e88d3e0e7f84539ba6edc1a2713ce6e",
     "server_modified": "2024-10-29 21:46:26",
-    "last_sync": "2024-11-19 20:54:14.105563",
+    "last_sync": "2024-11-26 15:23:15.789695",
     "size": 18575,
-    "meta_text": "(\"Lobsang Rinchen Tsang-yang Gyatso_'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS (1648-1721)\", 'rtf')",
+    "meta_text": "Lobsang Rinchen Tsang-yang Gyatso_'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS (1648-1721)",
     "cat_ref": "S19072E",
     "work_ref": "W.S19072E",
     "title_tib": "RGYAL DBANG BLO BZANG RIN CHEN TSANGS DBYANGS RGYA MTSOS 'JAM DBYANGS BZHAD PA'I RDO RJER DRI BA GNANG BA'I BKA' LAN TZINTA MA nI'I PHRENG BA",
-    "title_eng": "A Necklace of Wish-Giving Jewels-- Responses to Queries Posed to Jamyang Shepay Dorje by Gyalwang L(\"Lobsang Rinchen Tsang-yang Gyatso",
+    "title_eng": "A Necklace of Wish-Giving Jewels-- Responses to Queries Posed to Jamyang Shepay Dorje by Gyalwang LLobsang Rinchen Tsang-yang Gyatso",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/'JAM DBYANGS BZHAD PA'I RDO RJE (1648-1721)",
-            "timestamp": "2024-11-20 04:54:14.111894+00:00"
+            "timestamp": "2024-11-26 23:23:15.798152+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:14.111894+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:15.798152+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

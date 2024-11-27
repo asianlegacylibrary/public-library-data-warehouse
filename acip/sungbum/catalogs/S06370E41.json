@@ -6,9 +6,9 @@
     "revision_id": "625a48171feed8d294473",
     "content_hash": "1aa0e9cda738de922520813290e5f38f0acf9faf3a9e12efdd51d622fbb8d9c5",
     "server_modified": "2024-10-29 21:45:36",
-    "last_sync": "2024-11-19 20:53:34.542717",
+    "last_sync": "2024-11-26 15:22:47.774886",
     "size": 680,
-    "meta_text": "('_DNGUL CHU DHARMA BHADRA (1772-1851)', 'rtf')",
+    "meta_text": "_DNGUL CHU DHARMA BHADRA (1772-1851)",
     "cat_ref": "S06370E41",
     "work_ref": "W.S06370E41",
     "title_tib": "MGON PO'I GTOR 'BUL GYI ZHI BA'I TSE NAD GDON ZHI TSUL SKOR GYI DRI LAN",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 04:54:07.133567+00:00"
+            "timestamp": "2024-11-26 23:23:11.586423+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/MGON PO_THE PROTECTOR (MAHAKALA)/GTOR MA_OFFERING CAKE (BALI)",
-            "timestamp": "2024-11-20 04:55:07.808582+00:00"
+            "timestamp": "2024-11-26 23:23:51.244742+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:07.133567+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:11.586423+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T04:55:07.808582+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:51.244742+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

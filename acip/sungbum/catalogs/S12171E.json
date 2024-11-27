@@ -6,9 +6,9 @@
     "revision_id": "625a4a74f303c8d294473",
     "content_hash": "5939c034377061d010d220f6fcb6d7683f8503cfb40ce452c2dd9750bcf2eae6",
     "server_modified": "2024-10-29 21:56:12",
-    "last_sync": "2024-11-19 21:18:38.633145",
+    "last_sync": "2024-11-26 15:40:09.924065",
     "size": 165233,
-    "meta_text": "('ENG GNYIS PA BLO BZANG YE SHES (1663-1737)', 'rtf')",
+    "meta_text": "ENG GNYIS PA BLO BZANG YE SHES (1663-1737)",
     "cat_ref": "S12171E",
     "work_ref": "W.S12171E",
     "title_tib": "LAM GYI GTZO BO RNAM GSUM GYI RNAM BSHAD GSUNG RAB KUN GYI GNAD BSDUS PA LEGS BSHAD SNYING PO",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/LAM GTZO RNAM GSUM_THE THREE PRINCIPAL PATHS/'GREL PA_COMMENTARIES",
-            "timestamp": "2024-11-20 05:18:39.275897+00:00"
+            "timestamp": "2024-11-26 23:40:10.364258+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:18:39.275897+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:40:10.364258+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

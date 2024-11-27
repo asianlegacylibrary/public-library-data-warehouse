@@ -6,9 +6,9 @@
     "revision_id": "625a487a8a3dd8d294473",
     "content_hash": "56a92f5da10fdceeba845800bfbdb19f613d8415346c6a2ece8967d1f1c229a9",
     "server_modified": "2024-10-29 21:47:21",
-    "last_sync": "2024-11-19 20:56:43.985133",
+    "last_sync": "2024-11-26 15:24:54.280457",
     "size": 104203,
-    "meta_text": "('CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)', 'rtf')",
+    "meta_text": "CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)",
     "cat_ref": "S05904E",
     "work_ref": "W.S05904E",
     "title_tib": "BCOM LDAN 'DAS DPAL 'KHOR LO BDE MCHOG L'U AI PA'I LUGS KYI BSKYED RIM",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/BSKYED RIM_CREATION STAGE (UTPATTI KRAMA)",
-            "timestamp": "2024-11-20 04:56:45.218930+00:00"
+            "timestamp": "2024-11-26 23:24:55.530410+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:56:45.218930+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:24:55.530410+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

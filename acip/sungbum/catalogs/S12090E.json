@@ -6,13 +6,13 @@
     "revision_id": "625a4a054f3e08d294473",
     "content_hash": "50f754443e2828fa67d78726fc09e5571465111cd7e5ffc78468c34151a63504",
     "server_modified": "2024-10-29 21:54:15",
-    "last_sync": "2024-11-19 21:14:46.791864",
+    "last_sync": "2024-11-26 15:37:28.522109",
     "size": 12836,
-    "meta_text": "('Works of Our Lord and Protector, Dzeme Rinpoche, Jetsun Lobsang Pelden Tendzin Yargye, otherwise known as Loter Gyepay Langtso Pel Sangpo, Keeper of a Treasure of Teachings in the Oral Lineage of our Gentle Savior, Je Tsongkapa_& (&-&)', 'rtf')",
+    "meta_text": "Works of Our Lord and Protector, Dzeme Rinpoche, Jetsun Lobsang Pelden Tendzin Yargye, otherwise known as Loter Gyepay Langtso Pel Sangpo, Keeper of a Treasure of Teachings in the Oral Lineage of our Gentle Savior, Je Tsongkapa_& (&-&)",
     "cat_ref": "S12090E",
     "work_ref": "W.S12090E",
     "title_tib": "'JAM MGON SNYAN BRGYUD KYI BSTAN PA'I MDZOD 'DZIN ^ SKYABS RJE DZE SMAD RIN PO CHE RJE BTZUN BLO BZANG DPAL LDAN BSTAN 'DZIN YAR RGYAS SAM BLO GTER DGYES PA'I LANG TSO DPAL BZANG PO'I GSUNG 'BUM GYI GLENG BRJOD",
-    "title_eng": "Introduction to the Collected('Works of Our Lord and Protector, Dzeme Rinpoche, Jetsun Lobsang Pelden Tendzin Yargye, otherwise known as Loter Gyepay Langtso Pel Sangpo, Keeper of a Treasure of Teachings in the Oral Lineage of our Gentle Savior, Je Tsongkapa& (&-&)', 'rtf')",
+    "title_eng": "Introduction to the CollectedWorks of Our Lord and Protector, Dzeme Rinpoche, Jetsun Lobsang Pelden Tendzin Yargye, otherwise known as Loter Gyepay Langtso Pel Sangpo, Keeper of a Treasure of Teachings in the Oral Lineage of our Gentle Savior, Je Tsongkapa",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -38,13 +38,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/DZE SMAD RIN PO CHE BLO BZANG DPAL LDAN BSTAN 'DZIN YAR RGYAS_DZEME RINPOCHE LOBSANG PELDEN TENDZIN YARGYE",
-            "timestamp": "2024-11-20 05:14:47.360136+00:00"
+            "timestamp": "2024-11-26 23:37:28.963334+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:14:47.360136+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:37:28.963334+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

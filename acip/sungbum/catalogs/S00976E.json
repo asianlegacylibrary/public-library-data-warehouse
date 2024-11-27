@@ -6,13 +6,13 @@
     "revision_id": "625a479d84c998d294473",
     "content_hash": "9d04117b652c848a20f1e07336f3e151da3eb2a568c075fca48f6b9b3f241df4",
     "server_modified": "2024-10-29 21:43:29",
-    "last_sync": "2024-11-19 20:48:05.601483",
+    "last_sync": "2024-11-26 15:19:15.261149",
     "size": 103488,
-    "meta_text": "(\"jor Pelsang_BKA' CHEN BLO BZANG BZOD PA (&-1998)\", 'rtf')",
+    "meta_text": "jor Pelsang_BKA' CHEN BLO BZANG BZOD PA (&-1998)",
     "cat_ref": "S00976E",
     "work_ref": "W.S00976E",
     "title_tib": "KUN MKHYEN CHOS 'BYOR DPAL BZANG GI GSUNG BZHIN DGE 'DUN NYI SHU'I RNAM GZHAG ZUR DU BKOD PA",
-    "title_eng": "'A Separate Presentation of the Twenty Permutations of Levels of Spiritual Attainment, Composed in Keeping with the Teachings of the Omniscient Chu(\"jor Pelsang",
+    "title_eng": "'A Separate Presentation of the Twenty Permutations of Levels of Spiritual Attainment, Composed in Keeping with the Teachings of the Omniscient Chujor Pelsang",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/DGE 'DUN NYI SHU_THE 20 PERMUTATIONS/BKA' CHEN BLO BZANG BZOD PA_KACHEN LOBSANG SUPA (?-1998?)",
-            "timestamp": "2024-11-20 04:48:05.608745+00:00"
+            "timestamp": "2024-11-26 23:19:15.269323+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:48:05.608745+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:19:15.269323+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

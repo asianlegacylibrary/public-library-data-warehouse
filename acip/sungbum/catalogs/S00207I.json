@@ -6,17 +6,17 @@
     "revision_id": "625a4afc108428d294473",
     "content_hash": "2550041f82b79d3367b63a182326b44a27ba7e00707f3c37be9ac539fc586543",
     "server_modified": "2024-10-29 21:58:33",
-    "last_sync": "2024-11-19 21:26:08.842343",
+    "last_sync": "2024-11-26 15:45:08.320801",
     "size": 621110,
-    "meta_text": "('Liturgical Works which are Unique to Sera Mey Monastery and Needed for Use by Its Members_SNA TSOGS', 'rtf')",
+    "meta_text": "Liturgical Works which are Unique to Sera Mey Monastery and Needed for Use by Its Members_SNA TSOGS",
     "cat_ref": "S00207I",
     "work_ref": "W.S00207I",
     "title_tib": "CHOS SDE CHEN PO RNAMS SU GSUNG PA'I CHOS SPYOD KYI RIM PA DANG SER SMAD THOS BSAM NOR GLING GRVA TSANG GI THUN MONG MA YIN PA'I NYE MKHO CHOS SPYOD BCAS",
-    "title_eng": "A Compendium of Liturgical Texts Utilized at the Various Major Monasteries, along with('Liturgical Works which are Unique to Sera Mey Monastery and Needed for Use by Its MembersSNA TSOGS', 'rtf')",
+    "title_eng": "A Compendium of Liturgical Texts Utilized at the Various Major Monasteries, along withLiturgical Works which are Unique to Sera Mey Monastery and Needed for Use by Its Members",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
-    "author_simple": "",
+    "author_simple": "SNA TSOGS",
     "subject": [
         {
             "_id": "170743390617",
@@ -30,7 +30,7 @@
     "items": [],
     "author": [
         {
-            "author_name": "",
+            "author_name": "SNA TSOGS",
             "author_birth": null,
             "author_death": null
         }
@@ -38,13 +38,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/CHO GA_RITUALS/CHOS SPYOD_MONASTIC PRAYER BOOKS/SE RA SMAD_SERA MEY MONASTERY",
-            "timestamp": "2024-11-20 05:26:08.846262+00:00"
+            "timestamp": "2024-11-26 23:45:08.326303+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:26:08.846262+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:45:08.326303+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

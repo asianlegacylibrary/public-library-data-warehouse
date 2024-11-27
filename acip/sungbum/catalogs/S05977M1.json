@@ -6,9 +6,9 @@
     "revision_id": "625a4aa4ac48d8d294473",
     "content_hash": "116397f1f3bc019372f4510c6e046dd48b00a3d3551ec2461dce2be93860cc91",
     "server_modified": "2024-10-29 21:57:02",
-    "last_sync": "2024-11-19 21:20:43.039741",
+    "last_sync": "2024-11-26 15:41:39.798566",
     "size": 3518,
-    "meta_text": "('G CHOS KYI RGYAL MTSAN (1565-1662)', 'rtf')",
+    "meta_text": "G CHOS KYI RGYAL MTSAN (1565-1662)",
     "cat_ref": "S05977M1",
     "work_ref": "W.S05977M1",
     "title_tib": "DPAL RDO RJE 'JIGS BYED KYI DBANG GI NYE BRGYUD LA GSOL BA 'DEBS PA",
@@ -41,23 +41,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/GSOL 'DEBS_PRAYERS OF SUPPLICATION/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
-            "timestamp": "2024-11-20 05:20:45.659007+00:00"
+            "timestamp": "2024-11-26 23:41:41.746022+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/GSOL 'DEBS_PRAYERS OF SUPPLICATION/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
-            "timestamp": "2024-11-20 05:21:15.475816+00:00"
+            "timestamp": "2024-11-26 23:42:04.599145+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:20:45.659007+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:41:41.746022+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:21:15.475816+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:42:04.599145+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

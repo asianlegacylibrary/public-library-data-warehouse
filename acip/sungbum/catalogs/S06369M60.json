@@ -6,7 +6,7 @@
     "revision_id": "625a47e0aae128d294473",
     "content_hash": "b449a1d1e5279219f090e94927cb1fb7f997d4854e04ba6ef646dd6b6b030cf4",
     "server_modified": "2024-10-29 21:44:39",
-    "last_sync": "2024-11-19 20:51:34.902769",
+    "last_sync": "2024-11-26 15:21:28.900388",
     "size": 4090,
     "meta_text": null,
     "cat_ref": "S06369M60",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/SHES RAB SNYING PO'I 'GREL PA_COMMENTARIES ON THE HEART SUTRA",
-            "timestamp": "2024-11-20 04:51:34.911935+00:00"
+            "timestamp": "2024-11-26 23:21:28.907532+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:51:34.911935+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:21:28.907532+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

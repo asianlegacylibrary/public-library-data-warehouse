@@ -6,7 +6,7 @@
     "revision_id": "625a48c3661378d294473",
     "content_hash": "5bb16199e7f2a43eed00a07cf648a6765c4de8c5c3a052390a8ccd3c060d7b93",
     "server_modified": "2024-10-29 21:48:37",
-    "last_sync": "2024-11-19 21:01:02.063167",
+    "last_sync": "2024-11-26 15:28:01.911601",
     "size": 1000,
     "meta_text": null,
     "cat_ref": "S06368E7",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SMAN BLA_MEDICINE BUDDHA (BHAISHAJYAGURU)/MDO CHOG_RITUAL BASED ON THE SUTRA",
-            "timestamp": "2024-11-20 05:01:02.941601+00:00"
+            "timestamp": "2024-11-26 23:28:02.237132+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:01:02.941601+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:28:02.237132+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

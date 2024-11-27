@@ -6,7 +6,7 @@
     "revision_id": "625a482d37c098d294473",
     "content_hash": "3a37467cdd5d876db0825d886b176d45519ee71f46d7bef7205ace4d3c2efcc2",
     "server_modified": "2024-10-29 21:46:00",
-    "last_sync": "2024-11-19 20:53:49.966908",
+    "last_sync": "2024-11-26 15:22:58.666492",
     "size": 2681,
     "meta_text": null,
     "cat_ref": "S06370E43",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 04:54:07.138012+00:00"
+            "timestamp": "2024-11-26 23:23:11.591701+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/GTOR MA_OFFERING CAKE (BALI)",
-            "timestamp": "2024-11-20 05:04:02.185290+00:00"
+            "timestamp": "2024-11-26 23:30:08.350291+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:07.138012+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:11.591701+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:04:02.185290+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:30:08.350291+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

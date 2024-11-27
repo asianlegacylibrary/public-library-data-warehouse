@@ -6,9 +6,9 @@
     "revision_id": "625a49a669af88d294473",
     "content_hash": "76390088e229617ef880e1219217f02932b8454c1a546992b801846f0bffdf82",
     "server_modified": "2024-10-29 21:52:35",
-    "last_sync": "2024-11-19 21:11:17.252916",
+    "last_sync": "2024-11-26 15:35:09.197013",
     "size": 47222,
-    "meta_text": "('An CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)', 'rtf')",
+    "meta_text": "An CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)",
     "cat_ref": "S05916E",
     "work_ref": "W.S05916E",
     "title_tib": "DPAL RDO RJE 'JIGS BYED KYI DBANG CHOG DANG BUM BSKYED KYI ZUR 'DEBS",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/DBANG_EMPOWERMENT (ABHISHEKA)",
-            "timestamp": "2024-11-20 05:11:18.078183+00:00"
+            "timestamp": "2024-11-26 23:35:09.595997+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/BUM PA_VASE PRACTICES",
-            "timestamp": "2024-11-20 05:11:35.897896+00:00"
+            "timestamp": "2024-11-26 23:35:21.085823+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:11:18.078183+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:35:09.595997+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:11:35.897896+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:35:21.085823+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

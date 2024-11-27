@@ -6,9 +6,9 @@
     "revision_id": "625a484b854c38d294473",
     "content_hash": "ef0686a827b582751e23b0c05b3fd00a52d15697db15a8666f29a56ca068a0c2",
     "server_modified": "2024-10-29 21:46:31",
-    "last_sync": "2024-11-19 20:54:28.560794",
+    "last_sync": "2024-11-26 15:23:24.776508",
     "size": 112389,
-    "meta_text": "(\"OG 'JIGS MED DBANG PO (1728-1791)\", 'rtf')",
+    "meta_text": "OG 'JIGS MED DBANG PO (1728-1791)",
     "cat_ref": "S12134E",
     "work_ref": "W.S12134E",
     "title_tib": "GDAN SA CHEN PO SKU 'BUM BYAMS PA GLING GI GDAN RABS MU TIG 'PHRENG BA",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/CHOS 'BYUNG_RELIGIOUS HISTORIES/SKU 'BUM CHOS 'BYUNG_RELIGIOUS HISTORIES OF KUMBUM MONASTERY",
-            "timestamp": "2024-11-20 04:54:28.566226+00:00"
+            "timestamp": "2024-11-26 23:23:24.781720+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:28.566226+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:24.781720+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

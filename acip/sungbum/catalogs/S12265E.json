@@ -6,13 +6,13 @@
     "revision_id": "625a4a60963ab8d294473",
     "content_hash": "ed5382314eaf5aa04c7fb72ce16c0f20a5d1b46e494068404270fcde85bbe1bb",
     "server_modified": "2024-10-29 21:55:50",
-    "last_sync": "2024-11-19 21:17:54.113083",
+    "last_sync": "2024-11-26 15:39:38.261943",
     "size": 42928,
-    "meta_text": "(\"chen_MKHAN CHEN BLO BZANG BSTAN 'DZIN RGYAL MTSAN (1639-@)\", 'rtf')",
+    "meta_text": "chen_MKHAN CHEN BLO BZANG BSTAN 'DZIN RGYAL MTSAN (1639-@)",
     "cat_ref": "S12265E",
     "work_ref": "W.S12265E",
     "title_tib": "MKHAN CHEN CHOS KYI RGYAL PO'I GSUNG 'BUM LAS BYANG CHUB LAM RIM GYI 'KHRID BLO YI MUN SEL",
-    "title_eng": "Clearing Away the Darkness of the Mind-- A Teaching on the Steps of the Path to Enlightenment from the Collected Works of that King of the Dharma, Ken(\"chen",
+    "title_eng": "Clearing Away the Darkness of the Mind-- A Teaching on the Steps of the Path to Enlightenment from the Collected Works of that King of the Dharma, Kenchen",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/BLO YI MUN SEL_DISPELLING THE DARKNESS OF THE MIND",
-            "timestamp": "2024-11-20 05:17:54.119090+00:00"
+            "timestamp": "2024-11-26 23:39:38.270266+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:17:54.119090+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:39:38.270266+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

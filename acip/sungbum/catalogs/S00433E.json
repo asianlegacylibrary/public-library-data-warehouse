@@ -6,13 +6,13 @@
     "revision_id": "625a49a3c3aab8d294473",
     "content_hash": "30316224f4f70890e2cfc6657b46a5322d33a04c9fd3e1202f00a64773f99d8c",
     "server_modified": "2024-10-29 21:52:32",
-    "last_sync": "2024-11-19 21:11:14.290419",
+    "last_sync": "2024-11-26 15:35:07.080295",
     "size": 70179,
-    "meta_text": "('World in the Form of a Painting, within the Teachings of the Glorious Diamond Frightener (Vajra Bhairava), in the Form of a Solitary Warrior (Eka Vira)_@ (@-@)', 'rtf')",
+    "meta_text": "World in the Form of a Painting, within the Teachings of the Glorious Diamond Frightener (Vajra Bhairava), in the Form of a Solitary Warrior (Eka Vira)_@ (@-@)",
     "cat_ref": "S00433E",
     "work_ref": "W.S00433E",
     "title_tib": "DPAL RDO RJE 'JIGS BYED DPA' PO GCIG PA'I RAS BRIS KYI DKYIL 'KHOR DU DBANG BLANG PA'I CHO GA NAG PO 'GROS SHES SU BKOD PA BDUD RTZI'I CHU RGYUN",
-    "title_eng": "'The River of Nectar,' being a Ritual of Recitation for Taking On an Empowerment within a Secret('World in the Form of a Painting, within the Teachings of the Glorious Diamond Frightener (Vajra Bhairava), in the Form of a Solitary Warrior (Eka Vira)@ (@-@)', 'rtf')",
+    "title_eng": "'The River of Nectar,' being a Ritual of Recitation for Taking On an Empowerment within a SecretWorld in the Form of a Painting, within the Teachings of the Glorious Diamond Frightener (Vajra Bhairava), in the Form of a Solitary Warrior (Eka Vira)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -38,13 +38,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/DBANG_EMPOWERMENT (ABHISHEKA)",
-            "timestamp": "2024-11-20 05:11:18.077612+00:00"
+            "timestamp": "2024-11-26 23:35:09.595476+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:11:18.077612+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:35:09.595476+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

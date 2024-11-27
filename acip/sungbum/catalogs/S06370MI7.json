@@ -6,9 +6,9 @@
     "revision_id": "625a4839e0d0d8d294473",
     "content_hash": "58720a5192cdcf114b7db7e0111400da9cbd99746e29aa7fd89a570f50517634",
     "server_modified": "2024-10-29 21:46:13",
-    "last_sync": "2024-11-19 20:54:00.460982",
+    "last_sync": "2024-11-26 15:23:06.367127",
     "size": 481,
-    "meta_text": "('MA BHADRA (1772-1851)', 'rtf')",
+    "meta_text": "MA BHADRA (1772-1851)",
     "cat_ref": "S06370MI7",
     "work_ref": "W.S06370MI7",
     "title_tib": "GSUM BSLANG GSUM 'GAL BSHAGS PA DANG, GSHUNG BA ZHES PA'I DON GYI SKOR GYI DRI LAN",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 04:54:07.141064+00:00"
+            "timestamp": "2024-11-26 23:23:11.595248+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/TSIG MDZOD_LEXICAL MATERIALS",
-            "timestamp": "2024-11-20 05:16:51.051821+00:00"
+            "timestamp": "2024-11-26 23:38:54.993189+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:07.141064+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:11.595248+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:16:51.051821+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:38:54.993189+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

@@ -6,7 +6,7 @@
     "revision_id": "625a48147222e8d294473",
     "content_hash": "bffd1651639c3b3b9b57c9468ab002d5a7a85a3488dfcbe906b13a86952d2795",
     "server_modified": "2024-10-29 21:45:34",
-    "last_sync": "2024-11-19 20:53:31.056025",
+    "last_sync": "2024-11-26 15:22:45.836919",
     "size": 303,
     "meta_text": null,
     "cat_ref": "S06370MH5",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 04:54:07.133126+00:00"
+            "timestamp": "2024-11-26 23:23:11.585902+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/DGE TSUL_VOWS OF NOVICE MONKS",
-            "timestamp": "2024-11-20 05:13:50.925309+00:00"
+            "timestamp": "2024-11-26 23:36:50.344025+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:07.133126+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:11.585902+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:13:50.925309+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:36:50.344025+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

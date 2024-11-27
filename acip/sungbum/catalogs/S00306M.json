@@ -6,7 +6,7 @@
     "revision_id": "625a47e1e4b128d294473",
     "content_hash": "74ac9a86bbe01225c1d5eee06bbd98d9260dabc21cdac4fe75eccdbd41ae9860",
     "server_modified": "2024-10-29 21:44:41",
-    "last_sync": "2024-11-19 20:51:42.745500",
+    "last_sync": "2024-11-26 15:21:34.475827",
     "size": 53413,
     "meta_text": null,
     "cat_ref": "S00306M",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/LTA KHRID_TEACHINGS ON CORRECT VIEW OF EMPTINESS",
-            "timestamp": "2024-11-20 04:51:44.047733+00:00"
+            "timestamp": "2024-11-26 23:21:35.268717+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:51:44.047733+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:21:35.268717+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

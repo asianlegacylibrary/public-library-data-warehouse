@@ -6,9 +6,9 @@
     "revision_id": "625a476b20e798d294473",
     "content_hash": "26afa30e0614cdea19bfa52da7693134a9071697516d09a25fff67b550e472b2",
     "server_modified": "2024-10-29 21:42:36",
-    "last_sync": "2024-11-19 20:45:55.778969",
+    "last_sync": "2024-11-26 15:17:41.835646",
     "size": 308568,
-    "meta_text": "('N RGYA MTSO (1476-1542)', 'text')",
+    "meta_text": "N RGYA MTSO (1476-1542)",
     "cat_ref": "S05580E",
     "work_ref": "W.S05580E",
     "title_tib": "RJE BTZUN THAMS CAD MKHYEN PA'I GSUNG 'BUM THOR BU LAS CHAB SHOG SNYAN NGAG GI SKOR RNAMS",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/SNYAN NGAG_CLASSICAL POETRY/RGYAL BA DGE 'DUN RGYA MTSO_GYALWA GENDUN GYATSO (1476-1542)",
-            "timestamp": "2024-11-20 04:45:55.784673+00:00"
+            "timestamp": "2024-11-26 23:17:41.842690+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/'PHRIN YIG_EPISTLES/RGYAL BA DGE 'DUN RGYA MTSO_GYALWA GENDUN GYATSO (1476-1542)",
-            "timestamp": "2024-11-20 04:50:43.499777+00:00"
+            "timestamp": "2024-11-26 23:20:56.403512+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:45:55.784673+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:17:41.842690+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T04:50:43.499777+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:20:56.403512+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

@@ -6,9 +6,9 @@
     "revision_id": "625a4a76543998d294473",
     "content_hash": "a20a406eb9d4b2940d86b9669fab87cf17fb78249fb7d1a9fefb0a6564618b3d",
     "server_modified": "2024-10-29 21:56:13",
-    "last_sync": "2024-11-19 21:18:32.465737",
+    "last_sync": "2024-11-26 15:40:05.550240",
     "size": 1099291,
-    "meta_text": "(\"G PA BLO GROS 'BYUNG GNAS (1100@-@)\", 'rtf')",
+    "meta_text": "G PA BLO GROS 'BYUNG GNAS (1100@-@)",
     "cat_ref": "SE00070I1",
     "work_ref": "W.SE00070I1",
     "title_tib": "BDE BAR GSHEGS PA'I BSTAN PA RIN PO CHE LA 'JUG PA'I LAM GYI RIM PA RNAM PAR BSHAD PA, CHA DANG PO",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/BSTAN RIM CHEN MO_GREAT BOOK ON THE STEPS OF THE TEACHING",
-            "timestamp": "2024-11-20 05:18:32.470453+00:00"
+            "timestamp": "2024-11-26 23:40:05.558797+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:18:32.470453+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:40:05.558797+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

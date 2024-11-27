@@ -6,7 +6,7 @@
     "revision_id": "625a4afc108448d294473",
     "content_hash": "99327534455cba22b1a10db4b6dc645cdf0ca728edcd2660c72a39baf8b45e7e",
     "server_modified": "2024-10-29 21:58:33",
-    "last_sync": "2024-11-19 21:26:15.384484",
+    "last_sync": "2024-11-26 15:45:12.891895",
     "size": 27699,
     "meta_text": null,
     "cat_ref": "S19049E",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/CHO GA_RITUALS/GZUNGS GZHUG_LOADING HOLY OBJECTS",
-            "timestamp": "2024-11-20 05:26:15.390616+00:00"
+            "timestamp": "2024-11-26 23:45:12.895813+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:26:15.390616+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:45:12.895813+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

@@ -6,13 +6,13 @@
     "revision_id": "625a49135900b8d294473",
     "content_hash": "f7f6ccb0467c4bcc01583eb27d05739d911ea923bc28ae4d4eb6679a13cf2d4e",
     "server_modified": "2024-10-29 21:50:01",
-    "last_sync": "2024-11-19 21:04:32.220065",
+    "last_sync": "2024-11-26 15:30:30.826640",
     "size": 131173,
-    "meta_text": "('from ‘The Necklace of Wish-Giving Jewels,’ a Record of Teaching Received by the Lord of a Million Secret Worlds, He Who is the Essence of the Warrior of Diamond, the Lord, Pabongka_SKYABS RJE PHA BONG KHA PA BDE CHEN SNYING PO (1878-1941)', 'rtf')",
+    "meta_text": "from ‘The Necklace of Wish-Giving Jewels,’ a Record of Teaching Received by the Lord of a Million Secret Worlds, He Who is the Essence of the Warrior of Diamond, the Lord, Pabongka_SKYABS RJE PHA BONG KHA PA BDE CHEN SNYING PO (1878-1941)",
     "cat_ref": "S00269I",
     "work_ref": "W.S00269I",
     "title_tib": "RIGS BRGYA'I KHYAB BDAG RDO RJE SEMS DPA'I NGO BO RJE PHA BONG KHA PA'I GSAN YIG BSAM 'PHEL NOR BU'I DO SHAL LAS, LUNG KHRID SNA TSOGS SKOR PHYOGS GCIG TU BKOD PA",
-    "title_eng": "The Section Concerning a Wide Variety of Oral Transmissions and Instructions,('from ‘The Necklace of Wish-Giving Jewels,’ a Record of Teaching Received by the Lord of a Million Secret Worlds, He Who is the Essence of the Warrior of Diamond, the Lord, Pabongka",
+    "title_eng": "The Section Concerning a Wide Variety of Oral Transmissions and Instructions,from ‘The Necklace of Wish-Giving Jewels,’ a Record of Teaching Received by the Lord of a Million Secret Worlds, He Who is the Essence of the Warrior of Diamond, the Lord, Pabongka",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/GSAN YIG_RECORDS OF TEACHINGS RECEIVED/PHA BONG KHA RIN PO CHE BDE CHEN SNYING PO_PABONGKA RIN PO CHE DECHEN NYINGPO",
-            "timestamp": "2024-11-20 05:04:34.065055+00:00"
+            "timestamp": "2024-11-26 23:30:32.066745+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/GSAN YIG_RECORDS OF TEACHINGS RECEIVED/SKYABS RJE PHA BONG KHA PA BDE CHEN SNYING PO_KYABJE PABONGKAPA DECHEN NYINGPO (1878-1941)",
-            "timestamp": "2024-11-20 05:14:04.728400+00:00"
+            "timestamp": "2024-11-26 23:37:00.048681+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:04:34.065055+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:30:32.066745+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:14:04.728400+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:37:00.048681+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

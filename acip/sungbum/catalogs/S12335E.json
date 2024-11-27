@@ -6,7 +6,7 @@
     "revision_id": "625a48080c3a88d294473",
     "content_hash": "725dd502ef484345b1fb3855e534d74326d2455614236d15a5c539f55e47c041",
     "server_modified": "2024-10-29 21:45:21",
-    "last_sync": "2024-11-19 20:53:15.988738",
+    "last_sync": "2024-11-26 15:22:35.541182",
     "size": 70004,
     "meta_text": null,
     "cat_ref": "S12335E",
@@ -57,33 +57,33 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/SMAN_MEDICINE/SMAN PA'I RNAM THAR_BIOGRAPHIES OF RENOWNED PHYSICIANS/G-YU THOG GSAR MA YON TAN MGON PO_YUTOK SARMA YUNTEN GUNPO, THE YOUNGER YUTOK",
-            "timestamp": "2024-11-20 04:53:15.993674+00:00"
+            "timestamp": "2024-11-26 23:22:35.547242+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/SMAN_MEDICINE/SMAN PA'I RNAM THAR_BIOGRAPHIES OF RENOWNED PHYSICIANS/G-YU THOG RNYING MA YON TAN MGON PO_YUTOK NYINGMA YUNTEN GUNPO, THE OLDER YUTOK",
-            "timestamp": "2024-11-20 04:53:16.688872+00:00"
+            "timestamp": "2024-11-26 23:22:36.101352+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/G-YU THOG_YUTOK",
-            "timestamp": "2024-11-20 05:15:50.264051+00:00"
+            "timestamp": "2024-11-26 23:38:11.066224+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:53:15.993674+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:22:35.547242+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T04:53:16.688872+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:22:36.101352+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         },
         {
-            "timestamp": "2024-11-20T05:15:50.264051+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:38:11.066224+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

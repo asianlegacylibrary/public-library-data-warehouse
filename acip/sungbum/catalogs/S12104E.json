@@ -6,7 +6,7 @@
     "revision_id": "625a4954755b28d294473",
     "content_hash": "aab2001b60a1bd183a90bb9174c9d2ce1dd9d0fc76c7b51926182d7e3f6dafc1",
     "server_modified": "2024-10-29 21:51:09",
-    "last_sync": "2024-11-19 21:07:16.913184",
+    "last_sync": "2024-11-26 15:32:19.970142",
     "size": 3316,
     "meta_text": null,
     "cat_ref": "S12104E",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/DBANG_EMPOWERMENT (ABHISHEKA)",
-            "timestamp": "2024-11-20 05:07:16.921028+00:00"
+            "timestamp": "2024-11-26 23:32:19.977489+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:07:16.921028+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:32:19.977489+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

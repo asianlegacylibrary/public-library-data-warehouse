@@ -6,7 +6,7 @@
     "revision_id": "625a48465ca528d294473",
     "content_hash": "a9ab5b37aa02bb0ae816a35674b0cf98c82b192fbda89508e5b5eb39f29314d4",
     "server_modified": "2024-10-29 21:46:26",
-    "last_sync": "2024-11-19 20:54:20.927747",
+    "last_sync": "2024-11-26 15:23:19.829850",
     "size": 11545,
     "meta_text": null,
     "cat_ref": "S12065E",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/CHOS 'BYUNG_RELIGIOUS HISTORIES/'DUL BA BYUNG TSUL_HISTORY OF VOWED MORALITY (VINAYA)",
-            "timestamp": "2024-11-20 04:54:20.934989+00:00"
+            "timestamp": "2024-11-26 23:23:19.838734+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/'DUL BA CHOS 'BYUNG_HISTORY OF VINAYA",
-            "timestamp": "2024-11-20 05:12:45.296714+00:00"
+            "timestamp": "2024-11-26 23:36:07.673458+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:20.934989+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:19.838734+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:12:45.296714+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:36:07.673458+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

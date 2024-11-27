@@ -6,7 +6,7 @@
     "revision_id": "625a4ad92d8da8d294473",
     "content_hash": "7fd4a10cc5e2dd17b833978a8a6f6eef476f99836012b9460d532fde9e1b11a2",
     "server_modified": "2024-10-29 21:57:57",
-    "last_sync": "2024-11-19 21:23:53.957370",
+    "last_sync": "2024-11-26 15:43:39.779726",
     "size": 14324,
     "meta_text": null,
     "cat_ref": "S12086E",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SLOB GNYER BYED TSUL_THE ART OF STUDYING",
-            "timestamp": "2024-11-20 05:23:53.961668+00:00"
+            "timestamp": "2024-11-26 23:43:39.787326+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:23:53.961668+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:43:39.787326+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

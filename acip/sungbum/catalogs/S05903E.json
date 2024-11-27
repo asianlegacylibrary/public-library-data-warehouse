@@ -6,9 +6,9 @@
     "revision_id": "625a4942affe58d294473",
     "content_hash": "ad8f786048da31d151aa6f8f927dd1900a07480387ef9827f0eac6dab7072916",
     "server_modified": "2024-10-29 21:50:50",
-    "last_sync": "2024-11-19 21:06:37.796511",
+    "last_sync": "2024-11-26 15:31:52.407818",
     "size": 51252,
-    "meta_text": "('-1662)', 'rtf')",
+    "meta_text": "-1662)",
     "cat_ref": "S05903E",
     "work_ref": "W.S05903E",
     "title_tib": "DPAL GSANG BA 'DUS PA'I BLA MA'I RNAL 'BYOR DANG MNGON PAR RTOGS PA MDOR BSDUS PA",
@@ -31,7 +31,7 @@
     "author": [
         {
             "author_name": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
-            "author_birth": null,
+            "author_birth": "1565",
             "author_death": "1662",
             "bdrc_id": "bdr:P719",
             "normalized_name": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/BLA MA'I RNAL 'BYOR_LAMA PRACTICE (GURU YOGA)",
-            "timestamp": "2024-11-20 05:06:37.802478+00:00"
+            "timestamp": "2024-11-26 23:31:52.412648+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:06:37.802478+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:31:52.412648+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }
