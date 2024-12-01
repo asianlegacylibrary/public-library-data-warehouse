@@ -1,53 +1,47 @@
 {
     "name": "TD03959_LAS RNAM PAR 'BYED PA ZHES BYA BA (Karma Vibaṃga).txt",
-    "path": "04 DBU MA_Middle Way School (Madhyamaka)/VOL 16 (KHI)",
+    "path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 16 (KHI)",
     "download_path": "/tengyur updated 10 31 24 ws/04 dbu ma_middle way school (madhyamaka)/vol 16 (khi)/td03959_las rnam par 'byed pa zhes bya ba (karma vibaṃga).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB20Q",
     "revision_id": "62633ba7894208d294473",
     "content_hash": "92b5abfb24e7ee0e49a8f9ecf7763748ac32e716e275d35cc3bde73a5bae6355",
     "server_modified": "2024-11-06 00:37:53",
-    "last_sync": "2024-11-20 03:58:54.547993",
+    "last_sync": "2024-12-01 11:43:53.431323+00:00",
     "size": 18929,
-    "meta_text": null,
     "cat_ref": "TD03959",
     "work_ref": "W.TD03959",
-    "title_tib": "",
+    "title_tib": "LAS RNAM PAR 'BYED PA ZHES BYA BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "160150475375",
             "subject_path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 16 (KHI)",
-            "subject_path_tibetan": "BSTAN 'GYUR/04 DBU MA/VOL 16 (KHI)",
-            "subject_path_english": "Tengyur/Middle Way School (Madhyamaka)",
-            "subject_tibetan": "VOL 16 (KHI)",
-            "subject_english": "Middle Way School (Madhyamaka)"
+            "subject_path_tibetan": "BSTAN 'GYUR/DBU MA/16 (KHI)",
+            "subject_path_english": "Tengyur/Middle Way School (Madhyamaka)/VOL 16 (KHI)",
+            "subject_tibetan": "16 (KHI)",
+            "subject_english": "VOL 16 (KHI)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 16 (KHI)",
-            "timestamp": "2024-11-20 11:58:54.584162+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Karma Vibaṃga",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:58:54.584162+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:43:53.432675+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 16 (KHI)",
+            "timestamp": "2024-12-01 11:43:53.432675+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

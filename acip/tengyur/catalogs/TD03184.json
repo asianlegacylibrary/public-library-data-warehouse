@@ -1,53 +1,47 @@
 {
     "name": "TD03184_DPA' BO GCIG TU GRUB PA'I SGRUB THABS (Siddhaikavīra Sādhana).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/VOL 74 (PHU)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 74 (PHU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/vol 74 (phu)/td03184_dpa' bo gcig tu grub pa'i sgrub thabs (siddhaikavīra sādhana).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACDKw",
     "revision_id": "62633dcf233748d294473",
     "content_hash": "8abdf90e0d8d9b60647a1c6bdfb0ae4d74370ac18cd2885ab0c222e74ed5ed60",
     "server_modified": "2024-11-06 00:47:32",
-    "last_sync": "2024-11-20 04:01:04.962557",
+    "last_sync": "2024-12-01 11:45:32.197228+00:00",
     "size": 5741,
-    "meta_text": null,
     "cat_ref": "TD03184",
     "work_ref": "W.TD03184",
-    "title_tib": "",
+    "title_tib": "DPA' BO GCIG TU GRUB PA'I SGRUB THABS",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "235929610804",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 74 (PHU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/VOL 74 (PHU)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)",
-            "subject_tibetan": "VOL 74 (PHU)",
-            "subject_english": "Diamond Way (Vajrayāna)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/74 (PHU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/VOL 74 (PHU)",
+            "subject_tibetan": "74 (PHU)",
+            "subject_english": "VOL 74 (PHU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 74 (PHU)",
-            "timestamp": "2024-11-20 12:01:05.033476+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Siddhaikavīra Sādhana",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:05.033476+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:45:32.200384+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 74 (PHU)",
+            "timestamp": "2024-12-01 11:45:32.200384+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

@@ -1,53 +1,47 @@
 {
     "name": "TD01608_'PHAGS PA GDAN BZHI PA'I RNAM PAR BSHAD PA (Ārya Catuḥ Pīṭha Ṭīkā).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/04 GDAN BZHI_The Four Seats (Chatuḥ Pīṭha)/01 YAB SKOR_Father Texts (Pitṛ)/VOL 24 (YA)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/04 GDAN BZHI_The Four Seats (Chatuḥ Pīṭha)/01 YAB SKOR_Father Texts (Pitṛ)/VOL 24 (YA)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/01 rnal 'byor bla med_unsurpassed practice (anuttara yoga)/04 gdan bzhi_the four seats (chatuḥ pīṭha)/01 yab skor_father texts (pitṛ)/vol 24 (ya)/td01608_'phags pa gdan bzhi pa'i rnam par bshad pa (ārya catuḥ pīṭha ṭīkā).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB-IA",
     "revision_id": "62633cfdfaf8f8d294473",
     "content_hash": "26787f6937fe6a6f253bff28803c5d1a820847ddf9cd56a2eba1f418078479ab",
     "server_modified": "2024-11-06 00:43:52",
-    "last_sync": "2024-11-20 04:00:34.469387",
+    "last_sync": "2024-12-01 11:45:07.543348+00:00",
     "size": 278468,
-    "meta_text": null,
     "cat_ref": "TD01608",
     "work_ref": "W.TD01608",
-    "title_tib": "",
+    "title_tib": "'PHAGS PA GDAN BZHI PA'I RNAM PAR BSHAD PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "605628627575",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/04 GDAN BZHI_The Four Seats (Chatuḥ Pīṭha)/01 YAB SKOR_Father Texts (Pitṛ)/VOL 24 (YA)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/01 RNAL 'BYOR BLA MED/04 GDAN BZHI/01 YAB SKOR/VOL 24 (YA)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/The Four Seats (Chatuḥ Pīṭha)/Father Texts (Pitṛ)",
-            "subject_tibetan": "VOL 24 (YA)",
-            "subject_english": "Father Texts (Pitṛ)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/RNAL 'BYOR BLA MED/GDAN BZHI/YAB SKOR/24 (YA)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/The Four Seats (Chatuḥ Pīṭha)/Father Texts (Pitṛ)/VOL 24 (YA)",
+            "subject_tibetan": "24 (YA)",
+            "subject_english": "VOL 24 (YA)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/04 GDAN BZHI_The Four Seats (Chatuḥ Pīṭha)/01 YAB SKOR_Father Texts (Pitṛ)/VOL 24 (YA)",
-            "timestamp": "2024-11-20 12:00:34.483788+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Ārya Catuḥ Pīṭha Ṭīkā",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:34.483788+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:45:07.544342+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/04 GDAN BZHI_The Four Seats (Chatuḥ Pīṭha)/01 YAB SKOR_Father Texts (Pitṛ)/VOL 24 (YA)",
+            "timestamp": "2024-12-01 11:45:07.544342+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

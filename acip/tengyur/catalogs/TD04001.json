@@ -1,53 +1,47 @@
 {
     "name": "TD04001_'PHAGS PA S'A LU LJANG PA RGYA CHER 'GREL PA (Ārya Śālistambaka Ṭīkā).txt",
-    "path": "05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 4 (JI)",
+    "path": "BSTAN 'GYUR_Tengyur/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 4 (JI)",
     "download_path": "/tengyur updated 10 31 24 ws/05 mdo 'grel_commentaries to sutras (sūtra vṛtti)/vol 4 (ji)/td04001_'phags pa s'a lu ljang pa rgya cher 'grel pa (ārya śālistambaka ṭīkā).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB1pQ",
     "revision_id": "62633b3464f028d294473",
     "content_hash": "2becfb5dedcc9eaf2e8debd0b652cacaef574a07c16ec5694fd49b5b94d38954",
     "server_modified": "2024-11-06 00:35:53",
-    "last_sync": "2024-11-20 03:58:06.719161",
+    "last_sync": "2024-12-01 11:43:09.692200+00:00",
     "size": 70114,
-    "meta_text": null,
     "cat_ref": "TD04001",
     "work_ref": "W.TD04001",
-    "title_tib": "",
+    "title_tib": "'PHAGS PA S'A LU LJANG PA RGYA CHER 'GREL PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "164592281565",
             "subject_path": "BSTAN 'GYUR_Tengyur/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 4 (JI)",
-            "subject_path_tibetan": "BSTAN 'GYUR/05 MDO 'GREL/VOL 4 (JI)",
-            "subject_path_english": "Tengyur/Commentaries to Sutras (Sūtra Vṛtti)",
-            "subject_tibetan": "VOL 4 (JI)",
-            "subject_english": "Commentaries to Sutras (Sūtra Vṛtti)"
+            "subject_path_tibetan": "BSTAN 'GYUR/MDO 'GREL/4 (JI)",
+            "subject_path_english": "Tengyur/Commentaries to Sutras (Sūtra Vṛtti)/VOL 4 (JI)",
+            "subject_tibetan": "4 (JI)",
+            "subject_english": "VOL 4 (JI)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 4 (JI)",
-            "timestamp": "2024-11-20 11:58:06.729854+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Ārya Śālistambaka Ṭīkā",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:58:06.729854+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:43:09.693794+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 4 (JI)",
+            "timestamp": "2024-12-01 11:43:09.693794+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

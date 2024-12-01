@@ -1,53 +1,47 @@
 {
     "name": "TD01673_DPAL HE RU KA ZHES BYA BA'I SGRUB THABS (Śrī Vajra Heruka Nāma Sādhana).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/08 SANGS RGYAS MNYAM SBYOR_The Union of the Buddhas (Buddha Samayoga)/VOL 26 (LA)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/08 SANGS RGYAS MNYAM SBYOR_The Union of the Buddhas (Buddha Samayoga)/VOL 26 (LA)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/01 rnal 'byor bla med_unsurpassed practice (anuttara yoga)/08 sangs rgyas mnyam sbyor_the union of the buddhas (buddha samayoga)/vol 26 (la)/td01673_dpal he ru ka zhes bya ba'i sgrub thabs (śrī vajra heruka nāma sādhana).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB9lw",
     "revision_id": "62633ce5ca88e8d294473",
     "content_hash": "2d78dea2c278e20aa56336a2ac1b5fa48c200e7067eb74e79851679b4fe7743f",
     "server_modified": "2024-11-06 00:43:27",
-    "last_sync": "2024-11-20 04:00:29.364158",
+    "last_sync": "2024-12-01 11:45:03.535861+00:00",
     "size": 4220,
-    "meta_text": null,
     "cat_ref": "TD01673",
     "work_ref": "W.TD01673",
-    "title_tib": "",
+    "title_tib": "DPAL HE RU KA ZHES BYA BA'I SGRUB THABS",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "217810872006",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/08 SANGS RGYAS MNYAM SBYOR_The Union of the Buddhas (Buddha Samayoga)/VOL 26 (LA)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/01 RNAL 'BYOR BLA MED/08 SANGS RGYAS MNYAM SBYOR/VOL 26 (LA)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/The Union of the Buddhas (Buddha Samayoga)",
-            "subject_tibetan": "VOL 26 (LA)",
-            "subject_english": "The Union of the Buddhas (Buddha Samayoga)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/RNAL 'BYOR BLA MED/SANGS RGYAS MNYAM SBYOR/26 (LA)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/The Union of the Buddhas (Buddha Samayoga)/VOL 26 (LA)",
+            "subject_tibetan": "26 (LA)",
+            "subject_english": "VOL 26 (LA)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/08 SANGS RGYAS MNYAM SBYOR_The Union of the Buddhas (Buddha Samayoga)/VOL 26 (LA)",
-            "timestamp": "2024-11-20 12:00:29.370248+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Śrī Vajra Heruka Nāma Sādhana",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:29.370248+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:45:03.538130+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/08 SANGS RGYAS MNYAM SBYOR_The Union of the Buddhas (Buddha Samayoga)/VOL 26 (LA)",
+            "timestamp": "2024-12-01 11:45:03.538130+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

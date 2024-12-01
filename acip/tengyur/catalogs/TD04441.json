@@ -1,53 +1,47 @@
 {
     "name": "TD04441_LHA DBANG PHYUG GIS TSOGS BDAG LA GNANG BA'I SA MU DRA PHA LA'I SBYOR BA KHA BSGYUR DANG BCAS PA (Deveśvarādiṣṭaniyama Sahitagaṇapatisa Mudra Phala Prayoga).txt",
-    "path": "16 SNA TSOGS_Miscellany (Citritā)/VOL 8 (NO)",
+    "path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 8 (NO)",
     "download_path": "/tengyur updated 10 31 24 ws/16 sna tsogs_miscellany (citritā)/vol 8 (no)/td04441_lha dbang phyug gis tsogs bdag la gnang ba'i sa mu dra pha la'i sbyor ba kha bsgyur dang bcas pa (deveśvarādiṣṭaniyama sahitagaṇapatisa mudra phala prayoga).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACEJQ",
     "revision_id": "62633e0d7f1ed8d294473",
     "content_hash": "78c11ada8c85703e86d25a96a19ebdc38e1fe416f294ad90104bec79e06954d0",
     "server_modified": "2024-11-06 00:48:37",
-    "last_sync": "2024-11-20 04:01:21.259814",
+    "last_sync": "2024-12-01 11:45:47.295412+00:00",
     "size": 22276,
-    "meta_text": null,
     "cat_ref": "TD04441",
     "work_ref": "W.TD04441",
-    "title_tib": "",
+    "title_tib": "LHA DBANG PHYUG GIS TSOGS BDAG LA GNANG BA'I SA MU DRA PHA LA'I SBYOR BA KHA BSGYUR DANG BCAS PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "274252574525",
             "subject_path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 8 (NO)",
-            "subject_path_tibetan": "BSTAN 'GYUR/16 SNA TSOGS/VOL 8 (NO)",
-            "subject_path_english": "Tengyur/Miscellany (Citritā)",
-            "subject_tibetan": "VOL 8 (NO)",
-            "subject_english": "Miscellany (Citritā)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SNA TSOGS/8 (NO)",
+            "subject_path_english": "Tengyur/Miscellany (Citritā)/VOL 8 (NO)",
+            "subject_tibetan": "8 (NO)",
+            "subject_english": "VOL 8 (NO)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 8 (NO)",
-            "timestamp": "2024-11-20 12:01:21.273892+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Deveśvarādiṣṭaniyama Sahitagaṇapatisa Mudra Phala Prayoga",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:21.273892+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:45:47.297343+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 8 (NO)",
+            "timestamp": "2024-12-01 11:45:47.297343+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

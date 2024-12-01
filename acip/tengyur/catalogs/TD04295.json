@@ -1,53 +1,47 @@
 {
     "name": "TD04295_SMRA BA'I SGO MTSON CHA LTA BU ZHES BYA BA (Vacana Mukhāyudhopama Nāma).txt",
-    "path": "12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 3 (SHE)",
+    "path": "BSTAN 'GYUR_Tengyur/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 3 (SHE)",
     "download_path": "/tengyur updated 10 31 24 ws/12 sgra mdo_study of sanskrit language (śabda)/vol 3 (she)/td04295_smra ba'i sgo mtson cha lta bu zhes bya ba (vacana mukhāyudhopama nāma).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACDzw",
     "revision_id": "62633dfc221e68d294473",
     "content_hash": "67942e32b9bbf1064bf03cfe86aa3af5bce502fff50a7c2e5c226e6d11712d41",
     "server_modified": "2024-11-06 00:48:19",
-    "last_sync": "2024-11-20 04:01:17.398766",
+    "last_sync": "2024-12-01 11:45:44.320817+00:00",
     "size": 17661,
-    "meta_text": null,
     "cat_ref": "TD04295",
     "work_ref": "W.TD04295",
-    "title_tib": "",
+    "title_tib": "SMRA BA'I SGO MTSON CHA LTA BU ZHES BYA BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "177229726903",
             "subject_path": "BSTAN 'GYUR_Tengyur/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 3 (SHE)",
-            "subject_path_tibetan": "BSTAN 'GYUR/12 SGRA MDO/VOL 3 (SHE)",
-            "subject_path_english": "Tengyur/Study of Sanskrit Language (Śabda)",
-            "subject_tibetan": "VOL 3 (SHE)",
-            "subject_english": "Study of Sanskrit Language (Śabda)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SGRA MDO/3 (SHE)",
+            "subject_path_english": "Tengyur/Study of Sanskrit Language (Śabda)/VOL 3 (SHE)",
+            "subject_tibetan": "3 (SHE)",
+            "subject_english": "VOL 3 (SHE)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 3 (SHE)",
-            "timestamp": "2024-11-20 12:01:17.412314+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Vacana Mukhāyudhopama Nāma",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:17.412314+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:45:44.323133+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 3 (SHE)",
+            "timestamp": "2024-12-01 11:45:44.323133+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

@@ -1,53 +1,47 @@
 {
     "name": "TD04095_CHOS MNGON PA'I MDZOD KYI 'GREL PA GNAD KYI SGRON MA ZHES BYA BA (Abhidharma Koṣa Vṛtti Marmadīpa (Nāma)).txt",
-    "path": "07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 9 (NYU)",
+    "path": "BSTAN 'GYUR_Tengyur/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 9 (NYU)",
     "download_path": "/tengyur updated 10 31 24 ws/07 mngon pa_higher knowledge school (abhidharma)/vol 9 (nyu)/td04095_chos mngon pa'i mdzod kyi 'grel pa gnad kyi sgron ma zhes bya ba (abhidharma koṣa vṛtti marmadīpa (nāma)).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB2Yw",
     "revision_id": "62633b71da87f8d294473",
     "content_hash": "ea3a7a9169a0047c9dfc7223c26f8f654a70c5c198b131ee4eeff1de454d9901",
     "server_modified": "2024-11-06 00:36:57",
-    "last_sync": "2024-11-20 03:58:30.055177",
+    "last_sync": "2024-12-01 11:43:30.730267+00:00",
     "size": 466429,
-    "meta_text": null,
     "cat_ref": "TD04095",
     "work_ref": "W.TD04095",
-    "title_tib": "",
+    "title_tib": "CHOS MNGON PA'I MDZOD KYI 'GREL PA GNAD KYI SGRON MA ZHES BYA BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "263119481432",
             "subject_path": "BSTAN 'GYUR_Tengyur/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 9 (NYU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/07 MNGON PA/VOL 9 (NYU)",
-            "subject_path_english": "Tengyur/Higher Knowledge School (Abhidharma)",
-            "subject_tibetan": "VOL 9 (NYU)",
-            "subject_english": "Higher Knowledge School (Abhidharma)"
+            "subject_path_tibetan": "BSTAN 'GYUR/MNGON PA/9 (NYU)",
+            "subject_path_english": "Tengyur/Higher Knowledge School (Abhidharma)/VOL 9 (NYU)",
+            "subject_tibetan": "9 (NYU)",
+            "subject_english": "VOL 9 (NYU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 9 (NYU)",
-            "timestamp": "2024-11-20 11:58:30.064029+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Abhidharma Koṣa Vṛtti Marmadīpa (Nāma)",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:58:30.064029+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:43:30.731905+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 9 (NYU)",
+            "timestamp": "2024-12-01 11:43:30.731905+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

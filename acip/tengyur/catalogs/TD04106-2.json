@@ -1,53 +1,47 @@
 {
     "name": "TD04106-2_SO SOR THAR PA'I MDO RGYA CHER 'GREL PA 'DUL BA KUN LAS BTUS PA (Pratimokṣa Sūtra Ṭīkā Vinaya Samuccaya).txt",
-    "path": "08 'DUL BA_Vowed Morality (Vinaya)/VOL 4 (PHU)",
+    "path": "BSTAN 'GYUR_Tengyur/08 'DUL BA_Vowed Morality (Vinaya)/VOL 4 (PHU)",
     "download_path": "/tengyur updated 10 31 24 ws/08 'dul ba_vowed morality (vinaya)/vol 4 (phu)/td04106-2_so sor thar pa'i mdo rgya cher 'grel pa 'dul ba kun las btus pa (pratimokṣa sūtra ṭīkā vinaya samuccaya).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB2tg",
     "revision_id": "62633b977366b8d294473",
     "content_hash": "ce7f39830a3962a206b164847135ff227d3495e41fc6fef14e5e23c86419d4c8",
     "server_modified": "2024-11-06 00:37:37",
-    "last_sync": "2024-11-20 03:58:45.036237",
+    "last_sync": "2024-12-01 11:43:44.856186+00:00",
     "size": 1111252,
-    "meta_text": null,
     "cat_ref": "TD04106-2",
     "work_ref": "W.TD04106-2",
-    "title_tib": "",
+    "title_tib": "SO SOR THAR PA'I MDO RGYA CHER 'GREL PA 'DUL BA KUN LAS BTUS PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "216460380177",
             "subject_path": "BSTAN 'GYUR_Tengyur/08 'DUL BA_Vowed Morality (Vinaya)/VOL 4 (PHU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/08 'DUL BA/VOL 4 (PHU)",
-            "subject_path_english": "Tengyur/Vowed Morality (Vinaya)",
-            "subject_tibetan": "VOL 4 (PHU)",
-            "subject_english": "Vowed Morality (Vinaya)"
+            "subject_path_tibetan": "BSTAN 'GYUR/'DUL BA/4 (PHU)",
+            "subject_path_english": "Tengyur/Vowed Morality (Vinaya)/VOL 4 (PHU)",
+            "subject_tibetan": "4 (PHU)",
+            "subject_english": "VOL 4 (PHU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/08 'DUL BA_Vowed Morality (Vinaya)/VOL 4 (PHU)",
-            "timestamp": "2024-11-20 11:58:45.041917+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Pratimokṣa Sūtra Ṭīkā Vinaya Samuccaya",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:58:45.041917+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:43:44.856402+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/08 'DUL BA_Vowed Morality (Vinaya)/VOL 4 (PHU)",
+            "timestamp": "2024-12-01 11:43:44.856402+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

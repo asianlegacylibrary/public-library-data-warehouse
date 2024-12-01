@@ -1,53 +1,46 @@
 {
     "name": "TD03714_RDO RJE THEG PA'I MTHA' GNYIS SEL BA.txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/VOL 77 (TZU)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 77 (TZU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/vol 77 (tzu)/td03714_rdo rje theg pa'i mtha' gnyis sel ba.txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB4_g",
     "revision_id": "62633c12de76b8d294473",
     "content_hash": "bd456936a5c2657f7360cab1a4581f6f51849023536d2b2f918c5551bd6b31fc",
     "server_modified": "2024-11-06 00:39:46",
-    "last_sync": "2024-11-20 03:59:32.506816",
+    "last_sync": "2024-12-01 11:44:19.500265+00:00",
     "size": 17814,
-    "meta_text": null,
     "cat_ref": "TD03714",
     "work_ref": "W.TD03714",
     "title_tib": "RDO RJE THEG PA'I MTHA' GNYIS SEL BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "159565358724",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 77 (TZU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/VOL 77 (TZU)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)",
-            "subject_tibetan": "VOL 77 (TZU)",
-            "subject_english": "Diamond Way (Vajrayāna)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/77 (TZU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/VOL 77 (TZU)",
+            "subject_tibetan": "77 (TZU)",
+            "subject_english": "VOL 77 (TZU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 77 (TZU)",
-            "timestamp": "2024-11-20 11:59:32.529553+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:59:32.529553+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:44:19.501886+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 77 (TZU)",
+            "timestamp": "2024-12-01 11:44:19.501886+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

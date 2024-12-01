@@ -1,53 +1,47 @@
 {
     "name": "TD04178_MI DGE BA BCU'I LAS KYI LAM BSTAN PA (Daśākuśala Karma Patha Deśanā).txt",
-    "path": "10 SPRING YIG_Epistles (Lekha)/VOL 2 (NGE)",
+    "path": "BSTAN 'GYUR_Tengyur/10 SPRING YIG_Epistles (Lekha)/VOL 2 (NGE)",
     "download_path": "/tengyur updated 10 31 24 ws/10 spring yig_epistles (lekha)/vol 2 (nge)/td04178_mi dge ba bcu'i las kyi lam bstan pa (daśākuśala karma patha deśanā).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB10w",
     "revision_id": "62633b3f9d46d8d294473",
     "content_hash": "0c41bd3e88c3a5e77ccf3ea36947352d5f07c735bfdaedcd9eb4b8a1eddca681",
     "server_modified": "2024-11-06 00:36:04",
-    "last_sync": "2024-11-20 03:58:12.221542",
+    "last_sync": "2024-12-01 11:43:15.115644+00:00",
     "size": 3846,
-    "meta_text": null,
     "cat_ref": "TD04178",
     "work_ref": "W.TD04178",
-    "title_tib": "",
+    "title_tib": "MI DGE BA BCU'I LAS KYI LAM BSTAN PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "161575116623",
             "subject_path": "BSTAN 'GYUR_Tengyur/10 SPRING YIG_Epistles (Lekha)/VOL 2 (NGE)",
-            "subject_path_tibetan": "BSTAN 'GYUR/10 SPRING YIG/VOL 2 (NGE)",
-            "subject_path_english": "Tengyur/Epistles (Lekha)",
-            "subject_tibetan": "VOL 2 (NGE)",
-            "subject_english": "Epistles (Lekha)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SPRING YIG/2 (NGE)",
+            "subject_path_english": "Tengyur/Epistles (Lekha)/VOL 2 (NGE)",
+            "subject_tibetan": "2 (NGE)",
+            "subject_english": "VOL 2 (NGE)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/10 SPRING YIG_Epistles (Lekha)/VOL 2 (NGE)",
-            "timestamp": "2024-11-20 11:58:12.234276+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Daśākuśala Karma Patha Deśanā",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:58:12.234276+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:43:15.118862+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/10 SPRING YIG_Epistles (Lekha)/VOL 2 (NGE)",
+            "timestamp": "2024-12-01 11:43:15.118862+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

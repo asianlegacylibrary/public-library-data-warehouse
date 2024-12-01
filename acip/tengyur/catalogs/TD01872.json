@@ -1,53 +1,47 @@
 {
     "name": "TD01872_YAN LAG BZHI BA'I SGRUB THABS KUN DU BZANG MO ZHES BYA BA'I RNAM PAR BSHAD PA (Caturaṃga Sādhana Samantabhadrīnāma Ṭīkā).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/10 GSANG BA ‘DUS PA_Secret Collection (Guhya Samāja)/02 YE SHES ZHABS LUGS_System of Master Jnana Pada (Jñāna Pāda Krama)/04 SGRUB THABS SOGS_Rituals for Reaching the Angel, Etc. (Sadhanadi)/VOL 42 (NI)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/10 GSANG BA ‘DUS PA_Secret Collection (Guhya Samāja)/02 YE SHES ZHABS LUGS_System of Master Jnana Pada (Jñāna Pāda Krama)/04 SGRUB THABS SOGS_Rituals for Reaching the Angel, Etc. (Sadhanadi)/VOL 42 (NI)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/01 rnal 'byor bla med_unsurpassed practice (anuttara yoga)/10 gsang ba ‘dus pa_secret collection (guhya samāja)/02 ye shes zhabs lugs_system of master jnana pada (jñāna pāda krama)/04 sgrub thabs sogs_rituals for reaching the angel, etc. (sadhanadi)/vol 42 (ni)/td01872_yan lag bzhi ba'i sgrub thabs kun du bzang mo zhes bya ba'i rnam par bshad pa (caturaṃga sādhana samantabhadrīnāma ṭīkā).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB6Rw",
     "revision_id": "62633c443b6b88d294473",
     "content_hash": "0659d2aa842f0fb73b43361072a5334e47a90d9494cb7b1a233ea293b2e1ea92",
     "server_modified": "2024-11-06 00:40:38",
-    "last_sync": "2024-11-20 03:59:42.309618",
+    "last_sync": "2024-12-01 11:44:27.658574+00:00",
     "size": 190211,
-    "meta_text": null,
     "cat_ref": "TD01872",
     "work_ref": "W.TD01872",
-    "title_tib": "",
+    "title_tib": "YAN LAG BZHI BA'I SGRUB THABS KUN DU BZANG MO ZHES BYA BA'I RNAM PAR BSHAD PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "334322751940",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/10 GSANG BA ‘DUS PA_Secret Collection (Guhya Samāja)/02 YE SHES ZHABS LUGS_System of Master Jnana Pada (Jñāna Pāda Krama)/04 SGRUB THABS SOGS_Rituals for Reaching the Angel, Etc. (Sadhanadi)/VOL 42 (NI)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/01 RNAL 'BYOR BLA MED/10 GSANG BA ‘DUS PA/02 YE SHES ZHABS LUGS/04 SGRUB THABS SOGS/VOL 42 (NI)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Secret Collection (Guhya Samāja)/System of Master Jnana Pada (Jñāna Pāda Krama)/Rituals for Reaching the Angel, Etc. (Sadhanadi)",
-            "subject_tibetan": "VOL 42 (NI)",
-            "subject_english": "Rituals for Reaching the Angel, Etc. (Sadhanadi)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/RNAL 'BYOR BLA MED/GSANG BA ‘DUS PA/YE SHES ZHABS LUGS/SGRUB THABS SOGS/42 (NI)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Secret Collection (Guhya Samāja)/System of Master Jnana Pada (Jñāna Pāda Krama)/Rituals for Reaching the Angel, Etc. (Sadhanadi)/VOL 42 (NI)",
+            "subject_tibetan": "42 (NI)",
+            "subject_english": "VOL 42 (NI)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/10 GSANG BA ‘DUS PA_Secret Collection (Guhya Samāja)/02 YE SHES ZHABS LUGS_System of Master Jnana Pada (Jñāna Pāda Krama)/04 SGRUB THABS SOGS_Rituals for Reaching the Angel, Etc. (Sadhanadi)/VOL 42 (NI)",
-            "timestamp": "2024-11-20 11:59:42.316598+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Caturaṃga Sādhana Samantabhadrīnāma Ṭīkā",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:59:42.316598+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:44:27.659335+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/10 GSANG BA ‘DUS PA_Secret Collection (Guhya Samāja)/02 YE SHES ZHABS LUGS_System of Master Jnana Pada (Jñāna Pāda Krama)/04 SGRUB THABS SOGS_Rituals for Reaching the Angel, Etc. (Sadhanadi)/VOL 42 (NI)",
+            "timestamp": "2024-12-01 11:44:27.659335+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

@@ -1,53 +1,47 @@
 {
     "name": "TD04088_LAS GDAGS PA (Karma Prajñāpti).txt",
-    "path": "07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 1 (AI)",
+    "path": "BSTAN 'GYUR_Tengyur/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 1 (AI)",
     "download_path": "/tengyur updated 10 31 24 ws/07 mngon pa_higher knowledge school (abhidharma)/vol 1 (ai)/td04088_las gdags pa (karma prajñāpti).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB2fg",
     "revision_id": "62633b82e9e478d294473",
     "content_hash": "6bcffa55a7923f3b300454dbb7b5031624a9af27148180060abae61b5ed2b5a9",
     "server_modified": "2024-11-06 00:37:15",
-    "last_sync": "2024-11-20 03:58:36.975426",
+    "last_sync": "2024-12-01 11:43:37.023828+00:00",
     "size": 216994,
-    "meta_text": null,
     "cat_ref": "TD04088",
     "work_ref": "W.TD04088",
-    "title_tib": "",
+    "title_tib": "LAS GDAGS PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "936427889992",
             "subject_path": "BSTAN 'GYUR_Tengyur/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 1 (AI)",
-            "subject_path_tibetan": "BSTAN 'GYUR/07 MNGON PA/VOL 1 (AI)",
-            "subject_path_english": "Tengyur/Higher Knowledge School (Abhidharma)",
-            "subject_tibetan": "VOL 1 (AI)",
-            "subject_english": "Higher Knowledge School (Abhidharma)"
+            "subject_path_tibetan": "BSTAN 'GYUR/MNGON PA/1 (AI)",
+            "subject_path_english": "Tengyur/Higher Knowledge School (Abhidharma)/VOL 1 (AI)",
+            "subject_tibetan": "1 (AI)",
+            "subject_english": "VOL 1 (AI)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 1 (AI)",
-            "timestamp": "2024-11-20 11:58:36.981026+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Karma Prajñāpti",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:58:36.981026+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:43:37.024558+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 1 (AI)",
+            "timestamp": "2024-12-01 11:43:37.024558+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

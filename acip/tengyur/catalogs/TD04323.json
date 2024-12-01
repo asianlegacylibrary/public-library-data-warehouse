@@ -1,53 +1,47 @@
 {
     "name": "TD04323_TSE'I GNAS SKABS KYI 'BRAS BU GNOD PA 'BYUNG BA ZHES BYA BA'I LAS (Āyuravasthā Phalopa Dravodbhava Nāma Karma).txt",
-    "path": "14 BZO RIG PA_Fine Arts (Śilpa Vidyā)/VOL 1 (NGO-1)",
+    "path": "BSTAN 'GYUR_Tengyur/14 BZO RIG PA_Fine Arts (Śilpa Vidyā)/VOL 1 (NGO-1)",
     "download_path": "/tengyur updated 10 31 24 ws/14 bzo rig pa_fine arts (śilpa vidyā)/vol 1 (ngo-1)/td04323_tse'i gnas skabs kyi 'bras bu gnod pa 'byung ba zhes bya ba'i las (āyuravasthā phalopa dravodbhava nāma karma).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACEBw",
     "revision_id": "62633e0834a548d294473",
     "content_hash": "af2ace98d81ca7cfd1fcf58b4e18072147f54e1d4201b1e7a5f91322b578e740",
     "server_modified": "2024-11-06 00:48:32",
-    "last_sync": "2024-11-20 04:01:20.147188",
+    "last_sync": "2024-12-01 11:45:46.607967+00:00",
     "size": 2358,
-    "meta_text": null,
     "cat_ref": "TD04323",
     "work_ref": "W.TD04323",
-    "title_tib": "",
+    "title_tib": "TSE'I GNAS SKABS KYI 'BRAS BU GNOD PA 'BYUNG BA ZHES BYA BA'I LAS",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "226526997541",
             "subject_path": "BSTAN 'GYUR_Tengyur/14 BZO RIG PA_Fine Arts (Śilpa Vidyā)/VOL 1 (NGO-1)",
-            "subject_path_tibetan": "BSTAN 'GYUR/14 BZO RIG PA/VOL 1 (NGO-1)",
-            "subject_path_english": "Tengyur/Fine Arts (Śilpa Vidyā)",
-            "subject_tibetan": "VOL 1 (NGO-1)",
-            "subject_english": "Fine Arts (Śilpa Vidyā)"
+            "subject_path_tibetan": "BSTAN 'GYUR/BZO RIG PA/1 (NGO-1)",
+            "subject_path_english": "Tengyur/Fine Arts (Śilpa Vidyā)/VOL 1 (NGO-1)",
+            "subject_tibetan": "1 (NGO-1)",
+            "subject_english": "VOL 1 (NGO-1)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/14 BZO RIG PA_Fine Arts (Śilpa Vidyā)/VOL 1 (NGO-1)",
-            "timestamp": "2024-11-20 12:01:20.162226+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Āyuravasthā Phalopa Dravodbhava Nāma Karma",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:20.162226+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:45:46.610067+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/14 BZO RIG PA_Fine Arts (Śilpa Vidyā)/VOL 1 (NGO-1)",
+            "timestamp": "2024-12-01 11:45:46.610067+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

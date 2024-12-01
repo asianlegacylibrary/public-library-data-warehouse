@@ -1,53 +1,47 @@
 {
     "name": "TD03929_DBU MA'I MAN NGAG CES BYA BA (Madhyamakopadeśa Vṛtti (Nāma)).txt",
-    "path": "04 DBU MA_Middle Way School (Madhyamaka)/VOL 15 (KI)",
+    "path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 15 (KI)",
     "download_path": "/tengyur updated 10 31 24 ws/04 dbu ma_middle way school (madhyamaka)/vol 15 (ki)/td03929_dbu ma'i man ngag ces bya ba (madhyamakopadeśa vṛtti (nāma)).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB3Og",
     "revision_id": "62633bc250d2e8d294473",
     "content_hash": "3e44e8b527c10373b17bb71ab9be2a61c1ff9a1e40ec72ba566db77f6f9cc920",
     "server_modified": "2024-11-06 00:38:21",
-    "last_sync": "2024-11-20 03:59:02.409290",
+    "last_sync": "2024-12-01 11:43:58.983492+00:00",
     "size": 3750,
-    "meta_text": null,
     "cat_ref": "TD03929",
     "work_ref": "W.TD03929",
-    "title_tib": "",
+    "title_tib": "DBU MA'I MAN NGAG CES BYA BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "330936115974",
             "subject_path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 15 (KI)",
-            "subject_path_tibetan": "BSTAN 'GYUR/04 DBU MA/VOL 15 (KI)",
-            "subject_path_english": "Tengyur/Middle Way School (Madhyamaka)",
-            "subject_tibetan": "VOL 15 (KI)",
-            "subject_english": "Middle Way School (Madhyamaka)"
+            "subject_path_tibetan": "BSTAN 'GYUR/DBU MA/15 (KI)",
+            "subject_path_english": "Tengyur/Middle Way School (Madhyamaka)/VOL 15 (KI)",
+            "subject_tibetan": "15 (KI)",
+            "subject_english": "VOL 15 (KI)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 15 (KI)",
-            "timestamp": "2024-11-20 11:59:02.431046+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Madhyamakopadeśa Vṛtti (Nāma)",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:59:02.431046+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:43:58.986701+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 15 (KI)",
+            "timestamp": "2024-12-01 11:43:58.986701+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

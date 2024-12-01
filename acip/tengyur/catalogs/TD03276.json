@@ -1,53 +1,47 @@
 {
     "name": "TD03276_KHYAD PAR GDAMS NGAG (Viśeṣāmnāya).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/VOL 75 (BU)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 75 (BU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/vol 75 (bu)/td03276_khyad par gdams ngag (viśeṣāmnāya).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACAuA",
     "revision_id": "62633d6d41b098d294473",
     "content_hash": "7362a908b61b96d4fb7cbf11329b0dac40c538e5463e59c1b2136fad0b5f1a0d",
     "server_modified": "2024-11-06 00:45:49",
-    "last_sync": "2024-11-20 04:00:46.123448",
+    "last_sync": "2024-12-01 11:45:17.355355+00:00",
     "size": 484,
-    "meta_text": null,
     "cat_ref": "TD03276",
     "work_ref": "W.TD03276",
-    "title_tib": "",
+    "title_tib": "KHYAD PAR GDAMS NGAG",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "123568910388",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 75 (BU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/VOL 75 (BU)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)",
-            "subject_tibetan": "VOL 75 (BU)",
-            "subject_english": "Diamond Way (Vajrayāna)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/75 (BU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/VOL 75 (BU)",
+            "subject_tibetan": "75 (BU)",
+            "subject_english": "VOL 75 (BU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 75 (BU)",
-            "timestamp": "2024-11-20 12:00:46.184101+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Viśeṣāmnāya",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:46.184101+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:45:17.361456+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 75 (BU)",
+            "timestamp": "2024-12-01 11:45:17.361456+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

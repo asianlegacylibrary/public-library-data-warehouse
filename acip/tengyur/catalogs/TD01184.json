@@ -1,53 +1,47 @@
 {
     "name": "TD01184_RGYUD KYI RGYAL PO DPAL KYE'I RDO RJE'I 'GREL BSHAD KHA SBYOR SHIN TU DRI MA MED BA ZHES BYA BA (Śrī Hevajra Tantra Rāja Ṭīkā Suviśada Saṃpuṭa (Nāma)).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/01 KYE RDO RJE_Lo Diamond (Hevajra)/01 YAB SKOR_Father Texts (Pitṛ)/VOL 2 (KHA)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/01 KYE RDO RJE_Lo Diamond (Hevajra)/01 YAB SKOR_Father Texts (Pitṛ)/VOL 2 (KHA)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/01 rnal 'byor bla med_unsurpassed practice (anuttara yoga)/01 kye rdo rje_lo diamond (hevajra)/01 yab skor_father texts (pitṛ)/vol 2 (kha)/td01184_rgyud kyi rgyal po dpal kye'i rdo rje'i 'grel bshad kha sbyor shin tu dri ma med ba zhes bya ba (śrī hevajra tantra rāja ṭīkā suviśada saṃpuṭa (nāma)).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB9DA",
     "revision_id": "62633cce156278d294473",
     "content_hash": "a4eabc1be1f5252e0acda32f266fd8c9bdf38444c2970c60385a2490d9332fd6",
     "server_modified": "2024-11-06 00:43:02",
-    "last_sync": "2024-11-20 04:00:21.133281",
+    "last_sync": "2024-12-01 11:44:58.119168+00:00",
     "size": 943743,
-    "meta_text": null,
     "cat_ref": "TD01184",
     "work_ref": "W.TD01184",
-    "title_tib": "",
+    "title_tib": "RGYUD KYI RGYAL PO DPAL KYE'I RDO RJE'I 'GREL BSHAD KHA SBYOR SHIN TU DRI MA MED BA ZHES BYA BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "349409194279",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/01 KYE RDO RJE_Lo Diamond (Hevajra)/01 YAB SKOR_Father Texts (Pitṛ)/VOL 2 (KHA)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/01 RNAL 'BYOR BLA MED/01 KYE RDO RJE/01 YAB SKOR/VOL 2 (KHA)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Lo Diamond (Hevajra)/Father Texts (Pitṛ)",
-            "subject_tibetan": "VOL 2 (KHA)",
-            "subject_english": "Father Texts (Pitṛ)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/RNAL 'BYOR BLA MED/KYE RDO RJE/YAB SKOR/2 (KHA)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Lo Diamond (Hevajra)/Father Texts (Pitṛ)/VOL 2 (KHA)",
+            "subject_tibetan": "2 (KHA)",
+            "subject_english": "VOL 2 (KHA)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/01 KYE RDO RJE_Lo Diamond (Hevajra)/01 YAB SKOR_Father Texts (Pitṛ)/VOL 2 (KHA)",
-            "timestamp": "2024-11-20 12:00:21.134945+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Śrī Hevajra Tantra Rāja Ṭīkā Suviśada Saṃpuṭa (Nāma)",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:21.134945+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:44:58.120164+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/01 KYE RDO RJE_Lo Diamond (Hevajra)/01 YAB SKOR_Father Texts (Pitṛ)/VOL 2 (KHA)",
+            "timestamp": "2024-12-01 11:44:58.120164+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

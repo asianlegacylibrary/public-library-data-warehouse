@@ -1,53 +1,47 @@
 {
     "name": "TD04185_SEMS RIN PO CHE RNAM PAR SBYANG BA'I RIM PA ZHES BYA BA'I SPRING YIG (Citta Ratna Viśodhana Krama Nāma Lekha).txt",
-    "path": "10 SPRING YIG_Epistles (Lekha)/VOL 2 (NGE)",
+    "path": "BSTAN 'GYUR_Tengyur/10 SPRING YIG_Epistles (Lekha)/VOL 2 (NGE)",
     "download_path": "/tengyur updated 10 31 24 ws/10 spring yig_epistles (lekha)/vol 2 (nge)/td04185_sems rin po che rnam par sbyang ba'i rim pa zhes bya ba'i spring yig (citta ratna viśodhana krama nāma lekha).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB1yw",
     "revision_id": "62633b3e6e2828d294473",
     "content_hash": "3c8fb3a185b6a3b92c48d07455a4abfb1c704b1d8ad927dc5ad71300887d0fb5",
     "server_modified": "2024-11-06 00:36:03",
-    "last_sync": "2024-11-20 03:58:12.211728",
+    "last_sync": "2024-12-01 11:43:15.115116+00:00",
     "size": 25960,
-    "meta_text": null,
     "cat_ref": "TD04185",
     "work_ref": "W.TD04185",
-    "title_tib": "",
+    "title_tib": "SEMS RIN PO CHE RNAM PAR SBYANG BA'I RIM PA ZHES BYA BA'I SPRING YIG",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "161575116623",
             "subject_path": "BSTAN 'GYUR_Tengyur/10 SPRING YIG_Epistles (Lekha)/VOL 2 (NGE)",
-            "subject_path_tibetan": "BSTAN 'GYUR/10 SPRING YIG/VOL 2 (NGE)",
-            "subject_path_english": "Tengyur/Epistles (Lekha)",
-            "subject_tibetan": "VOL 2 (NGE)",
-            "subject_english": "Epistles (Lekha)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SPRING YIG/2 (NGE)",
+            "subject_path_english": "Tengyur/Epistles (Lekha)/VOL 2 (NGE)",
+            "subject_tibetan": "2 (NGE)",
+            "subject_english": "VOL 2 (NGE)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/10 SPRING YIG_Epistles (Lekha)/VOL 2 (NGE)",
-            "timestamp": "2024-11-20 11:58:12.234044+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Citta Ratna Viśodhana Krama Nāma Lekha",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:58:12.234044+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:43:15.118158+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/10 SPRING YIG_Epistles (Lekha)/VOL 2 (NGE)",
+            "timestamp": "2024-12-01 11:43:15.118158+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

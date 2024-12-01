@@ -1,53 +1,47 @@
 {
     "name": "TD04069_RNAM PAR BSHAD PA RIGS PA'I BSHAD PA (Vyākhyā Yukti Ṭīkā).txt",
-    "path": "06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 15 (SI)",
+    "path": "BSTAN 'GYUR_Tengyur/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 15 (SI)",
     "download_path": "/tengyur updated 10 31 24 ws/06 sems tzam_mind only school (cittamātra)/vol 15 (si)/td04069_rnam par bshad pa rigs pa'i bshad pa (vyākhyā yukti ṭīkā).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACDxg",
     "revision_id": "62633df98f74c8d294473",
     "content_hash": "eb288999817653a7676451d3088ceaf8f07e6b603cc739ef9774aece8835218d",
     "server_modified": "2024-11-06 00:48:16",
-    "last_sync": "2024-11-20 04:01:13.802030",
+    "last_sync": "2024-12-01 11:45:41.402906+00:00",
     "size": 666084,
-    "meta_text": null,
     "cat_ref": "TD04069",
     "work_ref": "W.TD04069",
-    "title_tib": "",
+    "title_tib": "RNAM PAR BSHAD PA RIGS PA'I BSHAD PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "539832643012",
             "subject_path": "BSTAN 'GYUR_Tengyur/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 15 (SI)",
-            "subject_path_tibetan": "BSTAN 'GYUR/06 SEMS TZAM/VOL 15 (SI)",
-            "subject_path_english": "Tengyur/Mind Only School (Cittamātra)",
-            "subject_tibetan": "VOL 15 (SI)",
-            "subject_english": "Mind Only School (Cittamātra)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SEMS TZAM/15 (SI)",
+            "subject_path_english": "Tengyur/Mind Only School (Cittamātra)/VOL 15 (SI)",
+            "subject_tibetan": "15 (SI)",
+            "subject_english": "VOL 15 (SI)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 15 (SI)",
-            "timestamp": "2024-11-20 12:01:13.805494+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Vyākhyā Yukti Ṭīkā",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:13.805494+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:45:41.403476+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 15 (SI)",
+            "timestamp": "2024-12-01 11:45:41.403476+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

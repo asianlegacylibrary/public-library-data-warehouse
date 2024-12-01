@@ -1,53 +1,47 @@
 {
     "name": "TD01869_YAN LAG BZHI PA'I SGRUB THABS KYI RGYA CHER BSHAD PA SNYING PO SNYE MA ZHES BYA BA (Caturaṃga Sādhana Ṭīkā Sāramañjarī).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/10 GSANG BA ‘DUS PA_Secret Collection (Guhya Samāja)/02 YE SHES ZHABS LUGS_System of Master Jnana Pada (Jñāna Pāda Krama)/03 SGRUB 'GREL_Commentaries on Practice Materials (Sādhya Vṛtti)/VOL 42 (NI)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/10 GSANG BA ‘DUS PA_Secret Collection (Guhya Samāja)/02 YE SHES ZHABS LUGS_System of Master Jnana Pada (Jñāna Pāda Krama)/03 SGRUB 'GREL_Commentaries on Practice Materials (Sādhya Vṛtti)/VOL 42 (NI)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/01 rnal 'byor bla med_unsurpassed practice (anuttara yoga)/10 gsang ba ‘dus pa_secret collection (guhya samāja)/02 ye shes zhabs lugs_system of master jnana pada (jñāna pāda krama)/03 sgrub 'grel_commentaries on practice materials (sādhya vṛtti)/vol 42 (ni)/td01869_yan lag bzhi pa'i sgrub thabs kyi rgya cher bshad pa snying po snye ma zhes bya ba (caturaṃga sādhana ṭīkā sāramañjarī).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB6NQ",
     "revision_id": "62633c41ba71a8d294473",
     "content_hash": "cf5a6b51ed63b042ad06e782969e2144bda675daa6d88d59e0da181909c92ec8",
     "server_modified": "2024-11-06 00:40:35",
-    "last_sync": "2024-11-20 03:59:40.058708",
+    "last_sync": "2024-12-01 11:44:25.926850+00:00",
     "size": 174050,
-    "meta_text": null,
     "cat_ref": "TD01869",
     "work_ref": "W.TD01869",
-    "title_tib": "",
+    "title_tib": "YAN LAG BZHI PA'I SGRUB THABS KYI RGYA CHER BSHAD PA SNYING PO SNYE MA ZHES BYA BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "115475118991",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/10 GSANG BA ‘DUS PA_Secret Collection (Guhya Samāja)/02 YE SHES ZHABS LUGS_System of Master Jnana Pada (Jñāna Pāda Krama)/03 SGRUB 'GREL_Commentaries on Practice Materials (Sādhya Vṛtti)/VOL 42 (NI)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/01 RNAL 'BYOR BLA MED/10 GSANG BA ‘DUS PA/02 YE SHES ZHABS LUGS/03 SGRUB 'GREL/VOL 42 (NI)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Secret Collection (Guhya Samāja)/System of Master Jnana Pada (Jñāna Pāda Krama)/Commentaries on Practice Materials (Sādhya Vṛtti)",
-            "subject_tibetan": "VOL 42 (NI)",
-            "subject_english": "Commentaries on Practice Materials (Sādhya Vṛtti)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/RNAL 'BYOR BLA MED/GSANG BA ‘DUS PA/YE SHES ZHABS LUGS/SGRUB 'GREL/42 (NI)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Secret Collection (Guhya Samāja)/System of Master Jnana Pada (Jñāna Pāda Krama)/Commentaries on Practice Materials (Sādhya Vṛtti)/VOL 42 (NI)",
+            "subject_tibetan": "42 (NI)",
+            "subject_english": "VOL 42 (NI)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/10 GSANG BA ‘DUS PA_Secret Collection (Guhya Samāja)/02 YE SHES ZHABS LUGS_System of Master Jnana Pada (Jñāna Pāda Krama)/03 SGRUB 'GREL_Commentaries on Practice Materials (Sādhya Vṛtti)/VOL 42 (NI)",
-            "timestamp": "2024-11-20 11:59:40.068191+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Caturaṃga Sādhana Ṭīkā Sāramañjarī",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:59:40.068191+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:44:25.927483+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/10 GSANG BA ‘DUS PA_Secret Collection (Guhya Samāja)/02 YE SHES ZHABS LUGS_System of Master Jnana Pada (Jñāna Pāda Krama)/03 SGRUB 'GREL_Commentaries on Practice Materials (Sādhya Vṛtti)/VOL 42 (NI)",
+            "timestamp": "2024-12-01 11:44:25.927483+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

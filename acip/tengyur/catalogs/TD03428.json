@@ -1,53 +1,47 @@
 {
     "name": "TD03428_'JIG RTEN GSUM PO DBANG DU BYED PA'I 'JIG RTEN DBANG PHYUG GI SGRUB THABS (Trailokyavaśaṃkaralokeśvara Sādhana).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/vol 76 (mu)/td03428_'jig rten gsum po dbang du byed pa'i 'jig rten dbang phyug gi sgrub thabs (trailokyavaśaṃkaralokeśvara sādhana).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB_9Q",
     "revision_id": "62633d4fe63b48d294473",
     "content_hash": "12b2b6b93099fb7f459d3046581cb620ad2baddcdeb08f6bac67ce40addbe06f",
     "server_modified": "2024-11-06 00:45:18",
-    "last_sync": "2024-11-20 04:00:45.109616",
+    "last_sync": "2024-12-01 11:45:16.679374+00:00",
     "size": 3789,
-    "meta_text": null,
     "cat_ref": "TD03428",
     "work_ref": "W.TD03428",
-    "title_tib": "",
+    "title_tib": "'JIG RTEN GSUM PO DBANG DU BYED PA'I 'JIG RTEN DBANG PHYUG GI SGRUB THABS",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "121782366104",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/VOL 76 (MU)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)",
-            "subject_tibetan": "VOL 76 (MU)",
-            "subject_english": "Diamond Way (Vajrayāna)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/76 (MU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/VOL 76 (MU)",
+            "subject_tibetan": "76 (MU)",
+            "subject_english": "VOL 76 (MU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
-            "timestamp": "2024-11-20 12:00:45.254256+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Trailokyavaśaṃkaralokeśvara Sādhana",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:45.254256+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:45:16.691490+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
+            "timestamp": "2024-12-01 11:45:16.691490+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

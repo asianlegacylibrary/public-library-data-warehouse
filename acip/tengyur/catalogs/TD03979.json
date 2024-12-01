@@ -1,53 +1,47 @@
 {
     "name": "TD03979_CHOS SPYOD YAN LAG BZHI PA (Caturaṃga Dharma Caryā).txt",
-    "path": "04 DBU MA_Middle Way School (Madhyamaka)/VOL 17 (GI)",
+    "path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 17 (GI)",
     "download_path": "/tengyur updated 10 31 24 ws/04 dbu ma_middle way school (madhyamaka)/vol 17 (gi)/td03979_chos spyod yan lag bzhi pa (caturaṃga dharma caryā).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB3hw",
     "revision_id": "62633bcd064f98d294473",
     "content_hash": "e60eb02d373317a5e76fe39e0a69c4f9e66d16420f5d68dcead14cbe339ff67e",
     "server_modified": "2024-11-06 00:38:33",
-    "last_sync": "2024-11-20 03:59:07.126234",
+    "last_sync": "2024-12-01 11:44:02.907625+00:00",
     "size": 1980,
-    "meta_text": null,
     "cat_ref": "TD03979",
     "work_ref": "W.TD03979",
-    "title_tib": "",
+    "title_tib": "CHOS SPYOD YAN LAG BZHI PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "121582591294",
             "subject_path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 17 (GI)",
-            "subject_path_tibetan": "BSTAN 'GYUR/04 DBU MA/VOL 17 (GI)",
-            "subject_path_english": "Tengyur/Middle Way School (Madhyamaka)",
-            "subject_tibetan": "VOL 17 (GI)",
-            "subject_english": "Middle Way School (Madhyamaka)"
+            "subject_path_tibetan": "BSTAN 'GYUR/DBU MA/17 (GI)",
+            "subject_path_english": "Tengyur/Middle Way School (Madhyamaka)/VOL 17 (GI)",
+            "subject_tibetan": "17 (GI)",
+            "subject_english": "VOL 17 (GI)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 17 (GI)",
-            "timestamp": "2024-11-20 11:59:07.137804+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Caturaṃga Dharma Caryā",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:59:07.137804+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:44:02.909978+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 17 (GI)",
+            "timestamp": "2024-12-01 11:44:02.909978+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

@@ -1,53 +1,47 @@
 {
     "name": "TD03298_DPAL RDO RJE PHAG MO'I RTOG PA DON THAMS CAD SGRUB PA ZHES BYA BA (Śrī Vajravārāhī Kalpasarvārtha Sādhaka Nāma).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/VOL 75 (BU)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 75 (BU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/vol 75 (bu)/td03298_dpal rdo rje phag mo'i rtog pa don thams cad sgrub pa zhes bya ba (śrī vajravārāhī kalpasarvārtha sādhaka nāma).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACApA",
     "revision_id": "62633d699a92c8d294473",
     "content_hash": "39dfec5071bf96b13f8547d7ff010eb1a9834ce783a9f7b24ebccb79acc3ec58",
     "server_modified": "2024-11-06 00:45:45",
-    "last_sync": "2024-11-20 04:00:46.101955",
+    "last_sync": "2024-12-01 11:45:17.354496+00:00",
     "size": 2257,
-    "meta_text": null,
     "cat_ref": "TD03298",
     "work_ref": "W.TD03298",
-    "title_tib": "",
+    "title_tib": "DPAL RDO RJE PHAG MO'I RTOG PA DON THAMS CAD SGRUB PA ZHES BYA BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "123568910388",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 75 (BU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/VOL 75 (BU)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)",
-            "subject_tibetan": "VOL 75 (BU)",
-            "subject_english": "Diamond Way (Vajrayāna)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/75 (BU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/VOL 75 (BU)",
+            "subject_tibetan": "75 (BU)",
+            "subject_english": "VOL 75 (BU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 75 (BU)",
-            "timestamp": "2024-11-20 12:00:46.183686+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Śrī Vajravārāhī Kalpasarvārtha Sādhaka Nāma",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:46.183686+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:45:17.360148+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 75 (BU)",
+            "timestamp": "2024-12-01 11:45:17.360148+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

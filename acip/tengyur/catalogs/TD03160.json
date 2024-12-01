@@ -1,53 +1,47 @@
 {
     "name": "TD03160_PADMA GAR GYI DBANG PHYUG GI SGRUB THABS (Padmanarteśvara Sādhana).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/VOL 74 (PHU)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 74 (PHU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/vol 74 (phu)/td03160_padma gar gyi dbang phyug gi sgrub thabs (padmanarteśvara sādhana).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACDRg",
     "revision_id": "62633dd3f19d88d294473",
     "content_hash": "fc19898770384d8459a10c1723c6acc4db045439cf965f473e68ddcacaf910b1",
     "server_modified": "2024-11-06 00:47:37",
-    "last_sync": "2024-11-20 04:01:04.992027",
+    "last_sync": "2024-12-01 11:45:32.198077+00:00",
     "size": 2032,
-    "meta_text": null,
     "cat_ref": "TD03160",
     "work_ref": "W.TD03160",
-    "title_tib": "",
+    "title_tib": "PADMA GAR GYI DBANG PHYUG GI SGRUB THABS",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "235929610804",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 74 (PHU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/VOL 74 (PHU)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)",
-            "subject_tibetan": "VOL 74 (PHU)",
-            "subject_english": "Diamond Way (Vajrayāna)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/74 (PHU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/VOL 74 (PHU)",
+            "subject_tibetan": "74 (PHU)",
+            "subject_english": "VOL 74 (PHU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 74 (PHU)",
-            "timestamp": "2024-11-20 12:01:05.034185+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Padmanarteśvara Sādhana",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:05.034185+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:45:32.201450+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 74 (PHU)",
+            "timestamp": "2024-12-01 11:45:32.201450+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

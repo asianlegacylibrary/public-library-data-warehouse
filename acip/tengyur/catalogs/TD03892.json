@@ -1,53 +1,47 @@
 {
     "name": "TD03892_DE KHO NA LA 'JUG PA'I 'GREL PA (Tattvāvatāra Vṛtti).txt",
-    "path": "04 DBU MA_Middle Way School (Madhyamaka)/VOL 13 (HA)",
+    "path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 13 (HA)",
     "download_path": "/tengyur updated 10 31 24 ws/04 dbu ma_middle way school (madhyamaka)/vol 13 (ha)/td03892_de kho na la 'jug pa'i 'grel pa (tattvāvatāra vṛtti).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB3GA",
     "revision_id": "62633bb9913508d294473",
     "content_hash": "53dcd64facf4772dc62505336530c125ffb8b422d7f97290f85d0bbf22adc989",
     "server_modified": "2024-11-06 00:38:12",
-    "last_sync": "2024-11-20 03:59:00.272094",
+    "last_sync": "2024-12-01 11:43:57.254803+00:00",
     "size": 15491,
-    "meta_text": null,
     "cat_ref": "TD03892",
     "work_ref": "W.TD03892",
-    "title_tib": "",
+    "title_tib": "DE KHO NA LA 'JUG PA'I 'GREL PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "336306827700",
             "subject_path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 13 (HA)",
-            "subject_path_tibetan": "BSTAN 'GYUR/04 DBU MA/VOL 13 (HA)",
-            "subject_path_english": "Tengyur/Middle Way School (Madhyamaka)",
-            "subject_tibetan": "VOL 13 (HA)",
-            "subject_english": "Middle Way School (Madhyamaka)"
+            "subject_path_tibetan": "BSTAN 'GYUR/DBU MA/13 (HA)",
+            "subject_path_english": "Tengyur/Middle Way School (Madhyamaka)/VOL 13 (HA)",
+            "subject_tibetan": "13 (HA)",
+            "subject_english": "VOL 13 (HA)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 13 (HA)",
-            "timestamp": "2024-11-20 11:59:00.278188+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Tattvāvatāra Vṛtti",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:59:00.278188+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:43:57.256126+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 13 (HA)",
+            "timestamp": "2024-12-01 11:43:57.256126+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

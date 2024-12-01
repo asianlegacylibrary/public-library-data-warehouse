@@ -1,53 +1,47 @@
 {
     "name": "TD04112_'PHAGS PA THAMS CAD YOD PAR SMRA BA'I RTZA BA'I DGE SLONG MA'I SO SOR THAR PA'I MDO'I 'GREL PA (Ārya Sarvāstivadi Mūla Bhikṣuṇi Pratimokṣa Sūtra Vṛtti).txt",
-    "path": "08 'DUL BA_Vowed Morality (Vinaya)/VOL 7 (TZU)",
+    "path": "BSTAN 'GYUR_Tengyur/08 'DUL BA_Vowed Morality (Vinaya)/VOL 7 (TZU)",
     "download_path": "/tengyur updated 10 31 24 ws/08 'dul ba_vowed morality (vinaya)/vol 7 (tzu)/td04112_'phags pa thams cad yod par smra ba'i rtza ba'i dge slong ma'i so sor thar pa'i mdo'i 'grel pa (ārya sarvāstivadi mūla bhikṣuṇi pratimokṣa sūtra vṛtti).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB2rQ",
     "revision_id": "62633b9220a9c8d294473",
     "content_hash": "710bfa0ec6f4a684140d14a464c23c9a5bd28b4cbfceb18e633294bc9a5fef13",
     "server_modified": "2024-11-06 00:37:31",
-    "last_sync": "2024-11-20 03:58:43.624469",
+    "last_sync": "2024-12-01 11:43:43.612231+00:00",
     "size": 680707,
-    "meta_text": null,
     "cat_ref": "TD04112",
     "work_ref": "W.TD04112",
-    "title_tib": "",
+    "title_tib": "'PHAGS PA THAMS CAD YOD PAR SMRA BA'I RTZA BA'I DGE SLONG MA'I SO SOR THAR PA'I MDO'I 'GREL PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "426597187134",
             "subject_path": "BSTAN 'GYUR_Tengyur/08 'DUL BA_Vowed Morality (Vinaya)/VOL 7 (TZU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/08 'DUL BA/VOL 7 (TZU)",
-            "subject_path_english": "Tengyur/Vowed Morality (Vinaya)",
-            "subject_tibetan": "VOL 7 (TZU)",
-            "subject_english": "Vowed Morality (Vinaya)"
+            "subject_path_tibetan": "BSTAN 'GYUR/'DUL BA/7 (TZU)",
+            "subject_path_english": "Tengyur/Vowed Morality (Vinaya)/VOL 7 (TZU)",
+            "subject_tibetan": "7 (TZU)",
+            "subject_english": "VOL 7 (TZU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/08 'DUL BA_Vowed Morality (Vinaya)/VOL 7 (TZU)",
-            "timestamp": "2024-11-20 11:58:43.631655+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Ārya Sarvāstivadi Mūla Bhikṣuṇi Pratimokṣa Sūtra Vṛtti",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:58:43.631655+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:43:43.612715+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/08 'DUL BA_Vowed Morality (Vinaya)/VOL 7 (TZU)",
+            "timestamp": "2024-12-01 11:43:43.612715+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

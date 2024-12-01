@@ -1,53 +1,47 @@
 {
     "name": "TD03662_'PHAGS MA 'OD ZER CAN GYI SGRUB PA'I THABS ZHES BYA BA (Ārya Mārīcīsādhana (Nāma)).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/vol 76 (mu)/td03662_'phags ma 'od zer can gyi sgrub pa'i thabs zhes bya ba (ārya mārīcīsādhana (nāma)).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACAEA",
     "revision_id": "62633d512cf7b8d294473",
     "content_hash": "cc8d2bf0258baed3b2220003c434eb8adbe47b22e1cf104e6e1c8e2e8be805a4",
     "server_modified": "2024-11-06 00:45:20",
-    "last_sync": "2024-11-20 04:00:45.131815",
+    "last_sync": "2024-12-01 11:45:16.680042+00:00",
     "size": 1181,
-    "meta_text": null,
     "cat_ref": "TD03662",
     "work_ref": "W.TD03662",
-    "title_tib": "",
+    "title_tib": "'PHAGS MA 'OD ZER CAN GYI SGRUB PA'I THABS ZHES BYA BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "121782366104",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/VOL 76 (MU)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)",
-            "subject_tibetan": "VOL 76 (MU)",
-            "subject_english": "Diamond Way (Vajrayāna)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/76 (MU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/VOL 76 (MU)",
+            "subject_tibetan": "76 (MU)",
+            "subject_english": "VOL 76 (MU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
-            "timestamp": "2024-11-20 12:00:45.255052+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Ārya Mārīcīsādhana (Nāma)",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:45.255052+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:45:16.692427+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
+            "timestamp": "2024-12-01 11:45:16.692427+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

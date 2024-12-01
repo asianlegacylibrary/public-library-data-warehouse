@@ -1,53 +1,47 @@
 {
     "name": "TD04150_SKYES PA'I RABS KYI RGYUD (Jātaka Mālā).txt",
-    "path": "09 SKYES RABS_Stories of the Past Lives of the Buddha (Jātaka)/VOL 1 (HU)",
+    "path": "BSTAN 'GYUR_Tengyur/09 SKYES RABS_Stories of the Past Lives of the Buddha (Jātaka)/VOL 1 (HU)",
     "download_path": "/tengyur updated 10 31 24 ws/09 skyes rabs_stories of the past lives of the buddha (jātaka)/vol 1 (hu)/td04150_skyes pa'i rabs kyi rgyud (jātaka mālā).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB22Q",
     "revision_id": "62633baa17cb38d294473",
     "content_hash": "5cc07b4266e42d4309c99e459149b45cabcf2d99206e1aa470c774ac0a96394c",
     "server_modified": "2024-11-06 00:37:56",
-    "last_sync": "2024-11-20 03:58:53.078397",
+    "last_sync": "2024-12-01 11:43:52.052251+00:00",
     "size": 501919,
-    "meta_text": null,
     "cat_ref": "TD04150",
     "work_ref": "W.TD04150",
-    "title_tib": "",
+    "title_tib": "SKYES PA'I RABS KYI RGYUD",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "240837561568",
             "subject_path": "BSTAN 'GYUR_Tengyur/09 SKYES RABS_Stories of the Past Lives of the Buddha (Jātaka)/VOL 1 (HU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/09 SKYES RABS/VOL 1 (HU)",
-            "subject_path_english": "Tengyur/Stories of the Past Lives of the Buddha (Jātaka)",
-            "subject_tibetan": "VOL 1 (HU)",
-            "subject_english": "Stories of the Past Lives of the Buddha (Jātaka)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SKYES RABS/1 (HU)",
+            "subject_path_english": "Tengyur/Stories of the Past Lives of the Buddha (Jātaka)/VOL 1 (HU)",
+            "subject_tibetan": "1 (HU)",
+            "subject_english": "VOL 1 (HU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/09 SKYES RABS_Stories of the Past Lives of the Buddha (Jātaka)/VOL 1 (HU)",
-            "timestamp": "2024-11-20 11:58:53.084712+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Jātaka Mālā",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:58:53.084712+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:43:52.052943+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/09 SKYES RABS_Stories of the Past Lives of the Buddha (Jātaka)/VOL 1 (HU)",
+            "timestamp": "2024-12-01 11:43:52.052943+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

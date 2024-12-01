@@ -1,53 +1,47 @@
 {
     "name": "TD04312-1_YAN LAG BRGYAD PA'I SNYING PO'I RNAM PAR 'GREL PA'I TSIG GI DON GYI ZLA ZER [DD] ZHES BYA BA (Padārthacandrikā Prabhāsa Nāma Aṣṭaṃga Hṛdayavivṛti).txt",
-    "path": "13 GSO BA RIG PA_Medicine (Cikitsā Vidyā)/VOL 3 (KO)",
+    "path": "BSTAN 'GYUR_Tengyur/13 GSO BA RIG PA_Medicine (Cikitsā Vidyā)/VOL 3 (KO)",
     "download_path": "/tengyur updated 10 31 24 ws/13 gso ba rig pa_medicine (cikitsā vidyā)/vol 3 (ko)/td04312-1_yan lag brgyad pa'i snying po'i rnam par 'grel pa'i tsig gi don gyi zla zer [dd] zhes bya ba (padārthacandrikā prabhāsa nāma aṣṭaṃga hṛdayavivṛti).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACE7w",
     "revision_id": "62633e5903b948d294473",
     "content_hash": "be5aaec8990d9ebe0ca579e72a89547c62b197e19c00839176243eb97bc1e132",
     "server_modified": "2024-11-06 00:49:56",
-    "last_sync": "2024-11-20 04:01:45.197999",
+    "last_sync": "2024-12-01 11:46:04.624553+00:00",
     "size": 1129160,
-    "meta_text": null,
     "cat_ref": "TD04312-1",
     "work_ref": "W.TD04312-1",
-    "title_tib": "",
+    "title_tib": "YAN LAG BRGYAD PA'I SNYING PO'I RNAM PAR 'GREL PA'I TSIG GI DON GYI ZLA ZER [DD] ZHES BYA BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "306009808159",
             "subject_path": "BSTAN 'GYUR_Tengyur/13 GSO BA RIG PA_Medicine (Cikitsā Vidyā)/VOL 3 (KO)",
-            "subject_path_tibetan": "BSTAN 'GYUR/13 GSO BA RIG PA/VOL 3 (KO)",
-            "subject_path_english": "Tengyur/Medicine (Cikitsā Vidyā)",
-            "subject_tibetan": "VOL 3 (KO)",
-            "subject_english": "Medicine (Cikitsā Vidyā)"
+            "subject_path_tibetan": "BSTAN 'GYUR/GSO BA RIG PA/3 (KO)",
+            "subject_path_english": "Tengyur/Medicine (Cikitsā Vidyā)/VOL 3 (KO)",
+            "subject_tibetan": "3 (KO)",
+            "subject_english": "VOL 3 (KO)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/13 GSO BA RIG PA_Medicine (Cikitsā Vidyā)/VOL 3 (KO)",
-            "timestamp": "2024-11-20 12:01:45.203779+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Padārthacandrikā Prabhāsa Nāma Aṣṭaṃga Hṛdayavivṛti",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:45.203779+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:46:04.624973+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/13 GSO BA RIG PA_Medicine (Cikitsā Vidyā)/VOL 3 (KO)",
+            "timestamp": "2024-12-01 11:46:04.624973+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

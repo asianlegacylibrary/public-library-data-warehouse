@@ -1,53 +1,46 @@
 {
     "name": "TD04200_BSTAN PA'I GTAD RABS.txt",
-    "path": "10 SPRING YIG_Epistles (Lekha)/VOL 2 (NGE)",
+    "path": "BSTAN 'GYUR_Tengyur/10 SPRING YIG_Epistles (Lekha)/VOL 2 (NGE)",
     "download_path": "/tengyur updated 10 31 24 ws/10 spring yig_epistles (lekha)/vol 2 (nge)/td04200_bstan pa'i gtad rabs.txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB1xg",
     "revision_id": "62633b3d4c9a58d294473",
     "content_hash": "b5f2a9f107cd3150913868d7c822383b4c1a098fae4ba7b45071467309a75b5f",
     "server_modified": "2024-11-06 00:36:02",
-    "last_sync": "2024-11-20 03:58:12.206422",
+    "last_sync": "2024-12-01 11:43:15.114827+00:00",
     "size": 4598,
-    "meta_text": null,
     "cat_ref": "TD04200",
     "work_ref": "W.TD04200",
     "title_tib": "BSTAN PA'I GTAD RABS",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "161575116623",
             "subject_path": "BSTAN 'GYUR_Tengyur/10 SPRING YIG_Epistles (Lekha)/VOL 2 (NGE)",
-            "subject_path_tibetan": "BSTAN 'GYUR/10 SPRING YIG/VOL 2 (NGE)",
-            "subject_path_english": "Tengyur/Epistles (Lekha)",
-            "subject_tibetan": "VOL 2 (NGE)",
-            "subject_english": "Epistles (Lekha)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SPRING YIG/2 (NGE)",
+            "subject_path_english": "Tengyur/Epistles (Lekha)/VOL 2 (NGE)",
+            "subject_tibetan": "2 (NGE)",
+            "subject_english": "VOL 2 (NGE)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/10 SPRING YIG_Epistles (Lekha)/VOL 2 (NGE)",
-            "timestamp": "2024-11-20 11:58:12.233928+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:58:12.233928+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:43:15.117757+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/10 SPRING YIG_Epistles (Lekha)/VOL 2 (NGE)",
+            "timestamp": "2024-12-01 11:43:15.117757+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

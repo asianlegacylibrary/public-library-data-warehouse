@@ -1,53 +1,47 @@
 {
     "name": "TD03867_STONG NYID BDUN CU PA'I 'GREL PA (Śunyatā Saptati Vṛttiṃ).txt",
-    "path": "04 DBU MA_Middle Way School (Madhyamaka)/VOL 8 (YA)",
+    "path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 8 (YA)",
     "download_path": "/tengyur updated 10 31 24 ws/04 dbu ma_middle way school (madhyamaka)/vol 8 (ya)/td03867_stong nyid bdun cu pa'i 'grel pa (śunyatā saptati vṛttiṃ).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB3Hw",
     "revision_id": "62633bbc31eee8d294473",
     "content_hash": "a575515498119c8c45b88b5408d7128f3b0a373086183a3fca42981eb9f59f9a",
     "server_modified": "2024-11-06 00:38:15",
-    "last_sync": "2024-11-20 03:59:01.037825",
+    "last_sync": "2024-12-01 11:43:57.813029+00:00",
     "size": 262010,
-    "meta_text": null,
     "cat_ref": "TD03867",
     "work_ref": "W.TD03867",
-    "title_tib": "",
+    "title_tib": "STONG NYID BDUN CU PA'I 'GREL PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "166883671942",
             "subject_path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 8 (YA)",
-            "subject_path_tibetan": "BSTAN 'GYUR/04 DBU MA/VOL 8 (YA)",
-            "subject_path_english": "Tengyur/Middle Way School (Madhyamaka)",
-            "subject_tibetan": "VOL 8 (YA)",
-            "subject_english": "Middle Way School (Madhyamaka)"
+            "subject_path_tibetan": "BSTAN 'GYUR/DBU MA/8 (YA)",
+            "subject_path_english": "Tengyur/Middle Way School (Madhyamaka)/VOL 8 (YA)",
+            "subject_tibetan": "8 (YA)",
+            "subject_english": "VOL 8 (YA)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 8 (YA)",
-            "timestamp": "2024-11-20 11:59:01.044597+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Śunyatā Saptati Vṛttiṃ",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:59:01.044597+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:43:57.814353+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 8 (YA)",
+            "timestamp": "2024-12-01 11:43:57.814353+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

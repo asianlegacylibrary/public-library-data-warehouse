@@ -1,53 +1,47 @@
 {
     "name": "TD04050_THEG PA CHEN PO BSDUS PA'I 'GREL PA (Mahāyāna Saṃgraha Bhāṣya).txt",
-    "path": "06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 12 (RI)",
+    "path": "BSTAN 'GYUR_Tengyur/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 12 (RI)",
     "download_path": "/tengyur updated 10 31 24 ws/06 sems tzam_mind only school (cittamātra)/vol 12 (ri)/td04050_theg pa chen po bsdus pa'i 'grel pa (mahāyāna saṃgraha bhāṣya).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACDeg",
     "revision_id": "62633ddeea9b38d294473",
     "content_hash": "1909f0f5692f491f17d139d768f8af8b1f54d80e1107b4e1c217de3ebd4a7410",
     "server_modified": "2024-11-06 00:47:48",
-    "last_sync": "2024-11-20 04:01:06.758213",
+    "last_sync": "2024-12-01 11:45:33.427608+00:00",
     "size": 285425,
-    "meta_text": null,
     "cat_ref": "TD04050",
     "work_ref": "W.TD04050",
-    "title_tib": "",
+    "title_tib": "THEG PA CHEN PO BSDUS PA'I 'GREL PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "239874257540",
             "subject_path": "BSTAN 'GYUR_Tengyur/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 12 (RI)",
-            "subject_path_tibetan": "BSTAN 'GYUR/06 SEMS TZAM/VOL 12 (RI)",
-            "subject_path_english": "Tengyur/Mind Only School (Cittamātra)",
-            "subject_tibetan": "VOL 12 (RI)",
-            "subject_english": "Mind Only School (Cittamātra)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SEMS TZAM/12 (RI)",
+            "subject_path_english": "Tengyur/Mind Only School (Cittamātra)/VOL 12 (RI)",
+            "subject_tibetan": "12 (RI)",
+            "subject_english": "VOL 12 (RI)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 12 (RI)",
-            "timestamp": "2024-11-20 12:01:06.765180+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Mahāyāna Saṃgraha Bhāṣya",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:06.765180+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:45:33.428649+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 12 (RI)",
+            "timestamp": "2024-12-01 11:45:33.428649+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

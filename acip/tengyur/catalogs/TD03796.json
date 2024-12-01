@@ -1,54 +1,46 @@
 {
     "name": "TD03796_SHES RAB KYI PHA ROL TU PHYIN PA'I MAN NGAG GI BSTAN BCOS MNGON PAR RTOGS PA'I RGYAN GYI TSIG LE'UR BYAS PA'I 'GREL BSHAD TSIG RAB TU GSAL BA ZHES BYA BA (Abhisamayālaṃkāra Kārikā Prajñā Paramita Upadeśa Śāstra Ṭīkā Prasputapada +.txt",
-    "path": "03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 8 (NYA)",
+    "path": "BSTAN 'GYUR_Tengyur/03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 8 (NYA)",
     "download_path": "/tengyur updated 10 31 24 ws/03 shes phyin_perfection of wisdom (prajñā pāramitā)/vol 8 (nya)/td03796_shes rab kyi pha rol tu phyin pa'i man ngag gi bstan bcos mngon par rtogs pa'i rgyan gyi tsig le'ur byas pa'i 'grel bshad tsig rab tu gsal ba zhes bya ba (abhisamayālaṃkāra kārikā prajñā paramita upadeśa śāstra ṭīkā prasputapada +.txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACE2A",
     "revision_id": "62633e49167078d294473",
     "content_hash": "d82ff37b0bc33ffdebc65a73887213d495d18eb7c42ce9aaa98f2a6799371fad",
     "server_modified": "2024-11-06 00:49:40",
-    "last_sync": "2024-11-20 04:01:38.147308",
+    "last_sync": "2024-12-01 11:45:59.242190+00:00",
     "size": 415249,
-    "meta_text": "('(Nāma))', 'text')",
     "cat_ref": "TD03796",
     "work_ref": "W.TD03796",
-    "title_tib": "",
+    "title_tib": "SHES RAB KYI PHA ROL TU PHYIN PA'I MAN NGAG GI BSTAN BCOS MNGON PAR RTOGS PA'I RGYAN GYI TSIG LE'UR BYAS PA'I 'GREL BSHAD TSIG RAB TU GSAL BA ZHES BYA BA (Abhisamayālaṃkāra Kārikā Prajñā Paramita Upadeśa Śāstra Ṭīkā Prasputapada +",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "303072235733",
             "subject_path": "BSTAN 'GYUR_Tengyur/03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 8 (NYA)",
-            "subject_path_tibetan": "BSTAN 'GYUR/03 SHES PHYIN/VOL 8 (NYA)",
-            "subject_path_english": "Tengyur/Perfection of Wisdom (Prajñā Pāramitā)",
-            "subject_tibetan": "VOL 8 (NYA)",
-            "subject_english": "Perfection of Wisdom (Prajñā Pāramitā)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SHES PHYIN/8 (NYA)",
+            "subject_path_english": "Tengyur/Perfection of Wisdom (Prajñā Pāramitā)/VOL 8 (NYA)",
+            "subject_tibetan": "8 (NYA)",
+            "subject_english": "VOL 8 (NYA)"
         }
     ],
     "items": [],
-    "null": "('(Nāma))', 'text')",
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 8 (NYA)",
-            "timestamp": "2024-11-20 12:01:38.154344+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:38.154344+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:45:59.243161+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 8 (NYA)",
+            "timestamp": "2024-12-01 11:45:59.243161+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

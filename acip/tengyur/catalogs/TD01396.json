@@ -1,53 +1,47 @@
 {
     "name": "TD01396_'PHAGS PA 'JAM DPAL GYI MTSAN YANG DAG PAR BRJOD PA'I 'GREL PA BDUD RTZI'I THIGS PA SGRON MA GSAL BA ZHES BYA BA (Ārya Mañjuśrī Nāma Saṃgīti Vṛtti Amṛta Bindu Pradīpā Loka (Nāma)).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/02 DUS KYI 'KHOR LO_Wheel of Time (Kālacakra)/02 RDZOGS RIM_Completion Stage (Saṃpanna Krama)/VOL 14 (PHA)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/02 DUS KYI 'KHOR LO_Wheel of Time (Kālacakra)/02 RDZOGS RIM_Completion Stage (Saṃpanna Krama)/VOL 14 (PHA)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/01 rnal 'byor bla med_unsurpassed practice (anuttara yoga)/02 dus kyi 'khor lo_wheel of time (kālacakra)/02 rdzogs rim_completion stage (saṃpanna krama)/vol 14 (pha)/td01396_'phags pa 'jam dpal gyi mtsan yang dag par brjod pa'i 'grel pa bdud rtzi'i thigs pa sgron ma gsal ba zhes bya ba (ārya mañjuśrī nāma saṃgīti vṛtti amṛta bindu pradīpā loka (nāma)).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB8lA",
     "revision_id": "62633cb4808238d294473",
     "content_hash": "25bfb538d58f96003c0d59543e0e23cbc1c635d698e94ab7005d86852e94168e",
     "server_modified": "2024-11-06 00:42:35",
-    "last_sync": "2024-11-20 04:00:12.096982",
+    "last_sync": "2024-12-01 11:44:51.247012+00:00",
     "size": 103886,
-    "meta_text": null,
     "cat_ref": "TD01396",
     "work_ref": "W.TD01396",
-    "title_tib": "",
+    "title_tib": "'PHAGS PA 'JAM DPAL GYI MTSAN YANG DAG PAR BRJOD PA'I 'GREL PA BDUD RTZI'I THIGS PA SGRON MA GSAL BA ZHES BYA BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "320021381232",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/02 DUS KYI 'KHOR LO_Wheel of Time (Kālacakra)/02 RDZOGS RIM_Completion Stage (Saṃpanna Krama)/VOL 14 (PHA)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/01 RNAL 'BYOR BLA MED/02 DUS KYI 'KHOR LO/02 RDZOGS RIM/VOL 14 (PHA)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Wheel of Time (Kālacakra)/Completion Stage (Saṃpanna Krama)",
-            "subject_tibetan": "VOL 14 (PHA)",
-            "subject_english": "Completion Stage (Saṃpanna Krama)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/RNAL 'BYOR BLA MED/DUS KYI 'KHOR LO/RDZOGS RIM/14 (PHA)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Wheel of Time (Kālacakra)/Completion Stage (Saṃpanna Krama)/VOL 14 (PHA)",
+            "subject_tibetan": "14 (PHA)",
+            "subject_english": "VOL 14 (PHA)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/02 DUS KYI 'KHOR LO_Wheel of Time (Kālacakra)/02 RDZOGS RIM_Completion Stage (Saṃpanna Krama)/VOL 14 (PHA)",
-            "timestamp": "2024-11-20 12:00:12.130693+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Ārya Mañjuśrī Nāma Saṃgīti Vṛtti Amṛta Bindu Pradīpā Loka (Nāma)",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:12.130693+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:44:51.248669+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/02 DUS KYI 'KHOR LO_Wheel of Time (Kālacakra)/02 RDZOGS RIM_Completion Stage (Saṃpanna Krama)/VOL 14 (PHA)",
+            "timestamp": "2024-12-01 11:44:51.248669+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

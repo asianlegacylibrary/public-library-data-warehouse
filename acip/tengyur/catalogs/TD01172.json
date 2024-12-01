@@ -1,53 +1,47 @@
 {
     "name": "TD01172_BLA MA DAM PA CHOS KYI RGYAL PO LA BSTOD PA ZHES BYA BA (Paramaguru Dharma Rāja Stotra (Nāma)).txt",
-    "path": "01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
+    "path": "BSTAN 'GYUR_Tengyur/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
     "download_path": "/tengyur updated 10 31 24 ws/01 bstod tsogs_songs of praise (stotra)/vol 1 (ka)/td01172_bla ma dam pa chos kyi rgyal po la bstod pa zhes bya ba (paramaguru dharma rāja stotra (nāma)).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB30Q",
     "revision_id": "62633bd7e24c38d294473",
     "content_hash": "814dea6fb0b1ccf6b84f1c890b5a808fece91bbe51d9d41bdafab6a0e33d9b6e",
     "server_modified": "2024-11-06 00:38:44",
-    "last_sync": "2024-11-20 03:59:09.212536",
+    "last_sync": "2024-12-01 11:44:04.152801+00:00",
     "size": 1872,
-    "meta_text": null,
     "cat_ref": "TD01172",
     "work_ref": "W.TD01172",
-    "title_tib": "",
+    "title_tib": "BLA MA DAM PA CHOS KYI RGYAL PO LA BSTOD PA ZHES BYA BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "243715146395",
             "subject_path": "BSTAN 'GYUR_Tengyur/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
-            "subject_path_tibetan": "BSTAN 'GYUR/01 BSTOD TSOGS/VOL 1 (KA)",
-            "subject_path_english": "Tengyur/Songs of Praise (Stotra)",
-            "subject_tibetan": "VOL 1 (KA)",
-            "subject_english": "Songs of Praise (Stotra)"
+            "subject_path_tibetan": "BSTAN 'GYUR/BSTOD TSOGS/1 (KA)",
+            "subject_path_english": "Tengyur/Songs of Praise (Stotra)/VOL 1 (KA)",
+            "subject_tibetan": "1 (KA)",
+            "subject_english": "VOL 1 (KA)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
-            "timestamp": "2024-11-20 11:59:09.232416+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Paramaguru Dharma Rāja Stotra (Nāma)",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:59:09.232416+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:44:04.155908+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
+            "timestamp": "2024-12-01 11:44:04.155908+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

@@ -1,53 +1,47 @@
 {
     "name": "TD01294_DGYES PA RDO RJE'I LAG TU BLANG BA'I RIM PA ZHES BYA BA (Hevajra Hastavyavagrāha Krama (Nāma)).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/01 KYE RDO RJE_Lo Diamond (Hevajra)/01 YAB SKOR_Father Texts (Pitṛ)/VOL 9 (TA)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/01 KYE RDO RJE_Lo Diamond (Hevajra)/01 YAB SKOR_Father Texts (Pitṛ)/VOL 9 (TA)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/01 rnal 'byor bla med_unsurpassed practice (anuttara yoga)/01 kye rdo rje_lo diamond (hevajra)/01 yab skor_father texts (pitṛ)/vol 9 (ta)/td01294_dgyes pa rdo rje'i lag tu blang ba'i rim pa zhes bya ba (hevajra hastavyavagrāha krama (nāma)).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB9eg",
     "revision_id": "62633ce044bf98d294473",
     "content_hash": "a81602025478baa6c174cc56af1ecddaf3ba978d21e654a0114d0fc587e18b08",
     "server_modified": "2024-11-06 00:43:21",
-    "last_sync": "2024-11-20 04:00:26.388002",
+    "last_sync": "2024-12-01 11:45:01.208703+00:00",
     "size": 75119,
-    "meta_text": null,
     "cat_ref": "TD01294",
     "work_ref": "W.TD01294",
-    "title_tib": "",
+    "title_tib": "DGYES PA RDO RJE'I LAG TU BLANG BA'I RIM PA ZHES BYA BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "264957622235",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/01 KYE RDO RJE_Lo Diamond (Hevajra)/01 YAB SKOR_Father Texts (Pitṛ)/VOL 9 (TA)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/01 RNAL 'BYOR BLA MED/01 KYE RDO RJE/01 YAB SKOR/VOL 9 (TA)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Lo Diamond (Hevajra)/Father Texts (Pitṛ)",
-            "subject_tibetan": "VOL 9 (TA)",
-            "subject_english": "Father Texts (Pitṛ)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/RNAL 'BYOR BLA MED/KYE RDO RJE/YAB SKOR/9 (TA)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Lo Diamond (Hevajra)/Father Texts (Pitṛ)/VOL 9 (TA)",
+            "subject_tibetan": "9 (TA)",
+            "subject_english": "VOL 9 (TA)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/01 KYE RDO RJE_Lo Diamond (Hevajra)/01 YAB SKOR_Father Texts (Pitṛ)/VOL 9 (TA)",
-            "timestamp": "2024-11-20 12:00:26.393409+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Hevajra Hastavyavagrāha Krama (Nāma)",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:26.393409+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:45:01.211529+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/01 KYE RDO RJE_Lo Diamond (Hevajra)/01 YAB SKOR_Father Texts (Pitṛ)/VOL 9 (TA)",
+            "timestamp": "2024-12-01 11:45:01.211529+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

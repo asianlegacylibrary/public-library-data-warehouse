@@ -1,53 +1,47 @@
 {
     "name": "TD02527_KUN TU BZANG PO ZHES BYA BA'I SBYIN SREG GI CHO GA (Samantabhadra Nāma Homa Vidhi).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/02 RNAL 'BYOR RGYUD_Secret Class of Practice (Yoga Tantra)/02 DPAL MCHOG DANG PO_The Glorious First of the Best (Śrīparamādya)/02 SGRUB PA'I SKOR_Related Practices (Sādhya)/VOL 61 (KU)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/02 RNAL 'BYOR RGYUD_Secret Class of Practice (Yoga Tantra)/02 DPAL MCHOG DANG PO_The Glorious First of the Best (Śrīparamādya)/02 SGRUB PA'I SKOR_Related Practices (Sādhya)/VOL 61 (KU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/02 rnal 'byor rgyud_secret class of practice (yoga tantra)/02 dpal mchog dang po_the glorious first of the best (śrīparamādya)/02 sgrub pa'i skor_related practices (sādhya)/vol 61 (ku)/td02527_kun tu bzang po zhes bya ba'i sbyin sreg gi cho ga (samantabhadra nāma homa vidhi).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB4Lw",
     "revision_id": "62633becc45a58d294473",
     "content_hash": "28411adefe3e5c0384af0011e325b381ee8a54d2fbc29864644ec2d406abfd59",
     "server_modified": "2024-11-06 00:39:06",
-    "last_sync": "2024-11-20 03:59:19.795354",
+    "last_sync": "2024-12-01 11:44:10.040256+00:00",
     "size": 29036,
-    "meta_text": null,
     "cat_ref": "TD02527",
     "work_ref": "W.TD02527",
-    "title_tib": "",
+    "title_tib": "KUN TU BZANG PO ZHES BYA BA'I SBYIN SREG GI CHO GA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "197815704640",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/02 RNAL 'BYOR RGYUD_Secret Class of Practice (Yoga Tantra)/02 DPAL MCHOG DANG PO_The Glorious First of the Best (Śrīparamādya)/02 SGRUB PA'I SKOR_Related Practices (Sādhya)/VOL 61 (KU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/02 RNAL 'BYOR RGYUD/02 DPAL MCHOG DANG PO/02 SGRUB PA'I SKOR/VOL 61 (KU)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Secret Class of Practice (Yoga Tantra)/The Glorious First of the Best (Śrīparamādya)/Related Practices (Sādhya)",
-            "subject_tibetan": "VOL 61 (KU)",
-            "subject_english": "Related Practices (Sādhya)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/RNAL 'BYOR RGYUD/DPAL MCHOG DANG PO/SGRUB PA'I SKOR/61 (KU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Secret Class of Practice (Yoga Tantra)/The Glorious First of the Best (Śrīparamādya)/Related Practices (Sādhya)/VOL 61 (KU)",
+            "subject_tibetan": "61 (KU)",
+            "subject_english": "VOL 61 (KU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/02 RNAL 'BYOR RGYUD_Secret Class of Practice (Yoga Tantra)/02 DPAL MCHOG DANG PO_The Glorious First of the Best (Śrīparamādya)/02 SGRUB PA'I SKOR_Related Practices (Sādhya)/VOL 61 (KU)",
-            "timestamp": "2024-11-20 11:59:19.799971+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Samantabhadra Nāma Homa Vidhi",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:59:19.799971+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:44:10.042114+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/02 RNAL 'BYOR RGYUD_Secret Class of Practice (Yoga Tantra)/02 DPAL MCHOG DANG PO_The Glorious First of the Best (Śrīparamādya)/02 SGRUB PA'I SKOR_Related Practices (Sādhya)/VOL 61 (KU)",
+            "timestamp": "2024-12-01 11:44:10.042114+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

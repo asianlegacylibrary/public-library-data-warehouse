@@ -1,53 +1,47 @@
 {
     "name": "TD04285_BYINGS KYI TSOGS (Dhātu Kāya).txt",
-    "path": "12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 2 (LE)",
+    "path": "BSTAN 'GYUR_Tengyur/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 2 (LE)",
     "download_path": "/tengyur updated 10 31 24 ws/12 sgra mdo_study of sanskrit language (śabda)/vol 2 (le)/td04285_byings kyi tsogs (dhātu kāya).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACD7Q",
     "revision_id": "62633e034d8778d294473",
     "content_hash": "56edc3068aefbd98d49823c345e0f73f7f56922ab3c574da5d3c7347a875a70d",
     "server_modified": "2024-11-06 00:48:27",
-    "last_sync": "2024-11-20 04:01:18.793871",
+    "last_sync": "2024-12-01 11:45:45.473748+00:00",
     "size": 49797,
-    "meta_text": null,
     "cat_ref": "TD04285",
     "work_ref": "W.TD04285",
-    "title_tib": "",
+    "title_tib": "BYINGS KYI TSOGS",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "325968936698",
             "subject_path": "BSTAN 'GYUR_Tengyur/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 2 (LE)",
-            "subject_path_tibetan": "BSTAN 'GYUR/12 SGRA MDO/VOL 2 (LE)",
-            "subject_path_english": "Tengyur/Study of Sanskrit Language (Śabda)",
-            "subject_tibetan": "VOL 2 (LE)",
-            "subject_english": "Study of Sanskrit Language (Śabda)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SGRA MDO/2 (LE)",
+            "subject_path_english": "Tengyur/Study of Sanskrit Language (Śabda)/VOL 2 (LE)",
+            "subject_tibetan": "2 (LE)",
+            "subject_english": "VOL 2 (LE)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 2 (LE)",
-            "timestamp": "2024-11-20 12:01:18.799600+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Dhātu Kāya",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:18.799600+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:45:45.475268+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 2 (LE)",
+            "timestamp": "2024-12-01 11:45:45.475268+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

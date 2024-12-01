@@ -1,53 +1,47 @@
 {
     "name": "TD04399_CHOS KYI SBYIN PA'I BSNGO BA (Dharmadāna Pariṇamanā).txt",
-    "path": "16 SNA TSOGS_Miscellany (Citritā)/VOL 4 (NYO)",
+    "path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 4 (NYO)",
     "download_path": "/tengyur updated 10 31 24 ws/16 sna tsogs_miscellany (citritā)/vol 4 (nyo)/td04399_chos kyi sbyin pa'i bsngo ba (dharmadāna pariṇamanā).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACEaA",
     "revision_id": "62633e1a26b4c8d294473",
     "content_hash": "8fa4ebeaf16b64bfdfe7494dca7525f26edea2331404049069869135f53f0fe9",
     "server_modified": "2024-11-06 00:48:50",
-    "last_sync": "2024-11-20 04:01:22.237767",
+    "last_sync": "2024-12-01 11:45:47.965246+00:00",
     "size": 11031,
-    "meta_text": null,
     "cat_ref": "TD04399",
     "work_ref": "W.TD04399",
-    "title_tib": "",
+    "title_tib": "CHOS KYI SBYIN PA'I BSNGO BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "279475421118",
             "subject_path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 4 (NYO)",
-            "subject_path_tibetan": "BSTAN 'GYUR/16 SNA TSOGS/VOL 4 (NYO)",
-            "subject_path_english": "Tengyur/Miscellany (Citritā)",
-            "subject_tibetan": "VOL 4 (NYO)",
-            "subject_english": "Miscellany (Citritā)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SNA TSOGS/4 (NYO)",
+            "subject_path_english": "Tengyur/Miscellany (Citritā)/VOL 4 (NYO)",
+            "subject_tibetan": "4 (NYO)",
+            "subject_english": "VOL 4 (NYO)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 4 (NYO)",
-            "timestamp": "2024-11-20 12:01:22.242072+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Dharmadāna Pariṇamanā",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:22.242072+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:45:47.971670+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 4 (NYO)",
+            "timestamp": "2024-12-01 11:45:47.971670+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

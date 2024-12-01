@@ -1,53 +1,47 @@
 {
     "name": "TD04307_SMAN 'TSO BA'I MDO (Jīva Sūtra).txt",
-    "path": "13 GSO BA RIG PA_Medicine (Cikitsā Vidyā)/VOL 1 (HE)",
+    "path": "BSTAN 'GYUR_Tengyur/13 GSO BA RIG PA_Medicine (Cikitsā Vidyā)/VOL 1 (HE)",
     "download_path": "/tengyur updated 10 31 24 ws/13 gso ba rig pa_medicine (cikitsā vidyā)/vol 1 (he)/td04307_sman 'tso ba'i mdo (jīva sūtra).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACE2w",
     "revision_id": "62633e4bcba538d294473",
     "content_hash": "684e5627b36ce71782f1cfa0d7477acd8de97b6c9cf27ebfa6b21c55779d110f",
     "server_modified": "2024-11-06 00:49:43",
-    "last_sync": "2024-11-20 04:01:42.496451",
+    "last_sync": "2024-12-01 11:46:02.249109+00:00",
     "size": 13064,
-    "meta_text": null,
     "cat_ref": "TD04307",
     "work_ref": "W.TD04307",
-    "title_tib": "",
+    "title_tib": "SMAN 'TSO BA'I MDO",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "360986381564",
             "subject_path": "BSTAN 'GYUR_Tengyur/13 GSO BA RIG PA_Medicine (Cikitsā Vidyā)/VOL 1 (HE)",
-            "subject_path_tibetan": "BSTAN 'GYUR/13 GSO BA RIG PA/VOL 1 (HE)",
-            "subject_path_english": "Tengyur/Medicine (Cikitsā Vidyā)",
-            "subject_tibetan": "VOL 1 (HE)",
-            "subject_english": "Medicine (Cikitsā Vidyā)"
+            "subject_path_tibetan": "BSTAN 'GYUR/GSO BA RIG PA/1 (HE)",
+            "subject_path_english": "Tengyur/Medicine (Cikitsā Vidyā)/VOL 1 (HE)",
+            "subject_tibetan": "1 (HE)",
+            "subject_english": "VOL 1 (HE)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/13 GSO BA RIG PA_Medicine (Cikitsā Vidyā)/VOL 1 (HE)",
-            "timestamp": "2024-11-20 12:01:42.513241+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Jīva Sūtra",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:42.513241+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:46:02.250311+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/13 GSO BA RIG PA_Medicine (Cikitsā Vidyā)/VOL 1 (HE)",
+            "timestamp": "2024-12-01 11:46:02.250311+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

@@ -1,53 +1,47 @@
 {
     "name": "TD03782_DE BZHIN GSHEGS PA LNGA'I BKRA SHIS TSIGS SU BCAD PA (Pañca Tathāgata Maṅgala Gāthā).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/VOL 78 (TSU)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 78 (TSU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/vol 78 (tsu)/td03782_de bzhin gshegs pa lnga'i bkra shis tsigs su bcad pa (pañca tathāgata maṅgala gāthā).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB47g",
     "revision_id": "62633c0f5ed6c8d294473",
     "content_hash": "76fdc530eda8d542174035810d904a3a78a701a45cc5ee9602149ee9b25c1c42",
     "server_modified": "2024-11-06 00:39:42",
-    "last_sync": "2024-11-20 03:59:31.736651",
+    "last_sync": "2024-12-01 11:44:18.880231+00:00",
     "size": 1359,
-    "meta_text": null,
     "cat_ref": "TD03782",
     "work_ref": "W.TD03782",
-    "title_tib": "",
+    "title_tib": "DE BZHIN GSHEGS PA LNGA'I BKRA SHIS TSIGS SU BCAD PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "869790939477",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 78 (TSU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/VOL 78 (TSU)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)",
-            "subject_tibetan": "VOL 78 (TSU)",
-            "subject_english": "Diamond Way (Vajrayāna)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/78 (TSU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/VOL 78 (TSU)",
+            "subject_tibetan": "78 (TSU)",
+            "subject_english": "VOL 78 (TSU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 78 (TSU)",
-            "timestamp": "2024-11-20 11:59:31.751360+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Pañca Tathāgata Maṅgala Gāthā",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:59:31.751360+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:44:18.885834+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 78 (TSU)",
+            "timestamp": "2024-12-01 11:44:18.885834+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

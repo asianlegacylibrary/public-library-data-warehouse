@@ -1,53 +1,47 @@
 {
     "name": "TD03472_SHES RAB 'PHEL BA'I CHO GA (Prajñā Vardhana Vidhi).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/vol 76 (mu)/td03472_shes rab 'phel ba'i cho ga (prajñā vardhana vidhi).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACABA",
     "revision_id": "62633d512cf6f8d294473",
     "content_hash": "85c2fe4b72e61a4f95a2f00a3b13e9e29005931680a5f361e5be60d6f53f4759",
     "server_modified": "2024-11-06 00:45:20",
-    "last_sync": "2024-11-20 04:00:45.121992",
+    "last_sync": "2024-12-01 11:45:16.679742+00:00",
     "size": 1201,
-    "meta_text": null,
     "cat_ref": "TD03472",
     "work_ref": "W.TD03472",
-    "title_tib": "",
+    "title_tib": "SHES RAB 'PHEL BA'I CHO GA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "121782366104",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/VOL 76 (MU)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)",
-            "subject_tibetan": "VOL 76 (MU)",
-            "subject_english": "Diamond Way (Vajrayāna)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/76 (MU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/VOL 76 (MU)",
+            "subject_tibetan": "76 (MU)",
+            "subject_english": "VOL 76 (MU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
-            "timestamp": "2024-11-20 12:00:45.254701+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Prajñā Vardhana Vidhi",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:45.254701+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:45:16.691974+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
+            "timestamp": "2024-12-01 11:45:16.691974+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

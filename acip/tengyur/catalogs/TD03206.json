@@ -1,53 +1,47 @@
 {
     "name": "TD03206_SGROL MA DUG SEL BA'I SGRUB THABS (Jāṃgulī Tārā Sādhana).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/VOL 74 (PHU)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 74 (PHU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/vol 74 (phu)/td03206_sgrol ma dug sel ba'i sgrub thabs (jāṃgulī tārā sādhana).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACDXQ",
     "revision_id": "62633dd7959458d294473",
     "content_hash": "e0024db3c223877df7ab546de47011b10c2f719bcd89efef8f72ec5be0994101",
     "server_modified": "2024-11-06 00:47:41",
-    "last_sync": "2024-11-20 04:01:05.013061",
+    "last_sync": "2024-12-01 11:45:32.198788+00:00",
     "size": 2154,
-    "meta_text": null,
     "cat_ref": "TD03206",
     "work_ref": "W.TD03206",
-    "title_tib": "",
+    "title_tib": "SGROL MA DUG SEL BA'I SGRUB THABS",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "235929610804",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 74 (PHU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/VOL 74 (PHU)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)",
-            "subject_tibetan": "VOL 74 (PHU)",
-            "subject_english": "Diamond Way (Vajrayāna)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/74 (PHU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/VOL 74 (PHU)",
+            "subject_tibetan": "74 (PHU)",
+            "subject_english": "VOL 74 (PHU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 74 (PHU)",
-            "timestamp": "2024-11-20 12:01:05.034809+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Jāṃgulī Tārā Sādhana",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:05.034809+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:45:32.202368+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 74 (PHU)",
+            "timestamp": "2024-12-01 11:45:32.202368+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

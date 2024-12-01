@@ -1,53 +1,47 @@
 {
     "name": "TD01844_DPAL GSANG BA 'DUS BA'I RGYUD KYI MAN NGAG GI RGYA MTSO THIGS PA (Śrī Guhaya Samāja Tantra Sāgara Nayopadeśa*).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/10 GSANG BA ‘DUS PA_Secret Collection (Guhya Samāja)/02 YE SHES ZHABS LUGS_System of Master Jnana Pada (Jñāna Pāda Krama)/01 RGYUD 'GREL_Commentaries to the Original Tantra (Tantra Vṛtti)/VOL 37 (JI)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/10 GSANG BA ‘DUS PA_Secret Collection (Guhya Samāja)/02 YE SHES ZHABS LUGS_System of Master Jnana Pada (Jñāna Pāda Krama)/01 RGYUD 'GREL_Commentaries to the Original Tantra (Tantra Vṛtti)/VOL 37 (JI)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/01 rnal 'byor bla med_unsurpassed practice (anuttara yoga)/10 gsang ba ‘dus pa_secret collection (guhya samāja)/02 ye shes zhabs lugs_system of master jnana pada (jñāna pāda krama)/01 rgyud 'grel_commentaries to the original tantra (tantra vṛtti)/vol 37 (ji)/td01844_dpal gsang ba 'dus ba'i rgyud kyi man ngag gi rgya mtso thigs pa (śrī guhaya samāja tantra sāgara nayopadeśa*).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB6LA",
     "revision_id": "62633c3ed86ef8d294473",
     "content_hash": "e661c9a8c5a210a7e5f56651eb67770e2f0790f7f7bc842f3e9546e702b81ddd",
     "server_modified": "2024-11-06 00:40:32",
-    "last_sync": "2024-11-20 03:59:38.024197",
+    "last_sync": "2024-12-01 11:44:24.068497+00:00",
     "size": 421000,
-    "meta_text": null,
     "cat_ref": "TD01844",
     "work_ref": "W.TD01844",
-    "title_tib": "",
+    "title_tib": "DPAL GSANG BA 'DUS BA'I RGYUD KYI MAN NGAG GI RGYA MTSO THIGS PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "152056655839",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/10 GSANG BA ‘DUS PA_Secret Collection (Guhya Samāja)/02 YE SHES ZHABS LUGS_System of Master Jnana Pada (Jñāna Pāda Krama)/01 RGYUD 'GREL_Commentaries to the Original Tantra (Tantra Vṛtti)/VOL 37 (JI)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/01 RNAL 'BYOR BLA MED/10 GSANG BA ‘DUS PA/02 YE SHES ZHABS LUGS/01 RGYUD 'GREL/VOL 37 (JI)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Secret Collection (Guhya Samāja)/System of Master Jnana Pada (Jñāna Pāda Krama)/Commentaries to the Original Tantra (Tantra Vṛtti)",
-            "subject_tibetan": "VOL 37 (JI)",
-            "subject_english": "Commentaries to the Original Tantra (Tantra Vṛtti)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/RNAL 'BYOR BLA MED/GSANG BA ‘DUS PA/YE SHES ZHABS LUGS/RGYUD 'GREL/37 (JI)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Secret Collection (Guhya Samāja)/System of Master Jnana Pada (Jñāna Pāda Krama)/Commentaries to the Original Tantra (Tantra Vṛtti)/VOL 37 (JI)",
+            "subject_tibetan": "37 (JI)",
+            "subject_english": "VOL 37 (JI)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/10 GSANG BA ‘DUS PA_Secret Collection (Guhya Samāja)/02 YE SHES ZHABS LUGS_System of Master Jnana Pada (Jñāna Pāda Krama)/01 RGYUD 'GREL_Commentaries to the Original Tantra (Tantra Vṛtti)/VOL 37 (JI)",
-            "timestamp": "2024-11-20 11:59:38.027465+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Śrī Guhaya Samāja Tantra Sāgara Nayopadeśa*",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:59:38.027465+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:44:24.069490+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/10 GSANG BA ‘DUS PA_Secret Collection (Guhya Samāja)/02 YE SHES ZHABS LUGS_System of Master Jnana Pada (Jñāna Pāda Krama)/01 RGYUD 'GREL_Commentaries to the Original Tantra (Tantra Vṛtti)/VOL 37 (JI)",
+            "timestamp": "2024-12-01 11:44:24.069490+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

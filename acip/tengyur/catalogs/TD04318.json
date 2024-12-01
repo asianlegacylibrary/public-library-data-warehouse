@@ -1,53 +1,47 @@
 {
     "name": "TD04318_THAMS CAD KYI DBANG PHYUG GI BCUD LEN NAD THAMS CAD 'JOMS SHING LUS KYI STOBS RGYAS PAR BYED PA ZHES BYA BA (Sarveśvararasāyana Sarvarogaharaśarīra Puṣṭikara (Nāma)).txt",
-    "path": "14 BZO RIG PA_Fine Arts (Śilpa Vidyā)/VOL 1 (NGO-1)",
+    "path": "BSTAN 'GYUR_Tengyur/14 BZO RIG PA_Fine Arts (Śilpa Vidyā)/VOL 1 (NGO-1)",
     "download_path": "/tengyur updated 10 31 24 ws/14 bzo rig pa_fine arts (śilpa vidyā)/vol 1 (ngo-1)/td04318_thams cad kyi dbang phyug gi bcud len nad thams cad 'joms shing lus kyi stobs rgyas par byed pa zhes bya ba (sarveśvararasāyana sarvarogaharaśarīra puṣṭikara (nāma)).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACECg",
     "revision_id": "62633e0920c838d294473",
     "content_hash": "7e5f9f6e230d78bd161349156170fb27c0e8692d1e51ccb81840f78d9fd8ffe4",
     "server_modified": "2024-11-06 00:48:33",
-    "last_sync": "2024-11-20 04:01:20.152580",
+    "last_sync": "2024-12-01 11:45:46.608240+00:00",
     "size": 2848,
-    "meta_text": null,
     "cat_ref": "TD04318",
     "work_ref": "W.TD04318",
-    "title_tib": "",
+    "title_tib": "THAMS CAD KYI DBANG PHYUG GI BCUD LEN NAD THAMS CAD 'JOMS SHING LUS KYI STOBS RGYAS PAR BYED PA ZHES BYA BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "226526997541",
             "subject_path": "BSTAN 'GYUR_Tengyur/14 BZO RIG PA_Fine Arts (Śilpa Vidyā)/VOL 1 (NGO-1)",
-            "subject_path_tibetan": "BSTAN 'GYUR/14 BZO RIG PA/VOL 1 (NGO-1)",
-            "subject_path_english": "Tengyur/Fine Arts (Śilpa Vidyā)",
-            "subject_tibetan": "VOL 1 (NGO-1)",
-            "subject_english": "Fine Arts (Śilpa Vidyā)"
+            "subject_path_tibetan": "BSTAN 'GYUR/BZO RIG PA/1 (NGO-1)",
+            "subject_path_english": "Tengyur/Fine Arts (Śilpa Vidyā)/VOL 1 (NGO-1)",
+            "subject_tibetan": "1 (NGO-1)",
+            "subject_english": "VOL 1 (NGO-1)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/14 BZO RIG PA_Fine Arts (Śilpa Vidyā)/VOL 1 (NGO-1)",
-            "timestamp": "2024-11-20 12:01:20.162347+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Sarveśvararasāyana Sarvarogaharaśarīra Puṣṭikara (Nāma)",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:20.162347+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:45:46.610412+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/14 BZO RIG PA_Fine Arts (Śilpa Vidyā)/VOL 1 (NGO-1)",
+            "timestamp": "2024-12-01 11:45:46.610412+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

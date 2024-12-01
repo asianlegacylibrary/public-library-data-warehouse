@@ -1,53 +1,47 @@
 {
     "name": "TD04346_BRE {%BYE} BRAG TU RTOGS PAR BYED PA (Vyutpatti).txt",
-    "path": "16 SNA TSOGS_Miscellany (Citritā)/VOL 1 (CO)",
+    "path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 1 (CO)",
     "download_path": "/tengyur updated 10 31 24 ws/16 sna tsogs_miscellany (citritā)/vol 1 (co)/td04346_bre {%bye} brag tu rtogs par byed pa (vyutpatti).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACEkQ",
     "revision_id": "62633e276d2bd8d294473",
     "content_hash": "422fa9a4326fb03da1a347d607ed8e22d3d1c0700b486423d1ff2e647f5939cb",
     "server_modified": "2024-11-06 00:49:04",
-    "last_sync": "2024-11-20 04:01:25.238607",
+    "last_sync": "2024-12-01 11:45:50.542895+00:00",
     "size": 423914,
-    "meta_text": null,
     "cat_ref": "TD04346",
     "work_ref": "W.TD04346",
-    "title_tib": "",
+    "title_tib": "BRE {%BYE} BRAG TU RTOGS PAR BYED PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "198634923948",
             "subject_path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 1 (CO)",
-            "subject_path_tibetan": "BSTAN 'GYUR/16 SNA TSOGS/VOL 1 (CO)",
-            "subject_path_english": "Tengyur/Miscellany (Citritā)",
-            "subject_tibetan": "VOL 1 (CO)",
-            "subject_english": "Miscellany (Citritā)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SNA TSOGS/1 (CO)",
+            "subject_path_english": "Tengyur/Miscellany (Citritā)/VOL 1 (CO)",
+            "subject_tibetan": "1 (CO)",
+            "subject_english": "VOL 1 (CO)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 1 (CO)",
-            "timestamp": "2024-11-20 12:01:25.257105+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Vyutpatti",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:25.257105+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:45:50.544765+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 1 (CO)",
+            "timestamp": "2024-12-01 11:45:50.544765+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

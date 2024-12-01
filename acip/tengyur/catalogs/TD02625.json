@@ -1,53 +1,47 @@
 {
     "name": "TD02625_'PHAGS PA NGAN SONG THAMS CAD YONGS SU SBYONG BA GZI BRJID KYI RGYAL PO ZHES BYA BA CHO GA ZHIB MO'I RGYAL PO CHEN PO'I RGYA CHER 'GREL PA (Ārya Sarva Durgati Pariśodhana Tejorāja Nāma Kalpa Rāja Ṭīkā).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/02 RNAL 'BYOR RGYUD_Secret Class of Practice (Yoga Tantra)/04 THAMS CAD GSANG BA DANG NGAN SONG SBYONG PA_Total Secret & Cleaning Out the Lower Realms (Sarvarahasya & Durgati Śodhana)/02 'PHROS PA_Derivative (Uttarika)/VOL 65 (CU)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/02 RNAL 'BYOR RGYUD_Secret Class of Practice (Yoga Tantra)/04 THAMS CAD GSANG BA DANG NGAN SONG SBYONG PA_Total Secret & Cleaning Out the Lower Realms (Sarvarahasya & Durgati Śodhana)/02 'PHROS PA_Derivative (Uttarika)/VOL 65 (CU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/02 rnal 'byor rgyud_secret class of practice (yoga tantra)/04 thams cad gsang ba dang ngan song sbyong pa_total secret & cleaning out the lower realms (sarvarahasya & durgati śodhana)/02 'phros pa_derivative (uttarika)/vol 65 (cu)/td02625_'phags pa ngan song thams cad yongs su sbyong ba gzi brjid kyi rgyal po zhes bya ba cho ga zhib mo'i rgyal po chen po'i rgya cher 'grel pa (ārya sarva durgati pariśodhana tejorāja nāma kalpa rāja ṭīkā).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB36g",
     "revision_id": "62633bdd9acbc8d294473",
     "content_hash": "d14a1aefa9513a14e4d382f54fb2e616aa01422ff6b57d54f94e27aa89a0a373",
     "server_modified": "2024-11-06 00:38:50",
-    "last_sync": "2024-11-20 03:59:12.198717",
+    "last_sync": "2024-12-01 11:44:06.097773+00:00",
     "size": 427628,
-    "meta_text": null,
     "cat_ref": "TD02625",
     "work_ref": "W.TD02625",
-    "title_tib": "",
+    "title_tib": "'PHAGS PA NGAN SONG THAMS CAD YONGS SU SBYONG BA GZI BRJID KYI RGYAL PO ZHES BYA BA CHO GA ZHIB MO'I RGYAL PO CHEN PO'I RGYA CHER 'GREL PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "182766867913",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/02 RNAL 'BYOR RGYUD_Secret Class of Practice (Yoga Tantra)/04 THAMS CAD GSANG BA DANG NGAN SONG SBYONG PA_Total Secret & Cleaning Out the Lower Realms (Sarvarahasya & Durgati Śodhana)/02 'PHROS PA_Derivative (Uttarika)/VOL 65 (CU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/02 RNAL 'BYOR RGYUD/04 THAMS CAD GSANG BA DANG NGAN SONG SBYONG PA/02 'PHROS PA/VOL 65 (CU)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Secret Class of Practice (Yoga Tantra)/Total Secret & Cleaning Out the Lower Realms (Sarvarahasya & Durgati Śodhana)/Derivative (Uttarika)",
-            "subject_tibetan": "VOL 65 (CU)",
-            "subject_english": "Derivative (Uttarika)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/RNAL 'BYOR RGYUD/THAMS CAD GSANG BA DANG NGAN SONG SBYONG PA/'PHROS PA/65 (CU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Secret Class of Practice (Yoga Tantra)/Total Secret & Cleaning Out the Lower Realms (Sarvarahasya & Durgati Śodhana)/Derivative (Uttarika)/VOL 65 (CU)",
+            "subject_tibetan": "65 (CU)",
+            "subject_english": "VOL 65 (CU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/02 RNAL 'BYOR RGYUD_Secret Class of Practice (Yoga Tantra)/04 THAMS CAD GSANG BA DANG NGAN SONG SBYONG PA_Total Secret & Cleaning Out the Lower Realms (Sarvarahasya & Durgati Śodhana)/02 'PHROS PA_Derivative (Uttarika)/VOL 65 (CU)",
-            "timestamp": "2024-11-20 11:59:12.202164+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Ārya Sarva Durgati Pariśodhana Tejorāja Nāma Kalpa Rāja Ṭīkā",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:59:12.202164+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:44:06.098505+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/02 RNAL 'BYOR RGYUD_Secret Class of Practice (Yoga Tantra)/04 THAMS CAD GSANG BA DANG NGAN SONG SBYONG PA_Total Secret & Cleaning Out the Lower Realms (Sarvarahasya & Durgati Śodhana)/02 'PHROS PA_Derivative (Uttarika)/VOL 65 (CU)",
+            "timestamp": "2024-12-01 11:44:06.098505+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

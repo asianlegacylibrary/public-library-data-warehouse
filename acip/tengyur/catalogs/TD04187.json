@@ -1,53 +1,47 @@
 {
     "name": "TD04187_BU LA SPRING BA (Suta Lekha).txt",
-    "path": "10 SPRING YIG_Epistles (Lekha)/VOL 2 (NGE)",
+    "path": "BSTAN 'GYUR_Tengyur/10 SPRING YIG_Epistles (Lekha)/VOL 2 (NGE)",
     "download_path": "/tengyur updated 10 31 24 ws/10 spring yig_epistles (lekha)/vol 2 (nge)/td04187_bu la spring ba (suta lekha).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB1zA",
     "revision_id": "62633b3e6e2838d294473",
     "content_hash": "93acc406c4fb595d5b10534e72706011c2c1d523b2487f1f925b6eef34bf3e27",
     "server_modified": "2024-11-06 00:36:03",
-    "last_sync": "2024-11-20 03:58:12.212987",
+    "last_sync": "2024-12-01 11:43:15.115180+00:00",
     "size": 10814,
-    "meta_text": null,
     "cat_ref": "TD04187",
     "work_ref": "W.TD04187",
-    "title_tib": "",
+    "title_tib": "BU LA SPRING BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "161575116623",
             "subject_path": "BSTAN 'GYUR_Tengyur/10 SPRING YIG_Epistles (Lekha)/VOL 2 (NGE)",
-            "subject_path_tibetan": "BSTAN 'GYUR/10 SPRING YIG/VOL 2 (NGE)",
-            "subject_path_english": "Tengyur/Epistles (Lekha)",
-            "subject_tibetan": "VOL 2 (NGE)",
-            "subject_english": "Epistles (Lekha)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SPRING YIG/2 (NGE)",
+            "subject_path_english": "Tengyur/Epistles (Lekha)/VOL 2 (NGE)",
+            "subject_tibetan": "2 (NGE)",
+            "subject_english": "VOL 2 (NGE)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/10 SPRING YIG_Epistles (Lekha)/VOL 2 (NGE)",
-            "timestamp": "2024-11-20 11:58:12.234073+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Suta Lekha",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:58:12.234073+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:43:15.118245+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/10 SPRING YIG_Epistles (Lekha)/VOL 2 (NGE)",
+            "timestamp": "2024-12-01 11:43:15.118245+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

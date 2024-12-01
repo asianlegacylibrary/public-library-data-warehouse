@@ -1,53 +1,47 @@
 {
     "name": "TD04398_'PHAGS PA STONG PHRAG BRGYA PA LA SOGS PA MDO SDE CHEN PO BKLAGS PA'I CHOS KYI SBYIN PA'I BSNGO BA (Ārya Śatasāhasrikādi Mahāsūtra Paṭhadharmadana Pariṇamanā).txt",
-    "path": "16 SNA TSOGS_Miscellany (Citritā)/VOL 4 (NYO)",
+    "path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 4 (NYO)",
     "download_path": "/tengyur updated 10 31 24 ws/16 sna tsogs_miscellany (citritā)/vol 4 (nyo)/td04398_'phags pa stong phrag brgya pa la sogs pa mdo sde chen po bklags pa'i chos kyi sbyin pa'i bsngo ba (ārya śatasāhasrikādi mahāsūtra paṭhadharmadana pariṇamanā).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACEXA",
     "revision_id": "62633e179f3758d294473",
     "content_hash": "418a5e379ed71546b66d624ff0f7a4b18b1031fbab5273a0938f8b5af7c3c620",
     "server_modified": "2024-11-06 00:48:48",
-    "last_sync": "2024-11-20 04:01:22.227103",
+    "last_sync": "2024-12-01 11:45:47.964195+00:00",
     "size": 10757,
-    "meta_text": null,
     "cat_ref": "TD04398",
     "work_ref": "W.TD04398",
-    "title_tib": "",
+    "title_tib": "'PHAGS PA STONG PHRAG BRGYA PA LA SOGS PA MDO SDE CHEN PO BKLAGS PA'I CHOS KYI SBYIN PA'I BSNGO BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "279475421118",
             "subject_path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 4 (NYO)",
-            "subject_path_tibetan": "BSTAN 'GYUR/16 SNA TSOGS/VOL 4 (NYO)",
-            "subject_path_english": "Tengyur/Miscellany (Citritā)",
-            "subject_tibetan": "VOL 4 (NYO)",
-            "subject_english": "Miscellany (Citritā)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SNA TSOGS/4 (NYO)",
+            "subject_path_english": "Tengyur/Miscellany (Citritā)/VOL 4 (NYO)",
+            "subject_tibetan": "4 (NYO)",
+            "subject_english": "VOL 4 (NYO)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 4 (NYO)",
-            "timestamp": "2024-11-20 12:01:22.241778+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Ārya Śatasāhasrikādi Mahāsūtra Paṭhadharmadana Pariṇamanā",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:22.241778+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:45:47.970659+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 4 (NYO)",
+            "timestamp": "2024-12-01 11:45:47.970659+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

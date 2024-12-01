@@ -1,53 +1,47 @@
 {
     "name": "TD04321_THUB PA CHEN PO DRANG SRONG GAR GAS LTAS KYI RNAM PA BSTAN PA ZHES BYA BA'I GTZUG LAG (Mahāmuni Gargar Vyakśa Nimittakṛti Nirdeśa Nāma).txt",
-    "path": "14 BZO RIG PA_Fine Arts (Śilpa Vidyā)/VOL 1 (NGO-1)",
+    "path": "BSTAN 'GYUR_Tengyur/14 BZO RIG PA_Fine Arts (Śilpa Vidyā)/VOL 1 (NGO-1)",
     "download_path": "/tengyur updated 10 31 24 ws/14 bzo rig pa_fine arts (śilpa vidyā)/vol 1 (ngo-1)/td04321_thub pa chen po drang srong gar gas ltas kyi rnam pa bstan pa zhes bya ba'i gtzug lag (mahāmuni gargar vyakśa nimittakṛti nirdeśa nāma).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACEDA",
     "revision_id": "62633e0920c858d294473",
     "content_hash": "40b3b0f6264cfe08a6d285171594287fb79423572f065acbff6c0705e524eacb",
     "server_modified": "2024-11-06 00:48:33",
-    "last_sync": "2024-11-20 04:01:20.155774",
+    "last_sync": "2024-12-01 11:45:46.608421+00:00",
     "size": 122637,
-    "meta_text": null,
     "cat_ref": "TD04321",
     "work_ref": "W.TD04321",
-    "title_tib": "",
+    "title_tib": "THUB PA CHEN PO DRANG SRONG GAR GAS LTAS KYI RNAM PA BSTAN PA ZHES BYA BA'I GTZUG LAG",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "226526997541",
             "subject_path": "BSTAN 'GYUR_Tengyur/14 BZO RIG PA_Fine Arts (Śilpa Vidyā)/VOL 1 (NGO-1)",
-            "subject_path_tibetan": "BSTAN 'GYUR/14 BZO RIG PA/VOL 1 (NGO-1)",
-            "subject_path_english": "Tengyur/Fine Arts (Śilpa Vidyā)",
-            "subject_tibetan": "VOL 1 (NGO-1)",
-            "subject_english": "Fine Arts (Śilpa Vidyā)"
+            "subject_path_tibetan": "BSTAN 'GYUR/BZO RIG PA/1 (NGO-1)",
+            "subject_path_english": "Tengyur/Fine Arts (Śilpa Vidyā)/VOL 1 (NGO-1)",
+            "subject_tibetan": "1 (NGO-1)",
+            "subject_english": "VOL 1 (NGO-1)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/14 BZO RIG PA_Fine Arts (Śilpa Vidyā)/VOL 1 (NGO-1)",
-            "timestamp": "2024-11-20 12:01:20.162429+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Mahāmuni Gargar Vyakśa Nimittakṛti Nirdeśa Nāma",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:20.162429+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:45:46.610644+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/14 BZO RIG PA_Fine Arts (Śilpa Vidyā)/VOL 1 (NGO-1)",
+            "timestamp": "2024-12-01 11:45:46.610644+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

@@ -1,53 +1,47 @@
 {
     "name": "TD03981_'PHAGS PA DGONGS PA NGES PAR 'GREL PA'I RNAM PAR BSHAD PA (Ārya Sandhinirmocana Bhāṣya).txt",
-    "path": "05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 1 (NGI)",
+    "path": "BSTAN 'GYUR_Tengyur/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 1 (NGI)",
     "download_path": "/tengyur updated 10 31 24 ws/05 mdo 'grel_commentaries to sutras (sūtra vṛtti)/vol 1 (ngi)/td03981_'phags pa dgongs pa nges par 'grel pa'i rnam par bshad pa (ārya sandhinirmocana bhāṣya).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB1jw",
     "revision_id": "62633b2eb869d8d294473",
     "content_hash": "e8706cdd55464e0b404caa367a085426a05548696520a1c771432a215368e855",
     "server_modified": "2024-11-06 00:35:47",
-    "last_sync": "2024-11-20 03:58:03.790114",
+    "last_sync": "2024-12-01 11:43:07.306937+00:00",
     "size": 38402,
-    "meta_text": null,
     "cat_ref": "TD03981",
     "work_ref": "W.TD03981",
-    "title_tib": "",
+    "title_tib": "'PHAGS PA DGONGS PA NGES PAR 'GREL PA'I RNAM PAR BSHAD PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "274593978959",
             "subject_path": "BSTAN 'GYUR_Tengyur/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 1 (NGI)",
-            "subject_path_tibetan": "BSTAN 'GYUR/05 MDO 'GREL/VOL 1 (NGI)",
-            "subject_path_english": "Tengyur/Commentaries to Sutras (Sūtra Vṛtti)",
-            "subject_tibetan": "VOL 1 (NGI)",
-            "subject_english": "Commentaries to Sutras (Sūtra Vṛtti)"
+            "subject_path_tibetan": "BSTAN 'GYUR/MDO 'GREL/1 (NGI)",
+            "subject_path_english": "Tengyur/Commentaries to Sutras (Sūtra Vṛtti)/VOL 1 (NGI)",
+            "subject_tibetan": "1 (NGI)",
+            "subject_english": "VOL 1 (NGI)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 1 (NGI)",
-            "timestamp": "2024-11-20 11:58:03.806383+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Ārya Sandhinirmocana Bhāṣya",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:58:03.806383+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:43:07.308962+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 1 (NGI)",
+            "timestamp": "2024-12-01 11:43:07.308962+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

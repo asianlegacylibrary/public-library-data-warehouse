@@ -1,53 +1,47 @@
 {
     "name": "TD01357_DPAL LDAN RGYU SKAR GYI DKYIL 'KHOR GYI SGRUB THABS YAN LAG BCU GCIG PA ZHES BYA BA (Śrī Nakṣatra Maṇḍala Sādhanaikadaśāṃga (Nāma)).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/02 DUS KYI 'KHOR LO_Wheel of Time (Kālacakra)/01 BSKYED RIM_Creation Stage (Utpatti Krama)/VOL 13 (PA)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/02 DUS KYI 'KHOR LO_Wheel of Time (Kālacakra)/01 BSKYED RIM_Creation Stage (Utpatti Krama)/VOL 13 (PA)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/01 rnal 'byor bla med_unsurpassed practice (anuttara yoga)/02 dus kyi 'khor lo_wheel of time (kālacakra)/01 bskyed rim_creation stage (utpatti krama)/vol 13 (pa)/td01357_dpal ldan rgyu skar gyi dkyil 'khor gyi sgrub thabs yan lag bcu gcig pa zhes bya ba (śrī nakṣatra maṇḍala sādhanaikadaśāṃga (nāma)).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB8uQ",
     "revision_id": "62633cbc1413b8d294473",
     "content_hash": "11edec6f045c7f2eda51a98edf96e7b4f31c0b68e4b843be9ee249995d152038",
     "server_modified": "2024-11-06 00:42:43",
-    "last_sync": "2024-11-20 04:00:13.688546",
+    "last_sync": "2024-12-01 11:44:52.418981+00:00",
     "size": 64909,
-    "meta_text": null,
     "cat_ref": "TD01357",
     "work_ref": "W.TD01357",
-    "title_tib": "",
+    "title_tib": "DPAL LDAN RGYU SKAR GYI DKYIL 'KHOR GYI SGRUB THABS YAN LAG BCU GCIG PA ZHES BYA BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "310959610406",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/02 DUS KYI 'KHOR LO_Wheel of Time (Kālacakra)/01 BSKYED RIM_Creation Stage (Utpatti Krama)/VOL 13 (PA)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/01 RNAL 'BYOR BLA MED/02 DUS KYI 'KHOR LO/01 BSKYED RIM/VOL 13 (PA)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Wheel of Time (Kālacakra)/Creation Stage (Utpatti Krama)",
-            "subject_tibetan": "VOL 13 (PA)",
-            "subject_english": "Creation Stage (Utpatti Krama)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/RNAL 'BYOR BLA MED/DUS KYI 'KHOR LO/BSKYED RIM/13 (PA)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Wheel of Time (Kālacakra)/Creation Stage (Utpatti Krama)/VOL 13 (PA)",
+            "subject_tibetan": "13 (PA)",
+            "subject_english": "VOL 13 (PA)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/02 DUS KYI 'KHOR LO_Wheel of Time (Kālacakra)/01 BSKYED RIM_Creation Stage (Utpatti Krama)/VOL 13 (PA)",
-            "timestamp": "2024-11-20 12:00:13.702490+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Śrī Nakṣatra Maṇḍala Sādhanaikadaśāṃga (Nāma)",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:13.702490+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:44:52.419832+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/02 DUS KYI 'KHOR LO_Wheel of Time (Kālacakra)/01 BSKYED RIM_Creation Stage (Utpatti Krama)/VOL 13 (PA)",
+            "timestamp": "2024-12-01 11:44:52.419832+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

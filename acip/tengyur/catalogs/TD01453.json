@@ -1,53 +1,47 @@
 {
     "name": "TD01453_YI GE BDUN PA'I SGRUB THABS (Saptākṣara Sādhana).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/01 YAB BKA'_Father Texts (Pitṛ)/02 SGRUB SKOR_Practice Materials (Sādhya)/VOL 20 (WA)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/01 YAB BKA'_Father Texts (Pitṛ)/02 SGRUB SKOR_Practice Materials (Sādhya)/VOL 20 (WA)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/01 rnal 'byor bla med_unsurpassed practice (anuttara yoga)/03 bde mchog_highest bliss (saṃvara)/01 yab bka'_father texts (pitṛ)/02 sgrub skor_practice materials (sādhya)/vol 20 (wa)/td01453_yi ge bdun pa'i sgrub thabs (saptākṣara sādhana).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB7nw",
     "revision_id": "62633c844d4e28d294473",
     "content_hash": "0f029fa518a1e008babf71555732943b593dd248caa069949092d831d74a62f5",
     "server_modified": "2024-11-06 00:41:45",
-    "last_sync": "2024-11-20 04:00:02.435062",
+    "last_sync": "2024-12-01 11:44:43.537852+00:00",
     "size": 15455,
-    "meta_text": null,
     "cat_ref": "TD01453",
     "work_ref": "W.TD01453",
-    "title_tib": "",
+    "title_tib": "YI GE BDUN PA'I SGRUB THABS",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "100404488384",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/01 YAB BKA'_Father Texts (Pitṛ)/02 SGRUB SKOR_Practice Materials (Sādhya)/VOL 20 (WA)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/01 RNAL 'BYOR BLA MED/03 BDE MCHOG/01 YAB BKA'/02 SGRUB SKOR/VOL 20 (WA)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Highest Bliss (Saṃvara)/Father Texts (Pitṛ)/Practice Materials (Sādhya)",
-            "subject_tibetan": "VOL 20 (WA)",
-            "subject_english": "Practice Materials (Sādhya)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/RNAL 'BYOR BLA MED/BDE MCHOG/YAB BKA'/SGRUB SKOR/20 (WA)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Highest Bliss (Saṃvara)/Father Texts (Pitṛ)/Practice Materials (Sādhya)/VOL 20 (WA)",
+            "subject_tibetan": "20 (WA)",
+            "subject_english": "VOL 20 (WA)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/01 YAB BKA'_Father Texts (Pitṛ)/02 SGRUB SKOR_Practice Materials (Sādhya)/VOL 20 (WA)",
-            "timestamp": "2024-11-20 12:00:02.438430+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Saptākṣara Sādhana",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:02.438430+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:44:43.539469+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/01 YAB BKA'_Father Texts (Pitṛ)/02 SGRUB SKOR_Practice Materials (Sādhya)/VOL 20 (WA)",
+            "timestamp": "2024-12-01 11:44:43.539469+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

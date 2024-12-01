@@ -1,53 +1,47 @@
 {
     "name": "TD04311-2_YAN LAG BRGYAD PA'I SNYING PO ZHES BYA BA'I SMAN DPYAD KYI BSHAD PA (Aṣṭaṃga Hṛdaya Nāma Vaiḍūryaka Bhāṣya).txt",
-    "path": "13 GSO BA RIG PA_Medicine (Cikitsā Vidyā)/VOL 2 (AE)",
+    "path": "BSTAN 'GYUR_Tengyur/13 GSO BA RIG PA_Medicine (Cikitsā Vidyā)/VOL 2 (AE)",
     "download_path": "/tengyur updated 10 31 24 ws/13 gso ba rig pa_medicine (cikitsā vidyā)/vol 2 (ae)/td04311-2_yan lag brgyad pa'i snying po zhes bya ba'i sman dpyad kyi bshad pa (aṣṭaṃga hṛdaya nāma vaiḍūryaka bhāṣya).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACE7g",
     "revision_id": "62633e5903b928d294473",
     "content_hash": "bd7f565c1b1a8d5b2313c42e7877cc3c61f558d952aa5801eb4f8c95975c6b85",
     "server_modified": "2024-11-06 00:49:56",
-    "last_sync": "2024-11-20 04:01:44.617156",
+    "last_sync": "2024-12-01 11:46:04.071146+00:00",
     "size": 1623560,
-    "meta_text": null,
     "cat_ref": "TD04311-2",
     "work_ref": "W.TD04311-2",
-    "title_tib": "",
+    "title_tib": "YAN LAG BRGYAD PA'I SNYING PO ZHES BYA BA'I SMAN DPYAD KYI BSHAD PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "224383695946",
             "subject_path": "BSTAN 'GYUR_Tengyur/13 GSO BA RIG PA_Medicine (Cikitsā Vidyā)/VOL 2 (AE)",
-            "subject_path_tibetan": "BSTAN 'GYUR/13 GSO BA RIG PA/VOL 2 (AE)",
-            "subject_path_english": "Tengyur/Medicine (Cikitsā Vidyā)",
-            "subject_tibetan": "VOL 2 (AE)",
-            "subject_english": "Medicine (Cikitsā Vidyā)"
+            "subject_path_tibetan": "BSTAN 'GYUR/GSO BA RIG PA/2 (AE)",
+            "subject_path_english": "Tengyur/Medicine (Cikitsā Vidyā)/VOL 2 (AE)",
+            "subject_tibetan": "2 (AE)",
+            "subject_english": "VOL 2 (AE)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/13 GSO BA RIG PA_Medicine (Cikitsā Vidyā)/VOL 2 (AE)",
-            "timestamp": "2024-11-20 12:01:44.621084+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Aṣṭaṃga Hṛdaya Nāma Vaiḍūryaka Bhāṣya",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:44.621084+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:46:04.071644+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/13 GSO BA RIG PA_Medicine (Cikitsā Vidyā)/VOL 2 (AE)",
+            "timestamp": "2024-12-01 11:46:04.071644+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

@@ -1,53 +1,47 @@
 {
     "name": "TD03141_RDZOGS PA'I RNAL 'BYOR GYI PHRENG BA ZHES BYA BA (Niṣpanna Yogāvali (Nāma)).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/VOL 74 (PHU)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 74 (PHU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/vol 74 (phu)/td03141_rdzogs pa'i rnal 'byor gyi phreng ba zhes bya ba (niṣpanna yogāvali (nāma)).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACDYA",
     "revision_id": "62633dd85c5818d294473",
     "content_hash": "2200ed511f2056443ac3c0c262afed31fe5b17c326277ee242be55f883834d7a",
     "server_modified": "2024-11-06 00:47:41",
-    "last_sync": "2024-11-20 04:01:05.015617",
+    "last_sync": "2024-12-01 11:45:32.198880+00:00",
     "size": 233587,
-    "meta_text": null,
     "cat_ref": "TD03141",
     "work_ref": "W.TD03141",
-    "title_tib": "",
+    "title_tib": "RDZOGS PA'I RNAL 'BYOR GYI PHRENG BA ZHES BYA BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "235929610804",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 74 (PHU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/VOL 74 (PHU)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)",
-            "subject_tibetan": "VOL 74 (PHU)",
-            "subject_english": "Diamond Way (Vajrayāna)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/74 (PHU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/VOL 74 (PHU)",
+            "subject_tibetan": "74 (PHU)",
+            "subject_english": "VOL 74 (PHU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 74 (PHU)",
-            "timestamp": "2024-11-20 12:01:05.034899+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Niṣpanna Yogāvali (Nāma)",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:05.034899+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:45:32.202486+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 74 (PHU)",
+            "timestamp": "2024-12-01 11:45:32.202486+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

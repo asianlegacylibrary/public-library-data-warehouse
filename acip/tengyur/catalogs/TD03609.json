@@ -1,53 +1,47 @@
 {
     "name": "TD03609_RDO RJE PHAG MO'I DBANG DU BYA BA'I CHO GA (Vajravārāhī Vaśya Vidhi).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/vol 76 (mu)/td03609_rdo rje phag mo'i dbang du bya ba'i cho ga (vajravārāhī vaśya vidhi).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACAlg",
     "revision_id": "62633d667dd1f8d294473",
     "content_hash": "3cf7a411b8c0ff8fb600dfc96aabe8cc3713ed4868384bd9ae9330565788e28f",
     "server_modified": "2024-11-06 00:45:42",
-    "last_sync": "2024-11-20 04:00:45.237626",
+    "last_sync": "2024-12-01 11:45:16.683186+00:00",
     "size": 3173,
-    "meta_text": null,
     "cat_ref": "TD03609",
     "work_ref": "W.TD03609",
-    "title_tib": "",
+    "title_tib": "RDO RJE PHAG MO'I DBANG DU BYA BA'I CHO GA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "121782366104",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/VOL 76 (MU)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)",
-            "subject_tibetan": "VOL 76 (MU)",
-            "subject_english": "Diamond Way (Vajrayāna)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/76 (MU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/VOL 76 (MU)",
+            "subject_tibetan": "76 (MU)",
+            "subject_english": "VOL 76 (MU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
-            "timestamp": "2024-11-20 12:00:45.258960+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Vajravārāhī Vaśya Vidhi",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:45.258960+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:45:16.696467+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
+            "timestamp": "2024-12-01 11:45:16.696467+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

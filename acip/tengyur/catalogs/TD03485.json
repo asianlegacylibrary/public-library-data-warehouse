@@ -1,53 +1,47 @@
 {
     "name": "TD03485_DBANG DU BYED PA'I SGROL MA'I SGRUB THABS (Vaśya Tārā Sādhana).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/vol 76 (mu)/td03485_dbang du byed pa'i sgrol ma'i sgrub thabs (vaśya tārā sādhana).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACAWw",
     "revision_id": "62633d5d8280f8d294473",
     "content_hash": "d8e9afd314cfaf6b88db82c0191231483cc3358c8719318099b3456ba0a06d71",
     "server_modified": "2024-11-06 00:45:33",
-    "last_sync": "2024-11-20 04:00:45.193839",
+    "last_sync": "2024-12-01 11:45:16.681945+00:00",
     "size": 939,
-    "meta_text": null,
     "cat_ref": "TD03485",
     "work_ref": "W.TD03485",
-    "title_tib": "",
+    "title_tib": "DBANG DU BYED PA'I SGROL MA'I SGRUB THABS",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "121782366104",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/VOL 76 (MU)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)",
-            "subject_tibetan": "VOL 76 (MU)",
-            "subject_english": "Diamond Way (Vajrayāna)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/76 (MU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/VOL 76 (MU)",
+            "subject_tibetan": "76 (MU)",
+            "subject_english": "VOL 76 (MU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
-            "timestamp": "2024-11-20 12:00:45.257426+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Vaśya Tārā Sādhana",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:45.257426+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:45:16.694845+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
+            "timestamp": "2024-12-01 11:45:16.694845+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

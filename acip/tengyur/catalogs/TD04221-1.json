@@ -1,53 +1,47 @@
 {
     "name": "TD04221-1_TSAD MA RNAM 'GREL GYI RGYAN (Pramāṇa Vārtikālaṃkāra).txt",
-    "path": "11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 5 (TE)",
+    "path": "BSTAN 'GYUR_Tengyur/11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 5 (TE)",
     "download_path": "/tengyur updated 10 31 24 ws/11 tsad ma_logic & perceptual theory (pramāṇa)/vol 5 (te)/td04221-1_tsad ma rnam 'grel gyi rgyan (pramāṇa vārtikālaṃkāra).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB2QA",
     "revision_id": "62633b63798818d294473",
     "content_hash": "4d641ad712ef6aa1cdebb6ca1b35fbb02a4681451d5a4606d24e9a69f7817636",
     "server_modified": "2024-11-06 00:36:42",
-    "last_sync": "2024-11-20 03:58:24.786332",
+    "last_sync": "2024-12-01 11:43:26.260118+00:00",
     "size": 1241641,
-    "meta_text": null,
     "cat_ref": "TD04221-1",
     "work_ref": "W.TD04221-1",
-    "title_tib": "",
+    "title_tib": "TSAD MA RNAM 'GREL GYI RGYAN",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "109884637210",
             "subject_path": "BSTAN 'GYUR_Tengyur/11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 5 (TE)",
-            "subject_path_tibetan": "BSTAN 'GYUR/11 TSAD MA/VOL 5 (TE)",
-            "subject_path_english": "Tengyur/Logic & Perceptual Theory (Pramāṇa)",
-            "subject_tibetan": "VOL 5 (TE)",
-            "subject_english": "Logic & Perceptual Theory (Pramāṇa)"
+            "subject_path_tibetan": "BSTAN 'GYUR/TSAD MA/5 (TE)",
+            "subject_path_english": "Tengyur/Logic & Perceptual Theory (Pramāṇa)/VOL 5 (TE)",
+            "subject_tibetan": "5 (TE)",
+            "subject_english": "VOL 5 (TE)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 5 (TE)",
-            "timestamp": "2024-11-20 11:58:24.792859+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Pramāṇa Vārtikālaṃkāra",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:58:24.792859+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:43:26.260440+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 5 (TE)",
+            "timestamp": "2024-12-01 11:43:26.260440+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

@@ -1,53 +1,47 @@
 {
     "name": "TD02386_THEG PA CHEN PO'I GNAS LUGS GTAN LA 'BEBS PA ZHES BYA BA (Mahāyāna Vatāra (Nāma)).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/17 PHYAG RGYA CHEN PO_The Great Seal (Mahāmudrā)/03 BSKYED RIM SKOR_Relating to the Stage of Creation (Utpatti Krama)/VOL 52 (ZI)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/17 PHYAG RGYA CHEN PO_The Great Seal (Mahāmudrā)/03 BSKYED RIM SKOR_Relating to the Stage of Creation (Utpatti Krama)/VOL 52 (ZI)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/01 rnal 'byor bla med_unsurpassed practice (anuttara yoga)/17 phyag rgya chen po_the great seal (mahāmudrā)/03 bskyed rim skor_relating to the stage of creation (utpatti krama)/vol 52 (zi)/td02386_theg pa chen po'i gnas lugs gtan la 'bebs pa zhes bya ba (mahāyāna vatāra (nāma)).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB5fg",
     "revision_id": "62633c2178e9e8d294473",
     "content_hash": "6ad3a538561f8c828c64d84f27a610a15ae6b5bf10dbe216812b54cdd1c2119c",
     "server_modified": "2024-11-06 00:40:01",
-    "last_sync": "2024-11-20 03:59:34.288634",
+    "last_sync": "2024-12-01 11:44:20.891106+00:00",
     "size": 1400,
-    "meta_text": null,
     "cat_ref": "TD02386",
     "work_ref": "W.TD02386",
-    "title_tib": "",
+    "title_tib": "THEG PA CHEN PO'I GNAS LUGS GTAN LA 'BEBS PA ZHES BYA BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "161218292964",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/17 PHYAG RGYA CHEN PO_The Great Seal (Mahāmudrā)/03 BSKYED RIM SKOR_Relating to the Stage of Creation (Utpatti Krama)/VOL 52 (ZI)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/01 RNAL 'BYOR BLA MED/17 PHYAG RGYA CHEN PO/03 BSKYED RIM SKOR/VOL 52 (ZI)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/The Great Seal (Mahāmudrā)/Relating to the Stage of Creation (Utpatti Krama)",
-            "subject_tibetan": "VOL 52 (ZI)",
-            "subject_english": "Relating to the Stage of Creation (Utpatti Krama)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/RNAL 'BYOR BLA MED/PHYAG RGYA CHEN PO/BSKYED RIM SKOR/52 (ZI)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/The Great Seal (Mahāmudrā)/Relating to the Stage of Creation (Utpatti Krama)/VOL 52 (ZI)",
+            "subject_tibetan": "52 (ZI)",
+            "subject_english": "VOL 52 (ZI)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/17 PHYAG RGYA CHEN PO_The Great Seal (Mahāmudrā)/03 BSKYED RIM SKOR_Relating to the Stage of Creation (Utpatti Krama)/VOL 52 (ZI)",
-            "timestamp": "2024-11-20 11:59:34.360833+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Mahāyāna Vatāra (Nāma)",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:59:34.360833+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:44:20.899846+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/17 PHYAG RGYA CHEN PO_The Great Seal (Mahāmudrā)/03 BSKYED RIM SKOR_Relating to the Stage of Creation (Utpatti Krama)/VOL 52 (ZI)",
+            "timestamp": "2024-12-01 11:44:20.899846+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

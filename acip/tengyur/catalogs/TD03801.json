@@ -1,53 +1,47 @@
 {
     "name": "TD03801_MNGON PAR RTOGS PA'I RGYAN GYI TSIG LE'UR BYAS PA'I 'GREL PA DAG LDAN ZHES BYA BA (Abisamayālaṃkāra Kārikā Vṛtti Śuddamati (Nāma)).txt",
-    "path": "03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 9 (TA)",
+    "path": "BSTAN 'GYUR_Tengyur/03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 9 (TA)",
     "download_path": "/tengyur updated 10 31 24 ws/03 shes phyin_perfection of wisdom (prajñā pāramitā)/vol 9 (ta)/td03801_mngon par rtogs pa'i rgyan gyi tsig le'ur byas pa'i 'grel pa dag ldan zhes bya ba (abisamayālaṃkāra kārikā vṛtti śuddamati (nāma)).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACE3g",
     "revision_id": "62633e4d05b738d294473",
     "content_hash": "fa01707fef30f16495979bf0315fc52f03134d310c5dc9b5868a34502a2db075",
     "server_modified": "2024-11-06 00:49:44",
-    "last_sync": "2024-11-20 04:01:39.435157",
+    "last_sync": "2024-12-01 11:45:59.863627+00:00",
     "size": 512569,
-    "meta_text": null,
     "cat_ref": "TD03801",
     "work_ref": "W.TD03801",
-    "title_tib": "",
+    "title_tib": "MNGON PAR RTOGS PA'I RGYAN GYI TSIG LE'UR BYAS PA'I 'GREL PA DAG LDAN ZHES BYA BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "372653971411",
             "subject_path": "BSTAN 'GYUR_Tengyur/03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 9 (TA)",
-            "subject_path_tibetan": "BSTAN 'GYUR/03 SHES PHYIN/VOL 9 (TA)",
-            "subject_path_english": "Tengyur/Perfection of Wisdom (Prajñā Pāramitā)",
-            "subject_tibetan": "VOL 9 (TA)",
-            "subject_english": "Perfection of Wisdom (Prajñā Pāramitā)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SHES PHYIN/9 (TA)",
+            "subject_path_english": "Tengyur/Perfection of Wisdom (Prajñā Pāramitā)/VOL 9 (TA)",
+            "subject_tibetan": "9 (TA)",
+            "subject_english": "VOL 9 (TA)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 9 (TA)",
-            "timestamp": "2024-11-20 12:01:39.437357+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Abisamayālaṃkāra Kārikā Vṛtti Śuddamati (Nāma)",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:39.437357+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:45:59.864408+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 9 (TA)",
+            "timestamp": "2024-12-01 11:45:59.864408+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

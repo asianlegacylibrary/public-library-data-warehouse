@@ -1,53 +1,47 @@
 {
     "name": "TD03928_DRAN PA GCIG PA'I MAN NGAG (Ekasmṛtyupadeśa).txt",
-    "path": "04 DBU MA_Middle Way School (Madhyamaka)/VOL 15 (KI)",
+    "path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 15 (KI)",
     "download_path": "/tengyur updated 10 31 24 ws/04 dbu ma_middle way school (madhyamaka)/vol 15 (ki)/td03928_dran pa gcig pa'i man ngag (ekasmṛtyupadeśa).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB3RQ",
     "revision_id": "62633bc354abb8d294473",
     "content_hash": "cb4f66474642afdd0d58654687b155f2ff72231e4ace1f86b01cd47ed18b4a94",
     "server_modified": "2024-11-06 00:38:23",
-    "last_sync": "2024-11-20 03:59:02.419749",
+    "last_sync": "2024-12-01 11:43:58.984102+00:00",
     "size": 3265,
-    "meta_text": null,
     "cat_ref": "TD03928",
     "work_ref": "W.TD03928",
-    "title_tib": "",
+    "title_tib": "DRAN PA GCIG PA'I MAN NGAG",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "330936115974",
             "subject_path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 15 (KI)",
-            "subject_path_tibetan": "BSTAN 'GYUR/04 DBU MA/VOL 15 (KI)",
-            "subject_path_english": "Tengyur/Middle Way School (Madhyamaka)",
-            "subject_tibetan": "VOL 15 (KI)",
-            "subject_english": "Middle Way School (Madhyamaka)"
+            "subject_path_tibetan": "BSTAN 'GYUR/DBU MA/15 (KI)",
+            "subject_path_english": "Tengyur/Middle Way School (Madhyamaka)/VOL 15 (KI)",
+            "subject_tibetan": "15 (KI)",
+            "subject_english": "VOL 15 (KI)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 15 (KI)",
-            "timestamp": "2024-11-20 11:59:02.431307+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Ekasmṛtyupadeśa",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:59:02.431307+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:43:58.987746+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 15 (KI)",
+            "timestamp": "2024-12-01 11:43:58.987746+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

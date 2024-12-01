@@ -1,53 +1,47 @@
 {
     "name": "TD04155-2_BYANG CHUB SEMS DPA'I RTOGS PA BRJOD PA DPAG BSAM GYI 'KHRI SHING (Bodhisattvā Vadāna Kalpalatā).txt",
-    "path": "09 SKYES RABS_Stories of the Past Lives of the Buddha (Jātaka)/VOL 4 (KHE)",
+    "path": "BSTAN 'GYUR_Tengyur/09 SKYES RABS_Stories of the Past Lives of the Buddha (Jātaka)/VOL 4 (KHE)",
     "download_path": "/tengyur updated 10 31 24 ws/09 skyes rabs_stories of the past lives of the buddha (jātaka)/vol 4 (khe)/td04155-2_byang chub sems dpa'i rtogs pa brjod pa dpag bsam gyi 'khri shing (bodhisattvā vadāna kalpalatā).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB21Q",
     "revision_id": "62633ba8da41a8d294473",
     "content_hash": "4eefa8cfd1465302acdc614a6ddde585a775cebdef77f973eb6a090ef6106ab0",
     "server_modified": "2024-11-06 00:37:55",
-    "last_sync": "2024-11-20 03:58:52.345546",
+    "last_sync": "2024-12-01 11:43:51.422820+00:00",
     "size": 1074585,
-    "meta_text": null,
     "cat_ref": "TD04155-2",
     "work_ref": "W.TD04155-2",
-    "title_tib": "",
+    "title_tib": "BYANG CHUB SEMS DPA'I RTOGS PA BRJOD PA DPAG BSAM GYI 'KHRI SHING",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "312347066812",
             "subject_path": "BSTAN 'GYUR_Tengyur/09 SKYES RABS_Stories of the Past Lives of the Buddha (Jātaka)/VOL 4 (KHE)",
-            "subject_path_tibetan": "BSTAN 'GYUR/09 SKYES RABS/VOL 4 (KHE)",
-            "subject_path_english": "Tengyur/Stories of the Past Lives of the Buddha (Jātaka)",
-            "subject_tibetan": "VOL 4 (KHE)",
-            "subject_english": "Stories of the Past Lives of the Buddha (Jātaka)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SKYES RABS/4 (KHE)",
+            "subject_path_english": "Tengyur/Stories of the Past Lives of the Buddha (Jātaka)/VOL 4 (KHE)",
+            "subject_tibetan": "4 (KHE)",
+            "subject_english": "VOL 4 (KHE)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/09 SKYES RABS_Stories of the Past Lives of the Buddha (Jātaka)/VOL 4 (KHE)",
-            "timestamp": "2024-11-20 11:58:52.349049+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Bodhisattvā Vadāna Kalpalatā",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:58:52.349049+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:43:51.423154+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/09 SKYES RABS_Stories of the Past Lives of the Buddha (Jātaka)/VOL 4 (KHE)",
+            "timestamp": "2024-12-01 11:43:51.423154+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

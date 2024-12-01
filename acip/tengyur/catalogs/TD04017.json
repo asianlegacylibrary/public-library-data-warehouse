@@ -1,53 +1,46 @@
 {
     "name": "TD04017_DAM PA'I CHOS PUndA R'I KA'I 'GREL PA.txt",
-    "path": "05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 8 (DI)",
+    "path": "BSTAN 'GYUR_Tengyur/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 8 (DI)",
     "download_path": "/tengyur updated 10 31 24 ws/05 mdo 'grel_commentaries to sutras (sūtra vṛtti)/vol 8 (di)/td04017_dam pa'i chos punda r'i ka'i 'grel pa.txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB1rA",
     "revision_id": "62633b386393a8d294473",
     "content_hash": "62e475aefe9f5d4f8c27954a8f36ad79c7d4fcd2c3193cfa1cff61d2923efad1",
     "server_modified": "2024-11-06 00:35:57",
-    "last_sync": "2024-11-20 03:58:07.492796",
+    "last_sync": "2024-12-01 11:43:10.783112+00:00",
     "size": 514190,
-    "meta_text": null,
     "cat_ref": "TD04017",
     "work_ref": "W.TD04017",
     "title_tib": "DAM PA'I CHOS PUndA R'I KA'I 'GREL PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "333041371064",
             "subject_path": "BSTAN 'GYUR_Tengyur/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 8 (DI)",
-            "subject_path_tibetan": "BSTAN 'GYUR/05 MDO 'GREL/VOL 8 (DI)",
-            "subject_path_english": "Tengyur/Commentaries to Sutras (Sūtra Vṛtti)",
-            "subject_tibetan": "VOL 8 (DI)",
-            "subject_english": "Commentaries to Sutras (Sūtra Vṛtti)"
+            "subject_path_tibetan": "BSTAN 'GYUR/MDO 'GREL/8 (DI)",
+            "subject_path_english": "Tengyur/Commentaries to Sutras (Sūtra Vṛtti)/VOL 8 (DI)",
+            "subject_tibetan": "8 (DI)",
+            "subject_english": "VOL 8 (DI)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 8 (DI)",
-            "timestamp": "2024-11-20 11:58:07.500257+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:58:07.500257+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:43:10.783786+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 8 (DI)",
+            "timestamp": "2024-12-01 11:43:10.783786+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

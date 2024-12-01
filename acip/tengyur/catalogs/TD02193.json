@@ -1,53 +1,47 @@
 {
     "name": "TD02193_DPAL PHYAG NA RDO RJE SGRUB PA'I THABS ZHES BYA BA (Śrī Vajrapāṇi Sādhana (Nāma)).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/15 PHYAG NA RDO RJE_Holder of the Diamond (Vajrapāṇi)/04 BYA KHYUNG GTUM PO_Wrathful Raptor (Vajra Garuda)/VOL 49 (DZI)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/15 PHYAG NA RDO RJE_Holder of the Diamond (Vajrapāṇi)/04 BYA KHYUNG GTUM PO_Wrathful Raptor (Vajra Garuda)/VOL 49 (DZI)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/01 rnal 'byor bla med_unsurpassed practice (anuttara yoga)/15 phyag na rdo rje_holder of the diamond (vajrapāṇi)/04 bya khyung gtum po_wrathful raptor (vajra garuda)/vol 49 (dzi)/td02193_dpal phyag na rdo rje sgrub pa'i thabs zhes bya ba (śrī vajrapāṇi sādhana (nāma)).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB-8A",
     "revision_id": "62633d1fd68898d294473",
     "content_hash": "ad05af85864d79198697551db5e71d0cd454cf74b237a9a9bdac676c12207730",
     "server_modified": "2024-11-06 00:44:28",
-    "last_sync": "2024-11-20 04:00:43.825217",
+    "last_sync": "2024-12-01 11:45:15.818945+00:00",
     "size": 4941,
-    "meta_text": null,
     "cat_ref": "TD02193",
     "work_ref": "W.TD02193",
-    "title_tib": "",
+    "title_tib": "DPAL PHYAG NA RDO RJE SGRUB PA'I THABS ZHES BYA BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "137557499989",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/15 PHYAG NA RDO RJE_Holder of the Diamond (Vajrapāṇi)/04 BYA KHYUNG GTUM PO_Wrathful Raptor (Vajra Garuda)/VOL 49 (DZI)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/01 RNAL 'BYOR BLA MED/15 PHYAG NA RDO RJE/04 BYA KHYUNG GTUM PO/VOL 49 (DZI)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Holder of the Diamond (Vajrapāṇi)/Wrathful Raptor (Vajra Garuda)",
-            "subject_tibetan": "VOL 49 (DZI)",
-            "subject_english": "Wrathful Raptor (Vajra Garuda)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/RNAL 'BYOR BLA MED/PHYAG NA RDO RJE/BYA KHYUNG GTUM PO/49 (DZI)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Holder of the Diamond (Vajrapāṇi)/Wrathful Raptor (Vajra Garuda)/VOL 49 (DZI)",
+            "subject_tibetan": "49 (DZI)",
+            "subject_english": "VOL 49 (DZI)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/15 PHYAG NA RDO RJE_Holder of the Diamond (Vajrapāṇi)/04 BYA KHYUNG GTUM PO_Wrathful Raptor (Vajra Garuda)/VOL 49 (DZI)",
-            "timestamp": "2024-11-20 12:00:43.841282+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Śrī Vajrapāṇi Sādhana (Nāma)",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:43.841282+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:45:15.820501+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/15 PHYAG NA RDO RJE_Holder of the Diamond (Vajrapāṇi)/04 BYA KHYUNG GTUM PO_Wrathful Raptor (Vajra Garuda)/VOL 49 (DZI)",
+            "timestamp": "2024-12-01 11:45:15.820501+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

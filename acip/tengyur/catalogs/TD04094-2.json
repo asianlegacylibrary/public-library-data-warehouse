@@ -1,53 +1,46 @@
 {
     "name": "TD04094-2_CHOS MNGON PA'I MDZOD KYI 'GREL BSHAD NYE BAR MKHO BA ZHES BYA BA (Abhidharma Koṣa Ṭīka Upāyikā Nāma) .txt.txt",
-    "path": "07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 9 (NYU)",
+    "path": "BSTAN 'GYUR_Tengyur/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 9 (NYU)",
     "download_path": "/tengyur updated 10 31 24 ws/07 mngon pa_higher knowledge school (abhidharma)/vol 9 (nyu)/td04094-2_chos mngon pa'i mdzod kyi 'grel bshad nye bar mkho ba zhes bya ba (abhidharma koṣa ṭīka upāyikā nāma) .txt.txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB2Yg",
     "revision_id": "62633b71da87e8d294473",
     "content_hash": "be36ffa7df3371768e3c05ba0d648f260b2bce31cb0300c594db615efdcbf9b4",
     "server_modified": "2024-11-06 00:36:57",
-    "last_sync": "2024-11-20 03:58:30.052176",
+    "last_sync": "2024-12-01 11:43:30.730121+00:00",
     "size": 373734,
-    "meta_text": null,
     "cat_ref": "TD04094-2",
     "work_ref": "W.TD04094-2",
-    "title_tib": "",
+    "title_tib": "CHOS MNGON PA'I MDZOD KYI 'GREL BSHAD NYE BAR MKHO BA ZHES BYA BA (Abhidharma Koṣa Ṭīka Upāyikā Nāma) .txt",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "263119481432",
             "subject_path": "BSTAN 'GYUR_Tengyur/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 9 (NYU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/07 MNGON PA/VOL 9 (NYU)",
-            "subject_path_english": "Tengyur/Higher Knowledge School (Abhidharma)",
-            "subject_tibetan": "VOL 9 (NYU)",
-            "subject_english": "Higher Knowledge School (Abhidharma)"
+            "subject_path_tibetan": "BSTAN 'GYUR/MNGON PA/9 (NYU)",
+            "subject_path_english": "Tengyur/Higher Knowledge School (Abhidharma)/VOL 9 (NYU)",
+            "subject_tibetan": "9 (NYU)",
+            "subject_english": "VOL 9 (NYU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 9 (NYU)",
-            "timestamp": "2024-11-20 11:58:30.063947+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:58:30.063947+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:43:30.731671+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 9 (NYU)",
+            "timestamp": "2024-12-01 11:43:30.731671+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

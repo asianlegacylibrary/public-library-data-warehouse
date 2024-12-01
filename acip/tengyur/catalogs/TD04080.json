@@ -1,53 +1,47 @@
 {
     "name": "TD04080_DGE BA'I SDONG PO ZHES BYA BA'I RAB TU BYED PA (Kalyāṇakāṇḍa Nāma Prakaraṇa).txt",
-    "path": "06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 16 (HI)",
+    "path": "BSTAN 'GYUR_Tengyur/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 16 (HI)",
     "download_path": "/tengyur updated 10 31 24 ws/06 sems tzam_mind only school (cittamātra)/vol 16 (hi)/td04080_dge ba'i sdong po zhes bya ba'i rab tu byed pa (kalyāṇakāṇḍa nāma prakaraṇa).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACDqA",
     "revision_id": "62633debc3fee8d294473",
     "content_hash": "62aefb6da46bd2cdcaac3b50e402e9ef809dd47f11c95c960edfbaf3b8292f67",
     "server_modified": "2024-11-06 00:48:02",
-    "last_sync": "2024-11-20 04:01:08.984702",
+    "last_sync": "2024-12-01 11:45:35.169262+00:00",
     "size": 15090,
-    "meta_text": null,
     "cat_ref": "TD04080",
     "work_ref": "W.TD04080",
-    "title_tib": "",
+    "title_tib": "DGE BA'I SDONG PO ZHES BYA BA'I RAB TU BYED PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "233087936475",
             "subject_path": "BSTAN 'GYUR_Tengyur/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 16 (HI)",
-            "subject_path_tibetan": "BSTAN 'GYUR/06 SEMS TZAM/VOL 16 (HI)",
-            "subject_path_english": "Tengyur/Mind Only School (Cittamātra)",
-            "subject_tibetan": "VOL 16 (HI)",
-            "subject_english": "Mind Only School (Cittamātra)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SEMS TZAM/16 (HI)",
+            "subject_path_english": "Tengyur/Mind Only School (Cittamātra)/VOL 16 (HI)",
+            "subject_tibetan": "16 (HI)",
+            "subject_english": "VOL 16 (HI)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 16 (HI)",
-            "timestamp": "2024-11-20 12:01:08.992234+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Kalyāṇakāṇḍa Nāma Prakaraṇa",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:08.992234+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:45:35.172421+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 16 (HI)",
+            "timestamp": "2024-12-01 11:45:35.172421+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

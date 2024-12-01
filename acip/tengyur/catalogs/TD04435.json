@@ -1,53 +1,46 @@
 {
     "name": "TD04435_'PHAGS PA RGYAL MA ZHES BYA BA'I RIL BU.txt",
-    "path": "16 SNA TSOGS_Miscellany (Citritā)/VOL 8 (NO)",
+    "path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 8 (NO)",
     "download_path": "/tengyur updated 10 31 24 ws/16 sna tsogs_miscellany (citritā)/vol 8 (no)/td04435_'phags pa rgyal ma zhes bya ba'i ril bu.txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACEGQ",
     "revision_id": "62633e0b3d7c58d294473",
     "content_hash": "a851511f42b0182b2555931eaecb563f9cd844328ca02ba7916e4c4a95147fd0",
     "server_modified": "2024-11-06 00:48:35",
-    "last_sync": "2024-11-20 04:01:21.240165",
+    "last_sync": "2024-12-01 11:45:47.294807+00:00",
     "size": 13017,
-    "meta_text": null,
     "cat_ref": "TD04435",
     "work_ref": "W.TD04435",
     "title_tib": "'PHAGS PA RGYAL MA ZHES BYA BA'I RIL BU",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "274252574525",
             "subject_path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 8 (NO)",
-            "subject_path_tibetan": "BSTAN 'GYUR/16 SNA TSOGS/VOL 8 (NO)",
-            "subject_path_english": "Tengyur/Miscellany (Citritā)",
-            "subject_tibetan": "VOL 8 (NO)",
-            "subject_english": "Miscellany (Citritā)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SNA TSOGS/8 (NO)",
+            "subject_path_english": "Tengyur/Miscellany (Citritā)/VOL 8 (NO)",
+            "subject_tibetan": "8 (NO)",
+            "subject_english": "VOL 8 (NO)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 8 (NO)",
-            "timestamp": "2024-11-20 12:01:21.273501+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:21.273501+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:45:47.296633+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 8 (NO)",
+            "timestamp": "2024-12-01 11:45:47.296633+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

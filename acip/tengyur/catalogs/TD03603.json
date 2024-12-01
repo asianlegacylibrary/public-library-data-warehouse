@@ -1,53 +1,47 @@
 {
     "name": "TD03603_LHA MO NOR RGYUN MA'I SGRUB THABS (Devīvasudhārā Sādhana).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/vol 76 (mu)/td03603_lha mo nor rgyun ma'i sgrub thabs (devīvasudhārā sādhana).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACAFw",
     "revision_id": "62633d526fa828d294473",
     "content_hash": "f86bd8ffce031ed8e5a4de3c001b2694b320df1375a1888a4255132f9adba203",
     "server_modified": "2024-11-06 00:45:21",
-    "last_sync": "2024-11-20 04:00:45.137899",
+    "last_sync": "2024-12-01 11:45:16.680224+00:00",
     "size": 1455,
-    "meta_text": null,
     "cat_ref": "TD03603",
     "work_ref": "W.TD03603",
-    "title_tib": "",
+    "title_tib": "LHA MO NOR RGYUN MA'I SGRUB THABS",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "121782366104",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/VOL 76 (MU)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)",
-            "subject_tibetan": "VOL 76 (MU)",
-            "subject_english": "Diamond Way (Vajrayāna)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/76 (MU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/VOL 76 (MU)",
+            "subject_tibetan": "76 (MU)",
+            "subject_english": "VOL 76 (MU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
-            "timestamp": "2024-11-20 12:00:45.255259+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Devīvasudhārā Sādhana",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:45.255259+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:45:16.692653+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
+            "timestamp": "2024-12-01 11:45:16.692653+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

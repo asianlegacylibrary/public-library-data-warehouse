@@ -1,53 +1,47 @@
 {
     "name": "TD01112E_LHA LAS PHUL DU BYUNG BAR BSTOD PA_A Praise of the One Who is More Sublime than the Gods (Devātiśaya Stotra).TXT",
-    "path": "01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
+    "path": "BSTAN 'GYUR_Tengyur/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
     "download_path": "/tengyur updated 10 31 24 ws/01 bstod tsogs_songs of praise (stotra)/vol 1 (ka)/td01112e_lha las phul du byung bar bstod pa_a praise of the one who is more sublime than the gods (devātiśaya stotra).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB3uw",
     "revision_id": "62633bd5c88578d294473",
     "content_hash": "9dce1b02cb285c796fd7f60fd0635675c528c38977249bfd6bf4cd3cf1d01c62",
     "server_modified": "2024-11-06 00:38:42",
-    "last_sync": "2024-11-20 03:59:09.185979",
+    "last_sync": "2024-12-01 11:44:04.152099+00:00",
     "size": 5485,
-    "meta_text": null,
     "cat_ref": "TD01112E",
     "work_ref": "W.TD01112E",
     "title_tib": "LHA LAS PHUL DU BYUNG BAR BSTOD PA",
-    "title_eng": "A Praise of the One Who is More Sublime than the Gods (Devātiśaya Stotra)",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
+    "title_eng": "A Praise of the One Who is More Sublime than the Gods",
     "subject": [
         {
             "_id": "243715146395",
             "subject_path": "BSTAN 'GYUR_Tengyur/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
-            "subject_path_tibetan": "BSTAN 'GYUR/01 BSTOD TSOGS/VOL 1 (KA)",
-            "subject_path_english": "Tengyur/Songs of Praise (Stotra)",
-            "subject_tibetan": "VOL 1 (KA)",
-            "subject_english": "Songs of Praise (Stotra)"
+            "subject_path_tibetan": "BSTAN 'GYUR/BSTOD TSOGS/1 (KA)",
+            "subject_path_english": "Tengyur/Songs of Praise (Stotra)/VOL 1 (KA)",
+            "subject_tibetan": "1 (KA)",
+            "subject_english": "VOL 1 (KA)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
-            "timestamp": "2024-11-20 11:59:09.231842+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Devātiśaya Stotra",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:59:09.231842+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:44:04.154936+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
+            "timestamp": "2024-12-01 11:44:04.154936+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

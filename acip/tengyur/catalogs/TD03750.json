@@ -1,53 +1,47 @@
 {
     "name": "TD03750_JAMBHALA'I BSTOD PA (Jambhala Stotra).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/VOL 78 (TSU)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 78 (TSU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/vol 78 (tsu)/td03750_jambhala'i bstod pa (jambhala stotra).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB43A",
     "revision_id": "62633c0c880dd8d294473",
     "content_hash": "f8bda6eebf4d482f850e9b553b6897eba7b9687b197da73528220d68c28ca2ba",
     "server_modified": "2024-11-06 00:39:39",
-    "last_sync": "2024-11-20 03:59:31.718620",
+    "last_sync": "2024-12-01 11:44:18.879301+00:00",
     "size": 2636,
-    "meta_text": null,
     "cat_ref": "TD03750",
     "work_ref": "W.TD03750",
-    "title_tib": "",
+    "title_tib": "JAMBHALA'I BSTOD PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "869790939477",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 78 (TSU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/VOL 78 (TSU)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)",
-            "subject_tibetan": "VOL 78 (TSU)",
-            "subject_english": "Diamond Way (Vajrayāna)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/78 (TSU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/VOL 78 (TSU)",
+            "subject_tibetan": "78 (TSU)",
+            "subject_english": "VOL 78 (TSU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 78 (TSU)",
-            "timestamp": "2024-11-20 11:59:31.750839+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Jambhala Stotra",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:59:31.750839+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:44:18.884260+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 78 (TSU)",
+            "timestamp": "2024-12-01 11:44:18.884260+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

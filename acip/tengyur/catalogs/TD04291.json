@@ -1,53 +1,47 @@
 {
     "name": "TD04291_SMRA BA KUN LA 'JUG PA'I SGRA'I BSTAN BCOS KYI 'GREL PA (Sarva Bhāṣā Pravartana Vyākaraṇa Śāstra Vṛtti).txt",
-    "path": "12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 3 (SHE)",
+    "path": "BSTAN 'GYUR_Tengyur/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 3 (SHE)",
     "download_path": "/tengyur updated 10 31 24 ws/12 sgra mdo_study of sanskrit language (śabda)/vol 3 (she)/td04291_smra ba kun la 'jug pa'i sgra'i bstan bcos kyi 'grel pa (sarva bhāṣā pravartana vyākaraṇa śāstra vṛtti).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACDyA",
     "revision_id": "62633df98f7518d294473",
     "content_hash": "bb92e08b38bc6f006b8aa2d8386eeb7860f18716187f76ab5c7d1e358af88ac2",
     "server_modified": "2024-11-06 00:48:16",
-    "last_sync": "2024-11-20 04:01:17.387695",
+    "last_sync": "2024-12-01 11:45:44.320185+00:00",
     "size": 30686,
-    "meta_text": null,
     "cat_ref": "TD04291",
     "work_ref": "W.TD04291",
-    "title_tib": "",
+    "title_tib": "SMRA BA KUN LA 'JUG PA'I SGRA'I BSTAN BCOS KYI 'GREL PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "177229726903",
             "subject_path": "BSTAN 'GYUR_Tengyur/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 3 (SHE)",
-            "subject_path_tibetan": "BSTAN 'GYUR/12 SGRA MDO/VOL 3 (SHE)",
-            "subject_path_english": "Tengyur/Study of Sanskrit Language (Śabda)",
-            "subject_tibetan": "VOL 3 (SHE)",
-            "subject_english": "Study of Sanskrit Language (Śabda)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SGRA MDO/3 (SHE)",
+            "subject_path_english": "Tengyur/Study of Sanskrit Language (Śabda)/VOL 3 (SHE)",
+            "subject_tibetan": "3 (SHE)",
+            "subject_english": "VOL 3 (SHE)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 3 (SHE)",
-            "timestamp": "2024-11-20 12:01:17.411971+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Sarva Bhāṣā Pravartana Vyākaraṇa Śāstra Vṛtti",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:17.411971+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:45:44.321900+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 3 (SHE)",
+            "timestamp": "2024-12-01 11:45:44.321900+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

@@ -1,53 +1,47 @@
 {
     "name": "TD04179_DAM PA'I CHOS DRAN PA NYE BAR GZHAG PA'I TSIG LE'UR BYAS PA (Saddharma Smṛtyupasthāna Kārikā).txt",
-    "path": "10 SPRING YIG_Epistles (Lekha)/VOL 2 (NGE)",
+    "path": "BSTAN 'GYUR_Tengyur/10 SPRING YIG_Epistles (Lekha)/VOL 2 (NGE)",
     "download_path": "/tengyur updated 10 31 24 ws/10 spring yig_epistles (lekha)/vol 2 (nge)/td04179_dam pa'i chos dran pa nye bar gzhag pa'i tsig le'ur byas pa (saddharma smṛtyupasthāna kārikā).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB1uQ",
     "revision_id": "62633b3c388e48d294473",
     "content_hash": "b658d3ec0a09dcde87313f9ef2d3aaaeb6e709559a94d4af7c6c4e9b35812150",
     "server_modified": "2024-11-06 00:36:01",
-    "last_sync": "2024-11-20 03:58:12.191542",
+    "last_sync": "2024-12-01 11:43:15.114216+00:00",
     "size": 14467,
-    "meta_text": null,
     "cat_ref": "TD04179",
     "work_ref": "W.TD04179",
-    "title_tib": "",
+    "title_tib": "DAM PA'I CHOS DRAN PA NYE BAR GZHAG PA'I TSIG LE'UR BYAS PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "161575116623",
             "subject_path": "BSTAN 'GYUR_Tengyur/10 SPRING YIG_Epistles (Lekha)/VOL 2 (NGE)",
-            "subject_path_tibetan": "BSTAN 'GYUR/10 SPRING YIG/VOL 2 (NGE)",
-            "subject_path_english": "Tengyur/Epistles (Lekha)",
-            "subject_tibetan": "VOL 2 (NGE)",
-            "subject_english": "Epistles (Lekha)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SPRING YIG/2 (NGE)",
+            "subject_path_english": "Tengyur/Epistles (Lekha)/VOL 2 (NGE)",
+            "subject_tibetan": "2 (NGE)",
+            "subject_english": "VOL 2 (NGE)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/10 SPRING YIG_Epistles (Lekha)/VOL 2 (NGE)",
-            "timestamp": "2024-11-20 11:58:12.233609+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Saddharma Smṛtyupasthāna Kārikā",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:58:12.233609+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:43:15.116602+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/10 SPRING YIG_Epistles (Lekha)/VOL 2 (NGE)",
+            "timestamp": "2024-12-01 11:43:15.116602+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

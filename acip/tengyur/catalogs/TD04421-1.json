@@ -1,53 +1,47 @@
 {
     "name": "TD04421-1_CHOS MNGON PA MDZOD KYI BSHAD PA'I RGYA CHER 'GREL  PA [DON GYI DE KHO NA NYID] (Abhidharmakoṣa Bhāṣya Ṭīkā Tattvārtha (Nāma)).txt",
-    "path": "16 SNA TSOGS_Miscellany (Citritā)/VOL 6 (THO)",
+    "path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 6 (THO)",
     "download_path": "/tengyur updated 10 31 24 ws/16 sna tsogs_miscellany (citritā)/vol 6 (tho)/td04421-1_chos mngon pa mdzod kyi bshad pa'i rgya cher 'grel  pa [don gyi de kho na nyid] (abhidharmakoṣa bhāṣya ṭīkā tattvārtha (nāma)).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACEpQ",
     "revision_id": "62633e2fe7a8c8d294473",
     "content_hash": "4496a50d9dab2008f09e175c21ba49b56dd6b2a392cbd49ebb364cd9e7733c41",
     "server_modified": "2024-11-06 00:49:13",
-    "last_sync": "2024-11-20 04:01:26.722626",
+    "last_sync": "2024-12-01 11:45:51.795728+00:00",
     "size": 1674023,
-    "meta_text": null,
     "cat_ref": "TD04421-1",
     "work_ref": "W.TD04421-1",
-    "title_tib": "",
+    "title_tib": "CHOS MNGON PA MDZOD KYI BSHAD PA'I RGYA CHER 'GREL  PA [DON GYI DE KHO NA NYID]",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "337693608951",
             "subject_path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 6 (THO)",
-            "subject_path_tibetan": "BSTAN 'GYUR/16 SNA TSOGS/VOL 6 (THO)",
-            "subject_path_english": "Tengyur/Miscellany (Citritā)",
-            "subject_tibetan": "VOL 6 (THO)",
-            "subject_english": "Miscellany (Citritā)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SNA TSOGS/6 (THO)",
+            "subject_path_english": "Tengyur/Miscellany (Citritā)/VOL 6 (THO)",
+            "subject_tibetan": "6 (THO)",
+            "subject_english": "VOL 6 (THO)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 6 (THO)",
-            "timestamp": "2024-11-20 12:01:26.726048+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Abhidharmakoṣa Bhāṣya Ṭīkā Tattvārtha (Nāma)",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:26.726048+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:45:51.796121+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 6 (THO)",
+            "timestamp": "2024-12-01 11:45:51.796121+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

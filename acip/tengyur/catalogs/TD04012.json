@@ -1,53 +1,47 @@
 {
     "name": "TD04012_KUN TU BZANG PO'I SPYOD PA'I SMON LAM GYI DON KUN BSDUS (Samantabhadra Caryā Praṇidhānārtha Sagraha).txt",
-    "path": "05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 5 (NYI)",
+    "path": "BSTAN 'GYUR_Tengyur/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 5 (NYI)",
     "download_path": "/tengyur updated 10 31 24 ws/05 mdo 'grel_commentaries to sutras (sūtra vṛtti)/vol 5 (nyi)/td04012_kun tu bzang po'i spyod pa'i smon lam gyi don kun bsdus (samantabhadra caryā praṇidhānārtha sagraha).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB1tA",
     "revision_id": "62633b3ae71b88d294473",
     "content_hash": "95e66549ebd6b549cce54e3b240d2cd970b3bf9fe4b89f0d0b349a8f50b670e8",
     "server_modified": "2024-11-06 00:36:00",
-    "last_sync": "2024-11-20 03:58:08.981491",
+    "last_sync": "2024-12-01 11:43:13.024820+00:00",
     "size": 73174,
-    "meta_text": null,
     "cat_ref": "TD04012",
     "work_ref": "W.TD04012",
-    "title_tib": "",
+    "title_tib": "KUN TU BZANG PO'I SPYOD PA'I SMON LAM GYI DON KUN BSDUS",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "328587798288",
             "subject_path": "BSTAN 'GYUR_Tengyur/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 5 (NYI)",
-            "subject_path_tibetan": "BSTAN 'GYUR/05 MDO 'GREL/VOL 5 (NYI)",
-            "subject_path_english": "Tengyur/Commentaries to Sutras (Sūtra Vṛtti)",
-            "subject_tibetan": "VOL 5 (NYI)",
-            "subject_english": "Commentaries to Sutras (Sūtra Vṛtti)"
+            "subject_path_tibetan": "BSTAN 'GYUR/MDO 'GREL/5 (NYI)",
+            "subject_path_english": "Tengyur/Commentaries to Sutras (Sūtra Vṛtti)/VOL 5 (NYI)",
+            "subject_tibetan": "5 (NYI)",
+            "subject_english": "VOL 5 (NYI)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 5 (NYI)",
-            "timestamp": "2024-11-20 11:58:10.064149+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Samantabhadra Caryā Praṇidhānārtha Sagraha",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:58:10.064149+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:43:13.026768+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 5 (NYI)",
+            "timestamp": "2024-12-01 11:43:13.026768+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

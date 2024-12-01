@@ -1,53 +1,47 @@
 {
     "name": "TD04168_LEGS PAR BSHAD PA RIN PO CHE ZA MA TOG LTA BU'I GTAM (Subhāṣita Ratna Karaṇḍaka Kathā).txt",
-    "path": "10 SPRING YIG_Epistles (Lekha)/VOL 1 (GE-2)",
+    "path": "BSTAN 'GYUR_Tengyur/10 SPRING YIG_Epistles (Lekha)/VOL 1 (GE-2)",
     "download_path": "/tengyur updated 10 31 24 ws/10 spring yig_epistles (lekha)/vol 1 (ge-2)/td04168_legs par bshad pa rin po che za ma tog lta bu'i gtam (subhāṣita ratna karaṇḍaka kathā).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB14w",
     "revision_id": "62633b41d16b88d294473",
     "content_hash": "9427076e2c948a3eddc0bc2d8112719396f0fcd00a469b5ec562a726c228c0d9",
     "server_modified": "2024-11-06 00:36:07",
-    "last_sync": "2024-11-20 03:58:13.112362",
+    "last_sync": "2024-12-01 11:43:15.723486+00:00",
     "size": 44226,
-    "meta_text": null,
     "cat_ref": "TD04168",
     "work_ref": "W.TD04168",
-    "title_tib": "",
+    "title_tib": "LEGS PAR BSHAD PA RIN PO CHE ZA MA TOG LTA BU'I GTAM",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "185433284541",
             "subject_path": "BSTAN 'GYUR_Tengyur/10 SPRING YIG_Epistles (Lekha)/VOL 1 (GE-2)",
-            "subject_path_tibetan": "BSTAN 'GYUR/10 SPRING YIG/VOL 1 (GE-2)",
-            "subject_path_english": "Tengyur/Epistles (Lekha)",
-            "subject_tibetan": "VOL 1 (GE-2)",
-            "subject_english": "Epistles (Lekha)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SPRING YIG/1 (GE-2)",
+            "subject_path_english": "Tengyur/Epistles (Lekha)/VOL 1 (GE-2)",
+            "subject_tibetan": "1 (GE-2)",
+            "subject_english": "VOL 1 (GE-2)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/10 SPRING YIG_Epistles (Lekha)/VOL 1 (GE-2)",
-            "timestamp": "2024-11-20 11:58:13.132317+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Subhāṣita Ratna Karaṇḍaka Kathā",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:58:13.132317+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:43:15.725158+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/10 SPRING YIG_Epistles (Lekha)/VOL 1 (GE-2)",
+            "timestamp": "2024-12-01 11:43:15.725158+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

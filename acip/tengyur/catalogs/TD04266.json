@@ -1,53 +1,47 @@
 {
     "name": "TD04266_DE KHO NA NYID BSDUS PA'I TSIG LE'UR BYAS PA (Tattva Saṃgraha Kārikā).txt",
-    "path": "11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 18 (ZE)",
+    "path": "BSTAN 'GYUR_Tengyur/11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 18 (ZE)",
     "download_path": "/tengyur updated 10 31 24 ws/11 tsad ma_logic & perceptual theory (pramāṇa)/vol 18 (ze)/td04266_de kho na nyid bsdus pa'i tsig le'ur byas pa (tattva saṃgraha kārikā).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB2Fw",
     "revision_id": "62633b554f5ec8d294473",
     "content_hash": "6d707fc86da6648ebd30131b912074d355672ea4e1d5b95e96d5735d4e1bec12",
     "server_modified": "2024-11-06 00:36:27",
-    "last_sync": "2024-11-20 03:58:19.566913",
+    "last_sync": "2024-12-01 11:43:21.309506+00:00",
     "size": 495267,
-    "meta_text": null,
     "cat_ref": "TD04266",
     "work_ref": "W.TD04266",
-    "title_tib": "",
+    "title_tib": "DE KHO NA NYID BSDUS PA'I TSIG LE'UR BYAS PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "281853023094",
             "subject_path": "BSTAN 'GYUR_Tengyur/11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 18 (ZE)",
-            "subject_path_tibetan": "BSTAN 'GYUR/11 TSAD MA/VOL 18 (ZE)",
-            "subject_path_english": "Tengyur/Logic & Perceptual Theory (Pramāṇa)",
-            "subject_tibetan": "VOL 18 (ZE)",
-            "subject_english": "Logic & Perceptual Theory (Pramāṇa)"
+            "subject_path_tibetan": "BSTAN 'GYUR/TSAD MA/18 (ZE)",
+            "subject_path_english": "Tengyur/Logic & Perceptual Theory (Pramāṇa)/VOL 18 (ZE)",
+            "subject_tibetan": "18 (ZE)",
+            "subject_english": "VOL 18 (ZE)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 18 (ZE)",
-            "timestamp": "2024-11-20 11:58:19.573674+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Tattva Saṃgraha Kārikā",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:58:19.573674+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:43:21.310077+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 18 (ZE)",
+            "timestamp": "2024-12-01 11:43:21.310077+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

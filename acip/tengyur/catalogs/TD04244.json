@@ -1,53 +1,47 @@
 {
     "name": "TD04244_PHYI ROL GYI DON GRUB PA ZHES BYA BA'I TSIG LE'UR BYAS PA (Bāhyārtha Siddhi Kārikā (Nāma)).txt",
-    "path": "11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 17 (ZHE)",
+    "path": "BSTAN 'GYUR_Tengyur/11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 17 (ZHE)",
     "download_path": "/tengyur updated 10 31 24 ws/11 tsad ma_logic & perceptual theory (pramāṇa)/vol 17 (zhe)/td04244_phyi rol gyi don grub pa zhes bya ba'i tsig le'ur byas pa (bāhyārtha siddhi kārikā (nāma)).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB2Jw",
     "revision_id": "62633b57ed69a8d294473",
     "content_hash": "35e6f02ebb3f1d1e28ad16c15e64c0205d60a23db5888d6ce14e4c1e1b8b9adf",
     "server_modified": "2024-11-06 00:36:30",
-    "last_sync": "2024-11-20 03:58:18.792669",
+    "last_sync": "2024-12-01 11:43:20.695084+00:00",
     "size": 26176,
-    "meta_text": null,
     "cat_ref": "TD04244",
     "work_ref": "W.TD04244",
-    "title_tib": "",
+    "title_tib": "PHYI ROL GYI DON GRUB PA ZHES BYA BA'I TSIG LE'UR BYAS PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "120037800368",
             "subject_path": "BSTAN 'GYUR_Tengyur/11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 17 (ZHE)",
-            "subject_path_tibetan": "BSTAN 'GYUR/11 TSAD MA/VOL 17 (ZHE)",
-            "subject_path_english": "Tengyur/Logic & Perceptual Theory (Pramāṇa)",
-            "subject_tibetan": "VOL 17 (ZHE)",
-            "subject_english": "Logic & Perceptual Theory (Pramāṇa)"
+            "subject_path_tibetan": "BSTAN 'GYUR/TSAD MA/17 (ZHE)",
+            "subject_path_english": "Tengyur/Logic & Perceptual Theory (Pramāṇa)/VOL 17 (ZHE)",
+            "subject_tibetan": "17 (ZHE)",
+            "subject_english": "VOL 17 (ZHE)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 17 (ZHE)",
-            "timestamp": "2024-11-20 11:58:18.809988+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Bāhyārtha Siddhi Kārikā (Nāma)",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:58:18.809988+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:43:20.697789+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 17 (ZHE)",
+            "timestamp": "2024-12-01 11:43:20.697789+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

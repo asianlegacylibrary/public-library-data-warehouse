@@ -1,53 +1,46 @@
 {
     "name": "TD04038-2_RNAL 'BYOR SPYOD PA'I SA RNAM PAR GTAN LA DBAB PA BSDU BA (Yogacaryā Bhūmi Viniścaya Saṃgraha).txt.txt",
-    "path": "06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 9 (ZI)",
+    "path": "BSTAN 'GYUR_Tengyur/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 9 (ZI)",
     "download_path": "/tengyur updated 10 31 24 ws/06 sems tzam_mind only school (cittamātra)/vol 9 (zi)/td04038-2_rnal 'byor spyod pa'i sa rnam par gtan la dbab pa bsdu ba (yogacaryā bhūmi viniścaya saṃgraha).txt.txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACDlQ",
     "revision_id": "62633de579e1e8d294473",
     "content_hash": "5ea076f49bdd71380a21d60c9d415bc528c67fb1873d0761783a0670d76aab9a",
     "server_modified": "2024-11-06 00:47:55",
-    "last_sync": "2024-11-20 04:01:08.195205",
+    "last_sync": "2024-12-01 11:45:34.605207+00:00",
     "size": 477170,
-    "meta_text": null,
     "cat_ref": "TD04038-2",
     "work_ref": "W.TD04038-2",
-    "title_tib": "",
+    "title_tib": "RNAL 'BYOR SPYOD PA'I SA RNAM PAR GTAN LA DBAB PA BSDU BA (Yogacaryā Bhūmi Viniścaya Saṃgraha).txt",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "143153470326",
             "subject_path": "BSTAN 'GYUR_Tengyur/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 9 (ZI)",
-            "subject_path_tibetan": "BSTAN 'GYUR/06 SEMS TZAM/VOL 9 (ZI)",
-            "subject_path_english": "Tengyur/Mind Only School (Cittamātra)",
-            "subject_tibetan": "VOL 9 (ZI)",
-            "subject_english": "Mind Only School (Cittamātra)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SEMS TZAM/9 (ZI)",
+            "subject_path_english": "Tengyur/Mind Only School (Cittamātra)/VOL 9 (ZI)",
+            "subject_tibetan": "9 (ZI)",
+            "subject_english": "VOL 9 (ZI)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 9 (ZI)",
-            "timestamp": "2024-11-20 12:01:08.202400+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:08.202400+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:45:34.605687+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 9 (ZI)",
+            "timestamp": "2024-12-01 11:45:34.605687+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

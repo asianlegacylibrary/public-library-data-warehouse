@@ -1,53 +1,47 @@
 {
     "name": "TD04073_BSAM GTAN GYI SGRON MA ZHES BYA BA'I MAN NGAG (Dhyānadīpanāmopadeśa Nāma).txt",
-    "path": "06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 16 (HI)",
+    "path": "BSTAN 'GYUR_Tengyur/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 16 (HI)",
     "download_path": "/tengyur updated 10 31 24 ws/06 sems tzam_mind only school (cittamātra)/vol 16 (hi)/td04073_bsam gtan gyi sgron ma zhes bya ba'i man ngag (dhyānadīpanāmopadeśa nāma).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACDow",
     "revision_id": "62633dea321c08d294473",
     "content_hash": "8c2022bcb10eeff3a9845de1eb8129092f7ecbf91754c09bce0bf55dca787a5d",
     "server_modified": "2024-11-06 00:48:00",
-    "last_sync": "2024-11-20 04:01:08.979510",
+    "last_sync": "2024-12-01 11:45:35.168871+00:00",
     "size": 24311,
-    "meta_text": null,
     "cat_ref": "TD04073",
     "work_ref": "W.TD04073",
-    "title_tib": "",
+    "title_tib": "BSAM GTAN GYI SGRON MA ZHES BYA BA'I MAN NGAG",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "233087936475",
             "subject_path": "BSTAN 'GYUR_Tengyur/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 16 (HI)",
-            "subject_path_tibetan": "BSTAN 'GYUR/06 SEMS TZAM/VOL 16 (HI)",
-            "subject_path_english": "Tengyur/Mind Only School (Cittamātra)",
-            "subject_tibetan": "VOL 16 (HI)",
-            "subject_english": "Mind Only School (Cittamātra)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SEMS TZAM/16 (HI)",
+            "subject_path_english": "Tengyur/Mind Only School (Cittamātra)/VOL 16 (HI)",
+            "subject_tibetan": "16 (HI)",
+            "subject_english": "VOL 16 (HI)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 16 (HI)",
-            "timestamp": "2024-11-20 12:01:08.992112+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Dhyānadīpanāmopadeśa Nāma",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:08.992112+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:45:35.172107+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 16 (HI)",
+            "timestamp": "2024-12-01 11:45:35.172107+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

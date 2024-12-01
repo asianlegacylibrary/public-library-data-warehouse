@@ -1,53 +1,47 @@
 {
     "name": "TD03579_KU RU KUL+LE'I LAS RAB TU BRKYANG BA SBYONG BA (Kurukulle Karma Prasaraprayoga).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/vol 76 (mu)/td03579_ku ru kul+le'i las rab tu brkyang ba sbyong ba (kurukulle karma prasaraprayoga).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB_Xg",
     "revision_id": "62633d2f5dfec8d294473",
     "content_hash": "51d297921ea884fc70f4426213f8e8fe994066b8def21807e69741e2c28fdacc",
     "server_modified": "2024-11-06 00:44:44",
-    "last_sync": "2024-11-20 04:00:44.984758",
+    "last_sync": "2024-12-01 11:45:16.673285+00:00",
     "size": 1817,
-    "meta_text": null,
     "cat_ref": "TD03579",
     "work_ref": "W.TD03579",
-    "title_tib": "",
+    "title_tib": "KU RU KUL+LE'I LAS RAB TU BRKYANG BA SBYONG BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "121782366104",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/VOL 76 (MU)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)",
-            "subject_tibetan": "VOL 76 (MU)",
-            "subject_english": "Diamond Way (Vajrayāna)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/76 (MU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/VOL 76 (MU)",
+            "subject_tibetan": "76 (MU)",
+            "subject_english": "VOL 76 (MU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
-            "timestamp": "2024-11-20 12:00:45.249818+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Kurukulle Karma Prasaraprayoga",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:45.249818+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:45:16.686538+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
+            "timestamp": "2024-12-01 11:45:16.686538+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

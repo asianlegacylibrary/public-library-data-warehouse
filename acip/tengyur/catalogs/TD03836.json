@@ -1,53 +1,47 @@
 {
     "name": "TD03836_RTEN CING 'BREL BAR 'BYUNG BA'I SNYING PO'I TSIG LE'UR BYAS PA (Pratītyasamutpāda Hṛdaya Kārikā).txt",
-    "path": "04 DBU MA_Middle Way School (Madhyamaka)/VOL 1 (TZA)",
+    "path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 1 (TZA)",
     "download_path": "/tengyur updated 10 31 24 ws/04 dbu ma_middle way school (madhyamaka)/vol 1 (tza)/td03836_rten cing 'brel bar 'byung ba'i snying po'i tsig le'ur byas pa (pratītyasamutpāda hṛdaya kārikā).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB3dw",
     "revision_id": "62633bcbca4c58d294473",
     "content_hash": "6dee889422fa797bcddc79b348f8b5c1170a5e230f0dcc89a81a723496bbd578",
     "server_modified": "2024-11-06 00:38:31",
-    "last_sync": "2024-11-20 03:59:06.410837",
+    "last_sync": "2024-12-01 11:44:02.078288+00:00",
     "size": 1345,
-    "meta_text": null,
     "cat_ref": "TD03836",
     "work_ref": "W.TD03836",
-    "title_tib": "",
+    "title_tib": "RTEN CING 'BREL BAR 'BYUNG BA'I SNYING PO'I TSIG LE'UR BYAS PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "273700297115",
             "subject_path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 1 (TZA)",
-            "subject_path_tibetan": "BSTAN 'GYUR/04 DBU MA/VOL 1 (TZA)",
-            "subject_path_english": "Tengyur/Middle Way School (Madhyamaka)",
-            "subject_tibetan": "VOL 1 (TZA)",
-            "subject_english": "Middle Way School (Madhyamaka)"
+            "subject_path_tibetan": "BSTAN 'GYUR/DBU MA/1 (TZA)",
+            "subject_path_english": "Tengyur/Middle Way School (Madhyamaka)/VOL 1 (TZA)",
+            "subject_tibetan": "1 (TZA)",
+            "subject_english": "VOL 1 (TZA)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 1 (TZA)",
-            "timestamp": "2024-11-20 11:59:06.414931+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Pratītyasamutpāda Hṛdaya Kārikā",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:59:06.414931+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:44:02.080993+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 1 (TZA)",
+            "timestamp": "2024-12-01 11:44:02.080993+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

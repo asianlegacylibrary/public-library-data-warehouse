@@ -1,53 +1,47 @@
 {
     "name": "TD01401_DPAL 'KHOR LO SDOM PA'I DKA' 'GREL SGRUB PA'I THABS KYI GLENG GZHI ZHES BYA BA (Sādhana Nidāna Nāma Śrī Cakrasaṃvara Pañjikā).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/01 YAB BKA'_Father Texts (Pitṛ)/01 RGYUD 'GREL_Commentaries to Original Tantras (Tantra Vṛtti)/VOL 15 (BA)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/01 YAB BKA'_Father Texts (Pitṛ)/01 RGYUD 'GREL_Commentaries to Original Tantras (Tantra Vṛtti)/VOL 15 (BA)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/01 rnal 'byor bla med_unsurpassed practice (anuttara yoga)/03 bde mchog_highest bliss (saṃvara)/01 yab bka'_father texts (pitṛ)/01 rgyud 'grel_commentaries to original tantras (tantra vṛtti)/vol 15 (ba)/td01401_dpal 'khor lo sdom pa'i dka' 'grel sgrub pa'i thabs kyi gleng gzhi zhes bya ba (sādhana nidāna nāma śrī cakrasaṃvara pañjikā).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB7FA",
     "revision_id": "62633c6d9cca78d294473",
     "content_hash": "6f72c7c0a354078ad4156125b8d96314c01ea7ebc902a98c8ad3633175436693",
     "server_modified": "2024-11-06 00:41:21",
-    "last_sync": "2024-11-20 03:59:56.946328",
+    "last_sync": "2024-12-01 11:44:39.157748+00:00",
     "size": 299362,
-    "meta_text": null,
     "cat_ref": "TD01401",
     "work_ref": "W.TD01401",
-    "title_tib": "",
+    "title_tib": "DPAL 'KHOR LO SDOM PA'I DKA' 'GREL SGRUB PA'I THABS KYI GLENG GZHI ZHES BYA BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "553837435294",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/01 YAB BKA'_Father Texts (Pitṛ)/01 RGYUD 'GREL_Commentaries to Original Tantras (Tantra Vṛtti)/VOL 15 (BA)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/01 RNAL 'BYOR BLA MED/03 BDE MCHOG/01 YAB BKA'/01 RGYUD 'GREL/VOL 15 (BA)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Highest Bliss (Saṃvara)/Father Texts (Pitṛ)/Commentaries to Original Tantras (Tantra Vṛtti)",
-            "subject_tibetan": "VOL 15 (BA)",
-            "subject_english": "Commentaries to Original Tantras (Tantra Vṛtti)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/RNAL 'BYOR BLA MED/BDE MCHOG/YAB BKA'/RGYUD 'GREL/15 (BA)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Highest Bliss (Saṃvara)/Father Texts (Pitṛ)/Commentaries to Original Tantras (Tantra Vṛtti)/VOL 15 (BA)",
+            "subject_tibetan": "15 (BA)",
+            "subject_english": "VOL 15 (BA)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/01 YAB BKA'_Father Texts (Pitṛ)/01 RGYUD 'GREL_Commentaries to Original Tantras (Tantra Vṛtti)/VOL 15 (BA)",
-            "timestamp": "2024-11-20 11:59:56.951710+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Sādhana Nidāna Nāma Śrī Cakrasaṃvara Pañjikā",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:59:56.951710+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:44:39.159033+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/01 YAB BKA'_Father Texts (Pitṛ)/01 RGYUD 'GREL_Commentaries to Original Tantras (Tantra Vṛtti)/VOL 15 (BA)",
+            "timestamp": "2024-12-01 11:44:39.159033+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

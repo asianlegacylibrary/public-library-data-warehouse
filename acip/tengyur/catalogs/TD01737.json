@@ -1,53 +1,47 @@
 {
     "name": "TD01737_THUGS RJE SGROL MA'I SGRUB THABS ZHES BYA BA (Kāruṇika Tārā Sādhana).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/09 SGROL MA_Lady of Liberation (Tārā)/01 BLA MED RNAL 'BYOR RGYUD_Within the Unsurpassed Yoga Class (Anuttara Yoga)/VOL 27 (SHA)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/09 SGROL MA_Lady of Liberation (Tārā)/01 BLA MED RNAL 'BYOR RGYUD_Within the Unsurpassed Yoga Class (Anuttara Yoga)/VOL 27 (SHA)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/01 rnal 'byor bla med_unsurpassed practice (anuttara yoga)/09 sgrol ma_lady of liberation (tārā)/01 bla med rnal 'byor rgyud_within the unsurpassed yoga class (anuttara yoga)/vol 27 (sha)/td01737_thugs rje sgrol ma'i sgrub thabs zhes bya ba (kāruṇika tārā sādhana).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB9rQ",
     "revision_id": "62633ce8f86458d294473",
     "content_hash": "2b2cd6592479edc77f154c799d0925cb442d3deb19f2803d395a51f00c8b4306",
     "server_modified": "2024-11-06 00:43:30",
-    "last_sync": "2024-11-20 04:00:30.827985",
+    "last_sync": "2024-12-01 11:45:04.755901+00:00",
     "size": 4516,
-    "meta_text": null,
     "cat_ref": "TD01737",
     "work_ref": "W.TD01737",
-    "title_tib": "",
+    "title_tib": "THUGS RJE SGROL MA'I SGRUB THABS ZHES BYA BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "228442350192",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/09 SGROL MA_Lady of Liberation (Tārā)/01 BLA MED RNAL 'BYOR RGYUD_Within the Unsurpassed Yoga Class (Anuttara Yoga)/VOL 27 (SHA)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/01 RNAL 'BYOR BLA MED/09 SGROL MA/01 BLA MED RNAL 'BYOR RGYUD/VOL 27 (SHA)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Lady of Liberation (Tārā)/Within the Unsurpassed Yoga Class (Anuttara Yoga)",
-            "subject_tibetan": "VOL 27 (SHA)",
-            "subject_english": "Within the Unsurpassed Yoga Class (Anuttara Yoga)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/RNAL 'BYOR BLA MED/SGROL MA/BLA MED RNAL 'BYOR RGYUD/27 (SHA)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Lady of Liberation (Tārā)/Within the Unsurpassed Yoga Class (Anuttara Yoga)/VOL 27 (SHA)",
+            "subject_tibetan": "27 (SHA)",
+            "subject_english": "VOL 27 (SHA)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/09 SGROL MA_Lady of Liberation (Tārā)/01 BLA MED RNAL 'BYOR RGYUD_Within the Unsurpassed Yoga Class (Anuttara Yoga)/VOL 27 (SHA)",
-            "timestamp": "2024-11-20 12:00:30.881043+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Kāruṇika Tārā Sādhana",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:30.881043+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:45:04.760418+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/09 SGROL MA_Lady of Liberation (Tārā)/01 BLA MED RNAL 'BYOR RGYUD_Within the Unsurpassed Yoga Class (Anuttara Yoga)/VOL 27 (SHA)",
+            "timestamp": "2024-12-01 11:45:04.760418+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

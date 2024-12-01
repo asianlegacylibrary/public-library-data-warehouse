@@ -1,53 +1,47 @@
 {
     "name": "TD01790_SGRON MA GSAL BAR BYED PA'I GSAL BYED CES BYA BA'I DKA' 'GREL (Pradīpodyotanodyota Nāma Pañjikā*).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/10 GSANG BA ‘DUS PA_Secret Collection (Guhya Samāja)/01 KLU SGRUB LUGS_System of Arya Nagarjuna (Nāgārjuna Krama)/01 RGYUD 'BREL_Commentaries to Original Tantras (Tantra Vṛtti)/VOL 30 (AA)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/10 GSANG BA ‘DUS PA_Secret Collection (Guhya Samāja)/01 KLU SGRUB LUGS_System of Arya Nagarjuna (Nāgārjuna Krama)/01 RGYUD 'BREL_Commentaries to Original Tantras (Tantra Vṛtti)/VOL 30 (AA)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/01 rnal 'byor bla med_unsurpassed practice (anuttara yoga)/10 gsang ba ‘dus pa_secret collection (guhya samāja)/01 klu sgrub lugs_system of arya nagarjuna (nāgārjuna krama)/01 rgyud 'brel_commentaries to original tantras (tantra vṛtti)/vol 30 (aa)/td01790_sgron ma gsal bar byed pa'i gsal byed ces bya ba'i dka' 'grel (pradīpodyotanodyota nāma pañjikā*).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB6uA",
     "revision_id": "62633c5d63e798d294473",
     "content_hash": "5b36248a6949233a51fcf760f5a5b3ba57cb4a23c98f816f634693cb14874b02",
     "server_modified": "2024-11-06 00:41:04",
-    "last_sync": "2024-11-20 03:59:50.174300",
+    "last_sync": "2024-12-01 11:44:33.234358+00:00",
     "size": 634194,
-    "meta_text": null,
     "cat_ref": "TD01790",
     "work_ref": "W.TD01790",
-    "title_tib": "",
+    "title_tib": "SGRON MA GSAL BAR BYED PA'I GSAL BYED CES BYA BA'I DKA' 'GREL",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "177730816890",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/10 GSANG BA ‘DUS PA_Secret Collection (Guhya Samāja)/01 KLU SGRUB LUGS_System of Arya Nagarjuna (Nāgārjuna Krama)/01 RGYUD 'BREL_Commentaries to Original Tantras (Tantra Vṛtti)/VOL 30 (AA)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/01 RNAL 'BYOR BLA MED/10 GSANG BA ‘DUS PA/01 KLU SGRUB LUGS/01 RGYUD 'BREL/VOL 30 (AA)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Secret Collection (Guhya Samāja)/System of Arya Nagarjuna (Nāgārjuna Krama)/Commentaries to Original Tantras (Tantra Vṛtti)",
-            "subject_tibetan": "VOL 30 (AA)",
-            "subject_english": "Commentaries to Original Tantras (Tantra Vṛtti)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/RNAL 'BYOR BLA MED/GSANG BA ‘DUS PA/KLU SGRUB LUGS/RGYUD 'BREL/30 (AA)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Secret Collection (Guhya Samāja)/System of Arya Nagarjuna (Nāgārjuna Krama)/Commentaries to Original Tantras (Tantra Vṛtti)/VOL 30 (AA)",
+            "subject_tibetan": "30 (AA)",
+            "subject_english": "VOL 30 (AA)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/10 GSANG BA ‘DUS PA_Secret Collection (Guhya Samāja)/01 KLU SGRUB LUGS_System of Arya Nagarjuna (Nāgārjuna Krama)/01 RGYUD 'BREL_Commentaries to Original Tantras (Tantra Vṛtti)/VOL 30 (AA)",
-            "timestamp": "2024-11-20 11:59:50.178523+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Pradīpodyotanodyota Nāma Pañjikā*",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:59:50.178523+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:44:33.235477+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/10 GSANG BA ‘DUS PA_Secret Collection (Guhya Samāja)/01 KLU SGRUB LUGS_System of Arya Nagarjuna (Nāgārjuna Krama)/01 RGYUD 'BREL_Commentaries to Original Tantras (Tantra Vṛtti)/VOL 30 (AA)",
+            "timestamp": "2024-12-01 11:44:33.235477+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

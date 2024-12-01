@@ -1,53 +1,47 @@
 {
     "name": "TD01526_BDUD RTZI 'OD ZER CAN ZHES BYA BA (Amṛta Marīci (Nāma)).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/01 YAB BKA'_Father Texts (Pitṛ)/02 SGRUB SKOR_Practice Materials (Sādhya)/VOL 22 (ZA)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/01 YAB BKA'_Father Texts (Pitṛ)/02 SGRUB SKOR_Practice Materials (Sādhya)/VOL 22 (ZA)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/01 rnal 'byor bla med_unsurpassed practice (anuttara yoga)/03 bde mchog_highest bliss (saṃvara)/01 yab bka'_father texts (pitṛ)/02 sgrub skor_practice materials (sādhya)/vol 22 (za)/td01526_bdud rtzi 'od zer can zhes bya ba (amṛta marīci (nāma)).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB7PA",
     "revision_id": "62633c74b89918d294473",
     "content_hash": "41cf52e8a4f2611145f3ed64165ea6c2d9d359d6476b3ce21cb1d3dd4e0c9463",
     "server_modified": "2024-11-06 00:41:29",
-    "last_sync": "2024-11-20 04:00:00.778696",
+    "last_sync": "2024-12-01 11:44:42.177060+00:00",
     "size": 3999,
-    "meta_text": null,
     "cat_ref": "TD01526",
     "work_ref": "W.TD01526",
-    "title_tib": "",
+    "title_tib": "BDUD RTZI 'OD ZER CAN ZHES BYA BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "209854412724",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/01 YAB BKA'_Father Texts (Pitṛ)/02 SGRUB SKOR_Practice Materials (Sādhya)/VOL 22 (ZA)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/01 RNAL 'BYOR BLA MED/03 BDE MCHOG/01 YAB BKA'/02 SGRUB SKOR/VOL 22 (ZA)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Highest Bliss (Saṃvara)/Father Texts (Pitṛ)/Practice Materials (Sādhya)",
-            "subject_tibetan": "VOL 22 (ZA)",
-            "subject_english": "Practice Materials (Sādhya)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/RNAL 'BYOR BLA MED/BDE MCHOG/YAB BKA'/SGRUB SKOR/22 (ZA)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Highest Bliss (Saṃvara)/Father Texts (Pitṛ)/Practice Materials (Sādhya)/VOL 22 (ZA)",
+            "subject_tibetan": "22 (ZA)",
+            "subject_english": "VOL 22 (ZA)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/01 YAB BKA'_Father Texts (Pitṛ)/02 SGRUB SKOR_Practice Materials (Sādhya)/VOL 22 (ZA)",
-            "timestamp": "2024-11-20 12:00:00.787447+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Amṛta Marīci (Nāma)",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:00.787447+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:44:42.179044+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/01 YAB BKA'_Father Texts (Pitṛ)/02 SGRUB SKOR_Practice Materials (Sādhya)/VOL 22 (ZA)",
+            "timestamp": "2024-12-01 11:44:42.179044+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

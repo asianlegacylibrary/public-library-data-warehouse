@@ -1,53 +1,47 @@
 {
     "name": "TD04428_TZANDRA PA'I AUnA LA SOGS PA'I 'GREL PA ZHES BYA BA (Uṇādi Vṛtti (Nāma)).txt",
-    "path": "16 SNA TSOGS_Miscellany (Citritā)/VOL 8 (NO)",
+    "path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 8 (NO)",
     "download_path": "/tengyur updated 10 31 24 ws/16 sna tsogs_miscellany (citritā)/vol 8 (no)/td04428_tzandra pa'i auna la sogs pa'i 'grel pa zhes bya ba (uṇādi vṛtti (nāma)).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACEEA",
     "revision_id": "62633e0a300ac8d294473",
     "content_hash": "ccc72a6901fdf5f56b9fedeb0747781ffa5b2f54c2b2eb6ade89818032d1f075",
     "server_modified": "2024-11-06 00:48:34",
-    "last_sync": "2024-11-20 04:01:21.223021",
+    "last_sync": "2024-12-01 11:45:47.294404+00:00",
     "size": 152478,
-    "meta_text": null,
     "cat_ref": "TD04428",
     "work_ref": "W.TD04428",
-    "title_tib": "",
+    "title_tib": "TZANDRA PA'I AUnA LA SOGS PA'I 'GREL PA ZHES BYA BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "274252574525",
             "subject_path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 8 (NO)",
-            "subject_path_tibetan": "BSTAN 'GYUR/16 SNA TSOGS/VOL 8 (NO)",
-            "subject_path_english": "Tengyur/Miscellany (Citritā)",
-            "subject_tibetan": "VOL 8 (NO)",
-            "subject_english": "Miscellany (Citritā)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SNA TSOGS/8 (NO)",
+            "subject_path_english": "Tengyur/Miscellany (Citritā)/VOL 8 (NO)",
+            "subject_tibetan": "8 (NO)",
+            "subject_english": "VOL 8 (NO)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 8 (NO)",
-            "timestamp": "2024-11-20 12:01:21.273192+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Uṇādi Vṛtti (Nāma)",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:21.273192+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:45:47.296069+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 8 (NO)",
+            "timestamp": "2024-12-01 11:45:47.296069+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

@@ -1,53 +1,47 @@
 {
     "name": "TD04029_THEG PA CHEN PO'I MDO SDE'I RGYAN GYI RGYA CHER BSHAD PA (Mahāyāna Sūtrālaṃkāra Ṭīkā).txt",
-    "path": "06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 2 (BI)",
+    "path": "BSTAN 'GYUR_Tengyur/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 2 (BI)",
     "download_path": "/tengyur updated 10 31 24 ws/06 sems tzam_mind only school (cittamātra)/vol 2 (bi)/td04029_theg pa chen po'i mdo sde'i rgyan gyi rgya cher bshad pa (mahāyāna sūtrālaṃkāra ṭīkā).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACDsQ",
     "revision_id": "62633dee712878d294473",
     "content_hash": "b241b901af10b57fc0ca1375dddb9d8311bd82eac117423464399b5ff439bf42",
     "server_modified": "2024-11-06 00:48:05",
-    "last_sync": "2024-11-20 04:01:10.272259",
+    "last_sync": "2024-12-01 11:45:37.259532+00:00",
     "size": 528798,
-    "meta_text": null,
     "cat_ref": "TD04029",
     "work_ref": "W.TD04029",
-    "title_tib": "",
+    "title_tib": "THEG PA CHEN PO'I MDO SDE'I RGYAN GYI RGYA CHER BSHAD PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "589491169742",
             "subject_path": "BSTAN 'GYUR_Tengyur/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 2 (BI)",
-            "subject_path_tibetan": "BSTAN 'GYUR/06 SEMS TZAM/VOL 2 (BI)",
-            "subject_path_english": "Tengyur/Mind Only School (Cittamātra)",
-            "subject_tibetan": "VOL 2 (BI)",
-            "subject_english": "Mind Only School (Cittamātra)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SEMS TZAM/2 (BI)",
+            "subject_path_english": "Tengyur/Mind Only School (Cittamātra)/VOL 2 (BI)",
+            "subject_tibetan": "2 (BI)",
+            "subject_english": "VOL 2 (BI)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 2 (BI)",
-            "timestamp": "2024-11-20 12:01:10.279178+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Mahāyāna Sūtrālaṃkāra Ṭīkā",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:10.279178+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:45:37.260635+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 2 (BI)",
+            "timestamp": "2024-12-01 11:45:37.260635+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

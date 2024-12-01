@@ -1,53 +1,47 @@
 {
     "name": "TD03613_KHRO ZHING DGYES PA DZAm BHA LA'I SGRUB THABS (Ucchuṣma Jambhala Sādhanam).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/vol 76 (mu)/td03613_khro zhing dgyes pa dzam bha la'i sgrub thabs (ucchuṣma jambhala sādhanam).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACAhA",
     "revision_id": "62633d64a402a8d294473",
     "content_hash": "ea864f492f0564db68daa5ab65e11ad67b39bae1c66e375d9c39f6422f6a0998",
     "server_modified": "2024-11-06 00:45:40",
-    "last_sync": "2024-11-20 04:00:45.226956",
+    "last_sync": "2024-12-01 11:45:16.682885+00:00",
     "size": 7068,
-    "meta_text": null,
     "cat_ref": "TD03613",
     "work_ref": "W.TD03613",
-    "title_tib": "",
+    "title_tib": "KHRO ZHING DGYES PA DZAm BHA LA'I SGRUB THABS",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "121782366104",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/VOL 76 (MU)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)",
-            "subject_tibetan": "VOL 76 (MU)",
-            "subject_english": "Diamond Way (Vajrayāna)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/76 (MU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/VOL 76 (MU)",
+            "subject_tibetan": "76 (MU)",
+            "subject_english": "VOL 76 (MU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
-            "timestamp": "2024-11-20 12:00:45.258585+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Ucchuṣma Jambhala Sādhanam",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:45.258585+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:45:16.696071+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
+            "timestamp": "2024-12-01 11:45:16.696071+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

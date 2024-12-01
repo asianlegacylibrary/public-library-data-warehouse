@@ -1,53 +1,47 @@
 {
     "name": "TD02503-1_DE KHO NA NYID BSDUS PA'I RGYA CHER BSHAD PA KO SA LA'I RGYAN (Kosalālaṃkāra Tattva Saṃgraha Ṭīkā).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/02 RNAL 'BYOR RGYUD_Secret Class of Practice (Yoga Tantra)/01 DE NYID BSDUS PA_Collection of Suchness (Tattva Saṃgraha)/02 SH'AKYA BSHES GNYEN GYI LUGS_System of Shakyamitra (Śākyamitra Krama)/VOL 54 (YI)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/02 RNAL 'BYOR RGYUD_Secret Class of Practice (Yoga Tantra)/01 DE NYID BSDUS PA_Collection of Suchness (Tattva Saṃgraha)/02 SH'AKYA BSHES GNYEN GYI LUGS_System of Shakyamitra (Śākyamitra Krama)/VOL 54 (YI)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/02 rnal 'byor rgyud_secret class of practice (yoga tantra)/01 de nyid bsdus pa_collection of suchness (tattva saṃgraha)/02 sh'akya bshes gnyen gyi lugs_system of shakyamitra (śākyamitra krama)/vol 54 (yi)/td02503-1_de kho na nyid bsdus pa'i rgya cher bshad pa ko sa la'i rgyan (kosalālaṃkāra tattva saṃgraha ṭīkā).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB4VQ",
     "revision_id": "62633bf9e667a8d294473",
     "content_hash": "031aeb105b078ef5f1570328d00ce497aef431cde5a03f7738293ad239bfcae7",
     "server_modified": "2024-11-06 00:39:20",
-    "last_sync": "2024-11-20 03:59:24.728786",
+    "last_sync": "2024-12-01 11:44:13.285354+00:00",
     "size": 992140,
-    "meta_text": null,
     "cat_ref": "TD02503-1",
     "work_ref": "W.TD02503-1",
-    "title_tib": "",
+    "title_tib": "DE KHO NA NYID BSDUS PA'I RGYA CHER BSHAD PA KO SA LA'I RGYAN",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "221773872926",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/02 RNAL 'BYOR RGYUD_Secret Class of Practice (Yoga Tantra)/01 DE NYID BSDUS PA_Collection of Suchness (Tattva Saṃgraha)/02 SH'AKYA BSHES GNYEN GYI LUGS_System of Shakyamitra (Śākyamitra Krama)/VOL 54 (YI)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/02 RNAL 'BYOR RGYUD/01 DE NYID BSDUS PA/02 SH'AKYA BSHES GNYEN GYI LUGS/VOL 54 (YI)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Secret Class of Practice (Yoga Tantra)/Collection of Suchness (Tattva Saṃgraha)/System of Shakyamitra (Śākyamitra Krama)",
-            "subject_tibetan": "VOL 54 (YI)",
-            "subject_english": "System of Shakyamitra (Śākyamitra Krama)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/RNAL 'BYOR RGYUD/DE NYID BSDUS PA/SH'AKYA BSHES GNYEN GYI LUGS/54 (YI)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Secret Class of Practice (Yoga Tantra)/Collection of Suchness (Tattva Saṃgraha)/System of Shakyamitra (Śākyamitra Krama)/VOL 54 (YI)",
+            "subject_tibetan": "54 (YI)",
+            "subject_english": "VOL 54 (YI)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/02 RNAL 'BYOR RGYUD_Secret Class of Practice (Yoga Tantra)/01 DE NYID BSDUS PA_Collection of Suchness (Tattva Saṃgraha)/02 SH'AKYA BSHES GNYEN GYI LUGS_System of Shakyamitra (Śākyamitra Krama)/VOL 54 (YI)",
-            "timestamp": "2024-11-20 11:59:24.732148+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Kosalālaṃkāra Tattva Saṃgraha Ṭīkā",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:59:24.732148+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:44:13.285911+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/02 RNAL 'BYOR RGYUD_Secret Class of Practice (Yoga Tantra)/01 DE NYID BSDUS PA_Collection of Suchness (Tattva Saṃgraha)/02 SH'AKYA BSHES GNYEN GYI LUGS_System of Shakyamitra (Śākyamitra Krama)/VOL 54 (YI)",
+            "timestamp": "2024-12-01 11:44:13.285911+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

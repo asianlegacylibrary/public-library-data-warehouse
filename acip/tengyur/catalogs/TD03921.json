@@ -1,53 +1,47 @@
 {
     "name": "TD03921_MI SDUG PA BSGOM PA'I RIM PA (Aśubha Bhāvanā Krama).txt",
-    "path": "04 DBU MA_Middle Way School (Madhyamaka)/VOL 15 (KI)",
+    "path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 15 (KI)",
     "download_path": "/tengyur updated 10 31 24 ws/04 dbu ma_middle way school (madhyamaka)/vol 15 (ki)/td03921_mi sdug pa bsgom pa'i rim pa (aśubha bhāvanā krama).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB3Sg",
     "revision_id": "62633bc49a8cb8d294473",
     "content_hash": "dc4a6173fe527414169bcaae6805080f86c5d47073b52e37924af506cf3e94e8",
     "server_modified": "2024-11-06 00:38:24",
-    "last_sync": "2024-11-20 03:59:02.425423",
+    "last_sync": "2024-12-01 11:43:58.984442+00:00",
     "size": 2727,
-    "meta_text": null,
     "cat_ref": "TD03921",
     "work_ref": "W.TD03921",
-    "title_tib": "",
+    "title_tib": "MI SDUG PA BSGOM PA'I RIM PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "330936115974",
             "subject_path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 15 (KI)",
-            "subject_path_tibetan": "BSTAN 'GYUR/04 DBU MA/VOL 15 (KI)",
-            "subject_path_english": "Tengyur/Middle Way School (Madhyamaka)",
-            "subject_tibetan": "VOL 15 (KI)",
-            "subject_english": "Middle Way School (Madhyamaka)"
+            "subject_path_tibetan": "BSTAN 'GYUR/DBU MA/15 (KI)",
+            "subject_path_english": "Tengyur/Middle Way School (Madhyamaka)/VOL 15 (KI)",
+            "subject_tibetan": "15 (KI)",
+            "subject_english": "VOL 15 (KI)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 15 (KI)",
-            "timestamp": "2024-11-20 11:59:02.431452+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Aśubha Bhāvanā Krama",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:59:02.431452+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:43:58.988229+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 15 (KI)",
+            "timestamp": "2024-12-01 11:43:58.988229+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

@@ -1,53 +1,47 @@
 {
     "name": "TD04282_KA L'A PA'I MDO (Kalāpa Sūtra).txt",
-    "path": "12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 2 (LE)",
+    "path": "BSTAN 'GYUR_Tengyur/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 2 (LE)",
     "download_path": "/tengyur updated 10 31 24 ws/12 sgra mdo_study of sanskrit language (śabda)/vol 2 (le)/td04282_ka l'a pa'i mdo (kalāpa sūtra).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACD6g",
     "revision_id": "62633e034d8748d294473",
     "content_hash": "efc934a7e4660bf48d9d7ee7914180430cbc083cca94b91945af3ef967b8d1d8",
     "server_modified": "2024-11-06 00:48:27",
-    "last_sync": "2024-11-20 04:01:18.784626",
+    "last_sync": "2024-12-01 11:45:45.473252+00:00",
     "size": 65839,
-    "meta_text": null,
     "cat_ref": "TD04282",
     "work_ref": "W.TD04282",
-    "title_tib": "",
+    "title_tib": "KA L'A PA'I MDO",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "325968936698",
             "subject_path": "BSTAN 'GYUR_Tengyur/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 2 (LE)",
-            "subject_path_tibetan": "BSTAN 'GYUR/12 SGRA MDO/VOL 2 (LE)",
-            "subject_path_english": "Tengyur/Study of Sanskrit Language (Śabda)",
-            "subject_tibetan": "VOL 2 (LE)",
-            "subject_english": "Study of Sanskrit Language (Śabda)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SGRA MDO/2 (LE)",
+            "subject_path_english": "Tengyur/Study of Sanskrit Language (Śabda)/VOL 2 (LE)",
+            "subject_tibetan": "2 (LE)",
+            "subject_english": "VOL 2 (LE)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 2 (LE)",
-            "timestamp": "2024-11-20 12:01:18.798970+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Kalāpa Sūtra",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:18.798970+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:45:45.474309+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 2 (LE)",
+            "timestamp": "2024-12-01 11:45:45.474309+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

@@ -1,53 +1,47 @@
 {
     "name": "TD03770_CHOS SKYONG THAMS CAD PA'I GTOR MA'I CHO GA (Sarva Dharmapāla Bali Vidhi).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/VOL 78 (TSU)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 78 (TSU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/vol 78 (tsu)/td03770_chos skyong thams cad pa'i gtor ma'i cho ga (sarva dharmapāla bali vidhi).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB4zw",
     "revision_id": "62633c0a7b44e8d294473",
     "content_hash": "96d858d3b1e039552a0bd4ad52fc1120a930f08964ad935041e6d1365e7b99d3",
     "server_modified": "2024-11-06 00:39:37",
-    "last_sync": "2024-11-20 03:59:31.703641",
+    "last_sync": "2024-12-01 11:44:18.878506+00:00",
     "size": 3707,
-    "meta_text": null,
     "cat_ref": "TD03770",
     "work_ref": "W.TD03770",
-    "title_tib": "",
+    "title_tib": "CHOS SKYONG THAMS CAD PA'I GTOR MA'I CHO GA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "869790939477",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 78 (TSU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/VOL 78 (TSU)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)",
-            "subject_tibetan": "VOL 78 (TSU)",
-            "subject_english": "Diamond Way (Vajrayāna)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/78 (TSU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/VOL 78 (TSU)",
+            "subject_tibetan": "78 (TSU)",
+            "subject_english": "VOL 78 (TSU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 78 (TSU)",
-            "timestamp": "2024-11-20 11:59:31.750462+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Sarva Dharmapāla Bali Vidhi",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:59:31.750462+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:44:18.883286+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 78 (TSU)",
+            "timestamp": "2024-12-01 11:44:18.883286+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

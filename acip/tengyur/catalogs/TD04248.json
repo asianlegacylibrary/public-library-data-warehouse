@@ -1,53 +1,47 @@
 {
     "name": "TD04248_TSAD MA BRTAG PA (Pramāṇa Parīkṣā).txt",
-    "path": "11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 17 (ZHE)",
+    "path": "BSTAN 'GYUR_Tengyur/11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 17 (ZHE)",
     "download_path": "/tengyur updated 10 31 24 ws/11 tsad ma_logic & perceptual theory (pramāṇa)/vol 17 (zhe)/td04248_tsad ma brtag pa (pramāṇa parīkṣā).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB2Hg",
     "revision_id": "62633b56d34e38d294473",
     "content_hash": "20acd838b4fc534448181d300eed26711b7e10ab1e6f3338d621f59a66bd50a9",
     "server_modified": "2024-11-06 00:36:29",
-    "last_sync": "2024-11-20 03:58:18.782874",
+    "last_sync": "2024-12-01 11:43:20.694626+00:00",
     "size": 83419,
-    "meta_text": null,
     "cat_ref": "TD04248",
     "work_ref": "W.TD04248",
-    "title_tib": "",
+    "title_tib": "TSAD MA BRTAG PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "120037800368",
             "subject_path": "BSTAN 'GYUR_Tengyur/11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 17 (ZHE)",
-            "subject_path_tibetan": "BSTAN 'GYUR/11 TSAD MA/VOL 17 (ZHE)",
-            "subject_path_english": "Tengyur/Logic & Perceptual Theory (Pramāṇa)",
-            "subject_tibetan": "VOL 17 (ZHE)",
-            "subject_english": "Logic & Perceptual Theory (Pramāṇa)"
+            "subject_path_tibetan": "BSTAN 'GYUR/TSAD MA/17 (ZHE)",
+            "subject_path_english": "Tengyur/Logic & Perceptual Theory (Pramāṇa)/VOL 17 (ZHE)",
+            "subject_tibetan": "17 (ZHE)",
+            "subject_english": "VOL 17 (ZHE)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 17 (ZHE)",
-            "timestamp": "2024-11-20 11:58:18.809778+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Pramāṇa Parīkṣā",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:58:18.809778+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:43:20.697166+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 17 (ZHE)",
+            "timestamp": "2024-12-01 11:43:20.697166+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

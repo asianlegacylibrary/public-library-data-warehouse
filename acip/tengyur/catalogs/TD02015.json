@@ -1,53 +1,47 @@
 {
     "name": "TD02015_GSHIN RJE GSHED NAG PO GDONG DRUG PA'I 'KHOR LO'I SGRUB THABS ZHES BYA BA (Kṛṣṇa Yamāri Mukhaṣaṭ Cakra Sādhana (Nāma)).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/11 GSHIN RJE GSHED SPYI_General Category of Butcher of the Lord of Death (Yamāri Sāmānya)/02 GSHIN RJE GSHED NAG PO GDONG DRUG PA_Ebony Butcher of the Lord of Death with Six Faces (Kirshna Yamari Mukhashat)/VOL 47 (TZI)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/11 GSHIN RJE GSHED SPYI_General Category of Butcher of the Lord of Death (Yamāri Sāmānya)/02 GSHIN RJE GSHED NAG PO GDONG DRUG PA_Ebony Butcher of the Lord of Death with Six Faces (Kirshna Yamari Mukhashat)/VOL 47 (TZI)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/01 rnal 'byor bla med_unsurpassed practice (anuttara yoga)/11 gshin rje gshed spyi_general category of butcher of the lord of death (yamāri sāmānya)/02 gshin rje gshed nag po gdong drug pa_ebony butcher of the lord of death with six faces (kirshna yamari mukhashat)/vol 47 (tzi)/td02015_gshin rje gshed nag po gdong drug pa'i 'khor lo'i sgrub thabs zhes bya ba (kṛṣṇa yamāri mukhaṣaṭ cakra sādhana (nāma)).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB8FQ",
     "revision_id": "62633ca2369a68d294473",
     "content_hash": "8ebc92abb29438df5c9d1885cb265f5227282b94728a0be1990347947c79cfb3",
     "server_modified": "2024-11-06 00:42:16",
-    "last_sync": "2024-11-20 04:00:08.730151",
+    "last_sync": "2024-12-01 11:44:48.697053+00:00",
     "size": 9939,
-    "meta_text": null,
     "cat_ref": "TD02015",
     "work_ref": "W.TD02015",
-    "title_tib": "",
+    "title_tib": "GSHIN RJE GSHED NAG PO GDONG DRUG PA'I 'KHOR LO'I SGRUB THABS ZHES BYA BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "256269002927",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/11 GSHIN RJE GSHED SPYI_General Category of Butcher of the Lord of Death (Yamāri Sāmānya)/02 GSHIN RJE GSHED NAG PO GDONG DRUG PA_Ebony Butcher of the Lord of Death with Six Faces (Kirshna Yamari Mukhashat)/VOL 47 (TZI)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/01 RNAL 'BYOR BLA MED/11 GSHIN RJE GSHED SPYI/02 GSHIN RJE GSHED NAG PO GDONG DRUG PA/VOL 47 (TZI)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/General Category of Butcher of the Lord of Death (Yamāri Sāmānya)/Ebony Butcher of the Lord of Death with Six Faces (Kirshna Yamari Mukhashat)",
-            "subject_tibetan": "VOL 47 (TZI)",
-            "subject_english": "Ebony Butcher of the Lord of Death with Six Faces (Kirshna Yamari Mukhashat)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/RNAL 'BYOR BLA MED/GSHIN RJE GSHED SPYI/GSHIN RJE GSHED NAG PO GDONG DRUG PA/47 (TZI)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/General Category of Butcher of the Lord of Death (Yamāri Sāmānya)/Ebony Butcher of the Lord of Death with Six Faces (Kirshna Yamari Mukhashat)/VOL 47 (TZI)",
+            "subject_tibetan": "47 (TZI)",
+            "subject_english": "VOL 47 (TZI)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/11 GSHIN RJE GSHED SPYI_General Category of Butcher of the Lord of Death (Yamāri Sāmānya)/02 GSHIN RJE GSHED NAG PO GDONG DRUG PA_Ebony Butcher of the Lord of Death with Six Faces (Kirshna Yamari Mukhashat)/VOL 47 (TZI)",
-            "timestamp": "2024-11-20 12:00:08.733696+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Kṛṣṇa Yamāri Mukhaṣaṭ Cakra Sādhana (Nāma)",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:08.733696+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:44:48.698188+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/11 GSHIN RJE GSHED SPYI_General Category of Butcher of the Lord of Death (Yamāri Sāmānya)/02 GSHIN RJE GSHED NAG PO GDONG DRUG PA_Ebony Butcher of the Lord of Death with Six Faces (Kirshna Yamari Mukhashat)/VOL 47 (TZI)",
+            "timestamp": "2024-12-01 11:44:48.698188+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

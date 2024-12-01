@@ -1,53 +1,47 @@
 {
     "name": "TD04309_SMAN DPYAD YAN LAG BRGYAD PA'I SNYING PO'I 'GREL PA (Vaidyāṣṭāṃga Hṛdaya Vṛtti).txt",
-    "path": "13 GSO BA RIG PA_Medicine (Cikitsā Vidyā)/VOL 1 (HE)",
+    "path": "BSTAN 'GYUR_Tengyur/13 GSO BA RIG PA_Medicine (Cikitsā Vidyā)/VOL 1 (HE)",
     "download_path": "/tengyur updated 10 31 24 ws/13 gso ba rig pa_medicine (cikitsā vidyā)/vol 1 (he)/td04309_sman dpyad yan lag brgyad pa'i snying po'i 'grel pa (vaidyāṣṭāṃga hṛdaya vṛtti).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACE5Q",
     "revision_id": "62633e4fd8af48d294473",
     "content_hash": "d100eabd615bc381bb8db06f165b0779a8ef1a3fd2739f54bca8c57734761848",
     "server_modified": "2024-11-06 00:49:47",
-    "last_sync": "2024-11-20 04:01:42.507258",
+    "last_sync": "2024-12-01 11:46:02.249741+00:00",
     "size": 128859,
-    "meta_text": null,
     "cat_ref": "TD04309",
     "work_ref": "W.TD04309",
-    "title_tib": "",
+    "title_tib": "SMAN DPYAD YAN LAG BRGYAD PA'I SNYING PO'I 'GREL PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "360986381564",
             "subject_path": "BSTAN 'GYUR_Tengyur/13 GSO BA RIG PA_Medicine (Cikitsā Vidyā)/VOL 1 (HE)",
-            "subject_path_tibetan": "BSTAN 'GYUR/13 GSO BA RIG PA/VOL 1 (HE)",
-            "subject_path_english": "Tengyur/Medicine (Cikitsā Vidyā)",
-            "subject_tibetan": "VOL 1 (HE)",
-            "subject_english": "Medicine (Cikitsā Vidyā)"
+            "subject_path_tibetan": "BSTAN 'GYUR/GSO BA RIG PA/1 (HE)",
+            "subject_path_english": "Tengyur/Medicine (Cikitsā Vidyā)/VOL 1 (HE)",
+            "subject_tibetan": "1 (HE)",
+            "subject_english": "VOL 1 (HE)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/13 GSO BA RIG PA_Medicine (Cikitsā Vidyā)/VOL 1 (HE)",
-            "timestamp": "2024-11-20 12:01:42.513649+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Vaidyāṣṭāṃga Hṛdaya Vṛtti",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:42.513649+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:46:02.251184+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/13 GSO BA RIG PA_Medicine (Cikitsā Vidyā)/VOL 1 (HE)",
+            "timestamp": "2024-12-01 11:46:02.251184+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

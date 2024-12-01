@@ -1,53 +1,47 @@
 {
     "name": "TD04040_RNAL 'BYOR SPYOD PA'I SA LAS 'DUL BA BSDU BA (Yogacaryā Bhūmau Vinaya Saṃgrahaḥ).txt",
-    "path": "06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 10 ('I)",
+    "path": "BSTAN 'GYUR_Tengyur/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 10 ('I)",
     "download_path": "/tengyur updated 10 31 24 ws/06 sems tzam_mind only school (cittamātra)/vol 10 ('i)/td04040_rnal 'byor spyod pa'i sa las 'dul ba bsdu ba (yogacaryā bhūmau vinaya saṃgrahaḥ).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACDjg",
     "revision_id": "62633de2e61308d294473",
     "content_hash": "4b52b14a7513b8610350e0a3c189ebe85dbedd4a27a750ebf5eed4e1a3e43145",
     "server_modified": "2024-11-06 00:47:53",
-    "last_sync": "2024-11-20 04:01:07.471423",
+    "last_sync": "2024-12-01 11:45:34.045193+00:00",
     "size": 81988,
-    "meta_text": null,
     "cat_ref": "TD04040",
     "work_ref": "W.TD04040",
-    "title_tib": "",
+    "title_tib": "RNAL 'BYOR SPYOD PA'I SA LAS 'DUL BA BSDU BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "293806096607",
             "subject_path": "BSTAN 'GYUR_Tengyur/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 10 ('I)",
-            "subject_path_tibetan": "BSTAN 'GYUR/06 SEMS TZAM/VOL 10 ('I)",
-            "subject_path_english": "Tengyur/Mind Only School (Cittamātra)",
-            "subject_tibetan": "VOL 10 ('I)",
-            "subject_english": "Mind Only School (Cittamātra)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SEMS TZAM/10 ('I)",
+            "subject_path_english": "Tengyur/Mind Only School (Cittamātra)/VOL 10 ('I)",
+            "subject_tibetan": "10 ('I)",
+            "subject_english": "VOL 10 ('I)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 10 ('I)",
-            "timestamp": "2024-11-20 12:01:07.489828+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Yogacaryā Bhūmau Vinaya Saṃgrahaḥ",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:07.489828+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:45:34.046472+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 10 ('I)",
+            "timestamp": "2024-12-01 11:45:34.046472+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

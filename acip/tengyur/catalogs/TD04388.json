@@ -1,53 +1,47 @@
 {
     "name": "TD04388_RGYAL PO LA GTAM BYA BA RIN PO CHE'I PHRENG BA LAS BYUNG BA'I SMON LAM TSIGS SU BCAD PA NYI SHU PA (Rāja Parikathā Ratnāvalyud Bhava Praṇidhāna Gāthā Viṃśaka).txt",
-    "path": "16 SNA TSOGS_Miscellany (Citritā)/VOL 4 (NYO)",
+    "path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 4 (NYO)",
     "download_path": "/tengyur updated 10 31 24 ws/16 sna tsogs_miscellany (citritā)/vol 4 (nyo)/td04388_rgyal po la gtam bya ba rin po che'i phreng ba las byung ba'i smon lam tsigs su bcad pa nyi shu pa (rāja parikathā ratnāvalyud bhava praṇidhāna gāthā viṃśaka).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACESg",
     "revision_id": "62633e13dffce8d294473",
     "content_hash": "d9a5312d86ad8d07592a20f9f8c5553606c8cb597a6d851f62a93963f3b0be68",
     "server_modified": "2024-11-06 00:48:44",
-    "last_sync": "2024-11-20 04:01:22.207840",
+    "last_sync": "2024-12-01 11:45:47.963187+00:00",
     "size": 3448,
-    "meta_text": null,
     "cat_ref": "TD04388",
     "work_ref": "W.TD04388",
-    "title_tib": "",
+    "title_tib": "RGYAL PO LA GTAM BYA BA RIN PO CHE'I PHRENG BA LAS BYUNG BA'I SMON LAM TSIGS SU BCAD PA NYI SHU PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "279475421118",
             "subject_path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 4 (NYO)",
-            "subject_path_tibetan": "BSTAN 'GYUR/16 SNA TSOGS/VOL 4 (NYO)",
-            "subject_path_english": "Tengyur/Miscellany (Citritā)",
-            "subject_tibetan": "VOL 4 (NYO)",
-            "subject_english": "Miscellany (Citritā)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SNA TSOGS/4 (NYO)",
+            "subject_path_english": "Tengyur/Miscellany (Citritā)/VOL 4 (NYO)",
+            "subject_tibetan": "4 (NYO)",
+            "subject_english": "VOL 4 (NYO)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 4 (NYO)",
-            "timestamp": "2024-11-20 12:01:22.241298+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Rāja Parikathā Ratnāvalyud Bhava Praṇidhāna Gāthā Viṃśaka",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:22.241298+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:45:47.969224+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 4 (NYO)",
+            "timestamp": "2024-12-01 11:45:47.969224+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

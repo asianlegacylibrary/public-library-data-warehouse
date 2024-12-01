@@ -1,53 +1,47 @@
 {
     "name": "TD04191_SLOB MA LA SPRINGS PA'I PHRIN YIG DKA' 'GREL (Śiṣya Lekha Ṭippaṇa).txt",
-    "path": "10 SPRING YIG_Epistles (Lekha)/VOL 2 (NGE)",
+    "path": "BSTAN 'GYUR_Tengyur/10 SPRING YIG_Epistles (Lekha)/VOL 2 (NGE)",
     "download_path": "/tengyur updated 10 31 24 ws/10 spring yig_epistles (lekha)/vol 2 (nge)/td04191_slob ma la springs pa'i phrin yig dka' 'grel (śiṣya lekha ṭippaṇa).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB1zg",
     "revision_id": "62633b3e6e2858d294473",
     "content_hash": "50ccfd9c2391772aa6915b1936e796db6fe2f1474e8f6e89ddbea3ce1a3705be",
     "server_modified": "2024-11-06 00:36:03",
-    "last_sync": "2024-11-20 03:58:12.215545",
+    "last_sync": "2024-12-01 11:43:15.115313+00:00",
     "size": 36566,
-    "meta_text": null,
     "cat_ref": "TD04191",
     "work_ref": "W.TD04191",
-    "title_tib": "",
+    "title_tib": "SLOB MA LA SPRINGS PA'I PHRIN YIG DKA' 'GREL",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "161575116623",
             "subject_path": "BSTAN 'GYUR_Tengyur/10 SPRING YIG_Epistles (Lekha)/VOL 2 (NGE)",
-            "subject_path_tibetan": "BSTAN 'GYUR/10 SPRING YIG/VOL 2 (NGE)",
-            "subject_path_english": "Tengyur/Epistles (Lekha)",
-            "subject_tibetan": "VOL 2 (NGE)",
-            "subject_english": "Epistles (Lekha)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SPRING YIG/2 (NGE)",
+            "subject_path_english": "Tengyur/Epistles (Lekha)/VOL 2 (NGE)",
+            "subject_tibetan": "2 (NGE)",
+            "subject_english": "VOL 2 (NGE)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/10 SPRING YIG_Epistles (Lekha)/VOL 2 (NGE)",
-            "timestamp": "2024-11-20 11:58:12.234130+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Śiṣya Lekha Ṭippaṇa",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:58:12.234130+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:43:15.118420+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/10 SPRING YIG_Epistles (Lekha)/VOL 2 (NGE)",
+            "timestamp": "2024-12-01 11:43:15.118420+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

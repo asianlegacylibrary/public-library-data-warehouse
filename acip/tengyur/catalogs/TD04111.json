@@ -1,53 +1,47 @@
 {
     "name": "TD04111_BYA BA'I PHUNG PO ZHES BYA BA (Kriyā Skandha).txt",
-    "path": "08 'DUL BA_Vowed Morality (Vinaya)/VOL 6 (MU)",
+    "path": "BSTAN 'GYUR_Tengyur/08 'DUL BA_Vowed Morality (Vinaya)/VOL 6 (MU)",
     "download_path": "/tengyur updated 10 31 24 ws/08 'dul ba_vowed morality (vinaya)/vol 6 (mu)/td04111_bya ba'i phung po zhes bya ba (kriyā skandha).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB2qw",
     "revision_id": "62633b90da35c8d294473",
     "content_hash": "4a1fac05e7b622800d98674057637c0c9e55654f714eac013c9047888fb7cd11",
     "server_modified": "2024-11-06 00:37:30",
-    "last_sync": "2024-11-20 03:58:42.254605",
+    "last_sync": "2024-12-01 11:43:42.348561+00:00",
     "size": 123782,
-    "meta_text": null,
     "cat_ref": "TD04111",
     "work_ref": "W.TD04111",
-    "title_tib": "",
+    "title_tib": "BYA BA'I PHUNG PO ZHES BYA BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "154786186293",
             "subject_path": "BSTAN 'GYUR_Tengyur/08 'DUL BA_Vowed Morality (Vinaya)/VOL 6 (MU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/08 'DUL BA/VOL 6 (MU)",
-            "subject_path_english": "Tengyur/Vowed Morality (Vinaya)",
-            "subject_tibetan": "VOL 6 (MU)",
-            "subject_english": "Vowed Morality (Vinaya)"
+            "subject_path_tibetan": "BSTAN 'GYUR/'DUL BA/6 (MU)",
+            "subject_path_english": "Tengyur/Vowed Morality (Vinaya)/VOL 6 (MU)",
+            "subject_tibetan": "6 (MU)",
+            "subject_english": "VOL 6 (MU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/08 'DUL BA_Vowed Morality (Vinaya)/VOL 6 (MU)",
-            "timestamp": "2024-11-20 11:58:42.260722+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Kriyā Skandha",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:58:42.260722+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:43:42.349885+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/08 'DUL BA_Vowed Morality (Vinaya)/VOL 6 (MU)",
+            "timestamp": "2024-12-01 11:43:42.349885+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

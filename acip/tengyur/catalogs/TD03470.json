@@ -1,53 +1,47 @@
 {
     "name": "TD03470_RIG PA 'DZIN PA'I SDE SNOD LAS BYUNG BA BSDUS PA'I 'JAM DPAL GYI SGRUB THABS (Vidyā Dharapiṭaka Saṃkṣipta Mañjuśrī Sādhana).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/vol 76 (mu)/td03470_rig pa 'dzin pa'i sde snod las byung ba bsdus pa'i 'jam dpal gyi sgrub thabs (vidyā dharapiṭaka saṃkṣipta mañjuśrī sādhana).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB_aw",
     "revision_id": "62633d315f9248d294473",
     "content_hash": "3dac1e64f33acbb328790a78212f4dcc11db80c6e7f670d149a715b83d5cdcf5",
     "server_modified": "2024-11-06 00:44:46",
-    "last_sync": "2024-11-20 04:00:44.995615",
+    "last_sync": "2024-12-01 11:45:16.673642+00:00",
     "size": 733,
-    "meta_text": null,
     "cat_ref": "TD03470",
     "work_ref": "W.TD03470",
-    "title_tib": "",
+    "title_tib": "RIG PA 'DZIN PA'I SDE SNOD LAS BYUNG BA BSDUS PA'I 'JAM DPAL GYI SGRUB THABS",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "121782366104",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/VOL 76 (MU)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)",
-            "subject_tibetan": "VOL 76 (MU)",
-            "subject_english": "Diamond Way (Vajrayāna)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/76 (MU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/VOL 76 (MU)",
+            "subject_tibetan": "76 (MU)",
+            "subject_english": "VOL 76 (MU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
-            "timestamp": "2024-11-20 12:00:45.250171+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Vidyā Dharapiṭaka Saṃkṣipta Mañjuśrī Sādhana",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:45.250171+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:45:16.686986+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
+            "timestamp": "2024-12-01 11:45:16.686986+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

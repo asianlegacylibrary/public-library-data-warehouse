@@ -1,53 +1,47 @@
 {
     "name": "TD01612_YE SHES DBANG PHYUG MA'I SGRUB THABS (Jñāneśvarī Sādhana).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/04 GDAN BZHI_The Four Seats (Chatuḥ Pīṭha)/02 YUM SKOR_Mother Texts (Mātṛ)/VOL 24 (YA)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/04 GDAN BZHI_The Four Seats (Chatuḥ Pīṭha)/02 YUM SKOR_Mother Texts (Mātṛ)/VOL 24 (YA)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/01 rnal 'byor bla med_unsurpassed practice (anuttara yoga)/04 gdan bzhi_the four seats (chatuḥ pīṭha)/02 yum skor_mother texts (mātṛ)/vol 24 (ya)/td01612_ye shes dbang phyug ma'i sgrub thabs (jñāneśvarī sādhana).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB-CQ",
     "revision_id": "62633cfaffd128d294473",
     "content_hash": "2886d5549aa1044d6a4b920ca9fc844ec0351c4a5d6ece4932d3b50f2bad9507",
     "server_modified": "2024-11-06 00:43:49",
-    "last_sync": "2024-11-20 04:00:32.778036",
+    "last_sync": "2024-12-01 11:45:06.258949+00:00",
     "size": 37627,
-    "meta_text": null,
     "cat_ref": "TD01612",
     "work_ref": "W.TD01612",
-    "title_tib": "",
+    "title_tib": "YE SHES DBANG PHYUG MA'I SGRUB THABS",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "364212957592",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/04 GDAN BZHI_The Four Seats (Chatuḥ Pīṭha)/02 YUM SKOR_Mother Texts (Mātṛ)/VOL 24 (YA)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/01 RNAL 'BYOR BLA MED/04 GDAN BZHI/02 YUM SKOR/VOL 24 (YA)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/The Four Seats (Chatuḥ Pīṭha)/Mother Texts (Mātṛ)",
-            "subject_tibetan": "VOL 24 (YA)",
-            "subject_english": "Mother Texts (Mātṛ)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/RNAL 'BYOR BLA MED/GDAN BZHI/YUM SKOR/24 (YA)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/The Four Seats (Chatuḥ Pīṭha)/Mother Texts (Mātṛ)/VOL 24 (YA)",
+            "subject_tibetan": "24 (YA)",
+            "subject_english": "VOL 24 (YA)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/04 GDAN BZHI_The Four Seats (Chatuḥ Pīṭha)/02 YUM SKOR_Mother Texts (Mātṛ)/VOL 24 (YA)",
-            "timestamp": "2024-11-20 12:00:32.804132+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Jñāneśvarī Sādhana",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:32.804132+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:45:06.261030+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/04 GDAN BZHI_The Four Seats (Chatuḥ Pīṭha)/02 YUM SKOR_Mother Texts (Mātṛ)/VOL 24 (YA)",
+            "timestamp": "2024-12-01 11:45:06.261030+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

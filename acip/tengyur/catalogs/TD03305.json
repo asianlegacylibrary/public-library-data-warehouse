@@ -1,53 +1,47 @@
 {
     "name": "TD03305_RDO RJE SLOB DPON GYI BYA BA KUN LAS BTUS PA (Vajrācārya Kriyā Samuccaya).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/VOL 75 (BU)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 75 (BU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/vol 75 (bu)/td03305_rdo rje slob dpon gyi bya ba kun las btus pa (vajrācārya kriyā samuccaya).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACAyA",
     "revision_id": "62633d6fe2d368d294473",
     "content_hash": "54b61c779251a74d995c3fbbf710073ea2619e051651232452ea512df854beeb",
     "server_modified": "2024-11-06 00:45:52",
-    "last_sync": "2024-11-20 04:00:46.141851",
+    "last_sync": "2024-12-01 11:45:17.356289+00:00",
     "size": 828204,
-    "meta_text": null,
     "cat_ref": "TD03305",
     "work_ref": "W.TD03305",
-    "title_tib": "",
+    "title_tib": "RDO RJE SLOB DPON GYI BYA BA KUN LAS BTUS PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "123568910388",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 75 (BU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/VOL 75 (BU)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)",
-            "subject_tibetan": "VOL 75 (BU)",
-            "subject_english": "Diamond Way (Vajrayāna)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/75 (BU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/VOL 75 (BU)",
+            "subject_tibetan": "75 (BU)",
+            "subject_english": "VOL 75 (BU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 75 (BU)",
-            "timestamp": "2024-11-20 12:00:46.184578+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Vajrācārya Kriyā Samuccaya",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:46.184578+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:45:17.362620+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 75 (BU)",
+            "timestamp": "2024-12-01 11:45:17.362620+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

@@ -1,53 +1,47 @@
 {
     "name": "TD03806_SHES RAB KYI PHA ROL TU PHYIN PA'I MDZOD KYI LDE MIG CES BYA BA (Prajñā Pāramitā Kośa Tala (Nāma)).txt",
-    "path": "03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 11 (DA)",
+    "path": "BSTAN 'GYUR_Tengyur/03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 11 (DA)",
     "download_path": "/tengyur updated 10 31 24 ws/03 shes phyin_perfection of wisdom (prajñā pāramitā)/vol 11 (da)/td03806_shes rab kyi pha rol tu phyin pa'i mdzod kyi lde mig ces bya ba (prajñā pāramitā kośa tala (nāma)).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACEtw",
     "revision_id": "62633e37adf778d294473",
     "content_hash": "903251e7c3513e6ebd06cfcc67999babc4ccc1c22a7b447a8bce9a0ef1772998",
     "server_modified": "2024-11-06 00:49:21",
-    "last_sync": "2024-11-20 04:01:31.655524",
+    "last_sync": "2024-12-01 11:45:55.147289+00:00",
     "size": 28932,
-    "meta_text": null,
     "cat_ref": "TD03806",
     "work_ref": "W.TD03806",
-    "title_tib": "",
+    "title_tib": "SHES RAB KYI PHA ROL TU PHYIN PA'I MDZOD KYI LDE MIG CES BYA BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "449334906247",
             "subject_path": "BSTAN 'GYUR_Tengyur/03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 11 (DA)",
-            "subject_path_tibetan": "BSTAN 'GYUR/03 SHES PHYIN/VOL 11 (DA)",
-            "subject_path_english": "Tengyur/Perfection of Wisdom (Prajñā Pāramitā)",
-            "subject_tibetan": "VOL 11 (DA)",
-            "subject_english": "Perfection of Wisdom (Prajñā Pāramitā)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SHES PHYIN/11 (DA)",
+            "subject_path_english": "Tengyur/Perfection of Wisdom (Prajñā Pāramitā)/VOL 11 (DA)",
+            "subject_tibetan": "11 (DA)",
+            "subject_english": "VOL 11 (DA)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 11 (DA)",
-            "timestamp": "2024-11-20 12:01:31.661217+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Prajñā Pāramitā Kośa Tala (Nāma)",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:31.661217+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:45:55.147805+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 11 (DA)",
+            "timestamp": "2024-12-01 11:45:55.147805+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

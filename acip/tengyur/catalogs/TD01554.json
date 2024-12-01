@@ -1,53 +1,47 @@
 {
     "name": "TD01554_RDO RJE PHAG MO DBU BCAD MA'I SGRUB THABS (Chinnamuṇḍa Vajravārāhī Sādhana).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/02 YUM BKA'_Mother Texts (Mātṛ)/VOL 22 (ZA)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/02 YUM BKA'_Mother Texts (Mātṛ)/VOL 22 (ZA)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/01 rnal 'byor bla med_unsurpassed practice (anuttara yoga)/03 bde mchog_highest bliss (saṃvara)/02 yum bka'_mother texts (mātṛ)/vol 22 (za)/td01554_rdo rje phag mo dbu bcad ma'i sgrub thabs (chinnamuṇḍa vajravārāhī sādhana).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB6zg",
     "revision_id": "62633c60351fa8d294473",
     "content_hash": "1c5d4e31c9e9f95c2dff41d3f257eff9fe7a61d3796e2e458a55571e4c4494fd",
     "server_modified": "2024-11-06 00:41:07",
-    "last_sync": "2024-11-20 03:59:54.687402",
+    "last_sync": "2024-12-01 11:44:37.055853+00:00",
     "size": 4315,
-    "meta_text": null,
     "cat_ref": "TD01554",
     "work_ref": "W.TD01554",
-    "title_tib": "",
+    "title_tib": "RDO RJE PHAG MO DBU BCAD MA'I SGRUB THABS",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "336880318712",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/02 YUM BKA'_Mother Texts (Mātṛ)/VOL 22 (ZA)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/01 RNAL 'BYOR BLA MED/03 BDE MCHOG/02 YUM BKA'/VOL 22 (ZA)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Highest Bliss (Saṃvara)/Mother Texts (Mātṛ)",
-            "subject_tibetan": "VOL 22 (ZA)",
-            "subject_english": "Mother Texts (Mātṛ)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/RNAL 'BYOR BLA MED/BDE MCHOG/YUM BKA'/22 (ZA)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Highest Bliss (Saṃvara)/Mother Texts (Mātṛ)/VOL 22 (ZA)",
+            "subject_tibetan": "22 (ZA)",
+            "subject_english": "VOL 22 (ZA)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/02 YUM BKA'_Mother Texts (Mātṛ)/VOL 22 (ZA)",
-            "timestamp": "2024-11-20 11:59:54.716230+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Chinnamuṇḍa Vajravārāhī Sādhana",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:59:54.716230+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:44:37.058275+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/02 YUM BKA'_Mother Texts (Mātṛ)/VOL 22 (ZA)",
+            "timestamp": "2024-12-01 11:44:37.058275+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

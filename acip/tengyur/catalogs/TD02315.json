@@ -1,53 +1,47 @@
 {
     "name": "TD02315_MAN NGAG SKU'I SGRON MA ZHES BYA BA (Upadeśakāya Pradīpa Nāma).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/17 PHYAG RGYA CHEN PO_The Great Seal (Mahāmudrā)/02 SGRON MA DGU_The Nine Lamps (Nava Pradipa)/VOL 51 (ZHI)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/17 PHYAG RGYA CHEN PO_The Great Seal (Mahāmudrā)/02 SGRON MA DGU_The Nine Lamps (Nava Pradipa)/VOL 51 (ZHI)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/01 rnal 'byor bla med_unsurpassed practice (anuttara yoga)/17 phyag rgya chen po_the great seal (mahāmudrā)/02 sgron ma dgu_the nine lamps (nava pradipa)/vol 51 (zhi)/td02315_man ngag sku'i sgron ma zhes bya ba (upadeśakāya pradīpa nāma).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB5zQ",
     "revision_id": "62633c2f291d88d294473",
     "content_hash": "4d1184f2e6af2d38e617e422fba29868957803cd52c82938deae1ddda11904ec",
     "server_modified": "2024-11-06 00:40:16",
-    "last_sync": "2024-11-20 03:59:35.212916",
+    "last_sync": "2024-12-01 11:44:21.478538+00:00",
     "size": 1760,
-    "meta_text": null,
     "cat_ref": "TD02315",
     "work_ref": "W.TD02315",
-    "title_tib": "",
+    "title_tib": "MAN NGAG SKU'I SGRON MA ZHES BYA BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "106979476752",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/17 PHYAG RGYA CHEN PO_The Great Seal (Mahāmudrā)/02 SGRON MA DGU_The Nine Lamps (Nava Pradipa)/VOL 51 (ZHI)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/01 RNAL 'BYOR BLA MED/17 PHYAG RGYA CHEN PO/02 SGRON MA DGU/VOL 51 (ZHI)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/The Great Seal (Mahāmudrā)/The Nine Lamps (Nava Pradipa)",
-            "subject_tibetan": "VOL 51 (ZHI)",
-            "subject_english": "The Nine Lamps (Nava Pradipa)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/RNAL 'BYOR BLA MED/PHYAG RGYA CHEN PO/SGRON MA DGU/51 (ZHI)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/The Great Seal (Mahāmudrā)/The Nine Lamps (Nava Pradipa)/VOL 51 (ZHI)",
+            "subject_tibetan": "51 (ZHI)",
+            "subject_english": "VOL 51 (ZHI)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/17 PHYAG RGYA CHEN PO_The Great Seal (Mahāmudrā)/02 SGRON MA DGU_The Nine Lamps (Nava Pradipa)/VOL 51 (ZHI)",
-            "timestamp": "2024-11-20 11:59:35.237273+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Upadeśakāya Pradīpa Nāma",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:59:35.237273+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:44:21.480580+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/17 PHYAG RGYA CHEN PO_The Great Seal (Mahāmudrā)/02 SGRON MA DGU_The Nine Lamps (Nava Pradipa)/VOL 51 (ZHI)",
+            "timestamp": "2024-12-01 11:44:21.480580+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

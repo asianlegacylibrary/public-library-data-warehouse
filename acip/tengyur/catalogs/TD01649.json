@@ -1,53 +1,47 @@
 {
     "name": "TD01649_DPAL RDO RJE BDUD RTZI'I DKA' 'GREL (Śrī Vajrāmṛta Pañjikā).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/06 RDO RJE BDUD RTZI_Diamond Nectar (Vajrāmṛta)/VOL 25 (RA)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/06 RDO RJE BDUD RTZI_Diamond Nectar (Vajrāmṛta)/VOL 25 (RA)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/01 rnal 'byor bla med_unsurpassed practice (anuttara yoga)/06 rdo rje bdud rtzi_diamond nectar (vajrāmṛta)/vol 25 (ra)/td01649_dpal rdo rje bdud rtzi'i dka' 'grel (śrī vajrāmṛta pañjikā).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB-SA",
     "revision_id": "62633d05953e58d294473",
     "content_hash": "95d9fe7601d59e7dbcd76ce1ed4cea4c40bc64fd8274ab0f980bd4b9f5dfc912",
     "server_modified": "2024-11-06 00:44:00",
-    "last_sync": "2024-11-20 04:00:37.696518",
+    "last_sync": "2024-12-01 11:45:10.298405+00:00",
     "size": 64565,
-    "meta_text": null,
     "cat_ref": "TD01649",
     "work_ref": "W.TD01649",
-    "title_tib": "",
+    "title_tib": "DPAL RDO RJE BDUD RTZI'I DKA' 'GREL",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "316247919014",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/06 RDO RJE BDUD RTZI_Diamond Nectar (Vajrāmṛta)/VOL 25 (RA)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/01 RNAL 'BYOR BLA MED/06 RDO RJE BDUD RTZI/VOL 25 (RA)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Diamond Nectar (Vajrāmṛta)",
-            "subject_tibetan": "VOL 25 (RA)",
-            "subject_english": "Diamond Nectar (Vajrāmṛta)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/RNAL 'BYOR BLA MED/RDO RJE BDUD RTZI/25 (RA)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Diamond Nectar (Vajrāmṛta)/VOL 25 (RA)",
+            "subject_tibetan": "25 (RA)",
+            "subject_english": "VOL 25 (RA)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/06 RDO RJE BDUD RTZI_Diamond Nectar (Vajrāmṛta)/VOL 25 (RA)",
-            "timestamp": "2024-11-20 12:00:37.705413+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Śrī Vajrāmṛta Pañjikā",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:37.705413+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:45:10.299255+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/06 RDO RJE BDUD RTZI_Diamond Nectar (Vajrāmṛta)/VOL 25 (RA)",
+            "timestamp": "2024-12-01 11:45:10.299255+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

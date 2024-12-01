@@ -1,53 +1,47 @@
 {
     "name": "TD04058_RANG BZHIN GSUM NGES PAR BSTAN PA (Trisvabhāva Nirdeśa).txt",
-    "path": "06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 14 (SHI)",
+    "path": "BSTAN 'GYUR_Tengyur/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 14 (SHI)",
     "download_path": "/tengyur updated 10 31 24 ws/06 sems tzam_mind only school (cittamātra)/vol 14 (shi)/td04058_rang bzhin gsum nges par bstan pa (trisvabhāva nirdeśa).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACDfw",
     "revision_id": "62633ddffe5038d294473",
     "content_hash": "97e9322c093589bf07e3db6cbf7a4b18ff27a4d19e2c5c2315f41aa157ba8da9",
     "server_modified": "2024-11-06 00:47:49",
-    "last_sync": "2024-11-20 04:01:05.654795",
+    "last_sync": "2024-12-01 11:45:32.866351+00:00",
     "size": 5653,
-    "meta_text": null,
     "cat_ref": "TD04058",
     "work_ref": "W.TD04058",
-    "title_tib": "",
+    "title_tib": "RANG BZHIN GSUM NGES PAR BSTAN PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "272000381523",
             "subject_path": "BSTAN 'GYUR_Tengyur/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 14 (SHI)",
-            "subject_path_tibetan": "BSTAN 'GYUR/06 SEMS TZAM/VOL 14 (SHI)",
-            "subject_path_english": "Tengyur/Mind Only School (Cittamātra)",
-            "subject_tibetan": "VOL 14 (SHI)",
-            "subject_english": "Mind Only School (Cittamātra)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SEMS TZAM/14 (SHI)",
+            "subject_path_english": "Tengyur/Mind Only School (Cittamātra)/VOL 14 (SHI)",
+            "subject_tibetan": "14 (SHI)",
+            "subject_english": "VOL 14 (SHI)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 14 (SHI)",
-            "timestamp": "2024-11-20 12:01:05.669087+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Trisvabhāva Nirdeśa",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:05.669087+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-01T11:45:32.868189+00:00",
+            "run_id": 1080,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 14 (SHI)",
+            "timestamp": "2024-12-01 11:45:32.868189+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }
