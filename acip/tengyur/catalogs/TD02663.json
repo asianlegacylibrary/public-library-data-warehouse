@@ -6,7 +6,7 @@
     "revision_id": "62633d79330f58d294473",
     "content_hash": "add06f6fe877dc368b4b804f46690e997adf7db915033fe42f6e3cc7596ddf6c",
     "server_modified": "2024-11-06 00:46:02",
-    "last_sync": "2024-12-01 11:45:18.101903+00:00",
+    "last_sync": "2024-12-02 10:35:17.694864+00:00",
     "size": 784456,
     "cat_ref": "TD02663",
     "work_ref": "W.TD02663",
@@ -27,8 +27,8 @@
     "collection": "Tengyur",
     "processing_history": [
         {
-            "timestamp": "2024-12-01T11:45:18.102742+00:00",
-            "run_id": 1080,
+            "timestamp": "2024-12-02T10:35:17.695590+00:00",
+            "run_id": 1081,
             "processor": "dropbox_sync",
             "action": "created"
         }
@@ -38,7 +38,7 @@
     "path_history": [
         {
             "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/03 SPYOD PA'I RGYUD_Secret Class of Activity (Charya Tantra)/VOL 68 (NYU)",
-            "timestamp": "2024-12-01 11:45:18.102742+00:00"
+            "timestamp": "2024-12-02 10:35:17.695590+00:00"
         }
     ],
     "author": [],

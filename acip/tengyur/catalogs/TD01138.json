@@ -6,7 +6,7 @@
     "revision_id": "62633bd3ba1468d294473",
     "content_hash": "d91285d397841f3334e41bd8a6f397667c6d06b2daf477b52335269c14087eba",
     "server_modified": "2024-11-06 00:38:40",
-    "last_sync": "2024-12-01 11:44:04.151415+00:00",
+    "last_sync": "2024-12-02 10:33:55.508650+00:00",
     "size": 62098,
     "cat_ref": "TD01138",
     "work_ref": "W.TD01138",
@@ -27,8 +27,8 @@
     "collection": "Tengyur",
     "processing_history": [
         {
-            "timestamp": "2024-12-01T11:44:04.154002+00:00",
-            "run_id": 1080,
+            "timestamp": "2024-12-02T10:33:55.513037+00:00",
+            "run_id": 1081,
             "processor": "dropbox_sync",
             "action": "created"
         }
@@ -38,7 +38,7 @@
     "path_history": [
         {
             "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
-            "timestamp": "2024-12-01 11:44:04.154002+00:00"
+            "timestamp": "2024-12-02 10:33:55.513037+00:00"
         }
     ],
     "author": [],

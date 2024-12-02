@@ -6,7 +6,7 @@
     "revision_id": "62633e49167088d294473",
     "content_hash": "c0c7ff3d17fdc7c269f8da7e2e458eeae1f875bfe7d51cc6beaa961c2f9034f8",
     "server_modified": "2024-11-06 00:49:40",
-    "last_sync": "2024-12-01 11:45:59.863378+00:00",
+    "last_sync": "2024-12-02 10:36:05.016385+00:00",
     "size": 277824,
     "cat_ref": "TD03800",
     "work_ref": "W.TD03800",
@@ -27,8 +27,8 @@
     "collection": "Tengyur",
     "processing_history": [
         {
-            "timestamp": "2024-12-01T11:45:59.863926+00:00",
-            "run_id": 1080,
+            "timestamp": "2024-12-02T10:36:05.016802+00:00",
+            "run_id": 1081,
             "processor": "dropbox_sync",
             "action": "created"
         }
@@ -38,7 +38,7 @@
     "path_history": [
         {
             "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 9 (TA)",
-            "timestamp": "2024-12-01 11:45:59.863926+00:00"
+            "timestamp": "2024-12-02 10:36:05.016802+00:00"
         }
     ],
     "author": [],

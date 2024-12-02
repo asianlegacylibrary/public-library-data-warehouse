@@ -6,7 +6,7 @@
     "revision_id": "62633e06050738d294473",
     "content_hash": "97f77d2b86eac23880f62ee0ffe5b559e775f06440bdd3c8cc64ac5d8d8bba37",
     "server_modified": "2024-11-06 00:48:29",
-    "last_sync": "2024-12-01 11:45:46.035419+00:00",
+    "last_sync": "2024-12-02 10:35:49.133264+00:00",
     "size": 407489,
     "cat_ref": "TD04299",
     "work_ref": "W.TD04299",
@@ -27,8 +27,8 @@
     "collection": "Tengyur",
     "processing_history": [
         {
-            "timestamp": "2024-12-01T11:45:46.037039+00:00",
-            "run_id": 1080,
+            "timestamp": "2024-12-02T10:35:49.134608+00:00",
+            "run_id": 1081,
             "processor": "dropbox_sync",
             "action": "created"
         }
@@ -38,7 +38,7 @@
     "path_history": [
         {
             "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 4 (SE)",
-            "timestamp": "2024-12-01 11:45:46.037039+00:00"
+            "timestamp": "2024-12-02 10:35:49.134608+00:00"
         }
     ],
     "author": [],

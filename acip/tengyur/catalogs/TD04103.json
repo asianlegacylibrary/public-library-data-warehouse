@@ -6,7 +6,7 @@
     "revision_id": "62633b79a85e68d294473",
     "content_hash": "482f7bc1e38654aa7cdd08e1f3714d3f1b34098ec9cd9e95d513f6828fdbf921",
     "server_modified": "2024-11-06 00:37:05",
-    "last_sync": "2024-12-01 11:43:32.899196+00:00",
+    "last_sync": "2024-12-02 10:33:20.816782+00:00",
     "size": 145185,
     "cat_ref": "TD04103",
     "work_ref": "W.TD04103",
@@ -28,8 +28,8 @@
     "title_skt": "Gāthā Saṃgraha Śāstrārtha Nāma",
     "processing_history": [
         {
-            "timestamp": "2024-12-01T11:43:32.900370+00:00",
-            "run_id": 1080,
+            "timestamp": "2024-12-02T10:33:20.818027+00:00",
+            "run_id": 1081,
             "processor": "dropbox_sync",
             "action": "created"
         }
@@ -39,7 +39,7 @@
     "path_history": [
         {
             "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 11 (THU)",
-            "timestamp": "2024-12-01 11:43:32.900370+00:00"
+            "timestamp": "2024-12-02 10:33:20.818027+00:00"
         }
     ],
     "author": [],

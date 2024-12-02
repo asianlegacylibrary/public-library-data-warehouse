@@ -6,7 +6,7 @@
     "revision_id": "62633b862917f8d294473",
     "content_hash": "072cbd933586904e7abcf49f49ec86800d242d6fce26b3b78cf501739e2a7ad6",
     "server_modified": "2024-11-06 00:37:18",
-    "last_sync": "2024-12-01 11:43:38.708310+00:00",
+    "last_sync": "2024-12-02 10:33:26.186952+00:00",
     "size": 375229,
     "cat_ref": "TD04117",
     "work_ref": "W.TD04117",
@@ -28,8 +28,8 @@
     "title_skt": "Vinaya Sūtra",
     "processing_history": [
         {
-            "timestamp": "2024-12-01T11:43:38.708817+00:00",
-            "run_id": 1080,
+            "timestamp": "2024-12-02T10:33:26.187604+00:00",
+            "run_id": 1081,
             "processor": "dropbox_sync",
             "action": "created"
         }
@@ -39,7 +39,7 @@
     "path_history": [
         {
             "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/08 'DUL BA_Vowed Morality (Vinaya)/VOL 9 (WU)",
-            "timestamp": "2024-12-01 11:43:38.708817+00:00"
+            "timestamp": "2024-12-02 10:33:26.187604+00:00"
         }
     ],
     "author": [],

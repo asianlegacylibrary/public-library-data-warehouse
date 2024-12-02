@@ -6,7 +6,7 @@
     "revision_id": "62633d80634828d294473",
     "content_hash": "1266425333b856ee4f127da2aa6a2784170779afaacddd2c369403a0980997e9",
     "server_modified": "2024-11-06 00:46:09",
-    "last_sync": "2024-12-01 11:45:20.331233+00:00",
+    "last_sync": "2024-12-02 10:35:19.959126+00:00",
     "size": 1133,
     "cat_ref": "TD03093",
     "work_ref": "W.TD03093",
@@ -27,8 +27,8 @@
     "collection": "Tengyur",
     "processing_history": [
         {
-            "timestamp": "2024-12-01T11:45:20.336608+00:00",
-            "run_id": 1080,
+            "timestamp": "2024-12-02T10:35:19.962683+00:00",
+            "run_id": 1081,
             "processor": "dropbox_sync",
             "action": "created"
         }
@@ -38,7 +38,7 @@
     "path_history": [
         {
             "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 73 (PU)",
-            "timestamp": "2024-12-01 11:45:20.336608+00:00"
+            "timestamp": "2024-12-02 10:35:19.962683+00:00"
         }
     ],
     "author": [],

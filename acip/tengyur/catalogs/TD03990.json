@@ -6,7 +6,7 @@
     "revision_id": "62633b2a4559b8d294473",
     "content_hash": "c06ff449ec8c7b4cddac4b8511699bfaed49161ed178db781460de6010173af1",
     "server_modified": "2024-11-06 00:35:42",
-    "last_sync": "2024-12-01 11:43:07.306530+00:00",
+    "last_sync": "2024-12-02 10:32:54.509017+00:00",
     "size": 3719,
     "cat_ref": "TD03990",
     "work_ref": "W.TD03990",
@@ -28,8 +28,8 @@
     "title_skt": "Ārya Caturdharmaka Vyākhyāna",
     "processing_history": [
         {
-            "timestamp": "2024-12-01T11:43:07.308762+00:00",
-            "run_id": 1080,
+            "timestamp": "2024-12-02T10:32:54.512238+00:00",
+            "run_id": 1081,
             "processor": "dropbox_sync",
             "action": "created"
         }
@@ -39,7 +39,7 @@
     "path_history": [
         {
             "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 1 (NGI)",
-            "timestamp": "2024-12-01 11:43:07.308762+00:00"
+            "timestamp": "2024-12-02 10:32:54.512238+00:00"
         }
     ],
     "author": [],

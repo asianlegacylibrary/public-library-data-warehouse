@@ -6,7 +6,7 @@
     "revision_id": "62633b74ebf968d294473",
     "content_hash": "3dd38288847c4c912edba72bd276b646ba61efd1b616f0eca0ac7490fa4b1d1c",
     "server_modified": "2024-11-06 00:37:00",
-    "last_sync": "2024-12-01 11:43:30.730534+00:00",
+    "last_sync": "2024-12-02 10:33:18.873043+00:00",
     "size": 264838,
     "cat_ref": "TD04097",
     "work_ref": "W.TD04097",
@@ -28,8 +28,8 @@
     "title_skt": "Sārasamuccaya Nāma Abhidharmāvatara Ṭīkā",
     "processing_history": [
         {
-            "timestamp": "2024-12-01T11:43:30.732320+00:00",
-            "run_id": 1080,
+            "timestamp": "2024-12-02T10:33:18.874094+00:00",
+            "run_id": 1081,
             "processor": "dropbox_sync",
             "action": "created"
         }
@@ -39,7 +39,7 @@
     "path_history": [
         {
             "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 9 (NYU)",
-            "timestamp": "2024-12-01 11:43:30.732320+00:00"
+            "timestamp": "2024-12-02 10:33:18.874094+00:00"
         }
     ],
     "author": [],

@@ -6,7 +6,7 @@
     "revision_id": "62633b663000b8d294473",
     "content_hash": "9f8e3e6725c164c142914f9770182d8ca47fc37553a88254ab5aa9af28e307e9",
     "server_modified": "2024-11-06 00:36:45",
-    "last_sync": "2024-12-01 11:43:23.129550+00:00",
+    "last_sync": "2024-12-02 10:33:09.878885+00:00",
     "size": 1291406,
     "cat_ref": "TD04217",
     "work_ref": "W.TD04217",
@@ -28,8 +28,8 @@
     "title_skt": "Pramāṇa Vārtika Ṭīkā",
     "processing_history": [
         {
-            "timestamp": "2024-12-01T11:43:23.131070+00:00",
-            "run_id": 1080,
+            "timestamp": "2024-12-02T10:33:09.880288+00:00",
+            "run_id": 1081,
             "processor": "dropbox_sync",
             "action": "created"
         }
@@ -39,7 +39,7 @@
     "path_history": [
         {
             "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 2 (CHE)",
-            "timestamp": "2024-12-01 11:43:23.131070+00:00"
+            "timestamp": "2024-12-02 10:33:09.880288+00:00"
         }
     ],
     "author": [],

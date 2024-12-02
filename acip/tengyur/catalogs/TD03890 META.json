@@ -6,7 +6,7 @@
     "revision_id": "62633bb99134f8d294473",
     "content_hash": "8cf19bdaa6ce465f43ca544ecc60f8ad4ed6722f171d7f053e96b0753445cdad",
     "server_modified": "2024-11-06 00:38:12",
-    "last_sync": "2024-12-01 11:43:57.254358+00:00",
+    "last_sync": "2024-12-02 10:33:46.729498+00:00",
     "size": 15,
     "cat_ref": "TD03890 META",
     "work_ref": "W.TD03890 META",
@@ -27,8 +27,8 @@
     "collection": "Tengyur",
     "processing_history": [
         {
-            "timestamp": "2024-12-01T11:43:57.255833+00:00",
-            "run_id": 1080,
+            "timestamp": "2024-12-02T10:33:46.730596+00:00",
+            "run_id": 1081,
             "processor": "dropbox_sync",
             "action": "created"
         }
@@ -38,7 +38,7 @@
     "path_history": [
         {
             "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 13 (HA)",
-            "timestamp": "2024-12-01 11:43:57.255833+00:00"
+            "timestamp": "2024-12-02 10:33:46.730596+00:00"
         }
     ],
     "author": [],

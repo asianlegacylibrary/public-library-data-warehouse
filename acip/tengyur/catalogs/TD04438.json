@@ -6,7 +6,7 @@
     "revision_id": "62633e0d7f1ec8d294473",
     "content_hash": "c21238a57d78f8852404cec35192f5340d17745a04fc52f3bf941fcd519ae7d3",
     "server_modified": "2024-11-06 00:48:37",
-    "last_sync": "2024-12-01 11:45:47.295358+00:00",
+    "last_sync": "2024-12-02 10:35:50.794875+00:00",
     "size": 125186,
     "cat_ref": "TD04438",
     "work_ref": "W.TD04438",
@@ -28,8 +28,8 @@
     "title_skt": "Āyurveda Sarva Svasāra Saṃgraha",
     "processing_history": [
         {
-            "timestamp": "2024-12-01T11:45:47.297285+00:00",
-            "run_id": 1080,
+            "timestamp": "2024-12-02T10:35:50.797933+00:00",
+            "run_id": 1081,
             "processor": "dropbox_sync",
             "action": "created"
         }
@@ -39,7 +39,7 @@
     "path_history": [
         {
             "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 8 (NO)",
-            "timestamp": "2024-12-01 11:45:47.297285+00:00"
+            "timestamp": "2024-12-02 10:35:50.797933+00:00"
         }
     ],
     "author": [],

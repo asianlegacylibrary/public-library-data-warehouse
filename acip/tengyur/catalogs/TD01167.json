@@ -6,7 +6,7 @@
     "revision_id": "62633bd9f95008d294473",
     "content_hash": "0f9fcbf4a4cfa7063e8bb52f47a8c7ea1a6ec4f35a23750188a6ecb588dbd7aa",
     "server_modified": "2024-11-06 00:38:46",
-    "last_sync": "2024-12-01 11:44:04.153118+00:00",
+    "last_sync": "2024-12-02 10:33:55.511462+00:00",
     "size": 6406,
     "cat_ref": "TD01167",
     "work_ref": "W.TD01167",
@@ -28,8 +28,8 @@
     "title_skt": "Suprāta Prabhā Stotra",
     "processing_history": [
         {
-            "timestamp": "2024-12-01T11:44:04.156356+00:00",
-            "run_id": 1080,
+            "timestamp": "2024-12-02T10:33:55.516766+00:00",
+            "run_id": 1081,
             "processor": "dropbox_sync",
             "action": "created"
         }
@@ -39,7 +39,7 @@
     "path_history": [
         {
             "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
-            "timestamp": "2024-12-01 11:44:04.156356+00:00"
+            "timestamp": "2024-12-02 10:33:55.516766+00:00"
         }
     ],
     "author": [],

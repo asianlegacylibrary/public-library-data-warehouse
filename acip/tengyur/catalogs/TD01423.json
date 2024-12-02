@@ -6,7 +6,7 @@
     "revision_id": "62633c7122d718d294473",
     "content_hash": "5f71f9da4172ad8c080889c6bb194f55ed5b73e5d2aa4e0ad850a8cb02de8be0",
     "server_modified": "2024-11-06 00:41:25",
-    "last_sync": "2024-12-01 11:44:40.889641+00:00",
+    "last_sync": "2024-12-02 10:34:36.555637+00:00",
     "size": 53091,
     "cat_ref": "TD01423",
     "work_ref": "W.TD01423",
@@ -27,8 +27,8 @@
     "collection": "Tengyur",
     "processing_history": [
         {
-            "timestamp": "2024-12-01T11:44:40.891119+00:00",
-            "run_id": 1080,
+            "timestamp": "2024-12-02T10:34:36.557147+00:00",
+            "run_id": 1081,
             "processor": "dropbox_sync",
             "action": "created"
         }
@@ -38,7 +38,7 @@
     "path_history": [
         {
             "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/01 YAB BKA'_Father Texts (Pitṛ)/01 RGYUD 'GREL_Commentaries to Original Tantras (Tantra Vṛtti)/VOL 20 (WA)",
-            "timestamp": "2024-12-01 11:44:40.891119+00:00"
+            "timestamp": "2024-12-02 10:34:36.557147+00:00"
         }
     ],
     "author": [],

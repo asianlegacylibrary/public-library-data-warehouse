@@ -6,7 +6,7 @@
     "revision_id": "62633e22b6faf8d294473",
     "content_hash": "ad671f47880872e69c9383714121f4ddf37516afc55d3baa3c667b3e26aef9fd",
     "server_modified": "2024-11-06 00:48:59",
-    "last_sync": "2024-12-01 11:45:49.987599+00:00",
+    "last_sync": "2024-12-02 10:35:53.673847+00:00",
     "size": 2533,
     "cat_ref": "TD04462",
     "work_ref": "W.TD04462",
@@ -28,8 +28,8 @@
     "title_skt": "Nava Śloka",
     "processing_history": [
         {
-            "timestamp": "2024-12-01T11:45:49.988981+00:00",
-            "run_id": 1080,
+            "timestamp": "2024-12-02T10:35:53.675913+00:00",
+            "run_id": 1081,
             "processor": "dropbox_sync",
             "action": "created"
         }
@@ -39,7 +39,7 @@
     "path_history": [
         {
             "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 9 (PO)",
-            "timestamp": "2024-12-01 11:45:49.988981+00:00"
+            "timestamp": "2024-12-02 10:35:53.675913+00:00"
         }
     ],
     "author": [],

@@ -6,7 +6,7 @@
     "revision_id": "62633e4fd8af48d294473",
     "content_hash": "d100eabd615bc381bb8db06f165b0779a8ef1a3fd2739f54bca8c57734761848",
     "server_modified": "2024-11-06 00:49:47",
-    "last_sync": "2024-12-01 11:46:02.249741+00:00",
+    "last_sync": "2024-12-02 10:36:07.711771+00:00",
     "size": 128859,
     "cat_ref": "TD04309",
     "work_ref": "W.TD04309",
@@ -28,8 +28,8 @@
     "title_skt": "Vaidyāṣṭāṃga Hṛdaya Vṛtti",
     "processing_history": [
         {
-            "timestamp": "2024-12-01T11:46:02.251184+00:00",
-            "run_id": 1080,
+            "timestamp": "2024-12-02T10:36:07.713347+00:00",
+            "run_id": 1081,
             "processor": "dropbox_sync",
             "action": "created"
         }
@@ -39,7 +39,7 @@
     "path_history": [
         {
             "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/13 GSO BA RIG PA_Medicine (Cikitsā Vidyā)/VOL 1 (HE)",
-            "timestamp": "2024-12-01 11:46:02.251184+00:00"
+            "timestamp": "2024-12-02 10:36:07.713347+00:00"
         }
     ],
     "author": [],

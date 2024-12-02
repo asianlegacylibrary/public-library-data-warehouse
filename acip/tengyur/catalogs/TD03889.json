@@ -6,7 +6,7 @@
     "revision_id": "62633baf6c3968d294473",
     "content_hash": "d2f7e38c460e9460ed1fe30f86423a8023d0a5d49dea3a6182f1036e9d3f0a9c",
     "server_modified": "2024-11-06 00:38:02",
-    "last_sync": "2024-12-01 11:43:54.864136+00:00",
+    "last_sync": "2024-12-02 10:33:43.562875+00:00",
     "size": 74673,
     "cat_ref": "TD03889",
     "work_ref": "W.TD03889",
@@ -28,8 +28,8 @@
     "title_skt": "Sarva Dharmāsvabhāva Siddhi",
     "processing_history": [
         {
-            "timestamp": "2024-12-01T11:43:54.865747+00:00",
-            "run_id": 1080,
+            "timestamp": "2024-12-02T10:33:43.564925+00:00",
+            "run_id": 1081,
             "processor": "dropbox_sync",
             "action": "created"
         }
@@ -39,7 +39,7 @@
     "path_history": [
         {
             "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 12 (SA)",
-            "timestamp": "2024-12-01 11:43:54.865747+00:00"
+            "timestamp": "2024-12-02 10:33:43.564925+00:00"
         }
     ],
     "author": [],

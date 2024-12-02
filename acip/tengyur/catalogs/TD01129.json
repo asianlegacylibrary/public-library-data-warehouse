@@ -6,7 +6,7 @@
     "revision_id": "62633bd6e84798d294473",
     "content_hash": "8d49135287e50ad576f9eb0d70fd3e6c0bcd72f3b9e683f749b4cb0c93ed7155",
     "server_modified": "2024-11-06 00:38:43",
-    "last_sync": "2024-12-01 11:44:04.152449+00:00",
+    "last_sync": "2024-12-02 10:33:55.510556+00:00",
     "size": 2962,
     "cat_ref": "TD01129",
     "work_ref": "W.TD01129",
@@ -28,8 +28,8 @@
     "title_skt": "Stutyatīta Stava",
     "processing_history": [
         {
-            "timestamp": "2024-12-01T11:44:04.155419+00:00",
-            "run_id": 1080,
+            "timestamp": "2024-12-02T10:33:55.515531+00:00",
+            "run_id": 1081,
             "processor": "dropbox_sync",
             "action": "created"
         }
@@ -39,7 +39,7 @@
     "path_history": [
         {
             "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
-            "timestamp": "2024-12-01 11:44:04.155419+00:00"
+            "timestamp": "2024-12-02 10:33:55.515531+00:00"
         }
     ],
     "author": [],

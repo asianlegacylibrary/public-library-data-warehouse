@@ -6,7 +6,7 @@
     "revision_id": "62633de579e1e8d294473",
     "content_hash": "5ea076f49bdd71380a21d60c9d415bc528c67fb1873d0761783a0670d76aab9a",
     "server_modified": "2024-11-06 00:47:55",
-    "last_sync": "2024-12-01 11:45:34.605207+00:00",
+    "last_sync": "2024-12-02 10:35:37.949690+00:00",
     "size": 477170,
     "cat_ref": "TD04038-2",
     "work_ref": "W.TD04038-2",
@@ -27,8 +27,8 @@
     "collection": "Tengyur",
     "processing_history": [
         {
-            "timestamp": "2024-12-01T11:45:34.605687+00:00",
-            "run_id": 1080,
+            "timestamp": "2024-12-02T10:35:37.950423+00:00",
+            "run_id": 1081,
             "processor": "dropbox_sync",
             "action": "created"
         }
@@ -38,7 +38,7 @@
     "path_history": [
         {
             "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 9 (ZI)",
-            "timestamp": "2024-12-01 11:45:34.605687+00:00"
+            "timestamp": "2024-12-02 10:35:37.950423+00:00"
         }
     ],
     "author": [],

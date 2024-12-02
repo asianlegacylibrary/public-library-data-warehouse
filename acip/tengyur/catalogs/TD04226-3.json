@@ -6,7 +6,7 @@
     "revision_id": "62633b74ebf988d294473",
     "content_hash": "dea077b17bcf3a94b95916a8532f1854743269131c807b2d5f6527d05cc1fc65",
     "server_modified": "2024-11-06 00:37:00",
-    "last_sync": "2024-12-01 11:43:28.836022+00:00",
+    "last_sync": "2024-12-02 10:33:16.840335+00:00",
     "size": 1368164,
     "cat_ref": "TD04226-3",
     "work_ref": "W.TD04226-3",
@@ -27,8 +27,8 @@
     "collection": "Tengyur",
     "processing_history": [
         {
-            "timestamp": "2024-12-01T11:43:28.836528+00:00",
-            "run_id": 1080,
+            "timestamp": "2024-12-02T10:33:16.840812+00:00",
+            "run_id": 1081,
             "processor": "dropbox_sync",
             "action": "created"
         }
@@ -38,7 +38,7 @@
     "path_history": [
         {
             "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 12 (ME)",
-            "timestamp": "2024-12-01 11:43:28.836528+00:00"
+            "timestamp": "2024-12-02 10:33:16.840812+00:00"
         }
     ],
     "author": [],
