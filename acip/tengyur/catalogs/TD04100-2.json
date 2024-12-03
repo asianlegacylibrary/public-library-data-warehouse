@@ -6,7 +6,7 @@
     "revision_id": "62633b82e9e488d294473",
     "content_hash": "c13fb0f8b19dbe73bd84b7dd19339ea7da3b08f08da0d4a1ff4894de773e83cc",
     "server_modified": "2024-11-06 00:37:15",
-    "last_sync": "2024-12-02 10:33:20.816917+00:00",
+    "last_sync": "2024-12-03 11:32:16.316343+00:00",
     "size": 843287,
     "cat_ref": "TD04100-2",
     "work_ref": "W.TD04100-2",
@@ -27,8 +27,8 @@
     "collection": "Tengyur",
     "processing_history": [
         {
-            "timestamp": "2024-12-02T10:33:20.818146+00:00",
-            "run_id": 1081,
+            "timestamp": "2024-12-03T11:32:16.317581+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
@@ -38,7 +38,7 @@
     "path_history": [
         {
             "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 11 (THU)",
-            "timestamp": "2024-12-02 10:33:20.818146+00:00"
+            "timestamp": "2024-12-03 11:32:16.317581+00:00"
         }
     ],
     "author": [],

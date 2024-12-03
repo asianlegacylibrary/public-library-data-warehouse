@@ -6,7 +6,7 @@
     "revision_id": "62633b386393a8d294473",
     "content_hash": "62e475aefe9f5d4f8c27954a8f36ad79c7d4fcd2c3193cfa1cff61d2923efad1",
     "server_modified": "2024-11-06 00:35:57",
-    "last_sync": "2024-12-02 10:32:58.090842+00:00",
+    "last_sync": "2024-12-03 11:31:53.890108+00:00",
     "size": 514190,
     "cat_ref": "TD04017",
     "work_ref": "W.TD04017",
@@ -27,8 +27,8 @@
     "collection": "Tengyur",
     "processing_history": [
         {
-            "timestamp": "2024-12-02T10:32:58.091465+00:00",
-            "run_id": 1081,
+            "timestamp": "2024-12-03T11:31:53.890948+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
@@ -38,7 +38,7 @@
     "path_history": [
         {
             "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 8 (DI)",
-            "timestamp": "2024-12-02 10:32:58.091465+00:00"
+            "timestamp": "2024-12-03 11:31:53.890948+00:00"
         }
     ],
     "author": [],

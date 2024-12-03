@@ -6,7 +6,7 @@
     "revision_id": "62633e1bc74c28d294473",
     "content_hash": "f95af278eb677c58cde1ff4b68ddfc633462d2f0d629be71715b9db62f7363ca",
     "server_modified": "2024-11-06 00:48:52",
-    "last_sync": "2024-12-02 10:35:52.104147+00:00",
+    "last_sync": "2024-12-03 11:34:38.625263+00:00",
     "size": 61862,
     "cat_ref": "TD04364",
     "work_ref": "W.TD04364",
@@ -27,8 +27,8 @@
     "collection": "Tengyur",
     "processing_history": [
         {
-            "timestamp": "2024-12-02T10:35:52.105326+00:00",
-            "run_id": 1081,
+            "timestamp": "2024-12-03T11:34:38.626753+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
@@ -38,7 +38,7 @@
     "path_history": [
         {
             "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 3 (JO)",
-            "timestamp": "2024-12-02 10:35:52.105326+00:00"
+            "timestamp": "2024-12-03 11:34:38.626753+00:00"
         }
     ],
     "author": [],

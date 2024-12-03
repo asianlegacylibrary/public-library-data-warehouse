@@ -6,7 +6,7 @@
     "revision_id": "62633b8c3fed28d294473",
     "content_hash": "7ff4ea1559ca5d223e895448116c8c74d596d3d16f5035d14396be779d3a861c",
     "server_modified": "2024-11-06 00:37:25",
-    "last_sync": "2024-12-02 10:33:27.765770+00:00",
+    "last_sync": "2024-12-03 11:32:22.432983+00:00",
     "size": 4001,
     "cat_ref": "TD04136",
     "work_ref": "W.TD04136",
@@ -28,8 +28,8 @@
     "title_skt": "Vinaya Stotra",
     "processing_history": [
         {
-            "timestamp": "2024-12-02T10:33:27.768908+00:00",
-            "run_id": 1081,
+            "timestamp": "2024-12-03T11:32:22.435905+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
@@ -39,7 +39,7 @@
     "path_history": [
         {
             "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/08 'DUL BA_Vowed Morality (Vinaya)/VOL 17 (SU)",
-            "timestamp": "2024-12-02 10:33:27.768908+00:00"
+            "timestamp": "2024-12-03 11:32:22.435905+00:00"
         }
     ],
     "author": [],

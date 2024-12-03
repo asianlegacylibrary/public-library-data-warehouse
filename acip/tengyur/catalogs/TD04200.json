@@ -6,7 +6,7 @@
     "revision_id": "62633b3d4c9a58d294473",
     "content_hash": "b5f2a9f107cd3150913868d7c822383b4c1a098fae4ba7b45071467309a75b5f",
     "server_modified": "2024-11-06 00:36:02",
-    "last_sync": "2024-12-02 10:33:01.442090+00:00",
+    "last_sync": "2024-12-03 11:31:57.477175+00:00",
     "size": 4598,
     "cat_ref": "TD04200",
     "work_ref": "W.TD04200",
@@ -27,8 +27,8 @@
     "collection": "Tengyur",
     "processing_history": [
         {
-            "timestamp": "2024-12-02T10:33:01.444499+00:00",
-            "run_id": 1081,
+            "timestamp": "2024-12-03T11:31:57.480568+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
@@ -38,7 +38,7 @@
     "path_history": [
         {
             "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/10 SPRING YIG_Epistles (Lekha)/VOL 2 (NGE)",
-            "timestamp": "2024-12-02 10:33:01.444499+00:00"
+            "timestamp": "2024-12-03 11:31:57.480568+00:00"
         }
     ],
     "author": [],

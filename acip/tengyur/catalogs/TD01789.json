@@ -6,7 +6,7 @@
     "revision_id": "62633c5b1c1f68d294473",
     "content_hash": "b90cbc339d6306522caf48e0bd14cd474cb72c2c8f5c8d3e2e87dc410d325475",
     "server_modified": "2024-11-06 00:41:02",
-    "last_sync": "2024-12-02 10:34:28.017364+00:00",
+    "last_sync": "2024-12-03 11:33:20.724327+00:00",
     "size": 5866,
     "cat_ref": "TD01789",
     "work_ref": "W.TD01789",
@@ -27,8 +27,8 @@
     "collection": "Tengyur",
     "processing_history": [
         {
-            "timestamp": "2024-12-02T10:34:28.018957+00:00",
-            "run_id": 1081,
+            "timestamp": "2024-12-03T11:33:20.725533+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
@@ -38,7 +38,7 @@
     "path_history": [
         {
             "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/10 GSANG BA ‘DUS PA_Secret Collection (Guhya Samāja)/01 KLU SGRUB LUGS_System of Arya Nagarjuna (Nāgārjuna Krama)/01 RGYUD 'BREL_Commentaries to Original Tantras (Tantra Vṛtti)/VOL 30 (AA)",
-            "timestamp": "2024-12-02 10:34:28.018957+00:00"
+            "timestamp": "2024-12-03 11:33:20.725533+00:00"
         }
     ],
     "author": [],

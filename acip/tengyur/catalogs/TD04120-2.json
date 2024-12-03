@@ -6,7 +6,7 @@
     "revision_id": "62633ba647bbd8d294473",
     "content_hash": "102224f6f1f2a32cdb232902f3f8442c0b53cc1006018da3ffdc6c75a889d3af",
     "server_modified": "2024-11-06 00:37:52",
-    "last_sync": "2024-12-02 10:33:38.064468+00:00",
+    "last_sync": "2024-12-03 11:32:33.077892+00:00",
     "size": 1564815,
     "cat_ref": "TD04120-2",
     "work_ref": "W.TD04120-2",
@@ -28,8 +28,8 @@
     "title_skt": "Vinaya Sūtra Ṭīkā",
     "processing_history": [
         {
-            "timestamp": "2024-12-02T10:33:38.064970+00:00",
-            "run_id": 1081,
+            "timestamp": "2024-12-03T11:32:33.078364+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
@@ -39,7 +39,7 @@
     "path_history": [
         {
             "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/08 'DUL BA_Vowed Morality (Vinaya)/VOL 13 (YU)",
-            "timestamp": "2024-12-02 10:33:38.064970+00:00"
+            "timestamp": "2024-12-03 11:32:33.078364+00:00"
         }
     ],
     "author": [],

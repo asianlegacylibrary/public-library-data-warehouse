@@ -6,7 +6,7 @@
     "revision_id": "62633b56d34e48d294473",
     "content_hash": "82ac871d7223e0728784d68c76f3fa3128eda4957359cac0b0be4737f8edaabd",
     "server_modified": "2024-11-06 00:36:29",
-    "last_sync": "2024-12-02 10:33:07.710989+00:00",
+    "last_sync": "2024-12-03 11:32:03.426484+00:00",
     "size": 12536,
     "cat_ref": "TD04251",
     "work_ref": "W.TD04251",
@@ -28,8 +28,8 @@
     "title_skt": "Paraloka Siddhi",
     "processing_history": [
         {
-            "timestamp": "2024-12-02T10:33:07.714167+00:00",
-            "run_id": 1081,
+            "timestamp": "2024-12-03T11:32:03.429625+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
@@ -39,7 +39,7 @@
     "path_history": [
         {
             "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 17 (ZHE)",
-            "timestamp": "2024-12-02 10:33:07.714167+00:00"
+            "timestamp": "2024-12-03 11:32:03.429625+00:00"
         }
     ],
     "author": [],

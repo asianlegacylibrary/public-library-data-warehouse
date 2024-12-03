@@ -6,7 +6,7 @@
     "revision_id": "62633b3c388e18d294473",
     "content_hash": "b695b121c5c552ebe336dcb2d08565e697cb3b18ee33bb688187dc0fff1947f4",
     "server_modified": "2024-11-06 00:36:01",
-    "last_sync": "2024-12-02 10:32:59.999481+00:00",
+    "last_sync": "2024-12-03 11:31:56.036532+00:00",
     "size": 998242,
     "cat_ref": "TD04018",
     "work_ref": "W.TD04018",
@@ -28,8 +28,8 @@
     "title_skt": "Ārya Laṃkāvatāra Vṛtti",
     "processing_history": [
         {
-            "timestamp": "2024-12-02T10:32:59.999973+00:00",
-            "run_id": 1081,
+            "timestamp": "2024-12-03T11:31:56.037070+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
@@ -39,7 +39,7 @@
     "path_history": [
         {
             "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 9 (NI)",
-            "timestamp": "2024-12-02 10:32:59.999973+00:00"
+            "timestamp": "2024-12-03 11:31:56.037070+00:00"
         }
     ],
     "author": [],

@@ -6,7 +6,7 @@
     "revision_id": "62633e53ca56d8d294473",
     "content_hash": "a17ff9cf12ada0391a2ee46bc63f25acb71c79a9e8057447265597aca7e2f50e",
     "server_modified": "2024-11-06 00:49:51",
-    "last_sync": "2024-12-02 10:36:07.711906+00:00",
+    "last_sync": "2024-12-03 11:34:53.543197+00:00",
     "size": 1082848,
     "cat_ref": "TD04310",
     "work_ref": "W.TD04310",
@@ -28,8 +28,8 @@
     "title_skt": "Aṣṭaṃga Hṛdayasamhita",
     "processing_history": [
         {
-            "timestamp": "2024-12-02T10:36:07.713453+00:00",
-            "run_id": 1081,
+            "timestamp": "2024-12-03T11:34:53.544435+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
@@ -39,7 +39,7 @@
     "path_history": [
         {
             "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/13 GSO BA RIG PA_Medicine (Cikitsā Vidyā)/VOL 1 (HE)",
-            "timestamp": "2024-12-02 10:36:07.713453+00:00"
+            "timestamp": "2024-12-03 11:34:53.544435+00:00"
         }
     ],
     "author": [],
