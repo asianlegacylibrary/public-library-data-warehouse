@@ -1,53 +1,47 @@
 {
     "name": "TD02662_RNAM PAR SNANG MDZAD MNGON PAR RDZOGS PAR BYANG CHUB PA'I RGYUD KYI BSDUS PA'I DON (Vairocanābhisambodhi Tantra Piṇḍārtha).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/03 SPYOD PA'I RGYUD_Secret Class of Activity (Charya Tantra)/VOL 68 (NYU)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/03 SPYOD PA'I RGYUD_Secret Class of Activity (Charya Tantra)/VOL 68 (NYU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/03 spyod pa'i rgyud_secret class of activity (charya tantra)/vol 68 (nyu)/td02662_rnam par snang mdzad mngon par rdzogs par byang chub pa'i rgyud kyi bsdus pa'i don (vairocanābhisambodhi tantra piṇḍārtha).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACA-A",
     "revision_id": "62633d7aa76b78d294473",
     "content_hash": "e3a2cc60768b539fa90cd74bf4fabccdb6071051a838830e11c811f4952e7169",
     "server_modified": "2024-11-06 00:46:03",
-    "last_sync": "2024-11-20 04:00:46.850718",
+    "last_sync": "2024-12-03 11:34:08.742037+00:00",
     "size": 247510,
-    "meta_text": null,
     "cat_ref": "TD02662",
     "work_ref": "W.TD02662",
-    "title_tib": "",
+    "title_tib": "RNAM PAR SNANG MDZAD MNGON PAR RDZOGS PAR BYANG CHUB PA'I RGYUD KYI BSDUS PA'I DON",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "230726919582",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/03 SPYOD PA'I RGYUD_Secret Class of Activity (Charya Tantra)/VOL 68 (NYU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/03 SPYOD PA'I RGYUD/VOL 68 (NYU)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Secret Class of Activity (Charya Tantra)",
-            "subject_tibetan": "VOL 68 (NYU)",
-            "subject_english": "Secret Class of Activity (Charya Tantra)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/SPYOD PA'I RGYUD/68 (NYU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Secret Class of Activity (Charya Tantra)/VOL 68 (NYU)",
+            "subject_tibetan": "68 (NYU)",
+            "subject_english": "VOL 68 (NYU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/03 SPYOD PA'I RGYUD_Secret Class of Activity (Charya Tantra)/VOL 68 (NYU)",
-            "timestamp": "2024-11-20 12:00:46.855108+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Vairocanābhisambodhi Tantra Piṇḍārtha",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:46.855108+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:34:08.743044+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/03 SPYOD PA'I RGYUD_Secret Class of Activity (Charya Tantra)/VOL 68 (NYU)",
+            "timestamp": "2024-12-03 11:34:08.743044+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

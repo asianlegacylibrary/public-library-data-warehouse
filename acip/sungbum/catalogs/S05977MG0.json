@@ -6,13 +6,13 @@
     "revision_id": "625a4ad55c98f8d294473",
     "content_hash": "872e7a80a407131a1cf89469c4528e542c84ca46dcb3723e8ec7288cb8e1d9a7",
     "server_modified": "2024-10-29 21:57:53",
-    "last_sync": "2024-11-19 21:23:34.158340",
+    "last_sync": "2024-11-26 15:43:26.471933",
     "size": 3183,
-    "meta_text": "('m of Jnyanapada_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)', 'rtf')",
+    "meta_text": "m of Jnyanapada_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)",
     "cat_ref": "S05977MG0",
     "work_ref": "W.S05977MG0",
     "title_tib": "DPAL GSANG BA 'DUS PA YE SHES ZHABS LUGS KYI RIM PA GNYIS LAS BRTZAMS PA'I SMON PA'I TSIGS SU BCAD PA",
-    "title_eng": "Verses of Prayer based on the Two Stages of the Secret Teachings of the Glorious Secret Collection (Guhyasamaja), according to the Syste('m of Jnyanapada",
+    "title_eng": "Verses of Prayer based on the Two Stages of the Secret Teachings of the Glorious Secret Collection (Guhyasamaja), according to the System of Jnyanapada",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
-            "timestamp": "2024-11-20 05:23:35.417020+00:00"
+            "timestamp": "2024-11-26 23:43:27.206266+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:23:35.417020+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:43:27.206266+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

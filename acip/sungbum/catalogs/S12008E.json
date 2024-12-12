@@ -6,9 +6,9 @@
     "revision_id": "625a4a93445f58d294473",
     "content_hash": "518723066968767a386d634edd9283e902bc8790cca0a757fece3a6519be980d",
     "server_modified": "2024-10-29 21:56:43",
-    "last_sync": "2024-11-19 21:19:56.876036",
+    "last_sync": "2024-11-26 15:41:06.679408",
     "size": 3396,
-    "meta_text": "('1875)', 'rtf')",
+    "meta_text": "1875)",
     "cat_ref": "S12008E",
     "work_ref": "W.S12008E",
     "title_tib": "KUN MKHYEN ['JAM DBYANGS BZHAD PA'I RDO RJE'I] SKU PHRENG GSUM PA'I GSUNG BKOD BSLAB BYA",
@@ -28,7 +28,7 @@
         }
     ],
     "items": [],
-    "null": "('1875)', 'rtf')",
+    "null": "1875)",
     "author": [
         {
             "author_name": "DRUNG CHEN SHES RAB RGYA MTSO PRADZNY'A'I MTSAN CAN",
@@ -42,13 +42,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/DRUNG CHEN SHES RAB RGYA MTSO PRADZNY'A'I MTSAN CAN_DRUNGCHEN SHERAB GYATSO PRAJNAY TSENCHEN (1803-1875)",
-            "timestamp": "2024-11-20 05:19:57.665517+00:00"
+            "timestamp": "2024-11-26 23:41:07.367455+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:19:57.665517+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:41:07.367455+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

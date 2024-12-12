@@ -1,53 +1,47 @@
 {
     "name": "TD03425_HA RI HA RI HA RI LA ZHON PAR GYUR PA'I SGRUB THABS (Hari Hari Hari Vāhanodbhava Sādhana).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/vol 76 (mu)/td03425_ha ri ha ri ha ri la zhon par gyur pa'i sgrub thabs (hari hari hari vāhanodbhava sādhana).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB_qA",
     "revision_id": "62633d3ddde3a8d294473",
     "content_hash": "33b99c0f7dcd169d9ec8ebd9d73d993161e7e4391a7d0a47a6a9f94bcc22f590",
     "server_modified": "2024-11-06 00:44:59",
-    "last_sync": "2024-11-20 04:00:45.045892",
+    "last_sync": "2024-12-03 11:34:07.464972+00:00",
     "size": 1022,
-    "meta_text": null,
     "cat_ref": "TD03425",
     "work_ref": "W.TD03425",
-    "title_tib": "",
+    "title_tib": "HA RI HA RI HA RI LA ZHON PAR GYUR PA'I SGRUB THABS",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "121782366104",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/VOL 76 (MU)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)",
-            "subject_tibetan": "VOL 76 (MU)",
-            "subject_english": "Diamond Way (Vajrayāna)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/76 (MU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/VOL 76 (MU)",
+            "subject_tibetan": "76 (MU)",
+            "subject_english": "VOL 76 (MU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
-            "timestamp": "2024-11-20 12:00:45.251969+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Hari Hari Hari Vāhanodbhava Sādhana",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:45.251969+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:34:07.477159+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
+            "timestamp": "2024-12-03 11:34:07.477159+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

@@ -6,7 +6,7 @@
     "revision_id": "625a4a1c0efdc8d294473",
     "content_hash": "12c8395b6425624bbefb84b2f3e47beee2adf1a690c7751ede47274203156fd7",
     "server_modified": "2024-10-29 21:54:38",
-    "last_sync": "2024-11-19 21:16:13.371113",
+    "last_sync": "2024-11-26 15:38:28.715949",
     "size": 13685,
     "meta_text": null,
     "cat_ref": "S05885M",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/G-YUNG STON RI KHROD PA_YUNGTUN RITRUPA",
-            "timestamp": "2024-11-20 05:16:13.374811+00:00"
+            "timestamp": "2024-11-26 23:38:28.722176+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:16:13.374811+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:38:28.722176+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

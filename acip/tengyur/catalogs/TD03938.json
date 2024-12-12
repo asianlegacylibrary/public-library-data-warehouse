@@ -1,53 +1,47 @@
 {
     "name": "TD03938_RIM GYIS 'JUG PA'I SGOM DON (Krama Prāveṣika Bhāvanārtha).txt",
-    "path": "04 DBU MA_Middle Way School (Madhyamaka)/VOL 15 (KI)",
+    "path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 15 (KI)",
     "download_path": "/tengyur updated 10 31 24 ws/04 dbu ma_middle way school (madhyamaka)/vol 15 (ki)/td03938_rim gyis 'jug pa'i sgom don (krama prāveṣika bhāvanārtha).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB3TQ",
     "revision_id": "62633bc49a8ce8d294473",
     "content_hash": "748c44e0321c1a17d06b5df42f25d5706bb02b91b8626a6f375b21f5cb909b3f",
     "server_modified": "2024-11-06 00:38:24",
-    "last_sync": "2024-11-20 03:59:02.428557",
+    "last_sync": "2024-12-03 11:32:43.660085+00:00",
     "size": 67285,
-    "meta_text": null,
     "cat_ref": "TD03938",
     "work_ref": "W.TD03938",
-    "title_tib": "",
+    "title_tib": "RIM GYIS 'JUG PA'I SGOM DON",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "330936115974",
             "subject_path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 15 (KI)",
-            "subject_path_tibetan": "BSTAN 'GYUR/04 DBU MA/VOL 15 (KI)",
-            "subject_path_english": "Tengyur/Middle Way School (Madhyamaka)",
-            "subject_tibetan": "VOL 15 (KI)",
-            "subject_english": "Middle Way School (Madhyamaka)"
+            "subject_path_tibetan": "BSTAN 'GYUR/DBU MA/15 (KI)",
+            "subject_path_english": "Tengyur/Middle Way School (Madhyamaka)/VOL 15 (KI)",
+            "subject_tibetan": "15 (KI)",
+            "subject_english": "VOL 15 (KI)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 15 (KI)",
-            "timestamp": "2024-11-20 11:59:02.431541+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Krama Prāveṣika Bhāvanārtha",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:59:02.431541+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:32:43.663889+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 15 (KI)",
+            "timestamp": "2024-12-03 11:32:43.663889+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

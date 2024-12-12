@@ -1,54 +1,46 @@
 {
     "name": "TD03800_BCOM LDAN 'DAS MA SHES RAB KYI PHA ROL TU PHYIN PA'I MAN NGAG GI BSTAN BCOS MNGON PAR RTOGS PA'I RGYAN GYI 'GREL PA SHES RAB SGRON MA'I PHRENG BA ZHES BYA BA (Abisamayālaṃkāra Bhagavatī Prajñā Paramitopadeśa Śāstra Vṛtti Prajñā +.txt",
-    "path": "03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 9 (TA)",
+    "path": "BSTAN 'GYUR_Tengyur/03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 9 (TA)",
     "download_path": "/tengyur updated 10 31 24 ws/03 shes phyin_perfection of wisdom (prajñā pāramitā)/vol 9 (ta)/td03800_bcom ldan 'das ma shes rab kyi pha rol tu phyin pa'i man ngag gi bstan bcos mngon par rtogs pa'i rgyan gyi 'grel pa shes rab sgron ma'i phreng ba zhes bya ba (abisamayālaṃkāra bhagavatī prajñā paramitopadeśa śāstra vṛtti prajñā +.txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACE2Q",
     "revision_id": "62633e49167088d294473",
     "content_hash": "c0c7ff3d17fdc7c269f8da7e2e458eeae1f875bfe7d51cc6beaa961c2f9034f8",
     "server_modified": "2024-11-06 00:49:40",
-    "last_sync": "2024-11-20 04:01:39.427129",
+    "last_sync": "2024-12-03 11:34:50.824210+00:00",
     "size": 277824,
-    "meta_text": "('Pradīpāvali (Nāma))', 'text')",
     "cat_ref": "TD03800",
     "work_ref": "W.TD03800",
-    "title_tib": "",
+    "title_tib": "BCOM LDAN 'DAS MA SHES RAB KYI PHA ROL TU PHYIN PA'I MAN NGAG GI BSTAN BCOS MNGON PAR RTOGS PA'I RGYAN GYI 'GREL PA SHES RAB SGRON MA'I PHRENG BA ZHES BYA BA (Abisamayālaṃkāra Bhagavatī Prajñā Paramitopadeśa Śāstra Vṛtti Prajñā +",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "372653971411",
             "subject_path": "BSTAN 'GYUR_Tengyur/03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 9 (TA)",
-            "subject_path_tibetan": "BSTAN 'GYUR/03 SHES PHYIN/VOL 9 (TA)",
-            "subject_path_english": "Tengyur/Perfection of Wisdom (Prajñā Pāramitā)",
-            "subject_tibetan": "VOL 9 (TA)",
-            "subject_english": "Perfection of Wisdom (Prajñā Pāramitā)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SHES PHYIN/9 (TA)",
+            "subject_path_english": "Tengyur/Perfection of Wisdom (Prajñā Pāramitā)/VOL 9 (TA)",
+            "subject_tibetan": "9 (TA)",
+            "subject_english": "VOL 9 (TA)"
         }
     ],
     "items": [],
-    "null": "('Pradīpāvali (Nāma))', 'text')",
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 9 (TA)",
-            "timestamp": "2024-11-20 12:01:39.437096+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:39.437096+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:34:50.825001+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 9 (TA)",
+            "timestamp": "2024-12-03 11:34:50.825001+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

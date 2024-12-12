@@ -6,9 +6,9 @@
     "revision_id": "625a48132b7668d294473",
     "content_hash": "743f3b4531c54417501744283fa4d1492a1f22e04e4223a9089e9d2be7503318",
     "server_modified": "2024-10-29 21:45:32",
-    "last_sync": "2024-11-19 20:53:31.034086",
+    "last_sync": "2024-11-26 15:22:45.805352",
     "size": 527,
-    "meta_text": "('(1772-1851)', 'rtf')",
+    "meta_text": "(1772-1851)",
     "cat_ref": "S06370MQ6",
     "work_ref": "W.S06370MQ6",
     "title_tib": "RJE THAMS CAD MKHYEN PA LTA BUS KYANG THE TSOM GYI GZHIR MDZAD PA'I DKA' GNAS SKOR GYI DRI LAN",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 04:54:07.132732+00:00"
+            "timestamp": "2024-11-26 23:23:11.585435+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/DRI LAN_QUESTIONS AND ANSWERS",
-            "timestamp": "2024-11-20 05:17:46.888776+00:00"
+            "timestamp": "2024-11-26 23:39:34.025356+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:07.132732+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:11.585435+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:17:46.888776+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:39:34.025356+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

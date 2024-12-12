@@ -6,7 +6,7 @@
     "revision_id": "625a47c18e9b88d294473",
     "content_hash": "7fabc924bcd5d00e124994ecf5d045f12b5600eebd30d45fa4cf2eea6ef958a3",
     "server_modified": "2024-10-29 21:44:07",
-    "last_sync": "2024-11-19 20:49:52.343707",
+    "last_sync": "2024-11-26 15:20:28.206832",
     "size": 762,
     "meta_text": null,
     "cat_ref": "S05977M24",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/BSTOD PA_EULOGIES (STOTRA)/ZHI BA LHA (SHANTIDEVA)",
-            "timestamp": "2024-11-20 04:49:52.352862+00:00"
+            "timestamp": "2024-11-26 23:20:28.215813+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/BSTOD PA_EULOGIES (STOTRA)/ZLA BA GRAGS PA (CHANDRAKIRTI)",
-            "timestamp": "2024-11-20 04:50:31.679197+00:00"
+            "timestamp": "2024-11-26 23:20:49.876023+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:49:52.352862+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:20:28.215813+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T04:50:31.679197+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:20:49.876023+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

@@ -1,53 +1,47 @@
 {
     "name": "TD04356_LTA BA'I RIM PA BSHAD PA (Dṛṣṭi Krama Nideśa).txt",
-    "path": "16 SNA TSOGS_Miscellany (Citritā)/VOL 1 (CO)",
+    "path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 1 (CO)",
     "download_path": "/tengyur updated 10 31 24 ws/16 sna tsogs_miscellany (citritā)/vol 1 (co)/td04356_lta ba'i rim pa bshad pa (dṛṣṭi krama nideśa).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACEkg",
     "revision_id": "62633e276d2be8d294473",
     "content_hash": "ad68ec6839422e9186ef379669ed5a6a8f4f5fe5d61e35eca2560758de556012",
     "server_modified": "2024-11-06 00:49:04",
-    "last_sync": "2024-11-20 04:01:25.240581",
+    "last_sync": "2024-12-03 11:34:40.542527+00:00",
     "size": 7678,
-    "meta_text": null,
     "cat_ref": "TD04356",
     "work_ref": "W.TD04356",
-    "title_tib": "",
+    "title_tib": "LTA BA'I RIM PA BSHAD PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "198634923948",
             "subject_path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 1 (CO)",
-            "subject_path_tibetan": "BSTAN 'GYUR/16 SNA TSOGS/VOL 1 (CO)",
-            "subject_path_english": "Tengyur/Miscellany (Citritā)",
-            "subject_tibetan": "VOL 1 (CO)",
-            "subject_english": "Miscellany (Citritā)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SNA TSOGS/1 (CO)",
+            "subject_path_english": "Tengyur/Miscellany (Citritā)/VOL 1 (CO)",
+            "subject_tibetan": "1 (CO)",
+            "subject_english": "VOL 1 (CO)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 1 (CO)",
-            "timestamp": "2024-11-20 12:01:25.257150+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Dṛṣṭi Krama Nideśa",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:25.257150+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:34:40.544503+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 1 (CO)",
+            "timestamp": "2024-12-03 11:34:40.544503+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

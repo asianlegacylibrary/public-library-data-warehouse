@@ -6,7 +6,7 @@
     "revision_id": "625a4aefaec268d294473",
     "content_hash": "7a1ead3889664711bf4c265207b6eb87e0ad67a761be8f649197b7a6eb8afe54",
     "server_modified": "2024-10-29 21:58:20",
-    "last_sync": "2024-11-19 21:25:30.763692",
+    "last_sync": "2024-11-26 15:44:46.385460",
     "size": 5992,
     "meta_text": null,
     "cat_ref": "S00397M",
@@ -38,13 +38,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/BLO SBYONG_DEVELOPING THE GOOD HEART/BLO SBYONG 'CHI KHA MA_A PRACTICE OF THE GOOD HEART AT THE MOMENT OF DEATH",
-            "timestamp": "2024-11-20 05:25:30.767836+00:00"
+            "timestamp": "2024-11-26 23:44:46.392657+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:25:30.767836+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:44:46.392657+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

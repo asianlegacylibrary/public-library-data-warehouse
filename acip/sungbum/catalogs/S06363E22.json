@@ -6,9 +6,9 @@
     "revision_id": "625a4944b9d678d294473",
     "content_hash": "2f96293ef35113f84131f0d16f6f466d94dcef2666e3660a571d4f072c351fe8",
     "server_modified": "2024-10-29 21:50:53",
-    "last_sync": "2024-11-19 21:06:44.002051",
+    "last_sync": "2024-11-26 15:31:56.313039",
     "size": 13783,
-    "meta_text": "('ARMA BHADRA (1772-1851)', 'rtf')",
+    "meta_text": "ARMA BHADRA (1772-1851)",
     "cat_ref": "S06363E22",
     "work_ref": "W.S06363E22",
     "title_tib": "GSANG 'DUS 'JAM PA'I RDO RJE'I SGRUB THABS 'JAM DBYANGS DGONGS GSAL SNYING PO",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "timestamp": "2024-11-20 05:06:44.636302+00:00"
+            "timestamp": "2024-11-26 23:31:57.210557+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:06:44.636302+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:31:57.210557+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

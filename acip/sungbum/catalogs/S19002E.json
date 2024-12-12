@@ -6,13 +6,13 @@
     "revision_id": "625a495cd32338d294473",
     "content_hash": "917a2f6a826ffb0203c6235336a6cea91c1df02888ccc6cb82c54a5847a369ea",
     "server_modified": "2024-10-29 21:51:18",
-    "last_sync": "2024-11-19 21:07:43.343551",
+    "last_sync": "2024-11-26 15:32:38.878486",
     "size": 142976,
-    "meta_text": "(\"Samaja), the King of all Secret Teachings_'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS (1648-1721)\", 'rtf')",
+    "meta_text": "Samaja), the King of all Secret Teachings_'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS (1648-1721)",
     "cat_ref": "S19002E",
     "work_ref": "W.S19002E",
     "title_tib": "RGYUD THAMS CAD KYI RGYAL PO DPAL GSANG BA 'DUS PA'I BSKYED RIM KHRID KYI ZIN BRIS RIG 'DZIN YONGS KYI GZHUNG LAM",
-    "title_eng": "A Higway for Every Holder of Knowledge-- Notes to a Teaching on the Creation Stage in the Glorious Secret Collection (Guhya(\"Samaja), the King of all Secret Teachings",
+    "title_eng": "A Higway for Every Holder of Knowledge-- Notes to a Teaching on the Creation Stage in the Glorious Secret Collection (GuhyaSamaja), the King of all Secret Teachings",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/BSKYED RIM_CREATION STAGE (UTPATTI KRAMA)",
-            "timestamp": "2024-11-20 05:07:45.500608+00:00"
+            "timestamp": "2024-11-26 23:32:40.463033+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:07:45.500608+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:32:40.463033+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

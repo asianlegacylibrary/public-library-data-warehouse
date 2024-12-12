@@ -6,7 +6,7 @@
     "revision_id": "625a4a376d5d88d294473",
     "content_hash": "d18b53c0f56c813ee4f94f04a4c82f2e8b56a3e7dc9756f0fd150cb8a9146f25",
     "server_modified": "2024-10-29 21:55:07",
-    "last_sync": "2024-11-19 21:16:45.161134",
+    "last_sync": "2024-11-26 15:38:51.016016",
     "size": 151443,
     "meta_text": null,
     "cat_ref": "R0002Z",
@@ -38,13 +38,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/RNAM THAR SNA TSOGS_COMPILATIONS OF BIOGRAPHIES/TSIG MDZOD CHEN MO_THE GREAT DICTIONARY",
-            "timestamp": "2024-11-20 05:16:45.195501+00:00"
+            "timestamp": "2024-11-26 23:38:51.058231+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:16:45.195501+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:38:51.058231+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

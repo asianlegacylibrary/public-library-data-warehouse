@@ -1,53 +1,47 @@
 {
     "name": "TD01761_DPAL NAG PO CHEN PO'I SGRUB THABS ZHES BYA BA (Śrī Mahākāla Sādhana (Nāma)).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/09 SGROL MA_Lady of Liberation (Tārā)/02 MA RGYUD SPYI DANG 'BREL_Connected with Mother Tantras in General (Mātṛ Tantra Sambhaddha)/VOL 27 (SHA)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/09 SGROL MA_Lady of Liberation (Tārā)/02 MA RGYUD SPYI DANG 'BREL_Connected with Mother Tantras in General (Mātṛ Tantra Sambhaddha)/VOL 27 (SHA)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/01 rnal 'byor bla med_unsurpassed practice (anuttara yoga)/09 sgrol ma_lady of liberation (tārā)/02 ma rgyud spyi dang 'brel_connected with mother tantras in general (mātṛ tantra sambhaddha)/vol 27 (sha)/td01761_dpal nag po chen po'i sgrub thabs zhes bya ba (śrī mahākāla sādhana (nāma)).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB-AA",
     "revision_id": "62633cf980dca8d294473",
     "content_hash": "94d9dfadf4a6522a55a7363936042cb258fdeb6d9e554ab522de38bcafdd07af",
     "server_modified": "2024-11-06 00:43:48",
-    "last_sync": "2024-11-20 04:00:31.937169",
+    "last_sync": "2024-12-03 11:33:55.444419+00:00",
     "size": 4407,
-    "meta_text": null,
     "cat_ref": "TD01761",
     "work_ref": "W.TD01761",
-    "title_tib": "",
+    "title_tib": "DPAL NAG PO CHEN PO'I SGRUB THABS ZHES BYA BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "113770065525",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/09 SGROL MA_Lady of Liberation (Tārā)/02 MA RGYUD SPYI DANG 'BREL_Connected with Mother Tantras in General (Mātṛ Tantra Sambhaddha)/VOL 27 (SHA)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/01 RNAL 'BYOR BLA MED/09 SGROL MA/02 MA RGYUD SPYI DANG 'BREL/VOL 27 (SHA)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Lady of Liberation (Tārā)/Connected with Mother Tantras in General (Mātṛ Tantra Sambhaddha)",
-            "subject_tibetan": "VOL 27 (SHA)",
-            "subject_english": "Connected with Mother Tantras in General (Mātṛ Tantra Sambhaddha)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/RNAL 'BYOR BLA MED/SGROL MA/MA RGYUD SPYI DANG 'BREL/27 (SHA)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Lady of Liberation (Tārā)/Connected with Mother Tantras in General (Mātṛ Tantra Sambhaddha)/VOL 27 (SHA)",
+            "subject_tibetan": "27 (SHA)",
+            "subject_english": "VOL 27 (SHA)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/09 SGROL MA_Lady of Liberation (Tārā)/02 MA RGYUD SPYI DANG 'BREL_Connected with Mother Tantras in General (Mātṛ Tantra Sambhaddha)/VOL 27 (SHA)",
-            "timestamp": "2024-11-20 12:00:31.947783+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Śrī Mahākāla Sādhana (Nāma)",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:31.947783+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:33:55.446826+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/09 SGROL MA_Lady of Liberation (Tārā)/02 MA RGYUD SPYI DANG 'BREL_Connected with Mother Tantras in General (Mātṛ Tantra Sambhaddha)/VOL 27 (SHA)",
+            "timestamp": "2024-12-03 11:33:55.446826+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

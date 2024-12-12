@@ -6,9 +6,9 @@
     "revision_id": "625a48753d19e8d294473",
     "content_hash": "ce88844e5febed2e8780fe9308b86159eb6bf55a0dc7fd1acad5a1cf8f6e41de",
     "server_modified": "2024-10-29 21:47:15",
-    "last_sync": "2024-11-19 20:56:25.819530",
+    "last_sync": "2024-11-26 15:24:42.072261",
     "size": 85089,
-    "meta_text": "('1851)', 'rtf')",
+    "meta_text": "1851)",
     "cat_ref": "S06282E",
     "work_ref": "W.S06282E",
     "title_tib": "BDE MCHOG DRIL BU LHA LNGA'I DKYIL CHOG BDE CHEN 'BYUNG GNAS",
@@ -31,8 +31,8 @@
     "author": [
         {
             "author_name": "DNGUL CHU DHARMA BHADRA",
-            "author_birth": null,
-            "author_death": null,
+            "author_birth": "1772",
+            "author_death": "1851",
             "bdrc_id": "bdr:P289",
             "normalized_name": "DNGUL CHU DHARMA BHADRA",
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/DKYIL CHOG_RITUAL FOR A SECRET WORLD (MANDALA VIDHI)",
-            "timestamp": "2024-11-20 04:56:25.826253+00:00"
+            "timestamp": "2024-11-26 23:24:42.078538+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:56:25.826253+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:24:42.078538+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

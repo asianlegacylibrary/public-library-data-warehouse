@@ -6,13 +6,13 @@
     "revision_id": "625a48b57f8288d294473",
     "content_hash": "8b9ea613f3b153c1f8b0e99ac551b3ae79b13cb1197f77e208fe39ed3a101275",
     "server_modified": "2024-10-29 21:48:22",
-    "last_sync": "2024-11-19 21:00:13.497645",
+    "last_sync": "2024-11-26 15:27:28.359861",
     "size": 29710,
-    "meta_text": "('tice of the Glorious Union of the Spheres (Chakrasamvara)_DNGUL CHU DHARMA BHADRA (1772-1851)', 'rtf')",
+    "meta_text": "tice of the Glorious Union of the Spheres (Chakrasamvara)_DNGUL CHU DHARMA BHADRA (1772-1851)",
     "cat_ref": "S06287E",
     "work_ref": "W.S06287E",
     "title_tib": "DPAL 'KHOR LO SDOM PA'I RIN CHEN BZHI'I SNGAGS BTU'I RJES GNANG BYA TSUL LEGS BSHAD GSER GYI THUR MA",
-    "title_eng": "The 'Golden Spoon of Excellent Instruction,' being a Ritual for Permission into the Practice of Secret Words for the Four Jewels in the Prac('tice of the Glorious Union of the Spheres (Chakrasamvara)",
+    "title_eng": "The 'Golden Spoon of Excellent Instruction,' being a Ritual for Permission into the Practice of Secret Words for the Four Jewels in the Practice of the Glorious Union of the Spheres (Chakrasamvara)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'KHOR LO SDOM PA_UNION OF THE SPHERES (CHAKRASANVARA)/RJES GNANG_RITES OF PERMISSION (ANUJNA)",
-            "timestamp": "2024-11-20 05:00:13.502178+00:00"
+            "timestamp": "2024-11-26 23:27:28.366746+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:00:13.502178+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:27:28.366746+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

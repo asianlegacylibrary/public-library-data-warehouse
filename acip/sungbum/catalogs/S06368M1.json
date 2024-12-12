@@ -6,13 +6,13 @@
     "revision_id": "625a4a55746a98d294473",
     "content_hash": "c2630c4e92cf5acbda5bc91a2058b3f83e5ca768a5a0e5d544567569181e9ebf",
     "server_modified": "2024-10-29 21:55:39",
-    "last_sync": "2024-11-19 21:17:27.582621",
+    "last_sync": "2024-11-26 15:39:21.426516",
     "size": 3857,
-    "meta_text": "('mniscience’_DNGUL CHU DHARMA BHADRA (1772-1851)', 'rtf')",
+    "meta_text": "mniscience’_DNGUL CHU DHARMA BHADRA (1772-1851)",
     "cat_ref": "S06368M1",
     "work_ref": "W.S06368M1",
     "title_tib": "BYANG CHUB LAM GYI RIM PA'I DMAR 'KHRID THAMS CAD MKHYEN PAR BGROD PA'I BDE LAM GYI SA BCAD MDOR BSDUS",
-    "title_eng": "Brief Outline of the 'Dissection' Presentation of the Steps of the Path to Buddhahood entitled 'Easy Path for Traveling to the State of O('mniscience’",
+    "title_eng": "Brief Outline of the 'Dissection' Presentation of the Steps of the Path to Buddhahood entitled 'Easy Path for Traveling to the State of Omniscience’",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/BDE LAM_PATH TO BLISS/SA BCAD_OUTLINES",
-            "timestamp": "2024-11-20 05:17:27.588395+00:00"
+            "timestamp": "2024-11-26 23:39:21.433652+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:17:27.588395+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:39:21.433652+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

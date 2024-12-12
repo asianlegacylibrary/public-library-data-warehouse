@@ -1,53 +1,47 @@
 {
     "name": "TD01596_YE SHES DBAB PA'I CHO GA (Jñānāveśa Vidhi).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/02 YUM BKA'_Mother Texts (Mātṛ)/VOL 23 ('A)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/02 YUM BKA'_Mother Texts (Mātṛ)/VOL 23 ('A)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/01 rnal 'byor bla med_unsurpassed practice (anuttara yoga)/03 bde mchog_highest bliss (saṃvara)/02 yum bka'_mother texts (mātṛ)/vol 23 ('a)/td01596_ye shes dbab pa'i cho ga (jñānāveśa vidhi).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB65Q",
     "revision_id": "62633c63e82d58d294473",
     "content_hash": "fb1939428bf9700cd8f408ac70b87d2ff89184514652908ea4e7c39aeba9552f",
     "server_modified": "2024-11-06 00:41:11",
-    "last_sync": "2024-11-20 03:59:55.435035",
+    "last_sync": "2024-12-03 11:33:25.301040+00:00",
     "size": 5235,
-    "meta_text": null,
     "cat_ref": "TD01596",
     "work_ref": "W.TD01596",
-    "title_tib": "",
+    "title_tib": "YE SHES DBAB PA'I CHO GA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "288969002893",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/02 YUM BKA'_Mother Texts (Mātṛ)/VOL 23 ('A)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/01 RNAL 'BYOR BLA MED/03 BDE MCHOG/02 YUM BKA'/VOL 23 ('A)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Highest Bliss (Saṃvara)/Mother Texts (Mātṛ)",
-            "subject_tibetan": "VOL 23 ('A)",
-            "subject_english": "Mother Texts (Mātṛ)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/RNAL 'BYOR BLA MED/BDE MCHOG/YUM BKA'/23 ('A)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Highest Bliss (Saṃvara)/Mother Texts (Mātṛ)/VOL 23 ('A)",
+            "subject_tibetan": "23 ('A)",
+            "subject_english": "VOL 23 ('A)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/02 YUM BKA'_Mother Texts (Mātṛ)/VOL 23 ('A)",
-            "timestamp": "2024-11-20 11:59:55.473573+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Jñānāveśa Vidhi",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:59:55.473573+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:33:25.304776+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/02 YUM BKA'_Mother Texts (Mātṛ)/VOL 23 ('A)",
+            "timestamp": "2024-12-03 11:33:25.304776+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

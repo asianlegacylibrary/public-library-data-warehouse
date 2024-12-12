@@ -6,13 +6,13 @@
     "revision_id": "625a47d8165b38d294473",
     "content_hash": "8beb7c5e65d3cc9cc8b51ff3338d7639329d5c59e200cdd4b6e28cf56f47be1f",
     "server_modified": "2024-10-29 21:44:30",
-    "last_sync": "2024-11-19 20:51:17.664155",
+    "last_sync": "2024-11-26 15:21:16.144823",
     "size": 370957,
-    "meta_text": "(\"Points in the 'Illumination of the True Thought,' a Treatise upon the Classical Commentary entitled 'Entering the Middle Way’_SE RA RJE BTZUN CHOS KYI RGYAL MTSAN (1469-1546)\", 'rtf')",
+    "meta_text": "Points in the 'Illumination of the True Thought,' a Treatise upon the Classical Commentary entitled 'Entering the Middle Way’_SE RA RJE BTZUN CHOS KYI RGYAL MTSAN (1469-1546)",
     "cat_ref": "SN06838I2",
     "work_ref": "W.SN06838I2",
     "title_tib": "DBU MA LA 'JUG PA'I RNAM BSHAD DGONGS PA RAB GSAL GYI DKA' BA'I GNAS GSAL BAR BYED PA'I LEGS PAR BSHAD PA BSKAL BZANG MGUL RGYAN",
-    "title_eng": "Part II of 'A Necklace of Fine Explanation for the Fortunate,' being an Overview which Illuminates Difficult(\"Points in the 'Illumination of the True Thought,' a Treatise upon the Classical Commentary entitled 'Entering the Middle Way’",
+    "title_eng": "Part II of 'A Necklace of Fine Explanation for the Fortunate,' being an Overview which Illuminates DifficultPoints in the 'Illumination of the True Thought,' a Treatise upon the Classical Commentary entitled 'Entering the Middle Way’",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/'GREL PA SPYI_GENERAL COMMENTARIES/SE RA RJE BTZUN CHOS KYI RGYAL MTSAN_SERA JETSUN CHUKYI GYELTSEN (1469-1546)",
-            "timestamp": "2024-11-20 04:51:19.049604+00:00"
+            "timestamp": "2024-11-26 23:21:17.165593+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:51:19.049604+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:21:17.165593+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

@@ -1,53 +1,47 @@
 {
     "name": "TD01454_DPAL RDO RJE SEMS DPA'I SGRUB THABS ZHES BYA BA (Śrī Vajra Sattva Nāma Sādhana).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/01 YAB BKA'_Father Texts (Pitṛ)/02 SGRUB SKOR_Practice Materials (Sādhya)/VOL 21 (ZHA)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/01 YAB BKA'_Father Texts (Pitṛ)/02 SGRUB SKOR_Practice Materials (Sādhya)/VOL 21 (ZHA)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/01 rnal 'byor bla med_unsurpassed practice (anuttara yoga)/03 bde mchog_highest bliss (saṃvara)/01 yab bka'_father texts (pitṛ)/02 sgrub skor_practice materials (sādhya)/vol 21 (zha)/td01454_dpal rdo rje sems dpa'i sgrub thabs zhes bya ba (śrī vajra sattva nāma sādhana).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB7Wg",
     "revision_id": "62633c79cc09c8d294473",
     "content_hash": "a714839e73a770630c18f93f3a260045c8dc28604b4703390b23c6b8f5cd0416",
     "server_modified": "2024-11-06 00:41:34",
-    "last_sync": "2024-11-20 04:00:01.581778",
+    "last_sync": "2024-12-03 11:33:31.886861+00:00",
     "size": 7395,
-    "meta_text": null,
     "cat_ref": "TD01454",
     "work_ref": "W.TD01454",
-    "title_tib": "",
+    "title_tib": "DPAL RDO RJE SEMS DPA'I SGRUB THABS ZHES BYA BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "409678550799",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/01 YAB BKA'_Father Texts (Pitṛ)/02 SGRUB SKOR_Practice Materials (Sādhya)/VOL 21 (ZHA)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/01 RNAL 'BYOR BLA MED/03 BDE MCHOG/01 YAB BKA'/02 SGRUB SKOR/VOL 21 (ZHA)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Highest Bliss (Saṃvara)/Father Texts (Pitṛ)/Practice Materials (Sādhya)",
-            "subject_tibetan": "VOL 21 (ZHA)",
-            "subject_english": "Practice Materials (Sādhya)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/RNAL 'BYOR BLA MED/BDE MCHOG/YAB BKA'/SGRUB SKOR/21 (ZHA)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Highest Bliss (Saṃvara)/Father Texts (Pitṛ)/Practice Materials (Sādhya)/VOL 21 (ZHA)",
+            "subject_tibetan": "21 (ZHA)",
+            "subject_english": "VOL 21 (ZHA)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/01 YAB BKA'_Father Texts (Pitṛ)/02 SGRUB SKOR_Practice Materials (Sādhya)/VOL 21 (ZHA)",
-            "timestamp": "2024-11-20 12:00:01.624462+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Śrī Vajra Sattva Nāma Sādhana",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:01.624462+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:33:31.892707+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/01 YAB BKA'_Father Texts (Pitṛ)/02 SGRUB SKOR_Practice Materials (Sādhya)/VOL 21 (ZHA)",
+            "timestamp": "2024-12-03 11:33:31.892707+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

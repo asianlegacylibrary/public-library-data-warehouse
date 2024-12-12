@@ -1,53 +1,47 @@
 {
     "name": "TD03096_'PHAGS PA DE BZHIN GSHEGS PA'I GTZUG TOR NAS BYUNG BA'I GDUGS DKAR MO CAN ZHES BYA BA'I GZUNGS KYI CHO GA ZHES BYA BA (Ārya Tathāgatoṣṇīṣa Sitātapatrā Nāma Dhāraṇī Vidhi Nāma).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/VOL 73 (PU)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 73 (PU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/vol 73 (pu)/td03096_'phags pa de bzhin gshegs pa'i gtzug tor nas byung ba'i gdugs dkar mo can zhes bya ba'i gzungs kyi cho ga zhes bya ba (ārya tathāgatoṣṇīṣa sitātapatrā nāma dhāraṇī vidhi nāma).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACBPw",
     "revision_id": "62633d83e30928d294473",
     "content_hash": "1ebbf0e6c4af8efbf3f59539552989f03cce59c897c120eebaeb4dc32085c0ea",
     "server_modified": "2024-11-06 00:46:13",
-    "last_sync": "2024-11-20 04:00:48.350633",
+    "last_sync": "2024-12-03 11:34:10.193219+00:00",
     "size": 2760,
-    "meta_text": null,
     "cat_ref": "TD03096",
     "work_ref": "W.TD03096",
-    "title_tib": "",
+    "title_tib": "'PHAGS PA DE BZHIN GSHEGS PA'I GTZUG TOR NAS BYUNG BA'I GDUGS DKAR MO CAN ZHES BYA BA'I GZUNGS KYI CHO GA ZHES BYA BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "185746237611",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 73 (PU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/VOL 73 (PU)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)",
-            "subject_tibetan": "VOL 73 (PU)",
-            "subject_english": "Diamond Way (Vajrayāna)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/73 (PU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/VOL 73 (PU)",
+            "subject_tibetan": "73 (PU)",
+            "subject_english": "VOL 73 (PU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 73 (PU)",
-            "timestamp": "2024-11-20 12:00:49.203843+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Ārya Tathāgatoṣṇīṣa Sitātapatrā Nāma Dhāraṇī Vidhi Nāma",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:49.203843+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:34:10.199730+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 73 (PU)",
+            "timestamp": "2024-12-03 11:34:10.199730+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

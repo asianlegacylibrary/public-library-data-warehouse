@@ -1,53 +1,47 @@
 {
     "name": "TD01659_DPAL SANGS RGYAS THAMS CAD DANG MNYAM PAR SBYOR BA MKHA' 'GRO SGYU MA BDE MCHOG GI RGYUD KYI DON RNAM PAR BSHAD PA ZHES BYA BA (Śrī Sarva Buddha Samagoya Ḍākinī Māyāsaṃvara Tantrārthodāra Ṭīkā (Nāma)).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/08 SANGS RGYAS MNYAM SBYOR_The Union of the Buddhas (Buddha Samayoga)/VOL 25 (RA)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/08 SANGS RGYAS MNYAM SBYOR_The Union of the Buddhas (Buddha Samayoga)/VOL 25 (RA)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/01 rnal 'byor bla med_unsurpassed practice (anuttara yoga)/08 sangs rgyas mnyam sbyor_the union of the buddhas (buddha samayoga)/vol 25 (ra)/td01659_dpal sangs rgyas thams cad dang mnyam par sbyor ba mkha' 'gro sgyu ma bde mchog gi rgyud kyi don rnam par bshad pa zhes bya ba (śrī sarva buddha samagoya ḍākinī māyāsaṃvara tantrārthodāra ṭīkā (nāma)).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB9pA",
     "revision_id": "62633ce7f46f18d294473",
     "content_hash": "fb94e6c028bda4257a2884f594475a9aee7c78811c8fcf74c61fd49afac60b31",
     "server_modified": "2024-11-06 00:43:29",
-    "last_sync": "2024-11-20 04:00:30.003278",
+    "last_sync": "2024-12-03 11:33:54.049610+00:00",
     "size": 564345,
-    "meta_text": null,
     "cat_ref": "TD01659",
     "work_ref": "W.TD01659",
-    "title_tib": "",
+    "title_tib": "DPAL SANGS RGYAS THAMS CAD DANG MNYAM PAR SBYOR BA MKHA' 'GRO SGYU MA BDE MCHOG GI RGYUD KYI DON RNAM PAR BSHAD PA ZHES BYA BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "282694222351",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/08 SANGS RGYAS MNYAM SBYOR_The Union of the Buddhas (Buddha Samayoga)/VOL 25 (RA)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/01 RNAL 'BYOR BLA MED/08 SANGS RGYAS MNYAM SBYOR/VOL 25 (RA)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/The Union of the Buddhas (Buddha Samayoga)",
-            "subject_tibetan": "VOL 25 (RA)",
-            "subject_english": "The Union of the Buddhas (Buddha Samayoga)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/RNAL 'BYOR BLA MED/SANGS RGYAS MNYAM SBYOR/25 (RA)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/The Union of the Buddhas (Buddha Samayoga)/VOL 25 (RA)",
+            "subject_tibetan": "25 (RA)",
+            "subject_english": "VOL 25 (RA)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/08 SANGS RGYAS MNYAM SBYOR_The Union of the Buddhas (Buddha Samayoga)/VOL 25 (RA)",
-            "timestamp": "2024-11-20 12:00:30.006533+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Śrī Sarva Buddha Samagoya Ḍākinī Māyāsaṃvara Tantrārthodāra Ṭīkā (Nāma)",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:30.006533+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:33:54.050511+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/08 SANGS RGYAS MNYAM SBYOR_The Union of the Buddhas (Buddha Samayoga)/VOL 25 (RA)",
+            "timestamp": "2024-12-03 11:33:54.050511+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

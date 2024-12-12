@@ -1,53 +1,47 @@
 {
     "name": "TD04317_GRUB THOB BRGYAD CU'I RTZA BZHI'I MNGON PAR RTOGS PA (Caturaśiti Siddha Saṃbodhi Hṛdaya).txt",
-    "path": "14 BZO RIG PA_Fine Arts (Śilpa Vidyā)/VOL 1 (NGO-1)",
+    "path": "BSTAN 'GYUR_Tengyur/14 BZO RIG PA_Fine Arts (Śilpa Vidyā)/VOL 1 (NGO-1)",
     "download_path": "/tengyur updated 10 31 24 ws/14 bzo rig pa_fine arts (śilpa vidyā)/vol 1 (ngo-1)/td04317_grub thob brgyad cu'i rtza bzhi'i mngon par rtogs pa (caturaśiti siddha saṃbodhi hṛdaya).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACEBg",
     "revision_id": "62633e0834a538d294473",
     "content_hash": "1cce50a4ecaa66e18dbfb7fdfec1e94c65f6437b1c2a6c5cc9ae0ad4e2a7a2dc",
     "server_modified": "2024-11-06 00:48:32",
-    "last_sync": "2024-11-20 04:01:20.145103",
+    "last_sync": "2024-12-03 11:34:36.405122+00:00",
     "size": 7028,
-    "meta_text": null,
     "cat_ref": "TD04317",
     "work_ref": "W.TD04317",
-    "title_tib": "",
+    "title_tib": "GRUB THOB BRGYAD CU'I RTZA BZHI'I MNGON PAR RTOGS PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "226526997541",
             "subject_path": "BSTAN 'GYUR_Tengyur/14 BZO RIG PA_Fine Arts (Śilpa Vidyā)/VOL 1 (NGO-1)",
-            "subject_path_tibetan": "BSTAN 'GYUR/14 BZO RIG PA/VOL 1 (NGO-1)",
-            "subject_path_english": "Tengyur/Fine Arts (Śilpa Vidyā)",
-            "subject_tibetan": "VOL 1 (NGO-1)",
-            "subject_english": "Fine Arts (Śilpa Vidyā)"
+            "subject_path_tibetan": "BSTAN 'GYUR/BZO RIG PA/1 (NGO-1)",
+            "subject_path_english": "Tengyur/Fine Arts (Śilpa Vidyā)/VOL 1 (NGO-1)",
+            "subject_tibetan": "1 (NGO-1)",
+            "subject_english": "VOL 1 (NGO-1)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/14 BZO RIG PA_Fine Arts (Śilpa Vidyā)/VOL 1 (NGO-1)",
-            "timestamp": "2024-11-20 12:01:20.162186+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Caturaśiti Siddha Saṃbodhi Hṛdaya",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:20.162186+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:34:36.406907+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/14 BZO RIG PA_Fine Arts (Śilpa Vidyā)/VOL 1 (NGO-1)",
+            "timestamp": "2024-12-03 11:34:36.406907+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

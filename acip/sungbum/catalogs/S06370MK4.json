@@ -6,13 +6,13 @@
     "revision_id": "625a480ac43da8d294473",
     "content_hash": "6cedc390624475aaac5c3dda9313b0ec9836ce59ae1911f000e9ccbbff749ed2",
     "server_modified": "2024-10-29 21:45:23",
-    "last_sync": "2024-11-19 20:53:24.228497",
+    "last_sync": "2024-11-26 15:22:41.369502",
     "size": 1135,
-    "meta_text": "('ss’ in the ‘Prayer of the Virtuous Beginning and End’_DNGUL CHU DHARMA BHADRA (1772-1851)', 'rtf')",
+    "meta_text": "ss’ in the ‘Prayer of the Virtuous Beginning and End’_DNGUL CHU DHARMA BHADRA (1772-1851)",
     "cat_ref": "S06370MK4",
     "work_ref": "W.S06370MK4",
     "title_tib": "SMON LAM THOG MTHA' MA'I BLOS BYAS NYI TSE'I STONG PAR MCHOG 'DZIN PA'I, ZHES PA'I BLOS BYAS DANG NYI TSE'I STONG PA JI LTAR YIN PA'I DRI LAN",
-    "title_eng": "Response to a Question on the Meaning of the Expressions 'Made by the Mind' and 'Proximal Emptine('ss’ in the ‘Prayer of the Virtuous Beginning and End’",
+    "title_eng": "Response to a Question on the Meaning of the Expressions 'Made by the Mind' and 'Proximal Emptiness’ in the ‘Prayer of the Virtuous Beginning and End’",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 04:54:07.130451+00:00"
+            "timestamp": "2024-11-26 23:23:11.582546+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 05:23:49.782487+00:00"
+            "timestamp": "2024-11-26 23:43:37.092684+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:07.130451+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:11.582546+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:23:49.782487+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:43:37.092684+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

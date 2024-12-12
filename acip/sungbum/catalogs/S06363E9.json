@@ -6,9 +6,9 @@
     "revision_id": "625a497df98e78d294473",
     "content_hash": "9a55dc3241404357b18caac4248e0980a7783f33832ae91382cf60f94cb38910",
     "server_modified": "2024-10-29 21:51:53",
-    "last_sync": "2024-11-19 21:09:20.622783",
+    "last_sync": "2024-11-26 15:33:46.672176",
     "size": 3306,
-    "meta_text": "('(1772-1851)', 'rtf')",
+    "meta_text": "(1772-1851)",
     "cat_ref": "S06363E9",
     "work_ref": "W.S06363E9",
     "title_tib": "BCOM LDAN 'DAS RNAM PAR SNANG MDZAD KYI BDAG BSKYED MDOR BSDUS NYAMS SU LEN TSUL",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RNAM PAR SNANG MDZAD_APPEARANCES (VAIROCHANA)/RNAL 'BYOR_PRACTICES",
-            "timestamp": "2024-11-20 05:09:20.628667+00:00"
+            "timestamp": "2024-11-26 23:33:46.680506+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:09:20.628667+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:33:46.680506+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

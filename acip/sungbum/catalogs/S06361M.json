@@ -6,7 +6,7 @@
     "revision_id": "625a49c3f40ed8d294473",
     "content_hash": "216dc4b66b2544fcdbb5e58ccdaefd398ed45a57d1b02ac3a978349146ef852f",
     "server_modified": "2024-10-29 21:53:06",
-    "last_sync": "2024-11-19 21:12:52.107484",
+    "last_sync": "2024-11-26 15:36:12.343264",
     "size": 30871,
     "meta_text": null,
     "cat_ref": "S06361M",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)/'DUL BA RGYA MTSO'I SNYING PO_ESSENCE OF THE OCEAN OF DISCIPLINE",
-            "timestamp": "2024-11-20 05:12:52.111462+00:00"
+            "timestamp": "2024-11-26 23:36:12.347553+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 05:13:38.740777+00:00"
+            "timestamp": "2024-11-26 23:36:42.771741+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:12:52.111462+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:36:12.347553+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:13:38.740777+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:36:42.771741+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

@@ -6,9 +6,9 @@
     "revision_id": "625a477927db08d294473",
     "content_hash": "21682736840d12e34be6331e04369b5c10f312e75516fcf29e7f843ee22ccb48",
     "server_modified": "2024-10-29 21:42:51",
-    "last_sync": "2024-11-19 20:46:53.717944",
+    "last_sync": "2024-11-26 15:18:19.824532",
     "size": 298330,
-    "meta_text": "('JE NGAG DBANG DPAL LDAN (1806-&)', 'rtf')",
+    "meta_text": "JE NGAG DBANG DPAL LDAN (1806-&)",
     "cat_ref": "S00982E1",
     "work_ref": "W.S00982E1",
     "title_tib": "PHAR PHYIN SPYI DON GYI ZUR MCHAN YUM DON RAB GSAL SGRON ME",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/SPYI_GENERAL COMMENTARIES/CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN_CHUJE KALKA NGAWANG PELDEN (1806-?)/SPYI DON_OVERVIEW",
-            "timestamp": "2024-11-20 04:46:55.800935+00:00"
+            "timestamp": "2024-11-26 23:18:21.981484+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:46:55.800935+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:18:21.981484+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

@@ -1,53 +1,47 @@
 {
     "name": "TD03649_DPAL MI PHAM MGON PO'I SGRUB THABS ZHES BYA BA (Śrī Ajitanātha Sādhana).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/vol 76 (mu)/td03649_dpal mi pham mgon po'i sgrub thabs zhes bya ba (śrī ajitanātha sādhana).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB_-Q",
     "revision_id": "62633d4fe63b88d294473",
     "content_hash": "7a23a28702a766576af47d29ad37dfe56331c7d6e36dd64e21520860e8421af9",
     "server_modified": "2024-11-06 00:45:18",
-    "last_sync": "2024-11-20 04:00:45.112900",
+    "last_sync": "2024-12-03 11:34:07.467200+00:00",
     "size": 2219,
-    "meta_text": null,
     "cat_ref": "TD03649",
     "work_ref": "W.TD03649",
-    "title_tib": "",
+    "title_tib": "DPAL MI PHAM MGON PO'I SGRUB THABS ZHES BYA BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "121782366104",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/VOL 76 (MU)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)",
-            "subject_tibetan": "VOL 76 (MU)",
-            "subject_english": "Diamond Way (Vajrayāna)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/76 (MU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/VOL 76 (MU)",
+            "subject_tibetan": "76 (MU)",
+            "subject_english": "VOL 76 (MU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
-            "timestamp": "2024-11-20 12:00:45.254378+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Śrī Ajitanātha Sādhana",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:45.254378+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:34:07.479861+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
+            "timestamp": "2024-12-03 11:34:07.479861+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

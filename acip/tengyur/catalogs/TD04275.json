@@ -1,53 +1,47 @@
 {
     "name": "TD04275_TI NGA'I MTHA' (Tiṇanta).txt",
-    "path": "12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 1 (RE)",
+    "path": "BSTAN 'GYUR_Tengyur/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 1 (RE)",
     "download_path": "/tengyur updated 10 31 24 ws/12 sgra mdo_study of sanskrit language (śabda)/vol 1 (re)/td04275_ti nga'i mtha' (tiṇanta).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACD4g",
     "revision_id": "62633e00d51358d294473",
     "content_hash": "08c7843e2316087fdb37cc0faad6241c6594fff0fe1d1032ce5efac12cf6d7e8",
     "server_modified": "2024-11-06 00:48:24",
-    "last_sync": "2024-11-20 04:01:18.085568",
+    "last_sync": "2024-12-03 11:34:34.605900+00:00",
     "size": 16420,
-    "meta_text": null,
     "cat_ref": "TD04275",
     "work_ref": "W.TD04275",
-    "title_tib": "",
+    "title_tib": "TI NGA'I MTHA'",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "299774484840",
             "subject_path": "BSTAN 'GYUR_Tengyur/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 1 (RE)",
-            "subject_path_tibetan": "BSTAN 'GYUR/12 SGRA MDO/VOL 1 (RE)",
-            "subject_path_english": "Tengyur/Study of Sanskrit Language (Śabda)",
-            "subject_tibetan": "VOL 1 (RE)",
-            "subject_english": "Study of Sanskrit Language (Śabda)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SGRA MDO/1 (RE)",
+            "subject_path_english": "Tengyur/Study of Sanskrit Language (Śabda)/VOL 1 (RE)",
+            "subject_tibetan": "1 (RE)",
+            "subject_english": "VOL 1 (RE)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 1 (RE)",
-            "timestamp": "2024-11-20 12:01:18.100005+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Tiṇanta",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:18.100005+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:34:34.607486+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 1 (RE)",
+            "timestamp": "2024-12-03 11:34:34.607486+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

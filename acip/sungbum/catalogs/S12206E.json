@@ -6,7 +6,7 @@
     "revision_id": "625a4afaf229e8d294473",
     "content_hash": "d4fbf692c2901470edf49c49eab065142cd39f06aebe62731f9bf18e15ebdf6c",
     "server_modified": "2024-10-29 21:58:32",
-    "last_sync": "2024-11-19 21:26:13.395977",
+    "last_sync": "2024-11-26 15:45:11.467605",
     "size": 9508,
     "meta_text": null,
     "cat_ref": "S12206E",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/CHO GA_RITUALS/SKU GSUNG THUGS RTEN_PREPARATION OF ALTARS",
-            "timestamp": "2024-11-20 05:26:13.402652+00:00"
+            "timestamp": "2024-11-26 23:45:11.479240+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:26:13.402652+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:45:11.479240+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

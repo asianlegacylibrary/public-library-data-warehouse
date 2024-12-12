@@ -6,7 +6,7 @@
     "revision_id": "625a4a9c69cd58d294473",
     "content_hash": "145ff535963b4c557618557a8838a4d0b1c4b0cb857ef0edd14c61ee6551b0cc",
     "server_modified": "2024-10-29 21:56:53",
-    "last_sync": "2024-11-19 21:20:22.464874",
+    "last_sync": "2024-11-26 15:41:25.321255",
     "size": 65501,
     "meta_text": null,
     "cat_ref": "S12233E",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/SKU PHRENG GSUM PA DPAL LDAN YE SHES_KUTRENG SUMPA PELDEN YESHE (1738-1780)",
-            "timestamp": "2024-11-20 05:20:22.469535+00:00"
+            "timestamp": "2024-11-26 23:41:25.327755+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/BCA' YIG_OFFICIAL DOCUMENTS/BKRA SHIS LHUN PO_TRASHI HLUNPO MONASTERY",
-            "timestamp": "2024-11-20 05:24:16.381459+00:00"
+            "timestamp": "2024-11-26 23:43:56.366923+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:20:22.469535+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:41:25.327755+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:24:16.381459+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:43:56.366923+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

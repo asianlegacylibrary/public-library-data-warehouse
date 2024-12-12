@@ -1,53 +1,47 @@
 {
     "name": "TD04293_LDOG PA BSDUS PA BSTAN PA'I TSIG LE'UR BYAS PA (Piṇḍa Nivartana Nirdeśa Kārikā).txt",
-    "path": "12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 3 (SHE)",
+    "path": "BSTAN 'GYUR_Tengyur/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 3 (SHE)",
     "download_path": "/tengyur updated 10 31 24 ws/12 sgra mdo_study of sanskrit language (śabda)/vol 3 (she)/td04293_ldog pa bsdus pa bstan pa'i tsig le'ur byas pa (piṇḍa nivartana nirdeśa kārikā).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACD1g",
     "revision_id": "62633dfeae3278d294473",
     "content_hash": "76cf40efffef1d6079ea72d930c444d0d280bdd5ff1c7feda2ccfdebca7ae554",
     "server_modified": "2024-11-06 00:48:22",
-    "last_sync": "2024-11-20 04:01:17.405907",
+    "last_sync": "2024-12-03 11:34:34.030755+00:00",
     "size": 12479,
-    "meta_text": null,
     "cat_ref": "TD04293",
     "work_ref": "W.TD04293",
-    "title_tib": "",
+    "title_tib": "LDOG PA BSDUS PA BSTAN PA'I TSIG LE'UR BYAS PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "177229726903",
             "subject_path": "BSTAN 'GYUR_Tengyur/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 3 (SHE)",
-            "subject_path_tibetan": "BSTAN 'GYUR/12 SGRA MDO/VOL 3 (SHE)",
-            "subject_path_english": "Tengyur/Study of Sanskrit Language (Śabda)",
-            "subject_tibetan": "VOL 3 (SHE)",
-            "subject_english": "Study of Sanskrit Language (Śabda)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SGRA MDO/3 (SHE)",
+            "subject_path_english": "Tengyur/Study of Sanskrit Language (Śabda)/VOL 3 (SHE)",
+            "subject_tibetan": "3 (SHE)",
+            "subject_english": "VOL 3 (SHE)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 3 (SHE)",
-            "timestamp": "2024-11-20 12:01:17.412472+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Piṇḍa Nivartana Nirdeśa Kārikā",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:17.412472+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:34:34.032429+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 3 (SHE)",
+            "timestamp": "2024-12-03 11:34:34.032429+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

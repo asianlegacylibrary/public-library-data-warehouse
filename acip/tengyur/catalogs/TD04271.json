@@ -1,53 +1,47 @@
 {
     "name": "TD04271_YI GE'I MDO ZHES BYA BA (Varṇa Sūtra).txt",
-    "path": "12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 1 (RE)",
+    "path": "BSTAN 'GYUR_Tengyur/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 1 (RE)",
     "download_path": "/tengyur updated 10 31 24 ws/12 sgra mdo_study of sanskrit language (śabda)/vol 1 (re)/td04271_yi ge'i mdo zhes bya ba (varṇa sūtra).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACD2Q",
     "revision_id": "62633dff932028d294473",
     "content_hash": "074ac7900573a20f98a1f8faf54f5c3e9ff9da89cf136cc27e229f2af05a8d67",
     "server_modified": "2024-11-06 00:48:23",
-    "last_sync": "2024-11-20 04:01:18.072804",
+    "last_sync": "2024-12-03 11:34:34.605460+00:00",
     "size": 3722,
-    "meta_text": null,
     "cat_ref": "TD04271",
     "work_ref": "W.TD04271",
-    "title_tib": "",
+    "title_tib": "YI GE'I MDO ZHES BYA BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "299774484840",
             "subject_path": "BSTAN 'GYUR_Tengyur/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 1 (RE)",
-            "subject_path_tibetan": "BSTAN 'GYUR/12 SGRA MDO/VOL 1 (RE)",
-            "subject_path_english": "Tengyur/Study of Sanskrit Language (Śabda)",
-            "subject_tibetan": "VOL 1 (RE)",
-            "subject_english": "Study of Sanskrit Language (Śabda)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SGRA MDO/1 (RE)",
+            "subject_path_english": "Tengyur/Study of Sanskrit Language (Śabda)/VOL 1 (RE)",
+            "subject_tibetan": "1 (RE)",
+            "subject_english": "VOL 1 (RE)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 1 (RE)",
-            "timestamp": "2024-11-20 12:01:18.099638+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Varṇa Sūtra",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:18.099638+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:34:34.606692+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 1 (RE)",
+            "timestamp": "2024-12-03 11:34:34.606692+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

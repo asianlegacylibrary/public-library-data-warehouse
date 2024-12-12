@@ -6,9 +6,9 @@
     "revision_id": "625a4a53839738d294473",
     "content_hash": "4afe707107f0724bf601bb131f399869937a66f109494c83a944710aedd62a86",
     "server_modified": "2024-10-29 21:55:37",
-    "last_sync": "2024-11-19 21:17:15.898489",
+    "last_sync": "2024-11-26 15:39:11.123431",
     "size": 58638,
-    "meta_text": "('MA GRAGS PA BSHAD GRUB (1675-1748)', 'rtf')",
+    "meta_text": "MA GRAGS PA BSHAD GRUB (1675-1748)",
     "cat_ref": "SR00218A",
     "work_ref": "W.SR00218A",
     "title_tib": "BYANG CHUB LAM GYI SGRON MA'I 'GREL PA NYUNG NGU RNAM GSAL JO BO CHEN PO DGYES PA'I MCHOD SPRIN",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/LAM SGRON_LIGHT ON THE STEPS OF THE PATH (BODHIPATHA PRADIPA)/'GREL PA_COMMENTARIES",
-            "timestamp": "2024-11-20 05:17:15.903713+00:00"
+            "timestamp": "2024-11-26 23:39:11.133118+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:17:15.903713+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:39:11.133118+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

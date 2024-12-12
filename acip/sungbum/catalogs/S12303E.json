@@ -6,7 +6,7 @@
     "revision_id": "625a490ef41b18d294473",
     "content_hash": "742e68040c09f446058d508e7f322cdf5c51bb736bfe966ebd893afcba16b078",
     "server_modified": "2024-10-29 21:49:56",
-    "last_sync": "2024-11-19 21:04:18.686276",
+    "last_sync": "2024-11-26 15:30:21.101817",
     "size": 7654,
     "meta_text": null,
     "cat_ref": "S12303E",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BSTAN SRUNG_GUARDIANS OF THE TEACHINGS",
-            "timestamp": "2024-11-20 05:04:18.690174+00:00"
+            "timestamp": "2024-11-26 23:30:21.107963+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:04:18.690174+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:30:21.107963+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

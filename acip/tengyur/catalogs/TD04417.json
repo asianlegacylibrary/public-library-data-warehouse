@@ -1,53 +1,47 @@
 {
     "name": "TD04417_RIGS GSUM GYI BKRA SHIS (Trikula Maṃgala Gāthā).txt",
-    "path": "16 SNA TSOGS_Miscellany (Citritā)/VOL 4 (NYO)",
+    "path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 4 (NYO)",
     "download_path": "/tengyur updated 10 31 24 ws/16 sna tsogs_miscellany (citritā)/vol 4 (nyo)/td04417_rigs gsum gyi bkra shis (trikula maṃgala gāthā).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACEYg",
     "revision_id": "62633e18a0c778d294473",
     "content_hash": "a470327585af1f2454c3c6715487659c1a1cb16c29643204b45e3b12a58b45de",
     "server_modified": "2024-11-06 00:48:49",
-    "last_sync": "2024-11-20 04:01:22.232859",
+    "last_sync": "2024-12-03 11:34:38.015286+00:00",
     "size": 784,
-    "meta_text": null,
     "cat_ref": "TD04417",
     "work_ref": "W.TD04417",
-    "title_tib": "",
+    "title_tib": "RIGS GSUM GYI BKRA SHIS",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "279475421118",
             "subject_path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 4 (NYO)",
-            "subject_path_tibetan": "BSTAN 'GYUR/16 SNA TSOGS/VOL 4 (NYO)",
-            "subject_path_english": "Tengyur/Miscellany (Citritā)",
-            "subject_tibetan": "VOL 4 (NYO)",
-            "subject_english": "Miscellany (Citritā)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SNA TSOGS/4 (NYO)",
+            "subject_path_english": "Tengyur/Miscellany (Citritā)/VOL 4 (NYO)",
+            "subject_tibetan": "4 (NYO)",
+            "subject_english": "VOL 4 (NYO)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 4 (NYO)",
-            "timestamp": "2024-11-20 12:01:22.241938+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Trikula Maṃgala Gāthā",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:22.241938+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:34:38.019941+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 4 (NYO)",
+            "timestamp": "2024-12-03 11:34:38.019941+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

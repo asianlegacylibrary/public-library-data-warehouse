@@ -6,13 +6,13 @@
     "revision_id": "625a4ac842b8e8d294473",
     "content_hash": "43ca3d2becb2e81dae6836e7ac224431b77b8150cbe3500da39fdc1e7e7c991c",
     "server_modified": "2024-10-29 21:57:39",
-    "last_sync": "2024-11-19 21:22:54.395653",
+    "last_sync": "2024-11-26 15:43:03.434340",
     "size": 2513,
-    "meta_text": "('una)_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)', 'rtf')",
+    "meta_text": "una)_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)",
     "cat_ref": "S05977MG5",
     "work_ref": "W.S05977MG5",
     "title_tib": "'PHAGS MCHOG THUGS RJE CHEN PO'I SMYUNG GNAS CHO GA'I MJUG TU BYA BA'I SHIS BRJOD",
-    "title_eng": "Words of Benediction to be Recited at the End of a Ritual of Fasting in the Teachings of that Highest of Realized Beings, the One of Great Compassion (Mahaka('una)",
+    "title_eng": "Words of Benediction to be Recited at the End of a Ritual of Fasting in the Teachings of that Highest of Realized Beings, the One of Great Compassion (Mahakauna)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SHIS BRJOD_METHODS FOR PERFORMING PRAYERS OF AUSPICIOUSNESS",
-            "timestamp": "2024-11-20 05:22:54.400692+00:00"
+            "timestamp": "2024-11-26 23:43:03.443591+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:22:54.400692+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:43:03.443591+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

@@ -1,53 +1,47 @@
 {
     "name": "TD04126_TSIG LE'UR BYAS PA SUM BRGYA PA'I RNAM PAR BSHAD PA (Triśata Kārikā Vyākhyāna).txt",
-    "path": "08 'DUL BA_Vowed Morality (Vinaya)/VOL 16 (SHU)",
+    "path": "BSTAN 'GYUR_Tengyur/08 'DUL BA_Vowed Morality (Vinaya)/VOL 16 (SHU)",
     "download_path": "/tengyur updated 10 31 24 ws/08 'dul ba_vowed morality (vinaya)/vol 16 (shu)/td04126_tsig le'ur byas pa sum brgya pa'i rnam par bshad pa (triśata kārikā vyākhyāna).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB2tQ",
     "revision_id": "62633b97736698d294473",
     "content_hash": "353e0b5d5663e4b18dfefa11aac1cf45d82b71789345c3f5df6ae49f5450000d",
     "server_modified": "2024-11-06 00:37:37",
-    "last_sync": "2024-11-20 03:58:42.981525",
+    "last_sync": "2024-12-03 11:32:26.041614+00:00",
     "size": 424085,
-    "meta_text": null,
     "cat_ref": "TD04126",
     "work_ref": "W.TD04126",
-    "title_tib": "",
+    "title_tib": "TSIG LE'UR BYAS PA SUM BRGYA PA'I RNAM PAR BSHAD PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "112215166181",
             "subject_path": "BSTAN 'GYUR_Tengyur/08 'DUL BA_Vowed Morality (Vinaya)/VOL 16 (SHU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/08 'DUL BA/VOL 16 (SHU)",
-            "subject_path_english": "Tengyur/Vowed Morality (Vinaya)",
-            "subject_tibetan": "VOL 16 (SHU)",
-            "subject_english": "Vowed Morality (Vinaya)"
+            "subject_path_tibetan": "BSTAN 'GYUR/'DUL BA/16 (SHU)",
+            "subject_path_english": "Tengyur/Vowed Morality (Vinaya)/VOL 16 (SHU)",
+            "subject_tibetan": "16 (SHU)",
+            "subject_english": "VOL 16 (SHU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/08 'DUL BA_Vowed Morality (Vinaya)/VOL 16 (SHU)",
-            "timestamp": "2024-11-20 11:58:42.984103+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Triśata Kārikā Vyākhyāna",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:58:42.984103+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:32:26.042711+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/08 'DUL BA_Vowed Morality (Vinaya)/VOL 16 (SHU)",
+            "timestamp": "2024-12-03 11:32:26.042711+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

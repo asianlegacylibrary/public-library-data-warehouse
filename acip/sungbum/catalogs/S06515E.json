@@ -6,13 +6,13 @@
     "revision_id": "625a4a4cc571f8d294473",
     "content_hash": "40d3639c01e6f2fc466eb65966180d9f58ee03fc4bb4e02271e4a028884623ba",
     "server_modified": "2024-10-29 21:55:29",
-    "last_sync": "2024-11-19 21:17:11.021423",
+    "last_sync": "2024-11-26 15:39:07.452847",
     "size": 301506,
-    "meta_text": "(\"es in the Steps of the Path to Enlightenment_KE'U TSANG BLO BZANG 'JAM DBYANGS SMON LAM (1689-@)\", 'rtf')",
+    "meta_text": "es in the Steps of the Path to Enlightenment_KE'U TSANG BLO BZANG 'JAM DBYANGS SMON LAM (1689-@)",
     "cat_ref": "S06515E",
     "work_ref": "W.S06515E",
     "title_tib": "BYANG CHUB LAM GYI RIM PA'I SNGON 'GRO SBYOR BA'I CHOS DRUG GI KHRID YIG CHEN MO 'JAM DBYANGS BLA MA'I DGONGS RGYAN",
-    "title_eng": "'The Jewel of the True Thought of Our Lama, Gentle Voice,' being a Major Book of Instruction upon the Six Preliminary Practic(\"es in the Steps of the Path to Enlightenment",
+    "title_eng": "'The Jewel of the True Thought of Our Lama, Gentle Voice,' being a Major Book of Instruction upon the Six Preliminary Practices in the Steps of the Path to Enlightenment",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/SBYOR BA'I CHOS_PRELIMINARY PRACTICES/'JAM DBYANGS BLA MA'I DGONGS RGYAN_JEWEL OF THE TRUE THOUGHT OF MY LAMA, GENTLE VOICE",
-            "timestamp": "2024-11-20 05:17:11.031093+00:00"
+            "timestamp": "2024-11-26 23:39:07.458302+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:17:11.031093+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:39:07.458302+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

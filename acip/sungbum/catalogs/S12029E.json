@@ -6,13 +6,13 @@
     "revision_id": "625a4ad41f8328d294473",
     "content_hash": "bbce5cd50ced36beb8dd4e8be3e61fa3ba51a75eb529f9199df51ea04c9a63f7",
     "server_modified": "2024-10-29 21:57:51",
-    "last_sync": "2024-11-19 21:23:38.792833",
+    "last_sync": "2024-11-26 15:43:30.296323",
     "size": 21928,
-    "meta_text": "(\"ns_PAn CHEN SKU PHRENG BZHI PA BSTAN PA'I NYI MA (1782-1853)\", 'rtf')",
+    "meta_text": "ns_PAn CHEN SKU PHRENG BZHI PA BSTAN PA'I NYI MA (1782-1853)",
     "cat_ref": "S12029E",
     "work_ref": "W.S12029E",
     "title_tib": "RTEN GSAR BZHENGS KYI DKAR CHAG RGYAB YIG ZHAL BYANG SMON TSIG 'DOD GSOL GYI SKOR",
-    "title_eng": "Writings on the Subject of Catalogs to Newly Constructed Shrines; Inscriptions on the Obverse of Sacred Paintings; Colophons to Books; Prayers; and Supplicatio(\"ns",
+    "title_eng": "Writings on the Subject of Catalogs to Newly Constructed Shrines; Inscriptions on the Obverse of Sacred Paintings; Colophons to Books; Prayers; and Supplications",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/PAn CHEN SKU PHRENG BZHI PA BSTAN PA'I NYI MA_PANCHEN KUTRENG SHIPA TENPAY NYIMA (1782-1853)",
-            "timestamp": "2024-11-20 05:23:38.797258+00:00"
+            "timestamp": "2024-11-26 23:43:30.302304+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:23:38.797258+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:43:30.302304+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

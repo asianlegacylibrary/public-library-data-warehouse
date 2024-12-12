@@ -6,13 +6,13 @@
     "revision_id": "625a4913590108d294473",
     "content_hash": "646082eb242ad9b3be4f4215edf37600e0a447b6768351e4bb4e81cb2a3d0f24",
     "server_modified": "2024-10-29 21:50:01",
-    "last_sync": "2024-11-19 21:04:34.058566",
+    "last_sync": "2024-11-26 15:30:32.061410",
     "size": 240424,
-    "meta_text": "('s Received by the Lord Pabongka, Whose True Nature is that of the Warrior of Diamond (Vajrasattva), King of a Thousand Secret Worlds_SKYABS RJE PHA BONG KHA PA BDE CHEN SNYING PO (1878-1941)', 'rtf')",
+    "meta_text": "s Received by the Lord Pabongka, Whose True Nature is that of the Warrior of Diamond (Vajrasattva), King of a Thousand Secret Worlds_SKYABS RJE PHA BONG KHA PA BDE CHEN SNYING PO (1878-1941)",
     "cat_ref": "S00313I",
     "work_ref": "W.S00313I",
     "title_tib": "RIGS BRGYA'I KHYAB BDAG RDO RJE SEMS DPA'I NGO BO RJE PHA BONG KHA PA'I GSAN YIG BSAM 'PHEL NOR BU'I DO SHAL LAS BE'U BUM SKOR PHYOGS GCIG TU BKOD PA",
-    "title_eng": "The Section on Collections, from 'The Necklace of Wish-Giving Jewels,' a Record of Teaching('s Received by the Lord Pabongka, Whose True Nature is that of the Warrior of Diamond (Vajrasattva), King of a Thousand Secret Worlds",
+    "title_eng": "The Section on Collections, from 'The Necklace of Wish-Giving Jewels,' a Record of Teachings Received by the Lord Pabongka, Whose True Nature is that of the Warrior of Diamond (Vajrasattva), King of a Thousand Secret Worlds",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/GSAN YIG_RECORDS OF TEACHINGS RECEIVED/PHA BONG KHA RIN PO CHE BDE CHEN SNYING PO_PABONGKA RIN PO CHE DECHEN NYINGPO",
-            "timestamp": "2024-11-20 05:04:34.065638+00:00"
+            "timestamp": "2024-11-26 23:30:32.067278+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/GSAN YIG_RECORDS OF TEACHINGS RECEIVED/SKYABS RJE PHA BONG KHA PA BDE CHEN SNYING PO_KYABJE PABONGKAPA DECHEN NYINGPO (1878-1941)",
-            "timestamp": "2024-11-20 05:14:04.728796+00:00"
+            "timestamp": "2024-11-26 23:37:00.049356+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:04:34.065638+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:30:32.067278+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:14:04.728796+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:37:00.049356+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

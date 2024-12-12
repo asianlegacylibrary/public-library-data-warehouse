@@ -6,9 +6,9 @@
     "revision_id": "625a482d37c0d8d294473",
     "content_hash": "c23faf397ae298bd2fa261a8c2101af6eada0ca11acaf030e6e6ddca601cc356",
     "server_modified": "2024-10-29 21:46:00",
-    "last_sync": "2024-11-19 20:53:51.224216",
+    "last_sync": "2024-11-26 15:22:59.401004",
     "size": 1556,
-    "meta_text": "('I DRI LAN_Response to a Question on the Necessary Order in which the Various Levels of the Stage of Completion must Progress_DNGUL CHU DHARMA BHADRA (1772-1851)', 'rtf')",
+    "meta_text": "I DRI LAN_Response to a Question on the Necessary Order in which the Various Levels of the Stage of Completion must Progress_DNGUL CHU DHARMA BHADRA (1772-1851)",
     "cat_ref": "S06370EL0",
     "work_ref": "W.S06370EL0",
     "title_tib": "RDZOGS RIM GYI SKABS, DPE'I LHAN SKYES, DON GYI LHAN SKYES, DPE'I 'OD GSAL, DON GYI 'OD GSAL, SLOB PA'I ZUNG 'JUG ,MI SLOB PA'I ZUNG 'JUG SOGS KYI GO RIM PHYI MA PHYI MA SKYE BA LA SNGA MA SNGA MA GANG 'DRA SNGON DU 'GRO DGOS PA'I SKOR GY",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 04:54:07.138180+00:00"
+            "timestamp": "2024-11-26 23:23:11.591894+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/RDZOGS RIM_COMPLETION STAGE (SAMPANNA KRAMA)",
-            "timestamp": "2024-11-20 05:04:05.253455+00:00"
+            "timestamp": "2024-11-26 23:30:10.568702+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:07.138180+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:11.591894+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:04:05.253455+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:30:10.568702+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

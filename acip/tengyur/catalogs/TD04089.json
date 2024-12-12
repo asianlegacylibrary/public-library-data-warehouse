@@ -1,53 +1,47 @@
 {
     "name": "TD04089_CHOS MNGON PA'I MDZOD KYI TSIG LE'UR BYAS PA (Abhidarmakoṣa Kārikā).txt",
-    "path": "07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 2 (KU)",
+    "path": "BSTAN 'GYUR_Tengyur/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 2 (KU)",
     "download_path": "/tengyur updated 10 31 24 ws/07 mngon pa_higher knowledge school (abhidharma)/vol 2 (ku)/td04089_chos mngon pa'i mdzod kyi tsig le'ur byas pa (abhidarmakoṣa kārikā).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB2ZQ",
     "revision_id": "62633b74ebf938d294473",
     "content_hash": "e4bde1ade518b2ff6a6a84cde4b0307be3483bf6521964678d29cff288ff0d1c",
     "server_modified": "2024-11-06 00:37:00",
-    "last_sync": "2024-11-20 03:58:30.829122",
+    "last_sync": "2024-12-03 11:32:15.140580+00:00",
     "size": 85434,
-    "meta_text": null,
     "cat_ref": "TD04089",
     "work_ref": "W.TD04089",
-    "title_tib": "",
+    "title_tib": "CHOS MNGON PA'I MDZOD KYI TSIG LE'UR BYAS PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "108386148591",
             "subject_path": "BSTAN 'GYUR_Tengyur/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 2 (KU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/07 MNGON PA/VOL 2 (KU)",
-            "subject_path_english": "Tengyur/Higher Knowledge School (Abhidharma)",
-            "subject_tibetan": "VOL 2 (KU)",
-            "subject_english": "Higher Knowledge School (Abhidharma)"
+            "subject_path_tibetan": "BSTAN 'GYUR/MNGON PA/2 (KU)",
+            "subject_path_english": "Tengyur/Higher Knowledge School (Abhidharma)/VOL 2 (KU)",
+            "subject_tibetan": "2 (KU)",
+            "subject_english": "VOL 2 (KU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 2 (KU)",
-            "timestamp": "2024-11-20 11:58:30.837168+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Abhidarmakoṣa Kārikā",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:58:30.837168+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:32:15.141208+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 2 (KU)",
+            "timestamp": "2024-12-03 11:32:15.141208+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

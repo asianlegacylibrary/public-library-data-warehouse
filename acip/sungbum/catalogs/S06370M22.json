@@ -6,7 +6,7 @@
     "revision_id": "625a47bd0bb7d8d294473",
     "content_hash": "08c1640dd73aa788fb782098af524cfb349dd8bc3e63440bc2e50da765845961",
     "server_modified": "2024-10-29 21:44:02",
-    "last_sync": "2024-11-19 20:49:33.100013",
+    "last_sync": "2024-11-26 15:20:13.287123",
     "size": 257,
     "meta_text": null,
     "cat_ref": "S06370M22",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/SPYI_GENERAL TREATMENTS/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA",
-            "timestamp": "2024-11-20 04:49:33.108938+00:00"
+            "timestamp": "2024-11-26 23:20:13.297050+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 04:54:07.141793+00:00"
+            "timestamp": "2024-11-26 23:23:11.596092+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:49:33.108938+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:20:13.297050+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T04:54:07.141793+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:11.596092+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

@@ -6,9 +6,9 @@
     "revision_id": "625a4ab72fa858d294473",
     "content_hash": "a73881ec555d3d4f6f364fff793795165031af54bf4cb17498d8c6d353b5d275",
     "server_modified": "2024-10-29 21:57:21",
-    "last_sync": "2024-11-19 21:21:47.683311",
+    "last_sync": "2024-11-26 15:42:25.955128",
     "size": 8446,
-    "meta_text": "('HOS KYI RGYAL MTSAN (1565-1662)', 'rtf')",
+    "meta_text": "HOS KYI RGYAL MTSAN (1565-1662)",
     "cat_ref": "S05898M",
     "work_ref": "W.S05898M",
     "title_tib": "THAMS CAD MKHYEN PA BU STON CHOS RJE LA BRTEN PA'I BLA MA'I RNAL 'BYOR DANG 'PHO BA BSDUS PA",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BLA MA'I RNAL 'BYOR_PRACTICES FOR HONORING ONES LAMA/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
-            "timestamp": "2024-11-20 05:21:47.698726+00:00"
+            "timestamp": "2024-11-26 23:42:25.977165+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:21:47.698726+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:42:25.977165+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

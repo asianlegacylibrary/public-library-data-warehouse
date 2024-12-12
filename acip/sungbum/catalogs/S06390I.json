@@ -6,13 +6,13 @@
     "revision_id": "625a4773864228d294473",
     "content_hash": "f574a40d6507a5eb5c304e367002250696e916c5b78dbddb315a444ef6f9451f",
     "server_modified": "2024-10-29 21:42:45",
-    "last_sync": "2024-11-19 20:46:30.661301",
+    "last_sync": "2024-11-26 15:18:05.596716",
     "size": 12722,
-    "meta_text": "('klace of Ketaka Jewels’_DNGUL CHU DHARMA BHADRA (1772-1851)', 'rtf')",
+    "meta_text": "klace of Ketaka Jewels’_DNGUL CHU DHARMA BHADRA (1772-1851)",
     "cat_ref": "S06390I",
     "work_ref": "W.S06390I",
     "title_tib": "SUM RTAGS KYI RNAM BSHAD NOR BU KE TA KA'I DO SHAL DU 'BOD PA'I DGAG LAN TSANGS PA'I THIG GI SPUN ZLA",
-    "title_eng": "The 'Brother of the Middle Line,' being a Refutation of Criticism concerning the Explanation of Classical Tibetan Grammar entitled 'The Nec('klace of Ketaka Jewels’",
+    "title_eng": "The 'Brother of the Middle Line,' being a Refutation of Criticism concerning the Explanation of Classical Tibetan Grammar entitled 'The Necklace of Ketaka Jewels’",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/GSUM RTAGS_GRAMMAR",
-            "timestamp": "2024-11-20 04:46:30.678409+00:00"
+            "timestamp": "2024-11-26 23:18:05.612749+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:46:30.678409+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:18:05.612749+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

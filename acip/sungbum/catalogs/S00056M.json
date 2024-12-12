@@ -6,7 +6,7 @@
     "revision_id": "625a4a830fc968d294473",
     "content_hash": "120d7f6a2e4d4b63b1a8e3e65dae60c228c6d2eb928517660c4086580b571357",
     "server_modified": "2024-10-29 21:56:26",
-    "last_sync": "2024-11-19 21:19:22.200524",
+    "last_sync": "2024-11-26 15:40:39.933211",
     "size": 39920,
     "meta_text": null,
     "cat_ref": "S00056M",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/GRUB MTHA'_COMPARATIVE PHILOSOPHY (SIDDHANTA)/SE RA RJE BTZUN CHOS KYI RGYAL MTSAN_SERA JETSUN CHUKYI GYELTSEN (1469-1546)",
-            "timestamp": "2024-11-20 05:19:22.204959+00:00"
+            "timestamp": "2024-11-26 23:40:39.940421+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:19:22.204959+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:40:39.940421+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

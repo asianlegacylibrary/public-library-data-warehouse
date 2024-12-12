@@ -6,9 +6,9 @@
     "revision_id": "625a487ff25a58d294473",
     "content_hash": "fb89c743262cc11d8f658c530d484a90d5555f33c89110c1656d237a68249266",
     "server_modified": "2024-10-29 21:47:26",
-    "last_sync": "2024-11-19 20:56:59.977727",
+    "last_sync": "2024-11-26 15:25:07.347648",
     "size": 42399,
-    "meta_text": "('CHU DHARMA BHADRA (1772-1851)', 'rtf')",
+    "meta_text": "CHU DHARMA BHADRA (1772-1851)",
     "cat_ref": "S06324E",
     "work_ref": "W.S06324E",
     "title_tib": "DPAL LDAN RDO RJE SEMS DPA'I BSGOM BZLAS DAG BYED BDUD RTZI BUM BZANG",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE SEMS DPA'_WARRIOR OF DIAMOND (VAJRASATTVA)/BSGOM BZLAS_MEDITATION AND RECITATION UPON THE ANGEL",
-            "timestamp": "2024-11-20 04:56:59.987907+00:00"
+            "timestamp": "2024-11-26 23:25:07.357910+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:56:59.987907+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:25:07.357910+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

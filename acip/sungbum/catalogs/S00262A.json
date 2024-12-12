@@ -6,13 +6,13 @@
     "revision_id": "625a4948b67668d294473",
     "content_hash": "dbfb46379e3b868f459765c05f88aed06f1f7013de9529897851441013ff97a3",
     "server_modified": "2024-10-29 21:50:57",
-    "last_sync": "2024-11-19 21:07:13.091141",
+    "last_sync": "2024-11-26 15:32:16.867179",
     "size": 48605,
-    "meta_text": "('Root Tantra for the Secret Collection (Guhyasamaja)_CO NE BLA MA GRAGS PA BSHAD SGRUB (1675-1748)', 'rtf')",
+    "meta_text": "Root Tantra for the Secret Collection (Guhyasamaja)_CO NE BLA MA GRAGS PA BSHAD SGRUB (1675-1748)",
     "cat_ref": "S00262A",
     "work_ref": "W.S00262A",
     "title_tib": "'DUS PA'I RTZA RGYUD KYI GLENG GZHI'I YI GE BZHI BCU'I BSHAD PA RGYUD DON GSAL BAR BKOD PA 'DUS PA'I YI GE BZHI BCU",
-    "title_eng": "'A Clear Presentation of the Meaning of the Secret Book,' being an Explanation of the Forty Syllables of the Subject of the('Root Tantra for the Secret Collection (Guhyasamaja)",
+    "title_eng": "'A Clear Presentation of the Meaning of the Secret Book,' being an Explanation of the Forty Syllables of the Subject of theRoot Tantra for the Secret Collection (Guhyasamaja)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/YI GE BZHI BCU_THE 40 LETTERS",
-            "timestamp": "2024-11-20 05:07:13.097368+00:00"
+            "timestamp": "2024-11-26 23:32:16.875436+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:07:13.097368+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:32:16.875436+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

@@ -1,53 +1,47 @@
 {
     "name": "TD04438_TSE'I RIG BYED MTHA' DAG GI SNYING PO BSDUS PA (Āyurveda Sarva Svasāra Saṃgraha).txt",
-    "path": "16 SNA TSOGS_Miscellany (Citritā)/VOL 8 (NO)",
+    "path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 8 (NO)",
     "download_path": "/tengyur updated 10 31 24 ws/16 sna tsogs_miscellany (citritā)/vol 8 (no)/td04438_tse'i rig byed mtha' dag gi snying po bsdus pa (āyurveda sarva svasāra saṃgraha).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACEJA",
     "revision_id": "62633e0d7f1ec8d294473",
     "content_hash": "c21238a57d78f8852404cec35192f5340d17745a04fc52f3bf941fcd519ae7d3",
     "server_modified": "2024-11-06 00:48:37",
-    "last_sync": "2024-11-20 04:01:21.258452",
+    "last_sync": "2024-12-03 11:34:37.201413+00:00",
     "size": 125186,
-    "meta_text": null,
     "cat_ref": "TD04438",
     "work_ref": "W.TD04438",
-    "title_tib": "",
+    "title_tib": "TSE'I RIG BYED MTHA' DAG GI SNYING PO BSDUS PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "274252574525",
             "subject_path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 8 (NO)",
-            "subject_path_tibetan": "BSTAN 'GYUR/16 SNA TSOGS/VOL 8 (NO)",
-            "subject_path_english": "Tengyur/Miscellany (Citritā)",
-            "subject_tibetan": "VOL 8 (NO)",
-            "subject_english": "Miscellany (Citritā)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SNA TSOGS/8 (NO)",
+            "subject_path_english": "Tengyur/Miscellany (Citritā)/VOL 8 (NO)",
+            "subject_tibetan": "8 (NO)",
+            "subject_english": "VOL 8 (NO)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 8 (NO)",
-            "timestamp": "2024-11-20 12:01:21.273860+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Āyurveda Sarva Svasāra Saṃgraha",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:21.273860+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:34:37.204436+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 8 (NO)",
+            "timestamp": "2024-12-03 11:34:37.204436+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

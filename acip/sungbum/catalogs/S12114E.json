@@ -6,13 +6,13 @@
     "revision_id": "625a49eadfa4a8d294473",
     "content_hash": "d883f2219f5162f483adfff0f61b4e48b28521b736f34125422851741a3063e5",
     "server_modified": "2024-10-29 21:53:47",
-    "last_sync": "2024-11-19 21:14:08.148342",
+    "last_sync": "2024-11-26 15:37:02.128006",
     "size": 125311,
-    "meta_text": "(\"into the Ocean of the Word,’ a List of Teachings Received by that Monk in the System of the Lord of the Shakya, Jamyang Shepay Dorje—A Description of Instructions received in the Precious Collection of Tantra, the Source of the Secret Word_’JAM DBYANGS BZHAD PA'I RDO RJE (1648-1721)\", 'rtf')",
+    "meta_text": "into the Ocean of the Word,’ a List of Teachings Received by that Monk in the System of the Lord of the Shakya, Jamyang Shepay Dorje—A Description of Instructions received in the Precious Collection of Tantra, the Source of the Secret Word_’JAM DBYANGS BZHAD PA'I RDO RJE (1648-1721)",
     "cat_ref": "S12114E",
     "work_ref": "W.S12114E",
     "title_tib": "SH'AKYA'I DGE SLONG 'JAM DBYANGS BZHAD PA'I RDO RJE'I THOB YIG BSTAN PA'I RGYA MTSO MKHAS PA'I 'JUG NGOGS LAS GSANG SNGAGS KYI 'BYUNG GNAS RGYUD SDE RIN PO CHE RNAMS THOB TSUL TE RIM PA GSUM PA",
-    "title_eng": "The Third Part of 'An Entry Point for the Wise(\"into the Ocean of the Word,’ a List of Teachings Received by that Monk in the System of the Lord of the Shakya, Jamyang Shepay Dorje—A Description of Instructions received in the Precious Collection of Tantra, the Source of the Secret Word",
+    "title_eng": "The Third Part of 'An Entry Point for the Wiseinto the Ocean of the Word,’ a List of Teachings Received by that Monk in the System of the Lord of the Shakya, Jamyang Shepay Dorje—A Description of Instructions received in the Precious Collection of Tantra, the Source of the Secret Word",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/GSAN YIG_RECORDS OF TEACHINGS RECEIVED/'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS_JAMYANG SHEPAY DORJE NGAWANG TSUNDRU (1648-1721)",
-            "timestamp": "2024-11-20 05:14:08.153510+00:00"
+            "timestamp": "2024-11-26 23:37:02.132001+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:14:08.153510+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:37:02.132001+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

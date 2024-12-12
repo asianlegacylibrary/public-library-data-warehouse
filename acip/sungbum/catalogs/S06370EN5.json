@@ -6,13 +6,13 @@
     "revision_id": "625a48230a6ec8d294473",
     "content_hash": "ab028542982121b5e5aef4c307309b05a1446e583a71685fb9a24360fdb12c1a",
     "server_modified": "2024-10-29 21:45:49",
-    "last_sync": "2024-11-19 20:53:41.230095",
+    "last_sync": "2024-11-26 15:22:52.963593",
     "size": 371,
-    "meta_text": "('BHADRA (1772-1851)', 'rtf')",
+    "meta_text": "BHADRA (1772-1851)",
     "cat_ref": "S06370EN5",
     "work_ref": "W.S06370EN5",
     "title_tib": "CHOS 'BYUNG DANG GZHAL YAS KHANG SKYED BYED KYI RDOR SEMS DANG RNAM SNANG GI PHYAG BRGYA'I SKOR",
-    "title_eng": "Note on the Star and Palace in the Practice of the Warrior of Diamond (Vajrasattva) and the Angel of Appearances (Vairochana) DNGUL CHU DHARMA('BHADRA (1772-1851)', 'rtf')",
+    "title_eng": "Note on the Star and Palace in the Practice of the Warrior of Diamond (Vajrasattva) and the Angel of Appearances (Vairochana) DNGUL CHU DHARMABHADRA (1772-1851)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -57,33 +57,33 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 04:54:07.135287+00:00"
+            "timestamp": "2024-11-26 23:23:11.588412+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE SEMS DPA'_WARRIOR OF DIAMOND (VAJRASATTVA)/'GREL PA_COMMENTARIES",
-            "timestamp": "2024-11-20 04:57:03.716319+00:00"
+            "timestamp": "2024-11-26 23:25:09.822389+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RNAM PAR SNANG MDZAD_APPEARANCES (VAIROCHANA)/PHYAG RGYA_SPIRITUAL GESTURES AND PARTNERS (MUDRA)",
-            "timestamp": "2024-11-20 05:09:18.769753+00:00"
+            "timestamp": "2024-11-26 23:33:45.490655+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:07.135287+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:11.588412+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T04:57:03.716319+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:25:09.822389+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         },
         {
-            "timestamp": "2024-11-20T05:09:18.769753+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:33:45.490655+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

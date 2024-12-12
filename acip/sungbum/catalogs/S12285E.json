@@ -6,7 +6,7 @@
     "revision_id": "625a49e3b58b18d294473",
     "content_hash": "ea033d1b88ddf70954d379f015f8ee503587699cf65edf37a353005b94c91986",
     "server_modified": "2024-10-29 21:53:39",
-    "last_sync": "2024-11-19 21:13:51.752643",
+    "last_sync": "2024-11-26 15:36:50.885859",
     "size": 6334,
     "meta_text": null,
     "cat_ref": "S12285E",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/DGE BSNYEN_LIFETIME LAYPERSON VOWS/SKYABS 'DZIN DGE BSNYEN_LIFETIME LAYPERSON REFUGE VOWS",
-            "timestamp": "2024-11-20 05:13:51.757046+00:00"
+            "timestamp": "2024-11-26 23:36:50.893377+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:13:51.757046+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:36:50.893377+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

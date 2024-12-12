@@ -6,9 +6,9 @@
     "revision_id": "625a4a010e93f8d294473",
     "content_hash": "a7779d1f1194025954b55f1257d4298caa76e1f56c7fe0582c1ebb00919e5162",
     "server_modified": "2024-10-29 21:54:10",
-    "last_sync": "2024-11-19 21:14:36.505167",
+    "last_sync": "2024-11-26 15:37:21.045319",
     "size": 194497,
-    "meta_text": "('LEGS DPAL BZANG PO (1385-1438)', 'rtf')",
+    "meta_text": "LEGS DPAL BZANG PO (1385-1438)",
     "cat_ref": "S05259M",
     "work_ref": "W.S05259M",
     "title_tib": "RJE BTZUN BLA MA TZONG KHA PA CHEN PO'I NGO MTSAR RMAD DU BYUNG BA'I RNAM PAR THAR PA DAD PA'I 'JUG NGOGS",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
-            "timestamp": "2024-11-20 05:14:37.998912+00:00"
+            "timestamp": "2024-11-26 23:37:21.899728+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:14:37.998912+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:37:21.899728+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

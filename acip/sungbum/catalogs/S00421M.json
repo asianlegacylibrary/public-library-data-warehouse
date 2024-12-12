@@ -6,7 +6,7 @@
     "revision_id": "625a4a830fc998d294473",
     "content_hash": "3cfdd34e2e54375a247d4ab9d7457258b72b16ef2c588df13040ee455cfb6610",
     "server_modified": "2024-10-29 21:56:26",
-    "last_sync": "2024-11-19 21:19:23.344132",
+    "last_sync": "2024-11-26 15:40:40.802084",
     "size": 558,
     "meta_text": null,
     "cat_ref": "S00421M",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/PHYAG 'TSAL BA_THE PRACTICE OF PROSTRATION",
-            "timestamp": "2024-11-20 05:19:24.546408+00:00"
+            "timestamp": "2024-11-26 23:40:41.842192+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:19:24.546408+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:40:41.842192+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

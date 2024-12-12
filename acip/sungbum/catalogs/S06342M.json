@@ -6,7 +6,7 @@
     "revision_id": "625a4a74f303a8d294473",
     "content_hash": "fe9e39713030306596749a84173a78ff3daf798e29784da905d4ee0d23b69641",
     "server_modified": "2024-10-29 21:56:12",
-    "last_sync": "2024-11-19 21:18:38.003094",
+    "last_sync": "2024-11-26 15:40:09.611023",
     "size": 13149,
     "meta_text": null,
     "cat_ref": "S06342M",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/LAM GTZO RNAM GSUM_THE THREE PRINCIPAL PATHS/'GREL PA_COMMENTARIES",
-            "timestamp": "2024-11-20 05:18:39.275750+00:00"
+            "timestamp": "2024-11-26 23:40:10.364013+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:18:39.275750+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:40:10.364013+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

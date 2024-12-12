@@ -6,9 +6,9 @@
     "revision_id": "625a48658ee308d294473",
     "content_hash": "d683adfb247f8b0d4f3a085e8eb06207cae2ddc3483ab2a22165a9d10be2aedf",
     "server_modified": "2024-10-29 21:46:59",
-    "last_sync": "2024-11-19 20:55:35.017804",
+    "last_sync": "2024-11-26 15:24:09.286568",
     "size": 11913,
-    "meta_text": "('1662)', 'rtf')",
+    "meta_text": "1662)",
     "cat_ref": "S05977E51",
     "work_ref": "W.S05977E51",
     "title_tib": "BDE MCHOG LHA LNGA'I SGRUB THABS SNYING PO BSDUS PA BDE CHEN 'BYUNG GNAS",
@@ -31,8 +31,8 @@
     "author": [
         {
             "author_name": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
-            "author_birth": null,
-            "author_death": null,
+            "author_birth": "1565",
+            "author_death": "1662",
             "bdrc_id": "bdr:P719",
             "normalized_name": "PAn CHEN BLO BZANG CHOS KYI GYAL MTSAN",
             "bdrc_url": "http://purl.bdrc.io/resource/P719"
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "timestamp": "2024-11-20 04:55:39.058308+00:00"
+            "timestamp": "2024-11-26 23:24:11.792773+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:55:39.058308+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:24:11.792773+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

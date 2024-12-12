@@ -6,7 +6,7 @@
     "revision_id": "625a4ab5ff9d58d294473",
     "content_hash": "6bc72662167410b4a15fa154daadd7af8fe9cc63047605066627192c5290fd88",
     "server_modified": "2024-10-29 21:57:20",
-    "last_sync": "2024-11-19 21:21:41.793467",
+    "last_sync": "2024-11-26 15:42:21.924349",
     "size": 15711,
     "meta_text": null,
     "cat_ref": "S00428M",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BLA MA'I RNAL 'BYOR_PRACTICES FOR HONORING ONES LAMA/AUTHOR UNKNOWN",
-            "timestamp": "2024-11-20 05:21:41.800701+00:00"
+            "timestamp": "2024-11-26 23:42:21.932431+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:21:41.800701+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:42:21.932431+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

@@ -6,9 +6,9 @@
     "revision_id": "625a48e0457a68d294473",
     "content_hash": "908deee9bf5ba79a09c9194358579c9614a78ecaf6acddc81ba2d3d0c432061c",
     "server_modified": "2024-10-29 21:49:07",
-    "last_sync": "2024-11-19 21:02:30.718138",
+    "last_sync": "2024-11-26 15:29:00.192287",
     "size": 15143,
-    "meta_text": "('YAL MTSAN (1565-1662)', 'rtf')",
+    "meta_text": "YAL MTSAN (1565-1662)",
     "cat_ref": "S05934E",
     "work_ref": "W.S05934E",
     "title_tib": "SGROL MA GA-YUL BZLOG JI LTAR BYA BA'I CHO GA DGRA LAS RNAM RGYAL",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/BZLOG PA_REPELLING EVIL SPIRITS",
-            "timestamp": "2024-11-20 05:02:30.723355+00:00"
+            "timestamp": "2024-11-26 23:29:00.200182+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:02:30.723355+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:29:00.200182+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

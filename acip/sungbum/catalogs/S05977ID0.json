@@ -6,7 +6,7 @@
     "revision_id": "625a4a6aaab6f8d294473",
     "content_hash": "62425c6e7dab0d043a36544e2e963075d5fdc5addd92d5fe0571e9e0b310fb40",
     "server_modified": "2024-10-29 21:56:01",
-    "last_sync": "2024-11-19 21:18:33.702607",
+    "last_sync": "2024-11-26 15:40:06.361761",
     "size": 12123,
     "meta_text": null,
     "cat_ref": "S05977ID0",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/LTA BA BSGOM TSUL_HOW TO MEDITATE UPON CORRECT VIEW",
-            "timestamp": "2024-11-20 05:18:34.488267+00:00"
+            "timestamp": "2024-11-26 23:40:07.347963+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/LTA BA BSGOM TSUL_HOW TO MEDITATE ON A CORRECT VIEW OF REALITY",
-            "timestamp": "2024-11-20 05:22:08.083743+00:00"
+            "timestamp": "2024-11-26 23:42:37.269382+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:18:34.488267+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:40:07.347963+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:22:08.083743+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:42:37.269382+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

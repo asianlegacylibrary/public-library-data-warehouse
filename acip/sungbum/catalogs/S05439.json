@@ -6,7 +6,7 @@
     "revision_id": "625a47946c6e08d294473",
     "content_hash": "e5d2037a1f422b330891966352ad432b273cf2eb3249fc16311522baa2cb9e28",
     "server_modified": "2024-10-29 21:43:19",
-    "last_sync": "2024-11-19 20:47:42.493074",
+    "last_sync": "2024-11-26 15:18:58.779214",
     "size": 172196,
     "meta_text": null,
     "cat_ref": "S05439",
@@ -46,23 +46,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/SPYI_GENERAL COMMENTARIES/RGYAL TSAB RJE DAR MA RIN CHEN (1364-1432)",
-            "timestamp": "2024-11-20 04:47:42.504249+00:00"
+            "timestamp": "2024-11-26 23:18:58.793517+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SPYI_GENERAL TREATMENTS/RGYAL TSAB RJE DAR MA RIN CHEN (1364-1432)",
-            "timestamp": "2024-11-20 05:22:48.778556+00:00"
+            "timestamp": "2024-11-26 23:43:00.151871+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:47:42.504249+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:18:58.793517+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:22:48.778556+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:43:00.151871+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

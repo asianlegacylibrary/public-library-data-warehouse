@@ -6,9 +6,9 @@
     "revision_id": "625a4a199104e8d294473",
     "content_hash": "244ef70b8f016247e5620081b82b7c637691ee548bc0fb445807be91df434fd1",
     "server_modified": "2024-10-29 21:54:36",
-    "last_sync": "2024-11-19 21:15:41.652471",
+    "last_sync": "2024-11-26 15:38:05.149110",
     "size": 167466,
-    "meta_text": "('433-@)', 'text')",
+    "meta_text": "433-@)",
     "cat_ref": "S05531E",
     "work_ref": "W.S05531E",
     "title_tib": "RJE THAMS CAD MKHYEN PA DGE 'DUN GRUB PA DPAL BZANG PO'I RNAM THAR NGO MTSAR RMAD BYUNG NOR BU'I 'PHRENG BA",
@@ -31,7 +31,7 @@
     "author": [
         {
             "author_name": "PAn CHEN YE SHES RTZE MO",
-            "author_birth": null,
+            "author_birth": "1433",
             "author_death": null,
             "bdrc_id": "bdr:P481",
             "normalized_name": "PAn CHEN YE SHES RTZE MO",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/RGYAL BA DGE 'DUN GRUB (1391-1474)",
-            "timestamp": "2024-11-20 05:15:41.659251+00:00"
+            "timestamp": "2024-11-26 23:38:05.157662+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:15:41.659251+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:38:05.157662+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

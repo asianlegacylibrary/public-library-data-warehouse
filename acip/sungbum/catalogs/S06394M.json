@@ -6,7 +6,7 @@
     "revision_id": "625a476b20e7a8d294473",
     "content_hash": "608f629c4c5bdb92f97a5a84621acf9a92582dcba4582fad650cb1999d198f9b",
     "server_modified": "2024-10-29 21:42:36",
-    "last_sync": "2024-11-19 20:45:51.332815",
+    "last_sync": "2024-11-26 15:17:38.892257",
     "size": 24058,
     "meta_text": null,
     "cat_ref": "S06394M",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/SNYAN NGAG_CLASSICAL POETRY/SNYAN NGAG GAB TSIG_STUDY OF CONCEALED ALLUSIONS IN CLASSICAL POETRY",
-            "timestamp": "2024-11-20 04:45:51.338096+00:00"
+            "timestamp": "2024-11-26 23:17:38.898144+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:45:51.338096+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:17:38.898144+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

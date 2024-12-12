@@ -1,53 +1,47 @@
 {
     "name": "TD04139_SDE PA THA DAD PAR BYED PA DANG RNAM PAR BSHAD PA (Nikāya Bheda Vibhaṃga Vyākhyāna).txt",
-    "path": "08 'DUL BA_Vowed Morality (Vinaya)/VOL 17 (SU)",
+    "path": "BSTAN 'GYUR_Tengyur/08 'DUL BA_Vowed Morality (Vinaya)/VOL 17 (SU)",
     "download_path": "/tengyur updated 10 31 24 ws/08 'dul ba_vowed morality (vinaya)/vol 17 (su)/td04139_sde pa tha dad par byed pa dang rnam par bshad pa (nikāya bheda vibhaṃga vyākhyāna).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB2mQ",
     "revision_id": "62633b8c3fed48d294473",
     "content_hash": "c01a07a12907d1d74c3e65b8e36e75b6f1c9a8be1144381d434a4bd061074dd2",
     "server_modified": "2024-11-06 00:37:25",
-    "last_sync": "2024-11-20 03:58:39.344231",
+    "last_sync": "2024-12-03 11:32:22.433122+00:00",
     "size": 30046,
-    "meta_text": null,
     "cat_ref": "TD04139",
     "work_ref": "W.TD04139",
-    "title_tib": "",
+    "title_tib": "SDE PA THA DAD PAR BYED PA DANG RNAM PAR BSHAD PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "320407306756",
             "subject_path": "BSTAN 'GYUR_Tengyur/08 'DUL BA_Vowed Morality (Vinaya)/VOL 17 (SU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/08 'DUL BA/VOL 17 (SU)",
-            "subject_path_english": "Tengyur/Vowed Morality (Vinaya)",
-            "subject_tibetan": "VOL 17 (SU)",
-            "subject_english": "Vowed Morality (Vinaya)"
+            "subject_path_tibetan": "BSTAN 'GYUR/'DUL BA/17 (SU)",
+            "subject_path_english": "Tengyur/Vowed Morality (Vinaya)/VOL 17 (SU)",
+            "subject_tibetan": "17 (SU)",
+            "subject_english": "VOL 17 (SU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/08 'DUL BA_Vowed Morality (Vinaya)/VOL 17 (SU)",
-            "timestamp": "2024-11-20 11:58:39.361925+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Nikāya Bheda Vibhaṃga Vyākhyāna",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:58:39.361925+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:32:22.436100+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/08 'DUL BA_Vowed Morality (Vinaya)/VOL 17 (SU)",
+            "timestamp": "2024-12-03 11:32:22.436100+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

@@ -1,53 +1,47 @@
 {
     "name": "TD01177_DPAL LDAN BLA MA NAGS KYI RIN CHEN GYI BSTOD PA BDUN PA (Śrī Guru Vanaratna Stotra Saptaka).txt",
-    "path": "01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
+    "path": "BSTAN 'GYUR_Tengyur/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
     "download_path": "/tengyur updated 10 31 24 ws/01 bstod tsogs_songs of praise (stotra)/vol 1 (ka)/td01177_dpal ldan bla ma nags kyi rin chen gyi bstod pa bdun pa (śrī guru vanaratna stotra saptaka).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB34g",
     "revision_id": "62633bdb52ca98d294473",
     "content_hash": "e17e92d77027c717d43a935bbf25e4a965a5013a59b7541d8fb42523526696af",
     "server_modified": "2024-11-06 00:38:48",
-    "last_sync": "2024-11-20 03:59:09.229969",
+    "last_sync": "2024-12-03 11:32:48.972400+00:00",
     "size": 2267,
-    "meta_text": null,
     "cat_ref": "TD01177",
     "work_ref": "W.TD01177",
-    "title_tib": "",
+    "title_tib": "DPAL LDAN BLA MA NAGS KYI RIN CHEN GYI BSTOD PA BDUN PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "243715146395",
             "subject_path": "BSTAN 'GYUR_Tengyur/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
-            "subject_path_tibetan": "BSTAN 'GYUR/01 BSTOD TSOGS/VOL 1 (KA)",
-            "subject_path_english": "Tengyur/Songs of Praise (Stotra)",
-            "subject_tibetan": "VOL 1 (KA)",
-            "subject_english": "Songs of Praise (Stotra)"
+            "subject_path_tibetan": "BSTAN 'GYUR/BSTOD TSOGS/1 (KA)",
+            "subject_path_english": "Tengyur/Songs of Praise (Stotra)/VOL 1 (KA)",
+            "subject_tibetan": "1 (KA)",
+            "subject_english": "VOL 1 (KA)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
-            "timestamp": "2024-11-20 11:59:09.232871+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Śrī Guru Vanaratna Stotra Saptaka",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:59:09.232871+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:32:48.978556+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
+            "timestamp": "2024-12-03 11:32:48.978556+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

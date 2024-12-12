@@ -6,7 +6,7 @@
     "revision_id": "625a4804fecd88d294473",
     "content_hash": "1a0475a4ad7bcfad9d8837eb3f092538e5f80743adb8d010610b49a896dfa013",
     "server_modified": "2024-10-29 21:45:17",
-    "last_sync": "2024-11-19 20:53:02.153073",
+    "last_sync": "2024-11-26 15:22:26.289047",
     "size": 56274,
     "meta_text": null,
     "cat_ref": "S19021E",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DRANG NGES_ART OF INTERPRETATION/'JAM DBYANGS BZHAD PA NGAG DBANG BRTZON 'GRUS_JAMYANG SHEPA NGAWANG TSUNDRU (1648-1721)",
-            "timestamp": "2024-11-20 04:53:02.941194+00:00"
+            "timestamp": "2024-11-26 23:22:26.683970+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:53:02.941194+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:22:26.683970+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

@@ -6,13 +6,13 @@
     "revision_id": "625a49a669afe8d294473",
     "content_hash": "f846fa83e891b98b606ff58dd724c1c13e5772024485574268e036baa39d7fa9",
     "server_modified": "2024-10-29 21:52:35",
-    "last_sync": "2024-11-19 21:11:22.061545",
+    "last_sync": "2024-11-26 15:35:12.139865",
     "size": 11926,
-    "meta_text": "('n the Practice of the Frightener (Bhairava)_DNGUL CHU DHARMA BHADRA (1772-1851)', 'rtf')",
+    "meta_text": "n the Practice of the Frightener (Bhairava)_DNGUL CHU DHARMA BHADRA (1772-1851)",
     "cat_ref": "S06372E",
     "work_ref": "W.S06372E",
     "title_tib": "'JIGS BYED BCU GSUM MA'I DKYIL 'KHOR GYI THIG TSA MAN NGAG LUGS SOGS THIG TSA RNAMS PHYOGS GCIG TU BSGRIGS PA",
-    "title_eng": "A Compilation of Works on the Drawing of Mandalas, such as the Text of Instruction on Drawing the Mandala for the Thirteen Angels i('n the Practice of the Frightener (Bhairava)",
+    "title_eng": "A Compilation of Works on the Drawing of Mandalas, such as the Text of Instruction on Drawing the Mandala for the Thirteen Angels in the Practice of the Frightener (Bhairava)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/DKYIL 'KHOR_SECRET WORLD (MANDALA)",
-            "timestamp": "2024-11-20 05:11:22.074348+00:00"
+            "timestamp": "2024-11-26 23:35:12.146991+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:11:22.074348+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:35:12.146991+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

@@ -6,7 +6,7 @@
     "revision_id": "625a47c6c26248d294473",
     "content_hash": "f08b6f0e6a0feb990e677e991b44652ef3efa486b7183fa7e53a5507f50a2eb6",
     "server_modified": "2024-10-29 21:44:12",
-    "last_sync": "2024-11-19 20:50:17.083323",
+    "last_sync": "2024-11-26 15:20:41.630248",
     "size": 768,
     "meta_text": null,
     "cat_ref": "S05275M16",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/BSTOD PA_EULOGIES (STOTRA)/SH'AKYA THUB PA (SHAKYAMUNI)",
-            "timestamp": "2024-11-20 04:50:17.097210+00:00"
+            "timestamp": "2024-11-26 23:20:41.644578+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:50:17.097210+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:20:41.644578+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

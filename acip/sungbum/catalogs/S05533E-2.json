@@ -6,7 +6,7 @@
     "revision_id": "625a48f1911278d294473",
     "content_hash": "1064e7e1c79e977a56a83b8f2b0e292a34e92b758a6fa555db5cc75adc87941a",
     "server_modified": "2024-10-29 21:49:25",
-    "last_sync": "2024-11-19 21:03:28.469536",
+    "last_sync": "2024-11-26 15:29:42.690184",
     "size": 19704,
     "meta_text": null,
     "cat_ref": "S05533E-2",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BSTOD PA_EULOGIES (STOTRA)",
-            "timestamp": "2024-11-20 05:03:28.474554+00:00"
+            "timestamp": "2024-11-26 23:29:42.695363+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:03:28.474554+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:29:42.695363+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

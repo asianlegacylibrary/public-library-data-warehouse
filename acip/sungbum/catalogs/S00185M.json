@@ -6,7 +6,7 @@
     "revision_id": "625a4aefaec318d294473",
     "content_hash": "3b0d1738107547e66e91128e80de4d66325418c2ca7a81081999635022855c75",
     "server_modified": "2024-10-29 21:58:20",
-    "last_sync": "2024-11-19 21:25:37.424480",
+    "last_sync": "2024-11-26 15:44:50.257314",
     "size": 183507,
     "meta_text": null,
     "cat_ref": "S00185M",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/BLO SBYONG_DEVELOPING THE GOOD HEART/BLO SBYONG NYI MA'I 'OD ZER_MENTAL TRAINING ENTITLED 'RAYS OF THE SUN'/ROOT TEXT",
-            "timestamp": "2024-11-20 05:25:37.428998+00:00"
+            "timestamp": "2024-11-26 23:44:50.264138+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:25:37.428998+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:44:50.264138+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

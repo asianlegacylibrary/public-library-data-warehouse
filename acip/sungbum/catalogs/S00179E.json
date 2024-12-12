@@ -6,7 +6,7 @@
     "revision_id": "625a486eeef368d294473",
     "content_hash": "6d19c520fd7cec7138077053d58a23922ea9919886059aec10d49506ca1e3172",
     "server_modified": "2024-10-29 21:47:08",
-    "last_sync": "2024-11-19 20:56:05.412663",
+    "last_sync": "2024-11-26 15:24:29.217021",
     "size": 21010,
     "meta_text": null,
     "cat_ref": "S00179E",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/TSOGS_CIRCLE OF GATHERING (GANACHAKRA)",
-            "timestamp": "2024-11-20 04:56:06.874866+00:00"
+            "timestamp": "2024-11-26 23:24:30.097347+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:56:06.874866+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:24:30.097347+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

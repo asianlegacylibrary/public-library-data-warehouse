@@ -6,9 +6,9 @@
     "revision_id": "625a495bdc2898d294473",
     "content_hash": "54587e9f1f58afa2f6c31cc21d76a2a55e27028809dfdc62d9200458b2cbb9f3",
     "server_modified": "2024-10-29 21:51:17",
-    "last_sync": "2024-11-19 21:07:41.969113",
+    "last_sync": "2024-11-26 15:32:38.035020",
     "size": 116119,
-    "meta_text": "('AD SGRUB (1675-1748)', 'rtf')",
+    "meta_text": "AD SGRUB (1675-1748)",
     "cat_ref": "S00261A",
     "work_ref": "W.S00261A",
     "title_tib": "'DUS BA'I BSKYED RIM GYI RNAM BSHAD GNAD DON KUN GSAL 'DUS PA'I BSKYED RIM",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/BSKYED RIM_CREATION STAGE (UTPATTI KRAMA)",
-            "timestamp": "2024-11-20 05:07:45.500410+00:00"
+            "timestamp": "2024-11-26 23:32:40.462580+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:07:45.500410+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:32:40.462580+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

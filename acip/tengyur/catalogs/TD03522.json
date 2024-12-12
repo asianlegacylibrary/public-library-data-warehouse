@@ -1,53 +1,47 @@
 {
     "name": "TD03522_RTOG PA LAS GSUNGS PA'I 'OD ZER CAN DKAR MO PHYAG BCU PA'I SGRUB THABS (Kalpokta Daśa Bhujasita Mārīcīsādhana).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/vol 76 (mu)/td03522_rtog pa las gsungs pa'i 'od zer can dkar mo phyag bcu pa'i sgrub thabs (kalpokta daśa bhujasita mārīcīsādhana).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB_cQ",
     "revision_id": "62633d328b0cf8d294473",
     "content_hash": "1b212bb92d959de2c8def6c0b57eafab0e6a3cea529aed072b5e8b335bd9d9eb",
     "server_modified": "2024-11-06 00:44:48",
-    "last_sync": "2024-11-20 04:00:45.000568",
+    "last_sync": "2024-12-03 11:34:07.460580+00:00",
     "size": 2812,
-    "meta_text": null,
     "cat_ref": "TD03522",
     "work_ref": "W.TD03522",
-    "title_tib": "",
+    "title_tib": "RTOG PA LAS GSUNGS PA'I 'OD ZER CAN DKAR MO PHYAG BCU PA'I SGRUB THABS",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "121782366104",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/VOL 76 (MU)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)",
-            "subject_tibetan": "VOL 76 (MU)",
-            "subject_english": "Diamond Way (Vajrayāna)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/76 (MU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/VOL 76 (MU)",
+            "subject_tibetan": "76 (MU)",
+            "subject_english": "VOL 76 (MU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
-            "timestamp": "2024-11-20 12:00:45.250352+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Kalpokta Daśa Bhujasita Mārīcīsādhana",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:45.250352+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:34:07.475253+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
+            "timestamp": "2024-12-03 11:34:07.475253+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

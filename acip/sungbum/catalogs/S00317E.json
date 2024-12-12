@@ -6,13 +6,13 @@
     "revision_id": "625a488e26f738d294473",
     "content_hash": "758923cb0548f1ef5459683aace3ca52218b6c78178a49cec23f5f97fa50979c",
     "server_modified": "2024-10-29 21:47:41",
-    "last_sync": "2024-11-19 20:57:45.935520",
+    "last_sync": "2024-11-26 15:25:40.217788",
     "size": 35100,
-    "meta_text": "('the Profound Path of ‘The Offering to Lamas, Indivisible Bliss and Voidness,’ and a Longevity Practice in the Tradition of Drupgyal_SKYABS RJE PHA BONG KHA PA BDE CHEN SNYING PO (1878-1941)', 'rtf')",
+    "meta_text": "the Profound Path of ‘The Offering to Lamas, Indivisible Bliss and Voidness,’ and a Longevity Practice in the Tradition of Drupgyal_SKYABS RJE PHA BONG KHA PA BDE CHEN SNYING PO (1878-1941)",
     "cat_ref": "S00317E",
     "work_ref": "W.S00317E",
     "title_tib": "ZAB LAM BLA MA MCHOD PA BDE STONG DBYER MED MA DANG GRUB RGYAL LUGS KYI TSE SGRUB SBRAGS MA'I SGO NAS ZHING KHYAD PAR CAN LA BRTAN BZHUGS 'BUL TSUL",
-    "title_eng": "A Ritual for Requesting the Long Life of an Extraordinary Being through a Practice Combining('the Profound Path of ‘The Offering to Lamas, Indivisible Bliss and Voidness,’ and a Longevity Practice in the Tradition of Drupgyal",
+    "title_eng": "A Ritual for Requesting the Long Life of an Extraordinary Being through a Practice Combiningthe Profound Path of ‘The Offering to Lamas, Indivisible Bliss and Voidness,’ and a Longevity Practice in the Tradition of Drupgyal",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/TSE DPAG MED_LIMITLESS LIFE (AMITAYUS)/BLA MA MCHOD PA_OFFERING TO LAMAS",
-            "timestamp": "2024-11-20 04:57:45.940808+00:00"
+            "timestamp": "2024-11-26 23:25:40.227537+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BLA MA MCHOD PA_OFFERING TO LAMAS/RTZA BA_ROOT TEXT",
-            "timestamp": "2024-11-20 05:12:27.001641+00:00"
+            "timestamp": "2024-11-26 23:35:55.099979+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:57:45.940808+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:25:40.227537+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:12:27.001641+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:35:55.099979+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

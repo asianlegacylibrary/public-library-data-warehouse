@@ -1,53 +1,47 @@
 {
     "name": "TD04358-1_'PHAGS PA DGONGS PA NGES PAR 'GREL PA'I MDO'I RNAM PAR BSHAD PA (Ārya Sandhi Nirmocana Sūtra Vyākhyāna).txt",
-    "path": "16 SNA TSOGS_Miscellany (Citritā)/VOL 2 (CHO)",
+    "path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 2 (CHO)",
     "download_path": "/tengyur updated 10 31 24 ws/16 sna tsogs_miscellany (citritā)/vol 2 (cho)/td04358-1_'phags pa dgongs pa nges par 'grel pa'i mdo'i rnam par bshad pa (ārya sandhi nirmocana sūtra vyākhyāna).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACEnQ",
     "revision_id": "62633e2ce91df8d294473",
     "content_hash": "bb5b6238dd9fef3821d5703b796f45747314634d1e9acda26ee070bfacd5112d",
     "server_modified": "2024-11-06 00:49:10",
-    "last_sync": "2024-11-20 04:01:25.974253",
+    "last_sync": "2024-12-03 11:34:41.101439+00:00",
     "size": 1180079,
-    "meta_text": null,
     "cat_ref": "TD04358-1",
     "work_ref": "W.TD04358-1",
-    "title_tib": "",
+    "title_tib": "'PHAGS PA DGONGS PA NGES PAR 'GREL PA'I MDO'I RNAM PAR BSHAD PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "243806752430",
             "subject_path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 2 (CHO)",
-            "subject_path_tibetan": "BSTAN 'GYUR/16 SNA TSOGS/VOL 2 (CHO)",
-            "subject_path_english": "Tengyur/Miscellany (Citritā)",
-            "subject_tibetan": "VOL 2 (CHO)",
-            "subject_english": "Miscellany (Citritā)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SNA TSOGS/2 (CHO)",
+            "subject_path_english": "Tengyur/Miscellany (Citritā)/VOL 2 (CHO)",
+            "subject_tibetan": "2 (CHO)",
+            "subject_english": "VOL 2 (CHO)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 2 (CHO)",
-            "timestamp": "2024-11-20 12:01:25.977249+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Ārya Sandhi Nirmocana Sūtra Vyākhyāna",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:25.977249+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:34:41.101910+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 2 (CHO)",
+            "timestamp": "2024-12-03 11:34:41.101910+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

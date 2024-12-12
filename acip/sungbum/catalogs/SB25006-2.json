@@ -6,7 +6,7 @@
     "revision_id": "625a484d4ec018d294473",
     "content_hash": "4a11af71d868e35f9fd1d081f1d6b0973717f34445ac29338d15b7ab86e01ea9",
     "server_modified": "2024-10-29 21:46:33",
-    "last_sync": "2024-11-19 20:54:29.958222",
+    "last_sync": "2024-11-26 15:23:25.652173",
     "size": 814254,
     "meta_text": null,
     "cat_ref": "SB25006-2",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/CHOS 'BYUNG_RELIGIOUS HISTORIES/DEB THER SNGON PO_BLUE ANNALS/Book Version",
-            "timestamp": "2024-11-20 04:54:29.961425+00:00"
+            "timestamp": "2024-11-26 23:23:25.656111+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:29.961425+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:25.656111+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

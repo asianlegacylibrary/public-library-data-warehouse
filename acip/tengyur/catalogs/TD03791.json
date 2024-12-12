@@ -1,53 +1,47 @@
 {
     "name": "TD03791_'PHAGS PA SHES RAB KYI PHA ROL TU PHYIN PA BRGYAD STONG PA'I BSHAD PA MNGON PAR RTOGS PA'I RGYAN GYI SNANG BA ZHES BYA BA (Āryāṣṭasāhasrikā Prajñā Pāramitā Vyākhyābhisamayālaṃkārā Loka (Nāma)).txt",
-    "path": "03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 6 (CHA)",
+    "path": "BSTAN 'GYUR_Tengyur/03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 6 (CHA)",
     "download_path": "/tengyur updated 10 31 24 ws/03 shes phyin_perfection of wisdom (prajñā pāramitā)/vol 6 (cha)/td03791_'phags pa shes rab kyi pha rol tu phyin pa brgyad stong pa'i bshad pa mngon par rtogs pa'i rgyan gyi snang ba zhes bya ba (āryāṣṭasāhasrikā prajñā pāramitā vyākhyābhisamayālaṃkārā loka (nāma)).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACE4A",
     "revision_id": "62633e4e63ed58d294473",
     "content_hash": "2ae6dc2541049f4b0973e712fd470c244490173a88b4c17ecbe5de53313f4708",
     "server_modified": "2024-11-06 00:49:45",
-    "last_sync": "2024-11-20 04:01:40.300957",
+    "last_sync": "2024-12-03 11:34:51.454152+00:00",
     "size": 1376363,
-    "meta_text": null,
     "cat_ref": "TD03791",
     "work_ref": "W.TD03791",
-    "title_tib": "",
+    "title_tib": "'PHAGS PA SHES RAB KYI PHA ROL TU PHYIN PA BRGYAD STONG PA'I BSHAD PA MNGON PAR RTOGS PA'I RGYAN GYI SNANG BA ZHES BYA BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "178106967419",
             "subject_path": "BSTAN 'GYUR_Tengyur/03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 6 (CHA)",
-            "subject_path_tibetan": "BSTAN 'GYUR/03 SHES PHYIN/VOL 6 (CHA)",
-            "subject_path_english": "Tengyur/Perfection of Wisdom (Prajñā Pāramitā)",
-            "subject_tibetan": "VOL 6 (CHA)",
-            "subject_english": "Perfection of Wisdom (Prajñā Pāramitā)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SHES PHYIN/6 (CHA)",
+            "subject_path_english": "Tengyur/Perfection of Wisdom (Prajñā Pāramitā)/VOL 6 (CHA)",
+            "subject_tibetan": "6 (CHA)",
+            "subject_english": "VOL 6 (CHA)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 6 (CHA)",
-            "timestamp": "2024-11-20 12:01:40.305337+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Āryāṣṭasāhasrikā Prajñā Pāramitā Vyākhyābhisamayālaṃkārā Loka (Nāma)",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:40.305337+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:34:51.454693+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 6 (CHA)",
+            "timestamp": "2024-12-03 11:34:51.454693+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

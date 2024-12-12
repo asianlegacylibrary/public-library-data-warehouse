@@ -6,9 +6,9 @@
     "revision_id": "625a49742dab88d294473",
     "content_hash": "83b7141767581c7e3c056dab111e1e068372c91ee9358061b18ed0ff11cc9c52",
     "server_modified": "2024-10-29 21:51:42",
-    "last_sync": "2024-11-19 21:08:38.943977",
+    "last_sync": "2024-11-26 15:33:15.209124",
     "size": 3827,
-    "meta_text": "('851)', 'rtf')",
+    "meta_text": "851)",
     "cat_ref": "S06359E",
     "work_ref": "W.S06359E",
     "title_tib": "DZAM BHA LA RIGS LNGA LA CHU 'BUL BA'I CHO GA DAG BYED BDUD RTZI'I BUM BZANG",
@@ -31,8 +31,8 @@
     "author": [
         {
             "author_name": "DNGUL CHU DHARMA BHADRA",
-            "author_birth": null,
-            "author_death": null,
+            "author_birth": "1772",
+            "author_death": "1851",
             "bdrc_id": "bdr:P289",
             "normalized_name": "DNGUL CHU DHARMA BHADRA",
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DZAM BHA LA_JAMBHALA (JAMBHALA)/MCHOD PA_OFFERING",
-            "timestamp": "2024-11-20 05:08:38.952198+00:00"
+            "timestamp": "2024-11-26 23:33:15.219312+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:08:38.952198+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:33:15.219312+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

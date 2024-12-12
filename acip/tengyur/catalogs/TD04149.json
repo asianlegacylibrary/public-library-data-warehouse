@@ -1,53 +1,47 @@
 {
     "name": "TD04149_YE DHARM'A'I 'GREL PA (Ye Dharmāṣṭīkā).txt",
-    "path": "08 'DUL BA_Vowed Morality (Vinaya)/VOL 17 (SU)",
+    "path": "BSTAN 'GYUR_Tengyur/08 'DUL BA_Vowed Morality (Vinaya)/VOL 17 (SU)",
     "download_path": "/tengyur updated 10 31 24 ws/08 'dul ba_vowed morality (vinaya)/vol 17 (su)/td04149_ye dharm'a'i 'grel pa (ye dharmāṣṭīkā).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB2pg",
     "revision_id": "62633b8db25368d294473",
     "content_hash": "16f4ff691da0e69751c02e46cf69f202789547e8f68943c8302c42990b2585e9",
     "server_modified": "2024-11-06 00:37:26",
-    "last_sync": "2024-11-20 03:58:39.359028",
+    "last_sync": "2024-12-03 11:32:22.434494+00:00",
     "size": 3366,
-    "meta_text": null,
     "cat_ref": "TD04149",
     "work_ref": "W.TD04149",
-    "title_tib": "",
+    "title_tib": "YE DHARM'A'I 'GREL PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "320407306756",
             "subject_path": "BSTAN 'GYUR_Tengyur/08 'DUL BA_Vowed Morality (Vinaya)/VOL 17 (SU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/08 'DUL BA/VOL 17 (SU)",
-            "subject_path_english": "Tengyur/Vowed Morality (Vinaya)",
-            "subject_tibetan": "VOL 17 (SU)",
-            "subject_english": "Vowed Morality (Vinaya)"
+            "subject_path_tibetan": "BSTAN 'GYUR/'DUL BA/17 (SU)",
+            "subject_path_english": "Tengyur/Vowed Morality (Vinaya)/VOL 17 (SU)",
+            "subject_tibetan": "17 (SU)",
+            "subject_english": "VOL 17 (SU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/08 'DUL BA_Vowed Morality (Vinaya)/VOL 17 (SU)",
-            "timestamp": "2024-11-20 11:58:39.362301+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Ye Dharmāṣṭīkā",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:58:39.362301+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:32:22.437156+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/08 'DUL BA_Vowed Morality (Vinaya)/VOL 17 (SU)",
+            "timestamp": "2024-12-03 11:32:22.437156+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

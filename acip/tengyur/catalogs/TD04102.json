@@ -1,53 +1,47 @@
 {
     "name": "TD04102_BSTAN BCOS TSIGS SU BCAD PA BSDUS PA ZHES BYA BA (Gāthā Saṃgraha Śāstra).txt",
-    "path": "07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 11 (THU)",
+    "path": "BSTAN 'GYUR_Tengyur/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 11 (THU)",
     "download_path": "/tengyur updated 10 31 24 ws/07 mngon pa_higher knowledge school (abhidharma)/vol 11 (thu)/td04102_bstan bcos tsigs su bcad pa bsdus pa zhes bya ba (gāthā saṃgraha śāstra).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB2bg",
     "revision_id": "62633b76ae7bb8d294473",
     "content_hash": "ecc5061be31974add47cf701d28abdd9d04041eb3ab40f813d226b0ef9b15d4d",
     "server_modified": "2024-11-06 00:37:02",
-    "last_sync": "2024-11-20 03:58:32.316847",
+    "last_sync": "2024-12-03 11:32:16.315890+00:00",
     "size": 4271,
-    "meta_text": null,
     "cat_ref": "TD04102",
     "work_ref": "W.TD04102",
-    "title_tib": "",
+    "title_tib": "BSTAN BCOS TSIGS SU BCAD PA BSDUS PA ZHES BYA BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "112946957708",
             "subject_path": "BSTAN 'GYUR_Tengyur/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 11 (THU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/07 MNGON PA/VOL 11 (THU)",
-            "subject_path_english": "Tengyur/Higher Knowledge School (Abhidharma)",
-            "subject_tibetan": "VOL 11 (THU)",
-            "subject_english": "Higher Knowledge School (Abhidharma)"
+            "subject_path_tibetan": "BSTAN 'GYUR/MNGON PA/11 (THU)",
+            "subject_path_english": "Tengyur/Higher Knowledge School (Abhidharma)/VOL 11 (THU)",
+            "subject_tibetan": "11 (THU)",
+            "subject_english": "VOL 11 (THU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 11 (THU)",
-            "timestamp": "2024-11-20 11:58:32.330786+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Gāthā Saṃgraha Śāstra",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:58:32.330786+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:32:16.316796+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 11 (THU)",
+            "timestamp": "2024-12-03 11:32:16.316796+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

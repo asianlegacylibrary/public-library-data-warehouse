@@ -1,53 +1,47 @@
 {
     "name": "TD03844_CHA SHAS KYI YAN LAG CES BYA BA'I RAB TU BYED PA (Hastavāla Nāma Prakaraṇa).txt",
-    "path": "04 DBU MA_Middle Way School (Madhyamaka)/VOL 1 (TZA)",
+    "path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 1 (TZA)",
     "download_path": "/tengyur updated 10 31 24 ws/04 dbu ma_middle way school (madhyamaka)/vol 1 (tza)/td03844_cha shas kyi yan lag ces bya ba'i rab tu byed pa (hastavāla nāma prakaraṇa).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB3dA",
     "revision_id": "62633bca3eebe8d294473",
     "content_hash": "5a8e05b280d248750138ed3b76fecb48ba7d484316f66afe4447886c43f826e1",
     "server_modified": "2024-11-06 00:38:30",
-    "last_sync": "2024-11-20 03:59:06.407393",
+    "last_sync": "2024-12-03 11:32:46.980565+00:00",
     "size": 1345,
-    "meta_text": null,
     "cat_ref": "TD03844",
     "work_ref": "W.TD03844",
-    "title_tib": "",
+    "title_tib": "CHA SHAS KYI YAN LAG CES BYA BA'I RAB TU BYED PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "273700297115",
             "subject_path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 1 (TZA)",
-            "subject_path_tibetan": "BSTAN 'GYUR/04 DBU MA/VOL 1 (TZA)",
-            "subject_path_english": "Tengyur/Middle Way School (Madhyamaka)",
-            "subject_tibetan": "VOL 1 (TZA)",
-            "subject_english": "Middle Way School (Madhyamaka)"
+            "subject_path_tibetan": "BSTAN 'GYUR/DBU MA/1 (TZA)",
+            "subject_path_english": "Tengyur/Middle Way School (Madhyamaka)/VOL 1 (TZA)",
+            "subject_tibetan": "1 (TZA)",
+            "subject_english": "VOL 1 (TZA)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 1 (TZA)",
-            "timestamp": "2024-11-20 11:59:06.414835+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Hastavāla Nāma Prakaraṇa",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:59:06.414835+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:32:46.983507+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 1 (TZA)",
+            "timestamp": "2024-12-03 11:32:46.983507+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

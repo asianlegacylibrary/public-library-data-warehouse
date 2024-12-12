@@ -6,7 +6,7 @@
     "revision_id": "625a4b07d1e018d294473",
     "content_hash": "7bb25faa578b49f8f92b13111f29ebd646f66550d98c06398b96a609fe46c500",
     "server_modified": "2024-10-29 21:58:46",
-    "last_sync": "2024-11-19 21:26:32.172927",
+    "last_sync": "2024-11-26 15:45:24.751087",
     "size": 615962,
     "meta_text": null,
     "cat_ref": "S05435E",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/MNGON PA_HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)/RGYAL TSAB DAR MA RIN CHEN_GYALTSAB DARMA RINCHEN (1364-1432)",
-            "timestamp": "2024-11-20 05:26:32.181059+00:00"
+            "timestamp": "2024-11-26 23:45:24.764049+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:26:32.181059+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:45:24.764049+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

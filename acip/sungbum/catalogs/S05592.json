@@ -6,13 +6,13 @@
     "revision_id": "625a4a1203c4f8d294473",
     "content_hash": "e02dca7af89b150a1f5df9a9370ada99595278565dad3e02e82b1ec67e1367c2",
     "server_modified": "2024-10-29 21:54:28",
-    "last_sync": "2024-11-19 21:15:28.119650",
+    "last_sync": "2024-11-26 15:37:56.387894",
     "size": 22621,
-    "meta_text": "('Dharma, Lobsang Chukyi Gyeltsen_RGYAL BA NGAG DBANG BLO BZANG RGYA MTSO (1617-1682)', 'text')",
+    "meta_text": "Dharma, Lobsang Chukyi Gyeltsen_RGYAL BA NGAG DBANG BLO BZANG RGYA MTSO (1617-1682)",
     "cat_ref": "S05592",
     "work_ref": "W.S05592",
     "title_tib": "KHYAB BDAG RDO RJE 'CHANG MKHAN CHEN CHOS KYI RGYAL PO BLO BZANG CHOS KYI RGYAL MTSAN GYI GSANG BA'I RNAM THAR DAD PA'I SHING RTA",
-    "title_eng": "\"A Chariot of Faith,\" the Secret Biography of the Lord and Protector, the Keeper of the Diamond, the King of the('Dharma, Lobsang Chukyi Gyeltsen",
+    "title_eng": "\"A Chariot of Faith,\" the Secret Biography of the Lord and Protector, the Keeper of the Diamond, the King of theDharma, Lobsang Chukyi Gyeltsen",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -38,13 +38,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
-            "timestamp": "2024-11-20 05:15:30.560832+00:00"
+            "timestamp": "2024-11-26 23:37:57.668491+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:15:30.560832+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:37:57.668491+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

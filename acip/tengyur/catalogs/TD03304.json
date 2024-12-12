@@ -1,53 +1,47 @@
 {
     "name": "TD03304_MGON PO NAG PO'I SGRUB THABS (Mahākāla Sādhana).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/VOL 75 (BU)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 75 (BU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/vol 75 (bu)/td03304_mgon po nag po'i sgrub thabs (mahākāla sādhana).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACA6Q",
     "revision_id": "62633d76236838d294473",
     "content_hash": "4111a17e7c34ef1a9c3c61b2e8b6fd22faa56738c4a3bec4c434c8da81c2577c",
     "server_modified": "2024-11-06 00:45:58",
-    "last_sync": "2024-11-20 04:00:46.173108",
+    "last_sync": "2024-12-03 11:34:08.205409+00:00",
     "size": 3218,
-    "meta_text": null,
     "cat_ref": "TD03304",
     "work_ref": "W.TD03304",
-    "title_tib": "",
+    "title_tib": "MGON PO NAG PO'I SGRUB THABS",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "123568910388",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 75 (BU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/VOL 75 (BU)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)",
-            "subject_tibetan": "VOL 75 (BU)",
-            "subject_english": "Diamond Way (Vajrayāna)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/75 (BU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/VOL 75 (BU)",
+            "subject_tibetan": "75 (BU)",
+            "subject_english": "VOL 75 (BU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 75 (BU)",
-            "timestamp": "2024-11-20 12:00:46.185565+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Mahākāla Sādhana",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:46.185565+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:34:08.209042+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 75 (BU)",
+            "timestamp": "2024-12-03 11:34:08.209042+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

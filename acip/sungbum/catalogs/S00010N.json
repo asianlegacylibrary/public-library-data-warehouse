@@ -6,9 +6,9 @@
     "revision_id": "625a480680a768d294473",
     "content_hash": "567d395c382985acdaad8148bf73557367b14e20bc4951077fa46676b2bf0d2a",
     "server_modified": "2024-10-29 21:45:19",
-    "last_sync": "2024-11-19 20:53:08.889991",
+    "last_sync": "2024-11-26 15:22:30.235897",
     "size": 67642,
-    "meta_text": "('DAR RGYAS (1493-1568)', 'rtf')",
+    "meta_text": "DAR RGYAS (1493-1568)",
     "cat_ref": "S00010N",
     "work_ref": "W.S00010N",
     "title_tib": "DRANG NGES RNAM 'BYED KYI SPYI DON LEGS PAR BSHAD PA'I SNYING PO PAD MA DKAR PO'I 'PHRENG BA DRANG NGES SPYI DON",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DRANG NGES_ART OF INTERPRETATION/MKHAS GRUB BSTAN PA DAR RGYAS_KEDRUP TENPA DARGYE (1493-1568)",
-            "timestamp": "2024-11-20 04:53:08.898635+00:00"
+            "timestamp": "2024-11-26 23:22:30.249276+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:53:08.898635+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:22:30.249276+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

@@ -6,13 +6,13 @@
     "revision_id": "625a482adfb548d294473",
     "content_hash": "4cbcb8b5c55eea5fecd0b9234841e3774ccba8c702c03e988d86d5577925deda",
     "server_modified": "2024-10-29 21:45:57",
-    "last_sync": "2024-11-19 20:53:49.397165",
+    "last_sync": "2024-11-26 15:22:58.212319",
     "size": 469,
-    "meta_text": "('t Teachings_DNGUL CHU DHARMA BHADRA (1772-1851)', 'rtf')",
+    "meta_text": "t Teachings_DNGUL CHU DHARMA BHADRA (1772-1851)",
     "cat_ref": "S06370EK7",
     "work_ref": "W.S06370EK7",
     "title_tib": "BYA RGYUD YI GE'I LHA'I SKABS KYI DNGUL CHU GSER GYI BYE MA LA ZHEN LUGS JI LTAR YIN PA'I DRI LAN",
-    "title_eng": "Response to a Question about the Quicksilver in the Section about the Angels of the Letters in the Practice of the Action Class of the Secre('t Teachings",
+    "title_eng": "Response to a Question about the Quicksilver in the Section about the Angels of the Letters in the Practice of the Action Class of the Secret Teachings",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 04:54:07.137574+00:00"
+            "timestamp": "2024-11-26 23:23:11.591208+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BYA RGYUD_ACTION CLASS OF TANTRA (KRIYA TANTRA)",
-            "timestamp": "2024-11-20 05:03:30.922279+00:00"
+            "timestamp": "2024-11-26 23:29:44.477562+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:07.137574+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:11.591208+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:03:30.922279+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:29:44.477562+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

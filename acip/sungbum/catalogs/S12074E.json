@@ -6,7 +6,7 @@
     "revision_id": "625a4977d4a858d294473",
     "content_hash": "950c6f8ad3ffc1b719cfe136609e2681049612508549f03ea615f72b89e0e1be",
     "server_modified": "2024-10-29 21:51:46",
-    "last_sync": "2024-11-19 21:08:41.108193",
+    "last_sync": "2024-11-26 15:33:16.660901",
     "size": 9598,
     "meta_text": null,
     "cat_ref": "S12074E",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GDUGS DKAR_WHITE PARASOL (SITAPATRA)/BZLOG PA_REPELLING EVIL SPIRITS",
-            "timestamp": "2024-11-20 05:08:41.111152+00:00"
+            "timestamp": "2024-11-26 23:33:16.666271+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GDUGS DKAR_WHITE PARASOL (SITAPATRA)/GTOR MA_OFFERING CAKE (BALI)",
-            "timestamp": "2024-11-20 05:08:47.321123+00:00"
+            "timestamp": "2024-11-26 23:33:21.313718+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:08:41.111152+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:33:16.666271+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:08:47.321123+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:33:21.313718+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

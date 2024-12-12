@@ -6,13 +6,13 @@
     "revision_id": "625a48b41ecf08d294473",
     "content_hash": "6d12137be0bc23350700a1e21a1e80d151044a4886fc2bf581963b5a20adf79c",
     "server_modified": "2024-10-29 21:48:21",
-    "last_sync": "2024-11-19 21:00:05.376944",
+    "last_sync": "2024-11-26 15:27:22.173456",
     "size": 54660,
-    "meta_text": "('he System of that Great and Accomplished Saint, Ghantapada_PAN CHEN BLA MA SKU PHRENG GSUM PA DPAL LDAN YE SHES (1738-1780)', 'rtf')",
+    "meta_text": "he System of that Great and Accomplished Saint, Ghantapada_PAN CHEN BLA MA SKU PHRENG GSUM PA DPAL LDAN YE SHES (1738-1780)",
     "cat_ref": "S12240E",
     "work_ref": "W.S12240E",
     "title_tib": "GRUB CHEN DRIL BU ZHABS LUGS KYI LUS DKYIL GYI MNGON RTOGS KYI NGAG 'DON BDE CHEN BDUD RTZI'I CHU RGYUN",
-    "title_eng": "The Stream of the Nectar of Ecstasy--A Ritual for Recitation based upon the Ceremony of Realization for the Secret World of the Body in t('he System of that Great and Accomplished Saint, Ghantapada",
+    "title_eng": "The Stream of the Nectar of Ecstasy--A Ritual for Recitation based upon the Ceremony of Realization for the Secret World of the Body in the System of that Great and Accomplished Saint, Ghantapada",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'KHOR LO SDOM PA_UNION OF THE SPHERES (CHAKRASANVARA)/LUS DKYIL_SECRET WORLD OF THE BODY",
-            "timestamp": "2024-11-20 05:00:06.088212+00:00"
+            "timestamp": "2024-11-26 23:27:22.966515+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:00:06.088212+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:27:22.966515+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

@@ -6,7 +6,7 @@
     "revision_id": "625a4770d60fb8d294473",
     "content_hash": "e999c238e498a6ecdca1152aabaddeec66980b840f59da42e9938efc2402d9e6",
     "server_modified": "2024-10-29 21:42:42",
-    "last_sync": "2024-11-19 20:46:22.017002",
+    "last_sync": "2024-11-26 15:17:59.017508",
     "size": 45625,
     "meta_text": null,
     "cat_ref": "S12038E",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/MDO 'GREL_COMMENTARIES TO SUTRAS/PHAR PHYIN 'BUM (SHATASAHASRIKA PRAJNA PARAMITA)_PERFECTION OF WISDOM IN 100,000 LINES",
-            "timestamp": "2024-11-20 04:46:22.021825+00:00"
+            "timestamp": "2024-11-26 23:17:59.022277+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:46:22.021825+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:17:59.022277+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

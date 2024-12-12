@@ -1,53 +1,47 @@
 {
     "name": "TD03309_TSIG LHUG PA'I BRTAN PA'I 'KHOR LO'I SGRUB THABS (Muktakena Sthira Cakra Sādhana).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/vol 76 (mu)/td03309_tsig lhug pa'i brtan pa'i 'khor lo'i sgrub thabs (muktakena sthira cakra sādhana).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACAEQ",
     "revision_id": "62633d526fa7c8d294473",
     "content_hash": "4aeb0ad61c128bf1f9bc48a59154b23d929bea984518956ea8c7d30c97bdb281",
     "server_modified": "2024-11-06 00:45:21",
-    "last_sync": "2024-11-20 04:00:45.132648",
+    "last_sync": "2024-12-03 11:34:07.467845+00:00",
     "size": 2327,
-    "meta_text": null,
     "cat_ref": "TD03309",
     "work_ref": "W.TD03309",
-    "title_tib": "",
+    "title_tib": "TSIG LHUG PA'I BRTAN PA'I 'KHOR LO'I SGRUB THABS",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "121782366104",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/VOL 76 (MU)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)",
-            "subject_tibetan": "VOL 76 (MU)",
-            "subject_english": "Diamond Way (Vajrayāna)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/76 (MU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/VOL 76 (MU)",
+            "subject_tibetan": "76 (MU)",
+            "subject_english": "VOL 76 (MU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
-            "timestamp": "2024-11-20 12:00:45.255080+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Muktakena Sthira Cakra Sādhana",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:45.255080+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:34:07.480730+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
+            "timestamp": "2024-12-03 11:34:07.480730+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

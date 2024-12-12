@@ -6,9 +6,9 @@
     "revision_id": "625a48fca5e568d294473",
     "content_hash": "3716ef19dd00128a4da01cff2eadab1f084bc02b6bb71a65f38e613cbcd9097d",
     "server_modified": "2024-10-29 21:49:37",
-    "last_sync": "2024-11-19 21:03:44.956926",
+    "last_sync": "2024-11-26 15:29:56.092210",
     "size": 2421,
-    "meta_text": "('(1476-1542)', 'text')",
+    "meta_text": "(1476-1542)",
     "cat_ref": "S05572E",
     "work_ref": "W.S05572E",
     "title_tib": "RJE BTZUN THAMS CAD MKHYEN PA'I GSUNG 'BUM THOR BU LAS JA MCHOD RTZA 'GREL",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/JA MCHOD_TEA OFFERING",
-            "timestamp": "2024-11-20 05:03:45.692590+00:00"
+            "timestamp": "2024-11-26 23:29:56.534613+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:03:45.692590+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:29:56.534613+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

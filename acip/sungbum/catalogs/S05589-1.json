@@ -6,13 +6,13 @@
     "revision_id": "625a4a2776c718d294473",
     "content_hash": "34d19d9b8e0d9f90e6cf3f2f47e9524817d50487723e3b451e3ef6a06a8936d1",
     "server_modified": "2024-10-29 21:54:50",
-    "last_sync": "2024-11-19 21:16:20.427243",
+    "last_sync": "2024-11-26 15:38:33.168193",
     "size": 1188204,
-    "meta_text": "('Root Lama Possessed of Great Kindness, Ngawang Lobsang Gyatso_SDE SRID SANGS RGYAS RGYA MTSO_Desi Sangye Gyatso (1653-1705)', 'text')",
+    "meta_text": "Root Lama Possessed of Great Kindness, Ngawang Lobsang Gyatso_SDE SRID SANGS RGYAS RGYA MTSO_Desi Sangye Gyatso (1653-1705)",
     "cat_ref": "S05589-1",
     "work_ref": "W.S05589-1",
     "title_tib": "DRIN CAN RTZA BA'I BLA MA NGAG DBANG BLO BZANG RGYA MTSO'I THUN MONG PHYI'I RNAM THAR DU K'U LA'I GOS BZANG, GLEGS BAM GSUM PA'I 'PHROS BZHI PA",
-    "title_eng": "A Fourth Volume Added to the First Three of \"A Rainment of Fine Silk,\" the Public Biography of My('Root Lama Possessed of Great Kindness, Ngawang Lobsang GyatsoDesi Sangye Gyatso (1653-1705)', 'text')",
+    "title_eng": "A Fourth Volume Added to the First Three of \"A Rainment of Fine Silk,\" the Public Biography of MyRoot Lama Possessed of Great Kindness, Ngawang Lobsang GyatsoDesi Sangye Gyatso (1653-1705)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -38,13 +38,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/RGYAL BA NGAG DBANG BLO BZANG RGYA MTSO_GYALWA NGAWANG LOBSANG GYATSO (1617-1682)",
-            "timestamp": "2024-11-20 05:16:21.283765+00:00"
+            "timestamp": "2024-11-26 23:38:33.556448+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:16:21.283765+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:38:33.556448+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

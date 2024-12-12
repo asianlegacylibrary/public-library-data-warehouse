@@ -1,53 +1,47 @@
 {
     "name": "TD04255_LHAN CIG DMIGS PAR NGES PA ZHES BYA BA (Sahāvalambanirṇaya).txt",
-    "path": "11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 17 (ZHE)",
+    "path": "BSTAN 'GYUR_Tengyur/11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 17 (ZHE)",
     "download_path": "/tengyur updated 10 31 24 ws/11 tsad ma_logic & perceptual theory (pramāṇa)/vol 17 (zhe)/td04255_lhan cig dmigs par nges pa zhes bya ba (sahāvalambanirṇaya).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB2IA",
     "revision_id": "62633b56d34e58d294473",
     "content_hash": "c785200fb860df95b904e87f74d6265b2cdb90ea2d22552b646510a3e53a3aad",
     "server_modified": "2024-11-06 00:36:29",
-    "last_sync": "2024-11-20 03:58:18.785814",
+    "last_sync": "2024-12-03 11:32:03.426558+00:00",
     "size": 24112,
-    "meta_text": null,
     "cat_ref": "TD04255",
     "work_ref": "W.TD04255",
-    "title_tib": "",
+    "title_tib": "LHAN CIG DMIGS PAR NGES PA ZHES BYA BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "120037800368",
             "subject_path": "BSTAN 'GYUR_Tengyur/11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 17 (ZHE)",
-            "subject_path_tibetan": "BSTAN 'GYUR/11 TSAD MA/VOL 17 (ZHE)",
-            "subject_path_english": "Tengyur/Logic & Perceptual Theory (Pramāṇa)",
-            "subject_tibetan": "VOL 17 (ZHE)",
-            "subject_english": "Logic & Perceptual Theory (Pramāṇa)"
+            "subject_path_tibetan": "BSTAN 'GYUR/TSAD MA/17 (ZHE)",
+            "subject_path_english": "Tengyur/Logic & Perceptual Theory (Pramāṇa)/VOL 17 (ZHE)",
+            "subject_tibetan": "17 (ZHE)",
+            "subject_english": "VOL 17 (ZHE)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 17 (ZHE)",
-            "timestamp": "2024-11-20 11:58:18.809839+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Sahāvalambanirṇaya",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:58:18.809839+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:32:03.429734+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 17 (ZHE)",
+            "timestamp": "2024-12-03 11:32:03.429734+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

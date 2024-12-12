@@ -1,53 +1,46 @@
 {
     "name": "TD03070_MCHOD RTEN BRGYA RTZA BRGYAD BYA BA.txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/VOL 73 (PU)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 73 (PU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/vol 73 (pu)/td03070_mchod rten brgya rtza brgyad bya ba.txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACBOg",
     "revision_id": "62633d83e308d8d294473",
     "content_hash": "efa026baeb292ab0ab90c6016b729b200dfb5237b0b05800dc08236860b98fea",
     "server_modified": "2024-11-06 00:46:13",
-    "last_sync": "2024-11-20 04:00:48.345789",
+    "last_sync": "2024-12-03 11:34:10.192954+00:00",
     "size": 11432,
-    "meta_text": null,
     "cat_ref": "TD03070",
     "work_ref": "W.TD03070",
     "title_tib": "MCHOD RTEN BRGYA RTZA BRGYAD BYA BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "185746237611",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 73 (PU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/VOL 73 (PU)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)",
-            "subject_tibetan": "VOL 73 (PU)",
-            "subject_english": "Diamond Way (Vajrayāna)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/73 (PU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/VOL 73 (PU)",
+            "subject_tibetan": "73 (PU)",
+            "subject_english": "VOL 73 (PU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 73 (PU)",
-            "timestamp": "2024-11-20 12:00:49.203585+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:49.203585+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:34:10.199370+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 73 (PU)",
+            "timestamp": "2024-12-03 11:34:10.199370+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

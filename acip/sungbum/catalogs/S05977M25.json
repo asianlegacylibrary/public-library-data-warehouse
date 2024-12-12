@@ -6,7 +6,7 @@
     "revision_id": "625a4aa5c84958d294473",
     "content_hash": "986ec1e87a9c5475722e1e93c5bf395fb9120bb17a81fba8d312a89041a73dff",
     "server_modified": "2024-10-29 21:57:03",
-    "last_sync": "2024-11-19 21:20:44.958830",
+    "last_sync": "2024-11-26 15:41:40.959473",
     "size": 1252,
     "meta_text": null,
     "cat_ref": "S05977M25",
@@ -41,23 +41,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/GSOL 'DEBS_PRAYERS OF SUPPLICATION/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
-            "timestamp": "2024-11-20 05:20:45.659889+00:00"
+            "timestamp": "2024-11-26 23:41:41.747239+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/GSOL 'DEBS_PRAYERS OF SUPPLICATION/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
-            "timestamp": "2024-11-20 05:21:15.476574+00:00"
+            "timestamp": "2024-11-26 23:42:04.600029+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:20:45.659889+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:41:41.747239+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:21:15.476574+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:42:04.600029+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

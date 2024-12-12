@@ -6,13 +6,13 @@
     "revision_id": "625a4ae82a0468d294473",
     "content_hash": "6f26f8c90675cfca6a6aa229f79901c2fa1e763f15b7e73b916745850b468231",
     "server_modified": "2024-10-29 21:58:12",
-    "last_sync": "2024-11-19 21:24:48.324281",
+    "last_sync": "2024-11-26 15:44:20.024119",
     "size": 2893,
-    "meta_text": "('he Experiential Teachings of the Seven-Point Instruction for Developing the Good Heart, \\ncomposed by the Glorious Bodhisattva Tokme Sangpo, have been Imparted_DNGUL CHU DHARMA BHADRA (1772-1851)', 'rtf')",
+    "meta_text": "he Experiential Teachings of the Seven-Point Instruction for Developing the Good Heart, \ncomposed by the Glorious Bodhisattva Tokme Sangpo, have been Imparted_DNGUL CHU DHARMA BHADRA (1772-1851)",
     "cat_ref": "S06369M10",
     "work_ref": "W.S06369M10",
     "title_tib": "RGYAL BA'I SRAS PO THOGS MED BZANG PO DPAL GYIS MDZAD PA'I BLO SBYONG DON BDUN MA'I STENG NAS NYAMS 'KHRID LEGS PAR MNOS PA'I BRGYUD 'DEBS SMON LAM DANG BCAS PA",
-    "title_eng": "Supplication, along with a Prayer, to the Lamas of the Lineage through which t('he Experiential Teachings of the Seven-Point Instruction for Developing the Good Heart, \\ncomposed by the Glorious Bodhisattva Tokme Sangpo, have been Imparted",
+    "title_eng": "Supplication, along with a Prayer, to the Lamas of the Lineage through which the Experiential Teachings of the Seven-Point Instruction for Developing the Good Heart, \ncomposed by the Glorious Bodhisattva Tokme Sangpo, have been Imparted",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/BLO SBYONG_DEVELOPING THE GOOD HEART/BLO SBYONG DON BDUN MA_SEVEN-POINT PRACTICE FOR DEVELOPING THE GOOD HEART/BLA BRGYUD_LAMAS OF THE LINEAGE",
-            "timestamp": "2024-11-20 05:24:48.328904+00:00"
+            "timestamp": "2024-11-26 23:44:20.029504+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:24:48.328904+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:44:20.029504+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

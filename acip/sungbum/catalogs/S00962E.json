@@ -6,13 +6,13 @@
     "revision_id": "625a4a010e93d8d294473",
     "content_hash": "1f33891050f1d09cfc1cbd0017df519dad94024d479a9a6d37d8806be7f8f751",
     "server_modified": "2024-10-29 21:54:10",
-    "last_sync": "2024-11-19 21:14:35.779956",
+    "last_sync": "2024-11-26 15:37:20.641941",
     "size": 20294,
-    "meta_text": "(\"‘a PraIse of Je Rinpoche composed by the Great One, the All-Seeing Fifth Dalai Lama_ GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME (1762-1823)\", 'rtf')",
+    "meta_text": "‘a PraIse of Je Rinpoche composed by the Great One, the All-Seeing Fifth Dalai Lama_ GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME (1762-1823)",
     "cat_ref": "S00962E",
     "work_ref": "W.S00962E",
     "title_tib": "KUN GZIGS LNGA PA CHEN POS MDZAD PA'I RJE RIN PO CHE'I BSTOD PA DPYID KYI RGYAL MO'I GLU DBYANGS KYI DON 'GREL DBYAR SKYES SGRA BRGYA",
-    "title_eng": "'A Million Bursts of Summer Thunder,' being a Commentary on the Intent of the 'Song of the Queen of Spring,(\"‘a PraIse of Je Rinpoche composed by the Great One, the All-Seeing Fifth Dalai Lama",
+    "title_eng": "'A Million Bursts of Summer Thunder,' being a Commentary on the Intent of the 'Song of the Queen of Spring,‘a PraIse of Je Rinpoche composed by the Great One, the All-Seeing Fifth Dalai Lama",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
-            "timestamp": "2024-11-20 05:14:37.998809+00:00"
+            "timestamp": "2024-11-26 23:37:21.899579+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:14:37.998809+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:37:21.899579+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

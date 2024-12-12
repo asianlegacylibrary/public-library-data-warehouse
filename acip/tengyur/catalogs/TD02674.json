@@ -1,53 +1,47 @@
 {
     "name": "TD02674_DPA' BO GCIG TU SGRUB PA'I RGYUD KYI 'GREL PA (Siddhaikavīra Tantra Ṭīkā).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/04 BYA BA'I RGYUD_Secret Class of Action (Kriyā Tantra)/02 SO SO'I DGONGS 'GREL_Individual Commentaries (Nanasandhi Vṛtti)/01 SKU'I RIGS 'JAM DPAL GYI SKOR_Holy Body, Gentle Voice (Manjushri Kaya Kula)/VOL 70 (THU)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/04 BYA BA'I RGYUD_Secret Class of Action (Kriyā Tantra)/02 SO SO'I DGONGS 'GREL_Individual Commentaries (Nanasandhi Vṛtti)/01 SKU'I RIGS 'JAM DPAL GYI SKOR_Holy Body, Gentle Voice (Manjushri Kaya Kula)/VOL 70 (THU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/04 bya ba'i rgyud_secret class of action (kriyā tantra)/02 so so'i dgongs 'grel_individual commentaries (nanasandhi vṛtti)/01 sku'i rigs 'jam dpal gyi skor_holy body, gentle voice (manjushri kaya kula)/vol 70 (thu)/td02674_dpa' bo gcig tu sgrub pa'i rgyud kyi 'grel pa (siddhaikavīra tantra ṭīkā).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACC-Q",
     "revision_id": "62633dc9e679d8d294473",
     "content_hash": "ce75ee00a4caedf32da7701954b00054ab5ee26afae2b6eb93d3b7632fa57bab",
     "server_modified": "2024-11-06 00:47:26",
-    "last_sync": "2024-11-20 04:00:59.517443",
+    "last_sync": "2024-12-03 11:34:19.113399+00:00",
     "size": 59972,
-    "meta_text": null,
     "cat_ref": "TD02674",
     "work_ref": "W.TD02674",
-    "title_tib": "",
+    "title_tib": "DPA' BO GCIG TU SGRUB PA'I RGYUD KYI 'GREL PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "479770119426",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/04 BYA BA'I RGYUD_Secret Class of Action (Kriyā Tantra)/02 SO SO'I DGONGS 'GREL_Individual Commentaries (Nanasandhi Vṛtti)/01 SKU'I RIGS 'JAM DPAL GYI SKOR_Holy Body, Gentle Voice (Manjushri Kaya Kula)/VOL 70 (THU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/04 BYA BA'I RGYUD/02 SO SO'I DGONGS 'GREL/01 SKU'I RIGS 'JAM DPAL GYI SKOR/VOL 70 (THU)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Secret Class of Action (Kriyā Tantra)/Individual Commentaries (Nanasandhi Vṛtti)/Holy Body, Gentle Voice (Manjushri Kaya Kula)",
-            "subject_tibetan": "VOL 70 (THU)",
-            "subject_english": "Holy Body, Gentle Voice (Manjushri Kaya Kula)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/BYA BA'I RGYUD/SO SO'I DGONGS 'GREL/SKU'I RIGS 'JAM DPAL GYI SKOR/70 (THU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Secret Class of Action (Kriyā Tantra)/Individual Commentaries (Nanasandhi Vṛtti)/Holy Body, Gentle Voice (Manjushri Kaya Kula)/VOL 70 (THU)",
+            "subject_tibetan": "70 (THU)",
+            "subject_english": "VOL 70 (THU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/04 BYA BA'I RGYUD_Secret Class of Action (Kriyā Tantra)/02 SO SO'I DGONGS 'GREL_Individual Commentaries (Nanasandhi Vṛtti)/01 SKU'I RIGS 'JAM DPAL GYI SKOR_Holy Body, Gentle Voice (Manjushri Kaya Kula)/VOL 70 (THU)",
-            "timestamp": "2024-11-20 12:00:59.520805+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Siddhaikavīra Tantra Ṭīkā",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:59.520805+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:34:19.113952+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/04 BYA BA'I RGYUD_Secret Class of Action (Kriyā Tantra)/02 SO SO'I DGONGS 'GREL_Individual Commentaries (Nanasandhi Vṛtti)/01 SKU'I RIGS 'JAM DPAL GYI SKOR_Holy Body, Gentle Voice (Manjushri Kaya Kula)/VOL 70 (THU)",
+            "timestamp": "2024-12-03 11:34:19.113952+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

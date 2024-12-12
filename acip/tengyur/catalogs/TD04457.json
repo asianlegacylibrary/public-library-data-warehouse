@@ -1,53 +1,47 @@
 {
     "name": "TD04457_'PHAGS PA SKYE BA DRAN PA'I GZUNGS ((Ārya) Jatismara Dhāraṇī).txt",
-    "path": "16 SNA TSOGS_Miscellany (Citritā)/VOL 9 (PO)",
+    "path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 9 (PO)",
     "download_path": "/tengyur updated 10 31 24 ws/16 sna tsogs_miscellany (citritā)/vol 9 (po)/td04457_'phags pa skye ba dran pa'i gzungs ((ārya) jatismara dhāraṇī).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACEfw",
     "revision_id": "62633e1d365948d294473",
     "content_hash": "530fc044be2954c6d070e6cf396ccc3ef33554a21c3518ba3ae24f076045a6e1",
     "server_modified": "2024-11-06 00:48:54",
-    "last_sync": "2024-11-20 04:01:24.382572",
+    "last_sync": "2024-12-03 11:34:39.938373+00:00",
     "size": 702,
-    "meta_text": null,
     "cat_ref": "TD04457",
     "work_ref": "W.TD04457",
-    "title_tib": "",
+    "title_tib": "'PHAGS PA SKYE BA DRAN PA'I GZUNGS",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "116521340964",
             "subject_path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 9 (PO)",
-            "subject_path_tibetan": "BSTAN 'GYUR/16 SNA TSOGS/VOL 9 (PO)",
-            "subject_path_english": "Tengyur/Miscellany (Citritā)",
-            "subject_tibetan": "VOL 9 (PO)",
-            "subject_english": "Miscellany (Citritā)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SNA TSOGS/9 (PO)",
+            "subject_path_english": "Tengyur/Miscellany (Citritā)/VOL 9 (PO)",
+            "subject_tibetan": "9 (PO)",
+            "subject_english": "VOL 9 (PO)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 9 (PO)",
-            "timestamp": "2024-11-20 12:01:24.404580+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "(Ārya) Jatismara Dhāraṇī",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:24.404580+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:34:39.940327+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 9 (PO)",
+            "timestamp": "2024-12-03 11:34:39.940327+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

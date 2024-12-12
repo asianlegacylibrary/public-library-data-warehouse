@@ -6,7 +6,7 @@
     "revision_id": "625a49de2708a8d294473",
     "content_hash": "8d2d902c31bdb1fbb32fa534207371678c63fb824ef8b243b17109485a32ced9",
     "server_modified": "2024-10-29 21:53:33",
-    "last_sync": "2024-11-19 21:13:40.877958",
+    "last_sync": "2024-11-26 15:36:43.519145",
     "size": 3044,
     "meta_text": null,
     "cat_ref": "S00053A",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/SPYI BSHAGS_GENERAL CONFESSION",
-            "timestamp": "2024-11-20 05:13:40.882211+00:00"
+            "timestamp": "2024-11-26 23:36:43.524316+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BSHAGS PA_CONFESSION/AUTHOR UNKNOWN",
-            "timestamp": "2024-11-20 05:22:17.856889+00:00"
+            "timestamp": "2024-11-26 23:42:42.854485+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:13:40.882211+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:36:43.524316+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:22:17.856889+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:42:42.854485+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

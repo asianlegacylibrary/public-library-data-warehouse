@@ -6,7 +6,7 @@
     "revision_id": "625a47a14cc048d294473",
     "content_hash": "43566969d1f5e7bd02488f4b269cd049dbf525880b2351911e2cc836585b67ce",
     "server_modified": "2024-10-29 21:43:33",
-    "last_sync": "2024-11-19 20:48:32.943453",
+    "last_sync": "2024-11-26 15:19:33.876157",
     "size": 49505,
     "meta_text": null,
     "cat_ref": "S19154",
@@ -38,13 +38,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/SEMS TZAM_MIND-ONLY SCHOOL (CHITTAMATRA)/RNAM RIG_THE WORLD AS MIND",
-            "timestamp": "2024-11-20 04:48:32.950418+00:00"
+            "timestamp": "2024-11-26 23:19:33.880910+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:48:32.950418+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:19:33.880910+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

@@ -1,53 +1,47 @@
 {
     "name": "TD04122_'DUL BA'I MDO'I 'GREL PA (Vinaya Sūtra Vṛtti).txt",
-    "path": "08 'DUL BA_Vowed Morality (Vinaya)/VOL 15 (LU)",
+    "path": "BSTAN 'GYUR_Tengyur/08 'DUL BA_Vowed Morality (Vinaya)/VOL 15 (LU)",
     "download_path": "/tengyur updated 10 31 24 ws/08 'dul ba_vowed morality (vinaya)/vol 15 (lu)/td04122_'dul ba'i mdo'i 'grel pa (vinaya sūtra vṛtti).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB2xQ",
     "revision_id": "62633ba1b76308d294473",
     "content_hash": "3f94cbed86ac3be421c883a4a2486f236e63ed4855fc621431a32e3c18bce2b7",
     "server_modified": "2024-11-06 00:37:47",
-    "last_sync": "2024-11-20 03:58:48.119432",
+    "last_sync": "2024-12-03 11:32:30.954887+00:00",
     "size": 1345855,
-    "meta_text": null,
     "cat_ref": "TD04122",
     "work_ref": "W.TD04122",
-    "title_tib": "",
+    "title_tib": "'DUL BA'I MDO'I 'GREL PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "169978495991",
             "subject_path": "BSTAN 'GYUR_Tengyur/08 'DUL BA_Vowed Morality (Vinaya)/VOL 15 (LU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/08 'DUL BA/VOL 15 (LU)",
-            "subject_path_english": "Tengyur/Vowed Morality (Vinaya)",
-            "subject_tibetan": "VOL 15 (LU)",
-            "subject_english": "Vowed Morality (Vinaya)"
+            "subject_path_tibetan": "BSTAN 'GYUR/'DUL BA/15 (LU)",
+            "subject_path_english": "Tengyur/Vowed Morality (Vinaya)/VOL 15 (LU)",
+            "subject_tibetan": "15 (LU)",
+            "subject_english": "VOL 15 (LU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/08 'DUL BA_Vowed Morality (Vinaya)/VOL 15 (LU)",
-            "timestamp": "2024-11-20 11:58:48.122607+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Vinaya Sūtra Vṛtti",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:58:48.122607+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:32:30.955360+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/08 'DUL BA_Vowed Morality (Vinaya)/VOL 15 (LU)",
+            "timestamp": "2024-12-03 11:32:30.955360+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

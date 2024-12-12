@@ -6,13 +6,13 @@
     "revision_id": "625a4aede864c8d294473",
     "content_hash": "c626079717ebf18e4f0b1324b622e2498bf02ae179914aac8053857d8f9486b7",
     "server_modified": "2024-10-29 21:58:18",
-    "last_sync": "2024-11-19 21:25:16.094402",
+    "last_sync": "2024-11-26 15:44:37.424833",
     "size": 790248,
-    "meta_text": "('nd including a Table of Contents entitled ‘The Cool Light of the Moon that Removes All Torment’_@ (@-@)', 'rtf')",
+    "meta_text": "nd including a Table of Contents entitled ‘The Cool Light of the Moon that Removes All Torment’_@ (@-@)",
     "cat_ref": "S06969E",
     "work_ref": "W.S06969E",
     "title_tib": "SEMS DPA' CHEN PO DKON MCHOG RGYAL MTSAN GYIS PHYOGS BSGRIGS MDZAD PA'I BLO SBYONG BRGYA RTZA DANG DKAR CHAG GDUNG SEL ZLA BA",
-    "title_eng": "'The Compendium of Instructions for Developing a Good Heart,' compiled by the Great Bodhisattva Konchok Gyeltsen, a('nd including a Table of Contents entitled ‘The Cool Light of the Moon that Removes All Torment’@ (@-@)', 'rtf')",
+    "title_eng": "'The Compendium of Instructions for Developing a Good Heart,' compiled by the Great Bodhisattva Konchok Gyeltsen, and including a Table of Contents entitled ‘The Cool Light of the Moon that Removes All Torment’",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -38,13 +38,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/BLO SBYONG_DEVELOPING THE GOOD HEART/SEMS DPA' CHEN PO DKON MCHOG RGYAL MTSAN GYIS PHYOGS BSGRIGS MDZAD PA'I BLO SBYONG BRGYA RTZA_'THE COMPENDIUM OF INSTRUCTIONS FOR DEVELOPING A GOOD HEART,' COMPILED BY THE GREAT BODHISATTVA KONCHOK GYELTSEN",
-            "timestamp": "2024-11-20 05:25:16.099501+00:00"
+            "timestamp": "2024-11-26 23:44:37.433284+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:25:16.099501+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:44:37.433284+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

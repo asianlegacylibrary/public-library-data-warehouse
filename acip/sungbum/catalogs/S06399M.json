@@ -6,7 +6,7 @@
     "revision_id": "625a4af4e1e0e8d294473",
     "content_hash": "cd0045ea2ff1b1033d626e838caffa852ac3bb94359832d649efcea20bdcd2ac",
     "server_modified": "2024-10-29 21:58:26",
-    "last_sync": "2024-11-19 21:25:51.223833",
+    "last_sync": "2024-11-26 15:44:58.415515",
     "size": 2543,
     "meta_text": null,
     "cat_ref": "S06399M",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/SGRA_STUDY OF SANSKRIT/NYER BSGYUR_PREFIXES",
-            "timestamp": "2024-11-20 05:25:51.228329+00:00"
+            "timestamp": "2024-11-26 23:44:58.422485+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:25:51.228329+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:44:58.422485+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

@@ -6,9 +6,9 @@
     "revision_id": "625a4af1e4fac8d294473",
     "content_hash": "ec458976e2338b280e96d44de7b4d94319813c8feca7a3d2b0cebea864d3cf43",
     "server_modified": "2024-10-29 21:58:23",
-    "last_sync": "2024-11-19 21:25:45.788390",
+    "last_sync": "2024-11-26 15:44:54.511579",
     "size": 9735,
-    "meta_text": "(\"M DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS (1648-1721)\", 'rtf')",
+    "meta_text": "M DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS (1648-1721)",
     "cat_ref": "S19057E",
     "work_ref": "W.S19057E",
     "title_tib": "RTAGS GSUM GYI DBYE BA MDOR BSDUS BLO GSAL 'JUG NGOGS SGRA RIG MDZES RGYAN",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/SGRA_STUDY OF SANSKRIT/RTAGS GSUM_THREE GENDERS",
-            "timestamp": "2024-11-20 05:25:45.794187+00:00"
+            "timestamp": "2024-11-26 23:44:54.523780+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:25:45.794187+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:44:54.523780+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

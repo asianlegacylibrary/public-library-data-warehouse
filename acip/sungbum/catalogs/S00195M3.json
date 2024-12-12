@@ -6,13 +6,13 @@
     "revision_id": "625a47929e3888d294473",
     "content_hash": "04d7e89a751f8e2816a0e53daed26f81477a791c68cfcaf79d06b7ada46dcb74",
     "server_modified": "2024-10-29 21:43:17",
-    "last_sync": "2024-11-19 20:47:33.830822",
+    "last_sync": "2024-11-26 15:18:53.457730",
     "size": 90217,
-    "meta_text": "(\"he Treatise known as the 'Ornament of Realizations,’’ being a Combined Word Commentary and Dialectical Analysis of the Third Chapter of the Treatise_CO NE BLA MA GRAGS PA BSHAD SGRUB (1675-1748)\", 'rtf')",
+    "meta_text": "he Treatise known as the 'Ornament of Realizations,’’ being a Combined Word Commentary and Dialectical Analysis of the Third Chapter of the Treatise_CO NE BLA MA GRAGS PA BSHAD SGRUB (1675-1748)",
     "cat_ref": "S00195M3",
     "work_ref": "W.S00195M3",
     "title_tib": "MNGON PAR RTOGS PA'I RGYAN GYI DGONGS PA GSAL BAR BYED PA MKHAS PA DGYES PA'I MCHOD SPRIN LAS SKABS GSUM PA'I TSIG DON MTHA' DPYOD ZUNG 'BREL DU BSHAD PA",
-    "title_eng": "The 'Cloud of Offerings, which Pleases the Wise, and Illuminates the True Thought of t(\"he Treatise known as the 'Ornament of Realizations,’’ being a Combined Word Commentary and Dialectical Analysis of the Third Chapter of the Treatise",
+    "title_eng": "The 'Cloud of Offerings, which Pleases the Wise, and Illuminates the True Thought of the Treatise known as the 'Ornament of Realizations,’’ being a Combined Word Commentary and Dialectical Analysis of the Third Chapter of the Treatise",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/SPYI_GENERAL COMMENTARIES/CO NE BLA MA GRAGS PA BSHAD SGRUB_CHONEY LAMA DRAKPA SHEDRUP (1675-1748)",
-            "timestamp": "2024-11-20 04:47:35.274857+00:00"
+            "timestamp": "2024-11-26 23:18:54.672303+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:47:35.274857+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:18:54.672303+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

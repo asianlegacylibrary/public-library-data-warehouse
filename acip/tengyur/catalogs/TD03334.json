@@ -1,53 +1,47 @@
 {
     "name": "TD03334_HA LA HA LA'I SGRUB THABS (Hālāhala Sādhana).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/vol 76 (mu)/td03334_ha la ha la'i sgrub thabs (hālāhala sādhana).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACAEg",
     "revision_id": "62633d526fa7d8d294473",
     "content_hash": "389ee71b10c56d8070acbc397a3f82a47dde8b679e10292bb561fb50f7986a38",
     "server_modified": "2024-11-06 00:45:21",
-    "last_sync": "2024-11-20 04:00:45.133472",
+    "last_sync": "2024-12-03 11:34:07.467872+00:00",
     "size": 1435,
-    "meta_text": null,
     "cat_ref": "TD03334",
     "work_ref": "W.TD03334",
-    "title_tib": "",
+    "title_tib": "HA LA HA LA'I SGRUB THABS",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "121782366104",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/VOL 76 (MU)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)",
-            "subject_tibetan": "VOL 76 (MU)",
-            "subject_english": "Diamond Way (Vajrayāna)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/76 (MU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/VOL 76 (MU)",
+            "subject_tibetan": "76 (MU)",
+            "subject_english": "VOL 76 (MU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
-            "timestamp": "2024-11-20 12:00:45.255110+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Hālāhala Sādhana",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:45.255110+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:34:07.480764+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
+            "timestamp": "2024-12-03 11:34:07.480764+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

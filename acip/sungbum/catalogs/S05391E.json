@@ -6,9 +6,9 @@
     "revision_id": "625a493d2ad188d294473",
     "content_hash": "18513ecb8a54cc0726e50731804774fb67eb4de62c2bf224fb710a7c91bfe63e",
     "server_modified": "2024-10-29 21:50:45",
-    "last_sync": "2024-11-19 21:06:12.433771",
+    "last_sync": "2024-11-26 15:31:36.509599",
     "size": 25646,
-    "meta_text": "('-1419)', 'rtf')",
+    "meta_text": "-1419)",
     "cat_ref": "S05391E",
     "work_ref": "W.S05391E",
     "title_tib": "SGRUB LE'I PHYAG RGYA BZHI ZHIB TU GSUNGS PA RGYAL TSAB CHOS RJES ZIN BRIS SU BKOD PA",
@@ -31,7 +31,7 @@
     "author": [
         {
             "author_name": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
-            "author_birth": null,
+            "author_birth": "1357",
             "author_death": "1419",
             "bdrc_id": "bdr:P64",
             "normalized_name": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/PHYAG RGYA_CONSORT PRACTICE",
-            "timestamp": "2024-11-20 05:06:12.443037+00:00"
+            "timestamp": "2024-11-26 23:31:36.519772+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:06:12.443037+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:31:36.519772+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

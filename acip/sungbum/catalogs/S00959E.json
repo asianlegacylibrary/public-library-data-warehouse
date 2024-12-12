@@ -6,7 +6,7 @@
     "revision_id": "625a47c18e9af8d294473",
     "content_hash": "4a423cb484fe65888c3c8c1ae1483f226e54db10a5c457dc9134feff669b087c",
     "server_modified": "2024-10-29 21:44:07",
-    "last_sync": "2024-11-19 20:49:48.187364",
+    "last_sync": "2024-11-26 15:20:24.290027",
     "size": 13130,
     "meta_text": null,
     "cat_ref": "S00959E",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/BSTOD PA_EULOGIES (STOTRA)/GNYAN RTZE DPON SLOB RIN PO CHE_NYENTSE PUNLOB RINPOCHE",
-            "timestamp": "2024-11-20 04:49:48.191935+00:00"
+            "timestamp": "2024-11-26 23:20:24.295608+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:49:48.191935+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:20:24.295608+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

@@ -6,9 +6,9 @@
     "revision_id": "625a483b1f5618d294473",
     "content_hash": "0130f2fdeaefbc06a20ca2b0874b7dedee3648a37b1717936c6a70f37590b69b",
     "server_modified": "2024-10-29 21:46:14",
-    "last_sync": "2024-11-19 20:54:01.639808",
+    "last_sync": "2024-11-26 15:23:07.223846",
     "size": 758,
-    "meta_text": "('CHU DHARMA BHADRA (1772-1851)', 'rtf')",
+    "meta_text": "CHU DHARMA BHADRA (1772-1851)",
     "cat_ref": "S06370EN8",
     "work_ref": "W.S06370EN8",
     "title_tib": "YIG BRGYA BRGYA RTZA LTA BU NYIN RE BZHIN CHAD LHAG BYUNG DOGS BYUNG NA BYED TSUL",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 04:54:07.141317+00:00"
+            "timestamp": "2024-11-26 23:23:11.595553+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SNGAGS_SECRET WORDS (MANTRA)",
-            "timestamp": "2024-11-20 05:05:09.001504+00:00"
+            "timestamp": "2024-11-26 23:30:54.751069+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:07.141317+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:11.595553+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:05:09.001504+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:30:54.751069+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

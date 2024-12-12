@@ -1,53 +1,47 @@
 {
     "name": "TD03317_RIG PA 'DZIN PA'I SDE SNOD KYIS BSDUS PA'I 'JAM PA'I DBYANGS KYI SGRUB PA'I THABS (Vidyādhara Piṭaka Pratibaddha Mañjughoṣa Sādhana).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/vol 76 (mu)/td03317_rig pa 'dzin pa'i sde snod kyis bsdus pa'i 'jam pa'i dbyangs kyi sgrub pa'i thabs (vidyādhara piṭaka pratibaddha mañjughoṣa sādhana).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACAYA",
     "revision_id": "62633d5ec84b98d294473",
     "content_hash": "9e09ee20cca7657c3828b4993f66d1860794c58d7ebe871cc2211c77136c303c",
     "server_modified": "2024-11-06 00:45:34",
-    "last_sync": "2024-11-20 04:00:45.198086",
+    "last_sync": "2024-12-03 11:34:07.469978+00:00",
     "size": 1374,
-    "meta_text": null,
     "cat_ref": "TD03317",
     "work_ref": "W.TD03317",
-    "title_tib": "",
+    "title_tib": "RIG PA 'DZIN PA'I SDE SNOD KYIS BSDUS PA'I 'JAM PA'I DBYANGS KYI SGRUB PA'I THABS",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "121782366104",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/VOL 76 (MU)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)",
-            "subject_tibetan": "VOL 76 (MU)",
-            "subject_english": "Diamond Way (Vajrayāna)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/76 (MU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/VOL 76 (MU)",
+            "subject_tibetan": "76 (MU)",
+            "subject_english": "VOL 76 (MU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
-            "timestamp": "2024-11-20 12:00:45.257568+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Vidyādhara Piṭaka Pratibaddha Mañjughoṣa Sādhana",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:45.257568+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:34:07.483292+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
+            "timestamp": "2024-12-03 11:34:07.483292+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

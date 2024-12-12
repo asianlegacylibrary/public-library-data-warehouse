@@ -1,53 +1,46 @@
 {
     "name": "TD01138_SANGS RGYAS BCOM LDAN 'DAS LA BSTOD PA BSNGAGS PAR 'OS PA BSNGAGS PA LAS BSTOD PAR MI NUS PAR BSTOD PA_A Praise of That Which is Beyond All Praise, From the Song of Praise to the Conquering Buddha Known as 'A Eulogy of All Those Worthy of +.txt",
-    "path": "01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
+    "path": "BSTAN 'GYUR_Tengyur/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
     "download_path": "/tengyur updated 10 31 24 ws/01 bstod tsogs_songs of praise (stotra)/vol 1 (ka)/td01138_sangs rgyas bcom ldan 'das la bstod pa bsngags par 'os pa bsngags pa las bstod par mi nus par bstod pa_a praise of that which is beyond all praise, from the song of praise to the conquering buddha known as 'a eulogy of all those worthy of +.txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB3tQ",
     "revision_id": "62633bd3ba1468d294473",
     "content_hash": "d91285d397841f3334e41bd8a6f397667c6d06b2daf477b52335269c14087eba",
     "server_modified": "2024-11-06 00:38:40",
-    "last_sync": "2024-11-20 03:59:09.171329",
+    "last_sync": "2024-12-03 11:32:48.968564+00:00",
     "size": 62098,
-    "meta_text": "(\"Honor (Varṇārhavarṇe Bhagavato Buddhasya Stotre'śakya Stava Nāma)\", 'text')",
     "cat_ref": "TD01138",
     "work_ref": "W.TD01138",
     "title_tib": "SANGS RGYAS BCOM LDAN 'DAS LA BSTOD PA BSNGAGS PAR 'OS PA BSNGAGS PA LAS BSTOD PAR MI NUS PAR BSTOD PA",
-    "title_eng": "A Praise of That Which is Beyond All Praise, From the Song of Praise to the Conquering Buddha Known as 'A Eulogy of All Those Worthy of(\"Honor (Varṇārhavarṇe Bhagavato Buddhasya Stotre'śakya Stava Nāma)\", 'text')",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
+    "title_eng": "A Praise of That Which is Beyond All Praise, From the Song of Praise to the Conquering Buddha Known as 'A Eulogy of All Those Worthy of +",
     "subject": [
         {
             "_id": "243715146395",
             "subject_path": "BSTAN 'GYUR_Tengyur/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
-            "subject_path_tibetan": "BSTAN 'GYUR/01 BSTOD TSOGS/VOL 1 (KA)",
-            "subject_path_english": "Tengyur/Songs of Praise (Stotra)",
-            "subject_tibetan": "VOL 1 (KA)",
-            "subject_english": "Songs of Praise (Stotra)"
+            "subject_path_tibetan": "BSTAN 'GYUR/BSTOD TSOGS/1 (KA)",
+            "subject_path_english": "Tengyur/Songs of Praise (Stotra)/VOL 1 (KA)",
+            "subject_tibetan": "1 (KA)",
+            "subject_english": "VOL 1 (KA)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
-            "timestamp": "2024-11-20 11:59:09.231686+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:59:09.231686+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:32:48.973924+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
+            "timestamp": "2024-12-03 11:32:48.973924+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

@@ -6,7 +6,7 @@
     "revision_id": "625a4827367ce8d294473",
     "content_hash": "fc5ed99e064f00f9e5086fb1585df6865231757f9bf0a03d41cb9e4f1cf1babc",
     "server_modified": "2024-10-29 21:45:53",
-    "last_sync": "2024-11-19 20:53:45.601635",
+    "last_sync": "2024-11-26 15:22:55.345116",
     "size": 178,
     "meta_text": null,
     "cat_ref": "S06370MH2",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 04:54:07.136544+00:00"
+            "timestamp": "2024-11-26 23:23:11.589822+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 05:13:38.741552+00:00"
+            "timestamp": "2024-11-26 23:36:42.772492+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:07.136544+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:11.589822+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:13:38.741552+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:36:42.772492+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

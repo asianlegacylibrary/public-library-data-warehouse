@@ -1,53 +1,47 @@
 {
     "name": "TD04173_CHED DU BRJOD PA'I GTAM (Udāna Kathā).txt",
-    "path": "10 SPRING YIG_Epistles (Lekha)/VOL 2 (NGE)",
+    "path": "BSTAN 'GYUR_Tengyur/10 SPRING YIG_Epistles (Lekha)/VOL 2 (NGE)",
     "download_path": "/tengyur updated 10 31 24 ws/10 spring yig_epistles (lekha)/vol 2 (nge)/td04173_ched du brjod pa'i gtam (udāna kathā).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB1yA",
     "revision_id": "62633b3e6e27f8d294473",
     "content_hash": "32b48c5519bb5aa595a63581fca712a8e9290fdc95c8620c132d9decadedad26",
     "server_modified": "2024-11-06 00:36:03",
-    "last_sync": "2024-11-20 03:58:12.207782",
+    "last_sync": "2024-12-03 11:31:57.477247+00:00",
     "size": 2051,
-    "meta_text": null,
     "cat_ref": "TD04173",
     "work_ref": "W.TD04173",
-    "title_tib": "",
+    "title_tib": "CHED DU BRJOD PA'I GTAM",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "161575116623",
             "subject_path": "BSTAN 'GYUR_Tengyur/10 SPRING YIG_Epistles (Lekha)/VOL 2 (NGE)",
-            "subject_path_tibetan": "BSTAN 'GYUR/10 SPRING YIG/VOL 2 (NGE)",
-            "subject_path_english": "Tengyur/Epistles (Lekha)",
-            "subject_tibetan": "VOL 2 (NGE)",
-            "subject_english": "Epistles (Lekha)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SPRING YIG/2 (NGE)",
+            "subject_path_english": "Tengyur/Epistles (Lekha)/VOL 2 (NGE)",
+            "subject_tibetan": "2 (NGE)",
+            "subject_english": "VOL 2 (NGE)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/10 SPRING YIG_Epistles (Lekha)/VOL 2 (NGE)",
-            "timestamp": "2024-11-20 11:58:12.233957+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Udāna Kathā",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:58:12.233957+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:31:57.480681+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/10 SPRING YIG_Epistles (Lekha)/VOL 2 (NGE)",
+            "timestamp": "2024-12-03 11:31:57.480681+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

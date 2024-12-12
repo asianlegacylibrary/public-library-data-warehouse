@@ -1,53 +1,47 @@
 {
     "name": "TD01350_PADMA CAN ZHES BYA BA'I DKA' 'GREL (Padminī Nāma Pañjikā).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/02 DUS KYI 'KHOR LO_Wheel of Time (Kālacakra)/01 BSKYED RIM_Creation Stage (Utpatti Krama)/VOL 12 (NA)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/02 DUS KYI 'KHOR LO_Wheel of Time (Kālacakra)/01 BSKYED RIM_Creation Stage (Utpatti Krama)/VOL 12 (NA)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/01 rnal 'byor bla med_unsurpassed practice (anuttara yoga)/02 dus kyi 'khor lo_wheel of time (kālacakra)/01 bskyed rim_creation stage (utpatti krama)/vol 12 (na)/td01350_padma can zhes bya ba'i dka' 'grel (padminī nāma pañjikā).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB8yw",
     "revision_id": "62633cbe983458d294473",
     "content_hash": "7ae20d1568513034ac7ea87f227b040aca2c8d140a4e160125b2fec0cdadbc80",
     "server_modified": "2024-11-06 00:42:46",
-    "last_sync": "2024-11-20 04:00:16.042772",
+    "last_sync": "2024-12-03 11:33:44.452790+00:00",
     "size": 587689,
-    "meta_text": null,
     "cat_ref": "TD01350",
     "work_ref": "W.TD01350",
-    "title_tib": "",
+    "title_tib": "PADMA CAN ZHES BYA BA'I DKA' 'GREL",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "255914328367",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/02 DUS KYI 'KHOR LO_Wheel of Time (Kālacakra)/01 BSKYED RIM_Creation Stage (Utpatti Krama)/VOL 12 (NA)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/01 RNAL 'BYOR BLA MED/02 DUS KYI 'KHOR LO/01 BSKYED RIM/VOL 12 (NA)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Wheel of Time (Kālacakra)/Creation Stage (Utpatti Krama)",
-            "subject_tibetan": "VOL 12 (NA)",
-            "subject_english": "Creation Stage (Utpatti Krama)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/RNAL 'BYOR BLA MED/DUS KYI 'KHOR LO/BSKYED RIM/12 (NA)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Wheel of Time (Kālacakra)/Creation Stage (Utpatti Krama)/VOL 12 (NA)",
+            "subject_tibetan": "12 (NA)",
+            "subject_english": "VOL 12 (NA)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/02 DUS KYI 'KHOR LO_Wheel of Time (Kālacakra)/01 BSKYED RIM_Creation Stage (Utpatti Krama)/VOL 12 (NA)",
-            "timestamp": "2024-11-20 12:00:16.048856+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Padminī Nāma Pañjikā",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:16.048856+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:33:44.454115+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/02 DUS KYI 'KHOR LO_Wheel of Time (Kālacakra)/01 BSKYED RIM_Creation Stage (Utpatti Krama)/VOL 12 (NA)",
+            "timestamp": "2024-12-03 11:33:44.454115+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

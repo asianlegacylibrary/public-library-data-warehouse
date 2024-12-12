@@ -6,13 +6,13 @@
     "revision_id": "625a49908aacd8d294473",
     "content_hash": "f1549e2657ff65acb01aa21e38f96910018826758df4d3b6ee0629078d5d1281",
     "server_modified": "2024-10-29 21:52:12",
-    "last_sync": "2024-11-19 21:10:27.415232",
+    "last_sync": "2024-11-26 15:34:34.555234",
     "size": 81405,
-    "meta_text": "('for Reaching the Glorious Diamond Frightener (Bhairava)_LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN (1642-1714)', 'rtf')",
+    "meta_text": "for Reaching the Glorious Diamond Frightener (Bhairava)_LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN (1642-1714)",
     "cat_ref": "S00166E",
     "work_ref": "W.S00166E",
     "title_tib": "DPAL RDO RJE 'JIGS BYED KYI SGRUB THABS ZA MA TOG NGAG 'DON BYA TSUL GO BDE BAR BSGRIGS PA 'JAM DPAL DGONGS RGYAN",
-    "title_eng": "'Jewel of the True Thought of Gentle Voice (Manjushri),' being a Convenient Method for Reciting 'The Chest of Riches,' a Method('for Reaching the Glorious Diamond Frightener (Bhairava)",
+    "title_eng": "'Jewel of the True Thought of Gentle Voice (Manjushri),' being a Convenient Method for Reciting 'The Chest of Riches,' a Methodfor Reaching the Glorious Diamond Frightener (Bhairava)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "timestamp": "2024-11-20 05:10:39.235407+00:00"
+            "timestamp": "2024-11-26 23:34:41.974461+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:10:39.235407+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:34:41.974461+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

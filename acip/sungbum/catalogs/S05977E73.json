@@ -6,9 +6,9 @@
     "revision_id": "625a4902ecdac8d294473",
     "content_hash": "8df71a0c7ff9a65a3387a3a8f4323b8efee7b981be3016cfc71486cbb279b390",
     "server_modified": "2024-10-29 21:49:44",
-    "last_sync": "2024-11-19 21:03:53.810631",
+    "last_sync": "2024-11-26 15:30:03.160782",
     "size": 8735,
-    "meta_text": "('PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)', 'rtf')",
+    "meta_text": "PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)",
     "cat_ref": "S05977E73",
     "work_ref": "W.S05977E73",
     "title_tib": "RGYUN DU MGON PO, CHOS RGYAL, LHA MO RNAMS LA GTOR MA 'BUL TSUL MDOR BSDUS",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/GTOR MA_OFFERING CAKE (BALI)",
-            "timestamp": "2024-11-20 05:04:02.184872+00:00"
+            "timestamp": "2024-11-26 23:30:08.349395+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:04:02.184872+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:30:08.349395+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

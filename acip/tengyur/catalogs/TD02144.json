@@ -1,53 +1,47 @@
 {
     "name": "TD02144_TSE DPAG TU MED PA'I SBYIN SREG GI CHO GA ZHES BYA BA (Aparimitāyur Homa Vidhi (Nāma)).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/14 BDE CHEN RAL GCIG_Blissful Lady of the Single Lock (Mahasukhā Ekajaṭī)/VOL 48 (TSI)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/14 BDE CHEN RAL GCIG_Blissful Lady of the Single Lock (Mahasukhā Ekajaṭī)/VOL 48 (TSI)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/01 rnal 'byor bla med_unsurpassed practice (anuttara yoga)/14 bde chen ral gcig_blissful lady of the single lock (mahasukhā ekajaṭī)/vol 48 (tsi)/td02144_tse dpag tu med pa'i sbyin sreg gi cho ga zhes bya ba (aparimitāyur homa vidhi (nāma)).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB8cQ",
     "revision_id": "62633caec9bd18d294473",
     "content_hash": "23edb647f5f021e30f85c4f47a1e9979d0ae68e91e6e24a0b66f6d5c3e98f148",
     "server_modified": "2024-11-06 00:42:29",
-    "last_sync": "2024-11-20 04:00:11.340470",
+    "last_sync": "2024-12-03 11:33:40.625620+00:00",
     "size": 4472,
-    "meta_text": null,
     "cat_ref": "TD02144",
     "work_ref": "W.TD02144",
-    "title_tib": "",
+    "title_tib": "TSE DPAG TU MED PA'I SBYIN SREG GI CHO GA ZHES BYA BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "172394833824",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/14 BDE CHEN RAL GCIG_Blissful Lady of the Single Lock (Mahasukhā Ekajaṭī)/VOL 48 (TSI)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/01 RNAL 'BYOR BLA MED/14 BDE CHEN RAL GCIG/VOL 48 (TSI)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Blissful Lady of the Single Lock (Mahasukhā Ekajaṭī)",
-            "subject_tibetan": "VOL 48 (TSI)",
-            "subject_english": "Blissful Lady of the Single Lock (Mahasukhā Ekajaṭī)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/RNAL 'BYOR BLA MED/BDE CHEN RAL GCIG/48 (TSI)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Blissful Lady of the Single Lock (Mahasukhā Ekajaṭī)/VOL 48 (TSI)",
+            "subject_tibetan": "48 (TSI)",
+            "subject_english": "VOL 48 (TSI)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/14 BDE CHEN RAL GCIG_Blissful Lady of the Single Lock (Mahasukhā Ekajaṭī)/VOL 48 (TSI)",
-            "timestamp": "2024-11-20 12:00:11.362606+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Aparimitāyur Homa Vidhi (Nāma)",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:11.362606+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:33:40.627386+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/14 BDE CHEN RAL GCIG_Blissful Lady of the Single Lock (Mahasukhā Ekajaṭī)/VOL 48 (TSI)",
+            "timestamp": "2024-12-03 11:33:40.627386+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

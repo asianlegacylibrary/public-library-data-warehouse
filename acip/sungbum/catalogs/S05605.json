@@ -6,9 +6,9 @@
     "revision_id": "625a49a1947198d294473",
     "content_hash": "f1d3e96164c86d29959eebc15248fe40c24a9c634bfd14ce2f23b3bbd4860446",
     "server_modified": "2024-10-29 21:52:30",
-    "last_sync": "2024-11-19 21:11:08.071099",
+    "last_sync": "2024-11-26 15:35:02.642189",
     "size": 16990,
-    "meta_text": "('G DBANG BLO BZANG RGYA MTSO (1617-1682)', 'text')",
+    "meta_text": "G DBANG BLO BZANG RGYA MTSO (1617-1682)",
     "cat_ref": "S05605",
     "work_ref": "W.S05605",
     "title_tib": "DPAL RDO RJE 'JIGS BYED KYI ZHI BA'I SBYIN SREG RAB DKAR BDUD RTZI'I BUM BZANG",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/SBYIN SREG_FIRE OFFERING (HOMA)",
-            "timestamp": "2024-11-20 05:11:08.747996+00:00"
+            "timestamp": "2024-11-26 23:35:02.988273+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:11:08.747996+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:35:02.988273+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

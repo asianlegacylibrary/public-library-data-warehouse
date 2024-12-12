@@ -6,9 +6,9 @@
     "revision_id": "625a48785c8308d294473",
     "content_hash": "d3220d08294cbc0fe0f86ec0605419de733ba668ecc8247caba3d8586e15d24b",
     "server_modified": "2024-10-29 21:47:18",
-    "last_sync": "2024-11-19 20:56:36.402614",
+    "last_sync": "2024-11-26 15:24:49.475833",
     "size": 692462,
-    "meta_text": "('(1357-1419)', 'rtf')",
+    "meta_text": "(1357-1419)",
     "cat_ref": "S05316E",
     "work_ref": "W.S05316E",
     "title_tib": "BDE MCHOG BSDUS PA'I RGYUD KYI RGYA CHER BSHAD PA SBAS PA'I DON KUN GSAL BA",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/'GREL PA_COMMENTARIES",
-            "timestamp": "2024-11-20 04:56:37.891192+00:00"
+            "timestamp": "2024-11-26 23:24:50.397481+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:56:37.891192+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:24:50.397481+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

@@ -6,9 +6,9 @@
     "revision_id": "625a4a6939d8f8d294473",
     "content_hash": "d22a7f2e16314bac848aa5d03e34a532476d4b08998982b8b46bb637a679a3b9",
     "server_modified": "2024-10-29 21:55:59",
-    "last_sync": "2024-11-19 21:18:28.261102",
+    "last_sync": "2024-11-26 15:40:02.689255",
     "size": 6910,
-    "meta_text": "('E (1762-1823)', 'rtf')",
+    "meta_text": "E (1762-1823)",
     "cat_ref": "S00948E",
     "work_ref": "W.S00948E",
     "title_tib": "PHA MA'I DRIN GZO TSUL DANG GSHIN POR MA nI BSKUL BA'I MGUR DBYANGS",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/PHA MA'I DRIN GZO_REPAYING THE KINDNESS OF OUR PARENTS",
-            "timestamp": "2024-11-20 05:18:28.265823+00:00"
+            "timestamp": "2024-11-26 23:40:02.697824+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME_GUNGTANG KONCHOK TENPAY DRUNME (1762-1823)",
-            "timestamp": "2024-11-20 05:20:19.660506+00:00"
+            "timestamp": "2024-11-26 23:41:23.490611+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:18:28.265823+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:40:02.697824+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:20:19.660506+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:41:23.490611+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

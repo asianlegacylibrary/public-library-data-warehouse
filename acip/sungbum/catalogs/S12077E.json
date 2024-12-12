@@ -6,9 +6,9 @@
     "revision_id": "625a4941642248d294473",
     "content_hash": "8809f7ce9eda4d26767e8082434308168fdfd9e2c74c9dfba68a5689a121391e",
     "server_modified": "2024-10-29 21:50:49",
-    "last_sync": "2024-11-19 21:06:31.903664",
+    "last_sync": "2024-11-26 15:31:48.809446",
     "size": 26905,
-    "meta_text": "('MS (1740-1810)', 'rtf')",
+    "meta_text": "MS (1740-1810)",
     "cat_ref": "S12077E",
     "work_ref": "W.S12077E",
     "title_tib": "DGRA LHA'I RTEN DAR BTZUGS NAS MCHOD PA'I CHO GA 'DOD DON KUN 'GRUB",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DGRA LHA_ANGEL WHO DEFEATS THE FOE/MCHOD PA_OFFERING",
-            "timestamp": "2024-11-20 05:06:31.907815+00:00"
+            "timestamp": "2024-11-26 23:31:48.814621+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DGRA LHA_ANGEL WHO DEFEATS THE FOE/RTEN_CONSTRUCTION OF AN IMAGE",
-            "timestamp": "2024-11-20 05:06:33.913292+00:00"
+            "timestamp": "2024-11-26 23:31:49.995653+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:06:31.907815+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:31:48.814621+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:06:33.913292+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:31:49.995653+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

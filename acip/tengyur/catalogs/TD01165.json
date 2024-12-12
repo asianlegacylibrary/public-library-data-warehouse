@@ -1,53 +1,47 @@
 {
     "name": "TD01165_DE BZHIN GSHEGS PA BDUN GYI BSTOD PA (Sapta Tathāgata Stotra).txt",
-    "path": "01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
+    "path": "BSTAN 'GYUR_Tengyur/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
     "download_path": "/tengyur updated 10 31 24 ws/01 bstod tsogs_songs of praise (stotra)/vol 1 (ka)/td01165_de bzhin gshegs pa bdun gyi bstod pa (sapta tathāgata stotra).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB3qQ",
     "revision_id": "62633bd20131d8d294473",
     "content_hash": "1170819ddadcc1f2601fb9c47dad5ea966aa8d0f39f2fc4391d689fd7ce9317a",
     "server_modified": "2024-11-06 00:38:38",
-    "last_sync": "2024-11-20 03:59:08.567010",
+    "last_sync": "2024-12-03 11:32:48.969062+00:00",
     "size": 2299,
-    "meta_text": null,
     "cat_ref": "TD01165",
     "work_ref": "W.TD01165",
-    "title_tib": "",
+    "title_tib": "DE BZHIN GSHEGS PA BDUN GYI BSTOD PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "243715146395",
             "subject_path": "BSTAN 'GYUR_Tengyur/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
-            "subject_path_tibetan": "BSTAN 'GYUR/01 BSTOD TSOGS/VOL 1 (KA)",
-            "subject_path_english": "Tengyur/Songs of Praise (Stotra)",
-            "subject_tibetan": "VOL 1 (KA)",
-            "subject_english": "Songs of Praise (Stotra)"
+            "subject_path_tibetan": "BSTAN 'GYUR/BSTOD TSOGS/1 (KA)",
+            "subject_path_english": "Tengyur/Songs of Praise (Stotra)/VOL 1 (KA)",
+            "subject_tibetan": "1 (KA)",
+            "subject_english": "VOL 1 (KA)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
-            "timestamp": "2024-11-20 11:59:09.231446+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Sapta Tathāgata Stotra",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:59:09.231446+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:32:48.974520+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
+            "timestamp": "2024-12-03 11:32:48.974520+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

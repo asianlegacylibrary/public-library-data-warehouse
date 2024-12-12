@@ -6,13 +6,13 @@
     "revision_id": "625a487e17ef48d294473",
     "content_hash": "a3a3588e2ec1895e4cdbeea27c4e510059a92f73b1588d5aaf5211461e152a81",
     "server_modified": "2024-10-29 21:47:24",
-    "last_sync": "2024-11-19 20:56:51.498199",
+    "last_sync": "2024-11-26 15:25:01.534957",
     "size": 32912,
-    "meta_text": "(\"en_MKHAN CHEN BLO BZANG BSTAN 'DZIN RGYAL MTSAN (1639-@)\", 'rtf')",
+    "meta_text": "en_MKHAN CHEN BLO BZANG BSTAN 'DZIN RGYAL MTSAN (1639-@)",
     "cat_ref": "S12267E",
     "work_ref": "W.S12267E",
     "title_tib": "MKHAN CHEN CHOS KYI RGYAL PO'I GSUNG 'BUM LAS SNYING PO DON GSUM GYI 'KHRID YIG BYAMS MGON PHO NYA",
-    "title_eng": "Messenger of the Protector, Loving One-- A Teaching on the Three Essential Practices from the Collected Works of that King of the Dharma, Kench(\"en",
+    "title_eng": "Messenger of the Protector, Loving One-- A Teaching on the Three Essential Practices from the Collected Works of that King of the Dharma, Kenchen",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SNYING PO DON GSUM_THREE ESSENTIAL PRACTICES/'GREL PA_COMMENTARIES",
-            "timestamp": "2024-11-20 04:56:51.503192+00:00"
+            "timestamp": "2024-11-26 23:25:01.544189+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:56:51.503192+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:25:01.544189+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

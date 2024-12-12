@@ -1,53 +1,47 @@
 {
     "name": "TD03724_TSUL KHRIMS DANG SDOM PA DANG DAM TSIGS MI 'GAL PA ZHES BYA BA (Śīla Saṃvara Samayavirodha (Nāma)).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/VOL 78 (TSU)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 78 (TSU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/vol 78 (tsu)/td03724_tsul khrims dang sdom pa dang dam tsigs mi 'gal pa zhes bya ba (śīla saṃvara samayavirodha (nāma)).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB42A",
     "revision_id": "62633c0c880d98d294473",
     "content_hash": "2884ba5eef1d287a5903ba629b63f178813f279af5ccaf3392813ed57ca2b539",
     "server_modified": "2024-11-06 00:39:39",
-    "last_sync": "2024-11-20 03:59:31.714228",
+    "last_sync": "2024-12-03 11:33:05.339006+00:00",
     "size": 10377,
-    "meta_text": null,
     "cat_ref": "TD03724",
     "work_ref": "W.TD03724",
-    "title_tib": "",
+    "title_tib": "TSUL KHRIMS DANG SDOM PA DANG DAM TSIGS MI 'GAL PA ZHES BYA BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "869790939477",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 78 (TSU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/VOL 78 (TSU)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)",
-            "subject_tibetan": "VOL 78 (TSU)",
-            "subject_english": "Diamond Way (Vajrayāna)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/78 (TSU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/VOL 78 (TSU)",
+            "subject_tibetan": "78 (TSU)",
+            "subject_english": "VOL 78 (TSU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 78 (TSU)",
-            "timestamp": "2024-11-20 11:59:31.750726+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Śīla Saṃvara Samayavirodha (Nāma)",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:59:31.750726+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:33:05.343861+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 78 (TSU)",
+            "timestamp": "2024-12-03 11:33:05.343861+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

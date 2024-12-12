@@ -6,9 +6,9 @@
     "revision_id": "625a485a430a78d294473",
     "content_hash": "64d26a64082d4cce34c6a943fb7883a1512733a8414101eef65ff54d8c880f45",
     "server_modified": "2024-10-29 21:46:47",
-    "last_sync": "2024-11-19 20:54:54.332911",
+    "last_sync": "2024-11-26 15:23:41.539392",
     "size": 57386,
-    "meta_text": "('G (1719-1794)', 'rtf')",
+    "meta_text": "G (1719-1794)",
     "cat_ref": "S06553E",
     "work_ref": "W.S06553E",
     "title_tib": "RGYA BOD DU BSTAN PA'I SBYIN BDAG RGYAL BLON JI LTAR BYUNG TSUL GYI MTSAN THO",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/CHOS 'BYUNG_RELIGIOUS HISTORIES/KLONG RDOL CHOS 'BYUNG_RELIGIOUS HISTORIES BY LONGDOL LAMA (1719-1794)",
-            "timestamp": "2024-11-20 04:54:55.040911+00:00"
+            "timestamp": "2024-11-26 23:23:41.993141+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/SPYI_GENERAL PRESENTATIONS",
-            "timestamp": "2024-11-20 05:16:36.734569+00:00"
+            "timestamp": "2024-11-26 23:38:45.589431+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:55.040911+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:41.993141+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:16:36.734569+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:38:45.589431+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

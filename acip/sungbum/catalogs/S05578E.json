@@ -6,13 +6,13 @@
     "revision_id": "625a48d4c3d448d294473",
     "content_hash": "abe5bf2e619fabfeefdfbd44b804851bcacae2dbeb641c2c3f67ea6026c5783b",
     "server_modified": "2024-10-29 21:48:55",
-    "last_sync": "2024-11-19 21:01:52.379496",
+    "last_sync": "2024-11-26 15:28:35.042633",
     "size": 7331,
-    "meta_text": "(\"Writings found in the Collected Works of the Holy and Omniscient One_RGYAL BA DGE 'DUN RGYA MTSO (1476-1542)\", 'text')",
+    "meta_text": "Writings found in the Collected Works of the Holy and Omniscient One_RGYAL BA DGE 'DUN RGYA MTSO (1476-1542)",
     "cat_ref": "S05578E",
     "work_ref": "W.S05578E",
     "title_tib": "RJE THAMS CAD MKHYEN PA'I GSUNG 'BUM THOR BU LAS 'JAM DBYANGS AA RA PA TZA NA'I MNGON RTOGS RJES GNANG DANG BCAS PA",
-    "title_eng": "A Ritual for Reaching Gentle Voice (Manjughosha) in the Form of Arapatsanadhi, along with a Rite of Permission, from Assorted(\"Writings found in the Collected Works of the Holy and Omniscient One",
+    "title_eng": "A Ritual for Reaching Gentle Voice (Manjughosha) in the Form of Arapatsanadhi, along with a Rite of Permission, from AssortedWritings found in the Collected Works of the Holy and Omniscient One",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JAM DBYANGS_GENTLE VOICE (MANJUGHOSHA, MANJUSHRI)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "timestamp": "2024-11-20 05:01:53.850794+00:00"
+            "timestamp": "2024-11-26 23:28:35.814348+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JAM DBYANGS_GENTLE VOICE (MANJUGHOSHA, MANJUSHRI)/RJES GNANG_RITES OF PERMISSION (ANUJNA)",
-            "timestamp": "2024-11-20 05:02:00.817133+00:00"
+            "timestamp": "2024-11-26 23:28:39.261100+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:01:53.850794+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:28:35.814348+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:02:00.817133+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:28:39.261100+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

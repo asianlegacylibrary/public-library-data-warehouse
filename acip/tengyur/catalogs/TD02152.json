@@ -1,53 +1,47 @@
 {
     "name": "TD02152_GNOD SBYIN GYI SDE DPON RNAMS SBYONG ZHING SEL BA ZHES BYA BA'I SGRUB THABS (Yakṣa Senāpati Viśodhanahara Sādhana (Nāma)).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/15 PHYAG NA RDO RJE_Holder of the Diamond (Vajrapāṇi)/01 'KHOR LO CHEN PO_The Great Wheel (Mahachakra)/VOL 48 (TSI)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/15 PHYAG NA RDO RJE_Holder of the Diamond (Vajrapāṇi)/01 'KHOR LO CHEN PO_The Great Wheel (Mahachakra)/VOL 48 (TSI)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/01 rnal 'byor bla med_unsurpassed practice (anuttara yoga)/15 phyag na rdo rje_holder of the diamond (vajrapāṇi)/01 'khor lo chen po_the great wheel (mahachakra)/vol 48 (tsi)/td02152_gnod sbyin gyi sde dpon rnams sbyong zhing sel ba zhes bya ba'i sgrub thabs (yakṣa senāpati viśodhanahara sādhana (nāma)).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB-sg",
     "revision_id": "62633d1801f258d294473",
     "content_hash": "fd79a562aeef0ec837342ffdceb1893f0a12ebf5b01b7265506668e7b8763909",
     "server_modified": "2024-11-06 00:44:20",
-    "last_sync": "2024-11-20 04:00:39.945399",
+    "last_sync": "2024-12-03 11:34:03.145258+00:00",
     "size": 4283,
-    "meta_text": null,
     "cat_ref": "TD02152",
     "work_ref": "W.TD02152",
-    "title_tib": "",
+    "title_tib": "GNOD SBYIN GYI SDE DPON RNAMS SBYONG ZHING SEL BA ZHES BYA BA'I SGRUB THABS",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "292150123590",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/15 PHYAG NA RDO RJE_Holder of the Diamond (Vajrapāṇi)/01 'KHOR LO CHEN PO_The Great Wheel (Mahachakra)/VOL 48 (TSI)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/01 RNAL 'BYOR BLA MED/15 PHYAG NA RDO RJE/01 'KHOR LO CHEN PO/VOL 48 (TSI)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Holder of the Diamond (Vajrapāṇi)/The Great Wheel (Mahachakra)",
-            "subject_tibetan": "VOL 48 (TSI)",
-            "subject_english": "The Great Wheel (Mahachakra)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/RNAL 'BYOR BLA MED/PHYAG NA RDO RJE/'KHOR LO CHEN PO/48 (TSI)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Holder of the Diamond (Vajrapāṇi)/The Great Wheel (Mahachakra)/VOL 48 (TSI)",
+            "subject_tibetan": "48 (TSI)",
+            "subject_english": "VOL 48 (TSI)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/15 PHYAG NA RDO RJE_Holder of the Diamond (Vajrapāṇi)/01 'KHOR LO CHEN PO_The Great Wheel (Mahachakra)/VOL 48 (TSI)",
-            "timestamp": "2024-11-20 12:00:39.955658+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Yakṣa Senāpati Viśodhanahara Sādhana (Nāma)",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:39.955658+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:34:03.147104+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/15 PHYAG NA RDO RJE_Holder of the Diamond (Vajrapāṇi)/01 'KHOR LO CHEN PO_The Great Wheel (Mahachakra)/VOL 48 (TSI)",
+            "timestamp": "2024-12-03 11:34:03.147104+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

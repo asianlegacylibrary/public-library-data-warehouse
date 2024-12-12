@@ -6,13 +6,13 @@
     "revision_id": "625a4815d66dd8d294473",
     "content_hash": "77223fb1beafc00556f452ca94e683dcc50b857549b195ba0776243ab658f10d",
     "server_modified": "2024-10-29 21:45:35",
-    "last_sync": "2024-11-19 20:53:32.386819",
+    "last_sync": "2024-11-26 15:22:46.629761",
     "size": 1240,
-    "meta_text": "('‘ (Chintamani Chakra)_DNGUL CHU DHARMA BHADRA (1772-1851)', 'rtf')",
+    "meta_text": "‘ (Chintamani Chakra)_DNGUL CHU DHARMA BHADRA (1772-1851)",
     "cat_ref": "S06370ER0",
     "work_ref": "W.S06370ER0",
     "title_tib": "SGROL DKAR YID BZHIN 'KHOR LO'I SNGAGS 'KHOR 'GOD TSUL LA DOGS GCOD",
-    "title_eng": "Further Clarification of Questions about How to Position the String of Secret Syllables in the Heart of the White Lady of Liberation (Tara) known as 'Wish-Fulfilling Wheel('‘ (Chintamani Chakra)",
+    "title_eng": "Further Clarification of Questions about How to Position the String of Secret Syllables in the Heart of the White Lady of Liberation (Tara) known as 'Wish-Fulfilling Wheel‘ (Chintamani Chakra)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 04:54:07.133371+00:00"
+            "timestamp": "2024-11-26 23:23:11.586192+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "timestamp": "2024-11-20 05:02:16.627249+00:00"
+            "timestamp": "2024-11-26 23:28:50.798127+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:07.133371+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:11.586192+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:02:16.627249+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:28:50.798127+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

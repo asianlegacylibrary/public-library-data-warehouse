@@ -6,13 +6,13 @@
     "revision_id": "625a480f156018d294473",
     "content_hash": "f22503cbbd357b48d0940985a096afdedd9941af377f60df82d091808fe3b102",
     "server_modified": "2024-10-29 21:45:28",
-    "last_sync": "2024-11-19 20:53:28.479801",
+    "last_sync": "2024-11-26 15:22:43.652823",
     "size": 854,
-    "meta_text": "('h to Enlightenment_DNGUL CHU DHARMA BHADRA (1772-1851)', 'rtf')",
+    "meta_text": "h to Enlightenment_DNGUL CHU DHARMA BHADRA (1772-1851)",
     "cat_ref": "S06370MR4",
     "work_ref": "W.S06370MR4",
     "title_tib": "BLO SBYONG DON BDUN MA'I GSUM PA RKYEN NGAN BYANG CHUB KYI LAM DU BSGYUR BA LA DRI LAN",
-    "title_eng": "Response to a Question on the Section in the 'Seven-Point Instruction for Developing a Good Heart' where It Describes Transforming Obstacles into a Pat('h to Enlightenment",
+    "title_eng": "Response to a Question on the Section in the 'Seven-Point Instruction for Developing a Good Heart' where It Describes Transforming Obstacles into a Path to Enlightenment",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 04:54:07.131703+00:00"
+            "timestamp": "2024-11-26 23:23:11.584234+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/BLO SBYONG_DEVELOPING THE GOOD HEART/BLO SBYONG DON BDUN MA_SEVEN-POINT PRACTICE FOR DEVELOPING THE GOOD HEART/DKA' GNAS_DIFFICULT POINTS",
-            "timestamp": "2024-11-20 05:24:45.290791+00:00"
+            "timestamp": "2024-11-26 23:44:18.737257+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:07.131703+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:11.584234+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:24:45.290791+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:44:18.737257+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

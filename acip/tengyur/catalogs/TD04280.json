@@ -1,53 +1,47 @@
 {
     "name": "TD04280_JAM DPAL GYI SGRA BRDA SPROD PA'I 'GREL PA STONG PHRAG BRGYAD PA (Aṣṭa Sāhasrikā Mañjuśrī Śabda Vyākaraṇa Vṛtti).txt",
-    "path": "12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 1 (RE)",
+    "path": "BSTAN 'GYUR_Tengyur/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 1 (RE)",
     "download_path": "/tengyur updated 10 31 24 ws/12 sgra mdo_study of sanskrit language (śabda)/vol 1 (re)/td04280_jam dpal gyi sgra brda sprod pa'i 'grel pa stong phrag brgyad pa (aṣṭa sāhasrikā mañjuśrī śabda vyākaraṇa vṛtti).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACD7w",
     "revision_id": "62633e04a3a488d294473",
     "content_hash": "3bdf5a5204325c1613bb3cd00f0ca83fede9909d9bba21ac1593a56334a18a40",
     "server_modified": "2024-11-06 00:48:28",
-    "last_sync": "2024-11-20 04:01:18.097974",
+    "last_sync": "2024-12-03 11:34:34.606374+00:00",
     "size": 399720,
-    "meta_text": null,
     "cat_ref": "TD04280",
     "work_ref": "W.TD04280",
-    "title_tib": "",
+    "title_tib": "JAM DPAL GYI SGRA BRDA SPROD PA'I 'GREL PA STONG PHRAG BRGYAD PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "299774484840",
             "subject_path": "BSTAN 'GYUR_Tengyur/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 1 (RE)",
-            "subject_path_tibetan": "BSTAN 'GYUR/12 SGRA MDO/VOL 1 (RE)",
-            "subject_path_english": "Tengyur/Study of Sanskrit Language (Śabda)",
-            "subject_tibetan": "VOL 1 (RE)",
-            "subject_english": "Study of Sanskrit Language (Śabda)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SGRA MDO/1 (RE)",
+            "subject_path_english": "Tengyur/Study of Sanskrit Language (Śabda)/VOL 1 (RE)",
+            "subject_tibetan": "1 (RE)",
+            "subject_english": "VOL 1 (RE)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 1 (RE)",
-            "timestamp": "2024-11-20 12:01:18.100329+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Aṣṭa Sāhasrikā Mañjuśrī Śabda Vyākaraṇa Vṛtti",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:18.100329+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:34:34.608199+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 1 (RE)",
+            "timestamp": "2024-12-03 11:34:34.608199+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

@@ -1,53 +1,47 @@
 {
     "name": "TD03183_'JAM DPAL GYI SGRUB THABS (Mañjuśrī Sādhana).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/VOL 74 (PHU)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 74 (PHU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/vol 74 (phu)/td03183_'jam dpal gyi sgrub thabs (mañjuśrī sādhana).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACDTw",
     "revision_id": "62633dd51a66c8d294473",
     "content_hash": "872b9922ea40fd69a9b683104a878f761876b20d6eaabc302ac57bc2bfba2e2e",
     "server_modified": "2024-11-06 00:47:38",
-    "last_sync": "2024-11-20 04:01:05.000477",
+    "last_sync": "2024-12-03 11:34:23.356586+00:00",
     "size": 932,
-    "meta_text": null,
     "cat_ref": "TD03183",
     "work_ref": "W.TD03183",
-    "title_tib": "",
+    "title_tib": "'JAM DPAL GYI SGRUB THABS",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "235929610804",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 74 (PHU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/VOL 74 (PHU)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)",
-            "subject_tibetan": "VOL 74 (PHU)",
-            "subject_english": "Diamond Way (Vajrayāna)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/74 (PHU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/VOL 74 (PHU)",
+            "subject_tibetan": "74 (PHU)",
+            "subject_english": "VOL 74 (PHU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 74 (PHU)",
-            "timestamp": "2024-11-20 12:01:05.034421+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Mañjuśrī Sādhana",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:05.034421+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:34:23.360090+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 74 (PHU)",
+            "timestamp": "2024-12-03 11:34:23.360090+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

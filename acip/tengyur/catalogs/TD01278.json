@@ -1,53 +1,46 @@
 {
     "name": "TD01278_CHOS SPYOD MDOR BSDUS PA'I BYA BA_(---.txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/01 KYE RDO RJE_Lo Diamond (Hevajra)/01 YAB SKOR_Father Texts (Pitṛ)/VOL 9 (TA)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/01 KYE RDO RJE_Lo Diamond (Hevajra)/01 YAB SKOR_Father Texts (Pitṛ)/VOL 9 (TA)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/01 rnal 'byor bla med_unsurpassed practice (anuttara yoga)/01 kye rdo rje_lo diamond (hevajra)/01 yab skor_father texts (pitṛ)/vol 9 (ta)/td01278_chos spyod mdor bsdus pa'i bya ba_(---.txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB9eQ",
     "revision_id": "62633ce044bf88d294473",
     "content_hash": "56b4da445c868d7a38047a672044d752bc23897b40df3846c6f3cfe5c1477d38",
     "server_modified": "2024-11-06 00:43:21",
-    "last_sync": "2024-11-20 04:00:26.386941",
+    "last_sync": "2024-12-03 11:33:51.755462+00:00",
     "size": 7082,
-    "meta_text": null,
     "cat_ref": "TD01278",
     "work_ref": "W.TD01278",
     "title_tib": "CHOS SPYOD MDOR BSDUS PA'I BYA BA",
     "title_eng": "(---",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "264957622235",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/01 KYE RDO RJE_Lo Diamond (Hevajra)/01 YAB SKOR_Father Texts (Pitṛ)/VOL 9 (TA)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/01 RNAL 'BYOR BLA MED/01 KYE RDO RJE/01 YAB SKOR/VOL 9 (TA)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Lo Diamond (Hevajra)/Father Texts (Pitṛ)",
-            "subject_tibetan": "VOL 9 (TA)",
-            "subject_english": "Father Texts (Pitṛ)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/RNAL 'BYOR BLA MED/KYE RDO RJE/YAB SKOR/9 (TA)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Lo Diamond (Hevajra)/Father Texts (Pitṛ)/VOL 9 (TA)",
+            "subject_tibetan": "9 (TA)",
+            "subject_english": "VOL 9 (TA)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/01 KYE RDO RJE_Lo Diamond (Hevajra)/01 YAB SKOR_Father Texts (Pitṛ)/VOL 9 (TA)",
-            "timestamp": "2024-11-20 12:00:26.393381+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:26.393381+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:33:51.759632+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/01 KYE RDO RJE_Lo Diamond (Hevajra)/01 YAB SKOR_Father Texts (Pitṛ)/VOL 9 (TA)",
+            "timestamp": "2024-12-03 11:33:51.759632+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

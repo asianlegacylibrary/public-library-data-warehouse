@@ -6,9 +6,9 @@
     "revision_id": "625a48f09ba7a8d294473",
     "content_hash": "2053e19ffa4a359c49f23598ed675320b8279b564bd02ae23539d840bb174996",
     "server_modified": "2024-10-29 21:49:24",
-    "last_sync": "2024-11-19 21:03:25.965377",
+    "last_sync": "2024-11-26 15:29:40.932122",
     "size": 10606,
-    "meta_text": "('-1933@)', 'rtf')",
+    "meta_text": "-1933@)",
     "cat_ref": "S00532E",
     "work_ref": "W.S00532E",
     "title_tib": "PHYI 'TSAMS CHEN MO'I YIG CHUNG GSAL BYED YANG CHUNG SGRON ME",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BSNYEN PA_RETREAT INSTRUCTIONS",
-            "timestamp": "2024-11-20 05:03:26.583813+00:00"
+            "timestamp": "2024-11-26 23:29:41.304262+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:03:26.583813+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:29:41.304262+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

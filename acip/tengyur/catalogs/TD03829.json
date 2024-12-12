@@ -1,53 +1,47 @@
 {
     "name": "TD03829_DBU MA RTZA BA'I 'GREL PA GA LAS 'JIGS MED (Mūla Madhyamaka Vṛttyakutobayā).txt",
-    "path": "04 DBU MA_Middle Way School (Madhyamaka)/VOL 1 (TZA)",
+    "path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 1 (TZA)",
     "download_path": "/tengyur updated 10 31 24 ws/04 dbu ma_middle way school (madhyamaka)/vol 1 (tza)/td03829_dbu ma rtza ba'i 'grel pa ga las 'jigs med (mūla madhyamaka vṛttyakutobayā).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB3bQ",
     "revision_id": "62633bca3eeb78d294473",
     "content_hash": "109607b8f6cab874a8e0be45477ffa4047d63b46db78182b2d58615b0f25a0ab",
     "server_modified": "2024-11-06 00:38:30",
-    "last_sync": "2024-11-20 03:59:06.398859",
+    "last_sync": "2024-12-03 11:32:46.980001+00:00",
     "size": 275297,
-    "meta_text": null,
     "cat_ref": "TD03829",
     "work_ref": "W.TD03829",
-    "title_tib": "",
+    "title_tib": "DBU MA RTZA BA'I 'GREL PA GA LAS 'JIGS MED",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "273700297115",
             "subject_path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 1 (TZA)",
-            "subject_path_tibetan": "BSTAN 'GYUR/04 DBU MA/VOL 1 (TZA)",
-            "subject_path_english": "Tengyur/Middle Way School (Madhyamaka)",
-            "subject_tibetan": "VOL 1 (TZA)",
-            "subject_english": "Middle Way School (Madhyamaka)"
+            "subject_path_tibetan": "BSTAN 'GYUR/DBU MA/1 (TZA)",
+            "subject_path_english": "Tengyur/Middle Way School (Madhyamaka)/VOL 1 (TZA)",
+            "subject_tibetan": "1 (TZA)",
+            "subject_english": "VOL 1 (TZA)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 1 (TZA)",
-            "timestamp": "2024-11-20 11:59:06.414608+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Mūla Madhyamaka Vṛttyakutobayā",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:59:06.414608+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:32:46.982712+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 1 (TZA)",
+            "timestamp": "2024-12-03 11:32:46.982712+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

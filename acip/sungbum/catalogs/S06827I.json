@@ -6,7 +6,7 @@
     "revision_id": "625a47a005a2e8d294473",
     "content_hash": "fd772f0ca29f4f6e078b93215b9728a2da7e6430712ea4c026df2efe6b45eab0",
     "server_modified": "2024-10-29 21:43:31",
-    "last_sync": "2024-11-19 20:48:19.856563",
+    "last_sync": "2024-11-26 15:19:24.104496",
     "size": 54527,
     "meta_text": null,
     "cat_ref": "S06827I",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/DON BDUN CU_THE 70 TOPICS",
-            "timestamp": "2024-11-20 04:48:19.861390+00:00"
+            "timestamp": "2024-11-26 23:19:24.109789+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:48:19.861390+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:19:24.109789+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

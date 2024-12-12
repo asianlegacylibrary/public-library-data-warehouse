@@ -6,9 +6,9 @@
     "revision_id": "625a4a9c69cd38d294473",
     "content_hash": "045d4e1a35ef87076646df327b2a53d2b3a4288013a246266c482744a8cc1610",
     "server_modified": "2024-10-29 21:56:53",
-    "last_sync": "2024-11-19 21:20:21.487973",
+    "last_sync": "2024-11-26 15:41:24.760429",
     "size": 18548,
-    "meta_text": "('PAn CHEN BSOD NAMS GRAGS PA (1478-1554)', 'rtf')",
+    "meta_text": "PAn CHEN BSOD NAMS GRAGS PA (1478-1554)",
     "cat_ref": "S12405E",
     "work_ref": "W.S12405E",
     "title_tib": "MKHAS PA DANG BLUN PO BRTAG PA'I BSTAN BCOS DGE LDAN LEGS BSHAD PADMA DKAR PO'I CHUN PO",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/PAn CHEN BSOD NAMS GRAGS PA_PANCHEN SONAM DRAKPA (1478-1554)",
-            "timestamp": "2024-11-20 05:20:21.493703+00:00"
+            "timestamp": "2024-11-26 23:41:24.767924+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:20:21.493703+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:41:24.767924+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

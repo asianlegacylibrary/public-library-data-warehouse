@@ -6,7 +6,7 @@
     "revision_id": "625a487bdb1ef8d294473",
     "content_hash": "517cc234b5db5737bbf3ff486f2803743850b63ec5a84131c5efdb3acaacd9e0",
     "server_modified": "2024-10-29 21:47:22",
-    "last_sync": "2024-11-19 20:56:47.682941",
+    "last_sync": "2024-11-26 15:24:58.782153",
     "size": 5404,
     "meta_text": null,
     "cat_ref": "S05367E",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DE NYID BSDUS PA_ABBREVIATION OF THE ESSENTIAL PRACTICE (TATTVASANGRAHA)/'GREL PA_COMMENTARIES",
-            "timestamp": "2024-11-20 04:56:47.688161+00:00"
+            "timestamp": "2024-11-26 23:24:58.789855+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:56:47.688161+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:24:58.789855+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

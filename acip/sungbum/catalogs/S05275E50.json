@@ -6,7 +6,7 @@
     "revision_id": "625a48a1b34ee8d294473",
     "content_hash": "4a75375616fd1ea93c48e1d1f93839848d0829d0c0cac3138e46b975cb9ef861",
     "server_modified": "2024-10-29 21:48:02",
-    "last_sync": "2024-11-19 20:58:56.808646",
+    "last_sync": "2024-11-26 15:26:35.273149",
     "size": 603,
     "meta_text": null,
     "cat_ref": "S05275E50",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GTZUG TOR_TOPKNOT (USHNISHA)/BSTOD PA_SONGS OF PRAISE (STOTRA)",
-            "timestamp": "2024-11-20 04:58:56.817579+00:00"
+            "timestamp": "2024-11-26 23:26:35.278335+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:58:56.817579+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:26:35.278335+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

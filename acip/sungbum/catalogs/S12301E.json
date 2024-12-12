@@ -6,7 +6,7 @@
     "revision_id": "625a4770d60f58d294473",
     "content_hash": "85ff26d8a21c2182cee4e258a0dd05d177507afc7a8c4b39a4419bf8efcadb92",
     "server_modified": "2024-10-29 21:42:42",
-    "last_sync": "2024-11-19 20:46:19.088528",
+    "last_sync": "2024-11-26 15:17:57.133802",
     "size": 18139,
     "meta_text": null,
     "cat_ref": "S12301E",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/MDO 'GREL_COMMENTARIES TO SUTRAS/'PHAGS PA RMAD DU BYUNG BA'I CHOS KYI RNAM GRANGS_EXALTED EXAMPLE OF THE DHARMA ENTITLED 'WONDROUS'",
-            "timestamp": "2024-11-20 04:46:19.095014+00:00"
+            "timestamp": "2024-11-26 23:17:57.141046+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:46:19.095014+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:17:57.141046+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

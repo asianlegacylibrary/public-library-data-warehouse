@@ -1,53 +1,47 @@
 {
     "name": "TD04153_'JIG RTEN KUN TU DGA' BA'I ZLOS GAR ZHES BYA BA (Lokānanda Nāṭaka).txt",
-    "path": "09 SKYES RABS_Stories of the Past Lives of the Buddha (Jātaka)/VOL 2 (AU)",
+    "path": "BSTAN 'GYUR_Tengyur/09 SKYES RABS_Stories of the Past Lives of the Buddha (Jātaka)/VOL 2 (AU)",
     "download_path": "/tengyur updated 10 31 24 ws/09 skyes rabs_stories of the past lives of the buddha (jātaka)/vol 2 (au)/td04153_'jig rten kun tu dga' ba'i zlos gar zhes bya ba (lokānanda nāṭaka).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB2xA",
     "revision_id": "62633ba05b57d8d294473",
     "content_hash": "9e950289c8db0357102e8313c0cb3ca5b5e83212f0cd0e5b971d309301d11ffa",
     "server_modified": "2024-11-06 00:37:46",
-    "last_sync": "2024-11-20 03:58:50.899089",
+    "last_sync": "2024-12-03 11:32:33.720389+00:00",
     "size": 114869,
-    "meta_text": null,
     "cat_ref": "TD04153",
     "work_ref": "W.TD04153",
-    "title_tib": "",
+    "title_tib": "'JIG RTEN KUN TU DGA' BA'I ZLOS GAR ZHES BYA BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "122155537754",
             "subject_path": "BSTAN 'GYUR_Tengyur/09 SKYES RABS_Stories of the Past Lives of the Buddha (Jātaka)/VOL 2 (AU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/09 SKYES RABS/VOL 2 (AU)",
-            "subject_path_english": "Tengyur/Stories of the Past Lives of the Buddha (Jātaka)",
-            "subject_tibetan": "VOL 2 (AU)",
-            "subject_english": "Stories of the Past Lives of the Buddha (Jātaka)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SKYES RABS/2 (AU)",
+            "subject_path_english": "Tengyur/Stories of the Past Lives of the Buddha (Jātaka)/VOL 2 (AU)",
+            "subject_tibetan": "2 (AU)",
+            "subject_english": "VOL 2 (AU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/09 SKYES RABS_Stories of the Past Lives of the Buddha (Jātaka)/VOL 2 (AU)",
-            "timestamp": "2024-11-20 11:58:50.905002+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Lokānanda Nāṭaka",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:58:50.905002+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:32:33.721175+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/09 SKYES RABS_Stories of the Past Lives of the Buddha (Jātaka)/VOL 2 (AU)",
+            "timestamp": "2024-12-03 11:32:33.721175+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

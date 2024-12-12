@@ -6,7 +6,7 @@
     "revision_id": "625a48e0457a88d294473",
     "content_hash": "58e25091c89b1da58674632551679227e6cab28a404646a723f60d760da63542",
     "server_modified": "2024-10-29 21:49:07",
-    "last_sync": "2024-11-19 21:02:31.807321",
+    "last_sync": "2024-11-26 15:29:01.128606",
     "size": 8025,
     "meta_text": null,
     "cat_ref": "S05977E80",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/GTOR MA_OFFERING CAKE (BALI)",
-            "timestamp": "2024-11-20 05:02:31.814265+00:00"
+            "timestamp": "2024-11-26 23:29:01.142618+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:02:31.814265+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:29:01.142618+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

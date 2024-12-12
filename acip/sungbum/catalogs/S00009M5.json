@@ -6,13 +6,13 @@
     "revision_id": "625a47989e12e8d294473",
     "content_hash": "82067ae9bd93e7d6dfa673a959abbb828ab786f8647578f1f6cd692ec1698ffd",
     "server_modified": "2024-10-29 21:43:24",
-    "last_sync": "2024-11-19 20:47:51.380750",
+    "last_sync": "2024-11-26 15:19:05.521364",
     "size": 79625,
-    "meta_text": "('y to the Classical Commentary Known as ‘The Ornament of Realizations’_MKHAS GRUB BSTAN PA DAR RGYAS (1493-1568)', 'rtf')",
+    "meta_text": "y to the Classical Commentary Known as ‘The Ornament of Realizations’_MKHAS GRUB BSTAN PA DAR RGYAS (1493-1568)",
     "cat_ref": "S00009M5",
     "work_ref": "W.S00009M5",
     "title_tib": "BSTAN BCOS MNGON PAR RTOGS PA'I RGYAN RTZA 'GREL GYI SPYI DON RNAM BSHAD SNYING PO RGYAN GYI SNANG BA PHAR PHYIN SPYI DON",
-    "title_eng": "'An Illumination of the 'Jewel of the Essence of Good Explanation',' being an Overview of the Root Text and Commentar('y to the Classical Commentary Known as ‘The Ornament of Realizations’",
+    "title_eng": "'An Illumination of the 'Jewel of the Essence of Good Explanation',' being an Overview of the Root Text and Commentary to the Classical Commentary Known as ‘The Ornament of Realizations’",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/SPYI_GENERAL COMMENTARIES/MKHAS GRUB BSTAN PA DAR RGYAS_KEDRUP TENPA DARGYE (1493-1568)/SPYI DON_OVERVIEW",
-            "timestamp": "2024-11-20 04:47:52.619464+00:00"
+            "timestamp": "2024-11-26 23:19:06.281853+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:47:52.619464+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:19:06.281853+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

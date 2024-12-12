@@ -6,13 +6,13 @@
     "revision_id": "625a48b2f49ee8d294473",
     "content_hash": "31813de3e4d9124809799c3331fff8f68107757437ee4e27caf7e091ee205eb9",
     "server_modified": "2024-10-29 21:48:20",
-    "last_sync": "2024-11-19 21:00:03.559299",
+    "last_sync": "2024-11-26 15:27:20.859096",
     "size": 37013,
-    "meta_text": "('the Tradition of Ghantapada; along with a Brief Practice for Bringing Oneself into this Secret World_ SKYABS RJE PHA BONG KHA PA BDE CHEN SNYING PO (1878-1941)', 'rtf')",
+    "meta_text": "the Tradition of Ghantapada; along with a Brief Practice for Bringing Oneself into this Secret World_ SKYABS RJE PHA BONG KHA PA BDE CHEN SNYING PO (1878-1941)",
     "cat_ref": "S00334E",
     "work_ref": "W.S00334E",
     "title_tib": "GRUB CHEN DRIL BU ZHABS LUGS 'KHOR LO SDOM PA LUS DKYIL GYI BUM BSKYED DANG BDAG 'JUG MDOR BSDUS",
-    "title_eng": "A Ritual for Creating the Sacred Vase of the Secret World of the Body in the Teachings of the Union of the Spheres (Chakrasamvara), according to('the Tradition of Ghantapada; along with a Brief Practice for Bringing Oneself into this Secret World",
+    "title_eng": "A Ritual for Creating the Sacred Vase of the Secret World of the Body in the Teachings of the Union of the Spheres (Chakrasamvara), according tothe Tradition of Ghantapada; along with a Brief Practice for Bringing Oneself into this Secret World",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'KHOR LO SDOM PA_UNION OF THE SPHERES (CHAKRASANVARA)/LUS DKYIL_SECRET WORLD OF THE BODY",
-            "timestamp": "2024-11-20 05:00:06.087721+00:00"
+            "timestamp": "2024-11-26 23:27:22.965963+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'KHOR LO SDOM PA_UNION OF THE SPHERES (CHAKRASANVARA)/BUM PA_VASE PRACTICES",
-            "timestamp": "2024-11-20 05:00:17.870347+00:00"
+            "timestamp": "2024-11-26 23:27:32.435239+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:00:06.087721+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:27:22.965963+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:00:17.870347+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:27:32.435239+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

@@ -1,53 +1,47 @@
 {
     "name": "TD04119-1_’DUL BA'I MDO'I 'GREL PA MNGON PAR BRJOD PA RANG GI RNAM PAR BSHAD PA ZHES BYA BA (Vinaya Sútra Vṛttyabhidhāna Svavyākhyāna (Nāma)).txt",
-    "path": "08 'DUL BA_Vowed Morality (Vinaya)/VOL 10 (ZHU)",
+    "path": "BSTAN 'GYUR_Tengyur/08 'DUL BA_Vowed Morality (Vinaya)/VOL 10 (ZHU)",
     "download_path": "/tengyur updated 10 31 24 ws/08 'dul ba_vowed morality (vinaya)/vol 10 (zhu)/td04119-1_’dul ba'i mdo'i 'grel pa mngon par brjod pa rang gi rnam par bshad pa zhes bya ba (vinaya sútra vṛttyabhidhāna svavyākhyāna (nāma)).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB2xw",
     "revision_id": "62633ba37e9f78d294473",
     "content_hash": "7bacdae3c0cffeac83e788d2d8b94784bd64fb66ffd2546c02adc4b3da8d6fea",
     "server_modified": "2024-11-06 00:37:49",
-    "last_sync": "2024-11-20 03:58:48.736519",
+    "last_sync": "2024-12-03 11:32:31.672264+00:00",
     "size": 1152545,
-    "meta_text": null,
     "cat_ref": "TD04119-1",
     "work_ref": "W.TD04119-1",
-    "title_tib": "",
+    "title_tib": "’DUL BA'I MDO'I 'GREL PA MNGON PAR BRJOD PA RANG GI RNAM PAR BSHAD PA ZHES BYA BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "247742261429",
             "subject_path": "BSTAN 'GYUR_Tengyur/08 'DUL BA_Vowed Morality (Vinaya)/VOL 10 (ZHU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/08 'DUL BA/VOL 10 (ZHU)",
-            "subject_path_english": "Tengyur/Vowed Morality (Vinaya)",
-            "subject_tibetan": "VOL 10 (ZHU)",
-            "subject_english": "Vowed Morality (Vinaya)"
+            "subject_path_tibetan": "BSTAN 'GYUR/'DUL BA/10 (ZHU)",
+            "subject_path_english": "Tengyur/Vowed Morality (Vinaya)/VOL 10 (ZHU)",
+            "subject_tibetan": "10 (ZHU)",
+            "subject_english": "VOL 10 (ZHU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/08 'DUL BA_Vowed Morality (Vinaya)/VOL 10 (ZHU)",
-            "timestamp": "2024-11-20 11:58:48.742228+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Vinaya Sútra Vṛttyabhidhāna Svavyākhyāna (Nāma)",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:58:48.742228+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:32:31.672741+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/08 'DUL BA_Vowed Morality (Vinaya)/VOL 10 (ZHU)",
+            "timestamp": "2024-12-03 11:32:31.672741+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

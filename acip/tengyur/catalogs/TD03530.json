@@ -1,53 +1,47 @@
 {
     "name": "TD03530_RANG BYIN GYIS BRLAB PA'I RIM PA'I 'OD ZER CAN GYI SGRUB THABS (Svādhiṣṭhāna Krama Mārīcīsādhana).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/vol 76 (mu)/td03530_rang byin gyis brlab pa'i rim pa'i 'od zer can gyi sgrub thabs (svādhiṣṭhāna krama mārīcīsādhana).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB_xQ",
     "revision_id": "62633d43669e48d294473",
     "content_hash": "691ffd8e9195139f8bcdce97ce6a4a8721de00b0f7d2604647a1e098c3882b22",
     "server_modified": "2024-11-06 00:45:05",
-    "last_sync": "2024-11-20 04:00:45.069794",
+    "last_sync": "2024-12-03 11:34:07.465780+00:00",
     "size": 3393,
-    "meta_text": null,
     "cat_ref": "TD03530",
     "work_ref": "W.TD03530",
-    "title_tib": "",
+    "title_tib": "RANG BYIN GYIS BRLAB PA'I RIM PA'I 'OD ZER CAN GYI SGRUB THABS",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "121782366104",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/VOL 76 (MU)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)",
-            "subject_tibetan": "VOL 76 (MU)",
-            "subject_english": "Diamond Way (Vajrayāna)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/76 (MU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/VOL 76 (MU)",
+            "subject_tibetan": "76 (MU)",
+            "subject_english": "VOL 76 (MU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
-            "timestamp": "2024-11-20 12:00:45.252829+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Svādhiṣṭhāna Krama Mārīcīsādhana",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:45.252829+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:34:07.478136+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
+            "timestamp": "2024-12-03 11:34:07.478136+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

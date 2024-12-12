@@ -1,53 +1,47 @@
 {
     "name": "TD01539_LHAN CIG SKYES PA'I DKYIL 'KHOR GSUM GSAL BAR BYED PA ZHES BYA BA (Sahaja Maṇḍala Tryāloka (Nāma)).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/01 YAB BKA'_Father Texts (Pitṛ)/02 SGRUB SKOR_Practice Materials (Sādhya)/VOL 22 (ZA)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/01 YAB BKA'_Father Texts (Pitṛ)/02 SGRUB SKOR_Practice Materials (Sādhya)/VOL 22 (ZA)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/01 rnal 'byor bla med_unsurpassed practice (anuttara yoga)/03 bde mchog_highest bliss (saṃvara)/01 yab bka'_father texts (pitṛ)/02 sgrub skor_practice materials (sādhya)/vol 22 (za)/td01539_lhan cig skyes pa'i dkyil 'khor gsum gsal bar byed pa zhes bya ba (sahaja maṇḍala tryāloka (nāma)).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB7Lw",
     "revision_id": "62633c72705548d294473",
     "content_hash": "9e779ab8afd32de6d93a3ad70de09f392a4835af8b5dfd7f0d9861ff64a652c6",
     "server_modified": "2024-11-06 00:41:26",
-    "last_sync": "2024-11-20 04:00:00.764226",
+    "last_sync": "2024-12-03 11:33:31.220290+00:00",
     "size": 14233,
-    "meta_text": null,
     "cat_ref": "TD01539",
     "work_ref": "W.TD01539",
-    "title_tib": "",
+    "title_tib": "LHAN CIG SKYES PA'I DKYIL 'KHOR GSUM GSAL BAR BYED PA ZHES BYA BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "209854412724",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/01 YAB BKA'_Father Texts (Pitṛ)/02 SGRUB SKOR_Practice Materials (Sādhya)/VOL 22 (ZA)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/01 RNAL 'BYOR BLA MED/03 BDE MCHOG/01 YAB BKA'/02 SGRUB SKOR/VOL 22 (ZA)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Highest Bliss (Saṃvara)/Father Texts (Pitṛ)/Practice Materials (Sādhya)",
-            "subject_tibetan": "VOL 22 (ZA)",
-            "subject_english": "Practice Materials (Sādhya)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/RNAL 'BYOR BLA MED/BDE MCHOG/YAB BKA'/SGRUB SKOR/22 (ZA)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Highest Bliss (Saṃvara)/Father Texts (Pitṛ)/Practice Materials (Sādhya)/VOL 22 (ZA)",
+            "subject_tibetan": "22 (ZA)",
+            "subject_english": "VOL 22 (ZA)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/01 YAB BKA'_Father Texts (Pitṛ)/02 SGRUB SKOR_Practice Materials (Sādhya)/VOL 22 (ZA)",
-            "timestamp": "2024-11-20 12:00:00.787093+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Sahaja Maṇḍala Tryāloka (Nāma)",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:00.787093+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:33:31.223654+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/01 YAB BKA'_Father Texts (Pitṛ)/02 SGRUB SKOR_Practice Materials (Sādhya)/VOL 22 (ZA)",
+            "timestamp": "2024-12-03 11:33:31.223654+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

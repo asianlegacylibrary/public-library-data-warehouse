@@ -6,13 +6,13 @@
     "revision_id": "625a47b7cf7238d294473",
     "content_hash": "96f808ff137660df6def64f8581ec9a9421133e9c9c016e92b50ed378b972f8d",
     "server_modified": "2024-10-29 21:43:56",
-    "last_sync": "2024-11-19 20:49:10.286056",
+    "last_sync": "2024-11-26 15:19:59.663416",
     "size": 253765,
-    "meta_text": "(\"Points in ‘The Logic Primer of Rato,’ Assembled Together in One Place_'JAM DPAL DGE 'DUN RGYA MTSO (&-&)\", 'rtf')",
+    "meta_text": "Points in ‘The Logic Primer of Rato,’ Assembled Together in One Place_'JAM DPAL DGE 'DUN RGYA MTSO (&-&)",
     "cat_ref": "S00020N",
     "work_ref": "W.S00020N",
     "title_tib": "RVA BA STOD KYI BSDUS GRVA'I DKA' GNAD RNAMS PHYOGS GCIG TU BKOD PA GZHUNG BZANG STONG GI SGO 'BYED LEGS BSHAD GSER GYI LDE'U MIG",
-    "title_eng": "The 'Key of Golden Explanation, which Opens the Doors of a Thousand Wonderful Texts,' a Discussion of Difficult(\"Points in ‘The Logic Primer of Rato,’ Assembled Together in One Place",
+    "title_eng": "The 'Key of Golden Explanation, which Opens the Doors of a Thousand Wonderful Texts,' a Discussion of DifficultPoints in ‘The Logic Primer of Rato,’ Assembled Together in One Place",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,23 +41,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/BSDUS GRVA_COLLECTED TOPICS OF LOGIC/SPYI_GENERAL TREATMENTS/RVA STOD BSDUS GRVA_THE COLLECTED TOPICS OF LOGIC FROM RATU MONASTERY/'GREL PA_COMMENTARY/'JAM DPAL DGE 'DUN RGYA MTSO_JAMPEL GENDUN GYATSO",
-            "timestamp": "2024-11-20 04:49:10.295744+00:00"
+            "timestamp": "2024-11-26 23:19:59.670336+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/BSDUS GRVA_COLLECTED TOPICS OF LOGIC/SPYI_GENERAL TREATMENTS/RVA STOD BSDUS GRVA_THE COLLECTED TOPICS OF LOGIC FROM RATU MONASTERY/'GREL PA_COMMENTARY/'JAM DPAL DGE 'DUN RGYA MTSO_JAMPEL GENDUN GYATSO",
-            "timestamp": "2024-11-20 04:49:12.672021+00:00"
+            "timestamp": "2024-11-26 23:20:01.023856+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:49:10.295744+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:19:59.670336+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T04:49:12.672021+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:20:01.023856+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

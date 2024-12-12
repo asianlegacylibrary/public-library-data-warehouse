@@ -6,13 +6,13 @@
     "revision_id": "625a4a9484fff8d294473",
     "content_hash": "a12a877094240ad2e41c6a82a6b02ee59fd99f9d037b552124f5c28ea95dc6ca",
     "server_modified": "2024-10-29 21:56:45",
-    "last_sync": "2024-11-19 21:20:02.021362",
+    "last_sync": "2024-11-26 15:41:10.852694",
     "size": 12668,
-    "meta_text": "(\"as well as Items such as Prayers to be Taken into the Care of the Lama and Such_PAn CHEN SKU PHRENG BZHI PA BSTAN PA'I NYI MA (1782-1853)\", 'rtf')",
+    "meta_text": "as well as Items such as Prayers to be Taken into the Care of the Lama and Such_PAn CHEN SKU PHRENG BZHI PA BSTAN PA'I NYI MA (1782-1853)",
     "cat_ref": "S12022E",
     "work_ref": "W.S12022E",
     "title_tib": "MDO SNGAGS KYI LAM GYI GNAD TSANG ZHING BLA MAS RJES 'DZIN GYI SMON TSIG SOGS NYAMS MGUR GYI SKOR",
-    "title_eng": "Works related to Songs of Spiritual Experience, including a Complete Description of All the Crucial Points of the Open and Secret Teachings, a(\"as well as Items such as Prayers to be Taken into the Care of the Lama and Such",
+    "title_eng": "Works related to Songs of Spiritual Experience, including a Complete Description of All the Crucial Points of the Open and Secret Teachings, aas well as Items such as Prayers to be Taken into the Care of the Lama and Such",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/PAn CHEN SKU PHRENG BZHI PA BSTAN PA'I NYI MA_PANCHEN KUTRENG SHIPA TENPAY NYIMA (1782-1853)",
-            "timestamp": "2024-11-20 05:20:02.759496+00:00"
+            "timestamp": "2024-11-26 23:41:11.308429+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/PAn CHEN SKU PHRENG BZHI PA BSTAN PA'I NYI MA_PANCHEN KUTRENG SHIPA TENPAY NYIMA (1782-1853)",
-            "timestamp": "2024-11-20 05:23:38.797135+00:00"
+            "timestamp": "2024-11-26 23:43:30.302123+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:20:02.759496+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:41:11.308429+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:23:38.797135+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:43:30.302123+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

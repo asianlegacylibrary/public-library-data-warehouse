@@ -6,7 +6,7 @@
     "revision_id": "625a4a77d10c08d294473",
     "content_hash": "d2d0546e635c26ad93d280450595e14a82644f6ef6f339efc41c6d7800140ff8",
     "server_modified": "2024-10-29 21:56:15",
-    "last_sync": "2024-11-19 21:18:41.658572",
+    "last_sync": "2024-11-26 15:40:12.667705",
     "size": 284749,
     "meta_text": null,
     "cat_ref": "S00069F",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/YON TAN GZHIR GYUR MA_SOURCE OF ALL MY GOOD/ENGLISH",
-            "timestamp": "2024-11-20 05:18:41.663051+00:00"
+            "timestamp": "2024-11-26 23:40:12.677053+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:18:41.663051+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:40:12.677053+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

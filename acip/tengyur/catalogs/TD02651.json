@@ -1,53 +1,47 @@
 {
     "name": "TD02651_SKU KHRUS KYI CHO GA (Snāna Vidhi).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/02 RNAL 'BYOR RGYUD_Secret Class of Practice (Yoga Tantra)/04 THAMS CAD GSANG BA DANG NGAN SONG SBYONG PA_Total Secret & Cleaning Out the Lower Realms (Sarvarahasya & Durgati Śodhana)/02 'PHROS PA_Derivative (Uttarika)/VOL 67 (JU)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/02 RNAL 'BYOR RGYUD_Secret Class of Practice (Yoga Tantra)/04 THAMS CAD GSANG BA DANG NGAN SONG SBYONG PA_Total Secret & Cleaning Out the Lower Realms (Sarvarahasya & Durgati Śodhana)/02 'PHROS PA_Derivative (Uttarika)/VOL 67 (JU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/02 rnal 'byor rgyud_secret class of practice (yoga tantra)/04 thams cad gsang ba dang ngan song sbyong pa_total secret & cleaning out the lower realms (sarvarahasya & durgati śodhana)/02 'phros pa_derivative (uttarika)/vol 67 (ju)/td02651_sku khrus kyi cho ga (snāna vidhi).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB4BA",
     "revision_id": "62633be1c39578d294473",
     "content_hash": "9716a5bc9fc870f8f81394ae68c9e6f65277b32626b0da87bdec5a4550f753fd",
     "server_modified": "2024-11-06 00:38:54",
-    "last_sync": "2024-11-20 03:59:13.049995",
+    "last_sync": "2024-12-03 11:32:51.542810+00:00",
     "size": 7313,
-    "meta_text": null,
     "cat_ref": "TD02651",
     "work_ref": "W.TD02651",
-    "title_tib": "",
+    "title_tib": "SKU KHRUS KYI CHO GA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "337689030264",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/02 RNAL 'BYOR RGYUD_Secret Class of Practice (Yoga Tantra)/04 THAMS CAD GSANG BA DANG NGAN SONG SBYONG PA_Total Secret & Cleaning Out the Lower Realms (Sarvarahasya & Durgati Śodhana)/02 'PHROS PA_Derivative (Uttarika)/VOL 67 (JU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/02 RNAL 'BYOR RGYUD/04 THAMS CAD GSANG BA DANG NGAN SONG SBYONG PA/02 'PHROS PA/VOL 67 (JU)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Secret Class of Practice (Yoga Tantra)/Total Secret & Cleaning Out the Lower Realms (Sarvarahasya & Durgati Śodhana)/Derivative (Uttarika)",
-            "subject_tibetan": "VOL 67 (JU)",
-            "subject_english": "Derivative (Uttarika)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/RNAL 'BYOR RGYUD/THAMS CAD GSANG BA DANG NGAN SONG SBYONG PA/'PHROS PA/67 (JU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Secret Class of Practice (Yoga Tantra)/Total Secret & Cleaning Out the Lower Realms (Sarvarahasya & Durgati Śodhana)/Derivative (Uttarika)/VOL 67 (JU)",
+            "subject_tibetan": "67 (JU)",
+            "subject_english": "VOL 67 (JU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/02 RNAL 'BYOR RGYUD_Secret Class of Practice (Yoga Tantra)/04 THAMS CAD GSANG BA DANG NGAN SONG SBYONG PA_Total Secret & Cleaning Out the Lower Realms (Sarvarahasya & Durgati Śodhana)/02 'PHROS PA_Derivative (Uttarika)/VOL 67 (JU)",
-            "timestamp": "2024-11-20 11:59:13.783771+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Snāna Vidhi",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:59:13.783771+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:32:51.546846+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/02 RNAL 'BYOR RGYUD_Secret Class of Practice (Yoga Tantra)/04 THAMS CAD GSANG BA DANG NGAN SONG SBYONG PA_Total Secret & Cleaning Out the Lower Realms (Sarvarahasya & Durgati Śodhana)/02 'PHROS PA_Derivative (Uttarika)/VOL 67 (JU)",
+            "timestamp": "2024-12-03 11:32:51.546846+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

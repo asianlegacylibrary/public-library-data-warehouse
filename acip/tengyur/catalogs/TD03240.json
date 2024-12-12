@@ -1,53 +1,47 @@
 {
     "name": "TD03240_NOR RGYUN MA'I GZUNGS KYI MAN NGAG (Vasu Dhārā Dhāraṇyupadeśa).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/VOL 75 (BU)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 75 (BU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/vol 75 (bu)/td03240_nor rgyun ma'i gzungs kyi man ngag (vasu dhārā dhāraṇyupadeśa).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACAvQ",
     "revision_id": "62633d6efbbfc8d294473",
     "content_hash": "3ca7aac3c6340c02ee94a1bfe593387510b996037995ee3018d8d79abd83b83e",
     "server_modified": "2024-11-06 00:45:51",
-    "last_sync": "2024-11-20 04:00:46.129824",
+    "last_sync": "2024-12-03 11:34:08.203862+00:00",
     "size": 1094,
-    "meta_text": null,
     "cat_ref": "TD03240",
     "work_ref": "W.TD03240",
-    "title_tib": "",
+    "title_tib": "NOR RGYUN MA'I GZUNGS KYI MAN NGAG",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "123568910388",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 75 (BU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/VOL 75 (BU)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)",
-            "subject_tibetan": "VOL 75 (BU)",
-            "subject_english": "Diamond Way (Vajrayāna)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/75 (BU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/VOL 75 (BU)",
+            "subject_tibetan": "75 (BU)",
+            "subject_english": "VOL 75 (BU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 75 (BU)",
-            "timestamp": "2024-11-20 12:00:46.184249+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Vasu Dhārā Dhāraṇyupadeśa",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:46.184249+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:34:08.207161+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 75 (BU)",
+            "timestamp": "2024-12-03 11:34:08.207161+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

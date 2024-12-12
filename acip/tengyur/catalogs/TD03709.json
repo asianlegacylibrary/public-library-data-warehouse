@@ -1,53 +1,47 @@
 {
     "name": "TD03709_DE KHO NA NYID LA 'JUG PA ZHES BYA BA BDE BAR GSHEGS PA'I BKA' MA LUS PA MDOR BSDUS TE BSHAD PA'I RAB TU BYED PA (Tattvāvatārākhyāsakala Sugata Vācasaṃkṣipta Vyākhyā Prakaraṇa).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/VOL 77 (TZU)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 77 (TZU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/vol 77 (tzu)/td03709_de kho na nyid la 'jug pa zhes bya ba bde bar gshegs pa'i bka' ma lus pa mdor bsdus te bshad pa'i rab tu byed pa (tattvāvatārākhyāsakala sugata vācasaṃkṣipta vyākhyā prakaraṇa).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB4_A",
     "revision_id": "62633c12de7698d294473",
     "content_hash": "96086a90d156a4b0d8c13fbe0eddd57ae876fa0920e695f2778e1e152ad2b603",
     "server_modified": "2024-11-06 00:39:46",
-    "last_sync": "2024-11-20 03:59:32.501601",
+    "last_sync": "2024-12-03 11:33:05.969938+00:00",
     "size": 143924,
-    "meta_text": null,
     "cat_ref": "TD03709",
     "work_ref": "W.TD03709",
-    "title_tib": "",
+    "title_tib": "DE KHO NA NYID LA 'JUG PA ZHES BYA BA BDE BAR GSHEGS PA'I BKA' MA LUS PA MDOR BSDUS TE BSHAD PA'I RAB TU BYED PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "159565358724",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 77 (TZU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/VOL 77 (TZU)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)",
-            "subject_tibetan": "VOL 77 (TZU)",
-            "subject_english": "Diamond Way (Vajrayāna)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/77 (TZU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/VOL 77 (TZU)",
+            "subject_tibetan": "77 (TZU)",
+            "subject_english": "VOL 77 (TZU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 77 (TZU)",
-            "timestamp": "2024-11-20 11:59:32.529467+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Tattvāvatārākhyāsakala Sugata Vācasaṃkṣipta Vyākhyā Prakaraṇa",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:59:32.529467+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:33:05.971005+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 77 (TZU)",
+            "timestamp": "2024-12-03 11:33:05.971005+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

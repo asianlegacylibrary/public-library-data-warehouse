@@ -6,13 +6,13 @@
     "revision_id": "625a4957ab8168d294473",
     "content_hash": "a4e5ec2c50b46f3831d509b2cfd0f17fa97d63c6e047dc98ab64b2a6ed517699",
     "server_modified": "2024-10-29 21:51:12",
-    "last_sync": "2024-11-19 21:07:22.075264",
+    "last_sync": "2024-11-26 15:32:23.961122",
     "size": 123900,
-    "meta_text": "('asamaja) RGYAL TSAB DAR MA RIN CHEN (1364-1432)', 'rtf')",
+    "meta_text": "asamaja) RGYAL TSAB DAR MA RIN CHEN (1364-1432)",
     "cat_ref": "S05421E",
     "work_ref": "W.S05421E",
     "title_tib": "DPAL GSANG BA 'DUS PA 'JAM PA'I RDO RJE'I DKYIL 'KHOR GYI CHO GA DNGOS GRUB KYI SNYE MA",
-    "title_eng": "The 'Harvest of Attainments,' a Ritual for the Secret World of Gentle Diamond (Manjuvajra) in the Secret Teaching of the Glorious Secret Collection (Guhy('asamaja) RGYAL TSAB DAR MA RIN CHEN (1364-1432)', 'rtf')",
+    "title_eng": "The 'Harvest of Attainments,' a Ritual for the Secret World of Gentle Diamond (Manjuvajra) in the Secret Teaching of the Glorious Secret Collection (Guhyasamaja) RGYAL TSAB DAR MA RIN CHEN (1364-1432)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -38,13 +38,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/DKYIL 'KHOR_SECRET WORLD (MANDALA)",
-            "timestamp": "2024-11-20 05:07:22.082639+00:00"
+            "timestamp": "2024-11-26 23:32:23.969744+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:07:22.082639+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:32:23.969744+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

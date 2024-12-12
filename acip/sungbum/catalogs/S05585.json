@@ -6,9 +6,9 @@
     "revision_id": "625a48c2491728d294473",
     "content_hash": "030da16c1b1cda03f21e46b692e70f3d3d1176560d305bb032985995176a48eb",
     "server_modified": "2024-10-29 21:48:36",
-    "last_sync": "2024-11-19 21:00:58.501246",
+    "last_sync": "2024-11-26 15:27:59.641730",
     "size": 1629,
-    "meta_text": "('1542)', 'text')",
+    "meta_text": "1542)",
     "cat_ref": "S05585",
     "work_ref": "W.S05585",
     "title_tib": "RJE BTZUN THAMS CAD MKHYEN PA'I GSUNG 'BUM THOR BU LAS SMAN BLA'I SHIS BRJOD",
@@ -31,8 +31,8 @@
     "author": [
         {
             "author_name": "RGYAL BA DGE 'DUN RGYA MTSO",
-            "author_birth": null,
-            "author_death": null,
+            "author_birth": "1476",
+            "author_death": "1542",
             "bdrc_id": "bdr:P84",
             "normalized_name": "RGYAL BA DGE 'DUN RGYA MTSO",
             "bdrc_url": "http://purl.bdrc.io/resource/P84"
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SMAN BLA_MEDICINE BUDDHA (BHAISHAJYAGURU)/SMON LAM_PRAYERS",
-            "timestamp": "2024-11-20 05:00:58.507526+00:00"
+            "timestamp": "2024-11-26 23:27:59.649829+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:00:58.507526+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:27:59.649829+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

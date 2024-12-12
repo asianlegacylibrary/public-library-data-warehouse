@@ -6,7 +6,7 @@
     "revision_id": "625a48080c3af8d294473",
     "content_hash": "142a4205c03a55f92eb7faeb4ba9330be86feaf5261364bdbf7d33ce74ca7eb9",
     "server_modified": "2024-10-29 21:45:21",
-    "last_sync": "2024-11-19 20:53:18.644119",
+    "last_sync": "2024-11-26 15:22:37.621803",
     "size": 34348,
     "meta_text": null,
     "cat_ref": "S12061E",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/SMAN_MEDICINE/SPYI_GENERAL TREATMENTS",
-            "timestamp": "2024-11-20 04:53:19.720464+00:00"
+            "timestamp": "2024-11-26 23:22:38.006014+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:53:19.720464+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:22:38.006014+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

@@ -6,9 +6,9 @@
     "revision_id": "625a491614a6a8d294473",
     "content_hash": "0e58a6e49e4b6f0f870e3e3a3660530e50ed7ff521b9dfdc33e4aaaa5733058c",
     "server_modified": "2024-10-29 21:50:04",
-    "last_sync": "2024-11-19 21:04:43.558423",
+    "last_sync": "2024-11-26 15:30:37.931393",
     "size": 16381,
-    "meta_text": "(\"AD PA'I RDO RJE (1648-1721)\", 'rtf')",
+    "meta_text": "AD PA'I RDO RJE (1648-1721)",
     "cat_ref": "S12124E",
     "work_ref": "W.S12124E",
     "title_tib": "RAB GNAS KYI BSHAD PA KUN MKHYEN CHEN PO 'JAM DBYANGS BZHAD PA'I RDO RJES MDZAD PAR GRAGS PA",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/RAB GNAS_CONSECRATION (SUPRATISHTHA)",
-            "timestamp": "2024-11-20 05:04:44.219897+00:00"
+            "timestamp": "2024-11-26 23:30:38.287363+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:04:44.219897+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:30:38.287363+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

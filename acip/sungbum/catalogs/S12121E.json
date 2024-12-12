@@ -6,13 +6,13 @@
     "revision_id": "625a48fecf8d68d294473",
     "content_hash": "952aadb8aa68ae7a4db83770a2ba16fe9859ac89df0a53a06bb38fcf71e6532e",
     "server_modified": "2024-10-29 21:49:39",
-    "last_sync": "2024-11-19 21:03:51.091288",
+    "last_sync": "2024-11-26 15:30:00.947245",
     "size": 7846,
-    "meta_text": "(\"One, the Omnisicient Jamyang Shepay Dorje_’JAM DBYANGS BZHAD PA'I RDO RJE (1648-1721)\", 'rtf')",
+    "meta_text": "One, the Omnisicient Jamyang Shepay Dorje_’JAM DBYANGS BZHAD PA'I RDO RJE (1648-1721)",
     "cat_ref": "S12121E",
     "work_ref": "W.S12121E",
     "title_tib": "KUN MKHYEN CHEN PO 'JAM DBYANGS BZHAD PA'I RDO RJE'I GSUNG 'BUM THOR BU LAS CHU GTOR DNGOS GRUB KUN 'BYUNG",
-    "title_eng": "The Source of Every Attainment, a Text on the Torma Cake Offering for Water from Various Writings in the Collected Works of the Great(\"One, the Omnisicient Jamyang Shepay Dorje",
+    "title_eng": "The Source of Every Attainment, a Text on the Torma Cake Offering for Water from Various Writings in the Collected Works of the GreatOne, the Omnisicient Jamyang Shepay Dorje",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/GTOR MA_OFFERING CAKE (BALI)",
-            "timestamp": "2024-11-20 05:04:02.183702+00:00"
+            "timestamp": "2024-11-26 23:30:08.347258+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:04:02.183702+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:30:08.347258+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

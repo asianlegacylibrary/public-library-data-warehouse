@@ -6,13 +6,13 @@
     "revision_id": "625a47e1e4b138d294473",
     "content_hash": "f345ad066db6a049ece746dcad07f245136f0c8d4eda26dbfcaef625cbe731e7",
     "server_modified": "2024-10-29 21:44:41",
-    "last_sync": "2024-11-19 20:51:43.435847",
+    "last_sync": "2024-11-26 15:21:34.825722",
     "size": 22160,
-    "meta_text": "(\"d Over the Secret Worlds_'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS (1648-1721)\", 'rtf')",
+    "meta_text": "d Over the Secret Worlds_'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS (1648-1721)",
     "cat_ref": "S19081E",
     "work_ref": "W.S19081E",
     "title_tib": "MTHA' BRAL SGRUB PA'I GTER MDZOD CES PA KHYAB BDAG DAM PA 'JAM DBYANGS BZHAD PA'I RDO RJE'I GSUNG RGYUN 'KHRUL MED",
-    "title_eng": "A Goldmine for Proving that Things are Free of the Two Extremes; An Unmistaken Teaching by Jamyang Shepay Dorje, High Lor(\"d Over the Secret Worlds",
+    "title_eng": "A Goldmine for Proving that Things are Free of the Two Extremes; An Unmistaken Teaching by Jamyang Shepay Dorje, High Lord Over the Secret Worlds",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/LTA KHRID_TEACHINGS ON CORRECT VIEW OF EMPTINESS",
-            "timestamp": "2024-11-20 04:51:44.047865+00:00"
+            "timestamp": "2024-11-26 23:21:35.268855+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/LTA BA BSGOM TSUL_HOW TO MEDITATE ON A CORRECT VIEW OF REALITY",
-            "timestamp": "2024-11-20 05:22:08.084184+00:00"
+            "timestamp": "2024-11-26 23:42:37.270250+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:51:44.047865+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:21:35.268855+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:22:08.084184+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:42:37.270250+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

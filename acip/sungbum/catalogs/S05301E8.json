@@ -6,7 +6,7 @@
     "revision_id": "625a494beb65c8d294473",
     "content_hash": "e54ecd3d96b807be878b7363648722356417aafdb3e6ac291172496773e51eaa",
     "server_modified": "2024-10-29 21:51:00",
-    "last_sync": "2024-11-19 21:07:07.349095",
+    "last_sync": "2024-11-26 15:32:12.449366",
     "size": 953,
     "meta_text": null,
     "cat_ref": "S05301E8",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/RDZOGS RIM_COMPLETION STAGE (SAMPANNA KRAMA)",
-            "timestamp": "2024-11-20 05:07:08.661212+00:00"
+            "timestamp": "2024-11-26 23:32:13.629411+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:07:08.661212+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:32:13.629411+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

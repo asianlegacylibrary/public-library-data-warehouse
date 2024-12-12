@@ -6,13 +6,13 @@
     "revision_id": "625a49908aad68d294473",
     "content_hash": "dba30b56344f1fc57524908b211ba8d5fa58aaa1752462e194c0287ac30ce39e",
     "server_modified": "2024-10-29 21:52:12",
-    "last_sync": "2024-11-19 21:10:30.992528",
+    "last_sync": "2024-11-26 15:34:36.553533",
     "size": 24092,
-    "meta_text": "('m as a Solitary Warrior (Eka Vira), and including the Instructions for Entering into His Secret World by Oneself_SKYABS RJE PHA BONG KHA PA BDE CHEN SNYING PO (1878-1941)', 'rtf')",
+    "meta_text": "m as a Solitary Warrior (Eka Vira), and including the Instructions for Entering into His Secret World by Oneself_SKYABS RJE PHA BONG KHA PA BDE CHEN SNYING PO (1878-1941)",
     "cat_ref": "S00330E",
     "work_ref": "W.S00330E",
     "title_tib": "BCOM LDAN 'DAS DPAL RDO RJE 'JIGS BYED DPA' BO GCIG PA'I SGRUB THABS SHIN TU MDOR BSDUS DANG, BDAG 'JUG SHIN TU BSDUS PA BCAS",
-    "title_eng": "An Extremely Brief Ritual for Reaching the Conqueror, the Glorious Diamond Frightener (Vajra Bhairava), in His For('m as a Solitary Warrior (Eka Vira), and including the Instructions for Entering into His Secret World by Oneself",
+    "title_eng": "An Extremely Brief Ritual for Reaching the Conqueror, the Glorious Diamond Frightener (Vajra Bhairava), in His Form as a Solitary Warrior (Eka Vira), and including the Instructions for Entering into His Secret World by Oneself",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "timestamp": "2024-11-20 05:10:39.236677+00:00"
+            "timestamp": "2024-11-26 23:34:41.976106+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/BDAG 'JUG_SELF INITIATION",
-            "timestamp": "2024-11-20 05:11:20.202370+00:00"
+            "timestamp": "2024-11-26 23:35:10.820324+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:10:39.236677+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:34:41.976106+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:11:20.202370+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:35:10.820324+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

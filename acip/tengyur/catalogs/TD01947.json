@@ -1,53 +1,47 @@
 {
     "name": "TD01947_GSHIN RJE GSHED NAG PO'I SGRUB PA'I THABS ZHES BYA BA (Kṛṣṇa Yamāri Sādhana (Nāma)).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/11 GSHIN RJE GSHED SPYI_General Category of Butcher of the Lord of Death (Yamāri Sāmānya)/01 GSHIN RJE GSHED_Butcher of the Lord of Death (Yamari)/VOL 46 (MI)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/11 GSHIN RJE GSHED SPYI_General Category of Butcher of the Lord of Death (Yamāri Sāmānya)/01 GSHIN RJE GSHED_Butcher of the Lord of Death (Yamari)/VOL 46 (MI)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/01 rnal 'byor bla med_unsurpassed practice (anuttara yoga)/11 gshin rje gshed spyi_general category of butcher of the lord of death (yamāri sāmānya)/01 gshin rje gshed_butcher of the lord of death (yamari)/vol 46 (mi)/td01947_gshin rje gshed nag po'i sgrub pa'i thabs zhes bya ba (kṛṣṇa yamāri sādhana (nāma)).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB8CQ",
     "revision_id": "62633c99a3fde8d294473",
     "content_hash": "6db0ff88dc1fc715b25b99a1e2a16e0d41e559fe5d1a386270f6e07e79bc528b",
     "server_modified": "2024-11-06 00:42:07",
-    "last_sync": "2024-11-20 04:00:07.315718",
+    "last_sync": "2024-12-03 11:33:36.967487+00:00",
     "size": 7519,
-    "meta_text": null,
     "cat_ref": "TD01947",
     "work_ref": "W.TD01947",
-    "title_tib": "",
+    "title_tib": "GSHIN RJE GSHED NAG PO'I SGRUB PA'I THABS ZHES BYA BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "249512981705",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/11 GSHIN RJE GSHED SPYI_General Category of Butcher of the Lord of Death (Yamāri Sāmānya)/01 GSHIN RJE GSHED_Butcher of the Lord of Death (Yamari)/VOL 46 (MI)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/01 RNAL 'BYOR BLA MED/11 GSHIN RJE GSHED SPYI/01 GSHIN RJE GSHED/VOL 46 (MI)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/General Category of Butcher of the Lord of Death (Yamāri Sāmānya)/Butcher of the Lord of Death (Yamari)",
-            "subject_tibetan": "VOL 46 (MI)",
-            "subject_english": "Butcher of the Lord of Death (Yamari)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/RNAL 'BYOR BLA MED/GSHIN RJE GSHED SPYI/GSHIN RJE GSHED/46 (MI)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/General Category of Butcher of the Lord of Death (Yamāri Sāmānya)/Butcher of the Lord of Death (Yamari)/VOL 46 (MI)",
+            "subject_tibetan": "46 (MI)",
+            "subject_english": "VOL 46 (MI)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/11 GSHIN RJE GSHED SPYI_General Category of Butcher of the Lord of Death (Yamāri Sāmānya)/01 GSHIN RJE GSHED_Butcher of the Lord of Death (Yamari)/VOL 46 (MI)",
-            "timestamp": "2024-11-20 12:00:07.321574+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Kṛṣṇa Yamāri Sādhana (Nāma)",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:07.321574+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:33:36.970496+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/11 GSHIN RJE GSHED SPYI_General Category of Butcher of the Lord of Death (Yamāri Sāmānya)/01 GSHIN RJE GSHED_Butcher of the Lord of Death (Yamari)/VOL 46 (MI)",
+            "timestamp": "2024-12-03 11:33:36.970496+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

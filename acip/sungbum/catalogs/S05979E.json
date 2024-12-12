@@ -6,13 +6,13 @@
     "revision_id": "625a490caf57a8d294473",
     "content_hash": "9382562766c4edc2dd075d251b674743218e2681b40b8ca3337ced30c0d138ac",
     "server_modified": "2024-10-29 21:49:54",
-    "last_sync": "2024-11-19 21:04:11.784902",
+    "last_sync": "2024-11-26 15:30:15.782220",
     "size": 36830,
-    "meta_text": "('ke_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)', 'rtf')",
+    "meta_text": "ke_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)",
     "cat_ref": "S05979E",
     "work_ref": "W.S05979E",
     "title_tib": "BSANGS KYI CHO GA DNGOS GRUB KYI GZI 'OD 'BAR BA NGO MTSAR RIN PO CHE'I PHRENG BA RGYAS PA",
-    "title_eng": "The Longer Version of 'An Incredible String of Jewels, Blazing with the Glory of Spiritual Attainments,' being a Ritual for the Offering of Sacred Smo('ke",
+    "title_eng": "The Longer Version of 'An Incredible String of Jewels, Blazing with the Glory of Spiritual Attainments,' being a Ritual for the Offering of Sacred Smoke",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BSANGS CHOG_RITUAL OF PURIFICATION",
-            "timestamp": "2024-11-20 05:04:13.103005+00:00"
+            "timestamp": "2024-11-26 23:30:16.468249+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:04:13.103005+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:30:16.468249+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

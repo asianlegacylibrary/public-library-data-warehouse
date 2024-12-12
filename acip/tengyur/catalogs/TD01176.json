@@ -1,53 +1,47 @@
 {
     "name": "TD01176_DPAL RI KHROD ZHABS KYI BSTOD PA RIN PO CHE (Śrī Śabara Pāda Stotra Ratna).txt",
-    "path": "01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
+    "path": "BSTAN 'GYUR_Tengyur/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
     "download_path": "/tengyur updated 10 31 24 ws/01 bstod tsogs_songs of praise (stotra)/vol 1 (ka)/td01176_dpal ri khrod zhabs kyi bstod pa rin po che (śrī śabara pāda stotra ratna).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB3xA",
     "revision_id": "62633bd5c88608d294473",
     "content_hash": "de7b70c7203ee4abc2469493c15d5e9a44713c6cc029b59ba1ee91c4576b099f",
     "server_modified": "2024-11-06 00:38:42",
-    "last_sync": "2024-11-20 03:59:09.198086",
+    "last_sync": "2024-12-03 11:32:48.970558+00:00",
     "size": 5775,
-    "meta_text": null,
     "cat_ref": "TD01176",
     "work_ref": "W.TD01176",
-    "title_tib": "",
+    "title_tib": "DPAL RI KHROD ZHABS KYI BSTOD PA RIN PO CHE",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "243715146395",
             "subject_path": "BSTAN 'GYUR_Tengyur/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
-            "subject_path_tibetan": "BSTAN 'GYUR/01 BSTOD TSOGS/VOL 1 (KA)",
-            "subject_path_english": "Tengyur/Songs of Praise (Stotra)",
-            "subject_tibetan": "VOL 1 (KA)",
-            "subject_english": "Songs of Praise (Stotra)"
+            "subject_path_tibetan": "BSTAN 'GYUR/BSTOD TSOGS/1 (KA)",
+            "subject_path_english": "Tengyur/Songs of Praise (Stotra)/VOL 1 (KA)",
+            "subject_tibetan": "1 (KA)",
+            "subject_english": "VOL 1 (KA)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
-            "timestamp": "2024-11-20 11:59:09.232080+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Śrī Śabara Pāda Stotra Ratna",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:59:09.232080+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:32:48.976450+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
+            "timestamp": "2024-12-03 11:32:48.976450+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

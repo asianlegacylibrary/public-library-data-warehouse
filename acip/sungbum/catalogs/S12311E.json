@@ -6,13 +6,13 @@
     "revision_id": "625a48a1b34fc8d294473",
     "content_hash": "8b41bbe8bcde46dc60a7a0f80f75d322da35efa6eb369e3e52b5fe0b40c1fa87",
     "server_modified": "2024-10-29 21:48:02",
-    "last_sync": "2024-11-19 20:59:04.255922",
+    "last_sync": "2024-11-26 15:26:40.405046",
     "size": 9774,
-    "meta_text": "(\"al Attainments— A Ritual for Reaching the Glorious One, the Holder of the Diamond (Vajrapani), in His form with Three Faces and Six Arms, a Drop of Deathless Nectar; together with a Rite for Granting Permission into His Practice_LCANG LUNG AARYA PAndI TA NGAG DBANG BLO BZANG BSTAN PA'I RGYAL MTSAN (1770-1845)\", 'rtf')",
+    "meta_text": "al Attainments— A Ritual for Reaching the Glorious One, the Holder of the Diamond (Vajrapani), in His form with Three Faces and Six Arms, a Drop of Deathless Nectar; together with a Rite for Granting Permission into His Practice_LCANG LUNG AARYA PAndI TA NGAG DBANG BLO BZANG BSTAN PA'I RGYAL MTSAN (1770-1845)",
     "cat_ref": "S12311E",
     "work_ref": "W.S12311E",
     "title_tib": "DPAL PHYAG NA RDO RJE ZHAL GSUM PHYAG DRUG PA BDUD RTZI THIG PA'I SGRUB THABS DANG RJES GNANG GI CHO GA GSANG BDAG DGYES PA'I MCHOD SPRIN DNGOS GRUB LEGS STZOL",
-    "title_eng": "A Cloud of Offerings to Please the Lord of Secrets, A Perfect Bestowal of Spiritu(\"al Attainments— A Ritual for Reaching the Glorious One, the Holder of the Diamond (Vajrapani), in His form with Three Faces and Six Arms, a Drop of Deathless Nectar; together with a Rite for Granting Permission into His Practice",
+    "title_eng": "A Cloud of Offerings to Please the Lord of Secrets, A Perfect Bestowal of Spiritual Attainments— A Ritual for Reaching the Glorious One, the Holder of the Diamond (Vajrapani), in His form with Three Faces and Six Arms, a Drop of Deathless Nectar; together with a Rite for Granting Permission into His Practice",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/PHYAG NA RDO RJE_HOLDER OF THE DIAMOND (VAJRAPANI)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "timestamp": "2024-11-20 04:59:08.123102+00:00"
+            "timestamp": "2024-11-26 23:26:43.304114+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/PHYAG NA RDO RJE_HOLDER OF THE DIAMOND (VAJRAPANI)/RJES GNANG_RITES OF PERMISSION (ANUJNA)",
-            "timestamp": "2024-11-20 04:59:17.771584+00:00"
+            "timestamp": "2024-11-26 23:26:49.310272+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:59:08.123102+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:26:43.304114+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T04:59:17.771584+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:26:49.310272+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

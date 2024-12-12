@@ -6,7 +6,7 @@
     "revision_id": "625a47fb8cf408d294473",
     "content_hash": "aafaf0489c7ab478e0394f7e17f8bcf8c99d677ae00385aa8dc196dbcf0577d3",
     "server_modified": "2024-10-29 21:45:07",
-    "last_sync": "2024-11-19 20:52:35.962998",
+    "last_sync": "2024-11-26 15:22:09.151487",
     "size": 7318,
     "meta_text": null,
     "cat_ref": "S05882M",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RTOGS BRJOD_LIVES OF INDIAN SAINTS (AVADANA)/KULIKA KIRTI (RIGS LDAN GRAGS PA)",
-            "timestamp": "2024-11-20 04:52:35.967704+00:00"
+            "timestamp": "2024-11-26 23:22:09.156237+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:52:35.967704+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:22:09.156237+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

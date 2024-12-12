@@ -6,13 +6,13 @@
     "revision_id": "625a48670a1aa8d294473",
     "content_hash": "dd33d4d058e225ae235aad3d7996fdff7bed00dc5e7baee95d772739aba74271",
     "server_modified": "2024-10-29 21:47:00",
-    "last_sync": "2024-11-19 20:55:39.052053",
+    "last_sync": "2024-11-26 15:24:11.786457",
     "size": 20069,
-    "meta_text": "(\"ected Works of that King of the Dharma, Kenchen_ MKHAN CHEN BLO BZANG BSTAN 'DZIN RGYAL MTSAN (1639-@)\", 'rtf')",
+    "meta_text": "ected Works of that King of the Dharma, Kenchen_ MKHAN CHEN BLO BZANG BSTAN 'DZIN RGYAL MTSAN (1639-@)",
     "cat_ref": "S12275E",
     "work_ref": "W.S12275E",
     "title_tib": "MKHAN CHEN CHOS KYI RGYAL PO'I GSUNG 'BUM LAS BDE MCHOG GI SGO NAS GSHIN PO'I CHO GA MKHA' SPYOD MYUR LAM",
-    "title_eng": "Fast Road to the Heaven of the AngeL--A Ritual for the Lord of Death in the Secret Teachings of Highest Bliss (Samvara); from the Coll(\"ected Works of that King of the Dharma, Kenchen",
+    "title_eng": "Fast Road to the Heaven of the AngeL--A Ritual for the Lord of Death in the Secret Teachings of Highest Bliss (Samvara); from the Collected Works of that King of the Dharma, Kenchen",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "timestamp": "2024-11-20 04:55:39.059042+00:00"
+            "timestamp": "2024-11-26 23:24:11.793873+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:55:39.059042+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:24:11.793873+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

@@ -1,53 +1,47 @@
 {
     "name": "TD01311_BDAG MED MA'I SGRUB PA'I THABS (Nairātmya Sādhana).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/01 KYE RDO RJE_Lo Diamond (Hevajra)/02 YUM SKOR_Mother Texts (Mātṛ)/VOL 9 (TA)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/01 KYE RDO RJE_Lo Diamond (Hevajra)/02 YUM SKOR_Mother Texts (Mātṛ)/VOL 9 (TA)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/01 rnal 'byor bla med_unsurpassed practice (anuttara yoga)/01 kye rdo rje_lo diamond (hevajra)/02 yum skor_mother texts (mātṛ)/vol 9 (ta)/td01311_bdag med ma'i sgrub pa'i thabs (nairātmya sādhana).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB80w",
     "revision_id": "62633cbfdb4718d294473",
     "content_hash": "8b391b32be3c884004d449ade1a6df2a91a9903b9385076d698348b7d21573c0",
     "server_modified": "2024-11-06 00:42:47",
-    "last_sync": "2024-11-20 04:00:16.911673",
+    "last_sync": "2024-12-03 11:33:45.095855+00:00",
     "size": 6143,
-    "meta_text": null,
     "cat_ref": "TD01311",
     "work_ref": "W.TD01311",
-    "title_tib": "",
+    "title_tib": "BDAG MED MA'I SGRUB PA'I THABS",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "323018613599",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/01 KYE RDO RJE_Lo Diamond (Hevajra)/02 YUM SKOR_Mother Texts (Mātṛ)/VOL 9 (TA)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/01 RNAL 'BYOR BLA MED/01 KYE RDO RJE/02 YUM SKOR/VOL 9 (TA)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Lo Diamond (Hevajra)/Mother Texts (Mātṛ)",
-            "subject_tibetan": "VOL 9 (TA)",
-            "subject_english": "Mother Texts (Mātṛ)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/RNAL 'BYOR BLA MED/KYE RDO RJE/YUM SKOR/9 (TA)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Lo Diamond (Hevajra)/Mother Texts (Mātṛ)/VOL 9 (TA)",
+            "subject_tibetan": "9 (TA)",
+            "subject_english": "VOL 9 (TA)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/01 KYE RDO RJE_Lo Diamond (Hevajra)/02 YUM SKOR_Mother Texts (Mātṛ)/VOL 9 (TA)",
-            "timestamp": "2024-11-20 12:00:16.927727+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Nairātmya Sādhana",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:16.927727+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:33:45.097964+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/01 KYE RDO RJE_Lo Diamond (Hevajra)/02 YUM SKOR_Mother Texts (Mātṛ)/VOL 9 (TA)",
+            "timestamp": "2024-12-03 11:33:45.097964+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

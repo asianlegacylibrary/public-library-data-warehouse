@@ -6,9 +6,9 @@
     "revision_id": "625a49b6958a48d294473",
     "content_hash": "3a8af01beca088aeb0b0ee7d6020cbba8eedb2dfd01a3ad3740a8cbf797dbd28",
     "server_modified": "2024-10-29 21:52:52",
-    "last_sync": "2024-11-19 21:12:01.076856",
+    "last_sync": "2024-11-26 15:35:36.542413",
     "size": 12070,
-    "meta_text": "(\"BZHI PA BSTAN PA'I NYI MA (1782-1853)\", 'rtf')",
+    "meta_text": "BZHI PA BSTAN PA'I NYI MA (1782-1853)",
     "cat_ref": "S12021E",
     "work_ref": "W.S12021E",
     "title_tib": "RDOR PHRENG MI TRA'I DBANG GI BRGYUD 'DEBS DANG BLA BRGYUD KHA SKONG GI SKOR BCAS",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE PHRENG BA_STRING OF DIAMONDS (VAJRAMALA)/BLA BRGYUD_LAMA LINEAGE TREES",
-            "timestamp": "2024-11-20 05:12:01.083312+00:00"
+            "timestamp": "2024-11-26 23:35:36.550828+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:12:01.083312+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:35:36.550828+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

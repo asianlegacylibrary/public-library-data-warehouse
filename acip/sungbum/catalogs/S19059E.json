@@ -6,7 +6,7 @@
     "revision_id": "625a47761352c8d294473",
     "content_hash": "efb2b7f8d35aed59e8d900027b47a74065cb958d640623d8397fa3fab08d4e19",
     "server_modified": "2024-10-29 21:42:47",
-    "last_sync": "2024-11-19 20:46:42.213281",
+    "last_sync": "2024-11-26 15:18:12.743673",
     "size": 18658,
     "meta_text": null,
     "cat_ref": "S19059E",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/CHOS 'KHOR_TURNING OF THE WHEEL",
-            "timestamp": "2024-11-20 04:46:42.217872+00:00"
+            "timestamp": "2024-11-26 23:18:12.749870+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:46:42.217872+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:18:12.749870+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

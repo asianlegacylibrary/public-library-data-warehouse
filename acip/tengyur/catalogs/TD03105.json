@@ -1,53 +1,47 @@
 {
     "name": "TD03105_GTZUG TOR NAS BYUNG BA'I GDUGS DKAR MO CAN GYI SBYIN SREG GI CHO GA (Uṣṇīṣa Sitātapatrā Homa Vidhi).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/VOL 73 (PU)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 73 (PU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/vol 73 (pu)/td03105_gtzug tor nas byung ba'i gdugs dkar mo can gyi sbyin sreg gi cho ga (uṣṇīṣa sitātapatrā homa vidhi).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACBFg",
     "revision_id": "62633d80634838d294473",
     "content_hash": "e57f436ebfdaca1775e74db0ece237f7a378dab94cd6746dacd41e876b46b25a",
     "server_modified": "2024-11-06 00:46:09",
-    "last_sync": "2024-11-20 04:00:48.318597",
+    "last_sync": "2024-12-03 11:34:10.191611+00:00",
     "size": 6820,
-    "meta_text": null,
     "cat_ref": "TD03105",
     "work_ref": "W.TD03105",
-    "title_tib": "",
+    "title_tib": "GTZUG TOR NAS BYUNG BA'I GDUGS DKAR MO CAN GYI SBYIN SREG GI CHO GA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "185746237611",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 73 (PU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/VOL 73 (PU)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)",
-            "subject_tibetan": "VOL 73 (PU)",
-            "subject_english": "Diamond Way (Vajrayāna)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/73 (PU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/VOL 73 (PU)",
+            "subject_tibetan": "73 (PU)",
+            "subject_english": "VOL 73 (PU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 73 (PU)",
-            "timestamp": "2024-11-20 12:00:49.202321+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Uṣṇīṣa Sitātapatrā Homa Vidhi",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:49.202321+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:34:10.197055+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 73 (PU)",
+            "timestamp": "2024-12-03 11:34:10.197055+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

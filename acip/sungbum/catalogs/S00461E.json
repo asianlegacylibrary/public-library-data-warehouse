@@ -6,7 +6,7 @@
     "revision_id": "625a491cb65b28d294473",
     "content_hash": "28cec8924860102f35acb6ca204f0429200659d0bfcb6ab42e5efe25fef516d0",
     "server_modified": "2024-10-29 21:50:11",
-    "last_sync": "2024-11-19 21:05:04.986223",
+    "last_sync": "2024-11-26 15:30:52.191586",
     "size": 9633,
     "meta_text": null,
     "cat_ref": "S00461E",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SNGAGS_SECRET WORDS (MANTRA)",
-            "timestamp": "2024-11-20 05:05:08.999214+00:00"
+            "timestamp": "2024-11-26 23:30:54.747951+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:05:08.999214+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:30:54.747951+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

@@ -1,53 +1,47 @@
 {
     "name": "TD04011_'PHAGS PA KUN TU BZANG PO SPYOD PA'I SMON LAM GYI RGYAL PO CHEN PO'I BSHAD SBYAR (Ārya Bhadra Caryāpraṇidhāna Mahārājani Bandhana).txt",
-    "path": "05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 5 (NYI)",
+    "path": "BSTAN 'GYUR_Tengyur/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 5 (NYI)",
     "download_path": "/tengyur updated 10 31 24 ws/05 mdo 'grel_commentaries to sutras (sūtra vṛtti)/vol 5 (nyi)/td04011_'phags pa kun tu bzang po spyod pa'i smon lam gyi rgyal po chen po'i bshad sbyar (ārya bhadra caryāpraṇidhāna mahārājani bandhana).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB1rw",
     "revision_id": "62633b397f73a8d294473",
     "content_hash": "a57c484bc80dedab75bf85c7d978982f863e4b6a873bf4e015fc1b56d6400dd1",
     "server_modified": "2024-11-06 00:35:58",
-    "last_sync": "2024-11-20 03:58:08.974554",
+    "last_sync": "2024-12-03 11:31:55.320953+00:00",
     "size": 73351,
-    "meta_text": null,
     "cat_ref": "TD04011",
     "work_ref": "W.TD04011",
-    "title_tib": "",
+    "title_tib": "'PHAGS PA KUN TU BZANG PO SPYOD PA'I SMON LAM GYI RGYAL PO CHEN PO'I BSHAD SBYAR",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "328587798288",
             "subject_path": "BSTAN 'GYUR_Tengyur/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 5 (NYI)",
-            "subject_path_tibetan": "BSTAN 'GYUR/05 MDO 'GREL/VOL 5 (NYI)",
-            "subject_path_english": "Tengyur/Commentaries to Sutras (Sūtra Vṛtti)",
-            "subject_tibetan": "VOL 5 (NYI)",
-            "subject_english": "Commentaries to Sutras (Sūtra Vṛtti)"
+            "subject_path_tibetan": "BSTAN 'GYUR/MDO 'GREL/5 (NYI)",
+            "subject_path_english": "Tengyur/Commentaries to Sutras (Sūtra Vṛtti)/VOL 5 (NYI)",
+            "subject_tibetan": "5 (NYI)",
+            "subject_english": "VOL 5 (NYI)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 5 (NYI)",
-            "timestamp": "2024-11-20 11:58:10.063846+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Ārya Bhadra Caryāpraṇidhāna Mahārājani Bandhana",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:58:10.063846+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:31:55.321883+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 5 (NYI)",
+            "timestamp": "2024-12-03 11:31:55.321883+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

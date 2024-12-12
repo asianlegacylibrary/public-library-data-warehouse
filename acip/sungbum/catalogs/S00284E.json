@@ -6,13 +6,13 @@
     "revision_id": "625a48dbe41b48d294473",
     "content_hash": "329e30ea95e520abd5045bbf619e285ad583ccbe31b05f3ef6c4caafab5d83fd",
     "server_modified": "2024-10-29 21:49:03",
-    "last_sync": "2024-11-19 21:02:20.471179",
+    "last_sync": "2024-11-26 15:28:53.267569",
     "size": 8410,
-    "meta_text": "('_& (&-&)', 'rtf')",
+    "meta_text": "_& (&-&)",
     "cat_ref": "S00284E",
     "work_ref": "W.S00284E",
     "title_tib": "SGROL MA TZITTA MA nI DANG 'BREL BA'I MAndAL BZHI CHOG MDOR BSDUS BYA TSUL",
-    "title_eng": "Instructions for a Briefer Version of the Practice of the Four Mandalas, Connected with 'The Wish-Giving Jewel Ritual' in the Teaching of the Lady of Liberation (Tara)& (&-&)', 'rtf')",
+    "title_eng": "Instructions for a Briefer Version of the Practice of the Four Mandalas, Connected with 'The Wish-Giving Jewel Ritual' in the Teaching of the Lady of Liberation (Tara)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -38,13 +38,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SGROL MA_LADY OF LIBERATION (TARA)/MAndAL BZHI_RITUAL OF THE FOUR SECRET WORLDS",
-            "timestamp": "2024-11-20 05:02:21.077145+00:00"
+            "timestamp": "2024-11-26 23:28:53.626637+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:02:21.077145+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:28:53.626637+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

@@ -1,53 +1,47 @@
 {
     "name": "TD03804_SHES RAB KYI PHA ROL TU PHYIN PA'I DON BSDUS SGRON MA (Prajñā Pāramitā Piṇḍārtha Pradīpa).txt",
-    "path": "03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 10 (THA)",
+    "path": "BSTAN 'GYUR_Tengyur/03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 10 (THA)",
     "download_path": "/tengyur updated 10 31 24 ws/03 shes phyin_perfection of wisdom (prajñā pāramitā)/vol 10 (tha)/td03804_shes rab kyi pha rol tu phyin pa'i don bsdus sgron ma (prajñā pāramitā piṇḍārtha pradīpa).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACEvA",
     "revision_id": "62633e39e33638d294473",
     "content_hash": "24ccfaff9d4e1ba48211158dbafef4c6e565a9e1d8bc11eb6ccf7c8db5989b37",
     "server_modified": "2024-11-06 00:49:24",
-    "last_sync": "2024-11-20 04:01:32.296915",
+    "last_sync": "2024-12-03 11:34:46.490782+00:00",
     "size": 34553,
-    "meta_text": null,
     "cat_ref": "TD03804",
     "work_ref": "W.TD03804",
-    "title_tib": "",
+    "title_tib": "SHES RAB KYI PHA ROL TU PHYIN PA'I DON BSDUS SGRON MA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "197075218957",
             "subject_path": "BSTAN 'GYUR_Tengyur/03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 10 (THA)",
-            "subject_path_tibetan": "BSTAN 'GYUR/03 SHES PHYIN/VOL 10 (THA)",
-            "subject_path_english": "Tengyur/Perfection of Wisdom (Prajñā Pāramitā)",
-            "subject_tibetan": "VOL 10 (THA)",
-            "subject_english": "Perfection of Wisdom (Prajñā Pāramitā)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SHES PHYIN/10 (THA)",
+            "subject_path_english": "Tengyur/Perfection of Wisdom (Prajñā Pāramitā)/VOL 10 (THA)",
+            "subject_tibetan": "10 (THA)",
+            "subject_english": "VOL 10 (THA)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 10 (THA)",
-            "timestamp": "2024-11-20 12:01:32.304651+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Prajñā Pāramitā Piṇḍārtha Pradīpa",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:32.304651+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:34:46.491514+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 10 (THA)",
+            "timestamp": "2024-12-03 11:34:46.491514+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

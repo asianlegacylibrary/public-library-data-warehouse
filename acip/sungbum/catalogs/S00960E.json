@@ -6,13 +6,13 @@
     "revision_id": "625a47c9538c08d294473",
     "content_hash": "93bad84296b7b7f2a0d2b930445b63e5884259a363005401e58ad5111e1c5f76",
     "server_modified": "2024-10-29 21:44:15",
-    "last_sync": "2024-11-19 20:50:28.313953",
+    "last_sync": "2024-11-26 15:20:47.590961",
     "size": 25097,
-    "meta_text": "(\"art] in a Number of Various Forms, such as the Wheel of Excellence connected with the Life Stories of Holy Beings of the Early Keepers of the Word (the Kadampas)_GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME (1762-1823)\", 'rtf')",
+    "meta_text": "art] in a Number of Various Forms, such as the Wheel of Excellence connected with the Life Stories of Holy Beings of the Early Keepers of the Word (the Kadampas)_GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME (1762-1823)",
     "cat_ref": "S00960E",
     "work_ref": "W.S00960E",
     "title_tib": "BKA' GDAMS GONG MA'I RNAM THAR DANG 'BREL BA'I KUN BZANG 'KHOR LO SOGS KUN 'KHOR SNA TSOGS KYI SKOR NGO MTSAR 'PHRUL GYI LEGS BSHAD",
-    "title_eng": "'An Amazing Machine of Words of Eloquence,' being Writings on the Circle of Excellence [a Kind of Poetical Ch(\"art] in a Number of Various Forms, such as the Wheel of Excellence connected with the Life Stories of Holy Beings of the Early Keepers of the Word (the Kadampas)",
+    "title_eng": "'An Amazing Machine of Words of Eloquence,' being Writings on the Circle of Excellence [a Kind of Poetical Chart] in a Number of Various Forms, such as the Wheel of Excellence connected with the Life Stories of Holy Beings of the Early Keepers of the Word (the Kadampas)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/BSTOD PA_EULOGIES (STOTRA)/BKA' GDAMS GONG MA_EARLY TEACHERS OF THE KADAMPA",
-            "timestamp": "2024-11-20 04:50:28.318559+00:00"
+            "timestamp": "2024-11-26 23:20:47.599191+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:50:28.318559+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:20:47.599191+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

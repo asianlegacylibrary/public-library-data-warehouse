@@ -6,9 +6,9 @@
     "revision_id": "625a499879ede8d294473",
     "content_hash": "cb902dd30746d3c269d0c19225cf3b2af290a49865e496f4478f2f89c9ea2c44",
     "server_modified": "2024-10-29 21:52:20",
-    "last_sync": "2024-11-19 21:10:48.169274",
+    "last_sync": "2024-11-26 15:34:48.391925",
     "size": 52982,
-    "meta_text": "('BLO BZANG TSUL KHRIMS (1740-1810)', 'rtf')",
+    "meta_text": "BLO BZANG TSUL KHRIMS (1740-1810)",
     "cat_ref": "S12053E",
     "work_ref": "W.S12053E",
     "title_tib": "DPAL RDO RJE 'JIGS BYED DPA' BO GCIG PA'I BSNYEN YIG MDOR BSDUS",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/BSNYEN PA_RETREAT INSTRUCTIONS",
-            "timestamp": "2024-11-20 05:10:50.326254+00:00"
+            "timestamp": "2024-11-26 23:34:49.549290+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:10:50.326254+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:34:49.549290+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

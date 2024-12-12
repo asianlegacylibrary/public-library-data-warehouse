@@ -6,7 +6,7 @@
     "revision_id": "625a485a430a28d294473",
     "content_hash": "5dcf95cae999fbe2ef78874991a9a44a3acad82b9cb48d2abd05205dc24fe035",
     "server_modified": "2024-10-29 21:46:47",
-    "last_sync": "2024-11-19 20:54:52.061020",
+    "last_sync": "2024-11-26 15:23:40.208968",
     "size": 147731,
     "meta_text": null,
     "cat_ref": "S12406E",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/CHOS 'BYUNG_RELIGIOUS HISTORIES/DEB THER DMAR PO_RED ANNALS",
-            "timestamp": "2024-11-20 04:54:52.065608+00:00"
+            "timestamp": "2024-11-26 23:23:40.215058+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:52.065608+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:40.215058+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

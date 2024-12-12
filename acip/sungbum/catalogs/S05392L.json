@@ -6,7 +6,7 @@
     "revision_id": "625a4a55746ae8d294473",
     "content_hash": "b2c32cd7ece24f0a26373fa0bef8b793ff1b8650bc5782ec920ac49c665187c6",
     "server_modified": "2024-10-29 21:55:39",
-    "last_sync": "2024-11-19 21:17:08.413171",
+    "last_sync": "2024-11-26 15:39:05.613835",
     "size": 1413109,
     "meta_text": null,
     "cat_ref": "S05392L",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/LAM RIM CHEN MO_GREAT BOOK ON THE STEPS OF THE PATH/RTZA BA_ROOT TEXT",
-            "timestamp": "2024-11-20 05:17:08.417366+00:00"
+            "timestamp": "2024-11-26 23:39:05.618973+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:17:08.417366+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:39:05.618973+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

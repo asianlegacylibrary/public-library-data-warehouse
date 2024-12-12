@@ -1,53 +1,47 @@
 {
     "name": "TD04456_GTOR MA'I PHRENG BA (Balimalika).txt",
-    "path": "16 SNA TSOGS_Miscellany (Citritā)/VOL 9 (PO)",
+    "path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 9 (PO)",
     "download_path": "/tengyur updated 10 31 24 ws/16 sna tsogs_miscellany (citritā)/vol 9 (po)/td04456_gtor ma'i phreng ba (balimalika).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACEhA",
     "revision_id": "62633e1e9f5368d294473",
     "content_hash": "9e7a30a817f31b96d3132b1e787fc2b6c2ce3a58c50f94f50f7d9fccfa4d0d13",
     "server_modified": "2024-11-06 00:48:55",
-    "last_sync": "2024-11-20 04:01:24.389689",
+    "last_sync": "2024-12-03 11:34:39.938914+00:00",
     "size": 53691,
-    "meta_text": null,
     "cat_ref": "TD04456",
     "work_ref": "W.TD04456",
-    "title_tib": "",
+    "title_tib": "GTOR MA'I PHRENG BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "116521340964",
             "subject_path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 9 (PO)",
-            "subject_path_tibetan": "BSTAN 'GYUR/16 SNA TSOGS/VOL 9 (PO)",
-            "subject_path_english": "Tengyur/Miscellany (Citritā)",
-            "subject_tibetan": "VOL 9 (PO)",
-            "subject_english": "Miscellany (Citritā)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SNA TSOGS/9 (PO)",
+            "subject_path_english": "Tengyur/Miscellany (Citritā)/VOL 9 (PO)",
+            "subject_tibetan": "9 (PO)",
+            "subject_english": "VOL 9 (PO)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 9 (PO)",
-            "timestamp": "2024-11-20 12:01:24.404798+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Balimalika",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:24.404798+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:34:39.941071+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 9 (PO)",
+            "timestamp": "2024-12-03 11:34:39.941071+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

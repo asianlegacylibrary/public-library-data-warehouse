@@ -6,7 +6,7 @@
     "revision_id": "625a49f882be48d294473",
     "content_hash": "a1c7e297a664a0b37897287376d5dfdfd9a9deb22454bc69bb621be549b60ecd",
     "server_modified": "2024-10-29 21:54:01",
-    "last_sync": "2024-11-19 21:14:18.398645",
+    "last_sync": "2024-11-26 15:37:09.209745",
     "size": 1113785,
     "meta_text": null,
     "cat_ref": "S05587-3",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/GSAN YIG_RECORDS OF TEACHINGS RECEIVED/RGYAL BA NGAG DBANG BLO BZANG RGYA MTSO_GYALWA NGAWANG LOBSANG GYATSO (1617-1682)",
-            "timestamp": "2024-11-20 05:14:18.408482+00:00"
+            "timestamp": "2024-11-26 23:37:09.222540+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:14:18.408482+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:37:09.222540+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

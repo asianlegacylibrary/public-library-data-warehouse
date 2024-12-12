@@ -1,53 +1,47 @@
 {
     "name": "TD03983_CHOS RJES SU DRAN PA'I 'GREL PA (Dharmānusmṛti Vṛtti).txt",
-    "path": "05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 1 (NGI)",
+    "path": "BSTAN 'GYUR_Tengyur/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 1 (NGI)",
     "download_path": "/tengyur updated 10 31 24 ws/05 mdo 'grel_commentaries to sutras (sūtra vṛtti)/vol 1 (ngi)/td03983_chos rjes su dran pa'i 'grel pa (dharmānusmṛti vṛtti).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB1lQ",
     "revision_id": "62633b2ff35108d294473",
     "content_hash": "9ae2ecd2fab505a87289cd20320620c4f5b8d7498a97dfc21b12c765f8c4e9d7",
     "server_modified": "2024-11-06 00:35:48",
-    "last_sync": "2024-11-20 03:58:03.795947",
+    "last_sync": "2024-12-03 11:31:49.843651+00:00",
     "size": 2164,
-    "meta_text": null,
     "cat_ref": "TD03983",
     "work_ref": "W.TD03983",
-    "title_tib": "",
+    "title_tib": "CHOS RJES SU DRAN PA'I 'GREL PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "274593978959",
             "subject_path": "BSTAN 'GYUR_Tengyur/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 1 (NGI)",
-            "subject_path_tibetan": "BSTAN 'GYUR/05 MDO 'GREL/VOL 1 (NGI)",
-            "subject_path_english": "Tengyur/Commentaries to Sutras (Sūtra Vṛtti)",
-            "subject_tibetan": "VOL 1 (NGI)",
-            "subject_english": "Commentaries to Sutras (Sūtra Vṛtti)"
+            "subject_path_tibetan": "BSTAN 'GYUR/MDO 'GREL/1 (NGI)",
+            "subject_path_english": "Tengyur/Commentaries to Sutras (Sūtra Vṛtti)/VOL 1 (NGI)",
+            "subject_tibetan": "1 (NGI)",
+            "subject_english": "VOL 1 (NGI)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 1 (NGI)",
-            "timestamp": "2024-11-20 11:58:03.806501+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Dharmānusmṛti Vṛtti",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:58:03.806501+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:31:49.846314+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 1 (NGI)",
+            "timestamp": "2024-12-03 11:31:49.846314+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

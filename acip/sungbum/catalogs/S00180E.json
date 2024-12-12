@@ -6,13 +6,13 @@
     "revision_id": "625a48615da688d294473",
     "content_hash": "eba19a233bcd2673d73694750746241b3b6c690e864d2a6f36c73da67103c607",
     "server_modified": "2024-10-29 21:46:54",
-    "last_sync": "2024-11-19 20:55:07.086475",
+    "last_sync": "2024-11-26 15:23:50.875098",
     "size": 5129,
-    "meta_text": "('and the Lord of the Burial Grounds; along with a Ritual for Offering of Torma Cakes to the Local Spirits, and a Ritual for Creating the Marker of the Retreat Border_LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN (1642-1714)', 'rtf')",
+    "meta_text": "and the Lord of the Burial Grounds; along with a Ritual for Offering of Torma Cakes to the Local Spirits, and a Ritual for Creating the Marker of the Retreat Border_LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN (1642-1714)",
     "cat_ref": "S00180E",
     "work_ref": "W.S00180E",
     "title_tib": "DPAL MGON ZHAL BZHI PA DANG PHYAG BZHI PA DUR KHROD BDAG PO GSUM GYI GTOR 'BUL DANG GZHI BDAG GI GTOR 'BUL MTSAMS THO BSKYED CHOG DANG BCAS PA",
-    "title_eng": "Rituals for Offering of Torma Cakes to the Three of the Four-Face Protector, the Four- Armed One,('and the Lord of the Burial Grounds; along with a Ritual for Offering of Torma Cakes to the Local Spirits, and a Ritual for Creating the Marker of the Retreat Border",
+    "title_eng": "Rituals for Offering of Torma Cakes to the Three of the Four-Face Protector, the Four- Armed One,and the Lord of the Burial Grounds; along with a Ritual for Offering of Torma Cakes to the Local Spirits, and a Ritual for Creating the Marker of the Retreat Border",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/MGON PO_THE PROTECTOR (MAHAKALA)/GTOR MA_OFFERING CAKE (BALI)",
-            "timestamp": "2024-11-20 04:55:07.808725+00:00"
+            "timestamp": "2024-11-26 23:23:51.244872+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DUR KHROD BDAG PO_LORD OF THE BURIAL GROUNDS (SHMASHANAPATI)/GTOR MA_OFFERING CAKE (BALI)",
-            "timestamp": "2024-11-20 05:00:35.479814+00:00"
+            "timestamp": "2024-11-26 23:27:45.268079+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:55:07.808725+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:51.244872+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:00:35.479814+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:27:45.268079+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

@@ -1,53 +1,47 @@
 {
     "name": "TD03808_'PHAGS PA SHES RAB KYI PHA ROL TU PHYIN PA 'BUM PA DANG NYI KHRI LNGA STONG PA DANG KHRI BRGYAD STONG PA'I RGYA CHER BSHAD PA (Āryaśata Sāhasrikā Pañcaviṃśatisāhasrikāṣṭādaśa Sāhasrikā Prajñā Pāramitā Bṛhaṭṭīkā).txt",
-    "path": "03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 14 (PHA)",
+    "path": "BSTAN 'GYUR_Tengyur/03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 14 (PHA)",
     "download_path": "/tengyur updated 10 31 24 ws/03 shes phyin_perfection of wisdom (prajñā pāramitā)/vol 14 (pha)/td03808_'phags pa shes rab kyi pha rol tu phyin pa 'bum pa dang nyi khri lnga stong pa dang khri brgyad stong pa'i rgya cher bshad pa (āryaśata sāhasrikā pañcaviṃśatisāhasrikāṣṭādaśa sāhasrikā prajñā pāramitā bṛhaṭṭīkā).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACEuA",
     "revision_id": "62633e37adf788d294473",
     "content_hash": "b9ee7f9e394d4a8c441d6240404816b3f371e34b23e56d9792cb0975519bcb73",
     "server_modified": "2024-11-06 00:49:21",
-    "last_sync": "2024-11-20 04:01:28.039605",
+    "last_sync": "2024-12-03 11:34:43.016206+00:00",
     "size": 1104582,
-    "meta_text": null,
     "cat_ref": "TD03808",
     "work_ref": "W.TD03808",
-    "title_tib": "",
+    "title_tib": "'PHAGS PA SHES RAB KYI PHA ROL TU PHYIN PA 'BUM PA DANG NYI KHRI LNGA STONG PA DANG KHRI BRGYAD STONG PA'I RGYA CHER BSHAD PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "277427162878",
             "subject_path": "BSTAN 'GYUR_Tengyur/03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 14 (PHA)",
-            "subject_path_tibetan": "BSTAN 'GYUR/03 SHES PHYIN/VOL 14 (PHA)",
-            "subject_path_english": "Tengyur/Perfection of Wisdom (Prajñā Pāramitā)",
-            "subject_tibetan": "VOL 14 (PHA)",
-            "subject_english": "Perfection of Wisdom (Prajñā Pāramitā)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SHES PHYIN/14 (PHA)",
+            "subject_path_english": "Tengyur/Perfection of Wisdom (Prajñā Pāramitā)/VOL 14 (PHA)",
+            "subject_tibetan": "14 (PHA)",
+            "subject_english": "VOL 14 (PHA)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 14 (PHA)",
-            "timestamp": "2024-11-20 12:01:28.043140+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Āryaśata Sāhasrikā Pañcaviṃśatisāhasrikāṣṭādaśa Sāhasrikā Prajñā Pāramitā Bṛhaṭṭīkā",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:28.043140+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:34:43.017061+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 14 (PHA)",
+            "timestamp": "2024-12-03 11:34:43.017061+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

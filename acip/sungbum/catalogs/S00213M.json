@@ -6,9 +6,9 @@
     "revision_id": "625a4af9e1e0c8d294473",
     "content_hash": "58370abe19d412b96c739579e8f98ae15abeaf834bd2cd90600b7441bfba47c9",
     "server_modified": "2024-10-29 21:58:31",
-    "last_sync": "2024-11-19 21:26:06.942077",
+    "last_sync": "2024-11-26 15:45:06.845957",
     "size": 195967,
-    "meta_text": "('A TSOGS', 'rtf')",
+    "meta_text": "A TSOGS",
     "cat_ref": "S00213M",
     "work_ref": "W.S00213M",
     "title_tib": "DGA' LDAN BYANG RTZE THOS BSAM NOR GLING GRVA TSANG GI CHOS SPYOD BSKAL BZANG MGRIN RGYAN",
@@ -16,7 +16,7 @@
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
-    "author_simple": "SN('A TSOGS', 'rtf')",
+    "author_simple": "SNA TSOGS",
     "subject": [
         {
             "_id": "246650156136",
@@ -30,7 +30,7 @@
     "items": [],
     "author": [
         {
-            "author_name": "SN('A TSOGS', 'rtf')",
+            "author_name": "SNA TSOGS",
             "author_birth": null,
             "author_death": null
         }
@@ -38,13 +38,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/CHO GA_RITUALS/CHOS SPYOD_MONASTIC PRAYER BOOKS/DGA' LDAN BYANG RTZE_GANDEN JANGTSE",
-            "timestamp": "2024-11-20 05:26:06.949140+00:00"
+            "timestamp": "2024-11-26 23:45:06.859853+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:26:06.949140+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:45:06.859853+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

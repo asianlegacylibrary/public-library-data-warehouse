@@ -6,9 +6,9 @@
     "revision_id": "625a48080c3a28d294473",
     "content_hash": "050f51d9567547792a4fe0a9a1f8bb321684dd2fb5217fa76399202a4b404bc2",
     "server_modified": "2024-10-29 21:45:21",
-    "last_sync": "2024-11-19 20:53:22.828251",
+    "last_sync": "2024-11-26 15:22:40.489449",
     "size": 566,
-    "meta_text": "('MA BHADRA (1772-1851)', 'rtf')",
+    "meta_text": "MA BHADRA (1772-1851)",
     "cat_ref": "S06370E90",
     "work_ref": "W.S06370E90",
     "title_tib": "RGYUD SDE BZHI JI LTAR YIN PA DANG, LHA GANG DANG GANG RGYUD SDE GANG DANG GANG YIN LA DRI LAN",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 04:54:07.129226+00:00"
+            "timestamp": "2024-11-26 23:23:11.580448+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/RGYUD SDE BZHI_FOUR CLASSES OF THE SECRET TEACHINGS",
-            "timestamp": "2024-11-20 05:04:17.411354+00:00"
+            "timestamp": "2024-11-26 23:30:20.211387+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:07.129226+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:11.580448+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:04:17.411354+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:30:20.211387+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

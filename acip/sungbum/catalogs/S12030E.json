@@ -6,9 +6,9 @@
     "revision_id": "625a490caf5828d294473",
     "content_hash": "2c094e37c3ac9fcca6459879f4ebadd810766d29298dfc5b7ae6c1370bd3a910",
     "server_modified": "2024-10-29 21:49:54",
-    "last_sync": "2024-11-19 21:04:15.110452",
+    "last_sync": "2024-11-26 15:30:17.901524",
     "size": 8017,
-    "meta_text": "('1782-1853)', 'rtf')",
+    "meta_text": "1782-1853)",
     "cat_ref": "S12030E",
     "work_ref": "W.S12030E",
     "title_tib": "LHA SRIN SDE BRGYAD KLU SOGS LA CHAB SHOG BKA' BSGO'I SKOR",
@@ -31,8 +31,8 @@
     "author": [
         {
             "author_name": "PAn CHEN SKU PHRENG BZHI PA BSTAN PA'I NYI MA",
-            "author_birth": null,
-            "author_death": null,
+            "author_birth": "1782",
+            "author_death": "1853",
             "bdrc_id": "bdr:P285",
             "normalized_name": "PAn CHEN SKU PHRENG BZHI PA BSTAN PA'I NYI MA",
             "bdrc_url": "http://purl.bdrc.io/resource/P285"
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SDE BRGYAD_THE GROUP OF EIGHT",
-            "timestamp": "2024-11-20 05:04:15.114756+00:00"
+            "timestamp": "2024-11-26 23:30:17.905929+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:04:15.114756+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:30:17.905929+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

@@ -6,7 +6,7 @@
     "revision_id": "625a4ae6594ab8d294473",
     "content_hash": "e1d24ae41c69293229e22692f128b59810aeec8b60f331c43b4d9e6f3831e384",
     "server_modified": "2024-10-29 21:58:11",
-    "last_sync": "2024-11-19 21:24:34.847307",
+    "last_sync": "2024-11-26 15:44:10.345568",
     "size": 29780,
     "meta_text": null,
     "cat_ref": "S00380M",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/BLO SBYONG_DEVELOPING THE GOOD HEART/BLO SBYONG TSIG BRGYAD MA_INSTRUCTIONS ON DEVELOPING THE GOOD HEART, IN EIGHT VERSES/'GREL PA_COMMENTARIES",
-            "timestamp": "2024-11-20 05:24:34.853735+00:00"
+            "timestamp": "2024-11-26 23:44:10.355375+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:24:34.853735+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:44:10.355375+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

@@ -6,13 +6,13 @@
     "revision_id": "625a498e22e338d294473",
     "content_hash": "0743926ac8c3e7b4b03f2e04877efe19ede89a1a56852684f6096041069c914b",
     "server_modified": "2024-10-29 21:52:10",
-    "last_sync": "2024-11-19 21:10:24.120095",
+    "last_sync": "2024-11-26 15:34:32.326380",
     "size": 21410,
-    "meta_text": "('Warrior (Eka Vira)_LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN (1642-1714)', 'rtf')",
+    "meta_text": "Warrior (Eka Vira)_LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN (1642-1714)",
     "cat_ref": "S00169E",
     "work_ref": "W.S00169E",
     "title_tib": "DPAL RDO RJE 'JIGS BYED DPA' BO GCIG PA'I MNGON RTOGS BDUD DPUNG RNAM 'JOMS",
-    "title_eng": "'Destruction of the Legion of Demons,' a Presentation of the 'Realization' Practice in the Teaching of the Glorious Diamond Frightener (Vajra Bhairava) as a Solitary('Warrior (Eka Vira)",
+    "title_eng": "'Destruction of the Legion of Demons,' a Presentation of the 'Realization' Practice in the Teaching of the Glorious Diamond Frightener (Vajra Bhairava) as a SolitaryWarrior (Eka Vira)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/MNGON RTOGS_RITUALS OF REALIZATION (ABHISAMAYA)",
-            "timestamp": "2024-11-20 05:10:25.544457+00:00"
+            "timestamp": "2024-11-26 23:34:33.190751+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:10:25.544457+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:34:33.190751+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

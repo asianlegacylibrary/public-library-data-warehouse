@@ -6,9 +6,9 @@
     "revision_id": "625a4ae01a0408d294473",
     "content_hash": "9254842f2f11e40c3510c792c4c19d47b39e2befbe7afdba815b0c691a3fc454",
     "server_modified": "2024-10-29 21:58:04",
-    "last_sync": "2024-11-19 21:24:21.518671",
+    "last_sync": "2024-11-26 15:44:00.356357",
     "size": 31830,
-    "meta_text": "(\"'I RGYAL MTSAN (1770-1845)\", 'rtf')",
+    "meta_text": "'I RGYAL MTSAN (1770-1845)",
     "cat_ref": "S12323E",
     "work_ref": "W.S12323E",
     "title_tib": "CHOS SDE CHEN PO DGE 'PHEL DGA' LDAN CHOS MDZOD GLING GI BCA' YIG GDUNG SEL ZLA 'OD",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/BCA' YIG_OFFICIAL DOCUMENTS/DGE 'PHEL GLING_GEPEL LING MONASTERY",
-            "timestamp": "2024-11-20 05:24:22.178934+00:00"
+            "timestamp": "2024-11-26 23:44:01.138441+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:24:22.178934+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:44:01.138441+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

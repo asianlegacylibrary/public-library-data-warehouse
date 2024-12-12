@@ -1,53 +1,47 @@
 {
     "name": "TD03879_BYANG CHUB SEMS DPA'I SPYOD PA LA 'JUG PA'I DON BSDUS PA (Bodhisattva Caryāvatāra Piṇḍārtha).txt",
-    "path": "04 DBU MA_Middle Way School (Madhyamaka)/VOL 11 (SHA)",
+    "path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 11 (SHA)",
     "download_path": "/tengyur updated 10 31 24 ws/04 dbu ma_middle way school (madhyamaka)/vol 11 (sha)/td03879_byang chub sems dpa'i spyod pa la 'jug pa'i don bsdus pa (bodhisattva caryāvatāra piṇḍārtha).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB3Jg",
     "revision_id": "62633bbebaed38d294473",
     "content_hash": "d18082eeae65ec4c86f9c5f57e89c789c9fffba6b9c41644308a1c77b84dc2e7",
     "server_modified": "2024-11-06 00:38:18",
-    "last_sync": "2024-11-20 03:59:01.701083",
+    "last_sync": "2024-12-03 11:32:42.985735+00:00",
     "size": 4864,
-    "meta_text": null,
     "cat_ref": "TD03879",
     "work_ref": "W.TD03879",
-    "title_tib": "",
+    "title_tib": "BYANG CHUB SEMS DPA'I SPYOD PA LA 'JUG PA'I DON BSDUS PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "197467236894",
             "subject_path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 11 (SHA)",
-            "subject_path_tibetan": "BSTAN 'GYUR/04 DBU MA/VOL 11 (SHA)",
-            "subject_path_english": "Tengyur/Middle Way School (Madhyamaka)",
-            "subject_tibetan": "VOL 11 (SHA)",
-            "subject_english": "Middle Way School (Madhyamaka)"
+            "subject_path_tibetan": "BSTAN 'GYUR/DBU MA/11 (SHA)",
+            "subject_path_english": "Tengyur/Middle Way School (Madhyamaka)/VOL 11 (SHA)",
+            "subject_tibetan": "11 (SHA)",
+            "subject_english": "VOL 11 (SHA)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 11 (SHA)",
-            "timestamp": "2024-11-20 11:59:01.707193+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Bodhisattva Caryāvatāra Piṇḍārtha",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:59:01.707193+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:32:42.987625+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 11 (SHA)",
+            "timestamp": "2024-12-03 11:32:42.987625+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

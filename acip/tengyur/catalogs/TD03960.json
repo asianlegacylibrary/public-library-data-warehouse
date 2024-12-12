@@ -1,53 +1,47 @@
 {
     "name": "TD03960_SPYOD PA BSDUS PA'I SGRON MA (Caryāmelāpaka Pradīpa).txt",
-    "path": "04 DBU MA_Middle Way School (Madhyamaka)/VOL 16 (KHI)",
+    "path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 16 (KHI)",
     "download_path": "/tengyur updated 10 31 24 ws/04 dbu ma_middle way school (madhyamaka)/vol 16 (khi)/td03960_spyod pa bsdus pa'i sgron ma (caryāmelāpaka pradīpa).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB28A",
     "revision_id": "62633bae163488d294473",
     "content_hash": "6791ecbe30ca315f83905219edfd22608f95d36546e7863786f684592ea3eb12",
     "server_modified": "2024-11-06 00:38:00",
-    "last_sync": "2024-11-20 03:58:54.581732",
+    "last_sync": "2024-12-03 11:32:36.909164+00:00",
     "size": 3463,
-    "meta_text": null,
     "cat_ref": "TD03960",
     "work_ref": "W.TD03960",
-    "title_tib": "",
+    "title_tib": "SPYOD PA BSDUS PA'I SGRON MA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "160150475375",
             "subject_path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 16 (KHI)",
-            "subject_path_tibetan": "BSTAN 'GYUR/04 DBU MA/VOL 16 (KHI)",
-            "subject_path_english": "Tengyur/Middle Way School (Madhyamaka)",
-            "subject_tibetan": "VOL 16 (KHI)",
-            "subject_english": "Middle Way School (Madhyamaka)"
+            "subject_path_tibetan": "BSTAN 'GYUR/DBU MA/16 (KHI)",
+            "subject_path_english": "Tengyur/Middle Way School (Madhyamaka)/VOL 16 (KHI)",
+            "subject_tibetan": "16 (KHI)",
+            "subject_english": "VOL 16 (KHI)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 16 (KHI)",
-            "timestamp": "2024-11-20 11:58:54.584944+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Caryāmelāpaka Pradīpa",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:58:54.584944+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:32:36.912453+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 16 (KHI)",
+            "timestamp": "2024-12-03 11:32:36.912453+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

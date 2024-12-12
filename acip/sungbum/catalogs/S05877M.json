@@ -6,9 +6,9 @@
     "revision_id": "625a4a1203c518d294473",
     "content_hash": "89fee11af2d486619499f77ba14cc7c5b2527273009a543c35cec2aa9db91516",
     "server_modified": "2024-10-29 21:54:28",
-    "last_sync": "2024-11-19 21:15:28.822793",
+    "last_sync": "2024-11-26 15:37:56.739352",
     "size": 602850,
-    "meta_text": "('BTZUN PA) BLO BZANG YE SHES (1663-1737)', 'rtf')",
+    "meta_text": "BTZUN PA) BLO BZANG YE SHES (1663-1737)",
     "cat_ref": "S05877M",
     "work_ref": "W.S05877M",
     "title_tib": "CHOS SMRA BA'I DGE SLONG BLO BZANG CHOS KYI RGYAL MTSAN GYI SPYOD TSUL GSAL BAR STON PA NOR BU'I PHRENG BA",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
-            "timestamp": "2024-11-20 05:15:30.561103+00:00"
+            "timestamp": "2024-11-26 23:37:57.668713+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:15:30.561103+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:37:57.668713+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

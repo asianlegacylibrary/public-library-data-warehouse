@@ -6,9 +6,9 @@
     "revision_id": "625a495ddcc548d294473",
     "content_hash": "00cc02463804858adec25a4444e1fa720aca476be1e6994b4093beae708209ab",
     "server_modified": "2024-10-29 21:51:19",
-    "last_sync": "2024-11-19 21:07:44.062163",
+    "last_sync": "2024-11-26 15:32:39.212096",
     "size": 16076,
-    "meta_text": "('BZANG CHOS LDAN (1642-1714)', 'rtf')",
+    "meta_text": "BZANG CHOS LDAN (1642-1714)",
     "cat_ref": "S00078E",
     "work_ref": "W.S00078E",
     "title_tib": "DPAL GSANG BA 'DUS PA'I RIM PA DANG PO'I GNAD DON GSAL BYED NYI MA'I 'OD ZER",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/BSKYED RIM_CREATION STAGE (UTPATTI KRAMA)",
-            "timestamp": "2024-11-20 05:07:45.500695+00:00"
+            "timestamp": "2024-11-26 23:32:40.463204+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:07:45.500695+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:32:40.463204+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

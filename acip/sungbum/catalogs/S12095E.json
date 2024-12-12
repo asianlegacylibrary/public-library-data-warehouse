@@ -6,13 +6,13 @@
     "revision_id": "625a4a638650f8d294473",
     "content_hash": "76b3955bec5aa3c9385ad4a5c489db6f9ebacd2c694b742d13d3d8b2e9d1c03c",
     "server_modified": "2024-10-29 21:55:53",
-    "last_sync": "2024-11-19 21:18:06.389299",
+    "last_sync": "2024-11-26 15:39:45.697315",
     "size": 3487,
-    "meta_text": "(\"s to a Teaching Granted on the ‘Brief Presentation of the Steps of the Path,’ otherwise known as ‘A Song of My Spiritual Life,’ in the Temple of the Shartse College of Ganden Monastery by Kyabje Yongdzin Ling Dorje Chang, a Lama of Matchless Kindness, Lord of the Secret World, and Savior within the Circle of Angels_DZE SMAD RIN PO CHE BLO BZANG DPAL LDAN BSTAN 'DZIN YAR RGYAS (1927-1996)\", 'rtf')",
+    "meta_text": "s to a Teaching Granted on the ‘Brief Presentation of the Steps of the Path,’ otherwise known as ‘A Song of My Spiritual Life,’ in the Temple of the Shartse College of Ganden Monastery by Kyabje Yongdzin Ling Dorje Chang, a Lama of Matchless Kindness, Lord of the Secret World, and Savior within the Circle of Angels_DZE SMAD RIN PO CHE BLO BZANG DPAL LDAN BSTAN 'DZIN YAR RGYAS (1927-1996)",
     "cat_ref": "S12095E",
     "work_ref": "W.S12095E",
     "title_tib": "BKA' DRIN MTSUNGS MED KHYAB BDAG 'KHOR LO'I MGON PO ^ SKYABS RJE YONGS 'DZIN GLING RDO RJE 'CHANG GI DRUNG NAS DGA' LDAN SHAR RTZE'I 'DU KHANG DU LAM RIM BSDUS DON NAM NYAMS MGUR DU GRAGS PA'I ZAB KHRID STZAL SKABS KYI ZIN THOR",
-    "title_eng": "Various Note(\"s to a Teaching Granted on the ‘Brief Presentation of the Steps of the Path,’ otherwise known as ‘A Song of My Spiritual Life,’ in the Temple of the Shartse College of Ganden Monastery by Kyabje Yongdzin Ling Dorje Chang, a Lama of Matchless Kindness, Lord of the Secret World, and Savior within the Circle of Angels",
+    "title_eng": "Various Notes to a Teaching Granted on the ‘Brief Presentation of the Steps of the Path,’ otherwise known as ‘A Song of My Spiritual Life,’ in the Temple of the Shartse College of Ganden Monastery by Kyabje Yongdzin Ling Dorje Chang, a Lama of Matchless Kindness, Lord of the Secret World, and Savior within the Circle of Angels",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/LAM RIM BSDUS DON_A SHORT SUMMARY OF THE STEPS OF THE PATH",
-            "timestamp": "2024-11-20 05:18:07.157581+00:00"
+            "timestamp": "2024-11-26 23:39:46.412030+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:18:07.157581+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:39:46.412030+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

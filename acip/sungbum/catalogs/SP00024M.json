@@ -6,9 +6,9 @@
     "revision_id": "625a47e9c5c518d294473",
     "content_hash": "1e29e0215406c22ced0a5be4faaf1954e9b466fbe9197095a608e391c03cd998",
     "server_modified": "2024-10-29 21:44:49",
-    "last_sync": "2024-11-19 20:51:54.989279",
+    "last_sync": "2024-11-26 15:21:42.985136",
     "size": 118947,
-    "meta_text": "('BSHAD SGRUB (1675-1748)', 'rtf')",
+    "meta_text": "BSHAD SGRUB (1675-1748)",
     "cat_ref": "SP00024M",
     "work_ref": "W.SP00024M",
     "title_tib": "RDOR GCOD KYI 'GREL PA THAR PAR BGROD PA'I LAM BZANG ZAB DON GSAL BA'I NYI MA",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/RDO RJE GCOD PA'I 'GREL PA_COMMENTARIES ON THE DIAMOND CUTTER SUTRA",
-            "timestamp": "2024-11-20 04:51:55.684407+00:00"
+            "timestamp": "2024-11-26 23:21:43.346633+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:51:55.684407+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:21:43.346633+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

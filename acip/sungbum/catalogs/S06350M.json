@@ -6,7 +6,7 @@
     "revision_id": "625a47c81f8ba8d294473",
     "content_hash": "0d48e703f1f786eafc16737042ec2d0c37b19f2ab9599cdc99696eb0a85f82c0",
     "server_modified": "2024-10-29 21:44:14",
-    "last_sync": "2024-11-19 20:50:21.301579",
+    "last_sync": "2024-11-26 15:20:43.857056",
     "size": 33233,
     "meta_text": null,
     "cat_ref": "S06350M",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/BSTOD PA_EULOGIES (STOTRA)/SANGS RGYAS YE SHES_SANGYE YESHE",
-            "timestamp": "2024-11-20 04:50:21.305862+00:00"
+            "timestamp": "2024-11-26 23:20:43.861443+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:50:21.305862+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:20:43.861443+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

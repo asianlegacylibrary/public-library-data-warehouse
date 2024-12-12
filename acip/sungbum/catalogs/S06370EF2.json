@@ -6,9 +6,9 @@
     "revision_id": "625a4839e0d068d294473",
     "content_hash": "d64ef8543c7977e66b97a24d620d80b3b4a9e40013adb20f177e2a605cc83aee",
     "server_modified": "2024-10-29 21:46:13",
-    "last_sync": "2024-11-19 20:53:59.851730",
+    "last_sync": "2024-11-26 15:23:05.955996",
     "size": 623,
-    "meta_text": "('RA (1772-1851)', 'rtf')",
+    "meta_text": "RA (1772-1851)",
     "cat_ref": "S06370EF2",
     "work_ref": "W.S06370EF2",
     "title_tib": "BDE MCHOG LHA TSOGS KYI DPA' BO DPA' MO ZHES SOGS PA'I NGOS 'DZIN",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 04:54:07.140814+00:00"
+            "timestamp": "2024-11-26 23:23:11.594944+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "timestamp": "2024-11-20 04:55:39.058884+00:00"
+            "timestamp": "2024-11-26 23:24:11.793630+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:07.140814+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:11.594944+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T04:55:39.058884+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:24:11.793630+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

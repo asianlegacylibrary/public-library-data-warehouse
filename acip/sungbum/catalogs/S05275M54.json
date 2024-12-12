@@ -6,13 +6,13 @@
     "revision_id": "625a4ac0c45fe8d294473",
     "content_hash": "8f8042b0de28abb9ca47909be70dcb2e2a1e6b51b3ccaf788ff876528a80eb95",
     "server_modified": "2024-10-29 21:57:31",
-    "last_sync": "2024-11-19 21:22:28.440989",
+    "last_sync": "2024-11-26 15:42:48.456352",
     "size": 2019,
-    "meta_text": "('l Instruction_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)', 'rtf')",
+    "meta_text": "l Instruction_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)",
     "cat_ref": "S05275M54",
     "work_ref": "W.S05275M54",
     "title_tib": "RJE BTZUN 'JAM PA'I DBYANGS KYIS GSUNGS PA'I NYAMS LEN MDOR BSDUS SHLOO KA BZHI DANG, RKANG PA GNYIS KYI BSDUS DON",
-    "title_eng": "A Brief Explanation of Four Verses and Two Lines spoken by the Venerable Gentle Voice (Manjughosha) as a Brief and Practica('l Instruction",
+    "title_eng": "A Brief Explanation of Four Verses and Two Lines spoken by the Venerable Gentle Voice (Manjughosha) as a Brief and Practical Instruction",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SPYI_GENERAL TREATMENTS/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)/'JAM DBYANGS KYI SHLOO KA_THE VERSES OF MANJUGHOSHA",
-            "timestamp": "2024-11-20 05:22:28.446676+00:00"
+            "timestamp": "2024-11-26 23:42:48.460673+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:22:28.446676+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:42:48.460673+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

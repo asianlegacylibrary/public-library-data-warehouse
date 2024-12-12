@@ -6,13 +6,13 @@
     "revision_id": "625a47fb8cf368d294473",
     "content_hash": "92377472b9c8d4f90664bb6cc4210b8c57aec9063c67ebd40d221053827d67fe",
     "server_modified": "2024-10-29 21:45:07",
-    "last_sync": "2024-11-19 20:52:24.308476",
+    "last_sync": "2024-11-26 15:22:02.732975",
     "size": 351654,
-    "meta_text": "(\"Assorted Writings found in the Collected Works of the Holy and Omniscient One_RGYAL BA DGE 'DUN RGYA MTSO (1476-1542)\", 'text')",
+    "meta_text": "Assorted Writings found in the Collected Works of the Holy and Omniscient One_RGYAL BA DGE 'DUN RGYA MTSO (1476-1542)",
     "cat_ref": "S05566E",
     "work_ref": "W.S05566E",
     "title_tib": "RJE BTZUN THAMS CAD MKHYEN PA'I GSUNG 'BUM THOR BU LAS DBU MA LA 'JUG PA'I RNAM BSHAD DGONGS PA'I DON RAB TU GSAL BA'I RGYAN",
-    "title_eng": "An Ornament for That Which Illuminates, Totally, the True Thought, an Explanation of \"Entering the Middle Way,\" from(\"Assorted Writings found in the Collected Works of the Holy and Omniscient One",
+    "title_eng": "An Ornament for That Which Illuminates, Totally, the True Thought, an Explanation of \"Entering the Middle Way,\" fromAssorted Writings found in the Collected Works of the Holy and Omniscient One",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -38,13 +38,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/DBU MA LA 'JUG PA'I 'GREL PA_COMMENTARIES ON 'ENTERING THE MIDDLE WAY' (MADHYAMAKA AVATARA)/RGYAL BA DGE 'DUN RGYA MTSO_HIS HOLINESS THE SECOND DALAI LAMA, GYALWA GENDUN GYATSO (1476-1542)",
-            "timestamp": "2024-11-20 04:52:24.313007+00:00"
+            "timestamp": "2024-11-26 23:22:02.737878+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:52:24.313007+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:22:02.737878+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

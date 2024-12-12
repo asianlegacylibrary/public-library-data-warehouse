@@ -6,13 +6,13 @@
     "revision_id": "625a48684cd148d294473",
     "content_hash": "597f15437b4dc8b1936ceaf5e31c96606a20b6bf7c87fdd507b8b89a01e12de5",
     "server_modified": "2024-10-29 21:47:01",
-    "last_sync": "2024-11-19 20:55:42.177066",
+    "last_sync": "2024-11-26 15:24:13.480972",
     "size": 30668,
-    "meta_text": "('Essence of Great Bliss,’ a Ritual for Initiation into the Five Angels of the Glorious Sphere of Highest Bliss (Chakrasamvara), also in the System of Ghantapada_DNGUL CHU DHARMA BHADRA (1772-1851)', 'rtf')",
+    "meta_text": "Essence of Great Bliss,’ a Ritual for Initiation into the Five Angels of the Glorious Sphere of Highest Bliss (Chakrasamvara), also in the System of Ghantapada_DNGUL CHU DHARMA BHADRA (1772-1851)",
     "cat_ref": "S06281E",
     "work_ref": "W.S06281E",
     "title_tib": "BDE MCHOG DRIL BU PA'I BLA BRGYUD GSOL 'DEBS DANG, DPAL 'KHOR LO BDE MCHOG DRIL BU LHA LNGA'I DBANG CHOG BDE CHEN SNYING PO",
-    "title_eng": "Supplication to the Lamas of the Lineage of Highest Bliss (Sambara), in the System of Ghantapada, together with 'The('Essence of Great Bliss,’ a Ritual for Initiation into the Five Angels of the Glorious Sphere of Highest Bliss (Chakrasamvara), also in the System of Ghantapada",
+    "title_eng": "Supplication to the Lamas of the Lineage of Highest Bliss (Sambara), in the System of Ghantapada, together with 'TheEssence of Great Bliss,’ a Ritual for Initiation into the Five Angels of the Glorious Sphere of Highest Bliss (Chakrasamvara), also in the System of Ghantapada",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/BLA BRGYUD_LINEAGE LAMAS",
-            "timestamp": "2024-11-20 04:55:43.079562+00:00"
+            "timestamp": "2024-11-26 23:24:14.196388+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/DBANG_EMPOWERMENT (ABHISHEKA)",
-            "timestamp": "2024-11-20 04:56:21.128311+00:00"
+            "timestamp": "2024-11-26 23:24:38.855923+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:55:43.079562+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:24:14.196388+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T04:56:21.128311+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:24:38.855923+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

@@ -6,9 +6,9 @@
     "revision_id": "625a4ac9710358d294473",
     "content_hash": "09e2bb06f7073de9a54dc6951b71d8a7b93ba856bcae654e7e28b70cddd291e0",
     "server_modified": "2024-10-29 21:57:40",
-    "last_sync": "2024-11-19 21:22:59.185107",
+    "last_sync": "2024-11-26 15:43:05.961072",
     "size": 114790,
-    "meta_text": "('LDAN YE SHES (1738-1780)', 'rtf')",
+    "meta_text": "LDAN YE SHES (1738-1780)",
     "cat_ref": "S12227E",
     "work_ref": "W.S12227E",
     "title_tib": "RJE BTZUN BLO BZANG DPAL LDAN YE SHES DPAL BZANG PO'I BRTAN BZHUGS RNAMS CHABS GCIG TU BSDEBS PA",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/ZHABS BRTAN_PRAYERS FOR THE LONG LIFE OF A HOLY BEING/PAN CHEN BLA MA SKU PHRENG GSUM PA DPAL LDAN YE SHES_PANCHEN LAMA KUTRENG SUMPA PELDEN YESHE (1738-1780)",
-            "timestamp": "2024-11-20 05:22:59.920248+00:00"
+            "timestamp": "2024-11-26 23:43:06.393752+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:22:59.920248+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:43:06.393752+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

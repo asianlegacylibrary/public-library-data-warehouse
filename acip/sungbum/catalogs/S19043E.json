@@ -6,9 +6,9 @@
     "revision_id": "625a4af76fa0b8d294473",
     "content_hash": "c8a6c100f8dfd6e797e88ec7f098d1305d60cb1feed523dd1e9a08cca211dee2",
     "server_modified": "2024-10-29 21:58:28",
-    "last_sync": "2024-11-19 21:26:01.825654",
+    "last_sync": "2024-11-26 15:45:03.632467",
     "size": 64088,
-    "meta_text": "(\"D PA'I RDO RJE (1648-1721)\", 'rtf')",
+    "meta_text": "D PA'I RDO RJE (1648-1721)",
     "cat_ref": "S19043E",
     "work_ref": "W.S19043E",
     "title_tib": "RAB GNAS KYI CHO GA KLAGS PAS DON GRUB DGE LEGS KYI GTER CHEN BKRA SHIS RAB RGYAS",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/CHO GA_RITUALS/RAB GNAS_CONSECRATION RITUALS",
-            "timestamp": "2024-11-20 05:26:03.317019+00:00"
+            "timestamp": "2024-11-26 23:45:04.408892+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:26:03.317019+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:45:04.408892+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

@@ -6,7 +6,7 @@
     "revision_id": "625a4a19910428d294473",
     "content_hash": "6e2deb11096e533cdb2d1ee9dbd9adf73112156312eb5676be733852fd04fa54",
     "server_modified": "2024-10-29 21:54:36",
-    "last_sync": "2024-11-19 21:15:51.059394",
+    "last_sync": "2024-11-26 15:38:11.631847",
     "size": 87805,
     "meta_text": null,
     "cat_ref": "S00150M",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN_CHANGKYA NGAWANG LOBSANG CHUNDEN",
-            "timestamp": "2024-11-20 05:15:51.063816+00:00"
+            "timestamp": "2024-11-26 23:38:11.637731+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:15:51.063816+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:38:11.637731+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

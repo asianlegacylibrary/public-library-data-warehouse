@@ -6,7 +6,7 @@
     "revision_id": "625a48ced0c998d294473",
     "content_hash": "1b181afc4858efa3253b9011eb280e5832a8b729be933c0ddd5ffdebf48d4802",
     "server_modified": "2024-10-29 21:48:49",
-    "last_sync": "2024-11-19 21:01:39.315225",
+    "last_sync": "2024-11-26 15:28:26.857885",
     "size": 27014,
     "meta_text": null,
     "cat_ref": "S05360E",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'KHOR LO CHEN PO_GREAT WHEEL (MAHACHAKRA)/MNGON RTOGS_RITUALS OF REALIZATION (ABHISAMAYA)",
-            "timestamp": "2024-11-20 05:01:39.319142+00:00"
+            "timestamp": "2024-11-26 23:28:26.865630+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:01:39.319142+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:28:26.865630+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

@@ -6,9 +6,9 @@
     "revision_id": "625a4919a03bd8d294473",
     "content_hash": "52aabaca4a19bbfb7198b2cc4f4934a6ff05fac5a071553587d6f730af914e68",
     "server_modified": "2024-10-29 21:50:07",
-    "last_sync": "2024-11-19 21:04:54.276359",
+    "last_sync": "2024-11-26 15:30:44.546125",
     "size": 48597,
-    "meta_text": "('PO CHE (1901-1981)', 'rtf')",
+    "meta_text": "PO CHE (1901-1981)",
     "cat_ref": "S00230E",
     "work_ref": "W.S00230E",
     "title_tib": "DAM CAN CHOS SRUNG KHAG GI GSOL MCHOD 'PHRIN BSKUL SNA TSOGS",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/CHOS SRUNG_GUARDIANS OF THE DHARMA (DHARMAGUPTA)",
-            "timestamp": "2024-11-20 05:04:54.282765+00:00"
+            "timestamp": "2024-11-26 23:30:44.557082+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:04:54.282765+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:30:44.557082+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

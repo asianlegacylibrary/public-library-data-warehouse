@@ -1,53 +1,47 @@
 {
     "name": "TD01131_'PHAGS PA RJE BTZUN 'JAM DPAL GYI DON DAM PA'I BSTOD PA_In Praise of the Holy and Realized Being, Glorious Gentle Voice (Manjushri), Who is the Ultimate One (Ārya Bhaṭṭāraka Mañjuśrī Paramārtha Stuti Nāma).txt",
-    "path": "01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
+    "path": "BSTAN 'GYUR_Tengyur/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
     "download_path": "/tengyur updated 10 31 24 ws/01 bstod tsogs_songs of praise (stotra)/vol 1 (ka)/td01131_'phags pa rje btzun 'jam dpal gyi don dam pa'i bstod pa_in praise of the holy and realized being, glorious gentle voice (manjushri), who is the ultimate one (ārya bhaṭṭāraka mañjuśrī paramārtha stuti nāma).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB3iQ",
     "revision_id": "62633bce856bd8d294473",
     "content_hash": "9ac841503eb5d54883c1117755eb804eddf788c1fd76a36ea70126394aa68446",
     "server_modified": "2024-11-06 00:38:34",
-    "last_sync": "2024-11-20 03:59:08.542662",
+    "last_sync": "2024-12-03 11:32:48.967745+00:00",
     "size": 1909,
-    "meta_text": null,
     "cat_ref": "TD01131",
     "work_ref": "W.TD01131",
     "title_tib": "'PHAGS PA RJE BTZUN 'JAM DPAL GYI DON DAM PA'I BSTOD PA",
-    "title_eng": "In Praise of the Holy and Realized Being, Glorious Gentle Voice (Manjushri), Who is the Ultimate One (Ārya Bhaṭṭāraka Mañjuśrī Paramārtha Stuti Nāma)",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
+    "title_eng": "In Praise of the Holy and Realized Being, Glorious Gentle Voice",
     "subject": [
         {
             "_id": "243715146395",
             "subject_path": "BSTAN 'GYUR_Tengyur/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
-            "subject_path_tibetan": "BSTAN 'GYUR/01 BSTOD TSOGS/VOL 1 (KA)",
-            "subject_path_english": "Tengyur/Songs of Praise (Stotra)",
-            "subject_tibetan": "VOL 1 (KA)",
-            "subject_english": "Songs of Praise (Stotra)"
+            "subject_path_tibetan": "BSTAN 'GYUR/BSTOD TSOGS/1 (KA)",
+            "subject_path_english": "Tengyur/Songs of Praise (Stotra)/VOL 1 (KA)",
+            "subject_tibetan": "1 (KA)",
+            "subject_english": "VOL 1 (KA)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
-            "timestamp": "2024-11-20 11:59:09.230945+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Manjushri), Who is the Ultimate One (Ārya Bhaṭṭāraka Mañjuśrī Paramārtha Stuti Nāma",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:59:09.230945+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:32:48.972724+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
+            "timestamp": "2024-12-03 11:32:48.972724+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

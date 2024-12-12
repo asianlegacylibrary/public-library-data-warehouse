@@ -1,53 +1,47 @@
 {
     "name": "TD01559_RUS SBAL ZHABS KYI SGRUB PA'I THABS (Kūrmapāda Sādhana).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/02 YUM BKA'_Mother Texts (Mātṛ)/VOL 22 (ZA)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/02 YUM BKA'_Mother Texts (Mātṛ)/VOL 22 (ZA)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/01 rnal 'byor bla med_unsurpassed practice (anuttara yoga)/03 bde mchog_highest bliss (saṃvara)/02 yum bka'_mother texts (mātṛ)/vol 22 (za)/td01559_rus sbal zhabs kyi sgrub pa'i thabs (kūrmapāda sādhana).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB63A",
     "revision_id": "62633c63e82cb8d294473",
     "content_hash": "8dda65f195529666dfe91dd020dc3f95eb28f125026974e1fc338d9eb9f56a09",
     "server_modified": "2024-11-06 00:41:11",
-    "last_sync": "2024-11-20 03:59:54.707202",
+    "last_sync": "2024-12-03 11:33:24.654666+00:00",
     "size": 1151,
-    "meta_text": null,
     "cat_ref": "TD01559",
     "work_ref": "W.TD01559",
-    "title_tib": "",
+    "title_tib": "RUS SBAL ZHABS KYI SGRUB PA'I THABS",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "336880318712",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/02 YUM BKA'_Mother Texts (Mātṛ)/VOL 22 (ZA)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/01 RNAL 'BYOR BLA MED/03 BDE MCHOG/02 YUM BKA'/VOL 22 (ZA)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Highest Bliss (Saṃvara)/Mother Texts (Mātṛ)",
-            "subject_tibetan": "VOL 22 (ZA)",
-            "subject_english": "Mother Texts (Mātṛ)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/RNAL 'BYOR BLA MED/BDE MCHOG/YUM BKA'/22 (ZA)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Highest Bliss (Saṃvara)/Mother Texts (Mātṛ)/VOL 22 (ZA)",
+            "subject_tibetan": "22 (ZA)",
+            "subject_english": "VOL 22 (ZA)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/02 YUM BKA'_Mother Texts (Mātṛ)/VOL 22 (ZA)",
-            "timestamp": "2024-11-20 11:59:54.716680+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Kūrmapāda Sādhana",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:59:54.716680+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:33:24.657986+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/02 YUM BKA'_Mother Texts (Mātṛ)/VOL 22 (ZA)",
+            "timestamp": "2024-12-03 11:33:24.657986+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

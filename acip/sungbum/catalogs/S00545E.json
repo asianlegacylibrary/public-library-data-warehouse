@@ -6,7 +6,7 @@
     "revision_id": "625a4af4e1e148d294473",
     "content_hash": "5912484a5c1834cad11e11eb1b92e4515a3823f8a11c97dd57636903c023e331",
     "server_modified": "2024-10-29 21:58:26",
-    "last_sync": "2024-11-19 21:25:50.397152",
+    "last_sync": "2024-11-26 15:44:57.737952",
     "size": 10360,
     "meta_text": null,
     "cat_ref": "S00545E",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/SGRA_STUDY OF SANSKRIT/SPYI_GENERAL TREATMENTS",
-            "timestamp": "2024-11-20 05:25:50.403311+00:00"
+            "timestamp": "2024-11-26 23:44:57.745934+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:25:50.403311+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:44:57.745934+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

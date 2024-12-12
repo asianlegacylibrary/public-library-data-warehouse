@@ -1,53 +1,47 @@
 {
     "name": "TD03811_BCOM LDAN 'DAS MA'I MAN NGAG GI RJES SU 'BRANG BA ZHES BYA BA'I RNAM PAR BSHAD PA (Bhagavatyāmnāyānusāriṇī Nāma Vyākhyā).txt",
-    "path": "03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 15 (BA)",
+    "path": "BSTAN 'GYUR_Tengyur/03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 15 (BA)",
     "download_path": "/tengyur updated 10 31 24 ws/03 shes phyin_perfection of wisdom (prajñā pāramitā)/vol 15 (ba)/td03811_bcom ldan 'das ma'i man ngag gi rjes su 'brang ba zhes bya ba'i rnam par bshad pa (bhagavatyāmnāyānusāriṇī nāma vyākhyā).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACEyw",
     "revision_id": "62633e45120798d294473",
     "content_hash": "37600627c100f82e49c38f4e95c3289c12ed5b49d118f9d95cfe98c589dc0d6c",
     "server_modified": "2024-11-06 00:49:35",
-    "last_sync": "2024-11-20 04:01:35.944374",
+    "last_sync": "2024-12-03 11:34:49.047937+00:00",
     "size": 1251300,
-    "meta_text": null,
     "cat_ref": "TD03811",
     "work_ref": "W.TD03811",
-    "title_tib": "",
+    "title_tib": "BCOM LDAN 'DAS MA'I MAN NGAG GI RJES SU 'BRANG BA ZHES BYA BA'I RNAM PAR BSHAD PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "252313731558",
             "subject_path": "BSTAN 'GYUR_Tengyur/03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 15 (BA)",
-            "subject_path_tibetan": "BSTAN 'GYUR/03 SHES PHYIN/VOL 15 (BA)",
-            "subject_path_english": "Tengyur/Perfection of Wisdom (Prajñā Pāramitā)",
-            "subject_tibetan": "VOL 15 (BA)",
-            "subject_english": "Perfection of Wisdom (Prajñā Pāramitā)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SHES PHYIN/15 (BA)",
+            "subject_path_english": "Tengyur/Perfection of Wisdom (Prajñā Pāramitā)/VOL 15 (BA)",
+            "subject_tibetan": "15 (BA)",
+            "subject_english": "VOL 15 (BA)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 15 (BA)",
-            "timestamp": "2024-11-20 12:01:35.947918+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Bhagavatyāmnāyānusāriṇī Nāma Vyākhyā",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:35.947918+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:34:49.048325+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 15 (BA)",
+            "timestamp": "2024-12-03 11:34:49.048325+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

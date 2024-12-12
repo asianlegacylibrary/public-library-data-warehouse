@@ -1,53 +1,47 @@
 {
     "name": "TD03210_GDAMS NGAG (Anuśāsanī).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/VOL 74 (PHU)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 74 (PHU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/vol 74 (phu)/td03210_gdams ngag (anuśāsanī).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACDNg",
     "revision_id": "62633dd04a0e68d294473",
     "content_hash": "f21914e1bf25b83c74f91a2ab5adfbbbe66f4ca2d9ca479174f19f18b79afc9e",
     "server_modified": "2024-11-06 00:47:33",
-    "last_sync": "2024-11-20 04:01:04.975368",
+    "last_sync": "2024-12-03 11:34:23.355814+00:00",
     "size": 461,
-    "meta_text": null,
     "cat_ref": "TD03210",
     "work_ref": "W.TD03210",
-    "title_tib": "",
+    "title_tib": "GDAMS NGAG",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "235929610804",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 74 (PHU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/VOL 74 (PHU)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)",
-            "subject_tibetan": "VOL 74 (PHU)",
-            "subject_english": "Diamond Way (Vajrayāna)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/74 (PHU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/VOL 74 (PHU)",
+            "subject_tibetan": "74 (PHU)",
+            "subject_english": "VOL 74 (PHU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 74 (PHU)",
-            "timestamp": "2024-11-20 12:01:05.033764+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Anuśāsanī",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:05.033764+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:34:23.359071+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 74 (PHU)",
+            "timestamp": "2024-12-03 11:34:23.359071+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

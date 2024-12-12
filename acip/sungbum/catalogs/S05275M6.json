@@ -6,7 +6,7 @@
     "revision_id": "625a47c5495658d294473",
     "content_hash": "928a2f6c73fce6ff42f2dc67cd9e38fa4d725e628c013131b7aae789c2d72847",
     "server_modified": "2024-10-29 21:44:11",
-    "last_sync": "2024-11-19 20:50:05.621528",
+    "last_sync": "2024-11-26 15:20:34.812540",
     "size": 2175,
     "meta_text": null,
     "cat_ref": "S05275M6",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/BSTOD PA_EULOGIES (STOTRA)/GRAGS PA BYANG CHUB_DRAKPA JANGCHUB",
-            "timestamp": "2024-11-20 04:50:05.630385+00:00"
+            "timestamp": "2024-11-26 23:20:34.822132+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:50:05.630385+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:20:34.822132+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

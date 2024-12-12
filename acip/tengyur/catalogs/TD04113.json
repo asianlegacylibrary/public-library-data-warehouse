@@ -1,53 +1,47 @@
 {
     "name": "TD04113_'DUL BA GZHI RGYA CHER 'GREL PA (Vinayavastu Ṭīkā).txt",
-    "path": "08 'DUL BA_Vowed Morality (Vinaya)/VOL 7 (TZU)",
+    "path": "BSTAN 'GYUR_Tengyur/08 'DUL BA_Vowed Morality (Vinaya)/VOL 7 (TZU)",
     "download_path": "/tengyur updated 10 31 24 ws/08 'dul ba_vowed morality (vinaya)/vol 7 (tzu)/td04113_'dul ba gzhi rgya cher 'grel pa (vinayavastu ṭīkā).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB2rg",
     "revision_id": "62633b9220a9d8d294473",
     "content_hash": "910fcf97d66cb0fc61a534abd5680b99974121fb879867a21e247e214929d9f5",
     "server_modified": "2024-11-06 00:37:31",
-    "last_sync": "2024-11-20 03:58:43.629916",
+    "last_sync": "2024-12-03 11:32:26.977588+00:00",
     "size": 604382,
-    "meta_text": null,
     "cat_ref": "TD04113",
     "work_ref": "W.TD04113",
-    "title_tib": "",
+    "title_tib": "'DUL BA GZHI RGYA CHER 'GREL PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "426597187134",
             "subject_path": "BSTAN 'GYUR_Tengyur/08 'DUL BA_Vowed Morality (Vinaya)/VOL 7 (TZU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/08 'DUL BA/VOL 7 (TZU)",
-            "subject_path_english": "Tengyur/Vowed Morality (Vinaya)",
-            "subject_tibetan": "VOL 7 (TZU)",
-            "subject_english": "Vowed Morality (Vinaya)"
+            "subject_path_tibetan": "BSTAN 'GYUR/'DUL BA/7 (TZU)",
+            "subject_path_english": "Tengyur/Vowed Morality (Vinaya)/VOL 7 (TZU)",
+            "subject_tibetan": "7 (TZU)",
+            "subject_english": "VOL 7 (TZU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/08 'DUL BA_Vowed Morality (Vinaya)/VOL 7 (TZU)",
-            "timestamp": "2024-11-20 11:58:43.631852+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Vinayavastu Ṭīkā",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:58:43.631852+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:32:26.978223+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/08 'DUL BA_Vowed Morality (Vinaya)/VOL 7 (TZU)",
+            "timestamp": "2024-12-03 11:32:26.978223+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

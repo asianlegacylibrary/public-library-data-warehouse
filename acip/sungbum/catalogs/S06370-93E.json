@@ -6,13 +6,13 @@
     "revision_id": "625a480e088288d294473",
     "content_hash": "a8699ce688341035d1d3fa8b7b26cc3f0bdde0218cda1835087d1b880e632423",
     "server_modified": "2024-10-29 21:45:27",
-    "last_sync": "2024-11-19 20:53:25.756277",
+    "last_sync": "2024-11-26 15:22:42.126627",
     "size": 780,
-    "meta_text": "('m in Tiers or as a General Mass_DNGUL CHU DHARMA BHADRA (1772-1851)', 'rtf')",
+    "meta_text": "m in Tiers or as a General Mass_DNGUL CHU DHARMA BHADRA (1772-1851)",
     "cat_ref": "S06370-93E",
     "work_ref": "W.S06370-93E",
     "title_tib": "RGYUD 'DEBS SKABS MTHOR BRTZEGS DANG KHROM TSOGS SU GSAL 'DEBS PA GANG LEGS YIN PA'I SKOR GYI DRI LAN",
-    "title_eng": "Response to a Question about Whether, When a Person Recites the Petition to the Lamas of the Lineage, It is Preferable to Visualize The('m in Tiers or as a General Mass",
+    "title_eng": "Response to a Question about Whether, When a Person Recites the Petition to the Lamas of the Lineage, It is Preferable to Visualize Them in Tiers or as a General Mass",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 04:54:07.131185+00:00"
+            "timestamp": "2024-11-26 23:23:11.583487+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/BLA BRGYUD_LAMA LINEAGE TREES",
-            "timestamp": "2024-11-20 05:26:56.473327+00:00"
+            "timestamp": "2024-11-26 23:45:40.908365+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:07.131185+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:11.583487+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:26:56.473327+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:45:40.908365+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

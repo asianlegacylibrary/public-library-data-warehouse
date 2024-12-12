@@ -6,9 +6,9 @@
     "revision_id": "625a49a01a0098d294473",
     "content_hash": "47be9d0e96cdee94dc62e4e0b56ab0b93638cf2f2e7901d0aefcf553bdeaca32",
     "server_modified": "2024-10-29 21:52:28",
-    "last_sync": "2024-11-19 21:11:01.806706",
+    "last_sync": "2024-11-26 15:34:58.511799",
     "size": 14927,
-    "meta_text": "('HOS LDAN (1642-1714)', 'rtf')",
+    "meta_text": "HOS LDAN (1642-1714)",
     "cat_ref": "S00085E",
     "work_ref": "W.S00085E",
     "title_tib": "DPAL RDO RJE 'JIGS BYED KYI RDZOGS RIM RNAL 'BYOR BZHI'I DMAR KHRID",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/RDZOGS RIM_COMPLETION STAGE (SAMPANNA KRAMA)",
-            "timestamp": "2024-11-20 05:11:02.448462+00:00"
+            "timestamp": "2024-11-26 23:34:58.901483+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:11:02.448462+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:34:58.901483+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

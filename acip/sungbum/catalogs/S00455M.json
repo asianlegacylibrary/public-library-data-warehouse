@@ -6,7 +6,7 @@
     "revision_id": "625a4ae01a03c8d294473",
     "content_hash": "135d0f4a140b4be4b09b464ed726f156e10d931ae4d734c4781377c6bb333602",
     "server_modified": "2024-10-29 21:58:04",
-    "last_sync": "2024-11-19 21:24:20.053479",
+    "last_sync": "2024-11-26 15:43:59.596241",
     "size": 39573,
     "meta_text": null,
     "cat_ref": "S00455M",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/BCA' YIG_OFFICIAL DOCUMENTS/DGE 'PHEL GLING_GEPEL LING MONASTERY",
-            "timestamp": "2024-11-20 05:24:22.178109+00:00"
+            "timestamp": "2024-11-26 23:44:01.137422+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:24:22.178109+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:44:01.137422+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

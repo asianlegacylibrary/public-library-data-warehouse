@@ -1,53 +1,47 @@
 {
     "name": "TD03339_SGROL MA DKAR MO'I SGRUB THABS (Sita Tārā Sādhana).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/vol 76 (mu)/td03339_sgrol ma dkar mo'i sgrub thabs (sita tārā sādhana).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB_mg",
     "revision_id": "62633d3c4f9d08d294473",
     "content_hash": "fe42e4e4497065180e74065010be9294069a5e622570b34c558f40244d35f103",
     "server_modified": "2024-11-06 00:44:58",
-    "last_sync": "2024-11-20 04:00:45.034302",
+    "last_sync": "2024-12-03 11:34:07.464570+00:00",
     "size": 2479,
-    "meta_text": null,
     "cat_ref": "TD03339",
     "work_ref": "W.TD03339",
-    "title_tib": "",
+    "title_tib": "SGROL MA DKAR MO'I SGRUB THABS",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "121782366104",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/VOL 76 (MU)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)",
-            "subject_tibetan": "VOL 76 (MU)",
-            "subject_english": "Diamond Way (Vajrayāna)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/76 (MU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/VOL 76 (MU)",
+            "subject_tibetan": "76 (MU)",
+            "subject_english": "VOL 76 (MU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
-            "timestamp": "2024-11-20 12:00:45.251552+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Sita Tārā Sādhana",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:45.251552+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:34:07.476687+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
+            "timestamp": "2024-12-03 11:34:07.476687+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

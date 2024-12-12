@@ -1,53 +1,47 @@
 {
     "name": "TD03512_BCOM LDAN 'DAS 'PHAGS MA DUG SEL BA'I RTOG PA (Ārya Jāṃgulī Bhagavatī Kalpa).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/vol 76 (mu)/td03512_bcom ldan 'das 'phags ma dug sel ba'i rtog pa (ārya jāṃgulī bhagavatī kalpa).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACAdQ",
     "revision_id": "62633d62a3fc78d294473",
     "content_hash": "8777aab21097acf4dfc889a6e854f9baf23a8182467b3362b1a35b076cbc3279",
     "server_modified": "2024-11-06 00:45:38",
-    "last_sync": "2024-11-20 04:00:45.215316",
+    "last_sync": "2024-12-03 11:34:07.470528+00:00",
     "size": 2142,
-    "meta_text": null,
     "cat_ref": "TD03512",
     "work_ref": "W.TD03512",
-    "title_tib": "",
+    "title_tib": "BCOM LDAN 'DAS 'PHAGS MA DUG SEL BA'I RTOG PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "121782366104",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/VOL 76 (MU)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)",
-            "subject_tibetan": "VOL 76 (MU)",
-            "subject_english": "Diamond Way (Vajrayāna)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/76 (MU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/VOL 76 (MU)",
+            "subject_tibetan": "76 (MU)",
+            "subject_english": "VOL 76 (MU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
-            "timestamp": "2024-11-20 12:00:45.258176+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Ārya Jāṃgulī Bhagavatī Kalpa",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:45.258176+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:34:07.483948+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
+            "timestamp": "2024-12-03 11:34:07.483948+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

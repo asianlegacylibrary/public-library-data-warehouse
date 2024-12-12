@@ -6,13 +6,13 @@
     "revision_id": "625a48aee1fcd8d294473",
     "content_hash": "beea6b238d96f14b3170b4abf07a6f4e2d65371349945ff1437c9cc4ca986f34",
     "server_modified": "2024-10-29 21:48:15",
-    "last_sync": "2024-11-19 20:59:44.154966",
+    "last_sync": "2024-11-26 15:27:07.444091",
     "size": 92788,
-    "meta_text": "('(Chakrasamvara)_LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN (1642-1714)', 'rtf')",
+    "meta_text": "(Chakrasamvara)_LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN (1642-1714)",
     "cat_ref": "S00158E",
     "work_ref": "W.S00158E",
     "title_tib": "DPAL 'KHOR LO SDOM PA'I SGRUB THABS BDE CHEN GSAL BA NGAG 'DON DU BSGRIGS PA BDE CHEN RAB RGYAS",
-    "title_eng": "The 'Spread of Great Bliss,' being a Ritual for Recitation of 'The Light of Great Bliss,' a Ritual for Reaching the Glorious Union of the Spheres('(Chakrasamvara)",
+    "title_eng": "The 'Spread of Great Bliss,' being a Ritual for Recitation of 'The Light of Great Bliss,' a Ritual for Reaching the Glorious Union of the Spheres(Chakrasamvara)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'KHOR LO SDOM PA_UNION OF THE SPHERES (CHAKRASANVARA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "timestamp": "2024-11-20 04:59:44.158992+00:00"
+            "timestamp": "2024-11-26 23:27:07.452983+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:59:44.158992+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:27:07.452983+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

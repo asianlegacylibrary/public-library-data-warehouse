@@ -6,7 +6,7 @@
     "revision_id": "625a47ce042878d294473",
     "content_hash": "8b6442b127e7bc6a31f1f466aacd4095598dcf3b36fac7dc2a6665511de79389",
     "server_modified": "2024-10-29 21:44:20",
-    "last_sync": "2024-11-19 20:50:52.706702",
+    "last_sync": "2024-11-26 15:21:01.264588",
     "size": 13749,
     "meta_text": null,
     "cat_ref": "S06403M",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/LHA BZO_FINE ARTS/LAM RIM_STEPS ON THE PATH",
-            "timestamp": "2024-11-20 04:50:52.711354+00:00"
+            "timestamp": "2024-11-26 23:21:01.271156+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:50:52.711354+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:21:01.271156+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

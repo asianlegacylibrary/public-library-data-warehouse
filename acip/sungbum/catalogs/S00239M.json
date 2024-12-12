@@ -6,7 +6,7 @@
     "revision_id": "625a47d3623838d294473",
     "content_hash": "5da8a03334bd90f58e90aa7a4310c3d12c736261ffa40f982aab1a5a200018a6",
     "server_modified": "2024-10-29 21:44:25",
-    "last_sync": "2024-11-19 20:51:09.896065",
+    "last_sync": "2024-11-26 15:21:11.067710",
     "size": 106801,
     "meta_text": null,
     "cat_ref": "S00239M",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/LHA BZO_FINE ARTS/MCHOD RTEN_STUPAS/GZUNG GZHUG_INSTALLATION OF THE CONTENTS OF STUPAS",
-            "timestamp": "2024-11-20 04:51:09.900430+00:00"
+            "timestamp": "2024-11-26 23:21:11.072621+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/CHO GA_RITUALS/GZUNG GZHUG_INSTALLATION OF THE CONTENTS OF STUPAS",
-            "timestamp": "2024-11-20 05:26:19.206773+00:00"
+            "timestamp": "2024-11-26 23:45:15.013502+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:51:09.900430+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:21:11.072621+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:26:19.206773+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:45:15.013502+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

@@ -6,7 +6,7 @@
     "revision_id": "625a47e0aae108d294473",
     "content_hash": "80a621db1df06f9a9c22985dba76012cd9ab92462c941e31ab84e4f86252f7fd",
     "server_modified": "2024-10-29 21:44:39",
-    "last_sync": "2024-11-19 20:51:33.812883",
+    "last_sync": "2024-11-26 15:21:28.058498",
     "size": 28836,
     "meta_text": null,
     "cat_ref": "S05444",
@@ -38,13 +38,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/RIGS PA DRUG CU PA",
-            "timestamp": "2024-11-20 04:51:33.817206+00:00"
+            "timestamp": "2024-11-26 23:21:28.060024+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:51:33.817206+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:21:28.060024+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

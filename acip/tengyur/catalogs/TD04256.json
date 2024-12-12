@@ -1,53 +1,47 @@
 {
     "name": "TD04256_SEL BA GRUB PA (Apoha Siddhi).txt",
-    "path": "11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 17 (ZHE)",
+    "path": "BSTAN 'GYUR_Tengyur/11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 17 (ZHE)",
     "download_path": "/tengyur updated 10 31 24 ws/11 tsad ma_logic & perceptual theory (pramāṇa)/vol 17 (zhe)/td04256_sel ba grub pa (apoha siddhi).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB2Kg",
     "revision_id": "62633b57ed69d8d294473",
     "content_hash": "a96ca74874dfbe2a7e2922eec22e9bf70a8c71b731c025f642b55581fc398871",
     "server_modified": "2024-11-06 00:36:30",
-    "last_sync": "2024-11-20 03:58:18.796464",
+    "last_sync": "2024-12-03 11:32:03.427186+00:00",
     "size": 84145,
-    "meta_text": null,
     "cat_ref": "TD04256",
     "work_ref": "W.TD04256",
-    "title_tib": "",
+    "title_tib": "SEL BA GRUB PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "120037800368",
             "subject_path": "BSTAN 'GYUR_Tengyur/11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 17 (ZHE)",
-            "subject_path_tibetan": "BSTAN 'GYUR/11 TSAD MA/VOL 17 (ZHE)",
-            "subject_path_english": "Tengyur/Logic & Perceptual Theory (Pramāṇa)",
-            "subject_tibetan": "VOL 17 (ZHE)",
-            "subject_english": "Logic & Perceptual Theory (Pramāṇa)"
+            "subject_path_tibetan": "BSTAN 'GYUR/TSAD MA/17 (ZHE)",
+            "subject_path_english": "Tengyur/Logic & Perceptual Theory (Pramāṇa)/VOL 17 (ZHE)",
+            "subject_tibetan": "17 (ZHE)",
+            "subject_english": "VOL 17 (ZHE)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 17 (ZHE)",
-            "timestamp": "2024-11-20 11:58:18.810076+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Apoha Siddhi",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:58:18.810076+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:32:03.430551+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 17 (ZHE)",
+            "timestamp": "2024-12-03 11:32:03.430551+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

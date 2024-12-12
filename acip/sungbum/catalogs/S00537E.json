@@ -6,9 +6,9 @@
     "revision_id": "625a49b2170b68d294473",
     "content_hash": "21dcd834d6a9943a2f4df2df0eb15c9d27ad9ba25de76d15739d6a0a465a84c9",
     "server_modified": "2024-10-29 21:52:47",
-    "last_sync": "2024-11-19 21:11:46.207947",
+    "last_sync": "2024-11-26 15:35:27.740397",
     "size": 74612,
-    "meta_text": "('SGRON ME (1861-1933@)', 'rtf')",
+    "meta_text": "SGRON ME (1861-1933@)",
     "cat_ref": "S00537E",
     "work_ref": "W.S00537E",
     "title_tib": "DPAL RDO RJE 'JIGS BYED LHA BCU GSUM MA'I BSKYED RIM ZIN BRIS",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/BSKYED RIM_CREATION STAGE (UTPATTI KRAMA)",
-            "timestamp": "2024-11-20 05:11:49.763121+00:00"
+            "timestamp": "2024-11-26 23:35:29.922062+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:11:49.763121+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:35:29.922062+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

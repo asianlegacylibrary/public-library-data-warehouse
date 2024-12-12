@@ -6,7 +6,7 @@
     "revision_id": "625a4850bd7b88d294473",
     "content_hash": "4178a411e661bb0c9801880fd87cdeb14a0c6e9969bb44ef684958aadfcb7d87",
     "server_modified": "2024-10-29 21:46:37",
-    "last_sync": "2024-11-19 20:54:30.795073",
+    "last_sync": "2024-11-26 15:23:26.143075",
     "size": 1593595,
     "meta_text": null,
     "cat_ref": "SP25006.",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/CHOS 'BYUNG_RELIGIOUS HISTORIES/DEB THER SNGON PO_BLUE ANNALS/Pecha Version",
-            "timestamp": "2024-11-20 04:54:30.800268+00:00"
+            "timestamp": "2024-11-26 23:23:26.147919+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:30.800268+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:26.147919+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

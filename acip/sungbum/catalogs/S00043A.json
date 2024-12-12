@@ -6,13 +6,13 @@
     "revision_id": "625a4aad0801f8d294473",
     "content_hash": "dc76152e9b22c56665a38d7f30425a4caeec9506b5e65845e544a1509d45ae52",
     "server_modified": "2024-10-29 21:57:10",
-    "last_sync": "2024-11-19 21:21:17.425627",
+    "last_sync": "2024-11-26 15:42:05.984819",
     "size": 19958,
-    "meta_text": "('g Vows in a Ceremony of Restoration and Purification in the Greater Way_SKYABS RJE KHRI BYANG RIN PO CHE (1901-1981)', 'rtf')",
+    "meta_text": "g Vows in a Ceremony of Restoration and Purification in the Greater Way_SKYABS RJE KHRI BYANG RIN PO CHE (1901-1981)",
     "cat_ref": "S00043A",
     "work_ref": "W.S00043A",
     "title_tib": "THEG CHEN GSO SBYONG GI SDOM PA LEN PA'I CHO GA NAG 'GROS SU BKOD PA BYANG CHEN KHANG BZANG 'DZEGS PA'I THEM SKAS",
-    "title_eng": "'A Stairway for Climbing to the Lovely Palace of Enlightenment,' being a Ritual Text, Arranged for Easy Recitation, for Takin+('g Vows in a Ceremony of Restoration and Purification in the Greater Way",
+    "title_eng": "'A Stairway for Climbing to the Lovely Palace of Enlightenment,' being a Ritual Text, Arranged for Easy Recitation, for Takin+g Vows in a Ceremony of Restoration and Purification in the Greater Way",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/THEG CHEN GSO SBYONG_RITUAL FOR RENEWAL AND PURIFICATION IN THE GREATER WAY",
-            "timestamp": "2024-11-20 05:21:18.035855+00:00"
+            "timestamp": "2024-11-26 23:42:06.407480+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:21:18.035855+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:42:06.407480+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

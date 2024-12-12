@@ -1,53 +1,47 @@
 {
     "name": "TD04297_BRDA SPROD PA DBYANGS CAN GYI MDO (Sarasvatī Vyākaraṇa Sūtra*).txt",
-    "path": "12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 4 (SE)",
+    "path": "BSTAN 'GYUR_Tengyur/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 4 (SE)",
     "download_path": "/tengyur updated 10 31 24 ws/12 sgra mdo_study of sanskrit language (śabda)/vol 4 (se)/td04297_brda sprod pa dbyangs can gyi mdo (sarasvatī vyākaraṇa sūtra*).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACD8A",
     "revision_id": "62633e04a3a4a8d294473",
     "content_hash": "3cee3de3a6dd32a83153c9bf226cd8f675a4217f21ab2a5b057540ec43aa44ad",
     "server_modified": "2024-11-06 00:48:28",
-    "last_sync": "2024-11-20 04:01:19.472234",
+    "last_sync": "2024-12-03 11:34:35.805171+00:00",
     "size": 30287,
-    "meta_text": null,
     "cat_ref": "TD04297",
     "work_ref": "W.TD04297",
-    "title_tib": "",
+    "title_tib": "BRDA SPROD PA DBYANGS CAN GYI MDO",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "317736870141",
             "subject_path": "BSTAN 'GYUR_Tengyur/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 4 (SE)",
-            "subject_path_tibetan": "BSTAN 'GYUR/12 SGRA MDO/VOL 4 (SE)",
-            "subject_path_english": "Tengyur/Study of Sanskrit Language (Śabda)",
-            "subject_tibetan": "VOL 4 (SE)",
-            "subject_english": "Study of Sanskrit Language (Śabda)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SGRA MDO/4 (SE)",
+            "subject_path_english": "Tengyur/Study of Sanskrit Language (Śabda)/VOL 4 (SE)",
+            "subject_tibetan": "4 (SE)",
+            "subject_english": "VOL 4 (SE)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 4 (SE)",
-            "timestamp": "2024-11-20 12:01:19.491433+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Sarasvatī Vyākaraṇa Sūtra*",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:19.491433+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:34:35.806537+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 4 (SE)",
+            "timestamp": "2024-12-03 11:34:35.806537+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

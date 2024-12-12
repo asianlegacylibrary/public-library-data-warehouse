@@ -1,53 +1,47 @@
 {
     "name": "TD01230_RNAL 'BYOR PHA DANG RNAL 'BYOR MA RNAMS LA THUN MONG MA YIN PA'I DON LA GDAMS PA ZHES BYA BA (Yoga Yoginyasādhāraṇāpadeśa (Nāma)).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/01 KYE RDO RJE_Lo Diamond (Hevajra)/01 YAB SKOR_Father Texts (Pitṛ)/VOL 8 (NYA)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/01 KYE RDO RJE_Lo Diamond (Hevajra)/01 YAB SKOR_Father Texts (Pitṛ)/VOL 8 (NYA)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/01 rnal 'byor bla med_unsurpassed practice (anuttara yoga)/01 kye rdo rje_lo diamond (hevajra)/01 yab skor_father texts (pitṛ)/vol 8 (nya)/td01230_rnal 'byor pha dang rnal 'byor ma rnams la thun mong ma yin pa'i don la gdams pa zhes bya ba (yoga yoginyasādhāraṇāpadeśa (nāma)).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB9Ng",
     "revision_id": "62633cd69d7d38d294473",
     "content_hash": "67fcee0841a7e3d9e083be46465451cb166668142c7da0df434e0cab1b59fb9b",
     "server_modified": "2024-11-06 00:43:11",
-    "last_sync": "2024-11-20 04:00:24.720307",
+    "last_sync": "2024-12-03 11:33:50.302309+00:00",
     "size": 5864,
-    "meta_text": null,
     "cat_ref": "TD01230",
     "work_ref": "W.TD01230",
-    "title_tib": "",
+    "title_tib": "RNAL 'BYOR PHA DANG RNAL 'BYOR MA RNAMS LA THUN MONG MA YIN PA'I DON LA GDAMS PA ZHES BYA BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "217425905789",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/01 KYE RDO RJE_Lo Diamond (Hevajra)/01 YAB SKOR_Father Texts (Pitṛ)/VOL 8 (NYA)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/01 RNAL 'BYOR BLA MED/01 KYE RDO RJE/01 YAB SKOR/VOL 8 (NYA)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Lo Diamond (Hevajra)/Father Texts (Pitṛ)",
-            "subject_tibetan": "VOL 8 (NYA)",
-            "subject_english": "Father Texts (Pitṛ)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/RNAL 'BYOR BLA MED/KYE RDO RJE/YAB SKOR/8 (NYA)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Lo Diamond (Hevajra)/Father Texts (Pitṛ)/VOL 8 (NYA)",
+            "subject_tibetan": "8 (NYA)",
+            "subject_english": "VOL 8 (NYA)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/01 KYE RDO RJE_Lo Diamond (Hevajra)/01 YAB SKOR_Father Texts (Pitṛ)/VOL 8 (NYA)",
-            "timestamp": "2024-11-20 12:00:24.749876+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Yoga Yoginyasādhāraṇāpadeśa (Nāma)",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:24.749876+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:33:50.306499+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/01 KYE RDO RJE_Lo Diamond (Hevajra)/01 YAB SKOR_Father Texts (Pitṛ)/VOL 8 (NYA)",
+            "timestamp": "2024-12-03 11:33:50.306499+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

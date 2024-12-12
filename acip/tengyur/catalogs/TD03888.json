@@ -1,53 +1,47 @@
 {
     "name": "TD03888_DE KHO NA NYID SNANG BA ZHES BYA BA'I RAB TU BYED PA (Tattvāloka Nāma Prakaraṇa).txt",
-    "path": "04 DBU MA_Middle Way School (Madhyamaka)/VOL 12 (SA)",
+    "path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 12 (SA)",
     "download_path": "/tengyur updated 10 31 24 ws/04 dbu ma_middle way school (madhyamaka)/vol 12 (sa)/td03888_de kho na nyid snang ba zhes bya ba'i rab tu byed pa (tattvāloka nāma prakaraṇa).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB2-w",
     "revision_id": "62633bb0e09168d294473",
     "content_hash": "c005dc71860d185ce4fe6256e84971ca952fb0cb7c60d505b6a4ed8ea6d4906c",
     "server_modified": "2024-11-06 00:38:03",
-    "last_sync": "2024-11-20 03:58:55.957523",
+    "last_sync": "2024-12-03 11:32:38.535707+00:00",
     "size": 108729,
-    "meta_text": null,
     "cat_ref": "TD03888",
     "work_ref": "W.TD03888",
-    "title_tib": "",
+    "title_tib": "DE KHO NA NYID SNANG BA ZHES BYA BA'I RAB TU BYED PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "222100395445",
             "subject_path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 12 (SA)",
-            "subject_path_tibetan": "BSTAN 'GYUR/04 DBU MA/VOL 12 (SA)",
-            "subject_path_english": "Tengyur/Middle Way School (Madhyamaka)",
-            "subject_tibetan": "VOL 12 (SA)",
-            "subject_english": "Middle Way School (Madhyamaka)"
+            "subject_path_tibetan": "BSTAN 'GYUR/DBU MA/12 (SA)",
+            "subject_path_english": "Tengyur/Middle Way School (Madhyamaka)/VOL 12 (SA)",
+            "subject_tibetan": "12 (SA)",
+            "subject_english": "VOL 12 (SA)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 12 (SA)",
-            "timestamp": "2024-11-20 11:58:55.959435+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Tattvāloka Nāma Prakaraṇa",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:58:55.959435+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:32:38.537199+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 12 (SA)",
+            "timestamp": "2024-12-03 11:32:38.537199+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

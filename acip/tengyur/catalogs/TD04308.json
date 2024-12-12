@@ -1,53 +1,47 @@
 {
     "name": "TD04308_SLOB DPON KLU SGRUB KYIS BSHAD PA SMAN AA BA'I CHO GA (Ācārya Nāgārjunabāṣita Avabeṣajakalpa).txt",
-    "path": "13 GSO BA RIG PA_Medicine (Cikitsā Vidyā)/VOL 1 (HE)",
+    "path": "BSTAN 'GYUR_Tengyur/13 GSO BA RIG PA_Medicine (Cikitsā Vidyā)/VOL 1 (HE)",
     "download_path": "/tengyur updated 10 31 24 ws/13 gso ba rig pa_medicine (cikitsā vidyā)/vol 1 (he)/td04308_slob dpon klu sgrub kyis bshad pa sman aa ba'i cho ga (ācārya nāgārjunabāṣita avabeṣajakalpa).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACE4Q",
     "revision_id": "62633e4e63ed68d294473",
     "content_hash": "be76bc6cc7bff839fb9f806b143a72db11ffb1ac88ddfa077e79de3d136c0172",
     "server_modified": "2024-11-06 00:49:45",
-    "last_sync": "2024-11-20 04:01:42.502331",
+    "last_sync": "2024-12-03 11:34:53.542811+00:00",
     "size": 4913,
-    "meta_text": null,
     "cat_ref": "TD04308",
     "work_ref": "W.TD04308",
-    "title_tib": "",
+    "title_tib": "SLOB DPON KLU SGRUB KYIS BSHAD PA SMAN AA BA'I CHO GA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "360986381564",
             "subject_path": "BSTAN 'GYUR_Tengyur/13 GSO BA RIG PA_Medicine (Cikitsā Vidyā)/VOL 1 (HE)",
-            "subject_path_tibetan": "BSTAN 'GYUR/13 GSO BA RIG PA/VOL 1 (HE)",
-            "subject_path_english": "Tengyur/Medicine (Cikitsā Vidyā)",
-            "subject_tibetan": "VOL 1 (HE)",
-            "subject_english": "Medicine (Cikitsā Vidyā)"
+            "subject_path_tibetan": "BSTAN 'GYUR/GSO BA RIG PA/1 (HE)",
+            "subject_path_english": "Tengyur/Medicine (Cikitsā Vidyā)/VOL 1 (HE)",
+            "subject_tibetan": "1 (HE)",
+            "subject_english": "VOL 1 (HE)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/13 GSO BA RIG PA_Medicine (Cikitsā Vidyā)/VOL 1 (HE)",
-            "timestamp": "2024-11-20 12:01:42.513526+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Ācārya Nāgārjunabāṣita Avabeṣajakalpa",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:42.513526+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:34:53.544107+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/13 GSO BA RIG PA_Medicine (Cikitsā Vidyā)/VOL 1 (HE)",
+            "timestamp": "2024-12-03 11:34:53.544107+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

@@ -1,53 +1,47 @@
 {
     "name": "TD01110E_KHYAD PAR DU 'PHAGS PA'I BSTOD PA'I RGYA CHER BSHAD PA_A Detailed Explanation of 'A Praise of the One Who is Highly Exalted' (Viśeṣa Stava (Nāma) Ṭīkā).TXT",
-    "path": "01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
+    "path": "BSTAN 'GYUR_Tengyur/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
     "download_path": "/tengyur updated 10 31 24 ws/01 bstod tsogs_songs of praise (stotra)/vol 1 (ka)/td01110e_khyad par du 'phags pa'i bstod pa'i rgya cher bshad pa_a detailed explanation of 'a praise of the one who is highly exalted' (viśeṣa stava (nāma) ṭīkā).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB3sA",
     "revision_id": "62633bd3ba1418d294473",
     "content_hash": "808e5e241e66b8bf2378c07bd6164276eb8d854ed9ccb18805fc7ec5ce878cfa",
     "server_modified": "2024-11-06 00:38:40",
-    "last_sync": "2024-11-20 03:59:08.571838",
+    "last_sync": "2024-12-03 11:32:48.969342+00:00",
     "size": 146997,
-    "meta_text": null,
     "cat_ref": "TD01110E",
     "work_ref": "W.TD01110E",
     "title_tib": "KHYAD PAR DU 'PHAGS PA'I BSTOD PA'I RGYA CHER BSHAD PA",
-    "title_eng": "A Detailed Explanation of 'A Praise of the One Who is Highly Exalted' (Viśeṣa Stava (Nāma) Ṭīkā)",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
+    "title_eng": "A Detailed Explanation of 'A Praise of the One Who is Highly Exalted'",
     "subject": [
         {
             "_id": "243715146395",
             "subject_path": "BSTAN 'GYUR_Tengyur/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
-            "subject_path_tibetan": "BSTAN 'GYUR/01 BSTOD TSOGS/VOL 1 (KA)",
-            "subject_path_english": "Tengyur/Songs of Praise (Stotra)",
-            "subject_tibetan": "VOL 1 (KA)",
-            "subject_english": "Songs of Praise (Stotra)"
+            "subject_path_tibetan": "BSTAN 'GYUR/BSTOD TSOGS/1 (KA)",
+            "subject_path_english": "Tengyur/Songs of Praise (Stotra)/VOL 1 (KA)",
+            "subject_tibetan": "1 (KA)",
+            "subject_english": "VOL 1 (KA)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
-            "timestamp": "2024-11-20 11:59:09.231554+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Viśeṣa Stava (Nāma) Ṭīkā",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:59:09.231554+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:32:48.974853+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
+            "timestamp": "2024-12-03 11:32:48.974853+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

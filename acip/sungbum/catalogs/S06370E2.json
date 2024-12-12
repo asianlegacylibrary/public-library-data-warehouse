@@ -6,7 +6,7 @@
     "revision_id": "625a482adfb508d294473",
     "content_hash": "32a8960ff2c5a3f7d7292a904c83fe78ce66e626fdcb4a29fca355fcea307415",
     "server_modified": "2024-10-29 21:45:57",
-    "last_sync": "2024-11-19 20:53:48.865942",
+    "last_sync": "2024-11-26 15:22:57.713598",
     "size": 2348,
     "meta_text": null,
     "cat_ref": "S06370E2",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 04:54:07.137407+00:00"
+            "timestamp": "2024-11-26 23:23:11.591015+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/SGRUB THABS_RITUAL FOR REACHING THE ANGEL (SADHANA)",
-            "timestamp": "2024-11-20 04:55:39.058800+00:00"
+            "timestamp": "2024-11-26 23:24:11.793495+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:07.137407+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:11.591015+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T04:55:39.058800+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:24:11.793495+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

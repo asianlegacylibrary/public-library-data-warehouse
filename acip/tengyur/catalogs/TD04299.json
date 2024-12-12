@@ -1,53 +1,46 @@
 {
     "name": "TD04299_'CHI BA MED PA'I MDZOD CES BYA BA.txt",
-    "path": "12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 4 (SE)",
+    "path": "BSTAN 'GYUR_Tengyur/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 4 (SE)",
     "download_path": "/tengyur updated 10 31 24 ws/12 sgra mdo_study of sanskrit language (śabda)/vol 4 (se)/td04299_'chi ba med pa'i mdzod ces bya ba.txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACD9A",
     "revision_id": "62633e06050738d294473",
     "content_hash": "97f77d2b86eac23880f62ee0ffe5b559e775f06440bdd3c8cc64ac5d8d8bba37",
     "server_modified": "2024-11-06 00:48:29",
-    "last_sync": "2024-11-20 04:01:19.480778",
+    "last_sync": "2024-12-03 11:34:35.805581+00:00",
     "size": 407489,
-    "meta_text": null,
     "cat_ref": "TD04299",
     "work_ref": "W.TD04299",
     "title_tib": "'CHI BA MED PA'I MDZOD CES BYA BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "317736870141",
             "subject_path": "BSTAN 'GYUR_Tengyur/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 4 (SE)",
-            "subject_path_tibetan": "BSTAN 'GYUR/12 SGRA MDO/VOL 4 (SE)",
-            "subject_path_english": "Tengyur/Study of Sanskrit Language (Śabda)",
-            "subject_tibetan": "VOL 4 (SE)",
-            "subject_english": "Study of Sanskrit Language (Śabda)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SGRA MDO/4 (SE)",
+            "subject_path_english": "Tengyur/Study of Sanskrit Language (Śabda)/VOL 4 (SE)",
+            "subject_tibetan": "4 (SE)",
+            "subject_english": "VOL 4 (SE)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 4 (SE)",
-            "timestamp": "2024-11-20 12:01:19.491715+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:19.491715+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:34:35.807625+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 4 (SE)",
+            "timestamp": "2024-12-03 11:34:35.807625+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

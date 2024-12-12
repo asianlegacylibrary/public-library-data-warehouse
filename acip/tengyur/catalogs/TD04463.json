@@ -1,53 +1,47 @@
 {
     "name": "TD04463_BCOM LDAN 'DAS MA SHES RAB KYI PHA ROL TU PHYIN MA 'PHAGS MA TSIGS SU BCAD PA BDUN MA ZHES BYA BA'I MDO (Ārya Saptaślokikā Bhagavatī Prajñā Pāramitā Nāma Sūtra).txt",
-    "path": "16 SNA TSOGS_Miscellany (Citritā)/VOL 9 (PO)",
+    "path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 9 (PO)",
     "download_path": "/tengyur updated 10 31 24 ws/16 sna tsogs_miscellany (citritā)/vol 9 (po)/td04463_bcom ldan 'das ma shes rab kyi pha rol tu phyin ma 'phags ma tsigs su bcad pa bdun ma zhes bya ba'i mdo (ārya saptaślokikā bhagavatī prajñā pāramitā nāma sūtra).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACEjg",
     "revision_id": "62633e22b6fb08d294473",
     "content_hash": "1ade871e388d082bf50ee28354591467e87c117b42986fbd5e50d1b2cee73ca0",
     "server_modified": "2024-11-06 00:48:59",
-    "last_sync": "2024-11-20 04:01:24.403156",
+    "last_sync": "2024-12-03 11:34:39.939994+00:00",
     "size": 2344,
-    "meta_text": null,
     "cat_ref": "TD04463",
     "work_ref": "W.TD04463",
-    "title_tib": "",
+    "title_tib": "BCOM LDAN 'DAS MA SHES RAB KYI PHA ROL TU PHYIN MA 'PHAGS MA TSIGS SU BCAD PA BDUN MA ZHES BYA BA'I MDO",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "116521340964",
             "subject_path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 9 (PO)",
-            "subject_path_tibetan": "BSTAN 'GYUR/16 SNA TSOGS/VOL 9 (PO)",
-            "subject_path_english": "Tengyur/Miscellany (Citritā)",
-            "subject_tibetan": "VOL 9 (PO)",
-            "subject_english": "Miscellany (Citritā)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SNA TSOGS/9 (PO)",
+            "subject_path_english": "Tengyur/Miscellany (Citritā)/VOL 9 (PO)",
+            "subject_tibetan": "9 (PO)",
+            "subject_english": "VOL 9 (PO)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 9 (PO)",
-            "timestamp": "2024-11-20 12:01:24.405133+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Ārya Saptaślokikā Bhagavatī Prajñā Pāramitā Nāma Sūtra",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:24.405133+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:34:39.942317+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 9 (PO)",
+            "timestamp": "2024-12-03 11:34:39.942317+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

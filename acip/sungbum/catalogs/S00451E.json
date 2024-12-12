@@ -6,13 +6,13 @@
     "revision_id": "625a4884ceb038d294473",
     "content_hash": "aaa805f534f2e2ec0764b7109968811fd664486b6fd9dd36d977c6d9f1bfa0df",
     "server_modified": "2024-10-29 21:47:31",
-    "last_sync": "2024-11-19 20:57:21.191315",
+    "last_sync": "2024-11-26 15:25:22.095157",
     "size": 13944,
-    "meta_text": "('rm of the Secret Attainments (Guhyasadhana Hayagriva)_@ (@-@)', 'rtf')",
+    "meta_text": "rm of the Secret Attainments (Guhyasadhana Hayagriva)_@ (@-@)",
     "cat_ref": "S00451E",
     "work_ref": "W.S00451E",
     "title_tib": "RTA MGRIN GSANG SGRUB KYI SGO NAS SRI MNAN BYED TSUL RDO RJE'I LHUN BRTZEGS KYI NGAG 'DON BYA TSUL GYI 'DON BSGRIGS",
-    "title_eng": "'Building a Mountain of Diamond,' a Recitation Manual for Controlling Evil Spirits through the Angel Horse Throat, in the Fo('rm of the Secret Attainments (Guhyasadhana Hayagriva)@ (@-@)', 'rtf')",
+    "title_eng": "'Building a Mountain of Diamond,' a Recitation Manual for Controlling Evil Spirits through the Angel Horse Throat, in the Form of the Secret Attainments (Guhyasadhana Hayagriva)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -38,13 +38,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RTA MGRIN_HORSE THROAT (HAYAGRIVA)/SRI MNAN_SUPRESSING OBSTRUCTING SPIRITS",
-            "timestamp": "2024-11-20 04:57:21.197565+00:00"
+            "timestamp": "2024-11-26 23:25:22.102175+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:57:21.197565+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:25:22.102175+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

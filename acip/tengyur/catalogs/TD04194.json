@@ -1,53 +1,47 @@
 {
     "name": "TD04194_BOD RJE 'BANGS DANG BTZUN RNAMS LA SPRING YIG (Bhoṭasvāmidāsa Guru Lekha).txt",
-    "path": "10 SPRING YIG_Epistles (Lekha)/VOL 2 (NGE)",
+    "path": "BSTAN 'GYUR_Tengyur/10 SPRING YIG_Epistles (Lekha)/VOL 2 (NGE)",
     "download_path": "/tengyur updated 10 31 24 ws/10 spring yig_epistles (lekha)/vol 2 (nge)/td04194_bod rje 'bangs dang btzun rnams la spring yig (bhoṭasvāmidāsa guru lekha).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB12A",
     "revision_id": "62633b3f9d4728d294473",
     "content_hash": "df8f3c5aaa40b3d0055fb7df12fc5760d2f9d740cb5d0d686411ee8437824789",
     "server_modified": "2024-11-06 00:36:04",
-    "last_sync": "2024-11-20 03:58:12.226936",
+    "last_sync": "2024-12-03 11:31:57.478499+00:00",
     "size": 15486,
-    "meta_text": null,
     "cat_ref": "TD04194",
     "work_ref": "W.TD04194",
-    "title_tib": "",
+    "title_tib": "BOD RJE 'BANGS DANG BTZUN RNAMS LA SPRING YIG",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "161575116623",
             "subject_path": "BSTAN 'GYUR_Tengyur/10 SPRING YIG_Epistles (Lekha)/VOL 2 (NGE)",
-            "subject_path_tibetan": "BSTAN 'GYUR/10 SPRING YIG/VOL 2 (NGE)",
-            "subject_path_english": "Tengyur/Epistles (Lekha)",
-            "subject_tibetan": "VOL 2 (NGE)",
-            "subject_english": "Epistles (Lekha)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SPRING YIG/2 (NGE)",
+            "subject_path_english": "Tengyur/Epistles (Lekha)/VOL 2 (NGE)",
+            "subject_tibetan": "2 (NGE)",
+            "subject_english": "VOL 2 (NGE)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/10 SPRING YIG_Epistles (Lekha)/VOL 2 (NGE)",
-            "timestamp": "2024-11-20 11:58:12.234427+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Bhoṭasvāmidāsa Guru Lekha",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:58:12.234427+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:31:57.482321+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/10 SPRING YIG_Epistles (Lekha)/VOL 2 (NGE)",
+            "timestamp": "2024-12-03 11:31:57.482321+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

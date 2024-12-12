@@ -1,53 +1,47 @@
 {
     "name": "TD03581_'PHAGS MA GZHAN GYIS MI THUB MA GDUGS DKAR MO CAN GYI SGRUB THABS (Ārya Sitātapatrāparājitā Sādhana).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/vol 76 (mu)/td03581_'phags ma gzhan gyis mi thub ma gdugs dkar mo can gyi sgrub thabs (ārya sitātapatrāparājitā sādhana).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB_4Q",
     "revision_id": "62633d4baea338d294473",
     "content_hash": "98a9da11e56060f0f32da96119f8589d9d94f3ccea58fdd50c10131d59403036",
     "server_modified": "2024-11-06 00:45:14",
-    "last_sync": "2024-11-20 04:00:45.093025",
+    "last_sync": "2024-12-03 11:34:07.466541+00:00",
     "size": 1317,
-    "meta_text": null,
     "cat_ref": "TD03581",
     "work_ref": "W.TD03581",
-    "title_tib": "",
+    "title_tib": "'PHAGS MA GZHAN GYIS MI THUB MA GDUGS DKAR MO CAN GYI SGRUB THABS",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "121782366104",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/VOL 76 (MU)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)",
-            "subject_tibetan": "VOL 76 (MU)",
-            "subject_english": "Diamond Way (Vajrayāna)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/76 (MU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/VOL 76 (MU)",
+            "subject_tibetan": "76 (MU)",
+            "subject_english": "VOL 76 (MU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
-            "timestamp": "2024-11-20 12:00:45.253658+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Ārya Sitātapatrāparājitā Sādhana",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:45.253658+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:34:07.479066+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
+            "timestamp": "2024-12-03 11:34:07.479066+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

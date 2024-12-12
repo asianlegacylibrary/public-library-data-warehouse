@@ -1,53 +1,47 @@
 {
     "name": "TD04209_GTAN TSIGS KYI 'KHOR LO GTAN LA DBAB PA (Hetu Cakra Ḍamaru).txt",
-    "path": "11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 1 (CE)",
+    "path": "BSTAN 'GYUR_Tengyur/11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 1 (CE)",
     "download_path": "/tengyur updated 10 31 24 ws/11 tsad ma_logic & perceptual theory (pramāṇa)/vol 1 (ce)/td04209_gtan tsigs kyi 'khor lo gtan la dbab pa (hetu cakra ḍamaru).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB2Wg",
     "revision_id": "62633b6b5f5678d294473",
     "content_hash": "f60af334ace624442f5d6d40f659497943d35727fb6d57bd4f01ecfee559a8fe",
     "server_modified": "2024-11-06 00:36:50",
-    "last_sync": "2024-11-20 03:58:25.787900",
+    "last_sync": "2024-12-03 11:32:09.991644+00:00",
     "size": 1941,
-    "meta_text": null,
     "cat_ref": "TD04209",
     "work_ref": "W.TD04209",
-    "title_tib": "",
+    "title_tib": "GTAN TSIGS KYI 'KHOR LO GTAN LA DBAB PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "252070677705",
             "subject_path": "BSTAN 'GYUR_Tengyur/11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 1 (CE)",
-            "subject_path_tibetan": "BSTAN 'GYUR/11 TSAD MA/VOL 1 (CE)",
-            "subject_path_english": "Tengyur/Logic & Perceptual Theory (Pramāṇa)",
-            "subject_tibetan": "VOL 1 (CE)",
-            "subject_english": "Logic & Perceptual Theory (Pramāṇa)"
+            "subject_path_tibetan": "BSTAN 'GYUR/TSAD MA/1 (CE)",
+            "subject_path_english": "Tengyur/Logic & Perceptual Theory (Pramāṇa)/VOL 1 (CE)",
+            "subject_tibetan": "1 (CE)",
+            "subject_english": "VOL 1 (CE)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 1 (CE)",
-            "timestamp": "2024-11-20 11:58:25.791516+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Hetu Cakra Ḍamaru",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:58:25.791516+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:32:09.993760+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 1 (CE)",
+            "timestamp": "2024-12-03 11:32:09.993760+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

@@ -6,7 +6,7 @@
     "revision_id": "625a48fdb2b348d294473",
     "content_hash": "12a469f124aa5ad8f414cda60cf7f1c7930a875b79bdfe3736ed77e72250ba76",
     "server_modified": "2024-10-29 21:49:38",
-    "last_sync": "2024-11-19 21:03:45.689148",
+    "last_sync": "2024-11-26 15:29:56.529399",
     "size": 7282,
     "meta_text": null,
     "cat_ref": "S00531E",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/JA MCHOD_TEA OFFERING",
-            "timestamp": "2024-11-20 05:03:45.693137+00:00"
+            "timestamp": "2024-11-26 23:29:56.535190+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/TSES BCU_OFFERING OF THE TENTH DAY",
-            "timestamp": "2024-11-20 05:05:03.569279+00:00"
+            "timestamp": "2024-11-26 23:30:51.267518+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:03:45.693137+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:29:56.535190+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:05:03.569279+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:30:51.267518+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

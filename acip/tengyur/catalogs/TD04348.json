@@ -1,53 +1,47 @@
 {
     "name": "TD04348_LUNG DU STON PA'I RTZA BA SUM CU PA ZHES BYA BA (Vyākaraṇa Mūla Triṃśaka Nāma).txt",
-    "path": "16 SNA TSOGS_Miscellany (Citritā)/VOL 1 (CO)",
+    "path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 1 (CO)",
     "download_path": "/tengyur updated 10 31 24 ws/16 sna tsogs_miscellany (citritā)/vol 1 (co)/td04348_lung du ston pa'i rtza ba sum cu pa zhes bya ba (vyākaraṇa mūla triṃśaka nāma).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACElw",
     "revision_id": "62633e2b7c9e68d294473",
     "content_hash": "8d6ddea08a3af7176cace9e24e4b7816b9d836185be1e0b05eb7ed8c068047c2",
     "server_modified": "2024-11-06 00:49:09",
-    "last_sync": "2024-11-20 04:01:25.249727",
+    "last_sync": "2024-12-03 11:34:40.543207+00:00",
     "size": 4865,
-    "meta_text": null,
     "cat_ref": "TD04348",
     "work_ref": "W.TD04348",
-    "title_tib": "",
+    "title_tib": "LUNG DU STON PA'I RTZA BA SUM CU PA ZHES BYA BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "198634923948",
             "subject_path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 1 (CO)",
-            "subject_path_tibetan": "BSTAN 'GYUR/16 SNA TSOGS/VOL 1 (CO)",
-            "subject_path_english": "Tengyur/Miscellany (Citritā)",
-            "subject_tibetan": "VOL 1 (CO)",
-            "subject_english": "Miscellany (Citritā)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SNA TSOGS/1 (CO)",
+            "subject_path_english": "Tengyur/Miscellany (Citritā)/VOL 1 (CO)",
+            "subject_tibetan": "1 (CO)",
+            "subject_english": "VOL 1 (CO)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 1 (CO)",
-            "timestamp": "2024-11-20 12:01:25.257362+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Vyākaraṇa Mūla Triṃśaka Nāma",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:25.257362+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:34:40.545115+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 1 (CO)",
+            "timestamp": "2024-12-03 11:34:40.545115+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

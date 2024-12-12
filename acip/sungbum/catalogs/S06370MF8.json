@@ -6,13 +6,13 @@
     "revision_id": "625a4823f9c038d294473",
     "content_hash": "84e7a405df55ff7f734d7e24166a962d8bb4adf05a769ecc6aea95c30803a984",
     "server_modified": "2024-10-29 21:45:50",
-    "last_sync": "2024-11-19 20:53:43.952475",
+    "last_sync": "2024-11-26 15:22:54.536025",
     "size": 305,
-    "meta_text": "('ll Monk_DNGUL CHU DHARMA BHADRA (1772-1851)', 'text')",
+    "meta_text": "ll Monk_DNGUL CHU DHARMA BHADRA (1772-1851)",
     "cat_ref": "S06370MF8",
     "work_ref": "W.S06370MF8",
     "title_tib": "DGE TSUL GYI BSLAB BYA BSTAN NA DGE SLONG GI BSLAB BYA STON DGOS PA'I KHYAB PA YOD MED SKOR GYI DRI LAN",
-    "title_eng": "Response to a Question about Whether, if a Treatise Presents the Rules for a Novice Monk, it Must Always then Present the Rules of a Fu('ll Monk",
+    "title_eng": "Response to a Question about Whether, if a Treatise Presents the Rules for a Novice Monk, it Must Always then Present the Rules of a Full Monk",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 04:54:07.135722+00:00"
+            "timestamp": "2024-11-26 23:23:11.588880+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 05:13:38.741094+00:00"
+            "timestamp": "2024-11-26 23:36:42.772121+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:07.135722+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:11.588880+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:13:38.741094+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:36:42.772121+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

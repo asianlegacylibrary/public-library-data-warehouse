@@ -1,53 +1,47 @@
 {
     "name": "TD01191_RGYUD KYI RGYAL PO CHEN PO DPAL DGYES PA'I RDO RJE'I DKA' 'GREL SPYAN 'BYED CES BYA BA (Śrī Hevajra Tantra Mahārājasya Pañjikā Netrī Vibhaṃga Nāma).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/01 KYE RDO RJE_Lo Diamond (Hevajra)/01 YAB SKOR_Father Texts (Pitṛ)/VOL 4 (NGA)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/01 KYE RDO RJE_Lo Diamond (Hevajra)/01 YAB SKOR_Father Texts (Pitṛ)/VOL 4 (NGA)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/01 rnal 'byor bla med_unsurpassed practice (anuttara yoga)/01 kye rdo rje_lo diamond (hevajra)/01 yab skor_father texts (pitṛ)/vol 4 (nga)/td01191_rgyud kyi rgyal po chen po dpal dgyes pa'i rdo rje'i dka' 'grel spyan 'byed ces bya ba (śrī hevajra tantra mahārājasya pañjikā netrī vibhaṃga nāma).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB9gw",
     "revision_id": "62633ce2aaf448d294473",
     "content_hash": "e75646c7fa543ef775d40ad5b62fa1d79a3859c3ccd49e2bab97600ab6a1420a",
     "server_modified": "2024-11-06 00:43:24",
-    "last_sync": "2024-11-20 04:00:27.194368",
+    "last_sync": "2024-12-03 11:33:52.524998+00:00",
     "size": 339129,
-    "meta_text": null,
     "cat_ref": "TD01191",
     "work_ref": "W.TD01191",
-    "title_tib": "",
+    "title_tib": "RGYUD KYI RGYAL PO CHEN PO DPAL DGYES PA'I RDO RJE'I DKA' 'GREL SPYAN 'BYED CES BYA BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "445482307021",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/01 KYE RDO RJE_Lo Diamond (Hevajra)/01 YAB SKOR_Father Texts (Pitṛ)/VOL 4 (NGA)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/01 RNAL 'BYOR BLA MED/01 KYE RDO RJE/01 YAB SKOR/VOL 4 (NGA)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Lo Diamond (Hevajra)/Father Texts (Pitṛ)",
-            "subject_tibetan": "VOL 4 (NGA)",
-            "subject_english": "Father Texts (Pitṛ)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/RNAL 'BYOR BLA MED/KYE RDO RJE/YAB SKOR/4 (NGA)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Lo Diamond (Hevajra)/Father Texts (Pitṛ)/VOL 4 (NGA)",
+            "subject_tibetan": "4 (NGA)",
+            "subject_english": "VOL 4 (NGA)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/01 KYE RDO RJE_Lo Diamond (Hevajra)/01 YAB SKOR_Father Texts (Pitṛ)/VOL 4 (NGA)",
-            "timestamp": "2024-11-20 12:00:27.200219+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Śrī Hevajra Tantra Mahārājasya Pañjikā Netrī Vibhaṃga Nāma",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:27.200219+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:33:52.525664+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/01 KYE RDO RJE_Lo Diamond (Hevajra)/01 YAB SKOR_Father Texts (Pitṛ)/VOL 4 (NGA)",
+            "timestamp": "2024-12-03 11:33:52.525664+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

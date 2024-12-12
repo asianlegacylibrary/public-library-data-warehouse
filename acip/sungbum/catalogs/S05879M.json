@@ -6,13 +6,13 @@
     "revision_id": "625a4a0ee10748d294473",
     "content_hash": "4627c8a4fee30922fe36851b24f392290b2d2a6265453481b9966f869245fa58",
     "server_modified": "2024-10-29 21:54:25",
-    "last_sync": "2024-11-19 21:15:14.547318",
+    "last_sync": "2024-11-26 15:37:48.442471",
     "size": 132646,
-    "meta_text": "('ion of the High Qualities of Three Great Wise and Accomplished Saints_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)', 'rtf')",
+    "meta_text": "ion of the High Qualities of Three Great Wise and Accomplished Saints_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)",
     "cat_ref": "S05879M",
     "work_ref": "W.S05879M",
     "title_tib": "MKHAS GRUB CHEN PO GSUM GYI YON TAN MDOR BSDUS PA'I SGO NAS RTOGS PA BRJOD PA MKHAS PA'I YID 'PHROG GRUB PA'I RGYAN",
-    "title_eng": "Life Stories of the Realized, a 'Jewel for Accomplished Saints, to Steal Away the Hearts of the Wise,' being a Brief Presenta('ion of the High Qualities of Three Great Wise and Accomplished Saints",
+    "title_eng": "Life Stories of the Realized, a 'Jewel for Accomplished Saints, to Steal Away the Hearts of the Wise,' being a Brief Presentaion of the High Qualities of Three Great Wise and Accomplished Saints",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -57,33 +57,33 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/DBEN SA PA BLO BZANG DON GRUB_WENSAPA LOBSANG DUNDRUP",
-            "timestamp": "2024-11-20 05:15:14.553000+00:00"
+            "timestamp": "2024-11-26 23:37:48.452104+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/SANGS RGYAS YE SHES_SANGYE YESHE",
-            "timestamp": "2024-11-20 05:16:04.045738+00:00"
+            "timestamp": "2024-11-26 23:38:22.192746+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/SKYABS  MCHOG DPAL BZANG PO_KYABCHOK PEL SANGPO",
-            "timestamp": "2024-11-20 05:16:06.006306+00:00"
+            "timestamp": "2024-11-26 23:38:23.826625+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:15:14.553000+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:37:48.452104+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:16:04.045738+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:38:22.192746+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         },
         {
-            "timestamp": "2024-11-20T05:16:06.006306+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:38:23.826625+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

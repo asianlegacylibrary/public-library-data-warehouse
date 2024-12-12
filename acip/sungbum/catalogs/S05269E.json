@@ -6,7 +6,7 @@
     "revision_id": "625a488abebd48d294473",
     "content_hash": "d42b711b5c498bcf437f2e1c036e29e3d8bfcc5635e7278a782fdd584d3cc7ee",
     "server_modified": "2024-10-29 21:47:38",
-    "last_sync": "2024-11-19 20:57:30.942042",
+    "last_sync": "2024-11-26 15:25:28.826054",
     "size": 79404,
     "meta_text": null,
     "cat_ref": "S05269E",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BLA MA LNGA BCU PA_50 VERSES ON LAMAS (GURUPANCHASIKA)/'GREL PA_COMMENTARIES",
-            "timestamp": "2024-11-20 04:57:30.950540+00:00"
+            "timestamp": "2024-11-26 23:25:28.834832+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:57:30.950540+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:25:28.834832+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

@@ -6,13 +6,13 @@
     "revision_id": "625a4a56f48638d294473",
     "content_hash": "6ef42152ff76de7c449e84c2e3754caea403dc3d562705f5e46247b6885926b4",
     "server_modified": "2024-10-29 21:55:40",
-    "last_sync": "2024-11-19 21:17:31.202096",
+    "last_sync": "2024-11-26 15:39:23.665475",
     "size": 19721,
-    "meta_text": "('ood_DNGUL CHU DHARMA BHADRA (1772-1851)', 'rtf')",
+    "meta_text": "ood_DNGUL CHU DHARMA BHADRA (1772-1851)",
     "cat_ref": "S06335M",
     "work_ref": "W.S06335M",
     "title_tib": "BYANG CHUB LAM GYI RIM PA BDE LAM GYI SNYING PO BSDUS TE BSHAR SGOM GYI TSUL DU NYAMS SU LEN TSUL",
-    "title_eng": "A Method for Implementing a Review Meditation on the Briefest Essence of 'The Path of Ease,' a Presentation of the Steps of the Path to Buddhah('ood",
+    "title_eng": "A Method for Implementing a Review Meditation on the Briefest Essence of 'The Path of Ease,' a Presentation of the Steps of the Path to Buddhahood",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/BDE LAM_PATH TO BLISS/'GREL PA_COMMENTARIES",
-            "timestamp": "2024-11-20 05:17:34.027233+00:00"
+            "timestamp": "2024-11-26 23:39:26.207105+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/LAM RIM RNAM GZHAG_GENERAL PRESENTATIONS ON THE STEPS OF THE PATH",
-            "timestamp": "2024-11-20 05:18:00.870725+00:00"
+            "timestamp": "2024-11-26 23:39:42.927410+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:17:34.027233+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:39:26.207105+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:18:00.870725+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:39:42.927410+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

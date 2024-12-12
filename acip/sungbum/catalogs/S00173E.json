@@ -6,9 +6,9 @@
     "revision_id": "625a486bf47798d294473",
     "content_hash": "a8c4990ca2b990c56aef03f42e41f85acc4b73938ca6a8a1981b8525dcd29621",
     "server_modified": "2024-10-29 21:47:05",
-    "last_sync": "2024-11-19 20:55:54.579713",
+    "last_sync": "2024-11-26 15:24:22.640083",
     "size": 46350,
-    "meta_text": "('LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN (1642-1714)', 'rtf')",
+    "meta_text": "LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN (1642-1714)",
     "cat_ref": "S00173E",
     "work_ref": "W.S00173E",
     "title_tib": "BDE MCHOG DRIL BU PA'I LUS DKYIL GYI DBANG BSHAD",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/LUS DKYIL_SECRET WORLD OF THE BODY",
-            "timestamp": "2024-11-20 04:55:59.793987+00:00"
+            "timestamp": "2024-11-26 23:24:25.167855+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:55:59.793987+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:24:25.167855+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

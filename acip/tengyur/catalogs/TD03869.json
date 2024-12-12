@@ -1,53 +1,47 @@
 {
     "name": "TD03869_RTOG GE THO BA'I TSIG LE'UR BYAS PA ZHES BYA BA (Tarkamudgara Kārikā Nāma).txt",
-    "path": "04 DBU MA_Middle Way School (Madhyamaka)/VOL 8 (YA)",
+    "path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 8 (YA)",
     "download_path": "/tengyur updated 10 31 24 ws/04 dbu ma_middle way school (madhyamaka)/vol 8 (ya)/td03869_rtog ge tho ba'i tsig le'ur byas pa zhes bya ba (tarkamudgara kārikā nāma).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB3Gg",
     "revision_id": "62633bb9913538d294473",
     "content_hash": "2a1654babd05fecffdac0aaecbd135ce5f4735d41de9773db71e779517133c1c",
     "server_modified": "2024-11-06 00:38:12",
-    "last_sync": "2024-11-20 03:59:01.026140",
+    "last_sync": "2024-12-03 11:32:42.310038+00:00",
     "size": 3193,
-    "meta_text": null,
     "cat_ref": "TD03869",
     "work_ref": "W.TD03869",
-    "title_tib": "",
+    "title_tib": "RTOG GE THO BA'I TSIG LE'UR BYAS PA ZHES BYA BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "166883671942",
             "subject_path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 8 (YA)",
-            "subject_path_tibetan": "BSTAN 'GYUR/04 DBU MA/VOL 8 (YA)",
-            "subject_path_english": "Tengyur/Middle Way School (Madhyamaka)",
-            "subject_tibetan": "VOL 8 (YA)",
-            "subject_english": "Middle Way School (Madhyamaka)"
+            "subject_path_tibetan": "BSTAN 'GYUR/DBU MA/8 (YA)",
+            "subject_path_english": "Tengyur/Middle Way School (Madhyamaka)/VOL 8 (YA)",
+            "subject_tibetan": "8 (YA)",
+            "subject_english": "VOL 8 (YA)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 8 (YA)",
-            "timestamp": "2024-11-20 11:59:01.044287+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Tarkamudgara Kārikā Nāma",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:59:01.044287+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:32:42.310973+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 8 (YA)",
+            "timestamp": "2024-12-03 11:32:42.310973+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

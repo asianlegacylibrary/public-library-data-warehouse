@@ -6,7 +6,7 @@
     "revision_id": "625a47d3623868d294473",
     "content_hash": "8db0d156368301e3feaa698df02711c689f0c442c4d1618da981c8635e584bac",
     "server_modified": "2024-10-29 21:44:25",
-    "last_sync": "2024-11-19 20:51:11.016804",
+    "last_sync": "2024-11-26 15:21:11.686948",
     "size": 8024,
     "meta_text": null,
     "cat_ref": "S19045E",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/LHA BZO_FINE ARTS/MCHOD RTEN_STUPAS/THIG RTZA_MANUALS FOR THE CONSTRUCTION OF STUPAS",
-            "timestamp": "2024-11-20 04:51:11.021878+00:00"
+            "timestamp": "2024-11-26 23:21:11.693030+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:51:11.021878+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:21:11.693030+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

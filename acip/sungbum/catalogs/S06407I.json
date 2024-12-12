@@ -6,7 +6,7 @@
     "revision_id": "625a4aefaec368d294473",
     "content_hash": "d1f8dd56f73aac21c036d695a91f767fa7c6ddec692b0bf20bf62eecd7606435",
     "server_modified": "2024-10-29 21:58:20",
-    "last_sync": "2024-11-19 21:25:39.556355",
+    "last_sync": "2024-11-26 15:44:51.318661",
     "size": 20276,
     "meta_text": null,
     "cat_ref": "S06407I",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/SKAR RTZIS_ASTROLOGY/'BRAS RTZIS_PROGNOSTICATION",
-            "timestamp": "2024-11-20 05:25:39.561153+00:00"
+            "timestamp": "2024-11-26 23:44:51.323400+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:25:39.561153+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:44:51.323400+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

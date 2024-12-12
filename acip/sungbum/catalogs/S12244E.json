@@ -6,13 +6,13 @@
     "revision_id": "625a4931ddf498d294473",
     "content_hash": "daecc90777c8ec9f2b7cbb97ed9d99c1c8feff7299d49e0e8631a8ced83f7f95",
     "server_modified": "2024-10-29 21:50:33",
-    "last_sync": "2024-11-19 21:05:45.979790",
+    "last_sync": "2024-11-26 15:31:19.664544",
     "size": 8223,
-    "meta_text": "('ama in the Secret Teachings of the Wheel of Time (Kalachakra)_RJE BTZUN BLO BZANG RTA DBYANGS (1867-1937)', 'rtf')",
+    "meta_text": "ama in the Secret Teachings of the Wheel of Time (Kalachakra)_RJE BTZUN BLO BZANG RTA DBYANGS (1867-1937)",
     "cat_ref": "S12244E",
     "work_ref": "W.S12244E",
     "title_tib": "DUS KYI 'KHOR LO'I BLA MA'I RNAL 'BYOR DANG 'BREL BAR BSDUS RGYUD SNYING PO 'DON THABS STONG GZUGS MYUR LAM",
-    "title_eng": "Quick Path to the Body of the Void--A Method for Reciting the Essence of the Abbreviated Secret Text related to the Practice of the L('ama in the Secret Teachings of the Wheel of Time (Kalachakra)",
+    "title_eng": "Quick Path to the Body of the Void--A Method for Reciting the Essence of the Abbreviated Secret Text related to the Practice of the Lama in the Secret Teachings of the Wheel of Time (Kalachakra)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/BLA MA'I RNAL 'BYOR_LAMA PRACTICE (GURU YOGA)",
-            "timestamp": "2024-11-20 05:05:45.985127+00:00"
+            "timestamp": "2024-11-26 23:31:19.673073+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:05:45.985127+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:31:19.673073+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

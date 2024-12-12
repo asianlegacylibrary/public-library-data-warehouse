@@ -1,53 +1,47 @@
 {
     "name": "TD04002_TSIGS SU BCAD PA GNYIS PA'I BSHAD PA (Gāthā Dvaya Vyākhyāna).txt",
-    "path": "05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 4 (JI)",
+    "path": "BSTAN 'GYUR_Tengyur/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 4 (JI)",
     "download_path": "/tengyur updated 10 31 24 ws/05 mdo 'grel_commentaries to sutras (sūtra vṛtti)/vol 4 (ji)/td04002_tsigs su bcad pa gnyis pa'i bshad pa (gāthā dvaya vyākhyāna).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB1pg",
     "revision_id": "62633b3464f038d294473",
     "content_hash": "c4323337950bd03753d37d74a293af138f4bd4945dd2feea480e32971427b240",
     "server_modified": "2024-11-06 00:35:53",
-    "last_sync": "2024-11-20 03:58:06.720861",
+    "last_sync": "2024-12-03 11:31:53.085223+00:00",
     "size": 27975,
-    "meta_text": null,
     "cat_ref": "TD04002",
     "work_ref": "W.TD04002",
-    "title_tib": "",
+    "title_tib": "TSIGS SU BCAD PA GNYIS PA'I BSHAD PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "164592281565",
             "subject_path": "BSTAN 'GYUR_Tengyur/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 4 (JI)",
-            "subject_path_tibetan": "BSTAN 'GYUR/05 MDO 'GREL/VOL 4 (JI)",
-            "subject_path_english": "Tengyur/Commentaries to Sutras (Sūtra Vṛtti)",
-            "subject_tibetan": "VOL 4 (JI)",
-            "subject_english": "Commentaries to Sutras (Sūtra Vṛtti)"
+            "subject_path_tibetan": "BSTAN 'GYUR/MDO 'GREL/4 (JI)",
+            "subject_path_english": "Tengyur/Commentaries to Sutras (Sūtra Vṛtti)/VOL 4 (JI)",
+            "subject_tibetan": "4 (JI)",
+            "subject_english": "VOL 4 (JI)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 4 (JI)",
-            "timestamp": "2024-11-20 11:58:06.729890+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Gāthā Dvaya Vyākhyāna",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:58:06.729890+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:31:53.087316+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 4 (JI)",
+            "timestamp": "2024-12-03 11:31:53.087316+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

@@ -6,13 +6,13 @@
     "revision_id": "625a47f2644de8d294473",
     "content_hash": "995b0898e437d6b5abe962f65248cdc3f932149bc006fa317d8160e9a17ed007",
     "server_modified": "2024-10-29 21:44:58",
-    "last_sync": "2024-11-19 20:52:12.604965",
+    "last_sync": "2024-11-26 15:21:54.920010",
     "size": 378362,
-    "meta_text": "('nd Ultimate Reality according to Each of the Four Classical Schools of Thought_CHOS RJE NGAG DBANG DPAL LDAN (1806-@)', 'rtf')",
+    "meta_text": "nd Ultimate Reality according to Each of the Four Classical Schools of Thought_CHOS RJE NGAG DBANG DPAL LDAN (1806-@)",
     "cat_ref": "S00980E",
     "work_ref": "W.S00980E",
     "title_tib": "GRUB MTHA' BZHI'I LUGS KYI KUN RDZOB DANG DON DAM PA'I DON RNAM PAR BSHAD PA LEGS BSHAD DPYID KYI DPAL MO'I GLU DBYANGS",
-    "title_eng": "'A Book of Eloquence, being a Song of the Lady of the Glory of Spring,' being an Treatise upon the Meaning of Deceptive a('nd Ultimate Reality according to Each of the Four Classical Schools of Thought",
+    "title_eng": "'A Book of Eloquence, being a Song of the Lady of the Glory of Spring,' being an Treatise upon the Meaning of Deceptive and Ultimate Reality according to Each of the Four Classical Schools of Thought",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/BDEN GNYIS KYI RNAM GZHAG_PRESENTATIONS ON THE TWO REALITIES",
-            "timestamp": "2024-11-20 04:52:12.613075+00:00"
+            "timestamp": "2024-11-26 23:21:54.928018+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/GRUB MTHA'_COMPARATIVE PHILOSOPHY (SIDDHANTA)/CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN_CHUJE KALKA NGAWANG PELDEN (1806-?)",
-            "timestamp": "2024-11-20 05:19:09.736350+00:00"
+            "timestamp": "2024-11-26 23:40:31.787576+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:52:12.613075+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:21:54.928018+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:19:09.736350+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:40:31.787576+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

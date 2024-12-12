@@ -1,53 +1,47 @@
 {
     "name": "TD01171_MKHAS PA CHEN PO GRAGS PA RGYAL MTSAN LA BSTOD PA (Mahāpaṇḍita Kīrti Dhvaja Stotra).txt",
-    "path": "01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
+    "path": "BSTAN 'GYUR_Tengyur/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
     "download_path": "/tengyur updated 10 31 24 ws/01 bstod tsogs_songs of praise (stotra)/vol 1 (ka)/td01171_mkhas pa chen po grags pa rgyal mtsan la bstod pa (mahāpaṇḍita kīrti dhvaja stotra).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB3qw",
     "revision_id": "62633bd20131f8d294473",
     "content_hash": "44610074844e2ad5c12ac207fb93c0303621626afac60c81abde608132d976b9",
     "server_modified": "2024-11-06 00:38:38",
-    "last_sync": "2024-11-20 03:59:08.569465",
+    "last_sync": "2024-12-03 11:32:48.969210+00:00",
     "size": 3265,
-    "meta_text": null,
     "cat_ref": "TD01171",
     "work_ref": "W.TD01171",
-    "title_tib": "",
+    "title_tib": "MKHAS PA CHEN PO GRAGS PA RGYAL MTSAN LA BSTOD PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "243715146395",
             "subject_path": "BSTAN 'GYUR_Tengyur/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
-            "subject_path_tibetan": "BSTAN 'GYUR/01 BSTOD TSOGS/VOL 1 (KA)",
-            "subject_path_english": "Tengyur/Songs of Praise (Stotra)",
-            "subject_tibetan": "VOL 1 (KA)",
-            "subject_english": "Songs of Praise (Stotra)"
+            "subject_path_tibetan": "BSTAN 'GYUR/BSTOD TSOGS/1 (KA)",
+            "subject_path_english": "Tengyur/Songs of Praise (Stotra)/VOL 1 (KA)",
+            "subject_tibetan": "1 (KA)",
+            "subject_english": "VOL 1 (KA)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
-            "timestamp": "2024-11-20 11:59:09.231502+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Mahāpaṇḍita Kīrti Dhvaja Stotra",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:59:09.231502+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:32:48.974691+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/01 BSTOD TSOGS_Songs of Praise (Stotra)/VOL 1 (KA)",
+            "timestamp": "2024-12-03 11:32:48.974691+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

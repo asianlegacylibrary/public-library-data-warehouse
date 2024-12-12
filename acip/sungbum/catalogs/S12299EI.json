@@ -6,9 +6,9 @@
     "revision_id": "625a4a9dc0c768d294473",
     "content_hash": "8a77a85f61ca374e5f87810eedeebad71c8b6875d6438bdaee1ab31147022254",
     "server_modified": "2024-10-29 21:56:54",
-    "last_sync": "2024-11-19 21:20:25.135093",
+    "last_sync": "2024-11-26 15:41:26.978832",
     "size": 2811,
-    "meta_text": "(\"BANG BLO BZANG BSTAN PA'I RGYAL MTSAN (1770-1845)\", 'rtf')",
+    "meta_text": "BANG BLO BZANG BSTAN PA'I RGYAL MTSAN (1770-1845)",
     "cat_ref": "S12299EI",
     "work_ref": "W.S12299EI",
     "title_tib": "GRUB BA DANG RNAL 'BYOR BAR RLOM PA RNAMS KYI DE NYID GSAL BAR BYED PA'I ME LONG",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/LCANG LUNG AARYA PAndI TA NGAG DBANG BLO BZANG BSTAN PA'I RGYAL MTSAN_CHANGLUNG ARYA PANDITA NGAWANG LOBSANG TENPAY GYELTSEN (1770-1845)",
-            "timestamp": "2024-11-20 05:20:27.115995+00:00"
+            "timestamp": "2024-11-26 23:41:28.242535+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:20:27.115995+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:41:28.242535+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

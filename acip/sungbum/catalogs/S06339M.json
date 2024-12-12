@@ -6,9 +6,9 @@
     "revision_id": "625a4a55746a08d294473",
     "content_hash": "57452c74d918123ffddbeb2f2357d025520c1585fb9938345399800d0baba3ec",
     "server_modified": "2024-10-29 21:55:39",
-    "last_sync": "2024-11-19 21:17:21.793507",
+    "last_sync": "2024-11-26 15:39:17.769595",
     "size": 13193,
-    "meta_text": "('72-1851)', 'rtf')",
+    "meta_text": "72-1851)",
     "cat_ref": "S06339M",
     "work_ref": "W.S06339M",
     "title_tib": "BYANG CHUB LAM GYI RIM PA BDE LAM GYI SNYING PO DANG LAM RIM RNAM GZHAG",
@@ -31,8 +31,8 @@
     "author": [
         {
             "author_name": "DNGUL CHU DHARMA BHADRA",
-            "author_birth": null,
-            "author_death": null,
+            "author_birth": "1772",
+            "author_death": "1851",
             "bdrc_id": "bdr:P289",
             "normalized_name": "DNGUL CHU DHARMA BHADRA",
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/BDE LAM_PATH TO BLISS/BSHAR SGOM_REVIEW MEDITATION",
-            "timestamp": "2024-11-20 05:17:21.797724+00:00"
+            "timestamp": "2024-11-26 23:39:17.778112+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:17:21.797724+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:39:17.778112+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

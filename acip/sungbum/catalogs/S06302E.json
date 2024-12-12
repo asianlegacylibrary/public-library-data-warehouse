@@ -6,9 +6,9 @@
     "revision_id": "625a488abebdd8d294473",
     "content_hash": "effea6410b643a00558bd2e83f5dd7579950aa49e6c88ee8b9f1776676688589",
     "server_modified": "2024-10-29 21:47:38",
-    "last_sync": "2024-11-19 20:57:42.602565",
+    "last_sync": "2024-11-26 15:25:38.022846",
     "size": 5959,
-    "meta_text": "('2-1851)', 'rtf')",
+    "meta_text": "2-1851)",
     "cat_ref": "S06302E",
     "work_ref": "W.S06302E",
     "title_tib": "TSE SGRUB THUN MONG DANG THUN MONG MA YIN PA ZAB GNAD CAN 'KHYER BDE KUN PHAN",
@@ -31,8 +31,8 @@
     "author": [
         {
             "author_name": "DNGUL CHU DHARMA BHADRA",
-            "author_birth": null,
-            "author_death": null,
+            "author_birth": "1772",
+            "author_death": "1851",
             "bdrc_id": "bdr:P289",
             "normalized_name": "DNGUL CHU DHARMA BHADRA",
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/TSE DPAG MED_LIMITLESS LIFE (AMITAYUS)/TSE SGRUB_RITUAL FOR LONG LIFE",
-            "timestamp": "2024-11-20 04:57:43.887420+00:00"
+            "timestamp": "2024-11-26 23:25:38.976196+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:57:43.887420+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:25:38.976196+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

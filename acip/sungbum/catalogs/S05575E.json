@@ -6,13 +6,13 @@
     "revision_id": "625a49e0fea7a8d294473",
     "content_hash": "aa29ef54fd8ce7b488c2d8e8d606b29a61a8d1065147d361e18c1ca1a95be35a",
     "server_modified": "2024-10-29 21:53:36",
-    "last_sync": "2024-11-19 21:13:48.901587",
+    "last_sync": "2024-11-26 15:36:49.107773",
     "size": 213991,
-    "meta_text": "(\"Fully-Ordained Monks, from Assorted Writings found in the Collected Works of the Holy and Omniscient One_RGYAL BA DGE 'DUN RGYA MTSO (1476-1542)\", 'text')",
+    "meta_text": "Fully-Ordained Monks, from Assorted Writings found in the Collected Works of the Holy and Omniscient One_RGYAL BA DGE 'DUN RGYA MTSO (1476-1542)",
     "cat_ref": "S05575E",
     "work_ref": "W.S05575E",
     "title_tib": "RJE BTZUN THAMS CAD MKHYEN PA'I GSUNG 'BUM THOR BU LAS DGE SLONG GI BSLAB BYA LAG LEN GSAL BA'I SGRON ME 'DUL BA BSDUS PA'I SNYING PO",
-    "title_eng": "A Brief Essence of Vowed Morality--A Lamp that Illuminates the Instructions for Following the Rules for(\"Fully-Ordained Monks, from Assorted Writings found in the Collected Works of the Holy and Omniscient One",
+    "title_eng": "A Brief Essence of Vowed Morality--A Lamp that Illuminates the Instructions for Following the Rules forFully-Ordained Monks, from Assorted Writings found in the Collected Works of the Holy and Omniscient One",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/DGE SLONG_VOWS OF FULL MONKS",
-            "timestamp": "2024-11-20 05:13:49.767667+00:00"
+            "timestamp": "2024-11-26 23:36:49.541106+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:13:49.767667+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:36:49.541106+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

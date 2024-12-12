@@ -6,7 +6,7 @@
     "revision_id": "625a48183b12a8d294473",
     "content_hash": "54186f4e23705e5be3081de7740a69ff800c090e11d8b4ce3c694b5d71b1d742",
     "server_modified": "2024-10-29 21:45:38",
-    "last_sync": "2024-11-19 20:53:36.690207",
+    "last_sync": "2024-11-26 15:22:49.390288",
     "size": 820,
     "meta_text": null,
     "cat_ref": "S06370EF1",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 04:54:07.133862+00:00"
+            "timestamp": "2024-11-26 23:23:11.586769+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SDOM PA_SECRET VOWS (SAMAYA)",
-            "timestamp": "2024-11-20 05:03:42.883905+00:00"
+            "timestamp": "2024-11-26 23:29:54.857954+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:07.133862+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:11.586769+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:03:42.883905+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:29:54.857954+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

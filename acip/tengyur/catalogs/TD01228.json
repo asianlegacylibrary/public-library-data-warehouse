@@ -1,53 +1,47 @@
 {
     "name": "TD01228_DPAL KYE RDO RJE LAS SBYIN SREG GI CHO GA (Śrī Hevajra Homa Vidhi).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/01 KYE RDO RJE_Lo Diamond (Hevajra)/01 YAB SKOR_Father Texts (Pitṛ)/VOL 8 (NYA)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/01 KYE RDO RJE_Lo Diamond (Hevajra)/01 YAB SKOR_Father Texts (Pitṛ)/VOL 8 (NYA)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/01 rnal 'byor bla med_unsurpassed practice (anuttara yoga)/01 kye rdo rje_lo diamond (hevajra)/01 yab skor_father texts (pitṛ)/vol 8 (nya)/td01228_dpal kye rdo rje las sbyin sreg gi cho ga (śrī hevajra homa vidhi).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB9UA",
     "revision_id": "62633cd9c66718d294473",
     "content_hash": "8059c902d56b2e6597864f5417c0ea4c9c5ed509e4cbd8ec12cd87734770ec03",
     "server_modified": "2024-11-06 00:43:15",
-    "last_sync": "2024-11-20 04:00:24.746459",
+    "last_sync": "2024-12-03 11:33:50.304063+00:00",
     "size": 10922,
-    "meta_text": null,
     "cat_ref": "TD01228",
     "work_ref": "W.TD01228",
-    "title_tib": "",
+    "title_tib": "DPAL KYE RDO RJE LAS SBYIN SREG GI CHO GA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "217425905789",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/01 KYE RDO RJE_Lo Diamond (Hevajra)/01 YAB SKOR_Father Texts (Pitṛ)/VOL 8 (NYA)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/01 RNAL 'BYOR BLA MED/01 KYE RDO RJE/01 YAB SKOR/VOL 8 (NYA)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Lo Diamond (Hevajra)/Father Texts (Pitṛ)",
-            "subject_tibetan": "VOL 8 (NYA)",
-            "subject_english": "Father Texts (Pitṛ)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/RNAL 'BYOR BLA MED/KYE RDO RJE/YAB SKOR/8 (NYA)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Lo Diamond (Hevajra)/Father Texts (Pitṛ)/VOL 8 (NYA)",
+            "subject_tibetan": "8 (NYA)",
+            "subject_english": "VOL 8 (NYA)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/01 KYE RDO RJE_Lo Diamond (Hevajra)/01 YAB SKOR_Father Texts (Pitṛ)/VOL 8 (NYA)",
-            "timestamp": "2024-11-20 12:00:24.750589+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Śrī Hevajra Homa Vidhi",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:24.750589+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:33:50.308726+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/01 KYE RDO RJE_Lo Diamond (Hevajra)/01 YAB SKOR_Father Texts (Pitṛ)/VOL 8 (NYA)",
+            "timestamp": "2024-12-03 11:33:50.308726+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

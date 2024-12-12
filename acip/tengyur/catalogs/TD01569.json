@@ -1,53 +1,47 @@
 {
     "name": "TD01569_KENG R’A SA {%RUS} T'A RA NA'I SGRUB THABS KYI 'GREL PA GZHAN LA PHAN PA ZHES BYA BA (Kaṅkālatāraṇa Sādhana Ṭīkā Parahita (Nāma)).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/02 YUM BKA'_Mother Texts (Mātṛ)/VOL 22 (ZA)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/02 YUM BKA'_Mother Texts (Mātṛ)/VOL 22 (ZA)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/01 rnal 'byor bla med_unsurpassed practice (anuttara yoga)/03 bde mchog_highest bliss (saṃvara)/02 yum bka'_mother texts (mātṛ)/vol 22 (za)/td01569_keng r’a sa {%rus} t'a ra na'i sgrub thabs kyi 'grel pa gzhan la phan pa zhes bya ba (kaṅkālatāraṇa sādhana ṭīkā parahita (nāma)).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB61A",
     "revision_id": "62633c62092018d294473",
     "content_hash": "2b66f578cd3049410f850c88e81ed9c39adcd3b9e57d0160c6f92c3f6fe3aec9",
     "server_modified": "2024-11-06 00:41:09",
-    "last_sync": "2024-11-20 03:59:54.696672",
+    "last_sync": "2024-12-03 11:33:24.654041+00:00",
     "size": 19969,
-    "meta_text": null,
     "cat_ref": "TD01569",
     "work_ref": "W.TD01569",
-    "title_tib": "",
+    "title_tib": "KENG R’A SA {%RUS} T'A RA NA'I SGRUB THABS KYI 'GREL PA GZHAN LA PHAN PA ZHES BYA BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "336880318712",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/02 YUM BKA'_Mother Texts (Mātṛ)/VOL 22 (ZA)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/01 RNAL 'BYOR BLA MED/03 BDE MCHOG/02 YUM BKA'/VOL 22 (ZA)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Highest Bliss (Saṃvara)/Mother Texts (Mātṛ)",
-            "subject_tibetan": "VOL 22 (ZA)",
-            "subject_english": "Mother Texts (Mātṛ)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/RNAL 'BYOR BLA MED/BDE MCHOG/YUM BKA'/22 (ZA)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Highest Bliss (Saṃvara)/Mother Texts (Mātṛ)/VOL 22 (ZA)",
+            "subject_tibetan": "22 (ZA)",
+            "subject_english": "VOL 22 (ZA)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/02 YUM BKA'_Mother Texts (Mātṛ)/VOL 22 (ZA)",
-            "timestamp": "2024-11-20 11:59:54.716427+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Kaṅkālatāraṇa Sādhana Ṭīkā Parahita (Nāma)",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:59:54.716427+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:33:24.657253+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/03 BDE MCHOG_Highest Bliss (Saṃvara)/02 YUM BKA'_Mother Texts (Mātṛ)/VOL 22 (ZA)",
+            "timestamp": "2024-12-03 11:33:24.657253+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

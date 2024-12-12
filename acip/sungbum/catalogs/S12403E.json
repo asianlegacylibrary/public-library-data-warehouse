@@ -6,7 +6,7 @@
     "revision_id": "625a4848467568d294473",
     "content_hash": "5ff1ae90f6f85213d94fd65e80e4ebd1e915fa8a66e8b8225ac7f2b776d30fc6",
     "server_modified": "2024-10-29 21:46:28",
-    "last_sync": "2024-11-19 20:54:24.932619",
+    "last_sync": "2024-11-26 15:23:21.927301",
     "size": 309391,
     "meta_text": null,
     "cat_ref": "S12403E",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/CHOS 'BYUNG_RELIGIOUS HISTORIES/BKA' GDAMS CHOS 'BYUNG_RELIGIOUS HISTORIES OF THE KADAMPA TRADITION",
-            "timestamp": "2024-11-20 04:54:24.936433+00:00"
+            "timestamp": "2024-11-26 23:23:21.933097+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/BKA' GDAMS PA_KADAMPA SCHOOL",
-            "timestamp": "2024-11-20 05:25:57.999112+00:00"
+            "timestamp": "2024-11-26 23:45:02.015402+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:24.936433+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:21.933097+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:25:57.999112+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:45:02.015402+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

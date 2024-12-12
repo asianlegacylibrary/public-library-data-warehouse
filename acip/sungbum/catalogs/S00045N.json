@@ -6,13 +6,13 @@
     "revision_id": "625a4804fecde8d294473",
     "content_hash": "a748c2264e656cddcdc937ef6fb4c142e0ebf493e942ce63d2123453d5619b2b",
     "server_modified": "2024-10-29 21:45:17",
-    "last_sync": "2024-11-19 20:53:05.731852",
+    "last_sync": "2024-11-26 15:22:28.657934",
     "size": 210824,
-    "meta_text": "(\"‘ Section in the Classical Commentary called ‘The Essence of Eloquence’_GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME (1762-1823)\", 'rtf')",
+    "meta_text": "‘ Section in the Classical Commentary called ‘The Essence of Eloquence’_GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME (1762-1823)",
     "cat_ref": "S00045N",
     "work_ref": "W.S00045N",
     "title_tib": "BSTAN BCOS LEGS PAR BSHAD PA'I SNYING PO LAS SEMS TZAM SKOR GYI MCHAN 'GREL RTZOM 'PHRO RNAM RIG GZHUNG BRGYA'I SNANG BA",
-    "title_eng": "The 'Light for a Hundred Treatises on Perception,' being the Continuation of an Annotated Commentary, on the 'Mind-Only(\"‘ Section in the Classical Commentary called ‘The Essence of Eloquence’",
+    "title_eng": "The 'Light for a Hundred Treatises on Perception,' being the Continuation of an Annotated Commentary, on the 'Mind-Only‘ Section in the Classical Commentary called ‘The Essence of Eloquence’",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DRANG NGES_ART OF INTERPRETATION/GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME_Gungtang Konchok Tenpay Drunme (1762-1823)",
-            "timestamp": "2024-11-20 04:53:06.502416+00:00"
+            "timestamp": "2024-11-26 23:22:29.057502+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:53:06.502416+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:22:29.057502+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

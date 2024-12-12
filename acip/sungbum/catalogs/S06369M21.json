@@ -6,9 +6,9 @@
     "revision_id": "625a4ae993a4e8d294473",
     "content_hash": "dbaa68239f546b53da55c25eb807c86e00e68c796dc78e6edf77533a3f7d8f5d",
     "server_modified": "2024-10-29 21:58:14",
-    "last_sync": "2024-11-19 21:25:03.288175",
+    "last_sync": "2024-11-26 15:44:30.190021",
     "size": 380,
-    "meta_text": "('U DHARMA BHADRA (1772-1851)', 'rtf')",
+    "meta_text": "U DHARMA BHADRA (1772-1851)",
     "cat_ref": "S06369M21",
     "work_ref": "W.S06369M21",
     "title_tib": "RJE BTZUN 'BI LUNG BA'I MTSAN BSTOD BLO SBYONG BRGYUD 'DEBS KHA SKONG",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/BLO SBYONG_DEVELOPING THE GOOD HEART/BLO SBYONG BRGYUD 'DEBS KHA SKONG_ADDENDUM TO THE LINEAGE OF THE PRACTICE OF THE GOOD HEART",
-            "timestamp": "2024-11-20 05:25:03.293199+00:00"
+            "timestamp": "2024-11-26 23:44:30.198134+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:25:03.293199+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:44:30.198134+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

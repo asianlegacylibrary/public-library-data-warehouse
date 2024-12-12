@@ -6,7 +6,7 @@
     "revision_id": "625a4a76543a38d294473",
     "content_hash": "5a6d7558bf1062a004a8a667303372b682356774c21888786b9e2f9e569b1c6f",
     "server_modified": "2024-10-29 21:56:13",
-    "last_sync": "2024-11-19 21:18:40.780228",
+    "last_sync": "2024-11-26 15:40:12.149925",
     "size": 2381,
     "meta_text": null,
     "cat_ref": "SS5275M1",
@@ -38,13 +38,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/YON TAN GZHIR GYUR MA_SOURCE OF ALL MY GOOD/TIBETAN",
-            "timestamp": "2024-11-20 05:18:40.783444+00:00"
+            "timestamp": "2024-11-26 23:40:12.156486+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:18:40.783444+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:40:12.156486+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

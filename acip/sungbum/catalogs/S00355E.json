@@ -6,13 +6,13 @@
     "revision_id": "625a4962b40ec8d294473",
     "content_hash": "ffcff8f314b3c99c63a3729ed72b780bda589cce15230ff3ba4a619d5bc853c2",
     "server_modified": "2024-10-29 21:51:24",
-    "last_sync": "2024-11-19 21:07:58.884832",
+    "last_sync": "2024-11-26 15:32:48.992355",
     "size": 12927,
-    "meta_text": "('ough the Practice of a Sesame Fire Offering in the Secret Teachings of the Holy Diamond Angel (Vajra Yogini), along with a Skillful Method of Offering Food_SKYABS RJE PHA BONG KHA PA BDE CHEN SNYING PO (1878-1941)', 'rtf')",
+    "meta_text": "ough the Practice of a Sesame Fire Offering in the Secret Teachings of the Holy Diamond Angel (Vajra Yogini), along with a Skillful Method of Offering Food_SKYABS RJE PHA BONG KHA PA BDE CHEN SNYING PO (1878-1941)",
     "cat_ref": "S00355E",
     "work_ref": "W.S00355E",
     "title_tib": "RJE BTZUN RDO RJE RNAL 'BYOR MA'I SGO NAS TIL GYI SBYIN SREG BYA TSUL SDIG LTUNG LHAG MED SBYONG BA'I THABS MKHAS DANG, ZAS MCHOD THABS MKHAS",
-    "title_eng": "A Skillful Method for Purifying Oneself of the Slightest Trace of Any Bad Deeds or Broken Vows, thr('ough the Practice of a Sesame Fire Offering in the Secret Teachings of the Holy Diamond Angel (Vajra Yogini), along with a Skillful Method of Offering Food",
+    "title_eng": "A Skillful Method for Purifying Oneself of the Slightest Trace of Any Bad Deeds or Broken Vows, through the Practice of a Sesame Fire Offering in the Secret Teachings of the Holy Diamond Angel (Vajra Yogini), along with a Skillful Method of Offering Food",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAL 'BYOR MA_ANGEL OF DIAMOND (VAJRAYOGINI)/MCHOD PA_OFFERING",
-            "timestamp": "2024-11-20 05:07:59.473591+00:00"
+            "timestamp": "2024-11-26 23:32:49.382096+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAL 'BYOR MA_ANGEL OF DIAMOND (VAJRAYOGINI)/SBYIN SREG_FIRE OFFERING (HOMA)",
-            "timestamp": "2024-11-20 05:08:14.285775+00:00"
+            "timestamp": "2024-11-26 23:32:59.054373+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:07:59.473591+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:32:49.382096+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:08:14.285775+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:32:59.054373+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

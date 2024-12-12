@@ -6,7 +6,7 @@
     "revision_id": "625a4801cbd978d294473",
     "content_hash": "6b45789341be88d9e5e1f34a24c6764d31130fdc018b0ea776ca0e695a2fc15c",
     "server_modified": "2024-10-29 21:45:14",
-    "last_sync": "2024-11-19 20:52:50.392746",
+    "last_sync": "2024-11-26 15:22:18.269479",
     "size": 166554,
     "meta_text": null,
     "cat_ref": "S06832E",
@@ -38,13 +38,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DRANG NGES_ART OF INTERPRETATION/MKHAS SGRUB SBYIN PA DAR RGYAS_KEDRUP JINPA DARGYE (1558-1633:4)",
-            "timestamp": "2024-11-20 04:52:50.397845+00:00"
+            "timestamp": "2024-11-26 23:22:18.272697+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:52:50.397845+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:22:18.272697+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

@@ -6,13 +6,13 @@
     "revision_id": "625a47b3bd6308d294473",
     "content_hash": "09d4482d906c276ff95555af6f312a9d583fd4b6d71c80a53b8b2cc12acd5fcc",
     "server_modified": "2024-10-29 21:43:52",
-    "last_sync": "2024-11-19 20:48:58.523219",
+    "last_sync": "2024-11-26 15:19:51.333123",
     "size": 368339,
-    "meta_text": "('curate Perception_RGYAL TSAB DAR MA RIN CHEN (1364-1432)', 'rtf')",
+    "meta_text": "curate Perception_RGYAL TSAB DAR MA RIN CHEN (1364-1432)",
     "cat_ref": "S05437A",
     "work_ref": "W.S05437A",
     "title_tib": "TSAD MA KUN LAS BTUS PA'I RNAM BSHAD MTHAR 'DZIN GYI TSA GDUNG BA 'JOMS BYED RIGS PA'I RGYA MTSO",
-    "title_eng": "The 'Ocean of Reasoning, which Destroys the Torment of the Heat of Grasping to Extreme Positions,' being an Explanation of 'The Compendium on Ac('curate Perception",
+    "title_eng": "The 'Ocean of Reasoning, which Destroys the Torment of the Heat of Grasping to Extreme Positions,' being an Explanation of 'The Compendium on Accurate Perception",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/TSAD MA_STUDY OF ACCURATE PERCEPTION (SAUTRANTIKA SCHOOL)/TSAD MA KUN BTUS (PRAMANA SAMUCHAYA)_COMPENDIUM ON ACCURATE PERCEPTIONS",
-            "timestamp": "2024-11-20 04:48:58.528697+00:00"
+            "timestamp": "2024-11-26 23:19:51.338068+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:48:58.528697+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:19:51.338068+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

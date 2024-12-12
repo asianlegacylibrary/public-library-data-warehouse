@@ -6,7 +6,7 @@
     "revision_id": "625a4a53839758d294473",
     "content_hash": "6c1ae927759607877191957fdc85816336845851bc8179c46378d552c2ee1039",
     "server_modified": "2024-10-29 21:55:37",
-    "last_sync": "2024-11-19 21:17:16.787656",
+    "last_sync": "2024-11-26 15:39:11.693724",
     "size": 10390,
     "meta_text": null,
     "cat_ref": "TD3947E",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/LAM SGRON_LIGHT ON THE STEPS OF THE PATH (BODHIPATHA PRADIPA)/RTZA BA_ROOT TEXT",
-            "timestamp": "2024-11-20 05:17:16.792714+00:00"
+            "timestamp": "2024-11-26 23:39:11.700991+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:17:16.792714+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:39:11.700991+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

@@ -6,13 +6,13 @@
     "revision_id": "625a48ec6ad968d294473",
     "content_hash": "f3970ab906f6292b769aa851bb1d65f03c43dea76aeee88205e9a98fac1043a8",
     "server_modified": "2024-10-29 21:49:20",
-    "last_sync": "2024-11-19 21:03:11.331027",
+    "last_sync": "2024-11-26 15:29:30.074308",
     "size": 44197,
-    "meta_text": "('in the Form of a Convenient Text for Recitation_SKYABS RJE PHA BONG KHA PA BDE CHEN SNYING PO (1878-1941)', 'rtf')",
+    "meta_text": "in the Form of a Convenient Text for Recitation_SKYABS RJE PHA BONG KHA PA BDE CHEN SNYING PO (1878-1941)",
     "cat_ref": "S00501E",
     "work_ref": "W.S00501E",
     "title_tib": "SGRA MI SNYAN GYI TSE KHRID KYI 'DON CHOG KHYER BDE SOGS LHAG LHA'I SGRUB THABS SKOR",
-    "title_eng": "A Collection of Works on Rituals for Reaching the God of Gods, including a Teaching on Life as Long as that on the Northern Continent of 'Unpleasant Sound'('in the Form of a Convenient Text for Recitation",
+    "title_eng": "A Collection of Works on Rituals for Reaching the God of Gods, including a Teaching on Life as Long as that on the Northern Continent of 'Unpleasant Sound'in the Form of a Convenient Text for Recitation",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/TSE SGRUB_RITUAL FOR LONG LIFE",
-            "timestamp": "2024-11-20 05:03:11.958758+00:00"
+            "timestamp": "2024-11-26 23:29:30.568453+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:03:11.958758+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:29:30.568453+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

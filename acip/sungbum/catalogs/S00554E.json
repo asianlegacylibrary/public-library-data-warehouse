@@ -6,9 +6,9 @@
     "revision_id": "625a4a87b2a968d294473",
     "content_hash": "03237e9789ff9a1021f66536de8bb86a80c760d0debeee20097e68af024b0f87",
     "server_modified": "2024-10-29 21:56:31",
-    "last_sync": "2024-11-19 21:19:37.058928",
+    "last_sync": "2024-11-26 15:40:51.271969",
     "size": 10561,
-    "meta_text": "(\"'I SGRON ME (1861-1933@)\", 'rtf')",
+    "meta_text": "'I SGRON ME (1861-1933@)",
     "cat_ref": "S00554E",
     "work_ref": "W.S00554E",
     "title_tib": "BSNGO BA RGYAS PA DGE TSOGS RGYA MTSOR 'JUG PA'I GRU GZINGS",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BSNGO BA_DEDICATING GOOD DEEDS/CHE SHOS RIN PO CHE BLO BZANG BYANG CHUB BSTAN PA'I SGRON ME_CHESHU RINPOCHE LOBSANG JANGCHUB TENPAY DRUNME (1861-1933?)",
-            "timestamp": "2024-11-20 05:19:37.064769+00:00"
+            "timestamp": "2024-11-26 23:40:51.280475+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:19:37.064769+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:40:51.280475+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

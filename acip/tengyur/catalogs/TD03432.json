@@ -1,53 +1,47 @@
 {
     "name": "TD03432_SGYU 'PHRUL DRA BA'I RIM PA'I 'PHAGS PA SPYAN RAS GZIGS DBANG PHYUG GI SGRUB THABS (Māyā Jāla Kramāvalokiteśvara Sādhana).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/vol 76 (mu)/td03432_sgyu 'phrul dra ba'i rim pa'i 'phags pa spyan ras gzigs dbang phyug gi sgrub thabs (māyā jāla kramāvalokiteśvara sādhana).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB_nA",
     "revision_id": "62633d3c4f9d28d294473",
     "content_hash": "a94bc55626e393944900690856ee6a6555fe3c32b7bc5dcac732b2b328715b6c",
     "server_modified": "2024-11-06 00:44:58",
-    "last_sync": "2024-11-20 04:00:45.035937",
+    "last_sync": "2024-12-03 11:34:07.464625+00:00",
     "size": 1739,
-    "meta_text": null,
     "cat_ref": "TD03432",
     "work_ref": "W.TD03432",
-    "title_tib": "",
+    "title_tib": "SGYU 'PHRUL DRA BA'I RIM PA'I 'PHAGS PA SPYAN RAS GZIGS DBANG PHYUG GI SGRUB THABS",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "121782366104",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/VOL 76 (MU)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)",
-            "subject_tibetan": "VOL 76 (MU)",
-            "subject_english": "Diamond Way (Vajrayāna)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/76 (MU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/VOL 76 (MU)",
+            "subject_tibetan": "76 (MU)",
+            "subject_english": "VOL 76 (MU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
-            "timestamp": "2024-11-20 12:00:45.251614+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Māyā Jāla Kramāvalokiteśvara Sādhana",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:45.251614+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:34:07.476758+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
+            "timestamp": "2024-12-03 11:34:07.476758+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

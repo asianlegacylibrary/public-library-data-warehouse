@@ -1,53 +1,47 @@
 {
     "name": "TD04164_TSUL KHRIMS KYI GTAM (Śīla Parikathā).txt",
-    "path": "10 SPRING YIG_Epistles (Lekha)/VOL 1 (GE-2)",
+    "path": "BSTAN 'GYUR_Tengyur/10 SPRING YIG_Epistles (Lekha)/VOL 1 (GE-2)",
     "download_path": "/tengyur updated 10 31 24 ws/10 spring yig_epistles (lekha)/vol 1 (ge-2)/td04164_tsul khrims kyi gtam (śīla parikathā).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB16A",
     "revision_id": "62633b42e2aea8d294473",
     "content_hash": "7c4fafbdcf4d3e2b8ed52cfbff6c0b586263e2b30c5a6e90c71a73df1b668c34",
     "server_modified": "2024-11-06 00:36:08",
-    "last_sync": "2024-11-20 03:58:13.123270",
+    "last_sync": "2024-12-03 11:31:58.192280+00:00",
     "size": 2165,
-    "meta_text": null,
     "cat_ref": "TD04164",
     "work_ref": "W.TD04164",
-    "title_tib": "",
+    "title_tib": "TSUL KHRIMS KYI GTAM",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "185433284541",
             "subject_path": "BSTAN 'GYUR_Tengyur/10 SPRING YIG_Epistles (Lekha)/VOL 1 (GE-2)",
-            "subject_path_tibetan": "BSTAN 'GYUR/10 SPRING YIG/VOL 1 (GE-2)",
-            "subject_path_english": "Tengyur/Epistles (Lekha)",
-            "subject_tibetan": "VOL 1 (GE-2)",
-            "subject_english": "Epistles (Lekha)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SPRING YIG/1 (GE-2)",
+            "subject_path_english": "Tengyur/Epistles (Lekha)/VOL 1 (GE-2)",
+            "subject_tibetan": "1 (GE-2)",
+            "subject_english": "VOL 1 (GE-2)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/10 SPRING YIG_Epistles (Lekha)/VOL 1 (GE-2)",
-            "timestamp": "2024-11-20 11:58:13.132509+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Śīla Parikathā",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:58:13.132509+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:31:58.194400+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/10 SPRING YIG_Epistles (Lekha)/VOL 1 (GE-2)",
+            "timestamp": "2024-12-03 11:31:58.194400+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

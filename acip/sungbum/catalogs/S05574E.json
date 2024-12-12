@@ -6,13 +6,13 @@
     "revision_id": "625a47d22c2a98d294473",
     "content_hash": "6c4be56c3979c0c19d1274763bc623777965225951573981644eb93a8c8066d0",
     "server_modified": "2024-10-29 21:44:24",
-    "last_sync": "2024-11-19 20:51:09.269002",
+    "last_sync": "2024-11-26 15:21:10.628394",
     "size": 83837,
-    "meta_text": "(\"RGYAL BA DGE 'DUN RGYA MTSO (1476-1542)\", 'text')",
+    "meta_text": "RGYAL BA DGE 'DUN RGYA MTSO (1476-1542)",
     "cat_ref": "S05574E",
     "work_ref": "W.S05574E",
     "title_tib": "JE BTZUN THAMS CAD MKHYEN PA'I GSUNG 'BUM THOR BU LAS DKAR CHAG SNYAN DNGAGS RNAMS",
-    "title_eng": "(\"RGYAL BA DGE 'DUN RGYA MTSO (1476-1542)\", 'text')",
+    "title_eng": "RGYAL BA DGE 'DUN RGYA MTSO (1476-1542)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -38,13 +38,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/LHA BZO_FINE ARTS/MCHOD RTEN_STUPAS/GZUNG GZHUG_INSTALLATION OF THE CONTENTS OF STUPAS",
-            "timestamp": "2024-11-20 04:51:09.900155+00:00"
+            "timestamp": "2024-11-26 23:21:11.071975+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:51:09.900155+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:21:11.071975+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

@@ -6,17 +6,17 @@
     "revision_id": "625a47e0aae178d294473",
     "content_hash": "28d89a0a546774b3ec89ad8dd5c510a3d02771d3c17ec469103ee1e42bdf39ae",
     "server_modified": "2024-10-29 21:44:39",
-    "last_sync": "2024-11-19 20:51:38.295403",
+    "last_sync": "2024-11-26 15:21:31.674601",
     "size": 80904,
-    "meta_text": "('Seventy Verses on Emptiness,\" from Assorted Writings found in the Collected Works of the Holy and Omniscient One_RGYAL BA DGE \\'DUN RGYA MTSO (1476-1542)', 'text')",
+    "meta_text": "Seventy Verses on Emptiness,\" from Assorted Writings found in the Collected Works of the Holy and Omniscient One_RGYAL BA DGE 'DUN RGYA MTSO (1476-1542)",
     "cat_ref": "S05567E",
     "work_ref": "W.S05567E",
     "title_tib": "RJE THAMS CAD MKHYEN PA'I GSUNG 'BUM THOR BU LAS BSTAN BCOS CHEN PO STONG NYID BDUN CU PA'I RNAM BSHAD DBU MA'I LAM GSAL BAR BYED PA'I SGRON ME",
-    "title_eng": "The Lamp that Illuminates the Middle Path--An Explanation of the Great Classical Commentary, \"The('Seventy Verses on Emptiness,\" from Assorted Writings found in the Collected Works of the Holy and Omniscient One",
+    "title_eng": "The Lamp that Illuminates the Middle Path--An Explanation of the Great Classical Commentary, \"TheSeventy Verses on Emptiness,\" from Assorted Writings found in the Collected Works of the Holy and Omniscient One",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
-    "author_simple": "RGYAL BA DGE \\'DUN RGYA MTSO",
+    "author_simple": "RGYAL BA DGE 'DUN RGYA MTSO",
     "subject": [
         {
             "_id": "975549435298",
@@ -30,7 +30,7 @@
     "items": [],
     "author": [
         {
-            "author_name": "RGYAL BA DGE \\'DUN RGYA MTSO",
+            "author_name": "RGYAL BA DGE 'DUN RGYA MTSO",
             "author_birth": "1476",
             "author_death": "1542"
         }
@@ -38,13 +38,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/STONG NYID BDUN CU PA'I 'GREL PA_COMMENTARIES ON \"THE 70 VERSES ON EMPTINESS\"",
-            "timestamp": "2024-11-20 04:51:38.301386+00:00"
+            "timestamp": "2024-11-26 23:21:31.679283+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:51:38.301386+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:21:31.679283+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

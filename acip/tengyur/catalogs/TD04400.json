@@ -1,53 +1,47 @@
 {
     "name": "TD04400_BKRA SHIS KYI TSIGS SU BCAD PA (Maṅgala Gāthā).txt",
-    "path": "16 SNA TSOGS_Miscellany (Citritā)/VOL 4 (NYO)",
+    "path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 4 (NYO)",
     "download_path": "/tengyur updated 10 31 24 ws/16 sna tsogs_miscellany (citritā)/vol 4 (nyo)/td04400_bkra shis kyi tsigs su bcad pa (maṅgala gāthā).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACEQw",
     "revision_id": "62633e12c674f8d294473",
     "content_hash": "76bdad6a650ac0b3babd67ea092f128ec1ce8b5622410e3db4f3f2b58fd95b8b",
     "server_modified": "2024-11-06 00:48:43",
-    "last_sync": "2024-11-20 04:01:22.199269",
+    "last_sync": "2024-12-03 11:34:38.013015+00:00",
     "size": 2534,
-    "meta_text": null,
     "cat_ref": "TD04400",
     "work_ref": "W.TD04400",
-    "title_tib": "",
+    "title_tib": "BKRA SHIS KYI TSIGS SU BCAD PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "279475421118",
             "subject_path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 4 (NYO)",
-            "subject_path_tibetan": "BSTAN 'GYUR/16 SNA TSOGS/VOL 4 (NYO)",
-            "subject_path_english": "Tengyur/Miscellany (Citritā)",
-            "subject_tibetan": "VOL 4 (NYO)",
-            "subject_english": "Miscellany (Citritā)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SNA TSOGS/4 (NYO)",
+            "subject_path_english": "Tengyur/Miscellany (Citritā)/VOL 4 (NYO)",
+            "subject_tibetan": "4 (NYO)",
+            "subject_english": "VOL 4 (NYO)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 4 (NYO)",
-            "timestamp": "2024-11-20 12:01:22.241111+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Maṅgala Gāthā",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:22.241111+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:34:38.017606+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 4 (NYO)",
+            "timestamp": "2024-12-03 11:34:38.017606+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

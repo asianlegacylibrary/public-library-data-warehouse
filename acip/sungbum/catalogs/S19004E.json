@@ -6,13 +6,13 @@
     "revision_id": "625a4949f50cb8d294473",
     "content_hash": "8f8731bb9d80c464ba6beb803da9d17bd683b8c66d6b6d4baa538ece49d30ddc",
     "server_modified": "2024-10-29 21:50:58",
-    "last_sync": "2024-11-19 21:07:05.979906",
+    "last_sync": "2024-11-26 15:32:11.763890",
     "size": 40310,
-    "meta_text": "(\"cret Collection (Guhya Samaja) along with the Topics for the Actual Practice; a Record of the Lama’s Teaching_'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS (1648-1721)\", 'rtf')",
+    "meta_text": "cret Collection (Guhya Samaja) along with the Topics for the Actual Practice; a Record of the Lama’s Teaching_'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS (1648-1721)",
     "cat_ref": "S19004E",
     "work_ref": "W.S19004E",
     "title_tib": "DPAL GSANG BA 'DUS PA'I ZAB MO RDZOGS PA'I RIM PA'I DMAR KHRID KYI SNGON 'GRO DNGOS GZHI'I DMIGS PA DANG BCAS PA BLA MA'I GSUNG RGYUN BKOD PA",
-    "title_eng": "A ‘Dissection’ Presentation on the Preliminaries for the Profound Stage of Completion in the Se(\"cret Collection (Guhya Samaja) along with the Topics for the Actual Practice; a Record of the Lama’s Teaching",
+    "title_eng": "A ‘Dissection’ Presentation on the Preliminaries for the Profound Stage of Completion in the Secret Collection (Guhya Samaja) along with the Topics for the Actual Practice; a Record of the Lama’s Teaching",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/RDZOGS RIM_COMPLETION STAGE (SAMPANNA KRAMA)",
-            "timestamp": "2024-11-20 05:07:08.660604+00:00"
+            "timestamp": "2024-11-26 23:32:13.627604+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:07:08.660604+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:32:13.627604+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

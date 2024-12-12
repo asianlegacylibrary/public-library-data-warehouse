@@ -6,7 +6,7 @@
     "revision_id": "625a47c6c26258d294473",
     "content_hash": "5ada99c4b71a255cd6790b8d03537e3ed463531d08a45687b0994e282d1d918e",
     "server_modified": "2024-10-29 21:44:12",
-    "last_sync": "2024-11-19 20:50:17.087892",
+    "last_sync": "2024-11-26 15:20:41.634796",
     "size": 19448,
     "meta_text": null,
     "cat_ref": "S05530E",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/BSTOD PA_EULOGIES (STOTRA)/SH'AKYA THUB PA (SHAKYAMUNI)",
-            "timestamp": "2024-11-20 04:50:17.097718+00:00"
+            "timestamp": "2024-11-26 23:20:41.644845+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/RGYAL BA DGE 'DUN GRUB (1391-1474)",
-            "timestamp": "2024-11-20 05:15:41.658419+00:00"
+            "timestamp": "2024-11-26 23:38:05.156662+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:50:17.097718+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:20:41.644845+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:15:41.658419+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:38:05.156662+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

@@ -6,13 +6,13 @@
     "revision_id": "625a49d76e2488d294473",
     "content_hash": "cf7ae9b57ceea37bd261d10a1b83ca94f11508cf83dde84a75734d9546985da1",
     "server_modified": "2024-10-29 21:53:26",
-    "last_sync": "2024-11-19 21:13:29.017370",
+    "last_sync": "2024-11-26 15:36:35.725953",
     "size": 488564,
-    "meta_text": "('titled the ‘Root Sutra on Discipline’_PAn CHEN BLO GROS LEGS BZANG (@-@)', 'rtf')",
+    "meta_text": "titled the ‘Root Sutra on Discipline’_PAn CHEN BLO GROS LEGS BZANG (@-@)",
     "cat_ref": "SL0059E2",
     "work_ref": "W.SL0059E2",
     "title_tib": "BSTAN BCOS 'DUL BA MDO RTZA BA'I SPYI DON t'IK CHEN RIN CHEN PHRENG BA'I DGONGS RGYAN LAS GZHI SMAD",
-    "title_eng": "Part 2 of the Jewel of the True Thought of the 'Great Commentary, the String of Precious Gems'--An Overview of the Classical Commentary en('titled the ‘Root Sutra on Discipline’",
+    "title_eng": "Part 2 of the Jewel of the True Thought of the 'Great Commentary, the String of Precious Gems'--An Overview of the Classical Commentary entitled the ‘Root Sutra on Discipline’",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/PAn CHEN BLO GROS LEGS BZANG_PANCHEN LODRU LEKSANG",
-            "timestamp": "2024-11-20 05:13:29.712842+00:00"
+            "timestamp": "2024-11-26 23:36:36.527317+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:13:29.712842+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:36:36.527317+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

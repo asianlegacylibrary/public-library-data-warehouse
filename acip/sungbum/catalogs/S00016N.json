@@ -6,9 +6,9 @@
     "revision_id": "625a47777da288d294473",
     "content_hash": "f8e29b9565cc62bd963709910b4b8e7df796bd1db97de7adaf21d173363a54fc",
     "server_modified": "2024-10-29 21:42:49",
-    "last_sync": "2024-11-19 20:46:47.521083",
+    "last_sync": "2024-11-26 15:18:15.870910",
     "size": 93162,
-    "meta_text": "('493-1568)', 'rtf')",
+    "meta_text": "493-1568)",
     "cat_ref": "S00016N",
     "work_ref": "W.S00016N",
     "title_tib": "BSAM GZUGS KYI SPYI DON LEGS PAR BSHAD PA'I SNYING PO PADMA DKAR PO'I 'PHRENG BA",
@@ -31,8 +31,8 @@
     "author": [
         {
             "author_name": "MKHAS GRUB BSTAN PA DAR RGYAS",
-            "author_birth": null,
-            "author_death": null,
+            "author_birth": "1493",
+            "author_death": "1568",
             "bdrc_id": "bdr:P996",
             "normalized_name": "MKHAS GRUB BSTAN PA DAR RGYAS",
             "bdrc_url": "http://purl.bdrc.io/resource/P996"
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/BSAM GZUGS_FORM & FORMLESS REALMS/MKHAS GRUB BSTAN PA DAR RGYAS_KEDRUP TENPA DARGYE (1493-1568)/SPYI DON_OVERVIEW",
-            "timestamp": "2024-11-20 04:46:47.526779+00:00"
+            "timestamp": "2024-11-26 23:18:15.878787+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:46:47.526779+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:18:15.878787+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

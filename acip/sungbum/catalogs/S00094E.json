@@ -6,7 +6,7 @@
     "revision_id": "625a48fa9dbad8d294473",
     "content_hash": "74f8f28d30837874dc3c35ee9e0296e7bfd5cee5443c48dc678aeb82624fdafe",
     "server_modified": "2024-10-29 21:49:35",
-    "last_sync": "2024-11-19 21:03:42.309265",
+    "last_sync": "2024-11-26 15:29:54.411133",
     "size": 17194,
     "meta_text": null,
     "cat_ref": "S00094E",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SDOM PA_SECRET VOWS (SAMAYA)",
-            "timestamp": "2024-11-20 05:03:42.884165+00:00"
+            "timestamp": "2024-11-26 23:29:54.858185+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:03:42.884165+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:29:54.858185+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

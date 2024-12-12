@@ -1,53 +1,47 @@
 {
     "name": "TD03852_YE SHES SNYING PO KUN LAS BTUS PA ZHES BYA BA'I BSHAD SBYAR (Jñanasara Samuccaya Nāma Nibandhana).txt",
-    "path": "04 DBU MA_Middle Way School (Madhyamaka)/VOL 2 (TSA)",
+    "path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 2 (TSA)",
     "download_path": "/tengyur updated 10 31 24 ws/04 dbu ma_middle way school (madhyamaka)/vol 2 (tsa)/td03852_ye shes snying po kun las btus pa zhes bya ba'i bshad sbyar (jñanasara samuccaya nāma nibandhana).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB3XQ",
     "revision_id": "62633bc71128a8d294473",
     "content_hash": "a2a9445e5127559dbe2709d4d0ce9848265fa1238b910317ac6327985337ae19",
     "server_modified": "2024-11-06 00:38:26",
-    "last_sync": "2024-11-20 03:59:05.652505",
+    "last_sync": "2024-12-03 11:32:46.304997+00:00",
     "size": 70086,
-    "meta_text": null,
     "cat_ref": "TD03852",
     "work_ref": "W.TD03852",
-    "title_tib": "",
+    "title_tib": "YE SHES SNYING PO KUN LAS BTUS PA ZHES BYA BA'I BSHAD SBYAR",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "643041866469",
             "subject_path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 2 (TSA)",
-            "subject_path_tibetan": "BSTAN 'GYUR/04 DBU MA/VOL 2 (TSA)",
-            "subject_path_english": "Tengyur/Middle Way School (Madhyamaka)",
-            "subject_tibetan": "VOL 2 (TSA)",
-            "subject_english": "Middle Way School (Madhyamaka)"
+            "subject_path_tibetan": "BSTAN 'GYUR/DBU MA/2 (TSA)",
+            "subject_path_english": "Tengyur/Middle Way School (Madhyamaka)/VOL 2 (TSA)",
+            "subject_tibetan": "2 (TSA)",
+            "subject_english": "VOL 2 (TSA)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 2 (TSA)",
-            "timestamp": "2024-11-20 11:59:05.657727+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Jñanasara Samuccaya Nāma Nibandhana",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:59:05.657727+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:32:46.306498+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 2 (TSA)",
+            "timestamp": "2024-12-03 11:32:46.306498+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

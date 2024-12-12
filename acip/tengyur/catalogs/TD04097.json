@@ -1,53 +1,47 @@
 {
     "name": "TD04097_CHOS MNGON PA LA 'JUG PA RGYA CHER 'GREL PA SNYING PO KUN LAS BTUS PA ZHES BYA BA (Sārasamuccaya Nāma Abhidharmāvatara Ṭīkā).txt",
-    "path": "07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 9 (NYU)",
+    "path": "BSTAN 'GYUR_Tengyur/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 9 (NYU)",
     "download_path": "/tengyur updated 10 31 24 ws/07 mngon pa_higher knowledge school (abhidharma)/vol 9 (nyu)/td04097_chos mngon pa la 'jug pa rgya cher 'grel pa snying po kun las btus pa zhes bya ba (sārasamuccaya nāma abhidharmāvatara ṭīkā).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB2Zw",
     "revision_id": "62633b74ebf968d294473",
     "content_hash": "3dd38288847c4c912edba72bd276b646ba61efd1b616f0eca0ac7490fa4b1d1c",
     "server_modified": "2024-11-06 00:37:00",
-    "last_sync": "2024-11-20 03:58:30.060866",
+    "last_sync": "2024-12-03 11:32:14.265457+00:00",
     "size": 264838,
-    "meta_text": null,
     "cat_ref": "TD04097",
     "work_ref": "W.TD04097",
-    "title_tib": "",
+    "title_tib": "CHOS MNGON PA LA 'JUG PA RGYA CHER 'GREL PA SNYING PO KUN LAS BTUS PA ZHES BYA BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "263119481432",
             "subject_path": "BSTAN 'GYUR_Tengyur/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 9 (NYU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/07 MNGON PA/VOL 9 (NYU)",
-            "subject_path_english": "Tengyur/Higher Knowledge School (Abhidharma)",
-            "subject_tibetan": "VOL 9 (NYU)",
-            "subject_english": "Higher Knowledge School (Abhidharma)"
+            "subject_path_tibetan": "BSTAN 'GYUR/MNGON PA/9 (NYU)",
+            "subject_path_english": "Tengyur/Higher Knowledge School (Abhidharma)/VOL 9 (NYU)",
+            "subject_tibetan": "9 (NYU)",
+            "subject_english": "VOL 9 (NYU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 9 (NYU)",
-            "timestamp": "2024-11-20 11:58:30.064180+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Sārasamuccaya Nāma Abhidharmāvatara Ṭīkā",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:58:30.064180+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:32:14.266377+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 9 (NYU)",
+            "timestamp": "2024-12-03 11:32:14.266377+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

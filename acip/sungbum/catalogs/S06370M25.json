@@ -6,7 +6,7 @@
     "revision_id": "625a4a495cbce8d294473",
     "content_hash": "d4a2f5a8c8c5d87a4a94b3de4a024bbadf433841ef4f6173a8ac07c3d164d869",
     "server_modified": "2024-10-29 21:55:26",
-    "last_sync": "2024-11-19 21:16:48.252366",
+    "last_sync": "2024-11-26 15:38:53.847304",
     "size": 111,
     "meta_text": null,
     "cat_ref": "S06370M25",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/TSIG MDZOD_LEXICAL MATERIALS",
-            "timestamp": "2024-11-20 05:16:51.050783+00:00"
+            "timestamp": "2024-11-26 23:38:54.991512+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:16:51.050783+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:38:54.991512+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

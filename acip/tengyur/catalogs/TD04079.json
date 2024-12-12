@@ -1,53 +1,47 @@
 {
     "name": "TD04079_SHES RAB KYI PHA ROL TU PHYIN PA'I MAN NGAG (Prajñā Pāramitā Upadeśa).txt",
-    "path": "06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 16 (HI)",
+    "path": "BSTAN 'GYUR_Tengyur/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 16 (HI)",
     "download_path": "/tengyur updated 10 31 24 ws/06 sems tzam_mind only school (cittamātra)/vol 16 (hi)/td04079_shes rab kyi pha rol tu phyin pa'i man ngag (prajñā pāramitā upadeśa).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACDng",
     "revision_id": "62633de7f6c918d294473",
     "content_hash": "81e5aa4d920dea27170fa25903bdff9c7c3d9d929f9eeec2a232c78450660fb7",
     "server_modified": "2024-11-06 00:47:58",
-    "last_sync": "2024-11-20 04:01:08.971266",
+    "last_sync": "2024-12-03 11:34:26.491922+00:00",
     "size": 114554,
-    "meta_text": null,
     "cat_ref": "TD04079",
     "work_ref": "W.TD04079",
-    "title_tib": "",
+    "title_tib": "SHES RAB KYI PHA ROL TU PHYIN PA'I MAN NGAG",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "233087936475",
             "subject_path": "BSTAN 'GYUR_Tengyur/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 16 (HI)",
-            "subject_path_tibetan": "BSTAN 'GYUR/06 SEMS TZAM/VOL 16 (HI)",
-            "subject_path_english": "Tengyur/Mind Only School (Cittamātra)",
-            "subject_tibetan": "VOL 16 (HI)",
-            "subject_english": "Mind Only School (Cittamātra)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SEMS TZAM/16 (HI)",
+            "subject_path_english": "Tengyur/Mind Only School (Cittamātra)/VOL 16 (HI)",
+            "subject_tibetan": "16 (HI)",
+            "subject_english": "VOL 16 (HI)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 16 (HI)",
-            "timestamp": "2024-11-20 12:01:08.991950+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Prajñā Pāramitā Upadeśa",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:08.991950+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:34:26.493755+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 16 (HI)",
+            "timestamp": "2024-12-03 11:34:26.493755+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

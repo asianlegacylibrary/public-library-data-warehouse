@@ -6,7 +6,7 @@
     "revision_id": "625a47c2fe23e8d294473",
     "content_hash": "65fd61fd047d3412f138e8c7331f4bebe3d18b0ece0cf4616a1b831d950fb717",
     "server_modified": "2024-10-29 21:44:08",
-    "last_sync": "2024-11-19 20:49:58.807416",
+    "last_sync": "2024-11-26 15:20:31.567227",
     "size": 4434,
     "meta_text": null,
     "cat_ref": "S05977M38",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/BSTOD PA_EULOGIES (STOTRA)/TO BE IDENTIFIED",
-            "timestamp": "2024-11-20 04:49:59.753244+00:00"
+            "timestamp": "2024-11-26 23:20:31.935380+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:49:59.753244+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:20:31.935380+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

@@ -6,7 +6,7 @@
     "revision_id": "625a47dbb33538d294473",
     "content_hash": "9052b2b20612ae3e5c37b10738de605fe9bc03b3ec16f77e86a0d017417d5470",
     "server_modified": "2024-10-29 21:44:34",
-    "last_sync": "2024-11-19 20:51:26.427972",
+    "last_sync": "2024-11-26 15:21:22.526613",
     "size": 225941,
     "meta_text": null,
     "cat_ref": "S05427I",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/'GREL PA SPYI_GENERAL COMMENTARIES/RGYAL TSAB RJE DAR MA RIN CHEN_GYALTSAB JE DHARMA RINCHEN (1364-1432)",
-            "timestamp": "2024-11-20 04:51:26.432845+00:00"
+            "timestamp": "2024-11-26 23:21:22.531995+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/RIN CHEN 'PHRENG BA'I 'GREL PA_COMMENTARIES ON 'THE STRING OF PRECIOUS JEWELS' (RATNAVALI)",
-            "timestamp": "2024-11-20 04:52:33.879200+00:00"
+            "timestamp": "2024-11-26 23:22:07.904310+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:51:26.432845+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:21:22.531995+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T04:52:33.879200+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:22:07.904310+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

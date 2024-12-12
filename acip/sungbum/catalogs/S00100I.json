@@ -6,9 +6,9 @@
     "revision_id": "625a4aaf6d12c8d294473",
     "content_hash": "6b44c141960c8deb6e5aa5aaa85265210e01d187026c58e9d129dd458a8cdf4b",
     "server_modified": "2024-10-29 21:57:13",
-    "last_sync": "2024-11-19 21:21:20.775676",
+    "last_sync": "2024-11-26 15:42:08.610613",
     "size": 98861,
-    "meta_text": "('E CHEN SNYING PO (1878-1941)', 'rtf')",
+    "meta_text": "E CHEN SNYING PO (1878-1941)",
     "cat_ref": "S00100I",
     "work_ref": "W.S00100I",
     "title_tib": "SRAD RGYUD LUGS KYI BLA MA'I RNAL 'BYOR DGA' LDAN LHA BRGYA MA'I ZAB KHRID KYI ZIN BRIS",
@@ -41,23 +41,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BLA MA'I RNAL 'BYOR_PRACTICES FOR HONORING ONES LAMA/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)/DGA' LDAN LHA BRGYA MA_THOUSAND ANGELS OF THE HEAVEN OF BLISS",
-            "timestamp": "2024-11-20 05:21:28.036234+00:00"
+            "timestamp": "2024-11-26 23:42:14.115631+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BLA MA'I RNAL 'BYOR_PRACTICES FOR HONORING ONES LAMA/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)/DGA' LDAN LHA BRGYA MA_THOUSAND ANGELS OF THE HEAVEN OF BLISS",
-            "timestamp": "2024-11-20 05:21:39.354767+00:00"
+            "timestamp": "2024-11-26 23:42:20.554987+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:21:28.036234+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:42:14.115631+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:21:39.354767+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:42:20.554987+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

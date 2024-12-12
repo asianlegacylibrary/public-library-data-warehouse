@@ -6,9 +6,9 @@
     "revision_id": "625a48d22121a8d294473",
     "content_hash": "6fd2dd8f97c320c7475980802dc21dc4f2d4ed2894901667e2c3af1b22a732b5",
     "server_modified": "2024-10-29 21:48:52",
-    "last_sync": "2024-11-19 21:01:42.837470",
+    "last_sync": "2024-11-26 15:28:29.371175",
     "size": 15673,
-    "meta_text": "('ANG GRAGS PA (1357-1419)', 'rtf')",
+    "meta_text": "ANG GRAGS PA (1357-1419)",
     "cat_ref": "S05275E33",
     "work_ref": "W.S05275E33",
     "title_tib": "RJE BTZUN 'JAM PA'I DBYANGS LA BSTOD PA 'JAM DBYANGS MNYES PAR BYED PA'I BSTOD SPRIN RGYA MTSO",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/'JAM DBYANGS_GENTLE VOICE (MANJUGHOSHA, MANJUSHRI)/BSTOD PA_SONGS OF PRAISE (STOTRA)",
-            "timestamp": "2024-11-20 05:01:43.558580+00:00"
+            "timestamp": "2024-11-26 23:28:29.769525+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:01:43.558580+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:28:29.769525+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

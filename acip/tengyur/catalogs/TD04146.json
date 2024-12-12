@@ -1,53 +1,47 @@
 {
     "name": "TD04146_'PHAGS PA DGA' BA'I BSHES GNYEN GYI RTOGS PA BRJOD PA ZHES BYA BA (Ārya Nandimitrā Vadāna (Nāma)).txt",
-    "path": "08 'DUL BA_Vowed Morality (Vinaya)/VOL 17 (SU)",
+    "path": "BSTAN 'GYUR_Tengyur/08 'DUL BA_Vowed Morality (Vinaya)/VOL 17 (SU)",
     "download_path": "/tengyur updated 10 31 24 ws/08 'dul ba_vowed morality (vinaya)/vol 17 (su)/td04146_'phags pa dga' ba'i bshes gnyen gyi rtogs pa brjod pa zhes bya ba (ārya nandimitrā vadāna (nāma)).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB2nA",
     "revision_id": "62633b8c3fed78d294473",
     "content_hash": "b5a076ff5a667dd1f52373b044c9095ea65cbce3b1125cec8836e48cf7c6583b",
     "server_modified": "2024-11-06 00:37:25",
-    "last_sync": "2024-11-20 03:58:39.348595",
+    "last_sync": "2024-12-03 11:32:22.433955+00:00",
     "size": 16487,
-    "meta_text": null,
     "cat_ref": "TD04146",
     "work_ref": "W.TD04146",
-    "title_tib": "",
+    "title_tib": "'PHAGS PA DGA' BA'I BSHES GNYEN GYI RTOGS PA BRJOD PA ZHES BYA BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "320407306756",
             "subject_path": "BSTAN 'GYUR_Tengyur/08 'DUL BA_Vowed Morality (Vinaya)/VOL 17 (SU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/08 'DUL BA/VOL 17 (SU)",
-            "subject_path_english": "Tengyur/Vowed Morality (Vinaya)",
-            "subject_tibetan": "VOL 17 (SU)",
-            "subject_english": "Vowed Morality (Vinaya)"
+            "subject_path_tibetan": "BSTAN 'GYUR/'DUL BA/17 (SU)",
+            "subject_path_english": "Tengyur/Vowed Morality (Vinaya)/VOL 17 (SU)",
+            "subject_tibetan": "17 (SU)",
+            "subject_english": "VOL 17 (SU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/08 'DUL BA_Vowed Morality (Vinaya)/VOL 17 (SU)",
-            "timestamp": "2024-11-20 11:58:39.362028+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Ārya Nandimitrā Vadāna (Nāma)",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:58:39.362028+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:32:22.436390+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/08 'DUL BA_Vowed Morality (Vinaya)/VOL 17 (SU)",
+            "timestamp": "2024-12-03 11:32:22.436390+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

@@ -1,53 +1,47 @@
 {
     "name": "TD04363_CHOS KYI RNAM GRANGS (Dharma Payayi).txt",
-    "path": "16 SNA TSOGS_Miscellany (Citritā)/VOL 3 (JO)",
+    "path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 3 (JO)",
     "download_path": "/tengyur updated 10 31 24 ws/16 sna tsogs_miscellany (citritā)/vol 3 (jo)/td04363_chos kyi rnam grangs (dharma payayi).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACEeA",
     "revision_id": "62633e1bc74c18d294473",
     "content_hash": "924b55497e6fc634f30a7d7aed6964505f6bfa023c48a061a39f650397b2dfba",
     "server_modified": "2024-11-06 00:48:52",
-    "last_sync": "2024-11-20 04:01:22.928315",
+    "last_sync": "2024-12-03 11:34:38.625128+00:00",
     "size": 22451,
-    "meta_text": null,
     "cat_ref": "TD04363",
     "work_ref": "W.TD04363",
-    "title_tib": "",
+    "title_tib": "CHOS KYI RNAM GRANGS",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "271047187610",
             "subject_path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 3 (JO)",
-            "subject_path_tibetan": "BSTAN 'GYUR/16 SNA TSOGS/VOL 3 (JO)",
-            "subject_path_english": "Tengyur/Miscellany (Citritā)",
-            "subject_tibetan": "VOL 3 (JO)",
-            "subject_english": "Miscellany (Citritā)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SNA TSOGS/3 (JO)",
+            "subject_path_english": "Tengyur/Miscellany (Citritā)/VOL 3 (JO)",
+            "subject_tibetan": "3 (JO)",
+            "subject_english": "VOL 3 (JO)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 3 (JO)",
-            "timestamp": "2024-11-20 12:01:22.935999+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Dharma Payayi",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:22.935999+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:34:38.626614+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/16 SNA TSOGS_Miscellany (Citritā)/VOL 3 (JO)",
+            "timestamp": "2024-12-03 11:34:38.626614+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

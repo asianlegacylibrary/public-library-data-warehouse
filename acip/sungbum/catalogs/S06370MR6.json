@@ -6,9 +6,9 @@
     "revision_id": "625a483e06eec8d294473",
     "content_hash": "294320ef39b43f0d531ce8a44494e5d0e5f1e4488090e6b374956a6e97b0e89f",
     "server_modified": "2024-10-29 21:46:17",
-    "last_sync": "2024-11-19 20:54:05.022009",
+    "last_sync": "2024-11-26 15:23:10.109768",
     "size": 3796,
-    "meta_text": "('A (1772-1851)', 'rtf')",
+    "meta_text": "A (1772-1851)",
     "cat_ref": "S06370MR6",
     "work_ref": "W.S06370MR6",
     "title_tib": "RJE YAB SRAS KYI SKU LAS BDUD RTZI DKAR PO'I RGYUN BABS PA'I SKOR GYI DRI LAN",
@@ -49,33 +49,33 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 04:54:07.141922+00:00"
+            "timestamp": "2024-11-26 23:23:11.596225+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BLA MA'I RNAL 'BYOR_PRACTICES FOR HONORING ONES LAMA/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)/DGA' LDAN LHA BRGYA MA_THOUSAND ANGELS OF THE HEAVEN OF BLISS",
-            "timestamp": "2024-11-20 05:21:28.038995+00:00"
+            "timestamp": "2024-11-26 23:42:14.119192+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BLA MA'I RNAL 'BYOR_PRACTICES FOR HONORING ONES LAMA/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)/DGA' LDAN LHA BRGYA MA_THOUSAND ANGELS OF THE HEAVEN OF BLISS",
-            "timestamp": "2024-11-20 05:21:39.356307+00:00"
+            "timestamp": "2024-11-26 23:42:20.557802+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:07.141922+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:11.596225+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:21:28.038995+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:42:14.119192+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         },
         {
-            "timestamp": "2024-11-20T05:21:39.356307+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:42:20.557802+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

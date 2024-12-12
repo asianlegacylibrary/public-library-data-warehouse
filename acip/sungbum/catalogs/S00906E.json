@@ -6,7 +6,7 @@
     "revision_id": "625a49c24d4c28d294473",
     "content_hash": "0eaf5ba46694b4af15cc985337e6df4363f0baa94ae3b89e95cc18df0fcbdd5b",
     "server_modified": "2024-10-29 21:53:04",
-    "last_sync": "2024-11-19 21:12:52.098884",
+    "last_sync": "2024-11-26 15:36:12.330833",
     "size": 127097,
     "meta_text": null,
     "cat_ref": "S00906E",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)/'DUL BA RGYA MTSO'I SNYING PO_ESSENCE OF THE OCEAN OF DISCIPLINE",
-            "timestamp": "2024-11-20 05:12:52.110911+00:00"
+            "timestamp": "2024-11-26 23:36:12.347036+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME_GUNGTANG KONCHOK TENPAY DRUNME  (1762-1823)",
-            "timestamp": "2024-11-20 05:13:18.433593+00:00"
+            "timestamp": "2024-11-26 23:36:28.979794+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:12:52.110911+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:36:12.347036+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:13:18.433593+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:36:28.979794+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

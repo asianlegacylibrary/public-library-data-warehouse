@@ -6,7 +6,7 @@
     "revision_id": "625a4a4b7ce778d294473",
     "content_hash": "246dcbdc5adb0d826e6bf89401e2e48619109f5f87ba5e97b9d18ad19ce8f745",
     "server_modified": "2024-10-29 21:55:28",
-    "last_sync": "2024-11-19 21:16:57.966400",
+    "last_sync": "2024-11-26 15:39:00.122101",
     "size": 6956,
     "meta_text": null,
     "cat_ref": "S05977MC9",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/ZHI GNAS_QUIETUDE (SHAMATHA)",
-            "timestamp": "2024-11-20 05:16:57.970403+00:00"
+            "timestamp": "2024-11-26 23:39:00.128857+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/ZHI GNAS BSGOM TSUL_HOW TO MEDITATE ON QUIETUDE",
-            "timestamp": "2024-11-20 05:24:12.613518+00:00"
+            "timestamp": "2024-11-26 23:43:54.009936+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:16:57.970403+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:39:00.128857+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:24:12.613518+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:43:54.009936+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

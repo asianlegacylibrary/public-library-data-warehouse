@@ -1,53 +1,47 @@
 {
     "name": "TD04278_'BREL PA GRUB PA ZHES BYA BA'I RAB TU BYED PA (Saṃbandha Siddhayabhidhānaprakriyā).txt",
-    "path": "12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 1 (RE)",
+    "path": "BSTAN 'GYUR_Tengyur/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 1 (RE)",
     "download_path": "/tengyur updated 10 31 24 ws/12 sgra mdo_study of sanskrit language (śabda)/vol 1 (re)/td04278_'brel pa grub pa zhes bya ba'i rab tu byed pa (saṃbandha siddhayabhidhānaprakriyā).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACD5w",
     "revision_id": "62633e02169c88d294473",
     "content_hash": "92bf4775430f10e074a3f5d2d449e2afd773c2990d95a929f2da65d5968b5faf",
     "server_modified": "2024-11-06 00:48:25",
-    "last_sync": "2024-11-20 04:01:18.093140",
+    "last_sync": "2024-12-03 11:34:34.606168+00:00",
     "size": 123777,
-    "meta_text": null,
     "cat_ref": "TD04278",
     "work_ref": "W.TD04278",
-    "title_tib": "",
+    "title_tib": "'BREL PA GRUB PA ZHES BYA BA'I RAB TU BYED PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "299774484840",
             "subject_path": "BSTAN 'GYUR_Tengyur/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 1 (RE)",
-            "subject_path_tibetan": "BSTAN 'GYUR/12 SGRA MDO/VOL 1 (RE)",
-            "subject_path_english": "Tengyur/Study of Sanskrit Language (Śabda)",
-            "subject_tibetan": "VOL 1 (RE)",
-            "subject_english": "Study of Sanskrit Language (Śabda)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SGRA MDO/1 (RE)",
+            "subject_path_english": "Tengyur/Study of Sanskrit Language (Śabda)/VOL 1 (RE)",
+            "subject_tibetan": "1 (RE)",
+            "subject_english": "VOL 1 (RE)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 1 (RE)",
-            "timestamp": "2024-11-20 12:01:18.100193+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Saṃbandha Siddhayabhidhānaprakriyā",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:18.100193+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:34:34.607896+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/12 SGRA MDO_Study of Sanskrit Language (Śabda)/VOL 1 (RE)",
+            "timestamp": "2024-12-03 11:34:34.607896+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

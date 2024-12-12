@@ -6,13 +6,13 @@
     "revision_id": "625a4a7f0d9178d294473",
     "content_hash": "310a99679cc320da02c92e85e13bf45aadaf40492bfaa366aad4226ab6a11054",
     "server_modified": "2024-10-29 21:56:22",
-    "last_sync": "2024-11-19 21:19:07.235033",
+    "last_sync": "2024-11-26 15:40:29.352339",
     "size": 447573,
-    "meta_text": "(\"le One,’ being a Survey of the Schools of Philosophy_LCANG SKYA ROL PA'I RDO RJE (1717-1786)\", 'rtf')",
+    "meta_text": "le One,’ being a Survey of the Schools of Philosophy_LCANG SKYA ROL PA'I RDO RJE (1717-1786)",
     "cat_ref": "S00063M",
     "work_ref": "W.S00063M",
     "title_tib": "GRUB PA'I MTHA'I RNAM PAR BZHAG PA GSAL BAR BSHAD PA THUB BSTAN LHUN PO'I MDZES RGYAN ZHES BYA BA LAS SDE TSAN BZHI PA LCANG SKYA GRUB MTHA' LAS SDE TSAN BZHI PA",
-    "title_eng": "Part Four of 'The Lovely Jewel for the Mountain Peak of the Teachings of the Ab(\"le One,’ being a Survey of the Schools of Philosophy",
+    "title_eng": "Part Four of 'The Lovely Jewel for the Mountain Peak of the Teachings of the Able One,’ being a Survey of the Schools of Philosophy",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/GRUB MTHA'_COMPARATIVE PHILOSOPHY (SIDDHANTA)/LCANG SKYA ROL PA'I RDO RJE_CHANGKYA ROLPAY DORJE (1717-1786)/GRUB MTHA' CHEN MO_GREAT BOOK ON COMPARATIVE SCHOOLS/RTZA BA_ROOT TEXT",
-            "timestamp": "2024-11-20 05:19:07.239890+00:00"
+            "timestamp": "2024-11-26 23:40:29.359175+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:19:07.239890+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:40:29.359175+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

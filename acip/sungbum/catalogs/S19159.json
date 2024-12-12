@@ -6,7 +6,7 @@
     "revision_id": "625a476b20e768d294473",
     "content_hash": "d09e6754be62ec72af0a44bbba2bcb5e8dd19868c98433c3c53b20486f6f84d4",
     "server_modified": "2024-10-29 21:42:36",
-    "last_sync": "2024-11-19 20:45:52.817352",
+    "last_sync": "2024-11-26 15:17:40.102838",
     "size": 19676,
     "meta_text": null,
     "cat_ref": "S19159",
@@ -38,13 +38,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/SNYAN NGAG_CLASSICAL POETRY/RED MDA' BA GZHON NU BLO GROS_RENDAWA SHUNNU LODRU (1349-1412)",
-            "timestamp": "2024-11-20 04:45:52.822049+00:00"
+            "timestamp": "2024-11-26 23:17:40.109545+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:45:52.822049+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:17:40.109545+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

@@ -6,7 +6,7 @@
     "revision_id": "625a49e0fea788d294473",
     "content_hash": "29d8451db2de50cb53ca447b84792f9d6ec149fa78bcc9c8a2661804c83f1d96",
     "server_modified": "2024-10-29 21:53:36",
-    "last_sync": "2024-11-19 21:13:48.178856",
+    "last_sync": "2024-11-26 15:36:48.748882",
     "size": 61449,
     "meta_text": null,
     "cat_ref": "S00151M",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/DGE SLONG_VOWS OF FULL MONKS",
-            "timestamp": "2024-11-20 05:13:49.766785+00:00"
+            "timestamp": "2024-11-26 23:36:49.540227+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:13:49.766785+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:36:49.540227+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

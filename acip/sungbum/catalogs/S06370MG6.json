@@ -6,7 +6,7 @@
     "revision_id": "625a47e69f0918d294473",
     "content_hash": "feb9b0e162a477336b8471228efbc4660b1fd50fdfe2f449569343dc5b48c231",
     "server_modified": "2024-10-29 21:44:46",
-    "last_sync": "2024-11-19 20:51:48.083312",
+    "last_sync": "2024-11-26 15:21:38.214956",
     "size": 2458,
     "meta_text": null,
     "cat_ref": "S06370MG6",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 04:51:50.926706+00:00"
+            "timestamp": "2024-11-26 23:21:40.585458+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 04:54:07.135763+00:00"
+            "timestamp": "2024-11-26 23:23:11.588927+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:51:50.926706+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:21:40.585458+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T04:54:07.135763+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:11.588927+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

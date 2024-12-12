@@ -6,7 +6,7 @@
     "revision_id": "625a4b0bff8d58d294473",
     "content_hash": "7fb8ed75160d8309d2e85b1a2bcbca3f5a7bccc4279c44c550e204d6035ae90a",
     "server_modified": "2024-10-29 21:58:50",
-    "last_sync": "2024-11-19 21:26:27.587028",
+    "last_sync": "2024-11-26 15:45:21.173189",
     "size": 1890185,
     "meta_text": null,
     "cat_ref": "SP06954",
@@ -38,13 +38,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/MNGON PA_HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)/MCHIMS 'JAM PA'I DBYANGS_CHIM JAMPAY YANG (1280-@)",
-            "timestamp": "2024-11-20 05:26:27.590887+00:00"
+            "timestamp": "2024-11-26 23:45:21.177950+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:26:27.590887+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:45:21.177950+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

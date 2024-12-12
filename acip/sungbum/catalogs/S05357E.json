@@ -6,9 +6,9 @@
     "revision_id": "625a48893f6af8d294473",
     "content_hash": "c3c350350aa2a717aed246f7a74c37fa4e028020e28cb0ace69a0c5e7cd4477b",
     "server_modified": "2024-10-29 21:47:36",
-    "last_sync": "2024-11-19 20:57:38.766841",
+    "last_sync": "2024-11-26 15:25:35.857705",
     "size": 18891,
-    "meta_text": "('A PA BLO BZANG GRAGS PA (1357-1419)', 'rtf')",
+    "meta_text": "A PA BLO BZANG GRAGS PA (1357-1419)",
     "cat_ref": "S05357E",
     "work_ref": "W.S05357E",
     "title_tib": "SANGS RGYAS THOD PA'I MI 'JIGS GZHUNG 'GREL SOGS KYI ZIN BRIS RJES GNANG BA",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SANGS RGYAS THOD PA_SECRET TEACHING OF THE BUDDHA SKULL (BUDDHAKAPALA)/'GREL PA_COMMENTARIES",
-            "timestamp": "2024-11-20 04:57:38.772476+00:00"
+            "timestamp": "2024-11-26 23:25:35.864732+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:57:38.772476+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:25:35.864732+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

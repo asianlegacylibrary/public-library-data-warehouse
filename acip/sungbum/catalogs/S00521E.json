@@ -6,9 +6,9 @@
     "revision_id": "625a49b9d36398d294473",
     "content_hash": "d249eebfeeb6c1fd30f45184e5a229b2ab0d9a40f7c8add599d80b7f59f315db",
     "server_modified": "2024-10-29 21:52:55",
-    "last_sync": "2024-11-19 21:12:21.348053",
+    "last_sync": "2024-11-26 15:35:50.138030",
     "size": 21446,
-    "meta_text": "('S RJE PHA BONG KHA PA BDE CHEN SNYING PO (1878-1941)', 'rtf')",
+    "meta_text": "S RJE PHA BONG KHA PA BDE CHEN SNYING PO (1878-1941)",
     "cat_ref": "S00521E",
     "work_ref": "W.S00521E",
     "title_tib": "RGYAL CHEN SROG GTAD KYI SNGON 'GRO BSHAD PA'I MTSAMS SBYOR KHA SKONG",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE SHUGS LDAN_DIAMOND ANGEL OF POWER (VAJRAVEGA)/SROG GTAD_DIRECTING LIFE ENERGY",
-            "timestamp": "2024-11-20 05:12:21.353582+00:00"
+            "timestamp": "2024-11-26 23:35:50.145486+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:12:21.353582+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:35:50.145486+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

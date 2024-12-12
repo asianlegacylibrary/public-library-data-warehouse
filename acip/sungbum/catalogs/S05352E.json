@@ -6,9 +6,9 @@
     "revision_id": "625a493c05aa18d294473",
     "content_hash": "2c459cc37d79c562f65830523586ffefbbe7199c5b1feceacc00f0eb75effc90",
     "server_modified": "2024-10-29 21:50:43",
-    "last_sync": "2024-11-19 21:06:06.130622",
+    "last_sync": "2024-11-26 15:31:32.962762",
     "size": 58147,
-    "meta_text": "('357-1419)', 'rtf')",
+    "meta_text": "357-1419)",
     "cat_ref": "S05352E",
     "work_ref": "W.S05352E",
     "title_tib": "SBYOR BA YAN LAG DRUG GI RDZOGS RIM GYI GNAD BSDUS PA RJE'I GSUNG BZHIN RGYAL STENGS PAS MDZAD PA",
@@ -31,8 +31,8 @@
     "author": [
         {
             "author_name": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
-            "author_birth": null,
-            "author_death": null,
+            "author_birth": "1357",
+            "author_death": "1419",
             "bdrc_id": "bdr:P64",
             "normalized_name": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
             "bdrc_url": "http://purl.bdrc.io/resource/P64"
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/'GREL PA_COMMENTARIES",
-            "timestamp": "2024-11-20 05:06:08.039041+00:00"
+            "timestamp": "2024-11-26 23:31:34.164960+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:06:08.039041+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:31:34.164960+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

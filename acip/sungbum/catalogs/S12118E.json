@@ -6,13 +6,13 @@
     "revision_id": "625a4ac348f6e8d294473",
     "content_hash": "5c06c73ae702b923894da334e2c9880cd3c2e53ee88f1af506aedd0f541092ab",
     "server_modified": "2024-10-29 21:57:34",
-    "last_sync": "2024-11-19 21:22:40.919926",
+    "last_sync": "2024-11-26 15:42:55.432247",
     "size": 32933,
-    "meta_text": "(\"ient One, Jamyang Shepay Dorje_’JAM DBYANGS BZHAD PA'I RDO RJE (1648-1721)\", 'rtf')",
+    "meta_text": "ient One, Jamyang Shepay Dorje_’JAM DBYANGS BZHAD PA'I RDO RJE (1648-1721)",
     "cat_ref": "S12118E",
     "work_ref": "W.S12118E",
     "title_tib": "KUN MKHYEN 'JAM DBYANGS BZHAD PA'I RDO RJE'I GSUNG 'BUM THOR BU KHRIG CHAGS SU BSDEBS PA LAS ZHAL GDAMS MGUR MA'I SKOR",
-    "title_eng": "Words of Advice and Spiritual Songs from the a Compilation of Assorted Writings found in the Collected Works of the Omnisc(\"ient One, Jamyang Shepay Dorje",
+    "title_eng": "Words of Advice and Spiritual Songs from the a Compilation of Assorted Writings found in the Collected Works of the Omniscient One, Jamyang Shepay Dorje",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SPYI_GENERAL TREATMENTS/'JAM DBYANGS BZHAD PA'I RDO RJE NGAG DBANG BRTZON 'GRUS_JAMYANG SHEPAY DORJE NGAWANG TSUNDRU (1648-1721)",
-            "timestamp": "2024-11-20 05:22:42.451754+00:00"
+            "timestamp": "2024-11-26 23:42:56.324163+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:22:42.451754+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:42:56.324163+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

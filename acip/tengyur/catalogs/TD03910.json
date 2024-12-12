@@ -1,53 +1,47 @@
 {
     "name": "TD03910_CIG CAR 'JUG PA RNAM PAR MI RTOG PA'I BSGOM DON (Sakṛtprāveśikanirvikalpa Bhāvanārtha).txt",
-    "path": "04 DBU MA_Middle Way School (Madhyamaka)/VOL 15 (KI)",
+    "path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 15 (KI)",
     "download_path": "/tengyur updated 10 31 24 ws/04 dbu ma_middle way school (madhyamaka)/vol 15 (ki)/td03910_cig car 'jug pa rnam par mi rtog pa'i bsgom don (sakṛtprāveśikanirvikalpa bhāvanārtha).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB3SA",
     "revision_id": "62633bc49a8c98d294473",
     "content_hash": "c2b47989de586a88482fc26c8cb0e453ed0a0ca3f55fc31f2b8cd3905b82fce4",
     "server_modified": "2024-11-06 00:38:24",
-    "last_sync": "2024-11-20 03:59:02.423334",
+    "last_sync": "2024-12-03 11:32:43.659702+00:00",
     "size": 28250,
-    "meta_text": null,
     "cat_ref": "TD03910",
     "work_ref": "W.TD03910",
-    "title_tib": "",
+    "title_tib": "CIG CAR 'JUG PA RNAM PAR MI RTOG PA'I BSGOM DON",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "330936115974",
             "subject_path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 15 (KI)",
-            "subject_path_tibetan": "BSTAN 'GYUR/04 DBU MA/VOL 15 (KI)",
-            "subject_path_english": "Tengyur/Middle Way School (Madhyamaka)",
-            "subject_tibetan": "VOL 15 (KI)",
-            "subject_english": "Middle Way School (Madhyamaka)"
+            "subject_path_tibetan": "BSTAN 'GYUR/DBU MA/15 (KI)",
+            "subject_path_english": "Tengyur/Middle Way School (Madhyamaka)/VOL 15 (KI)",
+            "subject_tibetan": "15 (KI)",
+            "subject_english": "VOL 15 (KI)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 15 (KI)",
-            "timestamp": "2024-11-20 11:59:02.431395+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Sakṛtprāveśikanirvikalpa Bhāvanārtha",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:59:02.431395+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:32:43.663405+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 15 (KI)",
+            "timestamp": "2024-12-03 11:32:43.663405+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

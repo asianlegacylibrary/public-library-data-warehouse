@@ -6,13 +6,13 @@
     "revision_id": "625a4954755b68d294473",
     "content_hash": "69f691559245434c42a93157a08bdd94270f00d321449f0a2795c7a95869d8d0",
     "server_modified": "2024-10-29 21:51:09",
-    "last_sync": "2024-11-19 21:07:19.497254",
+    "last_sync": "2024-11-26 15:32:22.012936",
     "size": 3184,
-    "meta_text": "('tion (Guhyasamaja), in the Tradition of the Realized One_DNGUL CHU DHARMA BHADRA (1772-1851)', 'rtf')",
+    "meta_text": "tion (Guhyasamaja), in the Tradition of the Realized One_DNGUL CHU DHARMA BHADRA (1772-1851)",
     "cat_ref": "S06369E46",
     "work_ref": "W.S06369E46",
     "title_tib": "DHARMA BHA DRAS RANG LO DON LNGA PA ME RTA ZLA TSES LA SLOB MA 'GAR GSANG 'DUS 'PHAGS LUGS KYI THIG DANG BLOS BSLANGS JI LTAR KHRID SKABS GNAD 'GAG BRJED BYANG",
-    "title_eng": "Record of the Crucial Points in a Teaching on the Practice of the Secret Collec('tion (Guhyasamaja), in the Tradition of the Realized One",
+    "title_eng": "Record of the Crucial Points in a Teaching on the Practice of the Secret Collection (Guhyasamaja), in the Tradition of the Realized One",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/DKYIL 'KHOR_SECRET WORLD (MANDALA)",
-            "timestamp": "2024-11-20 05:07:22.081554+00:00"
+            "timestamp": "2024-11-26 23:32:23.968756+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/RNAL 'BYOR_PRACTICES",
-            "timestamp": "2024-11-20 05:07:39.339772+00:00"
+            "timestamp": "2024-11-26 23:32:35.896996+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:07:22.081554+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:32:23.968756+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:07:39.339772+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:32:35.896996+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

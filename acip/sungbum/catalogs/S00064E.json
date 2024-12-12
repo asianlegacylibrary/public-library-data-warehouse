@@ -6,17 +6,17 @@
     "revision_id": "625a496ec59028d294473",
     "content_hash": "2e01a44860728a469e294d4eb0682420bd0d2c769974c3e98227cf485a015305",
     "server_modified": "2024-10-29 21:51:37",
-    "last_sync": "2024-11-19 21:08:24.378758",
+    "last_sync": "2024-11-26 15:33:05.848964",
     "size": 249479,
-    "meta_text": "('ing Instructions for Undertaking the Deep Practice of the Two Stages of the Secret Teachings of the Holy Queen of the Heaven of Naropa (Vajrayogini)_ZHVA LU BA RIN CHEN BLO BZANG MKHYEN RAB', 'rtf')",
+    "meta_text": "ing Instructions for Undertaking the Deep Practice of the Two Stages of the Secret Teachings of the Holy Queen of the Heaven of Naropa (Vajrayogini)_ZHVA LU BA RIN CHEN BLO BZANG MKHYEN RAB",
     "cat_ref": "S00064E",
     "work_ref": "W.S00064E",
     "title_tib": "RJE BTZUN N'A RO MKHA' SPYOD MA'I RIM GNYIS KYI RNAL 'BYOR SKYONG BA'I SKAL BZANG MKHA' SPYOD BGROD BA'I BDE LAM RJE BTZUN N'A RO MKHA' SPYOD MA'I RIM GNYIS KYI RNAL 'BYOR",
-    "title_eng": "'An Easy Road for the Virtuos to Travel to the Heaven of the Sky,' be('ing Instructions for Undertaking the Deep Practice of the Two Stages of the Secret Teachings of the Holy Queen of the Heaven of Naropa (Vajrayogini)",
+    "title_eng": "'An Easy Road for the Virtuos to Travel to the Heaven of the Sky,' being Instructions for Undertaking the Deep Practice of the Two Stages of the Secret Teachings of the Holy Queen of the Heaven of Naropa (Vajrayogini)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
-    "author_simple": "ZHVA LU BA RIN CHEN BLO BZANG MKHYEN RAB', 'rtf')",
+    "author_simple": "ZHVA LU BA RIN CHEN BLO BZANG MKHYEN RAB",
     "subject": [
         {
             "_id": "301860967278",
@@ -30,7 +30,7 @@
     "items": [],
     "author": [
         {
-            "author_name": "ZHVA LU BA RIN CHEN BLO BZANG MKHYEN RAB', 'rtf')",
+            "author_name": "ZHVA LU BA RIN CHEN BLO BZANG MKHYEN RAB",
             "author_birth": null,
             "author_death": null
         }
@@ -38,13 +38,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE RNAL 'BYOR MA_ANGEL OF DIAMOND (VAJRAYOGINI)/RNAL 'BYOR_PRACTICES",
-            "timestamp": "2024-11-20 05:08:25.033094+00:00"
+            "timestamp": "2024-11-26 23:33:06.351700+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:08:25.033094+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:33:06.351700+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

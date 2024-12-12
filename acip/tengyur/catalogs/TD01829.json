@@ -1,53 +1,47 @@
 {
     "name": "TD01829_BYANG CHUB SEMS KYI 'GREL PA'I RNAM PAR BSHAD PA (Bodhicitta Vivaraṇa Ṭikā).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/10 GSANG BA ‘DUS PA_Secret Collection (Guhya Samāja)/01 KLU SGRUB LUGS_System of Arya Nagarjuna (Nāgārjuna Krama)/03 SGRUB SKOR 'GREL PA_Commentaries on the Practice Materials (Sādhya Vṛtti)/VOL 35 (CI)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/10 GSANG BA ‘DUS PA_Secret Collection (Guhya Samāja)/01 KLU SGRUB LUGS_System of Arya Nagarjuna (Nāgārjuna Krama)/03 SGRUB SKOR 'GREL PA_Commentaries on the Practice Materials (Sādhya Vṛtti)/VOL 35 (CI)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/01 rnal 'byor bla med_unsurpassed practice (anuttara yoga)/10 gsang ba ‘dus pa_secret collection (guhya samāja)/01 klu sgrub lugs_system of arya nagarjuna (nāgārjuna krama)/03 sgrub skor 'grel pa_commentaries on the practice materials (sādhya vṛtti)/vol 35 (ci)/td01829_byang chub sems kyi 'grel pa'i rnam par bshad pa (bodhicitta vivaraṇa ṭikā).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB6Zw",
     "revision_id": "62633c49b91a68d294473",
     "content_hash": "1b372fa90e82db92683cb43efb99e5d48cbdcf4237bc9d64e4b728a71473e304",
     "server_modified": "2024-11-06 00:40:43",
-    "last_sync": "2024-11-20 03:59:43.780839",
+    "last_sync": "2024-12-03 11:33:16.431801+00:00",
     "size": 95680,
-    "meta_text": null,
     "cat_ref": "TD01829",
     "work_ref": "W.TD01829",
-    "title_tib": "",
+    "title_tib": "BYANG CHUB SEMS KYI 'GREL PA'I RNAM PAR BSHAD PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "152269012824",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/10 GSANG BA ‘DUS PA_Secret Collection (Guhya Samāja)/01 KLU SGRUB LUGS_System of Arya Nagarjuna (Nāgārjuna Krama)/03 SGRUB SKOR 'GREL PA_Commentaries on the Practice Materials (Sādhya Vṛtti)/VOL 35 (CI)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/01 RNAL 'BYOR BLA MED/10 GSANG BA ‘DUS PA/01 KLU SGRUB LUGS/03 SGRUB SKOR 'GREL PA/VOL 35 (CI)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Secret Collection (Guhya Samāja)/System of Arya Nagarjuna (Nāgārjuna Krama)/Commentaries on the Practice Materials (Sādhya Vṛtti)",
-            "subject_tibetan": "VOL 35 (CI)",
-            "subject_english": "Commentaries on the Practice Materials (Sādhya Vṛtti)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/RNAL 'BYOR BLA MED/GSANG BA ‘DUS PA/KLU SGRUB LUGS/SGRUB SKOR 'GREL PA/35 (CI)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Unsurpassed Practice (Anuttara Yoga)/Secret Collection (Guhya Samāja)/System of Arya Nagarjuna (Nāgārjuna Krama)/Commentaries on the Practice Materials (Sādhya Vṛtti)/VOL 35 (CI)",
+            "subject_tibetan": "35 (CI)",
+            "subject_english": "VOL 35 (CI)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/10 GSANG BA ‘DUS PA_Secret Collection (Guhya Samāja)/01 KLU SGRUB LUGS_System of Arya Nagarjuna (Nāgārjuna Krama)/03 SGRUB SKOR 'GREL PA_Commentaries on the Practice Materials (Sādhya Vṛtti)/VOL 35 (CI)",
-            "timestamp": "2024-11-20 11:59:43.805194+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Bodhicitta Vivaraṇa Ṭikā",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:59:43.805194+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:33:16.433470+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/01 RNAL 'BYOR BLA MED_Unsurpassed Practice (Anuttara Yoga)/10 GSANG BA ‘DUS PA_Secret Collection (Guhya Samāja)/01 KLU SGRUB LUGS_System of Arya Nagarjuna (Nāgārjuna Krama)/03 SGRUB SKOR 'GREL PA_Commentaries on the Practice Materials (Sādhya Vṛtti)/VOL 35 (CI)",
+            "timestamp": "2024-12-03 11:33:16.433470+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

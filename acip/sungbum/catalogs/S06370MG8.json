@@ -6,7 +6,7 @@
     "revision_id": "625a4839e0d0b8d294473",
     "content_hash": "4bf1b2c74ae32314973e5061b6c488e675e1cff3fd658df778ce090c1e9fd6c6",
     "server_modified": "2024-10-29 21:46:13",
-    "last_sync": "2024-11-19 20:53:59.867451",
+    "last_sync": "2024-11-26 15:23:05.975763",
     "size": 474,
     "meta_text": null,
     "cat_ref": "S06370MG8",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 04:54:07.140980+00:00"
+            "timestamp": "2024-11-26 23:23:11.595150+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 05:15:49.402821+00:00"
+            "timestamp": "2024-11-26 23:38:10.475987+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:07.140980+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:11.595150+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:15:49.402821+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:38:10.475987+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

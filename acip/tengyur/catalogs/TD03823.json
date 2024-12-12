@@ -1,53 +1,47 @@
 {
     "name": "TD03823_SHES RAB SNYING PO'I RNAM PAR BSHAD PA (Prajñā Hṛdaya Vyakhyā).txt",
-    "path": "03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 16 (MA)",
+    "path": "BSTAN 'GYUR_Tengyur/03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 16 (MA)",
     "download_path": "/tengyur updated 10 31 24 ws/03 shes phyin_perfection of wisdom (prajñā pāramitā)/vol 16 (ma)/td03823_shes rab snying po'i rnam par bshad pa (prajñā hṛdaya vyakhyā).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACEsg",
     "revision_id": "62633e32b85b08d294473",
     "content_hash": "c6b0384fd229ffa29dd8969c5e7825307d212658681bb77a5aebd2cde04a7ed1",
     "server_modified": "2024-11-06 00:49:16",
-    "last_sync": "2024-11-20 04:01:28.720741",
+    "last_sync": "2024-12-03 11:34:43.664724+00:00",
     "size": 17276,
-    "meta_text": null,
     "cat_ref": "TD03823",
     "work_ref": "W.TD03823",
-    "title_tib": "",
+    "title_tib": "SHES RAB SNYING PO'I RNAM PAR BSHAD PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "186449928369",
             "subject_path": "BSTAN 'GYUR_Tengyur/03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 16 (MA)",
-            "subject_path_tibetan": "BSTAN 'GYUR/03 SHES PHYIN/VOL 16 (MA)",
-            "subject_path_english": "Tengyur/Perfection of Wisdom (Prajñā Pāramitā)",
-            "subject_tibetan": "VOL 16 (MA)",
-            "subject_english": "Perfection of Wisdom (Prajñā Pāramitā)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SHES PHYIN/16 (MA)",
+            "subject_path_english": "Tengyur/Perfection of Wisdom (Prajñā Pāramitā)/VOL 16 (MA)",
+            "subject_tibetan": "16 (MA)",
+            "subject_english": "VOL 16 (MA)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 16 (MA)",
-            "timestamp": "2024-11-20 12:01:28.723046+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Prajñā Hṛdaya Vyakhyā",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:28.723046+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:34:43.666616+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 16 (MA)",
+            "timestamp": "2024-12-03 11:34:43.666616+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

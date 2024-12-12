@@ -6,7 +6,7 @@
     "revision_id": "625a4770d60f78d294473",
     "content_hash": "8448f5947be714952db1e3567d5092a811f60b833721d85ffb03bc3b16f22151",
     "server_modified": "2024-10-29 21:42:42",
-    "last_sync": "2024-11-19 20:46:20.069212",
+    "last_sync": "2024-11-26 15:17:57.834059",
     "size": 11798,
     "meta_text": null,
     "cat_ref": "S12041E",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/MDO 'GREL_COMMENTARIES TO SUTRAS/MDO SDE BSKAL BZANG (BHADRAKALPA)_SUTRA OF THE FORTUNATE EON",
-            "timestamp": "2024-11-20 04:46:20.073036+00:00"
+            "timestamp": "2024-11-26 23:17:57.838637+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:46:20.073036+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:17:57.838637+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

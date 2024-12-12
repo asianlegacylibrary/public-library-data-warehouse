@@ -6,9 +6,9 @@
     "revision_id": "625a48183b1298d294473",
     "content_hash": "bd575cf5f3d7401e0682d5597fb29b0d02e2f53a340f40c22d4b7aa8fdcb0480",
     "server_modified": "2024-10-29 21:45:38",
-    "last_sync": "2024-11-19 20:53:36.685747",
+    "last_sync": "2024-11-26 15:22:49.383646",
     "size": 1193,
-    "meta_text": "('1851)', 'rtf')",
+    "meta_text": "1851)",
     "cat_ref": "S06370E80",
     "work_ref": "W.S06370E80",
     "title_tib": "DAM CAN BKA' SDOD SDE GSUM SKOR GYI DRI LAN",
@@ -39,8 +39,8 @@
     "author": [
         {
             "author_name": "DNGUL CHU DHARMA BHADRA",
-            "author_birth": null,
-            "author_death": null,
+            "author_birth": "1772",
+            "author_death": "1851",
             "bdrc_id": "bdr:P289",
             "normalized_name": "DNGUL CHU DHARMA BHADRA",
             "bdrc_url": "http://purl.bdrc.io/resource/P289"
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 04:54:07.133813+00:00"
+            "timestamp": "2024-11-26 23:23:11.586712+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SNGAGS_SECRET WORDS (MANTRA)",
-            "timestamp": "2024-11-20 05:05:09.000145+00:00"
+            "timestamp": "2024-11-26 23:30:54.749191+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:07.133813+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:11.586712+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:05:09.000145+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:30:54.749191+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

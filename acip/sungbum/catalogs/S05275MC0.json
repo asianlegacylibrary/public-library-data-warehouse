@@ -6,13 +6,13 @@
     "revision_id": "625a4ace8bb1b8d294473",
     "content_hash": "0158bf45ad93d6bcbdb4a793a786e6896d57ce0424cb91a039bee995d45f5128",
     "server_modified": "2024-10-29 21:57:46",
-    "last_sync": "2024-11-19 21:23:18.100972",
+    "last_sync": "2024-11-26 15:43:16.968131",
     "size": 3557,
-    "meta_text": "('s ‘Dejung, the Son of the Victorious Buddhas’_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)', 'rtf')",
+    "meta_text": "s ‘Dejung, the Son of the Victorious Buddhas’_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)",
     "cat_ref": "S05275MC0",
     "work_ref": "W.S05275MC0",
     "title_tib": "RGYAL BA'I SRAS PO BDE 'BYUNG ZHES MTSAN YONGS SU GRAGS PA MTSAN GZHAN GRAGS PA RGYA MTSO ZHES PA'I BKA' STZAL DANG DU BLANGS TE SBYAR BA'I SMON LAM",
-    "title_eng": "Prayer Composed in Willing Response to the Directions of Drakpa Gyatso, popularly known a('s ‘Dejung, the Son of the Victorious Buddhas’",
+    "title_eng": "Prayer Composed in Willing Response to the Directions of Drakpa Gyatso, popularly known as ‘Dejung, the Son of the Victorious Buddhas’",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/SMON LAM_MAKING PRAYERS/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)",
-            "timestamp": "2024-11-20 05:23:18.875475+00:00"
+            "timestamp": "2024-11-26 23:43:17.308661+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:23:18.875475+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:43:17.308661+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

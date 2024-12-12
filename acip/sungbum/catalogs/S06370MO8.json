@@ -6,7 +6,7 @@
     "revision_id": "625a480e0882d8d294473",
     "content_hash": "2277b111c749c9341d30619c2acd6c48f4a390fa3860a10be5abf6d1176cc322",
     "server_modified": "2024-10-29 21:45:27",
-    "last_sync": "2024-11-19 20:53:27.081058",
+    "last_sync": "2024-11-26 15:22:42.907811",
     "size": 3872,
     "meta_text": null,
     "cat_ref": "S06370MO8",
@@ -49,23 +49,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 04:54:07.131390+00:00"
+            "timestamp": "2024-11-26 23:23:11.583785+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/MNGON PA_HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)/MDZOD SPYI_GENERAL SUBJECTS OF HIGHER KNOWLEDGE (ABHIDHARMA)",
-            "timestamp": "2024-11-20 05:26:34.810565+00:00"
+            "timestamp": "2024-11-26 23:45:26.729941+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:54:07.131390+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:11.583785+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:26:34.810565+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:45:26.729941+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

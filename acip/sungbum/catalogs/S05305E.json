@@ -6,13 +6,13 @@
     "revision_id": "625a495ddcc578d294473",
     "content_hash": "da793bcdd5b85ca51f0c9e04b2f835361316a4377ad6fac7a585181fc485ac6c",
     "server_modified": "2024-10-29 21:51:19",
-    "last_sync": "2024-11-19 21:07:44.776868",
+    "last_sync": "2024-11-26 15:32:39.609015",
     "size": 75130,
-    "meta_text": "('cret Teaching of the Glorious Secret Collection (Guhyasamaja)_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)', 'rtf')",
+    "meta_text": "cret Teaching of the Glorious Secret Collection (Guhyasamaja)_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)",
     "cat_ref": "S05305E",
     "work_ref": "W.S05305E",
     "title_tib": "DPAL GSANG BA 'DUS PA'I BSKYED RIM BLO GSAL BUNG BA'I RE SKONG GNAD DON GSAL BA",
-    "title_eng": "The 'Clarification of the Meaning of the Essential Points, which Fulfils the Hopes of Intelligent Bees,' being an Explanation of the Stage of Creation in the Se('cret Teaching of the Glorious Secret Collection (Guhyasamaja)",
+    "title_eng": "The 'Clarification of the Meaning of the Essential Points, which Fulfils the Hopes of Intelligent Bees,' being an Explanation of the Stage of Creation in the Secret Teaching of the Glorious Secret Collection (Guhyasamaja)",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/BSKYED RIM_CREATION STAGE (UTPATTI KRAMA)",
-            "timestamp": "2024-11-20 05:07:45.500859+00:00"
+            "timestamp": "2024-11-26 23:32:40.463436+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:07:45.500859+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:32:40.463436+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

@@ -6,7 +6,7 @@
     "revision_id": "625a48ada77f18d294473",
     "content_hash": "a9d5a898298f49e164922d5213244d79775d82610e2eed3091b9970def7ba566",
     "server_modified": "2024-10-29 21:48:14",
-    "last_sync": "2024-11-19 20:59:41.118760",
+    "last_sync": "2024-11-26 15:27:05.460534",
     "size": 257307,
     "meta_text": null,
     "cat_ref": "S05292E1",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/RIM LNGA_FIVE STAGES (PANCHAKRAMA)/'GREL PA_COMMENTARIES",
-            "timestamp": "2024-11-20 04:59:41.817434+00:00"
+            "timestamp": "2024-11-26 23:27:05.844979+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:59:41.817434+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:27:05.844979+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

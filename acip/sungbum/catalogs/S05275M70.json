@@ -6,9 +6,9 @@
     "revision_id": "625a47fb8cf478d294473",
     "content_hash": "0c45c7380496fe530f7c8aa95da6647b14656d309abfa3fbe0f84a58cf5f78cc",
     "server_modified": "2024-10-29 21:45:07",
-    "last_sync": "2024-11-19 20:52:40.453710",
+    "last_sync": "2024-11-26 15:22:11.738933",
     "size": 71119,
-    "meta_text": "('KHA PA BLO BZANG GRAGS PA (1357-1419)', 'rtf')",
+    "meta_text": "KHA PA BLO BZANG GRAGS PA (1357-1419)",
     "cat_ref": "S05275M70",
     "work_ref": "W.S05275M70",
     "title_tib": "BYANG CHUB SEMS DPA' SEMS DPA' CHEN PO RTAG TU NGU'I RTOGS PA BRJOD PA'I SNYAN DNGAGS DPAG BSAM GYI LJON PA",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RTOGS BRJOD_LIVES OF INDIAN SAINTS (AVADANA)/SADAPRARUDITA (RTAG TU NGU)",
-            "timestamp": "2024-11-20 04:52:40.458984+00:00"
+            "timestamp": "2024-11-26 23:22:11.745017+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:52:40.458984+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:22:11.745017+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

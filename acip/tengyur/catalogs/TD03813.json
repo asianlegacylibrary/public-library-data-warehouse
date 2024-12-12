@@ -1,53 +1,47 @@
 {
     "name": "TD03813_BCOM LDAN 'DAS MA SHES RAB KYI PHA ROL TU PHYIN PA'I DON BSDUS PA'I TSIGS SU BCAD PA DGU PA'I RGYA CHER BSHAD PA (Bhagavatī Prajñā Pāramitā Navaślokapiṇḍārtha).txt",
-    "path": "03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 16 (MA)",
+    "path": "BSTAN 'GYUR_Tengyur/03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 16 (MA)",
     "download_path": "/tengyur updated 10 31 24 ws/03 shes phyin_perfection of wisdom (prajñā pāramitā)/vol 16 (ma)/td03813_bcom ldan 'das ma shes rab kyi pha rol tu phyin pa'i don bsdus pa'i tsigs su bcad pa dgu pa'i rgya cher bshad pa (bhagavatī prajñā pāramitā navaślokapiṇḍārtha).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACEqQ",
     "revision_id": "62633e3120b7e8d294473",
     "content_hash": "29c8ee48fb5f3dadf2441289af5fa2ac1b11028dca8dfdaa1776f7fe8c7d5bb2",
     "server_modified": "2024-11-06 00:49:15",
-    "last_sync": "2024-11-20 04:01:28.702546",
+    "last_sync": "2024-12-03 11:34:43.663831+00:00",
     "size": 14911,
-    "meta_text": null,
     "cat_ref": "TD03813",
     "work_ref": "W.TD03813",
-    "title_tib": "",
+    "title_tib": "BCOM LDAN 'DAS MA SHES RAB KYI PHA ROL TU PHYIN PA'I DON BSDUS PA'I TSIGS SU BCAD PA DGU PA'I RGYA CHER BSHAD PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "186449928369",
             "subject_path": "BSTAN 'GYUR_Tengyur/03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 16 (MA)",
-            "subject_path_tibetan": "BSTAN 'GYUR/03 SHES PHYIN/VOL 16 (MA)",
-            "subject_path_english": "Tengyur/Perfection of Wisdom (Prajñā Pāramitā)",
-            "subject_tibetan": "VOL 16 (MA)",
-            "subject_english": "Perfection of Wisdom (Prajñā Pāramitā)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SHES PHYIN/16 (MA)",
+            "subject_path_english": "Tengyur/Perfection of Wisdom (Prajñā Pāramitā)/VOL 16 (MA)",
+            "subject_tibetan": "16 (MA)",
+            "subject_english": "VOL 16 (MA)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 16 (MA)",
-            "timestamp": "2024-11-20 12:01:28.722630+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Bhagavatī Prajñā Pāramitā Navaślokapiṇḍārtha",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:28.722630+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:34:43.665621+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/03 SHES PHYIN_Perfection of Wisdom (Prajñā Pāramitā)/VOL 16 (MA)",
+            "timestamp": "2024-12-03 11:34:43.665621+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

@@ -6,9 +6,9 @@
     "revision_id": "625a4a2b78a638d294473",
     "content_hash": "1dbfb4ec6d94acf61c72057d5e8b3504cef3be2de736fee3c8296d996c4c71ec",
     "server_modified": "2024-10-29 21:54:55",
-    "last_sync": "2024-11-19 21:16:36.011502",
+    "last_sync": "2024-11-26 15:38:45.216796",
     "size": 8919,
-    "meta_text": "('-1764)', 'rtf')",
+    "meta_text": "-1764)",
     "cat_ref": "S06560E",
     "work_ref": "W.S06560E",
     "title_tib": "LHO BRAG SRAS MKHAR DGU THOG LA DAR SHAM PHUL BA'I DKAR CHAG",
@@ -31,7 +31,7 @@
     "author": [
         {
             "author_name": "KLONG RDOL BLA MA NGAG DBANG BLO BZANG",
-            "author_birth": null,
+            "author_birth": "1719",
             "author_death": "1764",
             "bdrc_id": "bdr:P22",
             "normalized_name": "KLONG RDOL BLA MA NGAG DBANG BLO BZANG",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RNAM THAR_BIOGRAPHIES/SPYI_GENERAL PRESENTATIONS",
-            "timestamp": "2024-11-20 05:16:36.734753+00:00"
+            "timestamp": "2024-11-26 23:38:45.589681+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:16:36.734753+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:38:45.589681+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

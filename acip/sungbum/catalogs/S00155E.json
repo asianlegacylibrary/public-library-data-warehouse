@@ -6,9 +6,9 @@
     "revision_id": "625a4944b9d5f8d294473",
     "content_hash": "8d7f24b87a7b4c258a39777b85646a3c6a87b44242ae918aa65d48f972553c5c",
     "server_modified": "2024-10-29 21:50:53",
-    "last_sync": "2024-11-19 21:06:46.577490",
+    "last_sync": "2024-11-26 15:31:58.555850",
     "size": 7275,
-    "meta_text": "('14)', 'rtf')",
+    "meta_text": "14)",
     "cat_ref": "S00155E",
     "work_ref": "W.S00155E",
     "title_tib": "DPAL GSANG BA 'DUS PA'I BLA RGYUD GSOL 'DEBS BYIN RLABS CHAR 'BEBS",
@@ -31,8 +31,8 @@
     "author": [
         {
             "author_name": "LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN",
-            "author_birth": null,
-            "author_death": null,
+            "author_birth": "1642",
+            "author_death": "1714",
             "bdrc_id": "bdr:P209",
             "normalized_name": "LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN",
             "bdrc_url": "http://purl.bdrc.io/resource/P209"
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/BLA BRGYUD_LINEAGE LAMAS",
-            "timestamp": "2024-11-20 05:06:47.220241+00:00"
+            "timestamp": "2024-11-26 23:31:58.965823+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:06:47.220241+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:31:58.965823+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

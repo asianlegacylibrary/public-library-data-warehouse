@@ -1,53 +1,47 @@
 {
     "name": "TD04009_'PHAGS PA DKON MCHOG BRTZEGS PA CHEN PO CHOS KYI RNAM GRANGS LE'U STONG PHRAG BRGYA PA LAS 'OD SRUNGS KYI LE'U RGYA CHER 'GREL PA (Ārya Mahāratnakūta Dharmaparyāya Śatasāhasrikā Kāśyapa Parivarta Ṭīkā).txt",
-    "path": "05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 4 (JI)",
+    "path": "BSTAN 'GYUR_Tengyur/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 4 (JI)",
     "download_path": "/tengyur updated 10 31 24 ws/05 mdo 'grel_commentaries to sutras (sūtra vṛtti)/vol 4 (ji)/td04009_'phags pa dkon mchog brtzegs pa chen po chos kyi rnam grangs le'u stong phrag brgya pa las 'od srungs kyi le'u rgya cher 'grel pa (ārya mahāratnakūta dharmaparyāya śatasāhasrikā kāśyapa parivarta ṭīkā).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB1qw",
     "revision_id": "62633b3718d788d294473",
     "content_hash": "faf0e22acf0cf8269ff583414d8b81e26e7323bcf08a5b537a18f6f36d8842db",
     "server_modified": "2024-11-06 00:35:56",
-    "last_sync": "2024-11-20 03:58:06.727981",
+    "last_sync": "2024-12-03 11:31:53.085692+00:00",
     "size": 329205,
-    "meta_text": null,
     "cat_ref": "TD04009",
     "work_ref": "W.TD04009",
-    "title_tib": "",
+    "title_tib": "'PHAGS PA DKON MCHOG BRTZEGS PA CHEN PO CHOS KYI RNAM GRANGS LE'U STONG PHRAG BRGYA PA LAS 'OD SRUNGS KYI LE'U RGYA CHER 'GREL PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "164592281565",
             "subject_path": "BSTAN 'GYUR_Tengyur/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 4 (JI)",
-            "subject_path_tibetan": "BSTAN 'GYUR/05 MDO 'GREL/VOL 4 (JI)",
-            "subject_path_english": "Tengyur/Commentaries to Sutras (Sūtra Vṛtti)",
-            "subject_tibetan": "VOL 4 (JI)",
-            "subject_english": "Commentaries to Sutras (Sūtra Vṛtti)"
+            "subject_path_tibetan": "BSTAN 'GYUR/MDO 'GREL/4 (JI)",
+            "subject_path_english": "Tengyur/Commentaries to Sutras (Sūtra Vṛtti)/VOL 4 (JI)",
+            "subject_tibetan": "4 (JI)",
+            "subject_english": "VOL 4 (JI)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 4 (JI)",
-            "timestamp": "2024-11-20 11:58:06.730071+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Ārya Mahāratnakūta Dharmaparyāya Śatasāhasrikā Kāśyapa Parivarta Ṭīkā",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:58:06.730071+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:31:53.087888+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/05 MDO 'GREL_Commentaries to Sutras (Sūtra Vṛtti)/VOL 4 (JI)",
+            "timestamp": "2024-12-03 11:31:53.087888+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

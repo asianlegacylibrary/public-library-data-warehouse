@@ -6,7 +6,7 @@
     "revision_id": "625a47c04d1c58d294473",
     "content_hash": "94dd3d9411e66eee89c98f3916af1f76f39336eb28bb5be4a7a2f6740d92ea48",
     "server_modified": "2024-10-29 21:44:05",
-    "last_sync": "2024-11-19 20:49:46.569789",
+    "last_sync": "2024-11-26 15:20:23.033709",
     "size": 1500,
     "meta_text": null,
     "cat_ref": "S05275M95",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/BSTOD PA_EULOGIES (STOTRA)/HOR RGYAL BU_PRINCE OF THE MONGOLS",
-            "timestamp": "2024-11-20 04:49:46.574620+00:00"
+            "timestamp": "2024-11-26 23:20:23.039135+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:49:46.574620+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:20:23.039135+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

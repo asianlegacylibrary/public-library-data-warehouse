@@ -6,13 +6,13 @@
     "revision_id": "625a4771e57d48d294473",
     "content_hash": "a12cdee4dff1922e28fd15bf876eb358442d7d7e48fcc1253697fd6b4a8f4b63",
     "server_modified": "2024-10-29 21:42:43",
-    "last_sync": "2024-11-19 20:46:29.901146",
+    "last_sync": "2024-11-26 15:18:05.139771",
     "size": 74568,
-    "meta_text": "('e of the Land of Snows entitled the ‘Thirty Verses’ and the ‘Application of Sign Letters’_DNGUL CHU DHARMA BHADRA (1772-1851)', 'rtf')",
+    "meta_text": "e of the Land of Snows entitled the ‘Thirty Verses’ and the ‘Application of Sign Letters’_DNGUL CHU DHARMA BHADRA (1772-1851)",
     "cat_ref": "S06388M",
     "work_ref": "W.S06388M",
     "title_tib": "YUL GANGS CAN GYI SKAD KYI BRDA SPROD PA'I BSTAN BCOS SU SUM CU PA DANG RTAGS KYI 'JUG PA'I RNAM BSHAD MKHAS MCHOG SI TU'I ZHAL LUNG",
-    "title_eng": "The 'Word of the Supreme Scholar Situ,' being an Explanation of the Two Grammatical Treatises of the Languag('e of the Land of Snows entitled the ‘Thirty Verses’ and the ‘Application of Sign Letters’",
+    "title_eng": "The 'Word of the Supreme Scholar Situ,' being an Explanation of the Two Grammatical Treatises of the Language of the Land of Snows entitled the ‘Thirty Verses’ and the ‘Application of Sign Letters’",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/GSUM RTAGS_GRAMMAR",
-            "timestamp": "2024-11-20 04:46:30.674057+00:00"
+            "timestamp": "2024-11-26 23:18:05.611001+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:46:30.674057+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:18:05.611001+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

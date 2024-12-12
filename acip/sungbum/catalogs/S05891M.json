@@ -6,7 +6,7 @@
     "revision_id": "625a4a9967eb58d294473",
     "content_hash": "53fd111a74822274798a63a3105c775ce37e1666357a22570caaca7e45ece1c3",
     "server_modified": "2024-10-29 21:56:50",
-    "last_sync": "2024-11-19 21:20:07.377451",
+    "last_sync": "2024-11-26 15:41:14.317713",
     "size": 12154,
     "meta_text": null,
     "cat_ref": "S05891M",
@@ -46,23 +46,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BSLAB BYA_PERSONAL ADVICES/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
-            "timestamp": "2024-11-20 05:20:08.877235+00:00"
+            "timestamp": "2024-11-26 23:41:15.242972+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BLA MA'I RNAL 'BYOR_PRACTICES FOR HONORING ONES LAMA/PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
-            "timestamp": "2024-11-20 05:21:47.698550+00:00"
+            "timestamp": "2024-11-26 23:42:25.976888+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:20:08.877235+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:41:15.242972+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:21:47.698550+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:42:25.976888+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

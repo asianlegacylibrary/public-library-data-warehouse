@@ -6,13 +6,13 @@
     "revision_id": "625a4a765439b8d294473",
     "content_hash": "f8a682dda2f088fc69cf543739f3cb098f9e1c233dbe6b1be5b75ca0d122cc22",
     "server_modified": "2024-10-29 21:56:13",
-    "last_sync": "2024-11-19 21:18:39.266594",
+    "last_sync": "2024-11-26 15:40:10.349337",
     "size": 116417,
-    "meta_text": "('mond, the Good and Glorious Pabongka, Granted Profound Teachings upon ‘The Three Principal Paths’_SKYABS RJE PHA BONG KHA PA BDE CHEN SNYING PO (1878-1941)', 'rtf')",
+    "meta_text": "mond, the Good and Glorious Pabongka, Granted Profound Teachings upon ‘The Three Principal Paths’_SKYABS RJE PHA BONG KHA PA BDE CHEN SNYING PO (1878-1941)",
     "cat_ref": "S00034N",
     "work_ref": "W.S00034N",
     "title_tib": "RDO RJE 'CHANG PHA BONG KHA PA DPAL BZANG POS LAM GTZO'I ZAB KHRID STZAL SKABS KYI GSUNG BSHAD ZIN BRIS LAM BZANG SGO 'BYED",
-    "title_eng": "The 'Key that Opens the Door to the Excellent Path,' being Notes of an Explanation Granted when the Holder of the Dia('mond, the Good and Glorious Pabongka, Granted Profound Teachings upon ‘The Three Principal Paths’",
+    "title_eng": "The 'Key that Opens the Door to the Excellent Path,' being Notes of an Explanation Granted when the Holder of the Diamond, the Good and Glorious Pabongka, Granted Profound Teachings upon ‘The Three Principal Paths’",
     "source": "Asian Classics Input Project",
     "collection": "Sungbum",
     "language": "bo",
@@ -41,13 +41,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/LAM RIM_STEPS OF THE PATH/LAM GTZO RNAM GSUM_THE THREE PRINCIPAL PATHS/'GREL PA_COMMENTARIES",
-            "timestamp": "2024-11-20 05:18:39.275963+00:00"
+            "timestamp": "2024-11-26 23:40:10.364371+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:18:39.275963+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:40:10.364371+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

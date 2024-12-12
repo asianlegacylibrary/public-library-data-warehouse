@@ -1,53 +1,47 @@
 {
     "name": "TD03945_LAS DANG PO BA'I SA SBYANG BA (Ādikarmika Bhūmipariṣkāra).txt",
-    "path": "04 DBU MA_Middle Way School (Madhyamaka)/VOL 16 (KHI)",
+    "path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 16 (KHI)",
     "download_path": "/tengyur updated 10 31 24 ws/04 dbu ma_middle way school (madhyamaka)/vol 16 (khi)/td03945_las dang po ba'i sa sbyang ba (ādikarmika bhūmipariṣkāra).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB23Q",
     "revision_id": "62633bab62e388d294473",
     "content_hash": "5c3919baa59ce4cdea55d5c8eef154c4dd900f3047be567461c0ba392e21d8bc",
     "server_modified": "2024-11-06 00:37:57",
-    "last_sync": "2024-11-20 03:58:54.562004",
+    "last_sync": "2024-12-03 11:32:36.908163+00:00",
     "size": 7076,
-    "meta_text": null,
     "cat_ref": "TD03945",
     "work_ref": "W.TD03945",
-    "title_tib": "",
+    "title_tib": "LAS DANG PO BA'I SA SBYANG BA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "160150475375",
             "subject_path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 16 (KHI)",
-            "subject_path_tibetan": "BSTAN 'GYUR/04 DBU MA/VOL 16 (KHI)",
-            "subject_path_english": "Tengyur/Middle Way School (Madhyamaka)",
-            "subject_tibetan": "VOL 16 (KHI)",
-            "subject_english": "Middle Way School (Madhyamaka)"
+            "subject_path_tibetan": "BSTAN 'GYUR/DBU MA/16 (KHI)",
+            "subject_path_english": "Tengyur/Middle Way School (Madhyamaka)/VOL 16 (KHI)",
+            "subject_tibetan": "16 (KHI)",
+            "subject_english": "VOL 16 (KHI)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 16 (KHI)",
-            "timestamp": "2024-11-20 11:58:54.584462+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Ādikarmika Bhūmipariṣkāra",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:58:54.584462+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:32:36.910693+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/04 DBU MA_Middle Way School (Madhyamaka)/VOL 16 (KHI)",
+            "timestamp": "2024-12-03 11:32:36.910693+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

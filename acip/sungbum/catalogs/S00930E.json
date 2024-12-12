@@ -6,7 +6,7 @@
     "revision_id": "625a4ab25bd5b8d294473",
     "content_hash": "6b122c0bc2e2f67a13928c25c8f1e8f6d720b4c62338ac957ef41dacb001e0a8",
     "server_modified": "2024-10-29 21:57:16",
-    "last_sync": "2024-11-19 21:21:25.632403",
+    "last_sync": "2024-11-26 15:42:12.099915",
     "size": 23092,
     "meta_text": null,
     "cat_ref": "S00930E",
@@ -41,23 +41,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BLA MA'I RNAL 'BYOR_PRACTICES FOR HONORING ONES LAMA/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)/DGA' LDAN LHA BRGYA MA_THOUSAND ANGELS OF THE HEAVEN OF BLISS",
-            "timestamp": "2024-11-20 05:21:28.037412+00:00"
+            "timestamp": "2024-11-26 23:42:14.117533+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/BLA MA'I RNAL 'BYOR_PRACTICES FOR HONORING ONES LAMA/RJE TZONG KHA PA BLO BZANG GRAGS PA_JE TSONGKAPA LOBSANG DRAKPA (1357-1419)/DGA' LDAN LHA BRGYA MA_THOUSAND ANGELS OF THE HEAVEN OF BLISS",
-            "timestamp": "2024-11-20 05:21:39.355665+00:00"
+            "timestamp": "2024-11-26 23:42:20.556868+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:21:28.037412+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:42:14.117533+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:21:39.355665+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:42:20.556868+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

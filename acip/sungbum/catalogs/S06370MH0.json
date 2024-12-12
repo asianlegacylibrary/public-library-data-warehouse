@@ -6,9 +6,9 @@
     "revision_id": "625a47e4fe1de8d294473",
     "content_hash": "39dc0807d8681f45a27642f72e6064e888547bf1e05b784de7735b05835b24de",
     "server_modified": "2024-10-29 21:44:44",
-    "last_sync": "2024-11-19 20:51:48.066090",
+    "last_sync": "2024-11-26 15:21:38.195118",
     "size": 962,
-    "meta_text": "('U DHARMA BHADRA (1772-1851)', 'rtf')",
+    "meta_text": "U DHARMA BHADRA (1772-1851)",
     "cat_ref": "S06370MH0",
     "work_ref": "W.S06370MH0",
     "title_tib": "MI TSANGS SPYOD KYI PHAM PA DANG, LTOS PA'I RIG PA SOGS BZHI'I SKOR GYI DRI LAN",
@@ -57,33 +57,33 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 04:51:50.926231+00:00"
+            "timestamp": "2024-11-26 23:21:40.584689+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 04:54:07.132478+00:00"
+            "timestamp": "2024-11-26 23:23:11.585137+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
-            "timestamp": "2024-11-20 05:13:38.742779+00:00"
+            "timestamp": "2024-11-26 23:36:42.774103+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T04:51:50.926231+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:21:40.584689+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T04:54:07.132478+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:23:11.585137+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         },
         {
-            "timestamp": "2024-11-20T05:13:38.742779+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:36:42.774103+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }

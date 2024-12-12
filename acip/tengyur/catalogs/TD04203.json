@@ -1,53 +1,47 @@
 {
     "name": "TD04203_TSAD MA KUN LAS BTUS PA ZHES BYA BA'I RAB TU BYED PA (Pramāṇa Samuccaya Nāma Prakaraṇa).txt",
-    "path": "11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 1 (CE)",
+    "path": "BSTAN 'GYUR_Tengyur/11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 1 (CE)",
     "download_path": "/tengyur updated 10 31 24 ws/11 tsad ma_logic & perceptual theory (pramāṇa)/vol 1 (ce)/td04203_tsad ma kun las btus pa zhes bya ba'i rab tu byed pa (pramāṇa samuccaya nāma prakaraṇa).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB2Rw",
     "revision_id": "62633b676a5ee8d294473",
     "content_hash": "ea3c67a1f7432e6d15b8facbd81e14cb0228feac11ffc382014bc6c856ef9cc5",
     "server_modified": "2024-11-06 00:36:46",
-    "last_sync": "2024-11-20 03:58:25.764264",
+    "last_sync": "2024-12-03 11:32:09.990611+00:00",
     "size": 40036,
-    "meta_text": null,
     "cat_ref": "TD04203",
     "work_ref": "W.TD04203",
-    "title_tib": "",
+    "title_tib": "TSAD MA KUN LAS BTUS PA ZHES BYA BA'I RAB TU BYED PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "252070677705",
             "subject_path": "BSTAN 'GYUR_Tengyur/11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 1 (CE)",
-            "subject_path_tibetan": "BSTAN 'GYUR/11 TSAD MA/VOL 1 (CE)",
-            "subject_path_english": "Tengyur/Logic & Perceptual Theory (Pramāṇa)",
-            "subject_tibetan": "VOL 1 (CE)",
-            "subject_english": "Logic & Perceptual Theory (Pramāṇa)"
+            "subject_path_tibetan": "BSTAN 'GYUR/TSAD MA/1 (CE)",
+            "subject_path_english": "Tengyur/Logic & Perceptual Theory (Pramāṇa)/VOL 1 (CE)",
+            "subject_tibetan": "1 (CE)",
+            "subject_english": "VOL 1 (CE)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 1 (CE)",
-            "timestamp": "2024-11-20 11:58:25.790915+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Pramāṇa Samuccaya Nāma Prakaraṇa",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:58:25.790915+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:32:09.992054+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/11 TSAD MA_Logic & Perceptual Theory (Pramāṇa)/VOL 1 (CE)",
+            "timestamp": "2024-12-03 11:32:09.992054+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

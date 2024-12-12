@@ -6,7 +6,7 @@
     "revision_id": "625a4ae82a0498d294473",
     "content_hash": "6321dc77693abfccb28c510ef2dfeae3cf06cdcc5bbac6d11da3cf89cc339851",
     "server_modified": "2024-10-29 21:58:12",
-    "last_sync": "2024-11-19 21:24:57.048109",
+    "last_sync": "2024-11-26 15:44:25.824929",
     "size": 10764,
     "meta_text": null,
     "cat_ref": "S00376M",
@@ -38,13 +38,13 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/BLO SBYONG_DEVELOPING THE GOOD HEART/BLO SBYONG GYER SGOM RDO RJE'I GLU DBYANGS_THE SONG OF GYERGOM DORJE, A PRACTICE OF THE GOOD HEART",
-            "timestamp": "2024-11-20 05:24:57.052783+00:00"
+            "timestamp": "2024-11-26 23:44:25.831366+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:24:57.052783+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:44:25.831366+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         }

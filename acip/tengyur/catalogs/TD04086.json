@@ -1,53 +1,47 @@
 {
     "name": "TD04086_'JIG RTEN GZHAGS PA (Loka Prajñāpti).txt",
-    "path": "07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 1 (AI)",
+    "path": "BSTAN 'GYUR_Tengyur/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 1 (AI)",
     "download_path": "/tengyur updated 10 31 24 ws/07 mngon pa_higher knowledge school (abhidharma)/vol 1 (ai)/td04086_'jig rten gzhags pa (loka prajñāpti).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB2gg",
     "revision_id": "62633b843e7ff8d294473",
     "content_hash": "5ed4afb224b052f179c89e0a480ff5325fd2b8bc9d773c5812e83d274b9e7dd4",
     "server_modified": "2024-11-06 00:37:16",
-    "last_sync": "2024-11-20 03:58:36.978231",
+    "last_sync": "2024-12-03 11:32:20.408409+00:00",
     "size": 360965,
-    "meta_text": null,
     "cat_ref": "TD04086",
     "work_ref": "W.TD04086",
-    "title_tib": "",
+    "title_tib": "'JIG RTEN GZHAGS PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "936427889992",
             "subject_path": "BSTAN 'GYUR_Tengyur/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 1 (AI)",
-            "subject_path_tibetan": "BSTAN 'GYUR/07 MNGON PA/VOL 1 (AI)",
-            "subject_path_english": "Tengyur/Higher Knowledge School (Abhidharma)",
-            "subject_tibetan": "VOL 1 (AI)",
-            "subject_english": "Higher Knowledge School (Abhidharma)"
+            "subject_path_tibetan": "BSTAN 'GYUR/MNGON PA/1 (AI)",
+            "subject_path_english": "Tengyur/Higher Knowledge School (Abhidharma)/VOL 1 (AI)",
+            "subject_tibetan": "1 (AI)",
+            "subject_english": "VOL 1 (AI)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 1 (AI)",
-            "timestamp": "2024-11-20 11:58:36.981100+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Loka Prajñāpti",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:58:36.981100+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:32:20.409546+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/07 MNGON PA_Higher Knowledge School (Abhidharma)/VOL 1 (AI)",
+            "timestamp": "2024-12-03 11:32:20.409546+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

@@ -1,53 +1,47 @@
 {
     "name": "TD03383_RGYAL MTSAN RTZE MO'I DPUNG RGYAN GYI SGRUB THABS (Dhvajāgrakeyūrā Sādhana).txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/vol 76 (mu)/td03383_rgyal mtsan rtze mo'i dpung rgyan gyi sgrub thabs (dhvajāgrakeyūrā sādhana).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB_3Q",
     "revision_id": "62633d4baea2f8d294473",
     "content_hash": "6f91226a555c223e83b3f8506c57668aa9781055649e276b4fc5b9e3e558ade2",
     "server_modified": "2024-11-06 00:45:14",
-    "last_sync": "2024-11-20 04:00:45.089717",
+    "last_sync": "2024-12-03 11:34:07.466429+00:00",
     "size": 1008,
-    "meta_text": null,
     "cat_ref": "TD03383",
     "work_ref": "W.TD03383",
-    "title_tib": "",
+    "title_tib": "RGYAL MTSAN RTZE MO'I DPUNG RGYAN GYI SGRUB THABS",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "121782366104",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/VOL 76 (MU)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)",
-            "subject_tibetan": "VOL 76 (MU)",
-            "subject_english": "Diamond Way (Vajrayāna)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/76 (MU)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/VOL 76 (MU)",
+            "subject_tibetan": "76 (MU)",
+            "subject_english": "VOL 76 (MU)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
-            "timestamp": "2024-11-20 12:00:45.253535+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Dhvajāgrakeyūrā Sādhana",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:00:45.253535+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:34:07.478935+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/VOL 76 (MU)",
+            "timestamp": "2024-12-03 11:34:07.478935+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

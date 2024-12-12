@@ -1,53 +1,47 @@
 {
     "name": "TD04049_CHOS MNGON PA KUN LAS BTUS PA (Abhidharma Samuccaya).txt",
-    "path": "06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 12 (RI)",
+    "path": "BSTAN 'GYUR_Tengyur/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 12 (RI)",
     "download_path": "/tengyur updated 10 31 24 ws/06 sems tzam_mind only school (cittamātra)/vol 12 (ri)/td04049_chos mngon pa kun las btus pa (abhidharma samuccaya).txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAACDeQ",
     "revision_id": "62633ddeea9b28d294473",
     "content_hash": "9d7101523f38c42e706b2e957bde0fbb9f648c92f15257430a7177888c3a45f6",
     "server_modified": "2024-11-06 00:47:48",
-    "last_sync": "2024-11-20 04:01:06.755534",
+    "last_sync": "2024-12-03 11:34:24.722862+00:00",
     "size": 285655,
-    "meta_text": null,
     "cat_ref": "TD04049",
     "work_ref": "W.TD04049",
-    "title_tib": "",
+    "title_tib": "CHOS MNGON PA KUN LAS BTUS PA",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "239874257540",
             "subject_path": "BSTAN 'GYUR_Tengyur/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 12 (RI)",
-            "subject_path_tibetan": "BSTAN 'GYUR/06 SEMS TZAM/VOL 12 (RI)",
-            "subject_path_english": "Tengyur/Mind Only School (Cittamātra)",
-            "subject_tibetan": "VOL 12 (RI)",
-            "subject_english": "Mind Only School (Cittamātra)"
+            "subject_path_tibetan": "BSTAN 'GYUR/SEMS TZAM/12 (RI)",
+            "subject_path_english": "Tengyur/Mind Only School (Cittamātra)/VOL 12 (RI)",
+            "subject_tibetan": "12 (RI)",
+            "subject_english": "VOL 12 (RI)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 12 (RI)",
-            "timestamp": "2024-11-20 12:01:06.765123+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
+    "title_skt": "Abhidharma Samuccaya",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T12:01:06.765123+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:34:24.724157+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/06 SEMS TZAM_Mind Only School (Cittamātra)/VOL 12 (RI)",
+            "timestamp": "2024-12-03 11:34:24.724157+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

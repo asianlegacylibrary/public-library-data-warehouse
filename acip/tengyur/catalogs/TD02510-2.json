@@ -1,53 +1,46 @@
 {
     "name": "TD02510-2_DE BZHIN GSHEGS PA THAMS CAD KYI DE KHO NA NYID BSDUS PA THEG PA CHEN PO MNGON PAR RTOGS PA ZHES BYA BA'I RGYUD KYI BSHAD PA DE KHO NA NYID SNANG BAR BYED PA ZHES BYA BA (Sarva Tathāgata Tattva Saṃgraha Mahāyānābhisamaya Nāma Tantra+.txt",
-    "path": "02 RGYUD_Diamond Way (Vajrayāna)/02 RNAL 'BYOR RGYUD_Secret Class of Practice (Yoga Tantra)/01 DE NYID BSDUS PA_Collection of Suchness (Tattva Saṃgraha)/03 KUN DGA' SNYING PO'I LUGS_System of Anandagarbha (Ānandagarbha Krama)/VOL 57 (SHI)",
+    "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/02 RNAL 'BYOR RGYUD_Secret Class of Practice (Yoga Tantra)/01 DE NYID BSDUS PA_Collection of Suchness (Tattva Saṃgraha)/03 KUN DGA' SNYING PO'I LUGS_System of Anandagarbha (Ānandagarbha Krama)/VOL 57 (SHI)",
     "download_path": "/tengyur updated 10 31 24 ws/02 rgyud_diamond way (vajrayāna)/02 rnal 'byor rgyud_secret class of practice (yoga tantra)/01 de nyid bsdus pa_collection of suchness (tattva saṃgraha)/03 kun dga' snying po'i lugs_system of anandagarbha (ānandagarbha krama)/vol 57 (shi)/td02510-2_de bzhin gshegs pa thams cad kyi de kho na nyid bsdus pa theg pa chen po mngon par rtogs pa zhes bya ba'i rgyud kyi bshad pa de kho na nyid snang bar byed pa zhes bya ba (sarva tathāgata tattva saṃgraha mahāyānābhisamaya nāma tantra+.txt",
     "file_id": "id:Ct2f7NF5r8EAAAAAAAB4TQ",
     "revision_id": "62633bf7e968c8d294473",
     "content_hash": "c529c95bc85083c44cce70ed1db1bc6759e040b7654f76b0d4ae70f786986a85",
     "server_modified": "2024-11-06 00:39:18",
-    "last_sync": "2024-11-20 03:59:22.430992",
+    "last_sync": "2024-12-03 11:32:56.456355+00:00",
     "size": 1262823,
-    "meta_text": null,
     "cat_ref": "TD02510-2",
     "work_ref": "W.TD02510-2",
-    "title_tib": "",
+    "title_tib": "DE BZHIN GSHEGS PA THAMS CAD KYI DE KHO NA NYID BSDUS PA THEG PA CHEN PO MNGON PAR RTOGS PA ZHES BYA BA'I RGYUD KYI BSHAD PA DE KHO NA NYID SNANG BAR BYED PA ZHES BYA BA (Sarva Tathāgata Tattva Saṃgraha Mahāyānābhisamaya Nāma Tantra+",
     "title_eng": "",
-    "source": "Asian Classics Input Project",
-    "collection": "Tengyur",
-    "language": "bo",
-    "author_simple": "",
     "subject": [
         {
             "_id": "239503004168",
             "subject_path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/02 RNAL 'BYOR RGYUD_Secret Class of Practice (Yoga Tantra)/01 DE NYID BSDUS PA_Collection of Suchness (Tattva Saṃgraha)/03 KUN DGA' SNYING PO'I LUGS_System of Anandagarbha (Ānandagarbha Krama)/VOL 57 (SHI)",
-            "subject_path_tibetan": "BSTAN 'GYUR/02 RGYUD/02 RNAL 'BYOR RGYUD/01 DE NYID BSDUS PA/03 KUN DGA' SNYING PO'I LUGS/VOL 57 (SHI)",
-            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Secret Class of Practice (Yoga Tantra)/Collection of Suchness (Tattva Saṃgraha)/System of Anandagarbha (Ānandagarbha Krama)",
-            "subject_tibetan": "VOL 57 (SHI)",
-            "subject_english": "System of Anandagarbha (Ānandagarbha Krama)"
+            "subject_path_tibetan": "BSTAN 'GYUR/RGYUD/RNAL 'BYOR RGYUD/DE NYID BSDUS PA/KUN DGA' SNYING PO'I LUGS/57 (SHI)",
+            "subject_path_english": "Tengyur/Diamond Way (Vajrayāna)/Secret Class of Practice (Yoga Tantra)/Collection of Suchness (Tattva Saṃgraha)/System of Anandagarbha (Ānandagarbha Krama)/VOL 57 (SHI)",
+            "subject_tibetan": "57 (SHI)",
+            "subject_english": "VOL 57 (SHI)"
         }
     ],
     "items": [],
-    "author": [
-        {
-            "author_name": "",
-            "author_birth": null,
-            "author_death": null
-        }
-    ],
-    "path_history": [
-        {
-            "path": "BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/02 RNAL 'BYOR RGYUD_Secret Class of Practice (Yoga Tantra)/01 DE NYID BSDUS PA_Collection of Suchness (Tattva Saṃgraha)/03 KUN DGA' SNYING PO'I LUGS_System of Anandagarbha (Ānandagarbha Krama)/VOL 57 (SHI)",
-            "timestamp": "2024-11-20 11:59:22.433495+00:00"
-        }
-    ],
+    "source": "Asian Classics Input Project",
+    "collection": "Tengyur",
     "processing_history": [
         {
-            "timestamp": "2024-11-20T11:59:22.433495+00:00",
-            "run_id": 1025,
+            "timestamp": "2024-12-03T11:32:56.457108+00:00",
+            "run_id": 1085,
             "processor": "dropbox_sync",
             "action": "created"
         }
     ],
+    "updated": true,
+    "update_reason": "new file",
+    "path_history": [
+        {
+            "path": "BSTAN 'GYUR_Tengyur/BSTAN 'GYUR_Tengyur/02 RGYUD_Diamond Way (Vajrayāna)/02 RNAL 'BYOR RGYUD_Secret Class of Practice (Yoga Tantra)/01 DE NYID BSDUS PA_Collection of Suchness (Tattva Saṃgraha)/03 KUN DGA' SNYING PO'I LUGS_System of Anandagarbha (Ānandagarbha Krama)/VOL 57 (SHI)",
+            "timestamp": "2024-12-03 11:32:56.457108+00:00"
+        }
+    ],
+    "author": [],
     "content_type": "text"
 }

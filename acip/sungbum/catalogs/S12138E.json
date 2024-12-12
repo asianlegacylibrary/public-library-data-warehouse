@@ -6,9 +6,9 @@
     "revision_id": "625a4aaa0f1008d294473",
     "content_hash": "06437154ef3d5dc946edc2724fc2cad8ec44662064d99e44aea5fcdcaff30423",
     "server_modified": "2024-10-29 21:57:07",
-    "last_sync": "2024-11-19 21:20:54.281494",
+    "last_sync": "2024-11-26 15:41:49.517740",
     "size": 2612,
-    "meta_text": "('G DBANG DPAL LDAN (1806-@)', 'rtf')",
+    "meta_text": "G DBANG DPAL LDAN (1806-@)",
     "cat_ref": "S12138E",
     "work_ref": "W.S12138E",
     "title_tib": "RJE BTZUN 'JAM DPAL DBYANGS LA SHES RAB KYI DNGOS GRUB STZOL BA'I DON DU GSOL BA BTAB PA'I TSIGS BCAD",
@@ -41,23 +41,23 @@
     "path_history": [
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/GSOL 'DEBS_PRAYERS OF SUPPLICATION/CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN _CHUJE KELKA NGAWANG PELDEN (1806-?)",
-            "timestamp": "2024-11-20 05:20:54.979735+00:00"
+            "timestamp": "2024-11-26 23:41:49.911560+00:00"
         },
         {
             "path": "GSUNG 'BUM_Sungbum/NYAMS LEN_PERSONAL PRACTICE/GSOL 'DEBS_PRAYERS OF SUPPLICATION/CHOS RJE KHAL KHA NGAG DBANG DPAL LDAN _CHUJE KELKA NGAWANG PELDEN (1806-?)",
-            "timestamp": "2024-11-20 05:21:15.477796+00:00"
+            "timestamp": "2024-11-26 23:42:04.601567+00:00"
         }
     ],
     "processing_history": [
         {
-            "timestamp": "2024-11-20T05:20:54.979735+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:41:49.911560+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "created"
         },
         {
-            "timestamp": "2024-11-20T05:21:15.477796+00:00",
-            "run_id": 1024,
+            "timestamp": "2024-11-26T23:42:04.601567+00:00",
+            "run_id": 1061,
             "processor": "dropbox_sync",
             "action": "updated"
         }
