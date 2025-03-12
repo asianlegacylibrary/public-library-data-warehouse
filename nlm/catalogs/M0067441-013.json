@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0067441-013",
+    "input_file_number": "W1NLM9523-I1NLM9523",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "NO TITLE [@005A *, ,GNYIS 'BYUNG GNAS RIN PO CHE, ,BSHES GNYEN STON PA'I ZHABS LA GSOL SKAL BA DU MAR TSOGS GNYIS GOMS PA'I MTHUS, ,GNAS GSUM DON LA MKHYEN PA'I DKYIL 'KHOR RGYAS, ,AA TI SHA YI SRAS KYI THU BO PA,]",
+    "colophon_(төгсгөлийн_үг)": "@008A *, ,(CES RGYAL BA THAMS CAD KYI MKHYEN BRTZE GCIG TU BSDUS PA'I NGO BO, LNGA BRGYA BA RNAMS KYI GTZUG GI NOR BU DPAL LDAN BLA MA DAM PA RJE BTZAN BTZONG KHA PA CHEN PO NYID KYI RNAM PAR THAR PA MDO TZAM ZHIG BRJOD PA'I SGO NAS GSOL BA 'DEBS PA'I TSIGS SU BCAD PA 'DI NI, LNGA GONG NAS DGE SPYOD SDOM BRTZON MCHOG BZANG PA LA SOGS PA MANG PO ZHIG GIS NAN BRJOD PA ZHIG GYIS ZHES GSANG BA DANG BDAG NYED MCHOG TU DAD PAS KYANG NYE BAR BSKUL TE, RJE BTZUN BLA MA DE NYID ZHABS KYI @008B PADMO LA NYE BAR GDUGS PA'I DKA' DRIN GYIS 'TSO, ,MANG DU THOS PA'I BTZUN PA DGE LEGS DPAL BZANG POS SBYAR BA PHYOGS DUS THAMS CAD DU BKRA SHIS PAR GYUR CIG , ,,)",
+    "author_simple": "DGE LEGS DPAL BZANG,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "5A-8B INC [* Missing page from 1A-4B *]",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "31.5x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "35x8.5",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2025-03-12T00:05:30.007602+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

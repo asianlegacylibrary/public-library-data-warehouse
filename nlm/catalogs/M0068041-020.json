@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0068041-020",
+    "input_file_number": "W1NLM10123-I1NLM10123",
+    "language(s)_of_the_main_text_(үндсэн_хэл)": "Tibetan",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,RGYAL MTSAN RTZE MO'I DPUNG RGYAN LA ZAS MCHOG 'BUL BA'I CHO GA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@008A *, ,(CES RGYAL MTSAN RTZE MO'I DPUNG RGYAN LA ZAS MCHOG 'BUL BA'I CHO GA 'DI NI, BSTAN SRID TSUL BZHIN DU SKYONG BA'I MI DBANG CHEN PO'I THUGS BZHED PA LTAR, ,^ SPRANG BTZUN WAG'INDRAS SBYAR BA'O,, ,,)",
+    "author_simple": "WAG'INDRA,",
+    "cover_type_(хавтасны_төрөл)": "N/a",
+    "condition_of_book_(номын_төлөв_байдал)": "Good",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "Good",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "5B-8A",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "30x9",
+    "size_of_pages_(хуудасны_хэмжээ)": "35x11",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2025-03-11T23:22:42.485988+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}
