@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0067956-026",
+    "input_file_number": "W1NLM10038-I1NLM10038",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,'PHAGS PA CHOS BZHI BSTAN PA ZHES BYA BA THEG PA CHEN PO'I MDO BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@004A *, ,RGYA GAR @004B GYI MKHAN PO SU REN DRA BO DHI DANG, ZHU CHEN GYI LO TZTSA BA BANDE YE SHES SDES BSGYUR CING ZHUS TE GTAN LA PHAB PA,, ,,",
+    "author_simple": "SH'AKYA THUB PA, ",
+    "translator_(орчуулагч)": "SU REND DRA BO DHI, BAN DE YE SHES SDE,",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "GOOD",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-4B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "15x6",
+    "size_of_pages_(хуудасны_хэмжээ)": "22x9",
+    "text_format_(бичвэрийн_төлөв)": "MS",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2025-03-11T23:22:32.332150+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}

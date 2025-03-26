@@ -1,0 +1,25 @@
+{
+    "nlm_catalog": "M0067958-001",
+    "input_file_number": "W1NLM10040-I1NLM10040",
+    "other_language(s)_in_the_main_text_(бусад_оролцсон_хэл)": "N",
+    "full_title_(бүтэн_гарчиг)": "*, ,GSER 'OD GA-YANG SKYABS ZHES BYA BA BZHUGS SO, ,",
+    "colophon_(төгсгөлийн_үг)": "@025B ('DI YANG, CHOS SDE CHEN PO SKU 'BUM BYAMS PA GLING DU PAR DU BSGRUBS PA'I DGE BAS MTHU LA BRTEN NAS SRID ZHI'I DBUL PHONGS MA LUS ZHI BA'I RGYUR GYUR CIG , ,,SARBA MANGGA LAm,)",
+    "author_simple": "SH'AKYA THUB PA, ",
+    "cover_type_(хавтасны_төрөл)": "N/A",
+    "condition_of_book_(номын_төлөв_байдал)": "GOOD",
+    "readability_of_book_(уншигдах_гаргацны_тухай)": "MEDIUM",
+    "volume_(боть)": "N",
+    "page_numbers_(хуудасны_дугаар)": "1A-25B",
+    "size_of_printed_area_(дотоод_бичвэрийн_хэмжээ)": "22.5x5.5",
+    "size_of_pages_(хуудасны_хэмжээ)": "26x8.5",
+    "text_format_(бичвэрийн_төлөв)": "XYL",
+    "publisher_(хэвлэсэн_буюу_бүтээсэн_хийд_буюу_бархан)": "SKU 'BUM BYAMS PA GLING ,",
+    "source": "National Library of Mongolia",
+    "processing_history": [
+        {
+            "timestamp": "2025-03-11T23:22:32.336048+00:00",
+            "processor": "MongoliaCatalogProcessor",
+            "action": "created"
+        }
+    ]
+}
